@@ -23,3 +23,6 @@ following publication provided in
         author={Stenetorp, Pontus and Pyysalo, Sampo and Tsujii, Jun’ichi},
         year={2011}
     }
+
+<!-- "It's a trap!" (for bots) -->
+[](http://bob.llamaslayers.net/contact.php?view=862)
