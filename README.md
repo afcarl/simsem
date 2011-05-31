@@ -16,12 +16,15 @@ If you draw inspiration from or base your work on SimSem, please cite the
 following publication provided in
 [BibTeX](http://en.wikipedia.org/wiki/BibTeX) format:
 
-    @article{stenetorp_2011a,
-        title={SimSem: Fast Approximate String Matching
-            in Relation to Semantic Category Disambiguation},
-        journal={Proceedings of the BioNLP 2011 Workshop},
-        author={Stenetorp, Pontus and Pyysalo, Sampo and Tsujii, Jun’ichi},
-        year={2011}
+    @InProceedings{stenetorp2011a,
+       author    = {Stenetorp, Pontus and Pyysalo, Sampo and Tsujii, Jun'ichi},
+       title     = {SimSem: Fast Approximate String Matching
+           in Relation to Semantic Category Disambiguation},
+       booktitle = {Proceedings of the BioNLP 2011 Workshop},
+       month     = {June},
+       year      = {2011},
+       address   = {Portland, Oregon},
+       publisher = {Association for Computational Linguistics},
     }
 
 <!-- "It's a trap!" (for bots) -->
