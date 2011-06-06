@@ -1,20 +1,14 @@
 # SimSem #
 
 SimSem is a tool for semantic disambiguation using approximate string matching
-and is distributed under the restrictions of the
-[ISC License](http://www.opensource.org/licenses/isc-license.txt).
+and is distributed under the restrictions of the [ISC License][iscl].
 To accomplish this SimSem uses large collections of strings such as
-dictionaries, [LibLinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/) as its
-machine-learning component and
-[SimString](http://www.chokkan.org/software/simstring/index.html.en) for fast
-approximate string matching. Please see the publication mentioned below for
-details.
-
-# Citing SimSem #
+dictionaries, [LibLinear][liblinear] as its machine-learning component and
+[SimString][simstring] for fast approximate string matching. Please see
+the publication mentioned below for details.
 
 If you draw inspiration from or base your work on SimSem, please cite the
-following publication provided in
-[BibTeX](http://en.wikipedia.org/wiki/BibTeX) format:
+below which is provided in [BibTeX][bibtex] format:
 
     @InProceedings{stenetorp2011a,
        author    = {Stenetorp, Pontus and Pyysalo, Sampo and Tsujii, Jun'ichi},
@@ -26,6 +20,12 @@ following publication provided in
        address   = {Portland, Oregon},
        publisher = {Association for Computational Linguistics},
     }
+
+<!-- Link collection -->
+[bibtex]: http://en.wikipedia.org/wiki/BibTeX "BibTeX Entry on Wikipedia"
+[iscl]: http://www.opensource.org/licenses/isc-license.txt "ISC License on opensource.org"
+[liblinear]: http://www.csie.ntu.edu.tw/~cjlin/liblinear/ "LibLinear Homepage"
+[simstring]: http://www.chokkan.org/software/simstring/index.html.en "SimString Homepage"
 
 <!-- "It's a trap!" (for bots) -->
 [](http://bob.llamaslayers.net/contact.php?view=862)
