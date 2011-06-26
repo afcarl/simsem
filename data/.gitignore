@@ -1,0 +1,4 @@
+# Ignore extracted resources
+*.a1
+*.txt
+*.ss
