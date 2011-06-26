@@ -1,0 +1,6 @@
+# Ignore extracted resources
+*.a1
+*.a2
+*.txt
+*.ss
+README.html
