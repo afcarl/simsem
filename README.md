@@ -10,15 +10,17 @@ the publication mentioned below for details.
 If you draw inspiration from or base your work on SimSem, please cite the
 below which is provided in [BibTeX][bibtex] format:
 
-    @InProceedings{stenetorp2011a,
-       author    = {Stenetorp, Pontus and Pyysalo, Sampo and Tsujii, Jun'ichi},
-       title     = {SimSem: Fast Approximate String Matching
-           in Relation to Semantic Category Disambiguation},
-       booktitle = {Proceedings of the BioNLP 2011 Workshop},
-       month     = {June},
-       year      = {2011},
-       address   = {Portland, Oregon},
-       publisher = {Association for Computational Linguistics},
+    @InProceedings{stenetorp2011simsem,
+      author    = {Stenetorp, Pontus and Pyysalo, Sampo and Tsujii, Jun'ichi},
+      title     = {SimSem: Fast Approximate String Matching 
+          in Relation to Semantic Category Disambiguation},
+      booktitle = {Proceedings of BioNLP 2011 Workshop},
+      month     = {June},
+      year      = {2011},
+      address   = {Portland, Oregon, USA},
+      publisher = {Association for Computational Linguistics},
+      pages     = {136--145},
+      url       = {http://www.aclweb.org/anthology/W11-0218}
     }
 
 <!-- Link collection -->
