@@ -1,0 +1,3 @@
+# We can't store this in the repo due to the sheer size of these things
+*.db
+*.cdb
