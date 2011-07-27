@@ -1,0 +1,6 @@
+# Files to be extracted from our resource archive
+*.tokens
+UMLS.ALL
+simsem_lexical_resources_*.tar.gz
+dict-species.tsv
+ChemlistV1_2.ontology
