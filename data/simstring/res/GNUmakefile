@@ -5,11 +5,13 @@
 # Author:	Pontus Stentorp	<pontus stenetorp se>
 # Version:	2011-07-25
 
-#TODO: Download the resource, also clean it
-
 SIMSTRING_BIN:=simstring
 DB_DIR:=../dbs
 DATA_DIR:=simsem_lexical_resources
+
+RES_ARCH=simsem_lexical_resources_2011-07-27T1054Z.tar.gz
+RES_URL_ONE=http://www-tsujii.is.s.u-tokyo.ac.jp/~pontus/share/simsem/
+RES_URL_TWO=http://udon.stacken.kth.se/~ninjin/share/simsem/
 
 DB_SUFF:=db
 # Additional "support" databases created by SimString
@@ -39,11 +41,17 @@ ${foreach TOKENISED_RESOURCE, \
 	${eval ${call resource-target, ${TOKENISED_RESOURCE}}} \
 }
 
+ext_res: ${RES_ARCH}
+
+${RES_ARCH}:
+	wget ${RES_URL_ONE}/${RES_ARCH} || wget ${RES_URL_TWO}/${RES_ARCH}
+	tar -x -z -m -f ${RES_ARCH}
+
 all: ${DB_TARGETS}
 
 clean:
 	find ${DB_DIR} -maxdepth 1 -name '*.${DB_SUFF}.*.${CDB_SUFF}' \
 		-o -name '*.${DB_SUFF}' | xargs -r rm
 
-.PHONY: all clean
+.PHONY: all clean ext_res
 .DEFAULT_GOAL:=all
