@@ -23,9 +23,9 @@ DB_TARGETS:=
 # Convert path to db-path, create a target for the db and register it globally
 define resource-target
 RES_PATH:=$1
-RES_FILE:=$${shell echo $${RES_PATH} | \
-	sed -e 's|^[./]\+||g' -e 's|/|.|g' -e 's|${DATA_DIR}\.||g'}
-DB_FILE:=$${addsuffix .${DB_SUFF}, $${RES_FILE}}
+DB_BASE:=$${shell echo $${RES_PATH} | \
+	sed -e 's|${DATA_DIR}/||g' -e 's|^[./]\+||g' -e 's|/|_|g' -e 's|\.|_|g'}
+DB_FILE:=$${addsuffix .${DB_SUFF}, $${DB_BASE}}
 DB_PATH:=$${addprefix ${DB_DIR}/, $${DB_FILE}}
 
 $${DB_PATH}: $${RES_PATH}
