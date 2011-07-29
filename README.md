@@ -25,6 +25,25 @@ below which is provided in [BibTeX][bibtex] format:
       url       = {http://www.aclweb.org/anthology/W11-0218}
     }
 
+## Experiments ##
+
+Clone this repository, then run the preparation script to download the lexical
+resources, create the databases,to do some code generation (ugly) and build
+external dependencies:
+
+    ./prepare.sh
+
+Experiments are then run using `test.py`, use the `-h` flag for more
+information. For example, to replicate the main experiment (and plots) from
+the BioNLP 2011 publication you would run.
+
+    mkdir bionlp_2011
+    ./test.py -v -r INTERNAL -c INTERNAL-SIMSTRING -c INTERNAL-GAZETTER \
+        -d BioNLP-ST-2011-Epi_and_PTM -d BioNLP-ST-2011-Infectious_Diseases \
+        -d BioNLP-ST-2011-genia -d CALBC_II -d NLPBA -d SUPER_GREC \
+        bionlp_2011 learning
+    ./test.py bionlp_2011 plot
+
 ## Resources ##
 
 SimSem uses a large collection of lexical resources, the conversion and
