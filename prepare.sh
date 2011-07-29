@@ -20,6 +20,7 @@ classifier/simstring/generate.py features > classifier/simstring/features.py
 # Extract corpora resources
 find data/corpora/ -name '*.tar.gz' \
     | xargs -r -I {} sh -c 'tar -x -z -f {} -C `dirname {}`'
+) && (
 find data/corpora/ -name '*.zip' \
     | xargs -r -I {} sh -c 'unzip -o -d `dirname {}` {}'
 )
