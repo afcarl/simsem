@@ -38,7 +38,7 @@ information. For example, to replicate the main experiment (and plots) from
 the BioNLP 2011 publication you would run.
 
     mkdir bionlp_2011
-    ./test.py -v -r INTERNAL -c INTERNAL-SIMSTRING -c INTERNAL-GAZETTER \
+    ./test.py -v -c INTERNAL -c INTERNAL-SIMSTRING -c INTERNAL-GAZETTER \
         -d BioNLP-ST-2011-Epi_and_PTM -d BioNLP-ST-2011-Infectious_Diseases \
         -d BioNLP-ST-2011-genia -d CALBC_II -d NLPBA -d SUPER_GREC \
         bionlp_2011 learning
