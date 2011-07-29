@@ -35,7 +35,7 @@ external dependencies:
 
 Experiments are then run using `test.py`, use the `-h` flag for more
 information. For example, to replicate the main experiment (and plots) from
-the BioNLP 2011 publication you would run.
+the BioNLP 2011 publication (use the tag `bionlp_2011`) you would run.
 
     mkdir bionlp_2011
     ./test.py -v -c INTERNAL -c INTERNAL-SIMSTRING -c INTERNAL-GAZETTER \
