@@ -1,0 +1,61 @@
+#main > * {
+  width: 50%;
+  vertical-align: top;
+}
+input.starred {
+  color: #66f;
+}
+table.tab {
+  width: 100%;
+  padding: 0;
+}
+table.tab * {
+  white-space: nowrap;
+}
+table.tab thead {
+  background-color: #ccc;
+}
+table.tab tfoot {
+  background-color: #ccc;
+}
+table.tab td, table.tab th {
+  padding: 0 5px;
+}
+th {
+  text-align: left;
+}
+#container div {
+  background-color: #ccf;
+  border: 2px outset #ccf;
+  padding: 2px 5px;
+  margin: 10px 0 0 0;
+}
+#container div span {
+  font-weight: bold;
+}
+
+@media screen {
+  /* Only display the sorting widgets on screen */
+  table.tab thead th {
+    background-image: url(lib/bg.gif);
+    background-repeat: no-repeat;
+    background-position: center right;
+    cursor: pointer;
+    padding-right: 20px;
+  }
+  table.tab thead .headerSortUp {
+    background-image: url(lib/asc.gif);
+    background-color: #aaa;
+  }
+  table.tab thead .headerSortDown {
+    background-image: url(lib/desc.gif);
+    background-color: #aaa;
+  }
+}
+
+@media print {
+  /* Hide the selector drop-downs when printing */
+  #selector {
+    display: none;
+  }
+}
