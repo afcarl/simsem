@@ -16,4 +16,8 @@ cd data/simstring/res && gmake ext_res && gmake
 # NOTE: This is one of the ugliest mistakes in design I have made over the
 # last few years, shame on me
 classifier/simstring/generate.py features > classifier/simstring/features.py
+) && (
+# Extract corpora resources
+find data/corpora/ -name '*.tar.gz' \
+    | xargs -r -I {} sh -c 'tar -x -z -f {} -C `dirname {}`'
 )
