@@ -23,4 +23,12 @@ find data/corpora/ -name '*.tar.gz' \
 ) && (
 find data/corpora/ -name '*.zip' \
     | xargs -r -I {} sh -c 'unzip -o -d `dirname {}` {}'
+) && (
+# Correct offset error in the GREC data set
+sed -i -e 's|\(T4\tGene \)423\(.*\)|\1422\2|g' \
+    data/corpora/grec/GREC_Standoff/Human/8205615.a1
+) && (
+# The GREC sentence split files have non-conforming filenames, correct them
+find data/corpora/grec -name '*.txt.ss' | sed -e 's|\.txt\.ss||g' \
+    | xargs -I {} sh -c 'mv {}.txt.ss {}.ss'
 )
