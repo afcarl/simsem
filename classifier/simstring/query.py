@@ -126,7 +126,8 @@ def query_simstring_db(query, db_path, reader_arg=None):
         for threshold in (v / 10.0 for v in xrange(10, 0, -1)):
             reader.threshold = threshold
             try:
-                if reader.retrieve(str(query)):
+                # The reader will choke on unicode objects, so encode it
+                if reader.retrieve(query.encode('utf-8')):
                     cache[query] = threshold
     
                     if reader_arg is None:
