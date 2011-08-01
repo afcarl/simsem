@@ -52,7 +52,7 @@ processing scripts for these resources can be found under
 distributed separately and can be downloaded [here][res_main]
 ([mirror][res_mirror]).
 
-There is also data sets available in the
+There are also data sets available in the
 [BioNLP 2009 Shared Task format][bionlp_2009_st], two of which has been
 converted from other formats. All data sets also have been sentence split and
 tokenised in accordance to the
