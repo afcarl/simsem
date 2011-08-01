@@ -12,32 +12,58 @@ URL(s):
 from itertools import izip
 from pprint import pprint
 
-def dict_to_table(dic, total=True, perc=True):
+def dict_to_table(dic, total=True, perc=True, sorted=True):
     #pprint(dict(dic))
-    x_lbls = sorted(x_l for x_l in dic)
+    x_lbls = [x_l for x_l in dic]
 
     # This makes it possible to use sparse defaultdicts
     y_lbls = set()
     for lbls in (dic[x_l] for x_l in x_lbls):
         for lbl in lbls:
             y_lbls.add(lbl)
-    y_lbls = sorted([l for l in y_lbls])
+    y_lbls = [l for l in y_lbls]
+
+    if sorted:
+        x_lbls.sort()
+        y_lbls.sort()
 
     hdr = ['Source / Target'] + x_lbls
-    lns = [[y_lbl] + [dic[x_lbl][y_lbl] for x_lbl in x_lbls] for y_lbl in y_lbls]
+    lns = [[y_lbl] + [dic[x_lbl][y_lbl]
+        for x_lbl in x_lbls] for y_lbl in y_lbls]
 
-    tot = (['**Total:**'] + [sum(lns[ln_i][c_i + 1]
-        for ln_i in xrange(len(lns))) for c_i in xrange(len(x_lbls))])
+    tot = ['**Total:**', ]
+    for c_i in xrange(1, len(x_lbls) + 1):
+        seen_num = False
+        c_sum = 0
+        for ln_i in xrange(len(lns)):
+            try:
+                val = lns[ln_i][c_i]
+                c_sum += val
+                seen_num = True
+            except TypeError:
+                pass
+
+        if not seen_num:
+            tot.append('-')
+        else:
+            tot.append(c_sum)
 
     if perc:
         # Inject percentages
         for c_i, c_tot in izip(xrange(1, len(lns[0])),
                 (t for i, t in enumerate(tot) if i > 0)):
+            if c_tot == '-':
+                continue
+
             for ln_i in xrange(len(lns)):
                 val = lns[ln_i][c_i]
-                p = val / float(c_tot)
-                # TODO: We would want the percentages right-adjusted
-                lns[ln_i][c_i] = '{} ({:.2f}%)'.format(val, p)
+                try:
+                    p = val / float(c_tot)
+                    # TODO: We would want the percentages right-adjusted
+                    lns[ln_i][c_i] = '{} ({:.2f}%)'.format(val, p)
+                except TypeError:
+                    # It was not a number for that value, ignore it
+                    pass
 
     if total:
         lns.append([str(t) for t in tot])
@@ -115,4 +141,23 @@ if __name__ == '__main__':
             if randint(0, 1) == 1:
                 ddic[l][_l] = randint(7, 17)
     print dict_to_table(ddic)
-
+    
+    print dict_to_table(
+            {
+                'foo': {
+                    'foo':   1,
+                    'bar':   0,
+                    'baren': '-',
+                    },
+                'bar': {
+                    'foo':   1,
+                    'bar':   1,
+                    'baren': '-',
+                    },
+                'baz': {
+                    'foo':   '-',
+                    'bar':   '-',
+                    'baren': '-',
+                    },
+                }
+            )
