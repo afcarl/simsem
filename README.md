@@ -52,8 +52,20 @@ processing scripts for these resources can be found under
 distributed separately and can be downloaded [here][res_main]
 ([mirror][res_mirror]).
 
+There are also data sets available in the
+[BioNLP 2009 Shared Task format][bionlp_2009_st], two of which has been
+converted from other formats. All data sets also have been sentence split and
+tokenised in accordance to the
+[BioNLP Shared Task 2011 pipeline][bionlp_st_2011_supporting]. These resources
+can are further described on [the project wiki][datasets] be found under
+`data/corpora` and you may also be interested in `prepare.sh` which
+pre-processes and corrects some aspects of the data.
+
 <!-- Link collection -->
 [bibtex]: http://en.wikipedia.org/wiki/BibTeX "BibTeX Entry on Wikipedia"
+[bionlp_2009_st]: http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/SharedTask/ "BioNLP 2009 Shared Task Homepage"
+[bionlp_st_2011_supporting]: https://github.com/ninjin/bionlp_st_2011_supporting "BioNLP Shared Task 2011 Supporting Resources Preprocessing"
+[datasets]: https://github.com/ninjin/simsem/wiki/Data-sets "Data Sets on the Wiki"
 [iscl]: http://www.opensource.org/licenses/isc-license.txt "ISC License on opensource.org"
 [liblinear]: http://www.csie.ntu.edu.tw/~cjlin/liblinear/ "LibLinear Homepage"
 [simstring]: http://www.chokkan.org/software/simstring/index.html.en "SimString Homepage"
