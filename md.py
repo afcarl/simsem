@@ -27,18 +27,13 @@ def dict_to_table(dic, total=True, perc=True):
     lns = [[y_lbl] + [dic[x_lbl][y_lbl] for x_lbl in x_lbls] for y_lbl in y_lbls]
 
     tot = (['**Total:**'] + [sum(lns[ln_i][c_i + 1]
-        for ln_i in xrange(len(lns)))
-        for c_i in xrange(len(x_lbls))])
+        for ln_i in xrange(len(lns))) for c_i in xrange(len(x_lbls))])
 
     if perc:
         # Inject percentages
-        for ln_i, c_tot in izip(xrange(len(lns)),
+        for c_i, c_tot in izip(xrange(1, len(lns[0])),
                 (t for i, t in enumerate(tot) if i > 0)):
-            for c_i in xrange(len(lns[ln_i])):
-                # Skip the first column since it is a label
-                if c_i == 0:
-                    continue
-                
+            for ln_i in xrange(len(lns)):
                 val = lns[ln_i][c_i]
                 p = val / float(c_tot)
                 # TODO: We would want the percentages right-adjusted
@@ -46,9 +41,6 @@ def dict_to_table(dic, total=True, perc=True):
 
     if total:
         lns.append([str(t) for t in tot])
-
-    #pprint(hdr)
-    #pprint(lns)
 
     # Expand each column to fit in size
     stx = []
@@ -123,3 +115,4 @@ if __name__ == '__main__':
             if randint(0, 1) == 1:
                 ddic[l][_l] = randint(7, 17)
     print dict_to_table(ddic)
+
