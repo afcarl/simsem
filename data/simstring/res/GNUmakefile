@@ -5,7 +5,8 @@
 # Author:	Pontus Stentorp	<pontus stenetorp se>
 # Version:	2011-07-25
 
-SIMSTRING_BIN:=simstring
+# XXX: Fragile path
+SIMSTRING_BIN:=../../../external/simstring-1.0/frontend/simstring
 DB_DIR:=../dbs
 DATA_DIR:=simsem_lexical_resources
 

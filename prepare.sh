@@ -14,11 +14,11 @@ make_cmd() {
 }
 
 (
-# Download external resources and make the databases
-cd data/simstring/res && make_cmd ext_res && make_cmd
-) && (
 # Build external resources
 ./build.sh
+) && (
+# Download external resources and make the databases
+cd data/simstring/res && make_cmd ext_res && make_cmd
 ) && (
 # Generate dynamic features from the databases
 # NOTE: This is one of the ugliest mistakes in design I have made over the
