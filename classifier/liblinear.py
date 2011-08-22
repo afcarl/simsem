@@ -44,7 +44,7 @@ CLASSIFY_DUMP_FILE_PATH = None
 
 def _liblinear_train(lbls, vecs, model_type, c):
     return liblinear_train(liblinear_problem(lbls, vecs),
-            liblinear_parameter('-q -s {} -c {}'.format(model_type, c)))
+            liblinear_parameter('-q -s {0} -c {1}'.format(model_type, c)))
     
 def _liblinear_classify(vecs, model):
     import sys
@@ -206,7 +206,7 @@ class LibLinearClassifier(Classifier):
         # Train the model
         self.model = liblinear_train(liblinear_problem(lbls, vecs),
                 liblinear_parameter(
-                    '-q -s {} -c {}'.format(model_type, 2 ** c)))
+                    '-q -s {0} -c {1}'.format(model_type, 2 ** c)))
 
     def _gen_lbls_vecs(self, documents):
         lbls = []
