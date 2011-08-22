@@ -11,6 +11,11 @@ Version:    2011-08-22
 # XXX: Assumes no context and <STRING>\t<TYPE> format
 from argparse import ArgumentParser, FileType
 
+try:
+    from cPickle import dump as pickle_dump
+except ImportError:
+    from cPickle import dump as pickle_dump
+
 from resources import Annotation, Sentence, Document
 from classifier.competitive import SimStringInternalClassifier
 
@@ -25,24 +30,28 @@ ARGPARSER.add_argument('-i', '--input', default='-', type=FileType('r'),
         help='input source (DEFAULT: stdin)')
 ###
 
+def _tab_separated_input_to_doc(input):
+    # Create a dataset out of the input
+    doc = Document(input.name, [], [], '<%s>' % input.name)
+    for _string, _type in (l.rstrip('\n').split('\t') for l in input):
+        doc.abstract.append(Sentence(_string,
+            [Annotation(0, len(_string), _type), ]))
+    return doc
+
 def main(args):
     argp = ARGPARSER.parse_args(args[1:])
 
     # Create a dataset out of the input
-    doc = Document('stdin', [], [], '<stdin>')
-    for _string, _type in (l.rstrip('\n').split('\t') for l in argp.input):
-        doc.abstract.append(Sentence(_string,
-            [Annotation(0, len(_string), _type), ]))
-    docs = (doc, ) # The API generally deals with collections of documents
+    doc = _tab_separated_input_to_doc(argp.input)
 
     # Cache the strings for speed
-    _cache_simstring((docs, ), verbose=argp.verbose)
+    _cache_simstring(((doc, ), ), verbose=argp.verbose)
 
     classifier = SimStringInternalClassifier()
-    classifier.train(docs)
+    classifier.train((doc, ))
 
-    from linearutil import save_model as liblinear_save_model
-    liblinear_save_model(argp.model_path, classifier.model)
+    with open(argp.model_path, 'w') as model_file:
+        pickle_dump(classifier, model_file)
 
 if __name__ == '__main__':
     from sys import argv
