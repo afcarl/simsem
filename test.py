@@ -32,7 +32,7 @@ except ImportError:
 
 from reader.bionlp import (get_epi_set, get_genia_set, get_id_set,
         get_bionlp_2009_set, get_grec_set, get_super_grec_set,
-        get_calbc_ii_set, get_nlpba_set, get_nlpba_down_set)
+        get_calbc_cii_set, get_nlpba_set, get_nlpba_down_set)
 from classifier.naive import NaiveClassifier, MaximumClassifier 
 
 from classifier.simstring.classifier import (SimStringEnsembleClassifier,
@@ -80,7 +80,7 @@ DATASETS = OrderedDict((
     ('BioNLP-ST-2011-Epi_and_PTM',          get_epi_set),
     ('BioNLP-ST-2011-Infectious_Diseases',  get_id_set),
     ('BioNLP-ST-2011-genia',                get_genia_set),
-    ('CALBC_II',                            get_calbc_ii_set),
+    ('CALBC_CII',                            get_calbc_cii_set),
     #('GREC',                                get_grec_set),
     ('NLPBA',                               get_nlpba_set),
     ('NLPBA-DOWN',                          get_nlpba_down_set),

@@ -48,7 +48,7 @@ DATA_DIR = join_path(dirname(__file__), '../data/corpora')
 BIONLP_2011_DIR = join_path(DATA_DIR, 'bionlp_2011_st')
 BIONLP_2009_DIR = join_path(DATA_DIR, 'bionlp_2009_st')
 GREC_DIR = join_path(DATA_DIR, 'grec')
-CALBC_DIR = join_path(DATA_DIR,
+CALBC_CII_DIR = join_path(DATA_DIR,
         'calbc_ii_st_format_500_sample')
 NLPBA_DIR = join_path(DATA_DIR,
         'nlpba_slightly_wrong')
@@ -323,10 +323,10 @@ def get_id_set():
 
 # XXX: Does not belong here!!!
 # XXX: Hack, just works, (tm)
-def get_calbc_ii_set():
+def get_calbc_cii_set():
     random_seed('0xc78e13c3')
     #XXX: We down-sample to 250, 125, 125
-    paths = sample([d.path for d in _get_documents(CALBC_DIR)], 500)
+    paths = sample([d.path for d in _get_documents(CALBC_CII_DIR)], 500)
     train_paths = set(sample(paths, len(paths) / 2))
     paths = [p for p in paths if p not in train_paths]
     dev_paths = set(sample(paths, len(paths) / 2))
@@ -338,11 +338,11 @@ def get_calbc_ii_set():
     #print 'test', test_paths
 
     return (
-            (d for d in _get_documents(CALBC_DIR)
+            (d for d in _get_documents(CALBC_CII_DIR)
                 if d.path in train_paths),
-            (d for d in _get_documents(CALBC_DIR)
+            (d for d in _get_documents(CALBC_CII_DIR)
                 if d.path in dev_paths),
-            (d for d in _get_documents(CALBC_DIR)
+            (d for d in _get_documents(CALBC_CII_DIR)
                 if d.path in test_paths),
             )
 
@@ -563,7 +563,7 @@ SETS_BY_ID = {
         ##'BioNLP-ST-2009':                       get_bionlp_2009_set,
         'GREC':                                 get_grec_set,
         'SUPER_GREC':                           get_super_grec_set,
-        'CALBC_II':                             get_calbc_ii_set,
+        'CALBC_CII':                            get_calbc_cii_set,
         'NLPBA':                                get_nlpba_set,
         'NLPBA_DOWN':                           get_nlpba_down_set,
         }
