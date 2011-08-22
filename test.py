@@ -224,9 +224,30 @@ def _stddev(vals):
 ### Tests
 
 # XXX: Pre-load the simstring cache uglily!
-def _cache_simstring(datasets, verbose=False, ann_modulo=1000):
+def _cache_simstring(datasets, verbose=False, ann_modulo=1000,
+        queries_modulo=1000):
     if verbose:
         print >> stderr, 'Caching SimString:'
+
+        print >> stderr, 'Pre-caching queries...',
+        queries_seen = 0
+
+    # For most cases we are better off caching every single query instead of
+    # iterating over them, this also makes sure that each query is unique when
+    # we finally hit the SimString database
+    queries = set()
+    for dataset in datasets:
+        for document in dataset:
+            for sentence in document:
+                for annotation in sentence:
+                    queries.add(sentence.annotation_text(annotation))
+                    if verbose:
+                        queries_seen += 1
+                        if queries_seen % queries_modulo == 0:
+                            print >> stderr, queries_seen, '...',
+    if verbose:
+        print >> stderr, ('Done! (reduced from {} to {})'
+                ).format(queries_seen, len(queries))
 
     for db_i, db_path in enumerate(SIMSTRING_DB_PATHS, start=1):
         if verbose:
@@ -238,18 +259,15 @@ def _cache_simstring(datasets, verbose=False, ann_modulo=1000):
         db_reader = None
         try:
             db_reader = simstring_reader(db_path)
-            for dataset in datasets:
-                for document in dataset:
-                    for sentence in document:
-                        for annotation in sentence:
-                            query = sentence.annotation_text(annotation)
-                            query_simstring_db(query, db_path,
-                                    reader_arg=db_reader)
+            for query in queries:
+                query_simstring_db(query, db_path,
+                    reader_arg=db_reader)
 
-                            if verbose:
-                                ann_cnt += 1
-                                if ann_cnt % ann_modulo == 0:
-                                    print >> stderr, ann_cnt, '...',
+                if verbose:
+                    ann_cnt += 1
+                    if ann_cnt % ann_modulo == 0:
+                        print >> stderr, ann_cnt, '...',
+
         finally:
             if db_reader is not None:
                 db_reader.close()
@@ -831,6 +849,19 @@ def _confusion_matrix_test(classifiers, datasets, outdir,
         print >> stderr, 'Output: file://{0}'.format(
                 abspath(join_path(outdir, 'index.html')))
 
+def _cache(datasets, verbose=False):
+    dataset_getters = []
+    for dataset_name, dataset_getter in datasets.iteritems():
+        if verbose:
+            print >> stderr, 'Reading data for {}...'.format(dataset_name),
+        for getter in dataset_getter():
+            dataset_getters.append(getter)
+        if verbose:
+            print >> stderr, 'Done!'
+
+    _simstring_caching(('SIMSTRING', ),
+        dataset_getters, verbose=verbose)
+
 def main(args):
     argp = ARGPARSER.parse_args(args[1:])
 
@@ -885,6 +916,8 @@ def main(args):
             _quick_test(classifiers, datasets, outdir,
                     verbose=verbose, no_simstring_cache=no_simstring_cache,
                     worker_pool=worker_pool)
+        elif test == 'cache':
+            _cache(datasets, verbose=verbose)
         else:
             assert False, 'Unimplemented test case'
 
@@ -899,7 +932,7 @@ ARGPARSER.add_argument('outdir', type=writeable_dir) # TODO: Has to exist etc!
 #TODO: plotting?
 ARGPARSER.add_argument('test', choices=('barren', 'confusion', 'dictionary',
         'dict-knockout', 'feat-knockout', 'learning', 'plot', 'quick',
-        'low-learning', 'low-plot', ),
+        'low-learning', 'low-plot', 'cache', ),
         action='append')
 
 #parser.add_argument('--foo', action='append')
