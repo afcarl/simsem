@@ -10,7 +10,8 @@ from os.path import basename, dirname
 from sys import path as sys_path
 
 from config import SIMSTRING_DB_PATHS, SIMSTRING_DB_DIR
-from query import query_simstring_db
+from query import (query_simstring_db, TSURUOKA_DIST, TSURUOKA_NORMALISED,
+        TSURUOKA_NORM_BUCKETS)
 
 sys_path.append(path_join(dirname(__file__), '..', '..'))
 
@@ -21,7 +22,6 @@ sys_path.append(SIMSTRING_LIB_PATH)
 
 from simstring import reader as simstring_reader
 from simstring import cosine as simstring_cosine
-
 
 class AbstractSimStringClassifier(LibLinearClassifier):
     def __init__(self):
@@ -49,6 +49,8 @@ class AbstractSimStringClassifier(LibLinearClassifier):
         raise NotImplementedError
 
 
+#XXX: There is a self.type attribute hack to differentiate between Tsuruoka
+# and SimString, really ugly
 class AbstractSimStringFeature(object): #XXX: FIX INHERIT (Feature):
     def __init__(self):
         raise NotImplementedError
@@ -57,9 +59,8 @@ class AbstractSimStringFeature(object): #XXX: FIX INHERIT (Feature):
         try:
             return self._db_path
         except AttributeError:
-            # TODO: This really only needs to run ONCE! Set a field!
             for db_path in SIMSTRING_DB_PATHS:
-                # TODO: Should be a split
+                # TODO: Should be a proper path split
                 try:
                     if db_path.endswith(self.db_name):
                         self._db_path = db_path
@@ -83,7 +84,25 @@ class AbstractSimStringFeature(object): #XXX: FIX INHERIT (Feature):
 
     def featurise(self, document, sentence, annotation):
         query_text = sentence.annotation_text(annotation)
-        result = query_simstring_db(query_text, self._db())
+        threshold, tsuruoka_dist = query_simstring_db(query_text, self._db())
 
-        if result is not None:
-            yield (str(result), 1)
+        # TODO: Cascading should be here and not in the classifier!
+        if self.type == 'distance' and threshold is not None:
+            yield (str(threshold), 1)
+
+        if self.type == 'tsuruoka' and tsuruoka_dist is not None:
+            if TSURUOKA_CASCADE:
+                if TSURUOKA_NORMALISED:
+                    tsuruoka_it = (b for b in TSURUOKA_NORM_BUCKETS if b <= tsuruoka_dist)
+                else:
+                    tsuruoka_it = (b for b in TSURUOKA_BUCKETS if b >= tsuruoka_dist)
+            else:
+                tsuruoka_it = (tsuruoka_dist, )
+
+            for tsuruoka_bucket in tsuruoka_it:
+                yield ('TSURUOKA-BUCKET-{}'.format(tsuruoka_bucket), 1)
+
+from lib.sdistance import tsuruoka_norm
+
+from query import TSURUOKA_BUCKETS
+TSURUOKA_CASCADE = True

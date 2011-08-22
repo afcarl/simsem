@@ -39,10 +39,6 @@ from simstring import cosine as simstring_cosine
 #from classifier.liblinear import LibLinearClassifier
 
 ### Constants
-# XXX: TODO: More hyphen variants here?
-TSURUOKA_2004_INS_DEL_CHEAP = set((' ', '-'))
-DIGITS = set(digits)
-
 from config import SIMSTRING_DB_PATHS
 
 CDB_REGEX = re_compile(r'\.[0-9]+\.cdb$')
@@ -51,6 +47,12 @@ SIMSTRING_QUERY_CACHE_DIR_PATH = normpath(path_join(dirname(__file__),
         '../../cache'))
 SIMSTRING_QUERY_CACHE_PATH = path_join(SIMSTRING_QUERY_CACHE_DIR_PATH,
         'simstring_query.cache')
+
+# Cut-off for the amount of data to process for a single query
+# NOTE: Must be False or a positive integer
+RESPONSE_CUT_OFF = 10
+# NOTE: This is a hard cut, nothing will ever go below it
+QUERY_CUT_OFF = 3
 ###
 
 ### SimString Cache
@@ -123,25 +125,45 @@ def query_simstring_db(query, db_path, reader_arg=None):
             reader = reader_arg
         
         reader.measure = simstring_cosine
-        for threshold in (v / 10.0 for v in xrange(10, 0, -1)):
+        for threshold in (v / 10.0 for v in xrange(10, QUERY_CUT_OFF - 1, -1)):
             reader.threshold = threshold
-            try:
-                # The reader will choke on unicode objects, so encode it
-                if reader.retrieve(query.encode('utf-8')):
-                    cache[query] = threshold
-    
-                    if reader_arg is None:
-                        reader.close()
 
-                    # We can bail at this point
-                    break
+            # The reader will choke on unicode objects, so encode it
+            query_utf8 = query.encode('utf-8')
+            response = reader.retrieve(query_utf8)
+
+            if not TSURUOKA_DIST:
+                # Only save whether we got a response or not
+                if response:
+                    results = True
                 else:
-                    cache[query] = None
-            except TypeError:
-                print type(query)
-                raise
+                    results = False
+                # Drop the memory
+                response = None
+                min_tsuruoka_dist = None
+            else:
+                # Save the full (or partial) response as results
+                if RESPONSE_CUT_OFF:
+                    resp_it = (e for i, e in enumerate(response) if i < RESPONSE_CUT_OFF)
+                else:
+                    resp_it = response
+
+                if response:
+                    if TSURUOKA_NORMALISED:
+                        tsuruoka_dist = max(bucket_norm_tsuruoka(query_utf8, resp_str)
+                                for resp_str in resp_it)
+                    else:
+                        tsuruoka_dist = min(bucket_tsuruoka(query_utf8, resp_str)
+                                for resp_str in resp_it)
+            if response:
+                cache[query] = (threshold, tsuruoka_dist)
+                # We can and should bail at this point
+                break
+        else:
+            # We found no results for any threshold
+            cache[query] = (None, None)
     finally:
-        # Only close if we were given the reader
+        # Only close if we were not passed the reader
         if reader_arg is None and reader is not None:
             reader.close()
     
@@ -151,3 +173,40 @@ def query_simstring_db(query, db_path, reader_arg=None):
     #if len(cache) > 100:
     #    exit(-1)
     return cache[query]
+
+# TODO: Move the code below somewhere suitable
+
+from itertools import chain
+from sys import maxint
+
+from lib.sdistance import tsuruoka, tsuruoka_norm
+
+TSURUOKA_BUCKETS = tuple(chain(xrange(0, 100, 10), xrange(100, 1000, 50),
+    xrange(1000, 10001, 1000), (maxint, )))
+# NOTE: Not optimal but should do the trick for now
+def _bucket(num):
+    for bucket in TSURUOKA_BUCKETS:
+        if num <= bucket:
+            return bucket
+    else:
+        assert False, 'no bucket found, larger than maxint? really?'
+
+TSURUOKA_NORM_BUCKETS = tuple((x / 100.0 for x in xrange(100, -1, -5)))
+# NOTE: Not optimal but should do the trick for now
+def _norm_bucket(num):
+    for bucket in TSURUOKA_NORM_BUCKETS:
+        if num <= bucket:
+            return bucket
+    else:
+        assert False, 'no bucket found, was that really normalised?'
+
+def bucket_tsuruoka(a, b):
+    return _bucket(tsuruoka(a, b))
+
+def bucket_norm_tsuruoka(a, b):
+    return _norm_bucket(tsuruoka_norm(a, b))
+
+### Constants ###
+TSURUOKA_DIST = True
+TSURUOKA_NORMALISED = False
+###

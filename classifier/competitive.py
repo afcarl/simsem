@@ -15,7 +15,8 @@ from liblinear import LibLinearClassifier
 sys_path.append(path_join(dirname(__file__), '..'))
 
 from features import AbstractFeature, SIMPLE_SPAN_INTERNAL_CLASSES
-from classifier.simstring.classifier import SimStringEnsembleFeature, SimStringGazetterEnsembleFeature
+from classifier.simstring.classifier import (SimStringEnsembleFeature,
+        SimStringGazetterEnsembleFeature, TsuruokaEnsembleFeature)
 
 class SimpleInternalEnsembleFeature(AbstractFeature): 
     def __init__(self):
@@ -146,7 +147,6 @@ class SimStringCompetitiveEnsembleFeature(AbstractFeature):
                 if DONT_FILTER_TURKU or 'turku' not in f_tup[0]:
                     yield (f_tup[0] + '-(<' + feature.get_id() + '>)', f_tup[1])
 
-
 class SimStringCompetitiveEnsembleClassifier(LibLinearClassifier):
     def __init__(self):
         LibLinearClassifier.__init__(self)
@@ -184,6 +184,8 @@ class SimStringInternalFeature(AbstractFeature):
         self.features = [c() for c in [
             #CompetitiveEnsembleFeature,
             SimpleInternalEnsembleFeature,
+            #XXX: XXX: HACK! REMOVE!
+            #WindowStringFeature,
 
             # SimString Features
             SimStringEnsembleFeature,
@@ -199,13 +201,96 @@ class SimStringInternalFeature(AbstractFeature):
             for f_tup in feature.featurise(document, sentence, annotation):
                 if DONT_FILTER_TURKU or 'turku' not in f_tup[0]:
                     yield (f_tup[0] + '-(<' + feature.get_id() + '>)', f_tup[1])
- 
+
 
 class SimStringInternalClassifier(LibLinearClassifier):
     def __init__(self):
         LibLinearClassifier.__init__(self)
         self.feature_class = SimStringInternalFeature
 
+class SimStringTsuruokaFeature(AbstractFeature):
+    def __init__(self):
+        self.features = [c() for c in [
+            #CompetitiveEnsembleFeature,
+
+            # SimString Features
+            TsuruokaEnsembleFeature,
+            SimStringEnsembleFeature,
+            #SimStringGazetterEnsembleFeature
+            # TODO: Contextual SimString
+            ]]
+
+    def get_id(self):
+        return 'SIMSTRING-TSURUOKA'
+
+    def featurise(self, document, sentence, annotation):
+        for feature in self.features:
+            for f_tup in feature.featurise(document, sentence, annotation):
+                if DONT_FILTER_TURKU or 'turku' not in f_tup[0]:
+                    yield (f_tup[0] + '-(<' + feature.get_id() + '>)', f_tup[1])
+
+class SimStringTsuruokaInternalFeature(AbstractFeature):
+    def __init__(self):
+        self.features = [c() for c in [
+            #CompetitiveEnsembleFeature,
+            SimpleInternalEnsembleFeature,
+
+            # SimString Features
+            TsuruokaEnsembleFeature,
+            SimStringEnsembleFeature,
+            #SimStringGazetterEnsembleFeature
+            # TODO: Contextual SimString
+            ]]
+
+    def get_id(self):
+        return 'SIMSTRING-TSURUOKA-INTERNAL'
+
+    def featurise(self, document, sentence, annotation):
+        for feature in self.features:
+            for f_tup in feature.featurise(document, sentence, annotation):
+                if DONT_FILTER_TURKU or 'turku' not in f_tup[0]:
+                    yield (f_tup[0] + '-(<' + feature.get_id() + '>)', f_tup[1])
+
+class SimStringTsuruokaInternalClassifier(LibLinearClassifier):
+    def __init__(self):
+        LibLinearClassifier.__init__(self)
+        self.feature_class = SimStringTsuruokaInternalFeature
+
+class SimStringTsuruokaClassifier(LibLinearClassifier):
+    def __init__(self):
+        LibLinearClassifier.__init__(self)
+        self.feature_class = SimStringTsuruokaFeature
+
+class TsuruokaInternalFeature(AbstractFeature):
+    def __init__(self):
+        self.features = [c() for c in [
+            #CompetitiveEnsembleFeature,
+            SimpleInternalEnsembleFeature,
+
+            # SimString Features
+            TsuruokaEnsembleFeature,
+            #SimStringGazetterEnsembleFeature
+            # TODO: Contextual SimString
+            ]]
+
+    def get_id(self):
+        return 'TSURUOKA-INTERNAL'
+
+    def featurise(self, document, sentence, annotation):
+        for feature in self.features:
+            for f_tup in feature.featurise(document, sentence, annotation):
+                if DONT_FILTER_TURKU or 'turku' not in f_tup[0]:
+                    yield (f_tup[0] + '-(<' + feature.get_id() + '>)', f_tup[1])
+
+class TsuruokaInternalClassifier(LibLinearClassifier):
+    def __init__(self):
+        LibLinearClassifier.__init__(self)
+        self.feature_class = TsuruokaInternalFeature
+
+class TsuruokaClassifier(LibLinearClassifier):
+    def __init__(self):
+        LibLinearClassifier.__init__(self)
+        self.feature_class = TsuruokaEnsembleFeature
 
 class GazetterInternalFeature(AbstractFeature):
     def __init__(self):

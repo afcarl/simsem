@@ -51,6 +51,10 @@ from classifier.competitive import SimStringCompetitiveEnsembleClassifier
 from classifier.competitive import SimStringInternalClassifier
 from classifier.competitive import GazetterInternalClassifier
 from classifier.competitive import InternalClassifier
+from classifier.competitive import TsuruokaInternalClassifier
+from classifier.competitive import TsuruokaClassifier
+from classifier.competitive import SimStringTsuruokaInternalClassifier
+from classifier.competitive import SimStringTsuruokaClassifier
 
 ### Constants
 CLASSIFIERS = OrderedDict((
@@ -64,7 +68,11 @@ CLASSIFIERS = OrderedDict((
     #('COMPETITIVE',                 CompetitiveEnsembleClassifier),
     ('INTERNAL-SIMSTRING',          SimStringInternalClassifier),
     ('INTERNAL-GAZETTER',           GazetterInternalClassifier),
-    ('SIMSTRING-COMPETITIVE',       SimStringCompetitiveEnsembleClassifier),
+    # To use the Tsuruoka classifiers you need query.py to have them enabled
+    ('INTERNAL-TSURUOKA',           TsuruokaInternalClassifier),
+    ('TSURUOKA',                    TsuruokaClassifier),
+    ('INTERNAL-SIMSTRING-TSURUOKA', SimStringTsuruokaInternalClassifier),
+    ('SIMSTRING-TSURUOKA',          SimStringTsuruokaClassifier),
     ))
 
 DATASETS = OrderedDict((
@@ -688,11 +696,14 @@ def _set_up_st_vis_dir(st_vis_dir):
 def _simstring_caching(classifiers, document_sets, verbose=False):
     if any((True for k in classifiers
             # NOTE: Keep this check up to date
-            if 'SIMSTRING' in k or 'GAZETTER' in k)):
+            if 'SIMSTRING' in k or 'GAZETTER' in k or 'TSURUOKA' in k)):
         if verbose:
             print >> stderr, 'Caching queries for SimString:'
 
         _cache_simstring(document_sets, verbose=verbose)
+    else:
+        if verbose:
+            print >> stderr, 'No caching necessary for the given classifier'
 
 def _confusion_matrix_test(classifiers, datasets, outdir,
         verbose=False, no_simstring_cache=False, worker_pool=None):

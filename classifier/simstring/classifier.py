@@ -82,7 +82,7 @@ if not _classifier_module_is_valid():
 from classifiers import SIMSTRING_CLASSIFIERS
 ###
 
-SIMSTRING_CUTOFF = 0.7
+SIMSTRING_CUTOFF = 0.4
 SIMSTRING_CHAIN = True
 
 # TODO: Filter out dbs
@@ -99,14 +99,14 @@ class SimStringEnsembleFeature(object): #XXX: Inherit AbstractFeature!
                     hash(' '.join(sorted([f.get_id() for f in self.features]))))
         return self._id
 
+    # XXX: TODO: SPLIT!
     def featurise(self, document, sentence, annotation):
         for feature in self.features:
-            if SIMSTRING_CUTOFF is None:
-                for f_tup in feature.featurise(document, sentence, annotation):
-                    yield (f_tup[0] + '-(<' + feature.get_id() + '>)', f_tup[1])
-            else:
-                for f_tup in feature.featurise(document, sentence, annotation):
-                    simstring_confidence = float(f_tup[0])          
+            for f_tup in feature.featurise(document, sentence, annotation):
+                if SIMSTRING_CUTOFF is None:
+                        yield (f_tup[0] + '-(<' + feature.get_id() + '>)', f_tup[1])
+                else:
+                    simstring_confidence = float(f_tup[0]) 
                     if simstring_confidence >= SIMSTRING_CUTOFF:
                         yield (f_tup[0] + '-(<' + feature.get_id() + '>)', f_tup[1])
                         # Also generate for all below
@@ -115,7 +115,6 @@ class SimStringEnsembleFeature(object): #XXX: Inherit AbstractFeature!
                                     int(SIMSTRING_CUTOFF * 10) - 1, -1):
                                 yield (str(confi / 10.0)
                                         + '-(<' + feature.get_id() + '>)', f_tup[1])
-
 
 '''
 class SimStringWindowEnsembleFeature(object): #XXX: Inherit AbstractFeature!
@@ -155,6 +154,26 @@ class SimStringGazetterEnsembleFeature(object):
                     #assert False
                     yield (f_tup[0] + '-(<' + feature.get_id() + '>)', f_tup[1])
 
+class TsuruokaEnsembleFeature(object):
+    def __init__(self):
+        self.features = [c() for c in SIMSTRING_FEATURES]
+        # XXX: Set the magic attribute
+        for f in self.features:
+            f.type = 'tsuruoka'
+
+    def get_id(self):
+        try:
+            return self._id
+        except AttributeError: 
+            # The hash should uniquely identify a set of SimString features
+            self._id = 'TsuruokaEnsembleFeature<0x{:x}>'.format(
+                   hash(' '.join(sorted([f.get_id() for f in self.features]))))
+        return self._id
+
+    def featurise(self, document, sentence, annotation):
+        for feature in self.features:
+            for f_tup in feature.featurise(document, sentence, annotation):
+                yield (f_tup[0] + '-(<' + feature.get_id() + '>)', f_tup[1])
 
 class SimStringEnsembleClassifier(LibLinearClassifier):
     def __init__(self):

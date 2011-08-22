@@ -44,6 +44,7 @@ SIMSTRING_FEATURE_TEMPLATE = '''
 class {class_prefix}SimStringFeature(AbstractSimStringFeature):
     def __init__(self):
         self.db_name = '{db_name}'
+        self.type = 'distance'
 {feature_set}.add({class_prefix}SimStringFeature)
 '''
 
