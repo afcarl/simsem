@@ -25,15 +25,33 @@ below which is provided in [BibTeX][bibtex] format:
       url       = {http://www.aclweb.org/anthology/W11-0218}
     }
 
-## Experiments ##
+## Building ##
 
-Clone this repository, then run the preparation script to download the lexical
-resources, create the databases,to do some code generation (ugly) and build
-external dependencies:
+Clone this repository using `git clone`, then run the preparation script to
+download the lexical resources, create the databases,to do some code
+generation (ugly) and build external dependencies:
 
     ./prepare.sh
 
-Experiments are then run using `test.py`, use the `-h` flag for more
+## Running ##
+
+Currently there are two end-user tools that use the `Internal-SimString`
+model. `train.py` and `classify.py`. Train a model using `train.py` and the
+training data on the following format:
+
+    ${STRING}\t${TYPE}
+
+You can use `classify.py` as follows:
+
+    echo 'NF-kB' | ./classify.py ${MODEL_PATH}
+
+And you will get tab-separated output on the form:
+
+    NF-kB   [('Protein_complex', 0.9599138507870001), ... ]
+
+## Experiments ##
+
+Experiments are run using `test.py`, use the `-h` flag for more
 information. For example, to replicate the main experiment (and plots) from
 the BioNLP 2011 publication (use the tag `bionlp_2011`) you would run:
 
