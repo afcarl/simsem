@@ -9,6 +9,8 @@ from pprint import pprint
 from math import sqrt
 from sys import path as sys_path
 from sys import stderr
+from os import remove
+from tempfile import NamedTemporaryFile
 
 #from naive import Classifier, CouldNotClassifyError, ClassifierNotTrainedError
 #from features import FEATURE_CLASSES
@@ -301,7 +303,7 @@ class LibLinearClassifier(Classifier):
             print self.name_by_lbl_id
             raise
 
-    def classify(self, document, sentence, annotation):
+    def classify(self, document, sentence, annotation, ranked=False):
         if (self.vec_index_by_feature_id is None
                 or self.lbl_id_by_name is None
                 or self.name_by_lbl_id is None):
@@ -323,10 +325,49 @@ class LibLinearClassifier(Classifier):
         if self.classify_dump_file is not None:
             self.classify_dump_file.write('\n')
 
-
             vec[self._get_vec_index(f_id)] = f_val
 
-        return self._liblinear_classify(vec)
+        return self._liblinear_classify(vec, ranked=ranked)
+
+    def __getstate__(self):
+        # Turn ourselves into a dictionary to pickle
+        odict = self.__dict__.copy() # copy the dict since we change it
+
+        # LibLinear requires some trickery
+        tmp_file = None
+        try:
+            tmp_file = NamedTemporaryFile('w', delete=False)
+            tmp_file.close()
+
+            liblinear_save_model(tmp_file.name, self.model)
+
+            # Replace the old model with the file contents
+            with open(tmp_file.name, 'r') as model_data:
+                odict['model'] = model_data.read()
+        finally:
+            if tmp_file is not None:
+                tmp_file.close()
+                remove(tmp_file.name)
+
+        return odict
+
+    def __setstate__(self, odict):
+        # Restore ourselves from a dictionary
+        self.__dict__.update(odict)
+
+        # LibLinear requires some more trickery
+        tmp_file = None
+        try:
+            tmp_file = NamedTemporaryFile('w', delete=False)
+            tmp_file.write(self.model)
+            tmp_file.close()
+
+            # Replace the string model with the real model
+            self.model = liblinear_load_model(tmp_file.name)
+        finally:
+            if tmp_file is not None:
+                tmp_file.close()
+                remove(tmp_file.name)
 
 if __name__ == '__main__':
     raise NotImplementedError
