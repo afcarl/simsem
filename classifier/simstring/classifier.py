@@ -95,7 +95,7 @@ class SimStringEnsembleFeature(object): #XXX: Inherit AbstractFeature!
             return self._id
         except AttributeError:
             # The hash should uniquely identify a set of SimString features
-            self._id = 'SimStringEnsembleFeature<0x{:x}>'.format(
+            self._id = 'SimStringEnsembleFeature<0x{0:x}>'.format(
                     hash(' '.join(sorted([f.get_id() for f in self.features]))))
         return self._id
 

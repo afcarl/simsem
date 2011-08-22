@@ -17,6 +17,7 @@ cd ${ARCH_DIR} && rm -rf ${LIBLINEAR} && tar xfz ${LIBLINEAR}.tar.gz && \
 # iconv flag to work around:
 #   https://github.com/chokkan/simstring/pull/4
 cd ${ARCH_DIR} && rm -rf ${SIMSTRING} && tar xfz ${SIMSTRING}.tar.gz && \
-    cd ${SIMSTRING} && ./configure && cd swig/python && ./prepare.sh && \
-    python setup.py build_ext --inplace -l iconv && python -c 'import simstring'
+    cd ${SIMSTRING} && ./configure && make && cd swig/python && \
+    ./prepare.sh && python setup.py build_ext --inplace -l iconv && \
+    python -c 'import simstring'
 )

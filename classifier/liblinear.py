@@ -9,6 +9,8 @@ from pprint import pprint
 from math import sqrt
 from sys import path as sys_path
 from sys import stderr
+from os import remove
+from tempfile import NamedTemporaryFile
 
 #from naive import Classifier, CouldNotClassifyError, ClassifierNotTrainedError
 #from features import FEATURE_CLASSES
@@ -42,7 +44,7 @@ CLASSIFY_DUMP_FILE_PATH = None
 
 def _liblinear_train(lbls, vecs, model_type, c):
     return liblinear_train(liblinear_problem(lbls, vecs),
-            liblinear_parameter('-q -s {} -c {}'.format(model_type, c)))
+            liblinear_parameter('-q -s {0} -c {1}'.format(model_type, c)))
     
 def _liblinear_classify(vecs, model):
     import sys
@@ -52,7 +54,7 @@ def _liblinear_classify(vecs, model):
             sys.stdout = dev_null
             # We don't really need -b 1
             predictions, _, _ = liblinear_predict(
-                    [], vecs, model, '')#'-b 1')
+                    [], vecs, model, '') #'-b 1')
             return predictions
     finally:
         sys.stdout = orig_stdout
@@ -136,6 +138,7 @@ def _texturise(feature_str):
 class LibLinearClassifier(Classifier):
     def __init__(self):
         self.vec_index_by_feature_id = {}
+        self.feature_id_by_vec_index = {}
         self.lbl_id_by_name = {}
         self.name_by_lbl_id = {}
 
@@ -174,7 +177,13 @@ class LibLinearClassifier(Classifier):
         except KeyError:
             new_vec_index = len(self.vec_index_by_feature_id) + 1
             self.vec_index_by_feature_id[feature_id] = new_vec_index
+            self.feature_id_by_vec_index[new_vec_index] = feature_id
         return self.vec_index_by_feature_id[feature_id]
+
+    def lbl_vec_to_str(self, lbl, vec):
+        return '%s: %s' % (self.name_by_lbl_id[lbl], ' '.join(
+            '%s:%s' % (self.feature_id_by_vec_index[k], v)
+            for k, v in vec.iteritems()))
 
     def _train(self, lbls, vecs):
         return self._liblinear_train(lbls, vecs)
@@ -197,7 +206,7 @@ class LibLinearClassifier(Classifier):
         # Train the model
         self.model = liblinear_train(liblinear_problem(lbls, vecs),
                 liblinear_parameter(
-                    '-q -s {} -c {}'.format(model_type, 2 ** c)))
+                    '-q -s {0} -c {1}'.format(model_type, 2 ** c)))
 
     def _gen_lbls_vecs(self, documents):
         lbls = []
@@ -256,29 +265,45 @@ class LibLinearClassifier(Classifier):
         # Train the model
         self._liblinear_train(lbls, vecs)
       
-    def _classify(self, vec):
-        return self._liblinear_classify(vec)
+    def _classify(self, vec, ranked=False):
+        return self._liblinear_classify(vec, ranked=ranked)
 
-    def _liblinear_classify(self, vec):
+    def _liblinear_classify(self, vec, ranked=False):
         import sys
         orig_stdout = sys.stdout
         try:
             with open('/dev/null', 'w') as dev_null:
                 sys.stdout = dev_null
-                # We don't really need -b 1
-                predictions, _, _ = liblinear_predict(
-                        [], [vec], self.model, '')#'-b 1')
+
+                # Ask for probs. when it is necessary
+                if not ranked:
+                    args = ''
+                else:
+                    args = '-b 1'
+
+                predictions, _, probabilities = liblinear_predict(
+                        [], [vec], self.model, args)
         finally:
             sys.stdout = orig_stdout
 
         try:
-            return self.name_by_lbl_id[predictions[0]]
+            if not ranked:
+                return self.name_by_lbl_id[predictions[0]]
+            else:
+                # We need a bit of magic to get this list right since LibLinear
+                # only returns a single label we will played with the indexes
+                probs_and_lbl = [(prob, self.name_by_lbl_id[i])
+                        for i, prob in enumerate(probabilities[0], start=1)]
+                probs_and_lbl.sort()
+                probs_and_lbl.reverse()
+                # Now flip the tuples and we have the ranked labels
+                return [(lbl, prob) for prob, lbl in probs_and_lbl]
         except KeyError:
             print predictions
             print self.name_by_lbl_id
             raise
 
-    def classify(self, document, sentence, annotation):
+    def classify(self, document, sentence, annotation, ranked=False):
         if (self.vec_index_by_feature_id is None
                 or self.lbl_id_by_name is None
                 or self.name_by_lbl_id is None):
@@ -300,10 +325,49 @@ class LibLinearClassifier(Classifier):
         if self.classify_dump_file is not None:
             self.classify_dump_file.write('\n')
 
-
             vec[self._get_vec_index(f_id)] = f_val
 
-        return self._liblinear_classify(vec)
+        return self._liblinear_classify(vec, ranked=ranked)
+
+    def __getstate__(self):
+        # Turn ourselves into a dictionary to pickle
+        odict = self.__dict__.copy() # copy the dict since we change it
+
+        # LibLinear requires some trickery
+        tmp_file = None
+        try:
+            tmp_file = NamedTemporaryFile('w', delete=False)
+            tmp_file.close()
+
+            liblinear_save_model(tmp_file.name, self.model)
+
+            # Replace the old model with the file contents
+            with open(tmp_file.name, 'r') as model_data:
+                odict['model'] = model_data.read()
+        finally:
+            if tmp_file is not None:
+                tmp_file.close()
+                remove(tmp_file.name)
+
+        return odict
+
+    def __setstate__(self, odict):
+        # Restore ourselves from a dictionary
+        self.__dict__.update(odict)
+
+        # LibLinear requires some more trickery
+        tmp_file = None
+        try:
+            tmp_file = NamedTemporaryFile('w', delete=False)
+            tmp_file.write(self.model)
+            tmp_file.close()
+
+            # Replace the string model with the real model
+            self.model = liblinear_load_model(tmp_file.name)
+        finally:
+            if tmp_file is not None:
+                tmp_file.close()
+                remove(tmp_file.name)
 
 if __name__ == '__main__':
     raise NotImplementedError
