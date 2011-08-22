@@ -12,9 +12,8 @@ URL(s):
 from itertools import izip
 from pprint import pprint
 
-def dict_to_table(dic, total=True, perc=True, sorted=True):
-    #pprint(dict(dic))
-    x_lbls = [x_l for x_l in dic]
+def _get_lbls(dic):
+    x_lbls = [str(x_l) for x_l in dic]
 
     # This makes it possible to use sparse defaultdicts
     y_lbls = set()
@@ -23,11 +22,27 @@ def dict_to_table(dic, total=True, perc=True, sorted=True):
             y_lbls.add(lbl)
     y_lbls = [l for l in y_lbls]
 
-    if sorted:
-        x_lbls.sort()
-        y_lbls.sort()
+    return x_lbls, y_lbls
 
-    hdr = ['Source / Target'] + x_lbls
+def dict_to_table(dic, total=True, perc=True, sorted=True, hdr_lbl=''):
+    x_lbls, y_lbls = _get_lbls(dic)
+
+    if sorted:
+        try:
+            for lbl in x_lbls:
+                int(lbl)
+            x_lbls.sort(key=int)
+        except ValueError:
+            x_lbls.sort()
+
+        try:
+            for lbl in y_lbls:
+                int(lbl)
+            y_lbls.sort(key=int)
+        except ValueError:
+            y_lbls.sort()
+
+    hdr = [hdr_lbl] + x_lbls
     lns = [[y_lbl] + [dic[x_lbl][y_lbl]
         for x_lbl in x_lbls] for y_lbl in y_lbls]
 
@@ -108,11 +123,56 @@ def dict_to_table(dic, total=True, perc=True, sorted=True):
             )
         ))
 
+def trans_dict(dic):
+    new_dic = {}
+
+    x_lbls, y_lbls = _get_lbls(dic)
+
+    for y_lbl in y_lbls:
+        new_dic[y_lbl] = {}
+        for x_lbl in x_lbls:
+            new_dic[y_lbl][x_lbl] = dic[x_lbl][y_lbl]
+
+    return new_dic
+
+import re
+
+def table_to_dict(table, strip_perc=True):
+    dic = {}
+    lns = table.split('\n')
+    
+    # Drop the second line since it is only syntax
+    del lns[1]
+
+    # Grab the labels and the data
+    x_lbls = [lbl.strip() for lbl in lns[0].split('|')[1:-1]]
+    y_lbls = [ln[:ln.find('|')].strip() for ln in lns[1:]]
+    data = [[lbl.strip() for lbl in ln.split('|')[1:-1]] for ln in lns[1:]]
+
+    # Remove the total if there is any
+    if y_lbls[-1] == '**Total:**':
+        y_lbls = y_lbls[:-1]
+        data = data[:-1]
+
+    if strip_perc:
+        for ln_i in xrange(len(data)):
+            for c_i in xrange(len(data[ln_i])):
+                data[ln_i][c_i] = re.sub(
+                        r'(.*?)\([0-9]+\.[0-9]+%\)?',
+                        r'\1', data[ln_i][c_i]).strip()
+
+    for c_i, x_lbl in enumerate(x_lbls):
+        dic[x_lbl] = {}
+        for y_lbl, ln in izip(y_lbls, data):
+            dic[x_lbl][y_lbl] = ln[c_i]
+
+    return dic
+
 if __name__ == '__main__':
     from collections import defaultdict
     from random import randint
 
-    print dict_to_table(
+    tbl = dict_to_table(
             {
                 'foo': {
                     'foo':   1,
@@ -131,6 +191,7 @@ if __name__ == '__main__':
                     },
                 }
             )
+    print tbl
     print
 
     ddic = defaultdict(lambda : defaultdict(int))
@@ -140,9 +201,11 @@ if __name__ == '__main__':
         for _l in lbls:
             if randint(0, 1) == 1:
                 ddic[l][_l] = randint(7, 17)
-    print dict_to_table(ddic)
+    tbl = dict_to_table(ddic)
+    print tbl
+    print
     
-    print dict_to_table(
+    tbl = dict_to_table(
             {
                 'foo': {
                     'foo':   1,
@@ -161,3 +224,24 @@ if __name__ == '__main__':
                     },
                 }
             )
+    print tbl
+    print
+
+    dic = table_to_dict(tbl)
+    pprint(dic)
+    print
+
+    tbl = dict_to_table(dic, total=False, perc=False)
+    print tbl
+
+    for x_lbl in dic:
+        for y_lbl in dic[x_lbl]:
+            val = dic[x_lbl][y_lbl]
+            if val != '-':
+                dic[x_lbl][y_lbl] = int(val)
+
+    tbl = dict_to_table(dic)
+    print tbl
+    print
+
+    print trans_dict(dic)
