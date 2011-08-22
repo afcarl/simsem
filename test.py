@@ -221,10 +221,12 @@ def _cache_simstring(datasets, verbose=False, ann_modulo=1000):
         print >> stderr, 'Caching SimString:'
 
     for db_i, db_path in enumerate(SIMSTRING_DB_PATHS, start=1):
-        print >> stderr, 'Caching for db: {0} ({1}/{2}) ...'.format(db_path, db_i,
-                len(SIMSTRING_DB_PATHS)),
+        if verbose:
+            print >> stderr, 'Caching for db: {0} ({1}/{2}) ...'.format(db_path, db_i,
+                    len(SIMSTRING_DB_PATHS)),
         
-        ann_cnt = 0
+        if verbose:
+            ann_cnt = 0
         db_reader = None
         try:
             db_reader = simstring_reader(db_path)
@@ -236,9 +238,10 @@ def _cache_simstring(datasets, verbose=False, ann_modulo=1000):
                             query_simstring_db(query, db_path,
                                     reader_arg=db_reader)
 
-                            ann_cnt += 1
-                            if ann_cnt % ann_modulo == 0:
-                                print >> stderr, ann_cnt, '...',
+                            if verbose:
+                                ann_cnt += 1
+                                if ann_cnt % ann_modulo == 0:
+                                    print >> stderr, ann_cnt, '...',
         finally:
             if db_reader is not None:
                 db_reader.close()
