@@ -553,6 +553,21 @@ def _learning_curve_test(classifiers, datasets, outdir,
 def _get_learning_pickle_path(outdir, name='learning'):
     return join_path(outdir, '{0}_results.pickle'.format(name))
 
+# Nice table-able number for a curve
+def _learning_curve_avg(classifiers, datasets, outdir, pickle_name='learning'):
+
+    with open(_get_learning_pickle_path(outdir, name=pickle_name), 'r') as results_file:
+        results = pickle_load(results_file)
+
+    for dataset in datasets:
+        print 'Dataset:', dataset
+        for classifier in classifiers:
+            print 'Classifier:', classifier
+            macro_avg = _avg([res_tup[0] for res_tup
+                in results[dataset][classifier].itervalues()])
+
+            print macro_avg
+
 #XXX: This part is MESSY
 NO_LEGEND = False
 MINIMAL = True
@@ -918,6 +933,8 @@ def main(args):
                     worker_pool=worker_pool)
         elif test == 'cache':
             _cache(datasets, verbose=verbose)
+        elif test == 'learning-avg':
+            _learning_curve_avg(classifiers, datasets, outdir)
         else:
             assert False, 'Unimplemented test case'
 
@@ -932,7 +949,7 @@ ARGPARSER.add_argument('outdir', type=writeable_dir) # TODO: Has to exist etc!
 #TODO: plotting?
 ARGPARSER.add_argument('test', choices=('barren', 'confusion', 'dictionary',
         'dict-knockout', 'feat-knockout', 'learning', 'plot', 'quick',
-        'low-learning', 'low-plot', 'cache', ),
+        'low-learning', 'low-plot', 'cache', 'learning-avg', ),
         action='append')
 
 #parser.add_argument('--foo', action='append')
