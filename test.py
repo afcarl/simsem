@@ -496,10 +496,10 @@ def _quick_test(classifiers, datasets, outdir, verbose=False, worker_pool=None,
             
             if verbose:
                 res_str = ('Results: '
-                        'MACRO: {0:.3f} '
-                        'MICRO: {1:.3f} '
-                        'TP: {2} FN: {3}'
-                        ).format(*score[:-1])
+                        '{0:.3f}/'
+                        '{1:.3f}/'
+                        '{2}/{3} (MACRO/MICRO/TP/FN)'
+                        ).format(macro_score, micro_score, tp_sum, fn_sum)
                 print res_str
 
         results_by_dataset[dataset_id] = results_by_classifier
