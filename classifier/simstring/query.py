@@ -135,12 +135,10 @@ def query_simstring_db(query, db_path, reader_arg=None):
             if not TSURUOKA_DIST:
                 # Only save whether we got a response or not
                 if response:
-                    results = True
+                    response = True
                 else:
-                    results = False
-                # Drop the memory
-                response = None
-                min_tsuruoka_dist = None
+                    response = False
+                tsuruoka_dist = None
             else:
                 # Save the full (or partial) response as results
                 if RESPONSE_CUT_OFF:
