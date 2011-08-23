@@ -9,20 +9,20 @@ Version:    2011-03-02
 
 from argparse import ArgumentParser
 from collections import defaultdict, namedtuple
-from itertools import izip, chain, tee
+from itertools import chain, izip, tee
 from json import dumps as json_dumps
 from math import sqrt
 from multiprocessing import Pool
-from os import listdir
-from os import makedirs
-from os.path import basename, abspath, dirname
-from os.path import join as join_path
-from pickle import dump as pickle_dump
-from pickle import load as pickle_load
+from os import listdir, makedirs
+from os.path import abspath, basename, dirname, join as join_path
 from random import sample, seed, random
 from shutil import copy
-from sys import path as sys_path
-from sys import stderr
+from sys import path as sys_path, stderr
+
+try:
+    from cPickle import dump as pickle_dump, load as pickle_load
+except ImportError:
+    from pickle import dump as pickle_dump, load as pickle_load
 
 try:
     from collections import OrderedDict
@@ -88,8 +88,6 @@ DATASETS = OrderedDict((
     ('SUPER_GREC',                          get_super_grec_set),
     ))
 ###
-
-from itertools import izip
 
 # I hate Python 2.6...
 def _compress(it, flter):
