@@ -1024,6 +1024,8 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
                 iteration += 1
 
             if removed:
+                # TODO: Could do more metrics here?
+
                 print 'Training and evaluating a model of our previous state...'
                 classifier._liblinear_train(train_lbls, train_uncensored_vecs)
                 before_macro_score = _score_classifier_by_tup(classifier,
@@ -1041,11 +1043,18 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
                 after_macro_score = _score_classifier_by_tup(classifier,
                         (test_lbls, test_censored_vecs))[0]
 
-                print 'Before: {} After: {}'.format(before_macro_score,
+                res_str = 'Before: {} After: {}'.format(before_macro_score,
                         after_macro_score)
+                print res_str
                 print 'Happy?'
             else:
-                print 'Unable to remove any lexical resource to make improvements...'
+                res_str = 'Unable to remove any lexical resource to make improvements...'
+                print res_str
+
+            # Ugly but saves the final result safely
+            with open(join_path(outdir, 'descent_{}_{}.txt'.format(
+                classifier_name, dataset_name)), 'w') as res_file:
+                res_file.write(res_str)
 
 def __knockout_pass(args):
     return _knockout_pass(*args)
