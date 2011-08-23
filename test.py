@@ -447,8 +447,8 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
 def _get_quick_pickle_path(outdir):
     return join_path(outdir, 'quick.pickle')
 
-def _quick_test(classifiers, datasets, outdir,
-        verbose=False, worker_pool=None, no_simstring_cache=False):
+def _quick_test(classifiers, datasets, outdir, verbose=False, worker_pool=None,
+        no_simstring_cache=False, use_test_set=False):
     
     if worker_pool is not None:
         raise NotImplementedError
@@ -462,8 +462,11 @@ def _quick_test(classifiers, datasets, outdir,
 
         if verbose:
             print >> stderr, 'Caching data set...',
-        train, dev, _ = dataset_getter()
-        train, dev = list(train), list(dev)
+        train, dev, test = dataset_getter()
+        if use_test_set:
+            train, dev = list(chain(train, dev)), list(test)
+        else:
+            train, dev = list(train), list(dev)
         if verbose:
             print >> stderr, 'Done!'
       
@@ -892,7 +895,8 @@ def main(args):
     outdir = argp.outdir
     tests = argp.test
     verbose = argp.verbose
-    no_simstring_cache = argp.no_simstring_cache
+    # TODO: Rename no_simstring_cache into no_pre_cache
+    no_simstring_cache = argp.no_pre_cache
     if argp.jobs > 1:
         worker_pool = Pool(argp.jobs)
     else:
@@ -930,7 +934,7 @@ def main(args):
         elif test == 'quick':
             _quick_test(classifiers, datasets, outdir,
                     verbose=verbose, no_simstring_cache=no_simstring_cache,
-                    worker_pool=worker_pool)
+                    worker_pool=worker_pool, use_test_set=argp.test_set)
         elif test == 'cache':
             _cache(datasets, verbose=verbose)
         elif test == 'learning-avg':
@@ -943,27 +947,28 @@ def main(args):
 from misc import writeable_dir
 
 ### Trailing Constants
-ARGPARSER = ArgumentParser(description='XXX')#XXX: TODO:
-#TODO: Outdir here! First arg!
-ARGPARSER.add_argument('outdir', type=writeable_dir) # TODO: Has to exist etc!
-#TODO: plotting?
+ARGPARSER = ArgumentParser(description='SimSem test-suite')#XXX: TODO:
+ARGPARSER.add_argument('outdir', type=writeable_dir)
+# Test commands
 ARGPARSER.add_argument('test', choices=('barren', 'confusion', 'dictionary',
         'dict-knockout', 'feat-knockout', 'learning', 'plot', 'quick',
         'low-learning', 'low-plot', 'cache', 'learning-avg', ),
         action='append')
+ARGPARSER.add_argument('-c', '--classifier', default=[],
+        choices=tuple([c for c in CLASSIFIERS]),
+        help='classifier(s) to use for the test(s)', action='append')
+ARGPARSER.add_argument('-d', '--dataset', default=[],
+        choices=tuple([d for d in DATASETS]),
+        help='dataset(s) to use for the test(s)', action='append')
 
-#parser.add_argument('--foo', action='append')
-ARGPARSER.add_argument('-c', '--classifier', default=[],#'SIMSTRING'],
-        choices=tuple([c for c in CLASSIFIERS]), help='XXX', action='append')
-ARGPARSER.add_argument('-d', '--dataset', default=[], #default=['SUPER_GREC'],
-        choices=tuple([d for d in DATASETS]), help='XXX', action='append')
-
-ARGPARSER.add_argument('-n', '--no-simstring-cache', action='store_true')
-#ARGPARSER.add_argument('-o', '--no-document-cache', action='store_true') #TODO:
+ARGPARSER.add_argument('-n', '--no-pre-cache', action='store_true',
+        help=('disables pre-caching, gives some performance increase if this '
+            'has been done previously'))
 ARGPARSER.add_argument('-j', '--jobs', type=int, default=1)
 ARGPARSER.add_argument('-v', '--verbose', action='store_true')
-# XXX: This should print verboseish things to stderr
-#ARGPASER.add_argument('-e', '--error-verbose', action='store_true')
+ARGPARSER.add_argument('-X', '--test-set', action='store_true',
+        help=('use the test set for evaluation and train and development for '
+            'training, ONLY use this for final result generation'))
 ###
 
 if __name__ == '__main__':
