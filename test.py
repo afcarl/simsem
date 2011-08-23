@@ -890,8 +890,6 @@ def _censor_sparse_vectors_gen(vecs, idxs):
 
 def _lexical_descent(classifiers, datasets, outdir, verbose=False,
         worker_pool=None, no_simstring_cache=False, use_test_set=False):
-    assert worker_pool is None # Not quite yet...
-
     # Check that we can in fact do a lexical descent for the classifier
     for classifier_name in classifiers:
         assert ('SIMSTRING' in classifier_name
@@ -899,9 +897,11 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
                 or 'GAZETTER' in classifier_name)
 
     for classifier_name, classifier_class in classifiers.iteritems():
+        print 'Classifier:', classifier_name
         classifier =  classifier_class()
 
         for dataset_name, dataset_getter in datasets.iteritems():
+            print 'Dataset:', dataset_name
             if verbose:
                 print >> stderr, 'Reading data...',
 
@@ -963,24 +963,33 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
                 train_vecs = [d for d in _censor_sparse_vectors_gen(train_vecs,
                     [i for i in chain(vec_idxs_by_feat_id[f_id] for f_id in removed)])]
                 print 'Done!'
+                
+                # Generate the folds for this iteration
+                train_data = set(zip(train_lbls, train_vecs))
+                folds = [f for f in _k_folds(5, train_data)] #XXX: Constant
 
                 # Prepare to go parallel
-                f_args = ((f_id, classifier, train_lbls, train_vecs, to_censor)
+                f_args = ((f_id, classifier, train_data, folds, to_censor)
                         for f_id, to_censor in vec_idxs_by_feat_id.iteritems()
                         if f_id in to_evaluate)
                 # Also cram in our non-censored one in there
-                f_args = chain(((None, classifier, train_lbls,
-                    train_vecs, {}), ), f_args)
+                f_args = chain(((None, classifier, train_data, folds, {}), ),
+                    f_args)
 
                 score_by_knockout = {}
                 print 'Evaluating knockouts ({} in total)'.format(len(to_evaluate) + 1)
-                for i, args in enumerate(f_args, start=1):
-                    f_id, mean = _knockout_pass(*args)
-                    #if iteration == 1 and i == 2: #XXX: TESTING HACK!
-                    #    mean += 0.5
-
-                    score_by_knockout[f_id] = mean
-                    print 'it: {} k: {} res: {} {}'.format(iteration, i, f_id, mean)
+                # TODO: A bit reduntant, prettify!
+                if worker_pool is not None:
+                    i = 1
+                    for f_id, mean in worker_pool.imap(__knockout_pass, f_args):
+                        score_by_knockout[f_id] = mean
+                        print 'it: {} k: {} res: {} {}'.format(iteration, i, f_id, mean)
+                        i += 1
+                else:
+                    for i, args in enumerate(f_args, start=1):
+                        f_id, mean = _knockout_pass(*args)
+                        score_by_knockout[f_id] = mean
+                        print 'it: {} k: {} res: {} {}'.format(iteration, i, f_id, mean)
                 
                 # Find the best scoring one...
                 scores = [(s, f_id) for f_id, s in score_by_knockout.iteritems()]
@@ -1026,24 +1035,24 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
 def __knockout_pass(args):
     return _knockout_pass(*args)
 
-from classifier.liblinear import hashabledict
+from classifier.liblinear import _k_folds, hashabledict
 
-def _knockout_pass(f_id, classifier, lbls, vecs, to_censor, folds=5):
-    # NOTE: Data-copy galore...
-
-    from classifier.liblinear import _k_folds, hashabledict
-
-    censored_vecs = [d for d in _censor_sparse_vectors_gen(vecs, to_censor)]
-
+def _knockout_pass(f_id, classifier, train_data, folds, to_censor):
     macro_scores = []
-    all_data = set(zip(lbls, censored_vecs))
-    for fold in _k_folds(folds, all_data):
-        train = all_data - fold
-        test = fold
+    for fold_num, fold in enumerate(folds, start=1):
+        train_set = train_data - fold
+        test_set = fold
 
-        classifier._liblinear_train([l for l, _ in train], [v for _, v in train])
-        res_tup =_score_classifier_by_tup(classifier, ((l for l, _ in test),
-            (v for _, v in test)))
+        train_vecs = [d for d in _censor_sparse_vectors_gen(
+            (v for _, v in train_set), to_censor)]
+        train_lbls = [l for l, _ in train_set]
+
+        classifier._liblinear_train(train_lbls, train_vecs)
+
+        test_vecs = [d for d in _censor_sparse_vectors_gen(
+            (v for _, v in test_set), to_censor)]
+        test_lbls = (l for l, _ in test_set)
+        res_tup =_score_classifier_by_tup(classifier, (test_lbls, test_vecs))
         macro_scores.append(res_tup[0])
 
     mean = _mean(macro_scores)
