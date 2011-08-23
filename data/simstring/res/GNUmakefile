@@ -30,7 +30,8 @@ DB_FILE:=$${addsuffix .${DB_SUFF}, $${DB_BASE}}
 DB_PATH:=$${addprefix ${DB_DIR}/, $${DB_FILE}}
 
 $${DB_PATH}: $${RES_PATH}
-	cat $$< | ${SIMSTRING_BIN} --build --unicode --database $$@ --quiet
+	cat $$< | sort | uniq \
+		| ${SIMSTRING_BIN} --build --unicode --database $$@ --quiet
 
 DB_TARGETS+=$${DB_PATH}
 DB_TARGETS:=$${sort $${DB_TARGETS}}
