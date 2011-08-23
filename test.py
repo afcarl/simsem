@@ -885,11 +885,9 @@ def main(args):
 
     # Shuffle around the arguments and turn them into dicts
     datasets = [d for d in argp.dataset]
-    datasets.sort()
     datasets = OrderedDict([(d, DATASETS[d]) for d in datasets])
 
     classifiers = [c for c in argp.classifier]
-    classifiers.sort()
     classifiers = OrderedDict([(c, CLASSIFIERS[c]) for c in classifiers])
 
     outdir = argp.outdir
