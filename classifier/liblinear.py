@@ -62,7 +62,6 @@ def _liblinear_classify(vecs, model):
 from random import sample
 
 def _k_folds(k, coll):
-    seen = set()
     to_see = set(coll)
     coll_size = len(to_see)
     for i in xrange(k):
@@ -71,7 +70,7 @@ def _k_folds(k, coll):
             fold_size -= 1
             
         fold = set(sample(to_see, fold_size))
-        seen = seen.union(fold)
+        to_see = to_see - fold
         yield fold
 
 from itertools import izip
