@@ -333,20 +333,21 @@ class LibLinearClassifier(Classifier):
         odict = self.__dict__.copy() # copy the dict since we change it
 
         # LibLinear requires some trickery
-        tmp_file = None
-        try:
-            tmp_file = NamedTemporaryFile('w', delete=False)
-            tmp_file.close()
-
-            liblinear_save_model(tmp_file.name, self.model)
-
-            # Replace the old model with the file contents
-            with open(tmp_file.name, 'r') as model_data:
-                odict['model'] = model_data.read()
-        finally:
-            if tmp_file is not None:
+        if 'model' in odict:
+            tmp_file = None
+            try:
+                tmp_file = NamedTemporaryFile('w', delete=False)
                 tmp_file.close()
-                remove(tmp_file.name)
+
+                liblinear_save_model(tmp_file.name, self.model)
+
+                # Replace the old model with the file contents
+                with open(tmp_file.name, 'r') as model_data:
+                    odict['model'] = model_data.read()
+            finally:
+                if tmp_file is not None:
+                    tmp_file.close()
+                    remove(tmp_file.name)
 
         return odict
 
@@ -355,18 +356,19 @@ class LibLinearClassifier(Classifier):
         self.__dict__.update(odict)
 
         # LibLinear requires some more trickery
-        tmp_file = None
-        try:
-            tmp_file = NamedTemporaryFile('w', delete=False)
-            tmp_file.write(self.model)
-            tmp_file.close()
-
-            # Replace the string model with the real model
-            self.model = liblinear_load_model(tmp_file.name)
-        finally:
-            if tmp_file is not None:
+        if 'model' in odict:
+            tmp_file = None
+            try:
+                tmp_file = NamedTemporaryFile('w', delete=False)
+                tmp_file.write(self.model)
                 tmp_file.close()
-                remove(tmp_file.name)
+
+                # Replace the string model with the real model
+                self.model = liblinear_load_model(tmp_file.name)
+            finally:
+                if tmp_file is not None:
+                    tmp_file.close()
+                    remove(tmp_file.name)
 
 if __name__ == '__main__':
     raise NotImplementedError
