@@ -5,11 +5,12 @@ Author:     Pontus Stenetorp    <pontus stenetorp se>
 Version:    2011-04-04
 '''
 
-from pprint import pprint
 from math import sqrt
+from os import remove
+from pprint import pprint
+from random import sample
 from sys import path as sys_path
 from sys import stderr
-from os import remove
 from tempfile import NamedTemporaryFile
 
 #from naive import Classifier, CouldNotClassifyError, ClassifierNotTrainedError
@@ -24,12 +25,14 @@ from naive import Classifier
 from toolsconf import LIBLINEAR_PYTHON_DIR
 sys_path.append(LIBLINEAR_PYTHON_DIR)
 
-from linearutil import predict as liblinear_predict
-from linearutil import load_model as liblinear_load_model
-from linearutil import save_model as liblinear_save_model
-from linearutil import train as liblinear_train
-from linearutil import problem as liblinear_problem 
-from linearutil import parameter as liblinear_parameter
+#XXX: If these are imported and we then go into multiprocessing
+#   we are in a world of hurt! ctypes and multiprocessing don't mix well
+#from linearutil import predict as liblinear_predict
+#from linearutil import load_model as liblinear_load_model
+#from linearutil import save_model as liblinear_save_model
+#from linearutil import train as liblinear_train
+#from linearutil import problem as liblinear_problem 
+#from linearutil import parameter as liblinear_parameter
 
 MODEL_SEARCH = False
 C_SEARCH = True
@@ -43,10 +46,13 @@ TRAIN_DUMP_FILE_PATH = None
 CLASSIFY_DUMP_FILE_PATH = None
 
 def _liblinear_train(lbls, vecs, model_type, c):
+    from linearutil import (train as liblinear_train,
+            problem as liblinear_problem, parameter as liblinear_parameter)
     return liblinear_train(liblinear_problem(lbls, vecs),
             liblinear_parameter('-q -s {0} -c {1}'.format(model_type, c)))
     
 def _liblinear_classify(vecs, model):
+    from linearutil import predict as liblinear_predict
     import sys
     orig_stdout = sys.stdout
     try:
@@ -58,8 +64,6 @@ def _liblinear_classify(vecs, model):
             return predictions
     finally:
         sys.stdout = orig_stdout
-
-from random import sample
 
 def _k_folds(k, coll):
     to_see = set(coll)
@@ -203,6 +207,9 @@ class LibLinearClassifier(Classifier):
             c = 1
 
         # Train the model
+        from linearutil import (train as liblinear_train,
+                problem as liblinear_problem,
+                parameter as liblinear_parameter)
         self.model = liblinear_train(liblinear_problem(lbls, vecs),
                 liblinear_parameter(
                     '-q -s {0} -c {1}'.format(model_type, 2 ** c)))
@@ -280,6 +287,7 @@ class LibLinearClassifier(Classifier):
                 else:
                     args = '-b 1'
 
+                from linearutil import predict as liblinear_predict
                 predictions, _, probabilities = liblinear_predict(
                         [], [vec], self.model, args)
         finally:
@@ -329,6 +337,7 @@ class LibLinearClassifier(Classifier):
         return self._liblinear_classify(vec, ranked=ranked)
 
     def __getstate__(self):
+        from linearutil import save_model as liblinear_save_model
         # Turn ourselves into a dictionary to pickle
         odict = self.__dict__.copy() # copy the dict since we change it
 
@@ -352,6 +361,7 @@ class LibLinearClassifier(Classifier):
         return odict
 
     def __setstate__(self, odict):
+        from linearutil import load_model as liblinear_load_model
         # Restore ourselves from a dictionary
         self.__dict__.update(odict)
 
