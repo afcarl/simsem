@@ -34,6 +34,7 @@ from reader.bionlp import (get_epi_set, get_genia_set, get_id_set,
         get_bionlp_2009_set, get_grec_set, get_super_grec_set,
         get_calbc_cii_set, get_nlpba_set, get_nlpba_down_set)
 from classifier.naive import NaiveClassifier, MaximumClassifier 
+from misc import writeable_dir
 
 from classifier.simstring.classifier import (SimStringEnsembleClassifier,
         SimStringGazetterEnsembleClassifier)
@@ -280,7 +281,7 @@ def __learning_curve_test_data_set(args):
 
 # TODO: We probably need more folds
 def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
-        verbose=False, no_simstring_cache=False, folds=10,
+        verbose=False, no_simstring_cache=False, use_test_set=False, folds=10,
         min_perc=5, max_perc=101, step_perc=5, it_factor=1):
     #from itertools import compress
     if verbose:
@@ -289,7 +290,11 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
     if verbose:
         print >> stderr, 'Caching vectorised data...',
     train, dev, test = dataset_getter()
-    train, dev = list(chain(train, dev)), list(test)
+    if use_test_set:
+        train, dev = list(chain(train, dev)), list(test)
+    else:
+        train, dev = list(train), list(dev)
+
     if verbose:
         print >> stderr, 'Done!'
 
@@ -509,7 +514,7 @@ def _quick_test(classifiers, datasets, outdir, verbose=False, worker_pool=None,
 def _learning_curve_test(classifiers, datasets, outdir,
         verbose=False, no_simstring_cache=False, folds=10, worker_pool=None,
         min_perc=5, max_perc=101, step_perc=5, it_factor=1,
-        pickle_name='learning'
+        pickle_name='learning', use_test_set=False
         ):
     ### This part is really generic
     # TODO: We could keep old results... But dangerous, mix-up
@@ -520,7 +525,7 @@ def _learning_curve_test(classifiers, datasets, outdir,
     # TODO: If we have a single dataset we could do multi for classifiers,
     #       but beware of caching.
 
-    args = [(classifiers, d_id, d_getter, verbose, no_simstring_cache,
+    args = [(classifiers, d_id, d_getter, verbose, no_simstring_cache, use_test_set,
             folds, min_perc, max_perc, step_perc, it_factor)
             for d_id, d_getter in datasets.iteritems()]
     '''
@@ -903,27 +908,20 @@ def main(args):
     # Delegate each test
     #TODO: Parallel tests?
     for test in tests:
-        if test == 'barren':
-            raise NotImplementedError
-        elif test == 'confusion':
+        if test == 'confusion':
+            print >> stderr, 'WARNING: Old unsupported code'
             _confusion_matrix_test(classifiers, datasets, outdir,
                     verbose=verbose, no_simstring_cache=no_simstring_cache)
-        elif test == 'dictionary':
-            raise NotImplementedError
-        elif test == 'dict-knockout':
-            raise NotImplementedError
-        elif test == 'feat-knockout':
-            raise NotImplementedError
         elif test == 'learning':
             _learning_curve_test(classifiers, datasets, outdir,
                     verbose=verbose, no_simstring_cache=no_simstring_cache,
-                    worker_pool=worker_pool)
+                    worker_pool=worker_pool, use_test_set=argp.test_set)
         elif test == 'low-learning':
             _learning_curve_test(classifiers, datasets, outdir,
                     verbose=verbose, no_simstring_cache=no_simstring_cache,
                     worker_pool=worker_pool, it_factor=None,
                     min_perc=1, max_perc=30, step_perc=2,
-                    pickle_name='low_learning'
+                    pickle_name='low_learning', use_test_set=argp.test_set
                     )
         elif test == 'plot':
             _plot_learning_curve(outdir)
@@ -942,16 +940,13 @@ def main(args):
 
     return 0
 
-from misc import writeable_dir
-
 ### Trailing Constants
-ARGPARSER = ArgumentParser(description='SimSem test-suite')#XXX: TODO:
+ARGPARSER = ArgumentParser(description='SimSem test-suite')
 ARGPARSER.add_argument('outdir', type=writeable_dir)
 # Test commands
-ARGPARSER.add_argument('test', choices=('barren', 'confusion', 'dictionary',
-        'dict-knockout', 'feat-knockout', 'learning', 'plot', 'quick',
-        'low-learning', 'low-plot', 'cache', 'learning-avg', ),
-        action='append')
+ARGPARSER.add_argument('test', choices=('confusion', 'learning', 'plot',
+    'quick', 'low-learning', 'low-plot', 'cache', 'learning-avg', ),
+    action='append')
 ARGPARSER.add_argument('-c', '--classifier', default=[],
         choices=tuple([c for c in CLASSIFIERS]),
         help='classifier(s) to use for the test(s)', action='append')
