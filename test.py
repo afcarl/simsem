@@ -95,6 +95,16 @@ def _compress(it, flter):
         if v:
             yield e
 
+def _mean(l):
+    return sum(l) / float(len(l))
+
+def _median(l):
+    return sorted(l)[len(l)/2]
+
+def _truncated_mean(l, truncation=0.05):
+    offset = int(len(l) * truncation)
+    return sum(sorted(l)[offset:-offset]) / float(len(l) - 2 * offset)
+
 def _score_classifier(classifier, test_set):
     # (TP, FP, FN) # Leaving out TN
     results_by_class = {} #XXX: THIS HAS TO BE A CLASS!
@@ -538,14 +548,14 @@ def _learning_curve_test(classifiers, datasets, outdir,
         res_it = worker_pool.imap(__learning_curve_test_data_set, args)
     else:
         res_it = (_learning_curve_test_data_set(*arg) for arg in args)
-    
+
     for dataset_id, dataset_results in res_it:
         results_by_dataset[dataset_id] = dataset_results
 
         ### HACK TO GET INTERMEDIATE!
         with open(results_file_path, 'w') as results_file:
             pickle_dump(results_by_dataset, results_file)
-            
+
         if verbose:
             print >> stderr, 'Results written to:', results_file_path
         ###
@@ -580,10 +590,10 @@ MINIMAL = True
 def _plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
     # We have to try to import here, or we will crash
     import matplotlib.pyplot as plt
-    
+
     if worker_pool is not None:
         raise NotImplementedError
-   
+
     with open(_get_learning_pickle_path(outdir, name=pickle_name), 'r') as results_file:
         results = pickle_load(results_file)
 
@@ -599,7 +609,7 @@ def _plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
             #'SIMSTRING-COMPETITIVE': 'm',
             #'COMPETITIVE': 'k',
             } # We need more colours?
-    
+
     line_style_by_classifier = {
             'NAIVE': '-:', #XXX:
             #'MAXVOTE': 'y',
@@ -611,7 +621,7 @@ def _plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
             'INTERNAL-GAZETTER': '--',
             #'SIMSTRING-COMPETITIVE': 'm',
             #'COMPETITIVE': 'k',
-    }
+            }
 
     plot_dir = outdir
     for dataset, classifiers in results.iteritems():
@@ -647,7 +657,7 @@ def _plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
                     _avg(fps), _stddev(fps),
             '''
 
-            
+
             sample_sizes = [t[0] for t in res_tups]
             macro_vals = [t[1] for t in res_tups]
             macro_stds = [t[2] for t in res_tups]
@@ -656,7 +666,7 @@ def _plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
 
             max_seen = max(max_seen, max(macro_vals))
             min_seen = min(max_seen, min(macro_vals))
-           
+
             #plt.axhline(y=float(i) / 10, color='k')
 
             #lines, _, _ = 
@@ -694,7 +704,7 @@ def _plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
             handles2, labels2 = zip(*hl)
 
             ax.legend(handles2, labels2, loc=4)
-        
+
         '''
         for i in xrange(1, 100):
             val = float(i) / 100
@@ -707,7 +717,7 @@ def _plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
             plt.savefig(join_path(plot_dir, dataset.lower() + '_' + pickle_name) + '.' + fmt,
                     format=fmt)
 
-### XXX: ST_VIS
+            ### XXX: ST_VIS
 ST_VIS_DIR = join_path(dirname(__file__), 'st_vis') 
 ST_VIS_FILES = [join_path(ST_VIS_DIR, f)
         for f in ('code.js', 'index.html', 'style.css', )]
@@ -734,8 +744,8 @@ def _set_up_st_vis_dir(st_vis_dir):
 
 def _simstring_caching(classifiers, document_sets, verbose=False):
     if any((True for k in classifiers
-            # NOTE: Keep this check up to date
-            if 'SIMSTRING' in k or 'GAZETTER' in k or 'TSURUOKA' in k)):
+        # NOTE: Keep this check up to date
+        if 'SIMSTRING' in k or 'GAZETTER' in k or 'TSURUOKA' in k)):
         if verbose:
             print >> stderr, 'Caching queries for SimString:'
 
@@ -761,10 +771,10 @@ def _confusion_matrix_test(classifiers, datasets, outdir,
         train, dev = list(train), list(dev)
         if verbose:
             print >> stderr, 'Done!'
-      
+
         if not no_simstring_cache:
             _simstring_caching(classifiers, (train, dev), verbose=verbose)
-    
+
         # Collect the seen type to iterate over later
         seen_types = set()
         results_by_classifier = {}
@@ -772,7 +782,7 @@ def _confusion_matrix_test(classifiers, datasets, outdir,
         for classifier_id, classifier_class in classifiers.iteritems():
             if verbose:
                 print >> stderr, 'Classifier:', classifier_id
-            
+
             classifier = classifier_class()
 
             if verbose:
@@ -860,15 +870,185 @@ def _confusion_matrix_test(classifiers, datasets, outdir,
                     table_ftr,
                     )
 
-    # XXX: Will overwrite!
+            # XXX: Will overwrite!
     with open(join_path(outdir, 'data.js'), 'w') as data_file:
         data_file.write('data = ')
         data_file.write(json_dumps(json_dic, encoding='utf-8',
             indent=2, sort_keys=True))
 
-    if verbose:
-        print >> stderr, 'Output: file://{0}'.format(
-                abspath(join_path(outdir, 'index.html')))
+        if verbose:
+            print >> stderr, 'Output: file://{0}'.format(
+                    abspath(join_path(outdir, 'index.html')))
+
+def _censor_sparse_vectors_gen(vecs, idxs):
+    for vec in vecs:
+        new_vec = hashabledict()
+        for idx in vec:
+            if idx not in idxs:
+                new_vec[idx] = vec[idx]
+        yield new_vec
+
+def _lexical_descent(classifiers, datasets, outdir, verbose=False,
+        worker_pool=None, no_simstring_cache=False, use_test_set=False):
+    assert worker_pool is None # Not quite yet...
+
+    # Check that we can in fact do a lexical descent for the classifier
+    for classifier_name in classifiers:
+        assert ('SIMSTRING' in classifier_name
+                or 'TSURUOKA' in classifier_name
+                or 'GAZETTER' in classifier_name)
+
+    for classifier_name, classifier_class in classifiers.iteritems():
+        classifier =  classifier_class()
+
+        for dataset_name, dataset_getter in datasets.iteritems():
+            if verbose:
+                print >> stderr, 'Reading data...',
+
+            train_set, dev_set, test_set = dataset_getter()
+            if use_test_set:
+                train, test = list(chain(train_set, dev_set)), list(test_set)
+            else:
+                train, test = list(train_set), list(dev_set)
+            del train_set, dev_set, test_set
+
+            if verbose:
+                print >> stderr, 'Done!'
+
+            if not no_simstring_cache:
+                _simstring_caching((classifier_name, ),
+                    (train, test, ), verbose=verbose)
+
+            from copy import deepcopy
+
+            train_lbls, train_vecs = classifier._gen_lbls_vecs(train)
+            test_lbls, test_vecs = classifier._gen_lbls_vecs(test)
+            train_vecs = [hashabledict(d) for d in train_vecs]
+            test_vecs = [hashabledict(d) for d in test_vecs]
+            train_uncensored_vecs = deepcopy(train_vecs)
+
+            # XXX: This is an ugly hack and bound to break:
+            # Locate which vector ID;s that are used by SimString features and
+            # by which feature
+            from classifier.simstring.features import SIMSTRING_FEATURES
+            sf_ids = [f().get_id() for f in SIMSTRING_FEATURES]
+
+            vec_idxs_by_feat_id = defaultdict(set)
+            for sf_id in sf_ids:
+                for f_id in classifier.vec_index_by_feature_id:
+                    # NOTE: Not 100% safe check, could match by accident
+                    if sf_id in f_id:
+                        vec_idxs_by_feat_id[sf_id].add(
+                                classifier.vec_index_by_feature_id[f_id])
+
+            # Which ones never fired?
+            i = 0
+            for i, sf_id in enumerate((id for id in sf_ids
+                if id not in vec_idxs_by_feat_id), start=1):
+                print sf_id, 'never fired'
+            else:
+                print '{} SimString feature(s) never fired'.format(i)
+
+            # TODO: Table fun!
+
+            # Iteratively find the best candidate
+            to_evaluate = set((f_id for f_id in vec_idxs_by_feat_id))
+            removed = set()
+            iteration = 1
+            while to_evaluate:
+                print 'Iteration:', iteration
+
+                print 'Censoring vectors...',
+                # Censor everything we have removed so far
+                train_vecs = [d for d in _censor_sparse_vectors_gen(train_vecs,
+                    [i for i in chain(vec_idxs_by_feat_id[f_id] for f_id in removed)])]
+                print 'Done!'
+
+                # Prepare to go parallel
+                f_args = ((f_id, classifier, train_lbls, train_vecs, to_censor)
+                        for f_id, to_censor in vec_idxs_by_feat_id.iteritems()
+                        if f_id in to_evaluate)
+                # Also cram in our non-censored one in there
+                f_args = chain(((None, classifier, train_lbls,
+                    train_vecs, {}), ), f_args)
+
+                score_by_knockout = {}
+                print 'Evaluating knockouts ({} in total)'.format(len(to_evaluate) + 1)
+                for i, args in enumerate(f_args, start=1):
+                    f_id, mean = _knockout_pass(*args)
+                    #if iteration == 1 and i == 2: #XXX: TESTING HACK!
+                    #    mean += 0.5
+
+                    score_by_knockout[f_id] = mean
+                    print 'it: {} k: {} res: {} {}'.format(iteration, i, f_id, mean)
+                
+                # Find the best scoring one...
+                scores = [(s, f_id) for f_id, s in score_by_knockout.iteritems()]
+                scores.sort()
+                scores.reverse()
+
+                best_score, best_f_id = scores[0]
+
+                print 'Round winner: {} with {}'.format(best_f_id, best_score)
+
+                if best_f_id is None:
+                    # We are done, no removal gave a better score
+                    break
+
+                removed.add(best_f_id)
+                to_evaluate.remove(best_f_id)
+                iteration += 1
+
+            if removed:
+                print 'Training and evaluating a model of our previous state...'
+                classifier._liblinear_train(train_lbls, train_uncensored_vecs)
+                before_macro_score = _score_classifier_by_tup(classifier,
+                        (test_lbls, test_vecs))[0]
+                print 'Done!'
+
+                print 'Training and evaluating a model of our current state...',
+                train_censored_vecs = [d for d in _censor_sparse_vectors_gen(train_vecs,
+                    [i for i in chain(vec_idxs_by_feat_id[f_id] for f_id in removed)])]
+                classifier._liblinear_train(train_lbls, train_censored_vecs)
+                print 'Done!'
+
+                test_censored_vecs = [d for d in _censor_sparse_vectors_gen(test_vecs,
+                    [i for i in chain(vec_idxs_by_feat_id[f_id] for f_id in removed)])]
+                after_macro_score = _score_classifier_by_tup(classifier,
+                        (test_lbls, test_censored_vecs))[0]
+
+                print 'Before: {} After: {}'.format(before_macro_score,
+                        after_macro_score)
+                print 'Happy?'
+            else:
+                print 'Unable to remove any lexical resource to make improvements...'
+
+def __knockout_pass(args):
+    return _knockout_pass(*args)
+
+from classifier.liblinear import hashabledict
+
+def _knockout_pass(f_id, classifier, lbls, vecs, to_censor, folds=5):
+    # NOTE: Data-copy galore...
+
+    from classifier.liblinear import _k_folds, hashabledict
+
+    censored_vecs = [d for d in _censor_sparse_vectors_gen(vecs, to_censor)]
+
+    macro_scores = []
+    all_data = set(zip(lbls, censored_vecs))
+    for fold in _k_folds(folds, all_data):
+        train = all_data - fold
+        test = fold
+
+        classifier._liblinear_train([l for l, _ in train], [v for _, v in train])
+        res_tup =_score_classifier_by_tup(classifier, ((l for l, _ in test),
+            (v for _, v in test)))
+        macro_scores.append(res_tup[0])
+
+    mean = _mean(macro_scores)
+
+    return f_id, mean
 
 def _cache(datasets, verbose=False):
     dataset_getters = []
@@ -933,6 +1113,10 @@ def main(args):
             _cache(datasets, verbose=verbose)
         elif test == 'learning-avg':
             _learning_curve_avg(classifiers, datasets, outdir)
+        elif test == 'lex-descent':
+            _lexical_descent(classifiers, datasets, outdir,
+                verbose=verbose, no_simstring_cache=no_simstring_cache,
+                worker_pool=worker_pool, use_test_set=argp.test_set)
         else:
             assert False, 'Unimplemented test case'
 
@@ -943,7 +1127,8 @@ ARGPARSER = ArgumentParser(description='SimSem test-suite')
 ARGPARSER.add_argument('outdir', type=writeable_dir)
 # Test commands
 ARGPARSER.add_argument('test', choices=('confusion', 'learning', 'plot',
-    'quick', 'low-learning', 'low-plot', 'cache', 'learning-avg', ),
+    'quick', 'low-learning', 'low-plot', 'cache', 'learning-avg',
+    'lex-descent', ),
     action='append')
 ARGPARSER.add_argument('-c', '--classifier', default=[],
         choices=tuple([c for c in CLASSIFIERS]),
@@ -951,7 +1136,6 @@ ARGPARSER.add_argument('-c', '--classifier', default=[],
 ARGPARSER.add_argument('-d', '--dataset', default=[],
         choices=tuple([d for d in DATASETS]),
         help='dataset(s) to use for the test(s)', action='append')
-
 ARGPARSER.add_argument('-n', '--no-pre-cache', action='store_true',
         help=('disables pre-caching, gives some performance increase if this '
             'has been done previously'))
