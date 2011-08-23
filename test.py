@@ -949,7 +949,7 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
             else:
                 print '{} SimString feature(s) never fired'.format(i)
 
-            # TODO: Table fun!
+            res_dic = defaultdict(lambda : defaultdict(lambda : '-'))
 
             # Iteratively find the best candidate
             to_evaluate = set((f_id for f_id in vec_idxs_by_feat_id))
@@ -977,22 +977,37 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
                     f_args)
 
                 score_by_knockout = {}
-                print 'Evaluating knockouts ({} in total)'.format(len(to_evaluate) + 1)
+                print 'Evaluating knockouts ({} in total)'.format(
+                        len(to_evaluate) + 1)
                 # TODO: A bit reduntant, prettify!
                 if worker_pool is not None:
                     i = 1
-                    for f_id, mean in worker_pool.imap(__knockout_pass, f_args):
+                    for f_id, mean in worker_pool.imap(
+                            __knockout_pass, f_args):
                         score_by_knockout[f_id] = mean
-                        print 'it: {} k: {} res: {} {}'.format(iteration, i, f_id, mean)
+                        print 'it: {} k: {} res: {} {}'.format(
+                                iteration, i, f_id, mean)
                         i += 1
                 else:
                     for i, args in enumerate(f_args, start=1):
                         f_id, mean = _knockout_pass(*args)
                         score_by_knockout[f_id] = mean
-                        print 'it: {} k: {} res: {} {}'.format(iteration, i, f_id, mean)
+                        print 'it: {} k: {} res: {} {}'.format(
+                                iteration, i, f_id, mean)
+
+                # Set the result dictionary
+                for f_id, mean in score_by_knockout.iteritems():
+                    res_dic[str(iteration)][f_id] = mean
+                # And write the results incrementally for each round
+                with open(join_path(outdir, 'descent_{}_{}.md'.format(
+                    classifier_name, dataset_name)), 'w') as md_file:
+                    from md import dict_to_table
+                    md_file.write(dict_to_table(res_dic, total=False, perc=False))
+                    md_file.write('\n')
                 
                 # Find the best scoring one...
-                scores = [(s, f_id) for f_id, s in score_by_knockout.iteritems()]
+                scores = [(s, f_id)
+                        for f_id, s in score_by_knockout.iteritems()]
                 scores.sort()
                 scores.reverse()
 
