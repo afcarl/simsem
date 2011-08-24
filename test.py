@@ -955,15 +955,32 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
             to_evaluate = set((f_id for f_id in vec_idxs_by_feat_id))
             removed = set()
             iteration = 1
+            last_macro_score = None
             while to_evaluate:
                 print 'Iteration:', iteration
 
                 print 'Censoring vectors...',
                 # Censor everything we have removed so far
                 train_vecs = [d for d in _censor_sparse_vectors_gen(train_vecs,
-                    [i for i in chain(vec_idxs_by_feat_id[f_id] for f_id in removed)])]
+                    set(i for i in chain(*(vec_idxs_by_feat_id[f_id] for f_id in removed))))]
                 print 'Done!'
                 
+                print 'Training and evaluating a model of our current state...',
+                classifier._liblinear_train(train_lbls, train_vecs)
+                print 'Done!'
+
+                print [i for i in chain(*(vec_idxs_by_feat_id[f_id] for f_id in removed))]
+                test_censored_vecs = [d for d in _censor_sparse_vectors_gen(test_vecs,
+                    set(i for i in chain(*(vec_idxs_by_feat_id[f_id] for f_id in removed))))]
+                curr_macro_score = _score_classifier_by_tup(classifier,
+                        (test_lbls, test_censored_vecs))[0]
+
+                print 'Current state on test is: {}'.format(curr_macro_score)
+                if last_macro_score is not None:
+                    print 'Last state was: {} ()'.format(last_macro_score,
+                            last_macro_score - curr_macro_score)
+                last_macro_score = curr_macro_score
+
                 # Generate the folds for this iteration
                 train_data = set(zip(train_lbls, train_vecs))
                 folds = [f for f in _k_folds(5, train_data)] #XXX: Constant
@@ -982,7 +999,7 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
                 # TODO: A bit reduntant, prettify!
                 if worker_pool is not None:
                     i = 1
-                    for f_id, mean in worker_pool.imap(
+                    for f_id, mean in worker_pool.imap_unordered(
                             __knockout_pass, f_args):
                         score_by_knockout[f_id] = mean
                         print 'it: {} k: {} res: {} {}'.format(
@@ -1021,12 +1038,13 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
 
                 removed.add(best_f_id)
                 to_evaluate.remove(best_f_id)
+                
                 iteration += 1
 
             if removed:
                 # TODO: Could do more metrics here?
 
-                print 'Training and evaluating a model of our previous state...'
+                print 'Training and evaluating a model of our previous state...',
                 classifier._liblinear_train(train_lbls, train_uncensored_vecs)
                 before_macro_score = _score_classifier_by_tup(classifier,
                         (test_lbls, test_vecs))[0]
@@ -1034,12 +1052,12 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
 
                 print 'Training and evaluating a model of our current state...',
                 train_censored_vecs = [d for d in _censor_sparse_vectors_gen(train_vecs,
-                    [i for i in chain(vec_idxs_by_feat_id[f_id] for f_id in removed)])]
+                    set(i for i in chain(*(vec_idxs_by_feat_id[f_id] for f_id in removed))))]
                 classifier._liblinear_train(train_lbls, train_censored_vecs)
                 print 'Done!'
 
                 test_censored_vecs = [d for d in _censor_sparse_vectors_gen(test_vecs,
-                    [i for i in chain(vec_idxs_by_feat_id[f_id] for f_id in removed)])]
+                    set(i for i in chain(*(vec_idxs_by_feat_id[f_id] for f_id in removed))))]
                 after_macro_score = _score_classifier_by_tup(classifier,
                         (test_lbls, test_censored_vecs))[0]
 
