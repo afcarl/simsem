@@ -1148,7 +1148,7 @@ def main(args):
 
     # Delegate each test
     #TODO: Parallel tests?
-    for test in tests:
+    for test in chain(*tests):
         if test == 'confusion':
             print >> stderr, 'WARNING: Old unsupported code'
             _confusion_matrix_test(classifiers, datasets, outdir,
@@ -1181,7 +1181,7 @@ def main(args):
                 verbose=verbose, no_simstring_cache=no_simstring_cache,
                 worker_pool=worker_pool, use_test_set=argp.test_set)
         else:
-            assert False, 'Unimplemented test case'
+            assert False, 'Unimplemented test case, {}'.format(test)
 
     return 0
 
@@ -1192,7 +1192,7 @@ ARGPARSER.add_argument('outdir', type=writeable_dir)
 ARGPARSER.add_argument('test', choices=('confusion', 'learning', 'plot',
     'quick', 'low-learning', 'low-plot', 'cache', 'learning-avg',
     'lex-descent', ),
-    action='append')
+    action='append', nargs='+')
 ARGPARSER.add_argument('-c', '--classifier', default=[],
         choices=tuple([c for c in CLASSIFIERS]),
         help='classifier(s) to use for the test(s)', action='append')
