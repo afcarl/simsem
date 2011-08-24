@@ -927,6 +927,10 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
             test_vecs = [hashabledict(d) for d in test_vecs]
             train_uncensored_vecs = deepcopy(train_vecs)
 
+            # Generate the folds for all iterations
+            folds = [f for f in _k_folds(5,
+                set(izip(train_lbls, train_vecs)))] #XXX: Constant
+
             # XXX: This is an ugly hack and bound to break:
             # Locate which vector ID;s that are used by SimString features and
             # by which feature
@@ -961,37 +965,43 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
 
                 print 'Censoring vectors...',
                 # Censor everything we have removed so far
-                train_vecs = [d for d in _censor_sparse_vectors_gen(train_vecs,
-                    set(i for i in chain(*(vec_idxs_by_feat_id[f_id] for f_id in removed))))]
+                idxs_to_censor = set(i for i in chain(
+                    *(vec_idxs_by_feat_id[f_id] for f_id in removed)))
+                train_vecs = [d for d in _censor_sparse_vectors_gen(
+                    train_vecs, idxs_to_censor)]
+
+                train_data = set(izip(train_lbls, train_vecs))
+
+                train_folds = []
+                for fold in folds:
+                    f_lbls = (l for l, _ in fold)
+                    f_vecs = (d for d in _censor_sparse_vectors_gen(
+                        (v for _, v in fold), idxs_to_censor))
+                    train_folds.append(set(izip(f_lbls, f_vecs)))
                 print 'Done!'
                 
                 print 'Training and evaluating a model of our current state...',
                 classifier._liblinear_train(train_lbls, train_vecs)
                 print 'Done!'
 
-                print [i for i in chain(*(vec_idxs_by_feat_id[f_id] for f_id in removed))]
-                test_censored_vecs = [d for d in _censor_sparse_vectors_gen(test_vecs,
-                    set(i for i in chain(*(vec_idxs_by_feat_id[f_id] for f_id in removed))))]
+                test_censored_vecs = [d for d in _censor_sparse_vectors_gen(
+                    test_vecs, idxs_to_censor)]
                 curr_macro_score = _score_classifier_by_tup(classifier,
                         (test_lbls, test_censored_vecs))[0]
 
                 print 'Current state on test is: {}'.format(curr_macro_score)
                 if last_macro_score is not None:
-                    print 'Last state was: {} ()'.format(last_macro_score,
-                            last_macro_score - curr_macro_score)
+                    print 'Last state was: {} (diff: {})'.format(last_macro_score,
+                        curr_macro_score - last_macro_score)
                 last_macro_score = curr_macro_score
 
-                # Generate the folds for this iteration
-                train_data = set(zip(train_lbls, train_vecs))
-                folds = [f for f in _k_folds(5, train_data)] #XXX: Constant
-
                 # Prepare to go parallel
-                f_args = ((f_id, classifier, train_data, folds, to_censor)
-                        for f_id, to_censor in vec_idxs_by_feat_id.iteritems()
-                        if f_id in to_evaluate)
+                f_args = ((f_id, classifier, train_data, train_folds,
+                    to_censor) for f_id, to_censor
+                    in vec_idxs_by_feat_id.iteritems() if f_id in to_evaluate)
                 # Also cram in our non-censored one in there
-                f_args = chain(((None, classifier, train_data, folds, {}), ),
-                    f_args)
+                f_args = chain(((None, classifier, train_data, train_folds,
+                    set()), ), f_args)
 
                 score_by_knockout = {}
                 print 'Evaluating knockouts ({} in total)'.format(
@@ -1084,6 +1094,8 @@ def _knockout_pass(f_id, classifier, train_data, folds, to_censor):
     for fold_num, fold in enumerate(folds, start=1):
         train_set = train_data - fold
         test_set = fold
+
+        assert len(train_set) + len(test_set) == len(train_data)
 
         train_vecs = [d for d in _censor_sparse_vectors_gen(
             (v for _, v in train_set), to_censor)]
