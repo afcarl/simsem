@@ -61,7 +61,6 @@ from classifier.competitive import SimStringTsuruokaClassifier
 
 from classifier.liblinear import _k_folds, hashabledict
 
-
 ### Constants
 CLASSIFIERS = OrderedDict((
     # Rather redundant at this stage
@@ -99,6 +98,11 @@ def _compress(it, flter):
     for e, v in izip(it, flter):
         if v:
             yield e
+
+### Maths
+def _stddev(vals):
+    avg = _mean(vals)
+    return sqrt(sum(((val - avg) ** 2 for val in vals)) / len(vals))
 
 def _mean(l):
     return sum(l) / float(len(l))
@@ -153,7 +157,7 @@ def _score_classifier(classifier, test_set):
             micro_scores.append(1.0)
         else:
             micro_scores.append(m_tp / float(m_tp + m_fn))
-    micro_score = _avg(micro_scores)
+    micro_score = _mean(micro_scores)
 
     return (macro_score, micro_score, tp_sum, fn_sum, results_by_class)
 
@@ -203,11 +207,12 @@ def _score_classifier_by_tup(classifier, test_tups):
             micro_scores.append(1.0)
         else:
             micro_scores.append(m_tp / float(m_tp + m_fn))
-    micro_score = _avg(micro_scores)
+    micro_score = _mean(micro_scores)
 
     return (macro_score, micro_score, tp_sum, fn_sum, results_by_class)
         
-def _score_classifier_by_tup_ranked(classifier, test_tups, conf_threshold=0.995):
+def _score_classifier_by_tup_ranked(classifier, test_tups,
+        conf_threshold=0.995):
     results_by_class = {}
     ambd_by_class = defaultdict(list)
     not_in_range_by_class = defaultdict(int)
@@ -258,14 +263,6 @@ def _score_classifier_by_tup_ranked(classifier, test_tups, conf_threshold=0.995)
     truncated_mean_rank = _truncated_mean(ranks)
 
     return (mean_rank, median_rank, truncated_mean_rank, avg_ambiguity_size, lost_by_threshold)
-
-### Maths
-def _avg(vals):
-    return sum(vals) / float(len(vals))
-
-def _stddev(vals):
-    avg = _avg(vals)
-    return sqrt(sum(((val - avg) ** 2 for val in vals)) / len(vals))
 
 ### Tests
 
@@ -353,11 +350,6 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
         print >> stderr, 'Done!'
 
     # Generate train folds
-    '''
-    for p in xrange(min_perc, max_perc, step_perc):
-        train_sets.append([sample(train, int((p / 100.0) * len(train)))
-                for _ in xrange(folds)])
-    '''
     if verbose:
         print >> stderr, 'Generating filters...',
     train_filters = []
@@ -393,7 +385,6 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
     results_by_classifier = {}
 
     for classifier_id, classifier_class in classifiers.iteritems():
-        ###
         if verbose:
             print >> stderr, 'Classifier:', classifier_id,
             
@@ -407,11 +398,6 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
         classifier_results = {}
         
         for train_fold_filters in train_filters:
-            '''
-            if verbose:
-                print >> stderr, 'Sample size: ({0}/{1}) ...'.format(
-                        -1, train_size),
-            '''
             
             scores = []
             for i, train_fold_filter in enumerate(train_fold_filters, start=1):
@@ -420,32 +406,12 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
 
                 train_fold_lbls = [l for l in _compress(train_lbls, train_fold_filter)]
                 train_fold_vecs = [v for v in _compress(train_vecs, train_fold_filter)]
-                '''if verbose:
-                    print >> stderr, 'Test fold: ({0}/{1})'.format(
-                            i, len(train_fold_filter))
-                '''
-
-                #classifier = classifier_class()
-                #assert not [i for i in train_fold_lbls if i == 0]
 
                 assert train_fold_lbls, train_fold_filter
                 assert train_fold_vecs, train_fold_filter
                 classifier._train(train_fold_lbls, train_fold_vecs)
 
-                #classifier.train(test_fold)
-                #if verbose:
-                #    print >> stderr, 'Done!'
-
-                #if verbose:
-                #    print >> stderr, 'Evaluating...',
                 scores.append(_score_classifier_by_tup(classifier, (test_lbls, test_vecs)))
-                #if verbose:
-                #    print >> stderr, 'Done!'
-
-                #if len(test_fold) == len(train):
-                #    # We only need to sample once when the sample is the
-                #    #   same size as what we sample if we are deterministic
-                #    break
           
             if verbose:
                 print 'Done!'
@@ -457,24 +423,14 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
             res_dics = [d for _, _, _, _, d in scores]
 
             classifier_result = (
-                    _avg(macro_scores), _stddev(macro_scores),
-                    _avg(micro_scores), _stddev(micro_scores),
-                    _avg(tps), _stddev(tps),
-                    _avg(fns), _stddev(fns),
+                    _mean(macro_scores), _stddev(macro_scores),
+                    _mean(micro_scores), _stddev(micro_scores),
+                    _mean(tps), _stddev(tps),
+                    _mean(fns), _stddev(fns),
                     res_dics,
                     )
             classifier_results[len(train_fold_lbls)] = classifier_result
             
-            '''
-            tps = [tp for tp, _, _ in scores]
-            fps = [fp for _, fp, _ in scores]
-            accs = [acc for _, _, acc in scores]
-
-            classifier_result = (_avg(tps), _avg(fps),
-                    _avg(accs), _stddev(accs))
-            classifier_results[len(test_fold)] = classifier_result
-            '''
-
             if verbose:
                 res_str = ('Results: '
                         'MACRO: {0:.3f} MACRO_STDDEV: {1:.3f} '
@@ -482,16 +438,9 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
                         'TP: {4:.3f} FP: {5:.3f}'
                         ).format(*classifier_result)
                 print res_str
-                '''
-                res_str = ('Results: TP: {0:.3f} FP: {1:.3f} '
-                        'P: {2:.3f} STDDEV: {3:.3f}'
-                        ).format(*classifier_result)
-                print >> stderr, res_str
-                '''
 
         results_by_classifier[classifier_id] = classifier_results
     return dataset_id, results_by_classifier
-    #results_by_dataset[dataset_id] = results_by_classifier
 
 def _get_quick_pickle_path(outdir):
     return join_path(outdir, 'quick.pickle')
@@ -572,11 +521,6 @@ def _learning_curve_test(classifiers, datasets, outdir,
     args = [(classifiers, d_id, d_getter, verbose, no_simstring_cache, use_test_set,
             folds, min_perc, max_perc, step_perc, it_factor)
             for d_id, d_getter in datasets.iteritems()]
-    '''
-    def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
-        verbose=False, no_simstring_cache=False, folds=10,
-        min_perc=5, max_perc=101, step_perc=5):
-    '''
 
     #XXX: How to solve the keyword args? Order?
 
@@ -615,7 +559,7 @@ def _learning_curve_avg(classifiers, datasets, outdir, pickle_name='learning'):
         print 'Dataset:', dataset
         for classifier in classifiers:
             print 'Classifier:', classifier
-            macro_avg = _avg([res_tup[0] for res_tup
+            macro_avg = _mean([res_tup[0] for res_tup
                 in results[dataset][classifier].itervalues()])
 
             print macro_avg
@@ -686,14 +630,6 @@ def _plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
                     for size_value, res_tup in classifier_results.iteritems()]
             res_tups.sort()
 
-            '''
-                    _avg(macro_scores), _stddev(macro_scores),
-                    _avg(micro_scores), _stddev(micro_scores),
-                    _avg(tps), _stddev(tps),
-                    _avg(fps), _stddev(fps),
-            '''
-
-
             sample_sizes = [t[0] for t in res_tups]
             macro_vals = [t[1] for t in res_tups]
             macro_stds = [t[2] for t in res_tups]
@@ -740,12 +676,6 @@ def _plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
 
             ax.legend(handles2, labels2, loc=4)
 
-        '''
-        for i in xrange(1, 100):
-            val = float(i) / 100
-            if min_seen < val < max_seen:
-                plt.axhline(y=float(i) / 10, color='k')
-        '''
         plt.ylim()#ymax=1.0) #ymin=0.0
 
         for fmt in ('png', 'svg', ):
