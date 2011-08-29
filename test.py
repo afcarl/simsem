@@ -251,13 +251,13 @@ def _score_classifier_by_tup_ranked(classifier, test_tups, conf_threshold=0.995)
 
     ranks = [e for e in chain(*results_by_class.itervalues())]
     lost_by_threshold = sum(not_in_range_by_class.itervalues()) / float(len(ranks))
-    avg_answer_size = _mean([e for e in chain(*ambd_by_class.itervalues())])
+    avg_ambiguity_size = _mean([e for e in chain(*ambd_by_class.itervalues())])
     mean_rank = _mean(ranks)
     median_rank = _median(ranks)
     # 5% on each side
     truncated_mean_rank = _truncated_mean(ranks)
 
-    return (mean_rank, median_rank, truncated_mean_rank, avg_answer_size, lost_by_threshold)
+    return (mean_rank, median_rank, truncated_mean_rank, avg_ambiguity_size, lost_by_threshold)
 
 ### Maths
 def _avg(vals):
@@ -1198,7 +1198,7 @@ def _ranking(classifiers, datasets, outdir, verbose=False, worker_pool=None,
             
             res_tup = _score_classifier_by_tup_ranked(classifier,
                     (test_lbls, test_vecs), conf_threshold=0.995)
-            mean, median, truncated_mean, avg_answer_size, lost_by_threshold = res_tup
+            mean, median, truncated_mean, avg_ambiguity, lost_by_threshold = res_tup
 
             res_str = ('Results: '
                     '{0:.3f}/'
@@ -1206,8 +1206,8 @@ def _ranking(classifiers, datasets, outdir, verbose=False, worker_pool=None,
                     '{2:.3f}/'
                     '{3:.3f}/'
                     '{4:.3f} '
-                    '(MEAN/MEDIAN/DISC_MEAN/ANSSIZE/LOST)'
-                    ).format(mean, median, truncated_mean, avg_answer_size, lost_by_threshold)
+                    '(MEAN/MEDIAN/DISC_MEAN/AMBIGUITY/LOST)'
+                    ).format(mean, median, truncated_mean, avg_ambiguity, lost_by_threshold)
 
             if verbose:
                 print res_str
