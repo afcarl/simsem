@@ -130,16 +130,24 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
             fns = [fn for _, _, _, fn, _ in scores]
             res_dics = [d for _, _, _, _, d in scores]
 
-            classifier_result = [
+            # New metrics
+            mean_ranks = [mr for mr, _, _, _, _ in new_scores]
+            avg_amb = [amb for _, _, _, amb, _ in new_scores]
+            losses = [loss for _, _, _, _, loss in new_scores]
+
+            classifier_result = (
                     mean(macro_scores), stddev(macro_scores),
                     mean(micro_scores), stddev(micro_scores),
                     mean(tps), stddev(tps),
                     mean(fns), stddev(fns),
                     res_dics,
-                    ]
-            classifier_result.extend(new_scores)
-            classifier_result = tuple(classifier_result)
-            # XXX: Hooking new scores into the old learning
+                    # New metrics
+                    mean_ranks,
+                    avg_amb,
+                    losses,
+                    )
+
+
             classifier_results[len(train_fold_lbls)] = classifier_result
             
             if verbose:
@@ -213,18 +221,8 @@ def learning_curve_avg(classifiers, datasets, outdir, pickle_name='learning'):
 
             print macro_avg
 
-#XXX: This part is MESSY
-NO_LEGEND = False
-MINIMAL = True
-def plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
-    # We have to try to import here, or we will crash
+def _plot_curve(plot_dir, results, plot_name, new_metric=False):
     import matplotlib.pyplot as plt
-
-    if worker_pool is not None:
-        raise NotImplementedError
-
-    with open(_get_learning_pickle_path(outdir, name=pickle_name), 'r') as results_file:
-        results = pickle_load(results_file)
 
     line_colour_by_classifier = {
             'NAIVE': 'm',
@@ -252,18 +250,20 @@ def plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
             #'COMPETITIVE': 'k',
             }
 
-    plot_dir = outdir
     for dataset, classifiers in results.iteritems():
         fig = plt.figure()
-        #plt.title(dataset)
-        plt.ylabel('Accuracy')
-        plt.xlabel('Training Examples')
-
-        #legendary_dic = {}
+        if not new_metric:
+            plt.ylabel('Accuracy')
+            plt.xlabel('Training Examples')
+        else:
+            plt.ylabel('Ambiguity')
+            plt.xlabel('Training Examples')
 
         min_seen = 1
         max_seen = 0
         for classifier, classifier_results in classifiers.iteritems():
+            if classifier != 'INTERNAL-SIMSTRING': #XXX:
+                continue
             if MINIMAL:
                 if classifier not in ('INTERNAL', 'INTERNAL-SIMSTRING', 'INTERNAL-GAZETTER', ):
                     continue
@@ -275,7 +275,9 @@ def plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
             else:
                 classifier_name = classifier
 
-            res_tups = [(size_value, res_tup[0], res_tup[1], res_tup[2], res_tup[3])
+            # TODO: Get rid of all this index sillines, named tuple...
+            res_tups = [(size_value, res_tup[0], res_tup[1], res_tup[2],
+                res_tup[3], res_tup[4], res_tup[5], res_tup[6])
                     for size_value, res_tup in classifier_results.iteritems()]
             res_tups.sort()
 
@@ -284,49 +286,72 @@ def plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
             macro_stds = [t[2] for t in res_tups]
             micro_vals = [t[3] for t in res_tups]
             micro_stds = [t[4] for t in res_tups]
+            # New metrics
+            mean_ranks = [mean(t[5]) for t in res_tups]
+            avg_ambiguity_sizes = [mean(t[6]) for t in res_tups]
+            avg_ambiguity_sizes_stddev = [stddev(t[6]) for t in res_tups]
+            losses_by_threshold = [mean(t[7]) for t in res_tups]
+
+            print mean_ranks
+            assert False
 
             max_seen = max(max_seen, max(macro_vals))
             min_seen = min(max_seen, min(macro_vals))
 
-            #plt.axhline(y=float(i) / 10, color='k')
-
-            #lines, _, _ = 
-            plt.errorbar(sample_sizes, macro_vals,
-                    #yerr=macro_stds,
-                    label=classifier_name,
-                    linestyle=line_style_by_classifier[classifier],
-                    color='k',
-                    #color=line_colour_by_classifier[classifier],
-                    )
-            #linestyle='--'
-            #plt.errorbar(sample_sizes, micro_vals,
-            #        #yerr=micro_stds, #label=classifier,
-            #        linestyle='--',
-            #        color=line_colour_by_classifier[classifier])
-
-            #lines = None
-            #legendary_dic[classifier] = lines
-            #print >> stderr, legendary_dic
-            #line.set_color(line_colour_by_classifier[classifier])
-
-        #ax.legend([c for c, _ in legendary_dic.iteritems()],
-        #        [l for _, l in legendary_dic.iteritems()], loc=4)##
+            if not new_metric:
+                plt.errorbar(sample_sizes, macro_vals,
+                        yerr=macro_stds,
+                        label=classifier_name,
+                        linestyle=line_style_by_classifier[classifier],
+                        color='k',
+                        # Disabled colour plotting
+                        #color=line_colour_by_classifier[classifier],
+                        )
+            else:
+                print sample_sizes
+                print mean_ranks
+                plt.errorbar(sample_sizes, mean_ranks,
+                        yerr=avg_ambiguity_sizes_stddev,
+                        label=classifier_name,
+                        color='k',
+                        )
         if not NO_LEGEND:
-            ax = fig.get_axes()[0]
-            handles, labels = ax.get_legend_handles_labels()
+            if not new_metric:
+                ax = fig.get_axes()[0]
+                handles, labels = ax.get_legend_handles_labels()
 
-            # reverse the order
-            ax.legend(handles[::-1], labels[::-1])
+                # reverse the order
+                ax.legend(handles[::-1], labels[::-1])
 
-            # or sort them by labels
-            hl = sorted(zip(handles, labels),
-                    key=itemgetter(1))
-            handles2, labels2 = zip(*hl)
+                # or sort them by labels
+                hl = sorted(zip(handles, labels),
+                        key=itemgetter(1))
+                handles2, labels2 = zip(*hl)
 
-            ax.legend(handles2, labels2, loc=4)
+                ax.legend(handles2, labels2, loc=4)
+            else:
+                pass #XXX
 
         plt.ylim()#ymax=1.0) #ymin=0.0
 
         for fmt in ('png', 'svg', ):
-            plt.savefig(path_join(plot_dir, dataset.lower() + '_' + pickle_name) + '.' + fmt,
+            plt.savefig(path_join(plot_dir, dataset.lower() + '_' + plot_name) + '.' + fmt,
                     format=fmt)
+
+    pass
+
+#XXX: This part is MESSY
+NO_LEGEND = False
+MINIMAL = True
+def plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
+    # We have to try to import here, or we will crash
+
+    if worker_pool is not None:
+        raise NotImplementedError
+
+    with open(_get_learning_pickle_path(outdir, name=pickle_name), 'r'
+            ) as results_file:
+        results = pickle_load(results_file)
+
+    _plot_curve(outdir, results, pickle_name)
+    _plot_curve(outdir, results, pickle_name + '_new_metric', new_metric=True)
