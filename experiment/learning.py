@@ -11,7 +11,7 @@ from sys import stderr
 
 from common import compress, simstring_caching
 from maths import mean, stddev
-from scoring import score_classifier_by_tup
+from scoring import score_classifier_by_tup, score_classifier_by_tup_ranked
 
 try:
     from cPickle import dump as pickle_dump, load as pickle_load
@@ -102,6 +102,7 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
         for train_fold_filters in train_filters:
             
             scores = []
+            new_scores = []
             for i, train_fold_filter in enumerate(train_fold_filters, start=1):
                 if verbose and i % 10 == 0:
                     print >> stderr, i, '...',
@@ -113,7 +114,11 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
                 assert train_fold_vecs, train_fold_filter
                 classifier._train(train_fold_lbls, train_fold_vecs)
 
-                scores.append(score_classifier_by_tup(classifier, (test_lbls, test_vecs)))
+                scores.append(score_classifier_by_tup(classifier,
+                    (test_lbls, test_vecs)))
+                # XXX: Hooking new scores into the old learning
+                new_scores.append(score_classifier_by_tup_ranked(classifier,
+                    (test_lbls, test_vecs), unseen=True))
           
             if verbose:
                 print 'Done!'
@@ -124,13 +129,16 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
             fns = [fn for _, _, _, fn, _ in scores]
             res_dics = [d for _, _, _, _, d in scores]
 
-            classifier_result = (
+            classifier_result = [
                     mean(macro_scores), stddev(macro_scores),
                     mean(micro_scores), stddev(micro_scores),
                     mean(tps), stddev(tps),
                     mean(fns), stddev(fns),
                     res_dics,
-                    )
+                    ]
+            classifier_result.extend(new_scores)
+            classifier_result = tuple(classifier_result)
+            # XXX: Hooking new scores into the old learning
             classifier_results[len(train_fold_lbls)] = classifier_result
             
             if verbose:

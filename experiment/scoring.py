@@ -7,9 +7,10 @@ Author:     Pontus Stenetorp    <pontus stenetorp se>
 Version:    2011-08-30
 '''
 
-from itertools import izip
+from collections import defaultdict
+from itertools import chain, izip
 
-from maths import mean
+from maths import mean, median, truncated_mean
 
 def score_classifier(classifier, test_set):
     # (TP, FP, FN) # Leaving out TN
@@ -109,7 +110,7 @@ def score_classifier_by_tup(classifier, test_tups):
     return (macro_score, micro_score, tp_sum, fn_sum, results_by_class)
         
 def score_classifier_by_tup_ranked(classifier, test_tups,
-        conf_threshold=0.995):
+        conf_threshold=0.995, unseen=False):
     results_by_class = {}
     ambd_by_class = defaultdict(list)
     not_in_range_by_class = defaultdict(int)
@@ -129,8 +130,12 @@ def score_classifier_by_tup_ranked(classifier, test_tups,
                 rank = i
                 break
         else:
-            assert False, "'{}' not in {}".format(test_lbl_type,
-                    predicted) # Should not happen
+            # If there are unseen categories our assection can not hold
+            if not unseen:
+                assert False, "'{}' not in {}".format(test_lbl_type,
+                        predicted) # Should not happen
+            else:
+                rank = i
 
         conf_sum = 0.0
         for i, prob in enumerate((p for _, p in predicted), start=1):
