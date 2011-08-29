@@ -43,6 +43,9 @@ from classifier.simstring.classifier import (SimStringEnsembleClassifier,
 from classifier.simstring.query import query_simstring_db
 from classifier.simstring.config import SIMSTRING_DB_PATHS
 
+from experiment.scoring import (score_classifier, score_classifier_by_tup,
+        score_classifier_by_tup_ranked)
+
 from toolsconf import SIMSTRING_LIB_PATH
 sys_path.append(SIMSTRING_LIB_PATH)
 
@@ -60,6 +63,11 @@ from classifier.competitive import SimStringTsuruokaInternalClassifier
 from classifier.competitive import SimStringTsuruokaClassifier
 
 from classifier.liblinear import _k_folds, hashabledict
+
+from experiment.common import simstring_caching
+from experiment.learning import (learning_curve_avg, learning_curve_test,
+        plot_learning_curve)
+from maths import mean, median, truncated_mean
 
 ### Constants
 CLASSIFIERS = OrderedDict((
@@ -93,355 +101,6 @@ DATASETS = OrderedDict((
     ))
 ###
 
-# I hate Python 2.6...
-def _compress(it, flter):
-    for e, v in izip(it, flter):
-        if v:
-            yield e
-
-### Maths
-def _stddev(vals):
-    avg = _mean(vals)
-    return sqrt(sum(((val - avg) ** 2 for val in vals)) / len(vals))
-
-def _mean(l):
-    return sum(l) / float(len(l))
-
-def _median(l):
-    return sorted(l)[len(l)/2]
-
-def _truncated_mean(l, truncation=0.05):
-    offset = int(len(l) * truncation)
-    return sum(sorted(l)[offset:-offset]) / float(len(l) - 2 * offset)
-
-def _score_classifier(classifier, test_set):
-    # (TP, FP, FN) # Leaving out TN
-    results_by_class = {} #XXX: THIS HAS TO BE A CLASS!
-
-    for document in test_set:
-        for sentence in document:
-            for annotation in sentence:
-                # TODO: Cast annotation into span! It needs to be censored
-                predicted = classifier.classify(document, sentence, annotation)
-                
-                try:
-                    results_by_class[annotation.type]
-                except KeyError:
-                    results_by_class[annotation.type] = (0, 0, 0)
-
-                try:
-                    results_by_class[predicted]
-                except KeyError:
-                    results_by_class[predicted] = (0, 0, 0)
-
-                a_tp, a_fp, a_fn = results_by_class[annotation.type]
-                p_tp, p_fp, p_fn = results_by_class[predicted]
-
-                if predicted == annotation.type:
-                    results_by_class[annotation.type] = (a_tp + 1, a_fp, a_fn)
-                if predicted != annotation.type:
-                    results_by_class[annotation.type] = (a_tp, a_fp, a_fn + 1)
-                    results_by_class[predicted] =  (p_tp, p_fp + 1, p_fn)
-
-    # Extend the results to:
-    # macro, micro, {RESULTS_BY_CLASS}
-    tp_sum = sum([tp for tp, _, _ in results_by_class.itervalues()])
-    fn_sum = sum([fn for _, _, fn in results_by_class.itervalues()])
-    macro_score = tp_sum / float(tp_sum + fn_sum)
-    
-    micro_scores = []
-    for res_tup in results_by_class.itervalues():
-        m_tp, _, m_fn = res_tup
-        m_tot = float(m_tp + m_fn)
-        if m_tot <= 0:
-            micro_scores.append(1.0)
-        else:
-            micro_scores.append(m_tp / float(m_tp + m_fn))
-    micro_score = _mean(micro_scores)
-
-    return (macro_score, micro_score, tp_sum, fn_sum, results_by_class)
-
-def _score_classifier_by_tup(classifier, test_tups):
-    # (TP, FP, FN) # Leaving out TN
-    results_by_class = {} #XXX: THIS HAS TO BE A CLASS!
-
-    for test_lbl, test_vec in izip(*test_tups):
-        if not isinstance(test_lbl, str):
-            test_lbl_type = classifier.name_by_lbl_id[test_lbl]
-        else:
-            test_lbl_type = test_lbl
-
-        # TODO: Cast annotation into span! It needs to be censored
-        predicted = classifier._classify(test_vec)
-        
-        try:
-            results_by_class[test_lbl_type]
-        except KeyError:
-            results_by_class[test_lbl_type] = (0, 0, 0)
-
-        try:
-            results_by_class[predicted]
-        except KeyError:
-            results_by_class[predicted] = (0, 0, 0)
-
-        a_tp, a_fp, a_fn = results_by_class[test_lbl_type]
-        p_tp, p_fp, p_fn = results_by_class[predicted]
-
-        if predicted == test_lbl_type:
-            results_by_class[test_lbl_type] = (a_tp + 1, a_fp, a_fn)
-        if predicted != test_lbl_type:
-            results_by_class[test_lbl_type] = (a_tp, a_fp, a_fn + 1)
-            results_by_class[predicted] =  (p_tp, p_fp + 1, p_fn)
-
-    # Extend the results to:
-    # macro, micro, {RESULTS_BY_CLASS}
-    tp_sum = sum([tp for tp, _, _ in results_by_class.itervalues()])
-    fn_sum = sum([fn for _, _, fn in results_by_class.itervalues()])
-    macro_score = tp_sum / float(tp_sum + fn_sum)
-    
-    micro_scores = []
-    for res_tup in results_by_class.itervalues():
-        m_tp, _, m_fn = res_tup
-        m_tot = float(m_tp + m_fn)
-        if m_tot <= 0:
-            micro_scores.append(1.0)
-        else:
-            micro_scores.append(m_tp / float(m_tp + m_fn))
-    micro_score = _mean(micro_scores)
-
-    return (macro_score, micro_score, tp_sum, fn_sum, results_by_class)
-        
-def _score_classifier_by_tup_ranked(classifier, test_tups,
-        conf_threshold=0.995):
-    results_by_class = {}
-    ambd_by_class = defaultdict(list)
-    not_in_range_by_class = defaultdict(int)
-    for test_lbl, test_vec in izip(*test_tups):
-        if not isinstance(test_lbl, str):
-            test_lbl_type = classifier.name_by_lbl_id[test_lbl]
-        else:
-            test_lbl_type = test_lbl
-
-        # TODO: Cast annotation into span! It needs to be censored
-        # XXX: Ranked will fail for some classifiers since not all are prob.
-        predicted = classifier._classify(test_vec, ranked=True)
-
-        # Find where the correct answer was ranked
-        for i, pred in enumerate((p for p, _ in predicted), start=1):
-            if pred == test_lbl_type:
-                rank = i
-                break
-        else:
-            assert False, "'{}' not in {}".format(test_lbl_type,
-                    predicted) # Should not happen
-
-        conf_sum = 0.0
-        for i, prob in enumerate((p for _, p in predicted), start=1):
-            conf_sum += prob
-            if conf_sum >= conf_threshold:
-                conf_threshold_cutoff = i
-                break
-        else:
-            conf_threshold_cutoff = i
-        ambd_by_class[test_lbl_type].append(conf_threshold_cutoff)
-
-        # Determine if the threshold cut away the correct answer
-        if rank > conf_threshold_cutoff:
-            not_in_range_by_class[test_lbl_type] += 1
-
-        try:
-            results_by_class[test_lbl_type].append(rank)
-        except KeyError:
-            results_by_class[test_lbl_type] = [rank, ]
-
-    ranks = [e for e in chain(*results_by_class.itervalues())]
-    lost_by_threshold = sum(not_in_range_by_class.itervalues()) / float(len(ranks))
-    avg_ambiguity_size = _mean([e for e in chain(*ambd_by_class.itervalues())])
-    mean_rank = _mean(ranks)
-    median_rank = _median(ranks)
-    # 5% on each side
-    truncated_mean_rank = _truncated_mean(ranks)
-
-    return (mean_rank, median_rank, truncated_mean_rank, avg_ambiguity_size, lost_by_threshold)
-
-### Tests
-
-# XXX: Pre-load the simstring cache uglily!
-def _cache_simstring(datasets, verbose=False, ann_modulo=1000,
-        queries_modulo=1000):
-    if verbose:
-        print >> stderr, 'Caching SimString:'
-
-        print >> stderr, 'Pre-caching queries...',
-        queries_seen = 0
-
-    # For most cases we are better off caching every single query instead of
-    # iterating over them, this also makes sure that each query is unique when
-    # we finally hit the SimString database
-    queries = set()
-    for dataset in datasets:
-        for document in dataset:
-            for sentence in document:
-                for annotation in sentence:
-                    queries.add(sentence.annotation_text(annotation))
-                    if verbose:
-                        queries_seen += 1
-                        if queries_seen % queries_modulo == 0:
-                            print >> stderr, queries_seen, '...',
-    if verbose:
-        print >> stderr, ('Done! (reduced from {} to {})'
-                ).format(queries_seen, len(queries))
-
-    for db_i, db_path in enumerate(SIMSTRING_DB_PATHS, start=1):
-        if verbose:
-            print >> stderr, 'Caching for db: {0} ({1}/{2}) ...'.format(db_path, db_i,
-                    len(SIMSTRING_DB_PATHS)),
-        
-        if verbose:
-            ann_cnt = 0
-        db_reader = None
-        try:
-            db_reader = simstring_reader(db_path)
-            for query in queries:
-                query_simstring_db(query, db_path,
-                    reader_arg=db_reader)
-
-                if verbose:
-                    ann_cnt += 1
-                    if ann_cnt % ann_modulo == 0:
-                        print >> stderr, ann_cnt, '...',
-
-        finally:
-            if db_reader is not None:
-                db_reader.close()
-        if verbose:
-            print >> stderr, 'Done!'
-
-def __learning_curve_test_data_set(args):
-    return _learning_curve_test_data_set(*args)
-
-
-# TODO: We probably need more folds
-def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
-        verbose=False, no_simstring_cache=False, use_test_set=False, folds=10,
-        min_perc=5, max_perc=101, step_perc=5, it_factor=1):
-    if verbose:
-        print >> stderr, 'Data set:', dataset_id
-
-    if verbose:
-        print >> stderr, 'Caching vectorised data...',
-    train, dev, test = dataset_getter()
-    if use_test_set:
-        train, dev = list(chain(train, dev)), list(test)
-    else:
-        train, dev = list(train), list(dev)
-
-    if verbose:
-        print >> stderr, 'Done!'
-
-    if verbose:
-        print >> stderr, 'Calculating train set size...',
-    train_size = 0
-    for d in train:
-        for s in d:
-            for a in s:
-                train_size += 1
-    if verbose:
-        print >> stderr, 'Done!'
-
-    # Generate train folds
-    if verbose:
-        print >> stderr, 'Generating filters...',
-    train_filters = []
-    indices = [i for i in xrange(train_size)]
-    for p in xrange(min_perc, max_perc, step_perc):
-        sample_size = int((p / 100.0) * train_size)
-        # XXX: Heuristic, * 2?
-
-        if it_factor is not None:
-            folds = int(int(train_size / float(sample_size)) * it_factor)
-        else:
-            folds = 1
-    
-        if max_perc == 100:
-            folds = 1
-        elif folds < 2:
-            folds = 2
-
-        fold_filters = []
-        for _ in xrange(folds):
-            selected_indices = set(sample(indices, sample_size))
-            fold_filters.append([i in selected_indices for i in indices])
-        train_filters.append(fold_filters)
-
-    if verbose:
-        print >> stderr, 'Done!'
-
-    if not no_simstring_cache:
-        _simstring_caching(classifiers, (train, dev), verbose=verbose)
-
-    # Collect the seen type to iterate over later
-    seen_types = set()
-    results_by_classifier = {}
-
-    for classifier_id, classifier_class in classifiers.iteritems():
-        if verbose:
-            print >> stderr, 'Classifier:', classifier_id,
-            
-        classifier = classifier_class()
-        train_lbls, train_vecs = classifier._gen_lbls_vecs(train)
-        test_lbls,  test_vecs = classifier._gen_lbls_vecs(dev)
-
-        assert len(train_lbls) == train_size, '{} != {}'.format(
-                len(train_lbls), train_size)
-
-        classifier_results = {}
-        
-        for train_fold_filters in train_filters:
-            
-            scores = []
-            for i, train_fold_filter in enumerate(train_fold_filters, start=1):
-                if verbose and i % 10 == 0:
-                    print >> stderr, i, '...',
-
-                train_fold_lbls = [l for l in _compress(train_lbls, train_fold_filter)]
-                train_fold_vecs = [v for v in _compress(train_vecs, train_fold_filter)]
-
-                assert train_fold_lbls, train_fold_filter
-                assert train_fold_vecs, train_fold_filter
-                classifier._train(train_fold_lbls, train_fold_vecs)
-
-                scores.append(_score_classifier_by_tup(classifier, (test_lbls, test_vecs)))
-          
-            if verbose:
-                print 'Done!'
-
-            macro_scores = [ms for ms, _, _, _, _ in scores]
-            micro_scores = [ms for _, ms, _, _, _ in scores]
-            tps = [tp for _, _, tp, _, _ in scores]
-            fns = [fn for _, _, _, fn, _ in scores]
-            res_dics = [d for _, _, _, _, d in scores]
-
-            classifier_result = (
-                    _mean(macro_scores), _stddev(macro_scores),
-                    _mean(micro_scores), _stddev(micro_scores),
-                    _mean(tps), _stddev(tps),
-                    _mean(fns), _stddev(fns),
-                    res_dics,
-                    )
-            classifier_results[len(train_fold_lbls)] = classifier_result
-            
-            if verbose:
-                res_str = ('Results: '
-                        'MACRO: {0:.3f} MACRO_STDDEV: {1:.3f} '
-                        'MICRO: {2:.3f} MICRO_STDDEV: {3:.3f} '
-                        'TP: {4:.3f} FP: {5:.3f}'
-                        ).format(*classifier_result)
-                print res_str
-
-        results_by_classifier[classifier_id] = classifier_results
-    return dataset_id, results_by_classifier
-
 def _get_quick_pickle_path(outdir):
     return join_path(outdir, 'quick.pickle')
 
@@ -469,7 +128,7 @@ def _quick_test(classifiers, datasets, outdir, verbose=False, worker_pool=None,
             print >> stderr, 'Done!'
       
         if not no_simstring_cache:
-            _simstring_caching(classifiers, (train, dev), verbose=verbose)
+            simstring_caching(classifiers, (train, dev), verbose=verbose)
     
         # Collect the seen type to iterate over later
         seen_types = set()
@@ -483,7 +142,7 @@ def _quick_test(classifiers, datasets, outdir, verbose=False, worker_pool=None,
 
             classifier.train(train)
 
-            score = _score_classifier(classifier, dev)
+            score = score_classifier(classifier, dev)
             results_by_classifier[classifier_id] = score
             macro_score, micro_score, tp_sum, fn_sum, _ = score
             
@@ -503,186 +162,6 @@ def _quick_test(classifiers, datasets, outdir, verbose=False, worker_pool=None,
     if verbose:
         print >> stderr, 'Results written to:', results_file_path
 
-
-def _learning_curve_test(classifiers, datasets, outdir,
-        verbose=False, no_simstring_cache=False, folds=10, worker_pool=None,
-        min_perc=5, max_perc=101, step_perc=5, it_factor=1,
-        pickle_name='learning', use_test_set=False
-        ):
-    ### This part is really generic
-    # TODO: We could keep old results... But dangerous, mix-up
-    results_file_path = _get_learning_pickle_path(outdir, pickle_name)
-    #XXX: RESUME GOES HERE!
-    results_by_dataset = {}
-    
-    # TODO: If we have a single dataset we could do multi for classifiers,
-    #       but beware of caching.
-
-    args = [(classifiers, d_id, d_getter, verbose, no_simstring_cache, use_test_set,
-            folds, min_perc, max_perc, step_perc, it_factor)
-            for d_id, d_getter in datasets.iteritems()]
-
-    #XXX: How to solve the keyword args? Order?
-
-    if worker_pool is not None:
-        res_it = worker_pool.imap(__learning_curve_test_data_set, args)
-    else:
-        res_it = (_learning_curve_test_data_set(*arg) for arg in args)
-
-    for dataset_id, dataset_results in res_it:
-        results_by_dataset[dataset_id] = dataset_results
-
-        ### HACK TO GET INTERMEDIATE!
-        with open(results_file_path, 'w') as results_file:
-            pickle_dump(results_by_dataset, results_file)
-
-        if verbose:
-            print >> stderr, 'Results written to:', results_file_path
-        ###
-
-    with open(results_file_path, 'w') as results_file:
-        pickle_dump(results_by_dataset, results_file)
-
-    if verbose:
-        print >> stderr, 'Results written to:', results_file_path
-
-def _get_learning_pickle_path(outdir, name='learning'):
-    return join_path(outdir, '{0}_results.pickle'.format(name))
-
-# Nice table-able number for a curve
-def _learning_curve_avg(classifiers, datasets, outdir, pickle_name='learning'):
-
-    with open(_get_learning_pickle_path(outdir, name=pickle_name), 'r') as results_file:
-        results = pickle_load(results_file)
-
-    for dataset in datasets:
-        print 'Dataset:', dataset
-        for classifier in classifiers:
-            print 'Classifier:', classifier
-            macro_avg = _mean([res_tup[0] for res_tup
-                in results[dataset][classifier].itervalues()])
-
-            print macro_avg
-
-#XXX: This part is MESSY
-NO_LEGEND = False
-MINIMAL = True
-def _plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
-    # We have to try to import here, or we will crash
-    import matplotlib.pyplot as plt
-
-    if worker_pool is not None:
-        raise NotImplementedError
-
-    with open(_get_learning_pickle_path(outdir, name=pickle_name), 'r') as results_file:
-        results = pickle_load(results_file)
-
-    line_colour_by_classifier = {
-            'NAIVE': 'm',
-            #'MAXVOTE': 'y',
-            'INTERNAL': 'r',
-            'SIMSTRING': 'y',
-            'INTERNAL-SIMSTRING': 'b',
-            #'SIMPLE-INTERNAL-ENSEMBLE': 'g',
-            'GAZETTER': 'c',
-            'INTERNAL-GAZETTER': 'g',
-            #'SIMSTRING-COMPETITIVE': 'm',
-            #'COMPETITIVE': 'k',
-            } # We need more colours?
-
-    line_style_by_classifier = {
-            'NAIVE': '-:', #XXX:
-            #'MAXVOTE': 'y',
-            'INTERNAL': 'default-.',
-            'SIMSTRING': 'steps-pre-.',
-            'INTERNAL-SIMSTRING': '-',
-            #'SIMPLE-INTERNAL-ENSEMBLE': 'g',
-            'GAZETTER': 'c',
-            'INTERNAL-GAZETTER': '--',
-            #'SIMSTRING-COMPETITIVE': 'm',
-            #'COMPETITIVE': 'k',
-            }
-
-    plot_dir = outdir
-    for dataset, classifiers in results.iteritems():
-        fig = plt.figure()
-        #plt.title(dataset)
-        plt.ylabel('Accuracy')
-        plt.xlabel('Training Examples')
-
-        #legendary_dic = {}
-
-        min_seen = 1
-        max_seen = 0
-        for classifier, classifier_results in classifiers.iteritems():
-            if MINIMAL:
-                if classifier not in ('INTERNAL', 'INTERNAL-SIMSTRING', 'INTERNAL-GAZETTER', ):
-                    continue
-                classifier_name = {
-                        'INTERNAL': 'Internal',
-                        'INTERNAL-SIMSTRING': 'Internal-SimString',
-                        'INTERNAL-GAZETTER': 'Internal-Gazetteer',
-                        }[classifier]
-            else:
-                classifier_name = classifier
-
-            res_tups = [(size_value, res_tup[0], res_tup[1], res_tup[2], res_tup[3])
-                    for size_value, res_tup in classifier_results.iteritems()]
-            res_tups.sort()
-
-            sample_sizes = [t[0] for t in res_tups]
-            macro_vals = [t[1] for t in res_tups]
-            macro_stds = [t[2] for t in res_tups]
-            micro_vals = [t[3] for t in res_tups]
-            micro_stds = [t[4] for t in res_tups]
-
-            max_seen = max(max_seen, max(macro_vals))
-            min_seen = min(max_seen, min(macro_vals))
-
-            #plt.axhline(y=float(i) / 10, color='k')
-
-            #lines, _, _ = 
-            plt.errorbar(sample_sizes, macro_vals,
-                    #yerr=macro_stds,
-                    label=classifier_name,
-                    linestyle=line_style_by_classifier[classifier],
-                    color='k',
-                    #color=line_colour_by_classifier[classifier],
-                    )
-            #linestyle='--'
-            #plt.errorbar(sample_sizes, micro_vals,
-            #        #yerr=micro_stds, #label=classifier,
-            #        linestyle='--',
-            #        color=line_colour_by_classifier[classifier])
-
-            #lines = None
-            #legendary_dic[classifier] = lines
-            #print >> stderr, legendary_dic
-            #line.set_color(line_colour_by_classifier[classifier])
-
-        #ax.legend([c for c, _ in legendary_dic.iteritems()],
-        #        [l for _, l in legendary_dic.iteritems()], loc=4)##
-        if not NO_LEGEND:
-            ax = fig.get_axes()[0]
-            handles, labels = ax.get_legend_handles_labels()
-
-            # reverse the order
-            ax.legend(handles[::-1], labels[::-1])
-
-            # or sort them by labels
-            hl = sorted(zip(handles, labels),
-                    key=itemgetter(1))
-            handles2, labels2 = zip(*hl)
-
-            ax.legend(handles2, labels2, loc=4)
-
-        plt.ylim()#ymax=1.0) #ymin=0.0
-
-        for fmt in ('png', 'svg', ):
-            plt.savefig(join_path(plot_dir, dataset.lower() + '_' + pickle_name) + '.' + fmt,
-                    format=fmt)
-
-            ### XXX: ST_VIS
 ST_VIS_DIR = join_path(dirname(__file__), 'st_vis') 
 ST_VIS_FILES = [join_path(ST_VIS_DIR, f)
         for f in ('code.js', 'index.html', 'style.css', )]
@@ -707,18 +186,6 @@ def _set_up_st_vis_dir(st_vis_dir):
         copy(file_path, join_path(outdir, 'lib', basename(file_path)))
 ###
 
-def _simstring_caching(classifiers, document_sets, verbose=False):
-    if any((True for k in classifiers
-        # NOTE: Keep this check up to date
-        if 'SIMSTRING' in k or 'GAZETTER' in k or 'TSURUOKA' in k)):
-        if verbose:
-            print >> stderr, 'Caching queries for SimString:'
-
-        _cache_simstring(document_sets, verbose=verbose)
-    else:
-        if verbose:
-            print >> stderr, 'No caching necessary for the given classifier'
-
 def _confusion_matrix_test(classifiers, datasets, outdir,
         verbose=False, no_simstring_cache=False, worker_pool=None):
     results_by_dataset = {}
@@ -738,7 +205,7 @@ def _confusion_matrix_test(classifiers, datasets, outdir,
             print >> stderr, 'Done!'
 
         if not no_simstring_cache:
-            _simstring_caching(classifiers, (train, dev), verbose=verbose)
+            simstring_caching(classifiers, (train, dev), verbose=verbose)
 
         # Collect the seen type to iterate over later
         seen_types = set()
@@ -881,7 +348,7 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
                 print >> stderr, 'Done!'
 
             if not no_simstring_cache:
-                _simstring_caching((classifier_name, ),
+                simstring_caching((classifier_name, ),
                     (train, test, ), verbose=verbose)
 
 
@@ -950,7 +417,7 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
 
                 test_censored_vecs = [d for d in _censor_sparse_vectors_gen(
                     test_vecs, idxs_to_censor)]
-                curr_macro_score = _score_classifier_by_tup(classifier,
+                curr_macro_score = score_classifier_by_tup(classifier,
                         (test_lbls, test_censored_vecs))[0]
 
                 print 'Current state on test is: {}'.format(curr_macro_score)
@@ -1020,7 +487,7 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
 
                 print 'Training and evaluating a model of our previous state...',
                 classifier._liblinear_train(train_lbls, train_uncensored_vecs)
-                before_macro_score = _score_classifier_by_tup(classifier,
+                before_macro_score = score_classifier_by_tup(classifier,
                         (test_lbls, test_vecs))[0]
                 print 'Done!'
 
@@ -1032,7 +499,7 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
 
                 test_censored_vecs = [d for d in _censor_sparse_vectors_gen(test_vecs,
                     set(i for i in chain(*(vec_idxs_by_feat_id[f_id] for f_id in removed))))]
-                after_macro_score = _score_classifier_by_tup(classifier,
+                after_macro_score = score_classifier_by_tup(classifier,
                         (test_lbls, test_censored_vecs))[0]
 
                 res_str = 'Before: {} After: {}'.format(before_macro_score,
@@ -1068,10 +535,10 @@ def _knockout_pass(f_id, classifier, train_data, folds, to_censor):
         test_vecs = [d for d in _censor_sparse_vectors_gen(
             (v for _, v in test_set), to_censor)]
         test_lbls = (l for l, _ in test_set)
-        res_tup =_score_classifier_by_tup(classifier, (test_lbls, test_vecs))
+        res_tup =score_classifier_by_tup(classifier, (test_lbls, test_vecs))
         macro_scores.append(res_tup[0])
 
-    mean = _mean(macro_scores)
+    mean = mean(macro_scores)
 
     return f_id, mean
 
@@ -1086,7 +553,7 @@ def _cache(datasets, verbose=False):
             print >> stderr, 'Done!'
 
     # Hi-jack by fooling it into believing we are a SimString classifier
-    _simstring_caching(('SIMSTRING', ),
+    simstring_caching(('SIMSTRING', ),
         dataset_getters, verbose=verbose)
 
 def _ranking(classifiers, datasets, outdir, verbose=False, worker_pool=None,
@@ -1113,7 +580,7 @@ def _ranking(classifiers, datasets, outdir, verbose=False, worker_pool=None,
             print >> stderr, 'Done!'
 
         if not no_simstring_cache:
-            _simstring_caching(classifiers, (train, dev), verbose=verbose)
+            simstring_caching(classifiers, (train, dev), verbose=verbose)
 
         for classifier_id, classifier_class in classifiers.iteritems():
             if verbose:
@@ -1126,7 +593,7 @@ def _ranking(classifiers, datasets, outdir, verbose=False, worker_pool=None,
             test_lbls, test_vecs = classifier._gen_lbls_vecs(dev)
 
             
-            res_tup = _score_classifier_by_tup_ranked(classifier,
+            res_tup = score_classifier_by_tup_ranked(classifier,
                     (test_lbls, test_vecs), conf_threshold=0.995)
             mean, median, truncated_mean, avg_ambiguity, lost_by_threshold = res_tup
 
@@ -1175,20 +642,20 @@ def main(args):
             _confusion_matrix_test(classifiers, datasets, outdir,
                     verbose=verbose, no_simstring_cache=no_simstring_cache)
         elif test == 'learning':
-            _learning_curve_test(classifiers, datasets, outdir,
+            learning_curve_test(classifiers, datasets, outdir,
                     verbose=verbose, no_simstring_cache=no_simstring_cache,
                     worker_pool=worker_pool, use_test_set=argp.test_set)
         elif test == 'low-learning':
-            _learning_curve_test(classifiers, datasets, outdir,
+            learning_curve_test(classifiers, datasets, outdir,
                     verbose=verbose, no_simstring_cache=no_simstring_cache,
                     worker_pool=worker_pool, it_factor=None,
                     min_perc=1, max_perc=30, step_perc=2,
                     pickle_name='low_learning', use_test_set=argp.test_set
                     )
         elif test == 'plot':
-            _plot_learning_curve(outdir)
+            plot_learning_curve(outdir)
         elif test == 'low-plot':
-            _plot_learning_curve(outdir, pickle_name='low_learning')
+            plot_learning_curve(outdir, pickle_name='low_learning')
         elif test == 'quick':
             _quick_test(classifiers, datasets, outdir,
                     verbose=verbose, no_simstring_cache=no_simstring_cache,
@@ -1196,7 +663,7 @@ def main(args):
         elif test == 'cache':
             _cache(datasets, verbose=verbose)
         elif test == 'learning-avg':
-            _learning_curve_avg(classifiers, datasets, outdir)
+            learning_curve_avg(classifiers, datasets, outdir)
         elif test == 'lex-descent':
             _lexical_descent(classifiers, datasets, outdir,
                 verbose=verbose, no_simstring_cache=no_simstring_cache,
