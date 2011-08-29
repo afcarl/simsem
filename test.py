@@ -234,14 +234,14 @@ def _score_classifier_by_tup_ranked(classifier, test_tups, conf_threshold=0.995)
         for i, prob in enumerate((p for _, p in predicted), start=1):
             conf_sum += prob
             if conf_sum >= conf_threshold:
-                conf_threshold = i
+                conf_threshold_cutoff = i
                 break
         else:
-            conf_threshold = i
-        ambd_by_class[test_lbl_type].append(conf_threshold)
+            conf_threshold_cutoff = i
+        ambd_by_class[test_lbl_type].append(conf_threshold_cutoff)
 
         # Determine if the threshold cut away the correct answer
-        if rank > conf_threshold:
+        if rank > conf_threshold_cutoff:
             not_in_range_by_class[test_lbl_type] += 1
 
         try:
@@ -1195,8 +1195,10 @@ def _ranking(classifiers, datasets, outdir, verbose=False, worker_pool=None,
 
             test_lbls, test_vecs = classifier._gen_lbls_vecs(dev)
 
-            mean, median, truncated_mean, avg_answer_size, lost_by_threshold = _score_classifier_by_tup_ranked(
-                    classifier, (test_lbls, test_vecs), conf_threshold=0.995)
+            
+            res_tup = _score_classifier_by_tup_ranked(classifier,
+                    (test_lbls, test_vecs), conf_threshold=0.995)
+            mean, median, truncated_mean, avg_answer_size, lost_by_threshold = res_tup
 
             res_str = ('Results: '
                     '{0:.3f}/'
@@ -1211,7 +1213,7 @@ def _ranking(classifiers, datasets, outdir, verbose=False, worker_pool=None,
                 print res_str
 
             with open(join_path(outdir, 'ranked_{}_{}.txt'.format(
-                classifier, dataset_id)), 'w') as out_file:
+                classifier_id, dataset_id)), 'w') as out_file:
 
                 out_file.write(res_str)
 
