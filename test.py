@@ -9,10 +9,12 @@ Version:    2011-03-02
 
 from argparse import ArgumentParser
 from collections import defaultdict, namedtuple
+from copy import deepcopy
 from itertools import chain, izip, tee
 from json import dumps as json_dumps
 from math import sqrt
 from multiprocessing import Pool
+from operator import itemgetter
 from os import listdir, makedirs
 from os.path import abspath, basename, dirname, join as join_path
 from random import sample, seed, random
@@ -56,6 +58,9 @@ from classifier.competitive import TsuruokaInternalClassifier
 from classifier.competitive import TsuruokaClassifier
 from classifier.competitive import SimStringTsuruokaInternalClassifier
 from classifier.competitive import SimStringTsuruokaClassifier
+
+from classifier.liblinear import _k_folds, hashabledict
+
 
 ### Constants
 CLASSIFIERS = OrderedDict((
@@ -151,8 +156,6 @@ def _score_classifier(classifier, test_set):
     micro_score = _avg(micro_scores)
 
     return (macro_score, micro_score, tp_sum, fn_sum, results_by_class)
-
-from itertools import izip
 
 def _score_classifier_by_tup(classifier, test_tups):
     # (TP, FP, FN) # Leaving out TN
@@ -291,7 +294,6 @@ def __learning_curve_test_data_set(args):
 def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
         verbose=False, no_simstring_cache=False, use_test_set=False, folds=10,
         min_perc=5, max_perc=101, step_perc=5, it_factor=1):
-    #from itertools import compress
     if verbose:
         print >> stderr, 'Data set:', dataset_id
 
@@ -698,9 +700,8 @@ def _plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
             ax.legend(handles[::-1], labels[::-1])
 
             # or sort them by labels
-            import operator
             hl = sorted(zip(handles, labels),
-                    key=operator.itemgetter(1))
+                    key=itemgetter(1))
             handles2, labels2 = zip(*hl)
 
             ax.legend(handles2, labels2, loc=4)
@@ -919,7 +920,6 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
                 _simstring_caching((classifier_name, ),
                     (train, test, ), verbose=verbose)
 
-            from copy import deepcopy
 
             train_lbls, train_vecs = classifier._gen_lbls_vecs(train)
             test_lbls, test_vecs = classifier._gen_lbls_vecs(test)
@@ -1086,8 +1086,6 @@ def _lexical_descent(classifiers, datasets, outdir, verbose=False,
 
 def __knockout_pass(args):
     return _knockout_pass(*args)
-
-from classifier.liblinear import _k_folds, hashabledict
 
 def _knockout_pass(f_id, classifier, train_data, folds, to_censor):
     macro_scores = []
