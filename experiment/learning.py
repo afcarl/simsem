@@ -287,13 +287,9 @@ def _plot_curve(plot_dir, results, plot_name, new_metric=False):
             micro_vals = [t[3] for t in res_tups]
             micro_stds = [t[4] for t in res_tups]
             # New metrics
-            mean_ranks = [mean(t[5]) for t in res_tups]
-            avg_ambiguity_sizes = [mean(t[6]) for t in res_tups]
-            avg_ambiguity_sizes_stddev = [stddev(t[6]) for t in res_tups]
-            losses_by_threshold = [mean(t[7]) for t in res_tups]
-
-            print mean_ranks
-            assert False
+            mean_ranks = [t[5] for t in res_tups]
+            avg_ambiguity_sizes = [t[6] for t in res_tups]
+            losses_by_threshold = [t[7] for t in res_tups]
 
             max_seen = max(max_seen, max(macro_vals))
             min_seen = min(max_seen, min(macro_vals))
@@ -308,10 +304,7 @@ def _plot_curve(plot_dir, results, plot_name, new_metric=False):
                         #color=line_colour_by_classifier[classifier],
                         )
             else:
-                print sample_sizes
-                print mean_ranks
-                plt.errorbar(sample_sizes, mean_ranks,
-                        yerr=avg_ambiguity_sizes_stddev,
+                plt.errorbar(sample_sizes, avg_ambiguity_sizes,
                         label=classifier_name,
                         color='k',
                         )
@@ -354,4 +347,4 @@ def plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
         results = pickle_load(results_file)
 
     _plot_curve(outdir, results, pickle_name)
-    _plot_curve(outdir, results, pickle_name + '_new_metric', new_metric=True)
+    _plot_curve(outdir, results, pickle_name + '_ambiguity', new_metric=True)
