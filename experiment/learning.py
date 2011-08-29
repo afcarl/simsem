@@ -5,6 +5,7 @@ Author:     Pontus Stenetorp    <pontus stenetorp se>
 Version:    2011-08-29
 '''
 
+from operator import itemgetter
 from os.path import join as path_join
 from random import sample
 from sys import stderr
