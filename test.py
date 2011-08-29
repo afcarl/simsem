@@ -207,23 +207,57 @@ def _score_classifier_by_tup(classifier, test_tups):
 
     return (macro_score, micro_score, tp_sum, fn_sum, results_by_class)
         
-    '''
-    true_positive = 0
-    false_positive = 0
-    
-    for document in test_set:
-        for sentence in document:
-            for annotation in sentence:
-                # TODO: Cast annotation into span! It needs to be censored
-                predicted = classifier.classify(document, sentence, annotation)
-                if predicted == annotation.type:
-                    true_positive += 1
-                else:
-                    false_positive += 1
+def _score_classifier_by_tup_ranked(classifier, test_tups, conf_threshold=0.995):
+    results_by_class = {}
+    ambd_by_class = defaultdict(list)
+    not_in_range_by_class = defaultdict(int)
+    for test_lbl, test_vec in izip(*test_tups):
+        if not isinstance(test_lbl, str):
+            test_lbl_type = classifier.name_by_lbl_id[test_lbl]
+        else:
+            test_lbl_type = test_lbl
 
-    return (true_positive, false_positive,
-            float(true_positive) / (true_positive + false_positive))
-    '''
+        # TODO: Cast annotation into span! It needs to be censored
+        # XXX: Ranked will fail for some classifiers since not all are prob.
+        predicted = classifier._classify(test_vec, ranked=True)
+
+        # Find where the correct answer was ranked
+        for i, pred in enumerate((p for p, _ in predicted), start=1):
+            if pred == test_lbl_type:
+                rank = i
+                break
+        else:
+            assert False, "'{}' not in {}".format(test_lbl_type,
+                    predicted) # Should not happen
+
+        conf_sum = 0.0
+        for i, prob in enumerate((p for _, p in predicted), start=1):
+            conf_sum += prob
+            if conf_sum >= conf_threshold:
+                conf_threshold = i
+                break
+        else:
+            conf_threshold = i
+        ambd_by_class[test_lbl_type].append(conf_threshold)
+
+        # Determine if the threshold cut away the correct answer
+        if rank > conf_threshold:
+            not_in_range_by_class[test_lbl_type] += 1
+
+        try:
+            results_by_class[test_lbl_type].append(rank)
+        except KeyError:
+            results_by_class[test_lbl_type] = [rank, ]
+
+    ranks = [e for e in chain(*results_by_class.itervalues())]
+    lost_by_threshold = sum(not_in_range_by_class.itervalues()) / float(len(ranks))
+    avg_answer_size = _mean([e for e in chain(*ambd_by_class.itervalues())])
+    mean_rank = _mean(ranks)
+    median_rank = _median(ranks)
+    # 5% on each side
+    truncated_mean_rank = _truncated_mean(ranks)
+
+    return (mean_rank, median_rank, truncated_mean_rank, avg_answer_size, lost_by_threshold)
 
 ### Maths
 def _avg(vals):
@@ -1121,8 +1155,65 @@ def _cache(datasets, verbose=False):
         if verbose:
             print >> stderr, 'Done!'
 
+    # Hi-jack by fooling it into believing we are a SimString classifier
     _simstring_caching(('SIMSTRING', ),
         dataset_getters, verbose=verbose)
+
+def _ranking(classifiers, datasets, outdir, verbose=False, worker_pool=None,
+        no_simstring_cache=False, use_test_set=False):
+
+    if worker_pool is not None:
+        raise NotImplementedError
+
+    for dataset_id, dataset_getter in datasets.iteritems():
+        if verbose:
+            print >> stderr, 'Data set:', dataset_id
+
+        if verbose:
+            print >> stderr, 'Caching data set...',
+
+        train_set, dev_set, test_set = dataset_getter()
+        if use_test_set:
+            train, dev = list(chain(train_set, dev_set)), list(test_set)
+        else:
+            train, dev = list(train_set), list(dev_set)
+        del train_set, dev_set, test_set
+
+        if verbose:
+            print >> stderr, 'Done!'
+
+        if not no_simstring_cache:
+            _simstring_caching(classifiers, (train, dev), verbose=verbose)
+
+        for classifier_id, classifier_class in classifiers.iteritems():
+            if verbose:
+                print >> stderr, 'Classifier:', classifier_id
+
+            classifier = classifier_class()
+
+            classifier.train(train)
+
+            test_lbls, test_vecs = classifier._gen_lbls_vecs(dev)
+
+            mean, median, truncated_mean, avg_answer_size, lost_by_threshold = _score_classifier_by_tup_ranked(
+                    classifier, (test_lbls, test_vecs), conf_threshold=0.995)
+
+            res_str = ('Results: '
+                    '{0:.3f}/'
+                    '{1:.3f}/'
+                    '{2:.3f}/'
+                    '{3:.3f}/'
+                    '{4:.3f} '
+                    '(MEAN/MEDIAN/DISC_MEAN/ANSSIZE/LOST)'
+                    ).format(mean, median, truncated_mean, avg_answer_size, lost_by_threshold)
+
+            if verbose:
+                print res_str
+
+            with open(join_path(outdir, 'ranked_{}_{}.txt'.format(
+                classifier, dataset_id)), 'w') as out_file:
+
+                out_file.write(res_str)
 
 def main(args):
     argp = ARGPARSER.parse_args(args[1:])
@@ -1178,6 +1269,11 @@ def main(args):
             _lexical_descent(classifiers, datasets, outdir,
                 verbose=verbose, no_simstring_cache=no_simstring_cache,
                 worker_pool=worker_pool, use_test_set=argp.test_set)
+        elif test == 'ranking':
+            _ranking(classifiers, datasets, outdir, verbose=verbose,
+                    worker_pool=worker_pool,
+                    no_simstring_cache=no_simstring_cache,
+                    use_test_set=argp.test_set)
         else:
             assert False, 'Unimplemented test case, {}'.format(test)
 
@@ -1189,7 +1285,7 @@ ARGPARSER.add_argument('outdir', type=writeable_dir)
 # Test commands
 ARGPARSER.add_argument('test', choices=('confusion', 'learning', 'plot',
     'quick', 'low-learning', 'low-plot', 'cache', 'learning-avg',
-    'lex-descent', ),
+    'lex-descent', 'ranking', ),
     action='append', nargs='+')
 ARGPARSER.add_argument('-c', '--classifier', default=[],
         choices=tuple([c for c in CLASSIFIERS]),
