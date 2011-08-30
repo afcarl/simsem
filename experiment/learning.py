@@ -146,8 +146,6 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
             ambiguities = [mean(ambs) for _, ambs, _ in new_scores]
             recalls = [r for  _, _, r in new_scores]
 
-            print recalls
-
             # These are means of means
             ranks_mean = mean(ranks)
             ranks_stddev = stddev(ranks)
