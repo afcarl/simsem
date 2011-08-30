@@ -128,15 +128,18 @@ def score_classifier_by_tup_ranked(classifier, test_tups,
         for i, pred in enumerate((p for p, _ in predicted), start=1):
             if pred == test_lbl_type:
                 rank = i
+                unseen_sample = False
                 break
         else:
-            # If there are unseen categories our assection can not hold
+            # If there are unseen categories our assumption can not hold
             if not unseen:
                 assert False, "'{}' not in {}".format(test_lbl_type,
                         predicted) # Should not happen
             else:
                 rank = i
+                unseen_sample = True
 
+        # Find at which index our confidence threshold would cut
         conf_sum = 0.0
         for i, prob in enumerate((p for _, p in predicted), start=1):
             conf_sum += prob
@@ -144,11 +147,14 @@ def score_classifier_by_tup_ranked(classifier, test_tups,
                 conf_threshold_cutoff = i
                 break
         else:
-            conf_threshold_cutoff = i
+            # The threshold contained all possible alternatives
+            conf_threshold_cutoff = len(predicted)
         ambd_by_class[test_lbl_type].append(conf_threshold_cutoff)
 
-        # Determine if the threshold cut away the correct answer
-        if rank > conf_threshold_cutoff:
+        # Determine if the threshold cut away the correct answer, or if
+        # we could not have gotten it correct since we had not seen any
+        # training data for this annotation
+        if unseen_sample or rank > conf_threshold_cutoff:
             not_in_range_by_class[test_lbl_type] += 1
 
         try:
