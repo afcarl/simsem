@@ -296,7 +296,7 @@ def _plot_curve(plot_dir, results, plot_name, new_metric=False):
 
             # TODO: Get rid of all this index sillines, named tuple...
             res_tups = [(size_value, res_tup[0], res_tup[1], res_tup[2],
-                res_tup[3], res_tup[4], res_tup[5], res_tup[6])
+                res_tup[3], res_tup[11], res_tup[12], res_tup[13], res_tup[14])
                     for size_value, res_tup in classifier_results.iteritems()]
             res_tups.sort()
 
@@ -306,9 +306,10 @@ def _plot_curve(plot_dir, results, plot_name, new_metric=False):
             micro_vals = [t[3] for t in res_tups]
             micro_stds = [t[4] for t in res_tups]
             # New metrics
-            rank_mean = [t[5] for t in res_tups]
-            avg_ambiguity_sizes = [t[6] for t in res_tups]
-            losses_by_threshold = [t[7] for t in res_tups]
+            ambiguity_means = [t[5] for t in res_tups]
+            ambiguity_stds = [t[6] for t in res_tups]
+            losses_means =  [t[7] for t in res_tups]
+            losses_stds = [t[8] for t in res_tups]
 
             max_seen = max(max_seen, max(macro_vals))
             min_seen = min(max_seen, min(macro_vals))
@@ -323,7 +324,8 @@ def _plot_curve(plot_dir, results, plot_name, new_metric=False):
                         #color=line_colour_by_classifier[classifier],
                         )
             else:
-                plt.errorbar(sample_sizes, avg_ambiguity_sizes,
+                plt.errorbar(sample_sizes, ambiguity_means,
+                        yerr=ambiguity_stds,
                         label=classifier_name,
                         color='k',
                         )
