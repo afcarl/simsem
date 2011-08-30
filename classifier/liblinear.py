@@ -58,7 +58,7 @@ def _liblinear_classify(vecs, model):
     try:
         with open('/dev/null', 'w') as dev_null:
             sys.stdout = dev_null
-            # We don't really need -b 1
+            # We don't really need -b 1 here
             predictions, _, _ = liblinear_predict(
                     [], vecs, model, '') #'-b 1')
             return predictions
@@ -299,8 +299,9 @@ class LibLinearClassifier(Classifier):
             else:
                 # We need a bit of magic to get this list right since LibLinear
                 # only returns a single label we will played with the indexes
-                probs_and_lbl = [(prob, self.name_by_lbl_id[i])
-                        for i, prob in enumerate(probabilities[0], start=1)]
+                # NOTE: Labels are stored in self.model.label, never assume otherwise
+                probs_and_lbl = [(prob, self.name_by_lbl_id[lbl_id])
+                        for lbl_id, prob in izip(self.model.label, probabilities[0])]
                 probs_and_lbl.sort()
                 probs_and_lbl.reverse()
                 # Now flip the tuples and we have the ranked labels
