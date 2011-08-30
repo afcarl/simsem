@@ -56,6 +56,11 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
     # Generate train folds
     if verbose:
         print >> stderr, 'Generating filters...',
+
+    # Fix the seed so that we get comparable folds
+    from random import seed
+    seed(0xd5347d33)
+
     train_filters = []
     indices = [i for i in xrange(train_size)]
     for p in xrange(min_perc, max_perc, step_perc):
@@ -106,6 +111,9 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
             scores = []
             new_scores = []
             for i, train_fold_filter in enumerate(train_fold_filters, start=1):
+                if i == 1:
+                    print >> stderr, '(sample_size: {})'.format(
+                            len([e for e in train_fold_filter if e])),
                 if verbose and i % 10 == 0:
                     print >> stderr, i, '...',
 
