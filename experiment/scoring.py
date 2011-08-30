@@ -168,6 +168,8 @@ def score_classifier_by_tup_ranked(classifier, test_tups,
     # All ambiguities in a single collection
     ambiguities = [e for e in chain(*ambd_by_class.itervalues())]
     assert len(ranks) == len(ambiguities)
+    assert len(ranks) == len(test_tups[0])
+    assert len(ranks) == len(test_tups[1])
     # Recall over all classes
     recall = 1.0 - sum(not_in_range_by_class.itervalues()) / float(len(ranks))
 

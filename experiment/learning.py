@@ -8,7 +8,7 @@ Version:    2011-08-29
 from itertools import chain
 from operator import itemgetter
 from os.path import join as path_join
-from random import sample
+from random import sample, seed
 from sys import stderr
 
 from common import compress, simstring_caching
@@ -34,11 +34,13 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
 
     if verbose:
         print >> stderr, 'Caching vectorised data...',
-    train, dev, test = dataset_getter()
+
+    train_set, dev_set, test_set = dataset_getter()
     if use_test_set:
-        train, dev = list(chain(train, dev)), list(test)
+        train, test = list(chain(train_set, dev_set)), list(test_set)
     else:
-        train, dev = list(train), list(dev)
+        train, test = list(train_set), list(dev_set)
+    del train_set, dev_set, test_set
 
     if verbose:
         print >> stderr, 'Done!'
@@ -58,7 +60,6 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
         print >> stderr, 'Generating filters...',
 
     # Fix the seed so that we get comparable folds
-    from random import seed
     seed(0xd5347d33)
 
     train_filters = []
@@ -87,7 +88,7 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
         print >> stderr, 'Done!'
 
     if not no_simstring_cache:
-        simstring_caching(classifiers, (train, dev), verbose=verbose)
+        simstring_caching(classifiers, (train, test), verbose=verbose)
 
     # Collect the seen type to iterate over later
     seen_types = set()
@@ -99,7 +100,7 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
             
         classifier = classifier_class()
         train_lbls, train_vecs = classifier._gen_lbls_vecs(train)
-        test_lbls,  test_vecs = classifier._gen_lbls_vecs(dev)
+        test_lbls,  test_vecs = classifier._gen_lbls_vecs(test)
 
         assert len(train_lbls) == train_size, '{} != {}'.format(
                 len(train_lbls), train_size)
@@ -112,8 +113,9 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
             new_scores = []
             for i, train_fold_filter in enumerate(train_fold_filters, start=1):
                 if i == 1:
-                    print >> stderr, '(sample_size: {})'.format(
-                            len([e for e in train_fold_filter if e])),
+                    print >> stderr, '(sample_size: {} out of {})'.format(
+                            len([e for e in train_fold_filter if e]),
+                            len(train_fold_filter)),
                 if verbose and i % 10 == 0:
                     print >> stderr, i, '...',
 
