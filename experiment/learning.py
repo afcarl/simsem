@@ -134,15 +134,17 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
             # New metrics
             ranks = [mean(rs) for rs, _, _ in new_scores]
             ambiguities = [mean(ambs) for _, ambs, _ in new_scores]
-            losses = [loss for  _, _, loss in new_scores]
+            recalls = [r for  _, _, r in new_scores]
+
+            print recalls
 
             # These are means of means
             ranks_mean = mean(ranks)
             ranks_stddev = stddev(ranks)
             ambiguities_mean = mean(ambiguities)
             ambiguities_stddev = stddev(ambiguities)
-            losses_mean = mean(losses)
-            losses_stddev = stddev(losses)
+            recalls_mean = mean(recalls)
+            recalls_stddev = stddev(recalls)
 
             classifier_result = (
                     mean(macro_scores), stddev(macro_scores),
@@ -153,7 +155,7 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
                     # New metrics
                     ranks_mean, ranks_stddev,
                     ambiguities_mean, ambiguities_stddev,
-                    losses_mean, losses_stddev,
+                    recalls_mean, recalls_stddev
                     )
 
 
@@ -166,15 +168,15 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
                         'TP: {4:.3f} FP: {5:.3f} '
                         'MEAN_RANK: {mean_rank:.3f} MEAN_RANK_STDDEV: {mean_rank_stddev:.3f} '
                         'AVG_AMB: {avg_amb:.3f} AVG_AMB_STDDEV: {avg_amb_stddev:.3f} '
-                        'LOST: {lost:.3f} LOST_STDDEV: {lost_stddev:.3f}'
+                        'RECALL: {recall:.3f} RECALL_STDDEV: {recall_stddev:.3f}'
                         ).format(*classifier_result,
                                 size=len(train_fold_lbls),
                                 mean_rank=ranks_mean,
                                 mean_rank_stddev=ranks_stddev,
                                 avg_amb=ambiguities_mean,
                                 avg_amb_stddev=ambiguities_stddev,
-                                lost=losses_mean,
-                                lost_stddev=losses_stddev
+                                recall=recalls_mean,
+                                recall_stddev=recalls_stddev
                                 )
                 print res_str
 
