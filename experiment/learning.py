@@ -132,10 +132,11 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
             res_dics = [d for _, _, _, _, d in scores]
 
             # New metrics
-            ranks = [r for r in chain(*(rs for rs, _, _ in new_scores))] 
-            ambiguities = [a for a in chain(*(ambs for _, ambs, _ in new_scores))]
+            ranks = [mean(rs) for rs, _, _ in new_scores]
+            ambiguities = [mean(ambs) for _, ambs, _ in new_scores]
             losses = [loss for  _, _, loss in new_scores]
 
+            # These are means of means
             ranks_mean = mean(ranks)
             ranks_stddev = stddev(ranks)
             ambiguities_mean = mean(ambiguities)
