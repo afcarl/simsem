@@ -156,12 +156,12 @@ def score_classifier_by_tup_ranked(classifier, test_tups,
         except KeyError:
             results_by_class[test_lbl_type] = [rank, ]
 
+    ## Going from class-specific (micro) to global (macro)
+    # All rank entries in a single collection
     ranks = [e for e in chain(*results_by_class.itervalues())]
-    lost_by_threshold = sum(not_in_range_by_class.itervalues()) / float(len(ranks))
-    avg_ambiguity_size = mean([e for e in chain(*ambd_by_class.itervalues())])
-    mean_rank = mean(ranks)
-    median_rank = median(ranks)
-    # 5% on each side
-    truncated_mean_rank = truncated_mean(ranks)
+    # All ambiguities in a single collection
+    ambiguities = [e for e in chain(*ambd_by_class.itervalues())]
+    # Recall over all classes
+    recall = sum(not_in_range_by_class.itervalues()) / float(len(ranks))
 
-    return (mean_rank, median_rank, truncated_mean_rank, avg_ambiguity_size, lost_by_threshold)
+    return (ranks, ambiguities, recall)

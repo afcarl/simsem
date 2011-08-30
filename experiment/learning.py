@@ -5,6 +5,7 @@ Author:     Pontus Stenetorp    <pontus stenetorp se>
 Version:    2011-08-29
 '''
 
+from itertools import chain
 from operator import itemgetter
 from os.path import join as path_join
 from random import sample
@@ -61,7 +62,7 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
         sample_size = int((p / 100.0) * train_size)
         # XXX: Heuristic, * 2?
 
-        if it_factor is not None:
+        if it_factor is not None and False:
             folds = int(int(train_size / float(sample_size)) * it_factor)
         else:
             folds = 1
@@ -131,9 +132,16 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
             res_dics = [d for _, _, _, _, d in scores]
 
             # New metrics
-            mean_ranks = [mr for mr, _, _, _, _ in new_scores]
-            avg_amb = [amb for _, _, _, amb, _ in new_scores]
-            losses = [loss for _, _, _, _, loss in new_scores]
+            ranks = [r for r in chain(*(rs for rs, _, _ in new_scores))] 
+            ambiguities = [a for a in chain(*(ambs for _, ambs, _ in new_scores))]
+            losses = [loss for  _, _, loss in new_scores]
+
+            ranks_mean = mean(ranks)
+            ranks_stddev = stddev(ranks)
+            ambiguities_mean = mean(ambiguities)
+            ambiguities_stddev = stddev(ambiguities)
+            losses_mean = mean(losses)
+            losses_stddev = stddev(losses)
 
             classifier_result = (
                     mean(macro_scores), stddev(macro_scores),
@@ -142,20 +150,31 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
                     mean(fns), stddev(fns),
                     res_dics,
                     # New metrics
-                    mean_ranks,
-                    avg_amb,
-                    losses,
+                    ranks_mean, ranks_stddev,
+                    ambiguities_mean, ambiguities_stddev,
+                    losses_mean, losses_stddev,
                     )
 
 
             classifier_results[len(train_fold_lbls)] = classifier_result
             
             if verbose:
-                res_str = ('Results: '
+                res_str = ('Results {size}: '
                         'MACRO: {0:.3f} MACRO_STDDEV: {1:.3f} '
                         'MICRO: {2:.3f} MICRO_STDDEV: {3:.3f} '
-                        'TP: {4:.3f} FP: {5:.3f}'
-                        ).format(*classifier_result)
+                        'TP: {4:.3f} FP: {5:.3f} '
+                        'MEAN_RANK: {mean_rank:.3f} MEAN_RANK_STDDEV: {mean_rank_stddev:.3f} '
+                        'AVG_AMB: {avg_amb:.3f} AVG_AMB_STDDEV: {avg_amb_stddev:.3f} '
+                        'LOST: {lost:.3f} LOST_STDDEV: {lost_stddev:.3f}'
+                        ).format(*classifier_result,
+                                size=len(train_fold_lbls),
+                                mean_rank=ranks_mean,
+                                mean_rank_stddev=ranks_stddev,
+                                avg_amb=ambiguities_mean,
+                                avg_amb_stddev=ambiguities_stddev,
+                                lost=losses_mean,
+                                lost_stddev=losses_stddev
+                                )
                 print res_str
 
         results_by_classifier[classifier_id] = classifier_results
@@ -287,7 +306,7 @@ def _plot_curve(plot_dir, results, plot_name, new_metric=False):
             micro_vals = [t[3] for t in res_tups]
             micro_stds = [t[4] for t in res_tups]
             # New metrics
-            mean_ranks = [t[5] for t in res_tups]
+            rank_mean = [t[5] for t in res_tups]
             avg_ambiguity_sizes = [t[6] for t in res_tups]
             losses_by_threshold = [t[7] for t in res_tups]
 
