@@ -66,7 +66,6 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
     indices = [i for i in xrange(train_size)]
     for p in xrange(min_perc, max_perc, step_perc):
         sample_size = int((p / 100.0) * train_size)
-        # XXX: Heuristic, * 2?
 
         if it_factor is not None:
             folds = int(int(train_size / float(sample_size)) * it_factor)
@@ -74,12 +73,14 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
             folds = 1
     
         if max_perc == 100:
+            # We can't sample when we use the whole set...
             folds = 1
-        elif folds < 2:
-            folds = 2
+        # Heuristic to keep us from having too low of a sample
+        elif folds < 4:
+            folds = 4
 
         fold_filters = []
-        for _ in xrange(folds):
+        for _ in xrange(folds * 2):
             selected_indices = set(sample(indices, sample_size))
             fold_filters.append([i in selected_indices for i in indices])
         train_filters.append(fold_filters)
@@ -113,9 +114,9 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
             new_scores = []
             for i, train_fold_filter in enumerate(train_fold_filters, start=1):
                 if i == 1:
-                    print >> stderr, '(sample_size: {} out of {})'.format(
+                    print >> stderr, '(sample_size: {} out of {}, samples: {})'.format(
                             len([e for e in train_fold_filter if e]),
-                            len(train_fold_filter)),
+                            len(train_fold_filter), len(train_fold_filters)),
                 if verbose and i % 10 == 0:
                     print >> stderr, i, '...',
 
