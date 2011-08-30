@@ -62,7 +62,7 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
         sample_size = int((p / 100.0) * train_size)
         # XXX: Heuristic, * 2?
 
-        if it_factor is not None and False:
+        if it_factor is not None:
             folds = int(int(train_size / float(sample_size)) * it_factor)
         else:
             folds = 1
