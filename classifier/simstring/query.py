@@ -140,19 +140,25 @@ def query_simstring_db(query, db_path, reader_arg=None):
                     response = False
                 tsuruoka_dist = None
             else:
-                # Save the full (or partial) response as results
-                if RESPONSE_CUT_OFF:
-                    resp_it = (e for i, e in enumerate(response) if i < RESPONSE_CUT_OFF)
-                else:
-                    resp_it = response
+                # Okay, now we are in a pickle, SimString has returned
+                # everything sorted by length... Although it had it internally
+                # by n-gram. *sigh* We need it by n-gram.
 
                 if response:
+                    # Sort the response to prepare a cut-off
+                    from lib.ngram import n_gram_ref_cos_cmp, n_gram_gen
+                    ref_grams = set(g for g in n_gram_gen(query_utf8, n=3))
+
+                    response = sorted(response, cmp=lambda a, b: -n_gram_ref_cos_cmp(a, b, ref_grams))
+                    # Cut-off time!
+                    response = response[:RESPONSE_CUT_OFF]
+
                     if TSURUOKA_NORMALISED:
                         tsuruoka_dist = max(bucket_norm_tsuruoka(query_utf8, resp_str)
-                                for resp_str in resp_it)
+                                for resp_str in response)
                     else:
                         tsuruoka_dist = min(bucket_tsuruoka(query_utf8, resp_str)
-                                for resp_str in resp_it)
+                                for resp_str in response)
             if response:
                 cache[query] = (threshold, tsuruoka_dist)
                 # We can and should bail at this point
@@ -205,6 +211,6 @@ def bucket_norm_tsuruoka(a, b):
     return _norm_bucket(tsuruoka_norm(a, b))
 
 ### Constants ###
-TSURUOKA_DIST = False
-TSURUOKA_NORMALISED = False
+TSURUOKA_DIST = True
+TSURUOKA_NORMALISED = True
 ###
