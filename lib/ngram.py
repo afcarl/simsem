@@ -9,10 +9,17 @@ Version:    2011-09-02
 
 from math import sqrt
 
-def n_gram_ref_cos_cmp(a, b, ref_grams, n=3):
-    a_grams = set(g for g in n_gram_gen(a, n=n))
-    b_grams = set(g for g in n_gram_gen(b, n=n))
-    return cmp(_ngram_cos_cmp(a_grams, ref_grams), _ngram_cos_cmp(b_grams, ref_grams))
+### Constants
+# Tilde is still ASCII and very uncommon (PubMed)
+DEFAULT_START_GUARD = u'~'
+DEFAULT_END_GUARD = u'~'
+###
+
+def n_gram_ref_cos_cmp(a, b, ref_grams, n=3, guards=False):
+    a_grams = set(g for g in n_gram_gen(a, n=n, guards=guards))
+    b_grams = set(g for g in n_gram_gen(b, n=n, guards=guards))
+    return cmp(_ngram_cos_cmp(a_grams, ref_grams),
+            _ngram_cos_cmp(b_grams, ref_grams))
 
 def _ngram_cos_cmp(a, b):
     hits = 0
@@ -25,10 +32,16 @@ def _ngram_cos_cmp(a, b):
     return hits / sqrt(len(a) * len(b))
 
 # TODO: Start/End Guards
-def n_gram_gen(s, n=3):
+def n_gram_gen(s, n=3, guards=False, start_guard=DEFAULT_START_GUARD,
+        end_guard=DEFAULT_END_GUARD):
+    if guards:
+        _s = start_guard + s + end_guard
+    else:
+        _s = s
+
     i = 0
-    while i <= len(s) - n:
-        yield s[i:i + n]
+    while i <= len(_s) - n:
+        yield _s[i:i + n]
         i += 1
 
 if __name__ == '__main__':
@@ -38,14 +51,22 @@ if __name__ == '__main__':
     print 'Tri-grams:'
     for g in n_gram_gen(s):
         print g
+    print
 
     print 'Full-string-gram:'
     for g in n_gram_gen(s, n=len(s)):
         print g
+    print
 
     print 'Too-long-gram:'
     for g in n_gram_gen(s, n=len(s) + 1):
         print g
+    print
+        
+    print 'Tri-grams (guarded):'
+    for g in n_gram_gen(s, guards=True):
+        print g
+    print
 
     print 'Sorting:'
     ref_grams = set(g for g in n_gram_gen(s))
@@ -67,3 +88,27 @@ if __name__ == '__main__':
         print 'cmp: {} {} {}'.format(a, c, b)
     print sorted(l)
     print sorted(l, cmp=lambda a, b: -n_gram_ref_cos_cmp(a, b, ref_grams))
+    print
+    
+    print 'Sorting (guarded):'
+    unguarded_ref_grams = ref_grams
+    ref_grams = set(g for g in n_gram_gen(s, guards=True))
+    s_1 = 'python'
+    s_2 = 'nythop'
+    s_3 = 'bullocks'
+    l = [s_2, s_1, s_3]
+    print l
+    for a, b in permutations(l, 2):
+        v = n_gram_ref_cos_cmp(a, b, ref_grams, guards=True)
+        if v > 0:
+            c = '>'
+        elif v < 0:
+            c = '<'
+        else:
+            c = '='
+
+        print 'cmp: {} {} {}'.format(a, c, b)
+    print sorted(l, cmp=lambda a, b: -n_gram_ref_cos_cmp(a, b,
+        unguarded_ref_grams, guards=False))
+    print sorted(l, cmp=lambda a, b: -n_gram_ref_cos_cmp(a, b,
+        ref_grams, guards=True))

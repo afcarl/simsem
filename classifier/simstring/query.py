@@ -147,17 +147,22 @@ def query_simstring_db(query, db_path, reader_arg=None):
                 if response:
                     # Sort the response to prepare a cut-off
                     from lib.ngram import n_gram_ref_cos_cmp, n_gram_gen
-                    ref_grams = set(g for g in n_gram_gen(query_utf8, n=3))
+                    ref_grams = set(g for g in n_gram_gen(query, n=3,
+                        guards=TSURUOKA_GUARDED))
 
-                    response = sorted(response, cmp=lambda a, b: -n_gram_ref_cos_cmp(a, b, ref_grams))
+                    # We need Unicode internally at this point
+                    response = [s.decode('utf-8') for s in response]
+                    response = sorted(response,
+                            cmp=lambda a, b: -n_gram_ref_cos_cmp(
+                                a, b, ref_grams, guards=TSURUOKA_GUARDED))
                     # Cut-off time!
                     response = response[:RESPONSE_CUT_OFF]
 
                     if TSURUOKA_NORMALISED:
-                        tsuruoka_dist = max(bucket_norm_tsuruoka(query_utf8, resp_str)
+                        tsuruoka_dist = max(bucket_norm_tsuruoka(query, resp_str)
                                 for resp_str in response)
                     else:
-                        tsuruoka_dist = min(bucket_tsuruoka(query_utf8, resp_str)
+                        tsuruoka_dist = min(bucket_tsuruoka(query, resp_str)
                                 for resp_str in response)
             if response:
                 cache[query] = (threshold, tsuruoka_dist)
@@ -211,6 +216,7 @@ def bucket_norm_tsuruoka(a, b):
     return _norm_bucket(tsuruoka_norm(a, b))
 
 ### Constants ###
+TSURUOKA_GUARDED = True
 TSURUOKA_DIST = True
 TSURUOKA_NORMALISED = True
 ###
