@@ -5,6 +5,7 @@ Author:     Pontus Stenetorp    <pontus stenetorp se>
 Version:    2011-08-29
 '''
 
+from collections import defaultdict
 from itertools import chain
 from operator import itemgetter
 from os.path import join as path_join
@@ -20,30 +21,53 @@ try:
 except ImportError:
     from pickle import dump as pickle_dump, load as pickle_load
 
-# multiprocessing argument splitting
-def __learning_curve_test_data_set(args):
-    return _learning_curve_test_data_set(*args)
+def __train_fold(args):
+    return _train_fold(*args)
 
-# TODO: We probably need more folds
-def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
-        verbose=False, no_simstring_cache=False, use_test_set=False, folds=10,
-        min_perc=5, max_perc=101, step_perc=5, it_factor=1):
+def _train_fold(classifier, train_lbls, train_vecs, test_lbls, test_vecs,
+        train_fold_filter):
 
-    if verbose:
-        print >> stderr, 'Data set:', dataset_id
+    train_fold_lbls = [l for l in compress(train_lbls, train_fold_filter)]
+    train_fold_vecs = [v for v in compress(train_vecs, train_fold_filter)]
 
-    if verbose:
-        print >> stderr, 'Caching vectorised data...',
+    assert train_fold_lbls, train_fold_filter
+    assert train_fold_vecs, train_fold_filter
+    classifier._train(train_fold_lbls, train_fold_vecs)
 
-    train_set, dev_set, test_set = dataset_getter()
-    if use_test_set:
-        train, test = list(chain(train_set, dev_set)), list(test_set)
-    else:
-        train, test = list(train_set), list(dev_set)
-    del train_set, dev_set, test_set
+    score = score_classifier_by_tup(classifier,
+        (test_lbls, test_vecs))
+    # XXX: Hooking new scores into the old learning
+    new_score = score_classifier_by_tup_ranked(classifier,
+        (test_lbls, test_vecs), unseen=True)
 
-    if verbose:
-        print >> stderr, 'Done!'
+    return len(train_fold_vecs), score, new_score
+
+def _train_fold_filters_gen(set_size, min_perc, max_perc, step_perc,
+        it_factor):
+    indices = [i for i in xrange(set_size)]
+    for p in xrange(min_perc, max_perc, step_perc):
+        sample_size = int((p / 100.0) * set_size)
+
+        if it_factor is not None:
+            folds = int(int(set_size / float(sample_size)) * it_factor)
+        else:
+            folds = 1
+    
+        if max_perc == 100:
+            # We can't sample when we use the whole set...
+            folds = 1
+        # Heuristic to keep us from having too low of a sample
+        elif folds < 4:
+            folds = 4
+
+        for _ in xrange(folds * 2):
+            selected_indices = set(sample(indices, sample_size))
+            yield [i in selected_indices for i in indices]
+
+def _learning_curve_test_data_set(classifiers, train, test,
+        worker_pool, verbose=False, no_simstring_cache=False,
+        use_test_set=False, folds=10, min_perc=5, max_perc=101, step_perc=5,
+        it_factor=1):
 
     if verbose:
         print >> stderr, 'Calculating train set size...',
@@ -61,29 +85,8 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
 
     # Fix the seed so that we get comparable folds
     seed(0xd5347d33)
-
-    train_filters = []
-    indices = [i for i in xrange(train_size)]
-    for p in xrange(min_perc, max_perc, step_perc):
-        sample_size = int((p / 100.0) * train_size)
-
-        if it_factor is not None:
-            folds = int(int(train_size / float(sample_size)) * it_factor)
-        else:
-            folds = 1
-    
-        if max_perc == 100:
-            # We can't sample when we use the whole set...
-            folds = 1
-        # Heuristic to keep us from having too low of a sample
-        elif folds < 4:
-            folds = 4
-
-        fold_filters = []
-        for _ in xrange(folds * 2):
-            selected_indices = set(sample(indices, sample_size))
-            fold_filters.append([i in selected_indices for i in indices])
-        train_filters.append(fold_filters)
+    train_filters = [f for f in _train_fold_filters_gen(
+        train_size, min_perc, max_perc, step_perc, it_factor)]
 
     if verbose:
         print >> stderr, 'Done!'
@@ -106,35 +109,34 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
         assert len(train_lbls) == train_size, '{} != {}'.format(
                 len(train_lbls), train_size)
 
-        classifier_results = {}
+        args = ((classifier, train_lbls, train_vecs, test_lbls, test_vecs,
+            train_fold_filter) for train_fold_filter in train_filters)
+
+        classifier_results = defaultdict(list)
+
+        if worker_pool is None:
+            res_it = (_train_fold(*arg) for arg in args)
+        else:
+            res_it = worker_pool.imap(__train_fold, args)
+
+        #classifier, train_lbls, train_vecs, test_lbls, test_vecs, train_fold_filter
         
-        for train_fold_filters in train_filters:
-            
-            scores = []
-            new_scores = []
-            for i, train_fold_filter in enumerate(train_fold_filters, start=1):
-                if i == 1:
-                    print >> stderr, '(sample_size: {} out of {}, samples: {})'.format(
-                            len([e for e in train_fold_filter if e]),
-                            len(train_fold_filter), len(train_fold_filters)),
-                if verbose and i % 10 == 0:
-                    print >> stderr, i, '...',
+        print >> stderr, ('Training and evaluating models ({}): ...'
+                ).format(len(train_filters)),
+        i = 0
+        for sample_size, score, new_score in res_it:
+            i += 1
+            if i % 10 == 0:
+                print >> stderr, i, '...',
 
-                train_fold_lbls = [l for l in compress(train_lbls, train_fold_filter)]
-                train_fold_vecs = [v for v in compress(train_vecs, train_fold_filter)]
+            classifier_results[sample_size].append((score, new_score))
+        print >> stderr, 'Done!'
 
-                assert train_fold_lbls, train_fold_filter
-                assert train_fold_vecs, train_fold_filter
-                classifier._train(train_fold_lbls, train_fold_vecs)
-
-                scores.append(score_classifier_by_tup(classifier,
-                    (test_lbls, test_vecs)))
-                # XXX: Hooking new scores into the old learning
-                new_scores.append(score_classifier_by_tup_ranked(classifier,
-                    (test_lbls, test_vecs), unseen=True))
-          
-            if verbose:
-                print 'Done!'
+        # Process the results
+        for sample_size in sorted(e for e in classifier_results):
+            results = classifier_results[sample_size]
+            scores = [score for score, _ in results]
+            new_scores = [new_score for _, new_score in results]
 
             macro_scores = [ms for ms, _, _, _, _ in scores]
             micro_scores = [ms for _, ms, _, _, _ in scores]
@@ -168,7 +170,7 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
                     )
 
 
-            classifier_results[len(train_fold_lbls)] = classifier_result
+            classifier_results[sample_size] = classifier_result
             
             if verbose:
                 res_str = ('Results {size}: '
@@ -179,7 +181,7 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
                         'AVG_AMB: {avg_amb:.3f} AVG_AMB_STDDEV: {avg_amb_stddev:.3f} '
                         'RECALL: {recall:.3f} RECALL_STDDEV: {recall_stddev:.3f}'
                         ).format(*classifier_result,
-                                size=len(train_fold_lbls),
+                                size=sample_size,
                                 mean_rank=ranks_mean,
                                 mean_rank_stddev=ranks_stddev,
                                 avg_amb=ambiguities_mean,
@@ -190,7 +192,7 @@ def _learning_curve_test_data_set(classifiers, dataset_id, dataset_getter,
                 print res_str
 
         results_by_classifier[classifier_id] = classifier_results
-    return dataset_id, results_by_classifier
+    return results_by_classifier
 
 def learning_curve_test(classifiers, datasets, outdir,
         verbose=False, no_simstring_cache=False, folds=10, worker_pool=None,
@@ -203,22 +205,29 @@ def learning_curve_test(classifiers, datasets, outdir,
     #XXX: RESUME GOES HERE!
     results_by_dataset = {}
     
-    # TODO: If we have a single dataset we could do multi for classifiers,
-    #       but beware of caching.
+    for dataset_id, dataset_getter in datasets.iteritems():
+        
+        if verbose:
+            print >> stderr, 'Data set:', dataset_id
+            
+        if verbose:
+            print >> stderr, 'Caching vectorised data...',
 
-    args = [(classifiers, d_id, d_getter, verbose, no_simstring_cache, use_test_set,
-            folds, min_perc, max_perc, step_perc, it_factor)
-            for d_id, d_getter in datasets.iteritems()]
+        train_set, dev_set, test_set = dataset_getter()
+        if use_test_set:
+            train, test = list(chain(train_set, dev_set)), list(test_set)
+        else:
+            train, test = list(train_set), list(dev_set)
+        del train_set, dev_set, test_set
 
-    #XXX: How to solve the keyword args? Order?
+        if verbose:
+            print >> stderr, 'Done!'
 
-    if worker_pool is not None:
-        res_it = worker_pool.imap(__learning_curve_test_data_set, args)
-    else:
-        res_it = (_learning_curve_test_data_set(*arg) for arg in args)
-
-    for dataset_id, dataset_results in res_it:
-        results_by_dataset[dataset_id] = dataset_results
+        results_by_dataset[dataset_id] = _learning_curve_test_data_set(
+                classifiers, train, test, worker_pool,
+                verbose=verbose, no_simstring_cache=no_simstring_cache,
+                use_test_set=use_test_set, folds=folds, min_perc=min_perc,
+                max_perc=max_perc, step_perc=step_perc, it_factor=it_factor)
 
         ### HACK TO GET INTERMEDIATE!
         with open(results_file_path, 'w') as results_file:
@@ -226,13 +235,6 @@ def learning_curve_test(classifiers, datasets, outdir,
 
         if verbose:
             print >> stderr, 'Results written to:', results_file_path
-        ###
-
-    with open(results_file_path, 'w') as results_file:
-        pickle_dump(results_by_dataset, results_file)
-
-    if verbose:
-        print >> stderr, 'Results written to:', results_file_path
 
 def _get_learning_pickle_path(outdir, name='learning'):
     return path_join(outdir, '{0}_results.pickle'.format(name))
