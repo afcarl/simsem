@@ -6,7 +6,7 @@ Version:    2011-08-29
 '''
 
 from collections import defaultdict
-from itertools import chain
+from itertools import chain, izip
 from operator import itemgetter
 from os.path import join as path_join
 from random import sample, seed
@@ -24,28 +24,26 @@ except ImportError:
 def __train_fold(args):
     return _train_fold(*args)
 
-def _train_fold(classifier, train_lbls, train_vecs, test_lbls, test_vecs,
-        train_fold_filter):
+def _train_fold(classifier, train_fold):
+    train_fold_lbls = [lbl for lbl, _ in train_fold]
+    train_fold_vecs = [vec for _, vec in train_fold]
+    assert len(train_fold_lbls) == len(train_fold_vecs)
 
-    train_fold_lbls = [l for l in compress(train_lbls, train_fold_filter)]
-    train_fold_vecs = [v for v in compress(train_vecs, train_fold_filter)]
-
-    assert train_fold_lbls, train_fold_filter
-    assert train_fold_vecs, train_fold_filter
     classifier._train(train_fold_lbls, train_fold_vecs)
+    return len(train_fold_vecs), classifier
 
+def _score_classifier(classifier, test_lbls, test_vecs):
     score = score_classifier_by_tup(classifier,
         (test_lbls, test_vecs))
     # XXX: Hooking new scores into the old learning
     new_score = score_classifier_by_tup_ranked(classifier,
         (test_lbls, test_vecs), unseen=True)
+    return score, new_score
 
-    return len(train_fold_vecs), score, new_score
-
-def _train_fold_filters_gen(set_size, min_perc, max_perc, step_perc,
-        it_factor):
-    indices = [i for i in xrange(set_size)]
+def _train_fold_gen(data_set, min_perc, max_perc, step_perc, it_factor):
+    set_size = len(data_set)
     for p in xrange(min_perc, max_perc, step_perc):
+        # Sample size for this iteration
         sample_size = int((p / 100.0) * set_size)
 
         if it_factor is not None:
@@ -61,8 +59,7 @@ def _train_fold_filters_gen(set_size, min_perc, max_perc, step_perc,
             folds = 4
 
         for _ in xrange(folds * 2):
-            selected_indices = set(sample(indices, sample_size))
-            yield [i in selected_indices for i in indices]
+            yield sample(data_set, sample_size)
 
 def _learning_curve_test_data_set(classifiers, train, test,
         worker_pool, verbose=False, no_simstring_cache=False,
@@ -79,18 +76,6 @@ def _learning_curve_test_data_set(classifiers, train, test,
     if verbose:
         print >> stderr, 'Done!'
 
-    # Generate train folds
-    if verbose:
-        print >> stderr, 'Generating filters...',
-
-    # Fix the seed so that we get comparable folds
-    seed(0xd5347d33)
-    train_filters = [f for f in _train_fold_filters_gen(
-        train_size, min_perc, max_perc, step_perc, it_factor)]
-
-    if verbose:
-        print >> stderr, 'Done!'
-
     if not no_simstring_cache:
         simstring_caching(classifiers, (train, test), verbose=verbose)
 
@@ -100,36 +85,50 @@ def _learning_curve_test_data_set(classifiers, train, test,
 
     for classifier_id, classifier_class in classifiers.iteritems():
         if verbose:
-            print >> stderr, 'Classifier:', classifier_id,
-            
-        classifier = classifier_class()
-        train_lbls, train_vecs = classifier._gen_lbls_vecs(train)
-        test_lbls,  test_vecs = classifier._gen_lbls_vecs(test)
+            print >> stderr, 'Classifier:', classifier_id, '...',
 
+        from classifier.liblinear import hashabledict
+
+        classifier = classifier_class()
+        if verbose:
+            print >> stderr, 'featurising train:', '...',
+        train_lbls, train_vecs = classifier._gen_lbls_vecs(train)
+        train_vecs = [hashabledict(d) for d in train_vecs]
+        train_set = set(izip(train_lbls, train_vecs))
         assert len(train_lbls) == train_size, '{} != {}'.format(
                 len(train_lbls), train_size)
+        del train_lbls
+        del train_vecs
+        if verbose:
+            print >> stderr, 'Done!',
+            print >> stderr, 'featurising test', '...',
+        test_lbls, test_vecs = classifier._gen_lbls_vecs(test)
+        test_vecs = [hashabledict(d) for d in test_vecs]
+        if verbose:
+            print >> stderr, 'Done!',
 
-        args = ((classifier, train_lbls, train_vecs, test_lbls, test_vecs,
-            train_fold_filter) for train_fold_filter in train_filters)
-
-        classifier_results = defaultdict(list)
+        # Fix the seed so that we get comparable folds
+        seed(0xd5347d33)
+        args = ((classifier, fold) for fold in _train_fold_gen(train_set,
+            min_perc, max_perc, step_perc, it_factor))
 
         if worker_pool is None:
             res_it = (_train_fold(*arg) for arg in args)
         else:
             res_it = worker_pool.imap(__train_fold, args)
 
-        #classifier, train_lbls, train_vecs, test_lbls, test_vecs, train_fold_filter
-        
-        print >> stderr, ('Training and evaluating models ({}): ...'
-                ).format(len(train_filters)),
+        classifier_results = defaultdict(list)
+
+        print >> stderr, 'Training and evaluating models: ...',
+
         i = 0
-        for sample_size, score, new_score in res_it:
+        for sample_size, fold_classifier in res_it:
+            score, new_score = _score_classifier(fold_classifier, test_lbls,
+                    test_vecs)
+            classifier_results[sample_size].append((score, new_score))
             i += 1
             if i % 10 == 0:
                 print >> stderr, i, '...',
-
-            classifier_results[sample_size].append((score, new_score))
         print >> stderr, 'Done!'
 
         # Process the results
