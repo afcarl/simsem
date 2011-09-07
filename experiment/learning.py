@@ -42,7 +42,8 @@ def _score_classifier(classifier, test_lbls, test_vecs):
 
 def _train_fold_gen(data_set, min_perc, max_perc, step_perc, it_factor):
     set_size = len(data_set)
-    for p in xrange(min_perc, max_perc, step_perc):
+    # Start with the largest folds, they take longer to process
+    for p in xrange(max_perc, min_perc - 1, -step_perc):
         # Sample size for this iteration
         sample_size = int((p / 100.0) * set_size)
 
@@ -51,7 +52,7 @@ def _train_fold_gen(data_set, min_perc, max_perc, step_perc, it_factor):
         else:
             folds = 1
     
-        if max_perc == 100:
+        if p == 100:
             # We can't sample when we use the whole set...
             folds = 1
         # Heuristic to keep us from having too low of a sample
@@ -63,7 +64,7 @@ def _train_fold_gen(data_set, min_perc, max_perc, step_perc, it_factor):
 
 def _learning_curve_test_data_set(classifiers, train, test,
         worker_pool, verbose=False, no_simstring_cache=False,
-        use_test_set=False, folds=10, min_perc=5, max_perc=101, step_perc=5,
+        use_test_set=False, folds=10, min_perc=5, max_perc=100, step_perc=5,
         it_factor=1):
 
     if verbose:
@@ -195,7 +196,7 @@ def _learning_curve_test_data_set(classifiers, train, test,
 
 def learning_curve_test(classifiers, datasets, outdir,
         verbose=False, no_simstring_cache=False, folds=10, worker_pool=None,
-        min_perc=5, max_perc=101, step_perc=5, it_factor=1,
+        min_perc=5, max_perc=100, step_perc=5, it_factor=1,
         pickle_name='learning', use_test_set=False
         ):
     ### This part is really generic
