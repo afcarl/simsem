@@ -9,14 +9,18 @@ Version:    2011-04-09
 # TODO: Checksums for the pickle too, we also need a file lock
 # TODO: ONLY load the relevant dbs, multiple pickles
 
-from string import digits
-from itertools import imap, groupby, combinations
-from os.path import join as path_join
-from os.path import dirname, basename, isfile, normpath
-from os import listdir
-from re import compile as re_compile
 from atexit import register as atexit_register
+from itertools import imap, groupby, combinations
+from os import listdir
+from os import remove
+from os.path import dirname, basename, isfile, normpath
+from os.path import exists
+from os.path import join as path_join
+from re import compile as re_compile
+from shutil import move
+from string import digits
 from sys import path as sys_path
+from tempfile import NamedTemporaryFile
 
 try:
     from cPickle import load as pickle_load
@@ -77,8 +81,6 @@ def _load_simstring_cache():
         with open(SIMSTRING_QUERY_CACHE_PATH, 'rb') as cache_file:
             SIMSTRING_QUERY_CACHE = pickle_load(cache_file)
 
-from os.path import exists
-
 # Upon exiting, save the cache
 @atexit_register
 def _save_simstring_query_cache():
@@ -89,9 +91,18 @@ def _save_simstring_query_cache():
 
     # Save if we have a cache and it has been modified
     if SIMSTRING_QUERY_CACHE is not None and MODIFIED_SIMSTRING_QUERY_CACHE:
-        with open(SIMSTRING_QUERY_CACHE_PATH, 'wb') as cache_file:
-            # Dump with highest protocol
-            pickle_dump(SIMSTRING_QUERY_CACHE, cache_file, -1)
+        # We could suffer race conditions here so we write to a tempfile
+        # and then swap it in place
+        tmp_file = None
+        try:
+            with NamedTemporaryFile('wb', delete=False) as tmp_file:
+                # Dump with the highest available protocol
+                pickle_dump(SIMSTRING_QUERY_CACHE, tmp_file, -1)
+            move(tmp_file.name, SIMSTRING_QUERY_CACHE_PATH)
+        finally:
+            # If something went wrong, we need to clean up /tmp
+            if tmp_file is not None and exists(tmp_file.name):
+                remove(tmp_file.name)
 
 #XXX: Fixed measure, can't alter it
 #XXX: Stupid name reader arg, use_reader... cached_reader
