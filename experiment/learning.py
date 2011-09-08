@@ -67,6 +67,7 @@ def _learning_curve_test_data_set(classifiers, train, test,
         use_test_set=False, folds=10, min_perc=5, max_perc=100, step_perc=5,
         it_factor=1):
 
+    # XXX: Not necessary any more!
     if verbose:
         print >> stderr, 'Calculating train set size...',
     train_size = 0
@@ -76,6 +77,7 @@ def _learning_curve_test_data_set(classifiers, train, test,
                 train_size += 1
     if verbose:
         print >> stderr, 'Done!'
+    # XXX:
 
     if not no_simstring_cache:
         simstring_caching(classifiers, (train, test), verbose=verbose)
@@ -94,10 +96,13 @@ def _learning_curve_test_data_set(classifiers, train, test,
         if verbose:
             print >> stderr, 'featurising train:', '...',
         train_lbls, train_vecs = classifier._gen_lbls_vecs(train)
-        train_vecs = [hashabledict(d) for d in train_vecs]
-        train_set = set(izip(train_lbls, train_vecs))
+        train_set = [e for e in izip(train_lbls, train_vecs)]
         assert len(train_lbls) == train_size, '{} != {}'.format(
                 len(train_lbls), train_size)
+        assert len(train_vecs) == train_size, '{} != {}'.format(
+                len(train_vecs), train_size)
+        assert len(train_set) == train_size, '{} != {}'.format(
+                len(train_set), train_size)
         del train_lbls
         del train_vecs
         if verbose:
