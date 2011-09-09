@@ -255,9 +255,21 @@ def learning_curve_avg(classifiers, datasets, outdir, pickle_name='learning'):
         for classifier in classifiers:
             print 'Classifier:', classifier
             macro_avg = mean([res_tup[0] for res_tup
+                in results[dataset][classifier].itervalues()]) * 100
+            macro_tip = sorted((size, res_tup[0]) for size, res_tup
+                    in results[dataset][classifier].iteritems())[-1][1] * 100
+            amb_avg = mean([res_tup[11] for res_tup
                 in results[dataset][classifier].itervalues()])
+            amb_tip = sorted((size, res_tup[11]) for size, res_tup
+                    in results[dataset][classifier].iteritems())[-1][1]
+            rec_avg = mean([res_tup[13] for res_tup
+                in results[dataset][classifier].itervalues()]) * 100
+            rec_tip = sorted((size, res_tup[13]) for size, res_tup
+                    in results[dataset][classifier].iteritems())[-1][1] * 100
 
-            print macro_avg
+            print ('{:.2f}/{:.2f}/{:.2f}/{:.2f}/{:.2f}/{:.2f} '
+                    'MACROAVG/MACROTIP/AMBAVG/AMBTIP/RECAVG/RECTIP').format(
+                    macro_avg, macro_tip, amb_avg, amb_tip, rec_avg, rec_tip)
 
 def _plot_curve(plot_dir, results, plot_name, new_metric=False):
     import matplotlib.pyplot as plt
