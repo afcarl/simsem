@@ -271,7 +271,8 @@ def learning_curve_avg(classifiers, datasets, outdir, pickle_name='learning'):
                     'MACROAVG/MACROTIP/AMBAVG/AMBTIP/RECAVG/RECTIP').format(
                     macro_avg, macro_tip, amb_avg, amb_tip, rec_avg, rec_tip)
 
-def _plot_curve(plot_dir, results, plot_name, new_metric=False):
+# Honestly, the statefullness of matplotlib hurts...
+def _plot_curve(plot_dir, results, plot_name, new_metric=False, recall=False):
     import matplotlib.pyplot as plt
 
     line_colour_by_classifier = {
@@ -306,8 +307,12 @@ def _plot_curve(plot_dir, results, plot_name, new_metric=False):
             plt.ylabel('Accuracy')
             plt.xlabel('Training Examples')
         else:
-            plt.ylabel('Ambiguity')
-            plt.xlabel('Training Examples')
+            if recall:
+                plt.ylabel('Recall')
+                plt.xlabel('Training Examples')
+            else:
+                plt.ylabel('Ambiguity')
+                plt.xlabel('Training Examples')
 
         min_seen = 1
         max_seen = 0
@@ -339,8 +344,8 @@ def _plot_curve(plot_dir, results, plot_name, new_metric=False):
             # New metrics
             ambiguity_means = [t[5] for t in res_tups]
             ambiguity_stds = [t[6] for t in res_tups]
-            losses_means =  [t[7] for t in res_tups]
-            losses_stds = [t[8] for t in res_tups]
+            recall_means =  [t[7] for t in res_tups]
+            recall_stds = [t[8] for t in res_tups]
 
             max_seen = max(max_seen, max(macro_vals))
             min_seen = min(max_seen, min(macro_vals))
@@ -355,11 +360,18 @@ def _plot_curve(plot_dir, results, plot_name, new_metric=False):
                         #color=line_colour_by_classifier[classifier],
                         )
             else:
-                plt.errorbar(sample_sizes, ambiguity_means,
-                        yerr=ambiguity_stds,
-                        label=classifier_name,
-                        color='k',
-                        )
+                if recall:
+                    plt.errorbar(sample_sizes, recall_means,
+                            yerr=recall_stds,
+                            label=classifier_name,
+                            color='k',
+                            )
+                else:
+                    plt.errorbar(sample_sizes, ambiguity_means,
+                            yerr=ambiguity_stds,
+                            label=classifier_name,
+                            color='k',
+                            )
         if not NO_LEGEND:
             if not new_metric:
                 ax = fig.get_axes()[0]
@@ -400,3 +412,4 @@ def plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
 
     _plot_curve(outdir, results, pickle_name)
     _plot_curve(outdir, results, pickle_name + '_ambiguity', new_metric=True)
+    _plot_curve(outdir, results, pickle_name + '_recall', new_metric=True, recall=True)
