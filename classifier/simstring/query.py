@@ -36,9 +36,6 @@ sys_path.append(path_join(dirname(__file__), '..', '..'))
 from toolsconf import SIMSTRING_LIB_PATH
 sys_path.insert(0, SIMSTRING_LIB_PATH)
 
-from simstring import reader as simstring_reader
-from simstring import cosine as simstring_cosine
-
 ### XXX:
 #from classifier.liblinear import LibLinearClassifier
 
@@ -107,6 +104,9 @@ def _save_simstring_query_cache():
 #XXX: Fixed measure, can't alter it
 #XXX: Stupid name reader arg, use_reader... cached_reader
 def query_simstring_db(query, db_path, reader_arg=None):
+    from simstring import reader as simstring_reader
+    from simstring import cosine as simstring_cosine
+
     global SIMSTRING_QUERY_CACHE
     global MODIFIED_SIMSTRING_QUERY_CACHE
     if SIMSTRING_QUERY_CACHE is None:

@@ -49,8 +49,6 @@ from experiment.scoring import (score_classifier, score_classifier_by_tup,
 from toolsconf import SIMSTRING_LIB_PATH
 sys_path.append(SIMSTRING_LIB_PATH)
 
-from simstring import reader as simstring_reader
-
 from classifier.competitive import SimpleInternalEnsembleClassifier
 from classifier.competitive import CompetitiveEnsembleClassifier
 from classifier.competitive import SimStringCompetitiveEnsembleClassifier

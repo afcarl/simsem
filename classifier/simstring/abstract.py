@@ -20,9 +20,6 @@ from ..liblinear import LibLinearClassifier
 from toolsconf import SIMSTRING_LIB_PATH
 sys_path.append(SIMSTRING_LIB_PATH)
 
-from simstring import reader as simstring_reader
-from simstring import cosine as simstring_cosine
-
 class AbstractSimStringClassifier(LibLinearClassifier):
     def __init__(self):
         raise NotImplementedError
