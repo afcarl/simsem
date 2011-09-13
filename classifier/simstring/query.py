@@ -227,7 +227,7 @@ def bucket_norm_tsuruoka(a, b):
     return _norm_bucket(tsuruoka_norm(a, b))
 
 ### Constants ###
-TSURUOKA_GUARDED = True
-TSURUOKA_DIST = True
-TSURUOKA_NORMALISED = True
+TSURUOKA_GUARDED = False
+TSURUOKA_DIST = False
+TSURUOKA_NORMALISED = False
 ###
