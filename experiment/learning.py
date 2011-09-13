@@ -377,21 +377,28 @@ def _plot_curve(plot_dir, results, plot_name, new_metric=False, recall=False):
                 ax = fig.get_axes()[0]
                 handles, labels = ax.get_legend_handles_labels()
 
-                # reverse the order
-                ax.legend(handles[::-1], labels[::-1])
+                if handles and labels:
+                    # reverse the order
+                    ax.legend(handles[::-1], labels[::-1])
 
-                # or sort them by labels
-                hl = sorted(zip(handles, labels),
-                        key=itemgetter(1))
-                handles2, labels2 = zip(*hl)
+                    # or sort them by labels
+                    hl = sorted(zip(handles, labels),
+                            key=itemgetter(1))
+                    handles2, labels2 = zip(*hl)
 
-                ax.legend(handles2, labels2, loc=4)
+                    ax.legend(handles2, labels2, loc=4)
+                else:
+                    print >> stderr, 'WARNING: Unable to set legend'
             else:
                 pass #XXX
 
-        plt.ylim()#ymax=1.0) #ymin=0.0
+        if recall:
+            plt.ylim(ymin=0.980, ymax=1.0)
+            pass
+        else:
+            plt.ylim()
 
-        for fmt in ('png', 'svg', ):
+        for fmt in ('svg', ):#'png', ):
             plt.savefig(path_join(plot_dir, dataset.lower() + '_' + plot_name) + '.' + fmt,
                     format=fmt)
 
