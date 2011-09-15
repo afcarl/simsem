@@ -19,7 +19,7 @@ from classifier.competitive import SimStringInternalClassifier
 from resources import Document, Sentence, Annotation
 
 # TODO: Should not be done this way, API for caching
-from test import _cache_simstring
+from experiment.common import cache_simstring
 from train import _tab_separated_input_to_doc
 
 ### Constants
@@ -50,7 +50,7 @@ def main(args):
 
     # Cache the strings for speed
     if not argp.no_cache:
-        _cache_simstring((docs, ), verbose=argp.verbose)
+        cache_simstring((docs, ), verbose=argp.verbose)
 
     with open(argp.model_path, 'r') as model_file:
         classifier = pickle_load(model_file)

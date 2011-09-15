@@ -3,6 +3,12 @@
 '''
 Train a SimSem model.
 
+Get some data (any ST-format really):
+
+    find data/corpora/bionlp_2011_st/*genia* -name '*.a1' -o -name '*.a2' \
+            | xargs -r cat | grep '^T' | cut -f 2,3 \
+            | sed -e 's|\(.*\)\ [0-9]\+\ [0-9]\+\t\(.*\)|\2\t\1|g'
+
 Author:     Pontus Stenetorp    <pontus stenetorp se>
 Version:    2011-08-22
 '''
@@ -20,7 +26,7 @@ from resources import Annotation, Sentence, Document
 from classifier.competitive import SimStringInternalClassifier
 
 # TODO: Should not be done this way, API for caching
-from test import _cache_simstring
+from experiment.common import cache_simstring
 
 ### Constants
 ARGPARSER = ArgumentParser(description='XXX')#XXX: TODO:
@@ -45,7 +51,7 @@ def main(args):
     doc = _tab_separated_input_to_doc(argp.input)
 
     # Cache the strings for speed
-    _cache_simstring(((doc, ), ), verbose=argp.verbose)
+    cache_simstring(((doc, ), ), verbose=argp.verbose)
 
     classifier = SimStringInternalClassifier()
     classifier.train((doc, ))

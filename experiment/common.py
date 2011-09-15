@@ -8,8 +8,6 @@ Version:    2011-08-30
 from itertools import izip
 from sys import stderr
 
-from simstring import reader as simstring_reader
-
 from classifier.simstring.config import SIMSTRING_DB_PATHS
 from classifier.simstring.query import query_simstring_db
 
@@ -22,6 +20,8 @@ def compress(it, flter):
 # XXX: Pre-load the simstring cache uglily!
 def cache_simstring(datasets, verbose=False, ann_modulo=1000,
         queries_modulo=1000):
+    from simstring import reader as simstring_reader
+
     if verbose:
         print >> stderr, 'Caching SimString:'
 
