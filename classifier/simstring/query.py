@@ -215,7 +215,7 @@ TSURUOKA_NORM_BUCKETS = tuple((x / 100.0 for x in xrange(100, -1, -5)))
 # NOTE: Not optimal but should do the trick for now
 def _norm_bucket(num):
     for bucket in TSURUOKA_NORM_BUCKETS:
-        if num <= bucket:
+        if num >= bucket:
             return bucket
     else:
         assert False, 'no bucket found, was that really normalised?'
