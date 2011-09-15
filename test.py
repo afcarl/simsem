@@ -64,7 +64,7 @@ from classifier.liblinear import _k_folds, hashabledict
 
 from experiment.common import simstring_caching
 from experiment.learning import (learning_curve_avg, learning_curve_test,
-        plot_learning_curve)
+        plot_learning_curve_results)
 from maths import mean, median, truncated_mean
 
 ### Constants
@@ -651,9 +651,11 @@ def main(args):
                     pickle_name='low_learning', use_test_set=argp.test_set
                     )
         elif test == 'plot':
-            plot_learning_curve(outdir)
+            plot_learning_curve_results(classifiers, datasets, outdir,
+                    verbose=verbose)
         elif test == 'low-plot':
-            plot_learning_curve(outdir, pickle_name='low_learning')
+            plot_learning_curve_results(classifiers, datasets, outdir,
+                    pickle_name='low_learning', verbose=verbose)
         elif test == 'quick':
             _quick_test(classifiers, datasets, outdir,
                     verbose=verbose, no_simstring_cache=no_simstring_cache,

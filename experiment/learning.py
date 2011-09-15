@@ -271,152 +271,189 @@ def learning_curve_avg(classifiers, datasets, outdir, pickle_name='learning'):
                     'MACROAVG/MACROTIP/AMBAVG/AMBTIP/RECAVG/RECTIP').format(
                     macro_avg, macro_tip, amb_avg, amb_tip, rec_avg, rec_tip)
 
-# Honestly, the statefullness of matplotlib hurts...
-def _plot_curve(plot_dir, results, plot_name, new_metric=False, recall=False):
+### Plot constants
+# Default is black
+LINE_COLOUR_BY_CLASSIFIER = defaultdict(lambda : 'k')
+LINE_COLOUR_BY_CLASSIFIER.update({
+        'NAIVE': 'm',
+        #'MAXVOTE': 'y',
+        'INTERNAL': 'r',
+        'SIMSTRING': 'y',
+        'INTERNAL-SIMSTRING': 'b',
+        #'SIMPLE-INTERNAL-ENSEMBLE': 'g',
+        'GAZETTER': 'c',
+        'INTERNAL-GAZETTER': 'g',
+        #'SIMSTRING-COMPETITIVE': 'm',
+        #'COMPETITIVE': 'k',
+        })
+# NOTE: Turning them all black
+for k in LINE_COLOUR_BY_CLASSIFIER:
+    LINE_COLOUR_BY_CLASSIFIER[k] = 'k'
+LINE_COLOUR_BY_DATASET = defaultdict(lambda : 'k')
+
+LINE_STYLE_BY_CLASSIFIER = defaultdict(lambda : '-')
+LINE_STYLE_BY_CLASSIFIER.update({
+        'NAIVE': '-:',
+        #'MAXVOTE': 'y',
+        'INTERNAL': 'default-.',
+        'SIMSTRING': 'steps-pre-.',
+        'INTERNAL-SIMSTRING': '-',
+        #'SIMPLE-INTERNAL-ENSEMBLE': 'g',
+        'GAZETTER': 'c',
+        'INTERNAL-GAZETTER': '--',
+        #'SIMSTRING-COMPETITIVE': 'm',
+        #'COMPETITIVE': 'k',
+        })
+
+LINE_STYLE_BY_DATASET = defaultdict(lambda : '-')
+
+LINE_MARKER_BY_CLASSIFIER = defaultdict(lambda : 'None')
+LINE_MARKER_BY_CLASSIFIER.update({
+    })
+
+LINE_MARKER_BY_DATASET = defaultdict(lambda : 'None')
+LINE_MARKER_BY_DATASET.update({
+    'BioNLP-ST-2011-Epi_and_PTM': 'o',
+    'BioNLP-ST-2011-Infectious_Diseases': '|',
+    'BioNLP-ST-2011-genia': 's',
+    'CALBC_CII': '*',
+    'NLPBA': '^',
+    'SUPER_GREC': 'x',
+    })
+
+# Res-tup handling (yuck):
+#res_tups = [(size_value, res_tup[0], res_tup[1], res_tup[2],
+#    res_tup[3], res_tup[11], res_tup[12], res_tup[13], res_tup[14])
+#        for size_value, res_tup in classifier_results.iteritems()]
+#res_tups.sort()
+
+def _get_ambiguity_data(classifier_results):
+    # Get the ambiguity data for the res_tups (yuck...)
+    res_tups = [(size_value, res_tup[11], res_tup[12])
+            for size_value, res_tup in classifier_results.iteritems()]
+    res_tups.sort()
+
+    sample_sizes = [t[0] for t in res_tups]
+    ambiguity_means = [t[1] for t in res_tups]
+    ambiguity_stds = [t[2] for t in res_tups]
+
+    return sample_sizes, ambiguity_means, ambiguity_stds
+
+def _ambiguity_plot_gen(results, classifiers, datasets):
+    #plt.ylabel('Accuracy')
+    #plt.xlabel('Training Examples')
+    from matplotlib.figure import Figure
     import matplotlib.pyplot as plt
 
-    line_colour_by_classifier = {
-            'NAIVE': 'm',
-            #'MAXVOTE': 'y',
-            'INTERNAL': 'r',
-            'SIMSTRING': 'y',
-            'INTERNAL-SIMSTRING': 'b',
-            #'SIMPLE-INTERNAL-ENSEMBLE': 'g',
-            'GAZETTER': 'c',
-            'INTERNAL-GAZETTER': 'g',
-            #'SIMSTRING-COMPETITIVE': 'm',
-            #'COMPETITIVE': 'k',
-            } # We need more colours?
+    # Plot for each dataset and classifier
+    for dataset in datasets:
+        for classifier in classifiers:
+            classifier_results = results[dataset][classifier]
 
-    line_style_by_classifier = {
-            'NAIVE': '-:', #XXX:
-            #'MAXVOTE': 'y',
-            'INTERNAL': 'default-.',
-            'SIMSTRING': 'steps-pre-.',
-            'INTERNAL-SIMSTRING': '-',
-            #'SIMPLE-INTERNAL-ENSEMBLE': 'g',
-            'GAZETTER': 'c',
-            'INTERNAL-GAZETTER': '--',
-            #'SIMSTRING-COMPETITIVE': 'm',
-            #'COMPETITIVE': 'k',
-            }
+            sample_sizes, ambiguity_means, ambiguity_stds = (
+                    _get_ambiguity_data(classifier_results))
 
-    for dataset, classifiers in results.iteritems():
-        fig = plt.figure()
-        if not new_metric:
-            plt.ylabel('Accuracy')
-            plt.xlabel('Training Examples')
-        else:
-            if recall:
-                plt.ylabel('Recall')
-                plt.xlabel('Training Examples')
-            else:
-                plt.ylabel('Ambiguity')
-                plt.xlabel('Training Examples')
+            fig = Figure()
+            plt.errorbar(sample_sizes, ambiguity_means,
+                    yerr=ambiguity_stds,
+                    figure=fig,
+                    label=classifier,
+                    # Here we use style by classifier, rather than dataset
+                    linestyle=LINE_STYLE_BY_CLASSIFIER[classifier],
+                    color=LINE_COLOUR_BY_CLASSIFIER[classifier],
+                    )
+            yield 'amb_{}_{}'.format(classifier.lower(), dataset.lower()), fig
+            plt.clf()
 
-        min_seen = 1
-        max_seen = 0
-        for classifier, classifier_results in classifiers.iteritems():
-            if classifier != 'INTERNAL-SIMSTRING': #XXX:
-                continue
-            if MINIMAL:
-                if classifier not in ('INTERNAL', 'INTERNAL-SIMSTRING', 'INTERNAL-GAZETTER', ):
-                    continue
-                classifier_name = {
-                        'INTERNAL': 'Internal',
-                        'INTERNAL-SIMSTRING': 'Internal-SimString',
-                        'INTERNAL-GAZETTER': 'Internal-Gazetteer',
-                        }[classifier]
-            else:
-                classifier_name = classifier
+    # Plot by dataset and then all classifiers
+    for dataset in datasets:
+        fig = Figure()
+        for classifier in classifiers:
+            classifier_results = results[dataset][classifier]
 
-            # TODO: Get rid of all this index sillines, named tuple...
-            res_tups = [(size_value, res_tup[0], res_tup[1], res_tup[2],
-                res_tup[3], res_tup[11], res_tup[12], res_tup[13], res_tup[14])
-                    for size_value, res_tup in classifier_results.iteritems()]
-            res_tups.sort()
+            sample_sizes, ambiguity_means, ambiguity_stds = (
+                    _get_ambiguity_data(classifier_results))
 
-            sample_sizes = [t[0] for t in res_tups]
-            macro_vals = [t[1] for t in res_tups]
-            macro_stds = [t[2] for t in res_tups]
-            micro_vals = [t[3] for t in res_tups]
-            micro_stds = [t[4] for t in res_tups]
-            # New metrics
-            ambiguity_means = [t[5] for t in res_tups]
-            ambiguity_stds = [t[6] for t in res_tups]
-            recall_means =  [t[7] for t in res_tups]
-            recall_stds = [t[8] for t in res_tups]
+            plt.errorbar(sample_sizes, ambiguity_means,
+                    yerr=ambiguity_stds,
+                    figure=fig,
+                    label=classifier,
+                    # Here we use style by classifier, rather than dataset
+                    linestyle=LINE_STYLE_BY_CLASSIFIER[classifier],
+                    marker=LINE_MARKER_BY_CLASSIFIER[classifier],
+                    color=LINE_COLOUR_BY_CLASSIFIER[classifier],
+                    )
 
-            max_seen = max(max_seen, max(macro_vals))
-            min_seen = min(max_seen, min(macro_vals))
+        yield 'amb_by_classifier', fig
+        plt.clf()
 
-            if not new_metric:
-                plt.errorbar(sample_sizes, macro_vals,
-                        yerr=macro_stds,
-                        label=classifier_name,
-                        linestyle=line_style_by_classifier[classifier],
-                        color='k',
-                        # Disabled colour plotting
-                        #color=line_colour_by_classifier[classifier],
-                        )
-            else:
-                if recall:
-                    plt.errorbar(sample_sizes, recall_means,
-                            yerr=recall_stds,
-                            label=classifier_name,
-                            color='k',
-                            )
-                else:
-                    plt.errorbar(sample_sizes, ambiguity_means,
-                            yerr=ambiguity_stds,
-                            label=classifier_name,
-                            color='k',
-                            )
-        if not NO_LEGEND:
-            if not new_metric:
-                ax = fig.get_axes()[0]
-                handles, labels = ax.get_legend_handles_labels()
+    # XXX: Cut-off since some datasets are "too" big
+    dataset_size_cut_off = True
 
-                if handles and labels:
-                    # reverse the order
-                    ax.legend(handles[::-1], labels[::-1])
+    # Plot by classifier for all datasets
+    for classifier in classifiers:
+        fig = Figure()
+        added = []
+        for dataset in datasets:
+            classifier_results = results[dataset][classifier]
+            
+            sample_sizes, ambiguity_means, ambiguity_stds = (
+                    _get_ambiguity_data(classifier_results))
 
-                    # or sort them by labels
-                    hl = sorted(zip(handles, labels),
-                            key=itemgetter(1))
-                    handles2, labels2 = zip(*hl)
+            line = plt.errorbar(sample_sizes, ambiguity_means,
+                    # NOTE: Becomes pretty much unreadable
+                    #yerr=ambiguity_stds,
+                    figure=fig,
+                    label=dataset,
+                    # Here we use style by dataset, rather than classifier
+                    linestyle=LINE_STYLE_BY_DATASET[dataset],
+                    marker=LINE_MARKER_BY_DATASET[dataset],
+                    color=LINE_COLOUR_BY_DATASET[dataset],
+                    )
+            added.append((dataset, line))
 
-                    ax.legend(handles2, labels2, loc=4)
-                else:
-                    print >> stderr, 'WARNING: Unable to set legend'
-            else:
-                pass #XXX
+        # Legend handling (yuck...)
+        #print fig.get_axes()
+        #ax = fig.get_axes()[0]
+        #handles, labels = ax.get_legend_handles_labels()
+        labels, handles = zip(*sorted(added))
+        plt.legend(handles, labels)
+        #ax.legend(handles, labels, loc=4)
+        
+        plt.xlim(xmax=10000)
 
-        if recall:
-            plt.ylim(ymin=0.980, ymax=1.0)
-            pass
-        else:
-            plt.ylim()
+        yield 'amb_by_dataset', fig
+        plt.clf()
 
-        for fmt in ('svg', ):#'png', ):
-            plt.savefig(path_join(plot_dir, dataset.lower() + '_' + plot_name) + '.' + fmt,
-                    format=fmt)
+# XXX: God damn it, how do you do non-stateful matplotlib...!
+def plot_learning_curve_results(classifiers, datasets, outdir,
+        pickle_name='learning', verbose=False):
+    from matplotlib import pyplot as plt
 
-    pass
+    if not classifiers and not datasets:
+        print >> stderr, 'No classifiers or datasets specified, exiting'
+        return
 
-#XXX: This part is MESSY
-NO_LEGEND = False
-MINIMAL = True
-def plot_learning_curve(outdir, worker_pool=None, pickle_name='learning'):
-    # We have to try to import here, or we will crash
-
-    if worker_pool is not None:
-        raise NotImplementedError
-
+    # Load the results to be plotted
+    if verbose:
+        print >> stderr, 'Loading results...',
     with open(_get_learning_pickle_path(outdir, name=pickle_name), 'r'
             ) as results_file:
         results = pickle_load(results_file)
+    if verbose:
+        print >> stderr, 'Done!'
 
-    _plot_curve(outdir, results, pickle_name)
-    _plot_curve(outdir, results, pickle_name + '_ambiguity', new_metric=True)
-    _plot_curve(outdir, results, pickle_name + '_recall', new_metric=True, recall=True)
+    image_formats = ('svg', )
+
+    for fig_name, fig in _ambiguity_plot_gen(results, classifiers, datasets):
+        for image_format in image_formats:
+            plt.savefig(path_join(outdir, fig_name + '.' + image_format),
+                    format=image_format, figure=fig) 
+
+    # Over all classifiers for one dataset
+    # Over all datasets for one classifier
+    # Same as the above for ambiguity and recall
+
+    #_plot_curve(outdir, results, pickle_name)
+    #_plot_curve(outdir, results, pickle_name + '_ambiguity', new_metric=True)
+    #_plot_curve(outdir, results, pickle_name + '_recall', new_metric=True, recall=True)
