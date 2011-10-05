@@ -45,7 +45,7 @@ class Sentence(object):
 
     def annotation_text(self, annotation):
         ret = self.text[annotation.start:annotation.end]
-        assert ret, '{} len({}) "{}"'.format(annotation,
+        assert ret, '{0} len({1}) "{2}"'.format(annotation,
                 len(self.text), self.text)
         return ret
 
