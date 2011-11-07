@@ -39,4 +39,8 @@ sed -i -e 's|\(T4\tGene \)423\(.*\)|\1422\2|g' \
 # The GREC sentence split files have non-conforming filenames, correct them
 find data/corpora/grec -name '*.txt.ss' | sed -e 's|\.txt\.ss||g' \
     | xargs -i{} sh -c 'mv {}.txt.ss {}.ss'
+) && (
+# GREC uses DOS newlines, kill them with fire
+find data/corpora/grec -name '*.txt' -o -name '*.a1' -o -name '*.a2' \
+    -o -name '*.ss' -o -name '*.mcccj' | xargs -r dos2unix
 )
