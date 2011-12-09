@@ -28,6 +28,7 @@ from fcgiconf import DEFAULT_TOKEN, MODEL_PATH_BY_TOKEN
 
 ### Constants
 LOADED_MODEL_BY_TOKEN = {}
+DEBUG = True
 ###
 
 def _load_model(token):
@@ -36,10 +37,17 @@ def _load_model(token):
     for other_token, other_model_path in MODEL_PATH_BY_TOKEN.iteritems():
         if (normpath(model_path) == normpath(other_model_path)
                 and other_token in LOADED_MODEL_BY_TOKEN):
+            if DEBUG:
+                print >> stderr, ('DEBUG: %s and %s shares the model path %s '
+                        'and will not be loaded twice' % (token, other_token,
+                            model_path, ))
             LOADED_MODEL_BY_TOKEN[token] = LOADED_MODEL_BY_TOKEN[other_token]
             break
     else:
         # We fall back to loading the model
+        if DEBUG:
+            print >> stderr, ('DEBUG: loading %s for token %s'
+                    % (model_path, token))
         with open(model_path, 'rb') as model_file:
             LOADED_MODEL_BY_TOKEN[token] = pickle_load(model_file)
 
@@ -82,13 +90,20 @@ def _serve(query):
 
 def simsem_app(environ, start_response):
     query = parse_qs(environ['QUERY_STRING'])
+    if DEBUG:
+        print >> stderr, 'DEBUG: received query %s' % query
 
     # Call the main server
     resp_dict = _serve(query)
+    resp_json = _json_dumps(resp_dict)
+
+    if DEBUG:
+        print >> stderr, ('DEBUG: responding with %s'
+                % resp_json.replace('\n', ' '))
 
     # We always respond with '200 OK' since the errors are in JSON
     start_response('200 OK', [('Content-Type', 'application/json'), ])
-    yield _json_dumps(resp_dict)
+    yield resp_json
 
 if __name__ == '__main__':
     if not MODEL_PATH_BY_TOKEN:
@@ -96,7 +111,11 @@ if __name__ == '__main__':
         exit(-1)
 
     # Pre-load the models since this takes some time
+    if DEBUG:
+        print >> stderr, 'DEBUG: pre-loading models'
     for token in MODEL_PATH_BY_TOKEN:
         _load_model(token)
     # Then we are ready to serve requests
+    if DEBUG:
+        print >> stderr, 'DEBUG: server started'
     WSGIServer(simsem_app).run()
