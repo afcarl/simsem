@@ -7,4 +7,4 @@ pygments:   true
 safe:       true
 server:     true
 
-exclude: LICENSE favicon.svg
+exclude: CNAME LICENSE favicon.svg
