@@ -14,4 +14,4 @@ MODEL_PATH_BY_TOKEN = {
 
 DEFAULT_TOKEN = 'default'
 # There is a special 'default' that is used if no token is given, example:
-# MODEL_PATH_BY_TOKEN[DEFAULT_TOKEN] = 'news'
+# MODEL_PATH_BY_TOKEN[DEFAULT_TOKEN] = MODEL_PATH_BY_TOKEN['news']
