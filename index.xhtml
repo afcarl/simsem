@@ -4,24 +4,29 @@
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>SimSem</title>
-        <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
+        <meta http-equiv="Content-Type"
+            content="application/xhtml+xml; charset=utf-8"/>
         <!--<link href="static/jquery-theme/jquery-ui-redmond.css" rel="stylesheet" type="text/css"/>-->
         <script type="text/javascript" src="lib/head.js"></script>
         <script type="text/javascript">
             head.js(
                 // libraries
                 'lib/jquery.js',
-                // simsem
+                // simsem application
                 'src/simsem.js'
             );
             head.ready(function() {
-                //alert("We'll do it live!");
+                simsem = new SimSem();
+                simsem.run();
             });
         </script>
         <link rel="stylesheet" type="text/css" href="css/style.css"/>
         <link rel="shortcut icon" href="img/favicon.ico"/>
     </head>
     <body>
+        <!-- Check for JavaScript and whine a bit -->
         Under construction like it is 1999!
+
+        <textarea id="live_input">You shouldn't see this...</textarea>
     </body>
 </html>
