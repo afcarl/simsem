@@ -11,10 +11,11 @@ Author:     Pontus Stenetorp    <pontus stenetorp se>
 Version:    2011-09-13
 '''
 
-from os.path import dirname, join as path_join
-from json import dumps as json_lib_dumps
-from flup.server.fcgi import WSGIServer
 from cgi import parse_qs
+from flup.server.fcgi import WSGIServer
+from json import dumps as json_lib_dumps
+from os.path import dirname, normpath, join as path_join
+from sys import stderr
 
 try:
     from cPickle import load as pickle_load
@@ -23,60 +24,98 @@ except ImportError:
 
 # We will use these to hack into the model interface
 from resources import Document, Sentence, Annotation
-#from expriment.common import cache_simstring
+from fcgiconf import DEFAULT_TOKEN, MODEL_PATH_BY_TOKEN
 
 ### Constants
-# XXX: Ugly global
-MODEL = None
-MODEL_PATH = path_join(dirname(__file__), 'ge.model')
+LOADED_MODEL_BY_TOKEN = {}
+DEBUG = True
 ###
 
-def _load_model():
-    global MODEL
-    with open(MODEL_PATH, 'rb') as model_file:
-        MODEL = pickle_load(model_file)
+def _load_model(token):
+    model_path = MODEL_PATH_BY_TOKEN[token]
+    # Try if we have already loaded a model with the same path
+    for other_token, other_model_path in MODEL_PATH_BY_TOKEN.iteritems():
+        if (normpath(model_path) == normpath(other_model_path)
+                and other_token in LOADED_MODEL_BY_TOKEN):
+            if DEBUG:
+                print >> stderr, ('DEBUG: %s and %s shares the model path %s '
+                        'and will not be loaded twice' % (token, other_token,
+                            model_path, ))
+            LOADED_MODEL_BY_TOKEN[token] = LOADED_MODEL_BY_TOKEN[other_token]
+            break
+    else:
+        # We fall back to loading the model
+        if DEBUG:
+            print >> stderr, ('DEBUG: loading %s for token %s'
+                    % (model_path, token))
+        with open(model_path, 'rb') as model_file:
+            LOADED_MODEL_BY_TOKEN[token] = pickle_load(model_file)
 
-def json_dumps(dic):
+def _json_dumps(dic):
     return json_lib_dumps(dic, indent=4)
 
-def simsem_app(environ, start_response):
-    global MODEL
+def _serve(query):
+    resp_dict = {}
 
-    resp_dict = {
-            'error': 0,
-            }
-
-    query = parse_qs(environ['QUERY_STRING'])
     try:
-        # Make sure we have unique strings to classify
         to_classify = set(query['classify'])
-
-        if to_classify:
-            doc = Document('<fcgi>', [], [], '<fcgi>')
-            for s in to_classify:
-                doc.abstract.append(
-                        Sentence(s, [Annotation(0, len(s), None)]))
-           
-            # Cache for a potential speed-up later on
-            #cache_simstring((doc, ), verbose=False)
-
-            res_dict = {}
-            for sent in doc:
-                for ann in sent:
-                    ann_text = sent.annotation_text(ann)
-                    res_dict[ann_text] = MODEL.classify(doc, sent, ann, ranked=True)
-            resp_dict['result'] = res_dict
-        else:
-            # Hack...
-            raise KeyError
     except KeyError:
-        resp_dict['error'] = 1
-    
-    start_response('200 OK', [('Content-Type', 'application/json')])
-    return [json_dumps(resp_dict)]
+        resp_dict['error'] = 'noClassifyArgument'
+        return resp_dict
+
+    try:
+        token = query['token'][0]
+    except KeyError:
+        # No token provided, do we have a default?
+        if not DEFAULT_TOKEN in MODEL_PATH_BY_TOKEN:
+            resp_dict['error'] = 'noTokenSpecifiedAndNoServerDefaultSet'
+            return resp_dict
+        token = DEFAULT_TOKEN
+
+    model = LOADED_MODEL_BY_TOKEN[token]
+
+    doc = Document('<fcgi>', [], [], '<fcgi>')
+    for s in to_classify:
+        doc.abstract.append(
+            Sentence(s, [Annotation(0, len(s), None)]))
+
+        res_dict = {}
+        for sent in doc:
+            for ann in sent:
+                ann_text = sent.annotation_text(ann)
+                res_dict[ann_text] = model.classify(doc, sent, ann, ranked=True)
+        resp_dict['result'] = res_dict
+
+    return resp_dict
+
+def simsem_app(environ, start_response):
+    query = parse_qs(environ['QUERY_STRING'])
+    if DEBUG:
+        print >> stderr, 'DEBUG: received query %s' % query
+
+    # Call the main server
+    resp_dict = _serve(query)
+    resp_json = _json_dumps(resp_dict)
+
+    if DEBUG:
+        print >> stderr, ('DEBUG: responding with %s'
+                % resp_json.replace('\n', ' '))
+
+    # We always respond with '200 OK' since the errors are in JSON
+    start_response('200 OK', [('Content-Type', 'application/json'), ])
+    yield resp_json
 
 if __name__ == '__main__':
-    # Pre-load the model since this takes some time
-    _load_model()
+    if not MODEL_PATH_BY_TOKEN:
+        print >> stderr, "ERROR: no models specified by 'fcgiconf.py', exiting"
+        exit(-1)
+
+    # Pre-load the models since this takes some time
+    if DEBUG:
+        print >> stderr, 'DEBUG: pre-loading models'
+    for token in MODEL_PATH_BY_TOKEN:
+        _load_model(token)
     # Then we are ready to serve requests
+    if DEBUG:
+        print >> stderr, 'DEBUG: server started'
     WSGIServer(simsem_app).run()
