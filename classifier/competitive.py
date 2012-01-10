@@ -178,6 +178,29 @@ class InternalClassifier(LibLinearClassifier):
         LibLinearClassifier.__init__(self)
         self.feature_class = InternalFeature
 
+from features import (SpanBoWFeature, SpanHeadFeature, SpanHeadWindowFeature)
+
+class NPInternalFeature(AbstractFeature):
+    def __init__(self):
+        self.features =[c() for c in (
+            InternalFeature,
+            SpanBoWFeature,
+            SpanHeadFeature,
+            SpanHeadWindowFeature,
+            )]
+
+    def get_id(self):
+        return 'NP-INTERNAL'
+
+    def featurise(self, document, sentence, annotation):
+        for feature in self.features:
+            for f_tup in feature.featurise(document, sentence, annotation):
+                yield (f_tup[0] + '-(<' + feature.get_id() + '>)', f_tup[1])
+
+class NPInternalClassifier(LibLinearClassifier):
+    def __init__(self):
+        LibLinearClassifier.__init__(self)
+        self.feature_class = NPInternalFeature
 
 class SimStringInternalFeature(AbstractFeature):
     def __init__(self):
@@ -207,6 +230,26 @@ class SimStringInternalClassifier(LibLinearClassifier):
     def __init__(self):
         LibLinearClassifier.__init__(self)
         self.feature_class = SimStringInternalFeature
+
+class SimStringNPInternalFeature(AbstractFeature):
+    def __init__(self):
+        self.features =[c() for c in (
+            SimStringInternalFeature,
+            NPInternalFeature,
+            )]
+
+    def get_id(self):
+        return 'SIMSTRING-NP-INTERNAL'
+
+    def featurise(self, document, sentence, annotation):
+        for feature in self.features:
+            for f_tup in feature.featurise(document, sentence, annotation):
+                yield (f_tup[0] + '-(<' + feature.get_id() + '>)', f_tup[1])
+
+class SimStringNPInternalClassifier(LibLinearClassifier):
+    def __init__(self):
+        LibLinearClassifier.__init__(self)
+        self.feature_class = SimStringNPInternalFeature
 
 class SimStringTsuruokaFeature(AbstractFeature):
     def __init__(self):

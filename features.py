@@ -515,6 +515,46 @@ DATE_REGEX = _compile(r'^(19|20)\d\d[- /.](0[1-9]|1[012])[- /.](0[1-9]|[12][0-9]
 
 #TODO: Window BoW!
 
+### Features to capture NP internal performance
+
+class SpanBoWFeature(object):
+    def get_id(self):
+        return 'SPAN-BOW'
+
+    def featurise(self, document, sentence, annotation):
+        span_text = sentence.annotation_text(annotation)
+
+        for tok in span_text.split():
+            yield (tok, 1)
+
+from lib.findhead import findhead as find_np_head
+
+class SpanHeadFeature(object):
+    def get_id(self):
+        return 'SPAN-HEAD'
+
+    def featurise(self, document, sentence, annotation):
+        span_text = sentence.annotation_text(annotation)
+        yield (find_np_head(span_text)[1], 1)
+
+class SpanHeadWindowFeature(object):
+    def get_id(self):
+        return 'SPAN-HEAD-WINDOW'
+
+    def featurise(self, document, sentence, annotation):
+        span_text = sentence.annotation_text(annotation)
+        before_head, _, after_head = find_np_head(span_text)
+        for tok_i, tok in enumerate(reversed(before_head.split(' ')), start=1):
+            if tok_i > 3:
+                break
+            yield ('-BEFORE-{}-{}'.format(tok_i, tok), 1)
+        for tok_i, tok in enumerate(after_head.split(' '), start=1):
+            if tok_i > 3:
+                break
+            yield ('-AFTER-{}-{}'.format(tok_i, tok), 1)
+
+###
+
 ### Trailing constants
 # TODO: We can GENERATE a lot of the shit above here
 SIMPLE_SPAN_INTERNAL_CLASSES = set((

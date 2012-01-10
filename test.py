@@ -55,6 +55,8 @@ from classifier.competitive import SimStringCompetitiveEnsembleClassifier
 from classifier.competitive import SimStringInternalClassifier
 from classifier.competitive import GazetterInternalClassifier
 from classifier.competitive import InternalClassifier
+from classifier.competitive import NPInternalClassifier
+from classifier.competitive import SimStringNPInternalClassifier
 from classifier.competitive import TsuruokaInternalClassifier
 from classifier.competitive import TsuruokaClassifier
 from classifier.competitive import SimStringTsuruokaInternalClassifier
@@ -74,6 +76,8 @@ CLASSIFIERS = OrderedDict((
     ('NAIVE',                       NaiveClassifier),
     #('SIMPLE-INTERNAL-ENSEMBLE',    SimpleInternalEnsembleClassifier),
     ('INTERNAL',                    InternalClassifier),
+    ('NP-INTERNAL',                 NPInternalClassifier),
+    ('SIMSTRING-NP-INTERNAL',       SimStringNPInternalClassifier),
     ('SIMSTRING',                   SimStringEnsembleClassifier),
     ('GAZETTER',                    SimStringGazetterEnsembleClassifier),
     #('COMPETITIVE',                 CompetitiveEnsembleClassifier),
