@@ -1,0 +1,38 @@
+T46	Gene_Activation 14 24	activation
+T47	Gene_Activation 418 428	activation
+T48	Transcription 446 456	initiation
+T49	GRE 599 608	interacts
+T50	GRE 637 646	increases
+T51	Gene_Activation 676 686	activation
+T52	GRE 841 846	binds
+T53	GRE 997 1002	binds
+T54	GRE 1235 1239	bind
+T55	GRE 1379 1384	binds
+T56	GRE 1574 1578	bind
+T57	GRE 1653 1658	binds
+T58	Gene_Expression 1783 1793	expression
+T59	GRE 1855 1862	binding
+T60	Gene_Expression 1883 1893	expression
+T61	GRE 1916 1924	requires
+T62	GRE 1999 2004	bound
+T63	GRE 2046 2056	increasing
+T64	Gene_Expression 2057 2067	expression
+E1	Gene_Activation:T46 Theme:T2 Manner:T1
+E2	Gene_Activation:T47 Theme:E3
+E3	Transcription:T48 Manner:T3 Location:T4
+E4	GRE:T49 Agent:T9 Agent:T10
+E5	GRE:T50 Agent:T9 Theme:E6
+E6	Gene_Activation:T51 Manner:T11
+E7	GRE:T52 Agent:T12 Destination:T13
+E8	GRE:T53 Agent:T14 Destination:T15
+E9	GRE:T54 Agent:T16 Destination:T17,T18,T19,T20,T21 Condition:T22
+E10	GRE:T55 Agent:T24 Destination:T25 Condition:T23
+E11	GRE:T56 Agent:T26 Destination:T27 Condition:T28
+E12	GRE:T57 Agent:T26 Destination:T30 Condition:T29
+E13	Gene_Expression:T58 Source:T31
+E14	GRE:T59 Agent:T32 Destination:T34
+E15	Gene_Expression:T60 Theme:T35
+E16	GRE:T61 Agent:T37,T38,T39,T41 Purpose:E15
+E17	GRE:T62 Agent:T43 Destination:T44
+E18	GRE:T63 Agent:T42 Theme:E19
+E19	Gene_Expression:T64 Source:T45

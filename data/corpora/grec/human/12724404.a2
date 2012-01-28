@@ -1,0 +1,6 @@
+T5	Gene_Repression 1020 1029	repressed
+T6	GRE 1090 1100	correlated
+T7	GRE 1113 1120	binding
+E1	Gene_Repression:T5 Agent:T1 Theme:T2
+E2	GRE:T6 Agent:T3 Theme:E3
+E3	GRE:T7 Agent:T4

@@ -1,0 +1,26 @@
+T1	Regulator 0 34	The global regulatory protein FruR
+T2	SPAN 45 73	the direction of carbon flow
+T3	SPAN 74 93	in Escherichia coli
+T4	Wild_Type_Bacteria 77 93	Escherichia coli
+T5	Regulator 137 141	FruR
+T6	Gene 178 191	several genes
+T7	Operator 233 272	a previously derived consensus sequence
+T8	Regulator 277 281	FruR
+T9	Regulator 353 357	FruR
+T10	Operator 408 417	Operators
+T11	Regulator 491 495	FruR
+T12	Regulator 627 631	FruR
+T13	Gene 659 689	FruR operator-containing genes
+T14	Enzyme 699 710	key enzymes
+T15	SPAN 778 787	fruR null
+T16	SPAN 805 829	the rates of utilization
+T17	Operator 1028 1050	the consensus sequence
+T18	Regulator 1055 1059	FruR
+T19	Operon 1084 1091	operons
+T20	Regulator 1128 1132	FruR
+T21	Operator 1162 1203	a revised FruR-binding consensus sequence
+T22	Regulator 1245 1249	FruR
+T23	SPAN 1292 1307	transcriptional
+T24	Gene 1322 1327	genes
+T25	Enzyme 1337 1344	enzymes
+T26	Gene_Repression 1407 1417	repression

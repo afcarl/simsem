@@ -1,0 +1,24 @@
+T33	Regulation 87 96	regulated
+T34	GRE 100 111	interaction
+T35	GRE 329 338	interacts
+T36	GRE 527 534	encodes
+T37	GRE 663 670	encodes
+T38	Gene_Expression 958 972	Overexpression
+T39	GRE 1008 1015	results
+T40	GRE 1033 1043	suppresses
+T41	Gene_Expression 1421 1430	expressed
+T42	Gene_Expression 1489 1498	expressed
+T43	GRE 1656 1663	promote
+T44	GRE 1727 1731	play
+E1	Regulation:T33 Agent:E2 Theme:T1
+E2	GRE:T34 Theme:T2 Theme:T3
+E3	GRE:T35 Theme:T4 Theme:T5,T6
+E4	GRE:T36 Agent:T7 Theme:T8
+E5	GRE:T37 Agent:T9 Theme:T10
+E6	Gene_Expression:T38 Theme:T11 Location:T12
+E7	GRE:T39 Agent:E6 Descriptive-Agent:T14
+E8	GRE:T40 Agent:E6 Theme:T15
+E9	Gene_Expression:T41 Theme:T16 Manner:T17 Location:T18
+E10	Gene_Expression:T42 Theme:T20 Manner:T21,T24 Location:T22,T25
+E11	GRE:T43 Agent:T26 Theme:T27 Manner:T28 Location:T29
+E12	GRE:T44 Theme:T31 Descriptive-Theme:T32

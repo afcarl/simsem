@@ -1,0 +1,39 @@
+T1	Enzyme 210 220	pseudo-HPr
+T2	SPAN 221 231	suppressor
+T3	Mutation 243 258	These mutations
+T4	Phenotype 270 281	the defects
+T5	SPAN 282 298	in a ptsH mutant
+T6	Mutant_Bacteria 285 298	a ptsH mutant
+T7	Enzyme 311 314	HPr
+T8	SPAN 407 417	suppressor
+T9	SPAN 438 455	in S. typhimurium
+T10	Wild_Type_Bacteria 441 455	S. typhimurium
+T11	Enzyme 709 719	Pseudo-HPr
+T12	SPAN 720 730	suppressor
+T13	Deletion 752 762	a deletion
+T14	SPAN 754 762	deletion
+T15	SPAN 773 782	clockwise
+T16	Gene 788 791	leu
+T17	SPAN 808 820	constitutive
+T18	Operon 835 849	the fru operon
+T19	Gene 882 886	fruA
+T20	Gene 897 901	fruB
+T21	Gene 933 937	fruK
+T22	Gene 955 959	fruF
+T23	Gene 962 966	fruR
+T24	Repressor 986 997	a repressor
+T25	Mutant_Bacteria 1274 1281	mutants
+T26	SPAN 1290 1309	pseudo-HPr activity
+T27	Enzyme 1391 1401	pseudo-HPr
+T28	SPAN 1402 1412	suppressor
+T29	SPAN 1423 1431	at 3 min
+T30	Locus 1426 1431	3 min
+T31	Mutation 1436 1448	the deletion
+T32	Gene 1464 1467	leu
+T33	Mutation 1513 1541	these mutations or deletions
+T34	Mutant_Bacteria 1627 1640	such a mutant
+T35	Locus 1646 1666	the cloned fragments
+T36	Phenotype 1676 1691	both phenotypes
+T37	SPAN 1692 1708	at the same time
+T38	Polypeptide 1720 1741	the fruR gene product
+T39	Activator 1750 1762	an activator

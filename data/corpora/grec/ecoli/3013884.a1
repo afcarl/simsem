@@ -1,0 +1,18 @@
+T1	Gene 14 27	the ompC gene
+T2	Gene 89 93	ompC
+T3	SPAN 105 129	in Escherichia coli K-12
+T4	Wild_Type_Bacteria 108 129	Escherichia coli K-12
+T5	Locus 158 172	the ompB locus
+T6	Gene 185 208	the ompR and envZ genes
+T7	Regulator 214 230	the OmpR protein
+T8	Activator 253 286	a positive transcriptional factor
+T9	RNA_Polymerase 372 386	RNA polymerase
+T10	Gene 404 408	ompC
+T11	SPAN 409 464	without a requirement for other transcriptional factors
+T12	Transcription_Factor 435 464	other transcriptional factors
+T13	mRNA 479 490	transcripts
+T14	Promoter 496 518	three tandem promoters
+T15	SPAN 543 551	in vitro
+T16	Gene 803 807	ompC
+T17	SPAN 819 826	in vivo
+T18	Gene 970 974	ompC

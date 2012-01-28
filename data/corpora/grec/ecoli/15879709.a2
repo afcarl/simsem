@@ -1,0 +1,18 @@
+T17	GRE 196 202	encode
+T18	Transcription 246 259	Transcription
+T19	GRE 277 285	encoding
+T20	GRE 515 520	binds
+T21	GRE 555 562	affects
+T22	Transcription 568 581	transcription
+T23	GRE 706 711	bound
+T24	GRE 804 813	activated
+T25	Transcription 819 832	transcription
+E1	GRE:T17 Agent:T1 Theme:T3,T4
+E2	Transcription:T18 Theme:T5
+E3	GRE:T19 Agent:T5 Theme:T6
+E4	GRE:T20 Agent:T7 Destination:T8
+E5	GRE:T21 Agent:T7 Theme:E6
+E6	Transcription:T22 Theme:T9
+E7	GRE:T23 Agent:T10 Destination:T11,T13
+E8	GRE:T24 Agent:T14 Theme:E9 Instrument:T16
+E9	Transcription:T25 Theme:T15

@@ -1,0 +1,24 @@
+T22	Gene_Expression 79 89	expression
+T23	GRE 302 309	encoded
+T24	Gene_Activation 589 597	activate
+T25	GRE 731 738	directs
+T26	GRE 739 748	synthesis
+T27	Gene_Expression 1022 1032	expression
+T28	Transcription 1042 1055	transcription
+T29	Gene_Activation 1092 1101	activated
+T30	Gene_Repression 1141 1150	inhibited
+T31	Gene_Activation 1359 1368	activated
+T32	GRE 1388 1393	bound
+T33	GRE 1526 1531	bound
+E1	Gene_Expression:T22 Theme:T1 Location:T2
+E2	GRE:T23 Agent:T5 Theme:T4
+E3	Gene_Activation:T24 Agent:T6 Theme:T7 Condition:T8
+E4	GRE:T25 Agent:T9 Theme:E5
+E5	GRE:T26 Theme:T10
+E6	Gene_Expression:T27 Theme:T12 Manner:T11
+E7	Transcription:T28 Source:T13
+E8	Gene_Activation:T29 Agent:T15 Theme:E7 Manner:T14
+E9	Gene_Repression:T30 Agent:T16 Theme:E7
+E10	Gene_Activation:T31 Agent:T18 Theme:T17
+E11	GRE:T32 Agent:T18 Destination:T19
+E12	GRE:T33 Agent:T20 Destination:T21

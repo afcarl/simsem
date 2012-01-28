@@ -1,0 +1,38 @@
+T1	Gene 17 21	rpoH
+T2	Sigma_Factor 74 81	sigma32
+T3	SPAN 86 96	negatively
+T4	Repressor 111 150	the cAMP-CRP/CytR nucleoprotein complex
+T5	Gene 174 187	the rpoH gene
+T6	Sigma_Factor 197 239	the essential heat-shock regulator sigma32
+T7	SPAN 257 273	a complex manner
+T8	Promoter 317 319	P1
+T9	Promoter 321 323	P3
+T10	Promoter 325 327	P4
+T11	Promoter 332 334	P5
+T12	Sigma_Factor 405 412	sigma70
+T13	Sigma_Factor 417 423	sigmaE
+T14	Regulator 431 455	the global regulator CRP
+T15	SPAN 452 455	CRP
+T16	Regulator 467 483	the DnaA protein
+T17	Gene 624 628	rpoH
+T18	Repressor 666 686	The cAMP-CRP complex
+T19	Repressor 691 714	the CytR anti-activator
+T20	SPAN 720 734	co-operatively
+T21	Promoter 738 757	the promoter region
+T22	Repressor 766 786	a repression complex
+T23	Inorganic_Compounds 924 932	glycerol
+T24	Promoter 985 987	P3
+T25	Promoter 989 991	P4
+T26	Promoter 996 998	P5
+T27	SPAN 1010 1033	approximately threefold
+T28	Repressor 1037 1041	CytR
+T29	Promoter 1093 1095	P1
+T30	Promoter 1198 1200	P3
+T31	Promoter 1202 1204	P4
+T32	Promoter 1209 1211	P5
+T33	SPAN 1251 1258	10-fold
+T34	Gene_Repression 1265 1275	repression
+T35	Organic_Compounds 1332 1340	cytidine
+T36	Gene 1471 1475	rpoH
+T37	Gene 1575 1579	rpoH
+T38	Gene 1584 1588	ppiA

@@ -1,0 +1,44 @@
+T1	Promoter 26 81	the divergent Escherichia coli nrfA and acsP1 promoters
+T2	Protein_Complex 85 109	a nucleoprotein assembly
+T3	Promoter 194 199	pnrfA
+T4	Regulator 222 237	the FNR protein
+T5	Regulator 295 320	the NarL or NarP proteins
+T6	SPAN 388 408	anaerobic conditions
+T7	Regulator 410 413	FNR
+T8	Locus 423 429	a site
+T9	Transcription 479 492	transcription
+T10	Gene_Activation 494 512	Further activation
+T11	Inorganic_Compounds 541 548	nitrite
+T12	Regulator 578 591	NarL and NarP
+T13	Locus 595 601	a site
+T14	Promoter 648 654	pacsP1
+T15	Gene 690 707	the adjacent gene
+T16	Enzyme 717 745	acetyl coenzyme A synthetase
+T17	SPAN 747 750	acs
+T18	Promoter 785 790	pnrfA
+T19	Promoter 842 858	pnrfA and pacsP1
+T20	SPAN 873 886	independently
+T21	Regulator 908 948	at least two nucleoid-associated factors
+T22	Locus 957 987	the nrfA-acs intergenic region
+T23	Repressor 989 1004	The Fis protein
+T24	Locus 1014 1020	a site
+T25	Gene 1061 1066	pnrfA
+T26	Repressor 1091 1106	the IHF protein
+T27	Locus 1116 1122	a site
+T28	Repressor 1153 1156	Fis
+T29	Repressor 1161 1164	IHF
+T30	SPAN 1173 1180	in vivo
+T31	Promoter 1197 1203	pacsP1
+T32	Gene 1260 1265	pnrfA
+T33	SPAN 1319 1327	pairwise
+T34	Regulator 1339 1370	FNR, NarL, Fis and IHF proteins
+T35	Locus 1374 1404	the nrfA-acs intergenic region
+T36	Regulator 1421 1433	NarL and IHF
+T37	Mutation 1534 1563	deletions and point mutations
+T38	Promoter 1608 1613	pnrfA
+T39	SPAN 1632 1652	an additional factor
+T40	Locus 1663 1671	upstream
+T41	Transcription 1683 1710	FNR-dependent transcription
+T42	Promoter 1823 1850	the two divergent promoters
+T43	SPAN 1867 1880	independently
+T44	SPAN 1896 1927	different physiological signals

@@ -1,0 +1,36 @@
+T1	Gene 288 292	osmY
+T2	SPAN 403 419	stationary-phase
+T3	SPAN 403 429	stationary-phase induction
+T4	SPAN 434 441	osmotic
+T5	SPAN 434 452	osmotic regulation
+T6	Gene 546 550	osmY
+T7	Regulator 616 619	Lrp
+T8	Regulator 670 678	cAMP-CRP
+T9	Regulator 710 713	IHF
+T10	Regulation 731 742	the control
+T11	Regulator 752 772	All three regulators
+T12	SPAN 773 783	negatively
+T13	Gene 811 815	osmY
+T14	SPAN 830 856	independently from sigma s
+T15	SPAN 858 874	Stationary-phase
+T16	SPAN 888 892	osmY
+T17	SPAN 893 910	in minimal medium
+T18	Sigma_Factor 946 953	sigma s
+T19	Repressor 980 983	Lrp
+T20	SPAN 996 1012	Stationary-phase
+T21	Gene 1026 1030	osmY
+T22	SPAN 1031 1045	in rich medium
+T23	Sigma_Factor 1084 1091	sigma s
+T24	Regulator 1093 1096	Lrp
+T25	Regulator 1098 1106	cAMP-CRP
+T26	Regulator 1112 1115	IHF
+T27	Regulator 1158 1185	transition state regulators
+T28	Locus 1324 1345	The regulatory region
+T29	Transcription_Binding_Site 1415 1438	potential binding sites
+T30	Sigma_Factor 1470 1477	sigma s
+T31	Regulator 1479 1482	Lrp
+T32	Regulator 1484 1487	CRP
+T33	Regulator 1493 1496	IHF
+T34	Gene_Activation 1521 1547	stationary-phase induction
+T35	SPAN 1591 1598	osmotic
+T36	Gene 1613 1617	osmY

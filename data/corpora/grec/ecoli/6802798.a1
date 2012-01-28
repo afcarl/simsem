@@ -1,0 +1,13 @@
+T1	Operon 14 51	the Escherichia coli K-12 uvrB operon
+T2	Gene 184 192	the gene
+T3	SPAN 184 226	the gene for the enzyme beta-galactosidase
+T4	Enzyme 197 226	the enzyme beta-galactosidase
+T5	Operon 245 260	the uvrB operon
+T6	SPAN 444 455	this system
+T7	Operon 482 492	the operon
+T8	SPAN 543 564	the rate of synthesis
+T9	SPAN 579 615	four to six times the uninduced rate
+T10	SPAN 734 753	The control of uvrB
+T11	Operon 749 753	uvrB
+T12	SPAN 779 785	direct
+T13	Repressor 800 821	the lexA gene product

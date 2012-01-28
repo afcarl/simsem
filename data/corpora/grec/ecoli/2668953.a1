@@ -1,0 +1,15 @@
+T1	Regulator 19 23	OmpR
+T2	Gene 71 94	the ompF and ompC genes
+T3	SPAN 95 114	in Escherichia coli
+T4	Wild_Type_Bacteria 98 114	Escherichia coli
+T5	Gene 160 173	ompF and ompC
+T6	SPAN 185 204	in Escherichia coli
+T7	Wild_Type_Bacteria 188 204	Escherichia coli
+T8	Inorganic_Compounds 490 509	the phosphate group
+T9	Regulator 542 582	the transcription activator protein OmpR
+T10	SPAN 988 1021	in a delta envZ strain of E. coli
+T11	Mutant_Bacteria 991 1010	a delta envZ strain
+T12	Gene 1060 1064	ompC
+T13	SPAN 1088 1103	7-fold relative
+T14	SPAN 1215 1239	the phosphorylated state
+T15	Gene 1276 1299	the ompF and ompC genes

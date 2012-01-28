@@ -1,0 +1,36 @@
+T39	Transcription 0 13	Transcription
+T40	GRE 23 31	encoding
+T41	GRE 97 107	controlled
+T42	GRE 188 196	encoding
+T43	Gene_Expression 244 253	expressed
+T44	Transcription 289 295	occurs
+T45	Regulation 343 352	modulated
+T46	Gene_Expression 629 639	expression
+T47	GRE 715 719	bind
+T48	GRE 758 765	forming
+T49	Transcription 966 979	transcription
+T50	GRE 1002 1009	reduced
+T51	Transcription 1051 1064	transcription
+T52	Transcription 1179 1192	transcription
+T53	GRE 1215 1222	reduced
+T54	GRE 1289 1300	neutralized
+T55	Transcription 1476 1489	transcription
+T56	Transcription 1545 1560	' transcription
+E1	Transcription:T39 Theme:T1
+E2	GRE:T40 Agent:T1 Theme:T2
+E3	GRE:T41 Agent:T4 Theme:T2 Manner:T3
+E4	GRE:T42 Agent:T5 Theme:T6
+E5	Gene_Expression:T43 Theme:T5 Manner:T7
+E6	Transcription:T44 Theme:E6 Source:T8,T9,T10,T11
+E7	Regulation:T45 Agent:T12,T13,T15,T16 Theme:E6
+E8	Gene_Expression:T46 Theme:T17
+E9	GRE:T47 Agent:T18,T19 Manner:T20 Destination:T21
+E10	GRE:T48 Theme:T22
+E11	Transcription:T49 Source:T24,T25,T26
+E12	GRE:T50 Agent:T28 Theme:E11 Condition:T23 Rate:T27
+E13	Transcription:T51 Source:T29
+E14	Transcription:T52 Source:T30,T31,T32
+E15	GRE:T53 Theme:E14 Rate:T33
+E16	GRE:T54 Theme:T34 Condition:T35
+E17	Transcription:T55 Theme:T36
+E18	Transcription:T56 Theme:T37,T38

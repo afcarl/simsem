@@ -1,0 +1,20 @@
+T18	Regulation 146 156	regulation
+T19	Regulation 175 185	regulation
+T20	GRE 234 242	encoding
+T21	GRE 1019 1025	caused
+T22	Regulation 1036 1046	activation
+T23	Transcription 1055 1068	transcription
+T24	GRE 1139 1145	induce
+T25	Regulation 1181 1192	stimulation
+T26	Transcription 1201 1214	transcription
+T27	Regulation 1379 1389	repression
+E1	Regulation:T18 Manner:T1
+E2	Regulation:T19 Theme:T3 Manner:T2
+E3	GRE:T20 Agent:T3 Theme:T4
+E4	GRE:T21 Agent:T5,T6 Theme:E5
+E5	Regulation:T22 Theme:T9 Manner:T7
+E6	Transcription:T23 Theme:T8
+E7	GRE:T24 Agent:T10,T11 Theme:T12 Manner:T13
+E8	Regulation:T25 Theme:T15
+E9	Transcription:T26 Theme:T14
+E10	Regulation:T27 Theme:T17 Manner:T16

@@ -1,0 +1,56 @@
+T42	GRE 115 127	interactions
+T43	Transcription 151 164	Transcription
+T44	GRE 165 175	initiation
+T45	GRE 217 224	induced
+T46	GRE 257 266	increased
+T47	Gene_Expression 327 337	Expression
+T48	GRE 418 423	binds
+T49	GRE 745 754	regulated
+T50	Mutation 808 817	Mutations
+T51	GRE 873 881	decrease
+T52	Gene_Activation 906 915	induction
+T53	GRE 938 942	acts
+T54	Gene_Activation 983 993	activation
+T55	GRE 1016 1024	suppress
+T56	Gene_Activation 1025 1034	induction
+T57	Mutation 1054 1063	mutations
+T58	Mutation 1130 1139	mutations
+T59	GRE 1201 1205	bind
+T60	GRE 1230 1240	Disruption
+T61	GRE 1249 1258	decreases
+T62	Gene_Expression 1267 1276	induction
+T63	GRE 1309 1320	suppressing
+T64	Gene_Activation 1321 1330	induction
+T65	Gene_Activation 1416 1425	induction
+T66	GRE 1440 1450	suppressed
+T67	Mutation 1461 1470	mutations
+T68	GRE 1575 1579	bind
+T69	GRE 1610 1620	recognized
+E1	GRE:T42 Agent:T1 Agent:T2
+E2	Transcription:T43 Source:T3
+E3	GRE:T44 Theme:E2
+E4	GRE:T45 Agent:T5 Theme:E3
+E5	GRE:T46 Agent:T7,T8 Theme:E3 Manner:T6
+E6	Gene_Expression:T47 Source:T9
+E7	GRE:T48 Agent:T10 Destination:T11
+E8	GRE:T49 Agent:T14 Theme:T13
+E9	Mutation:T50 Theme:T15 Location:T16
+E10	GRE:T51 Agent:E9 Theme:E11
+E11	Gene_Activation:T52 Manner:T18
+E12	GRE:T53 Agent:T19 Descriptive-Agent:T20 Temporal:E13
+E13	Gene_Activation:T54 Theme:T21
+E14	GRE:T55 Agent:T22 Theme:E15
+E15	Gene_Activation:T56 Agent:T24
+E16	Mutation:T57 Manner:T25 Location:T26
+E17	Mutation:T58 Manner:T27
+E18	GRE:T59 Agent:T28 Destination:T29
+E19	GRE:T60 Theme:T30
+E20	GRE:T61 Agent:E19 Theme:E21
+E21	Gene_Expression:T62 Agent:T31 Theme:T32
+E22	GRE:T63 Agent:E19 Theme:E23
+E23	Gene_Activation:T64 Agent:T33
+E24	Gene_Activation:T65 Agent:T34
+E25	GRE:T66 Agent:E26 Theme:E24
+E26	Mutation:T67 Manner:T35 Location:T36
+E27	GRE:T68 Agent:T38 Destination:T39
+E28	GRE:T69 Agent:T41 Theme:T40

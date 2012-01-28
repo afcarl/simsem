@@ -1,0 +1,34 @@
+T1	Operon 28 51	the yiaKLMNOPQRS operon
+T2	SPAN 81 100	in Escherichia coli
+T3	Bacteria 84 100	Escherichia coli
+T4	Gene 354 360	yiaK-S
+T5	Promoter 386 405	the unique promoter
+T6	Operon 528 545	the yiaK-S operon
+T7	SPAN 560 583	in the wild-type strain
+T8	Wild_Type_Bacteria 563 583	the wild-type strain
+T9	Repressor 587 598	a repressor
+T10	Gene 610 614	yiaJ
+T11	Operon 639 656	the yiaK-S operon
+T12	SPAN 768 786	in a mutant strain
+T13	Mutant_Bacteria 771 786	a mutant strain
+T14	Repressor 795 813	the YiaJ repressor
+T15	Gene 909 915	yiaK-S
+T16	Regulator 932 959	the integration host factor
+T17	Organic_Compounds 983 987	cAMP
+T18	Regulator 1012 1015	Crp
+T19	SPAN 1017 1034	activator complex
+T20	SPAN 1036 1045	A twofold
+T21	Gene_Activation 1058 1071	the induction
+T22	SPAN 1085 1108	during anaerobic growth
+T23	Experimental_Technique 1092 1108	anaerobic growth
+T24	Repressor 1186 1204	the YiaJ repressor
+T25	Promoter 1214 1233	a promoter fragment
+T26	Protein_Complex 1293 1313	the cAMP-Crp complex
+T27	Locus 1326 1345	two different sites
+T28	Protein_Complex 1448 1456	cAMP-Crp
+T29	Locus 1460 1474	the Crp site 1
+T30	SPAN 1511 1517	yiaK-S
+T31	Gene 1669 1673	yiaJ
+T32	Protein_Complex 1730 1738	Crp-cAMP
+T33	Locus 1742 1756	the Crp site 1
+T34	SPAN 1742 1779	the Crp site 1 of the yiaK-S promoter

@@ -1,0 +1,22 @@
+T20	GRE 143 151	encoding
+T21	GRE 347 353	encode
+T22	Regulation 809 817	activate
+T23	Gene_Expression 822 832	expression
+T24	Regulation 918 925	repress
+T25	Gene_Expression 936 946	expression
+T26	Regulation 990 1000	regulation
+T27	Gene_Expression 1166 1176	expression
+T28	Regulation 1204 1213	regulated
+T29	Regulation 1260 1267	induced
+T30	Regulation 1283 1292	repressed
+E1	GRE:T20 Agent:T1 Theme:T2
+E2	GRE:T21 Agent:T3 Theme:T4
+E3	Regulation:T22 Agent:T5 Theme:T6 Condition:T8
+E4	Gene_Expression:T23 Theme:T7
+E5	Regulation:T24 Theme:T11 Condition:T12
+E6	Gene_Expression:T25 Theme:T10
+E7	Regulation:T26 Theme:T14
+E8	Gene_Expression:T27 Theme:T15
+E9	Regulation:T28 Theme:T16 Rate:T17
+E10	Regulation:T29 Agent:T18 Theme:T16
+E11	Regulation:T30 Agent:T19 Theme:T16

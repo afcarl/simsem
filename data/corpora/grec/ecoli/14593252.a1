@@ -1,0 +1,28 @@
+T1	Gene 202 213	whose genes
+T2	Repressor 231 235	GntR
+T3	Activator 255 259	GntH
+T4	Activator 305 309	GntH
+T5	SPAN 317 325	negative
+T6	Gene 337 351	the GntI genes
+T7	Transcription_Binding_Site 356 380	the same binding element
+T8	Repressor 423 427	GntR
+T9	Gene 451 466	the GntII genes
+T10	Regulator 510 514	GntH
+T11	Laboratory_Technique 538 569	single-copy LACZ operon fusions
+T12	Laboratory_Technique 577 583	RT-PCR
+T13	SPAN 596 604	positive
+T14	SPAN 609 617	negative
+T15	Regulator 632 636	GntR
+T16	SPAN 641 649	positive
+T17	Activator 664 668	GntH
+T18	Mutation 700 709	mutations
+T19	SPAN 710 745	into possible GntR-binding elements
+T20	Transcription_Binding_Site 715 745	possible GntR-binding elements
+T21	Regulator 760 775	both regulators
+T22	Transcription_Binding_Site 798 810	the elements
+T23	Regulator 861 865	GntR
+T24	Gene 890 905	the GntII genes
+T25	Activator 944 948	GntH
+T26	SPAN 949 970	when cells were grown
+T27	SPAN 974 998	gluconate minimum medium
+T28	Regulator 1066 1084	the GntI and GntII

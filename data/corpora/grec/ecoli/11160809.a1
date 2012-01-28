@@ -1,0 +1,17 @@
+T1	Regulator 0 22	Anomalous DnaA protein
+T2	Transcription_Binding_Site 34 55	the regulatory region
+T3	Transcription_Binding_Site 92 106	A binding site
+T4	SPAN 139 163	in the regulatory region
+T5	SPAN 202 218	Specific binding
+T6	SPAN 239 254	in vitro assays
+T7	SPAN 355 363	In cells
+T8	Wild_Type_Bacteria 358 363	cells
+T9	SPAN 424 449	ss-galactosidase activity
+T10	Gene 455 479	an aldA-lacZ fusion gene
+T11	SPAN 498 524	oversupply of DnaA protein
+T12	Regulator 512 524	DnaA protein
+T13	Regulator 554 573	the free DnaA level
+T14	Repressor 602 614	DnaA protein
+T15	SPAN 615 625	negatively
+T16	Gene 650 663	the aldA gene
+T17	SPAN 670 686	these conditions

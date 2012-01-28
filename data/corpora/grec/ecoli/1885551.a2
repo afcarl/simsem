@@ -1,0 +1,20 @@
+T26	GRE 24 29	binds
+T27	GRE 106 114	inhibits
+T28	GRE 208 220	participates
+T29	Regulation 229 239	regulation
+T30	GRE 527 532	binds
+T31	Transcription 586 599	transcription
+T32	GRE 646 653	blocked
+T33	Gene_Expression 729 739	expression
+T34	Mutation 787 796	mutations
+T35	GRE 825 832	binding
+E1	GRE:T26 Agent:T1 Manner:T2 Destination:T3
+E2	GRE:T27 Agent:T1 Theme:T4
+E3	GRE:T28 Agent:T5 Location:T9,T11,T12 Descriptive-Agent:E4,T7,T8
+E4	Regulation:T29 Theme:T6 Location:T9
+E5	GRE:T30 Agent:T13 Destination:T14
+E6	Transcription:T31 Manner:T15 Source:T16
+E7	GRE:T32 Agent:T18 Theme:E6 Manner:T17
+E8	Gene_Expression:T33 Theme:T19 Location:T20
+E9	Mutation:T34 Theme:T22
+E10	GRE:T35 Agent:T23 Location:T24

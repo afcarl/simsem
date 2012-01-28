@@ -1,0 +1,19 @@
+T1	Gene 0 4	Gene
+T2	Plasmid 21 50	multicopy T7 promoter vectors
+T3	SPAN 63 80	single copy rates
+T4	SPAN 81 116	in the absence of T7 RNA polymerase
+T5	RNA_Polymerase 99 116	T7 RNA polymerase
+T6	SPAN 284 312	the T7 RNA polymerase-driven
+T7	Protein 331 339	proteins
+T8	SPAN 340 359	in Escherichia coli
+T9	Wild_Type_Bacteria 343 359	Escherichia coli
+T10	Gene 435 439	Gene
+T11	SPAN 454 486	the absence of T7 RNA polymerase
+T12	RNA_Polymerase 469 486	T7 RNA polymerase
+T13	Laboratory_Technique 523 544	lacZ reporter systems
+T14	Laboratory_Technique 572 671	the susceptibility of plasmid-bearing tester strains to inhibition by an aromatic amino acid analog
+T15	Repressor 691 709	repressor proteins
+T16	Repressor 717 745	a Trp repressor-LacZ chimera
+T17	Protein 972 988	various proteins
+T18	SPAN 989 999	in E. coli
+T19	Wild_Type_Bacteria 992 999	E. coli

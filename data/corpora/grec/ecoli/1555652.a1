@@ -1,0 +1,19 @@
+T1	Regulator 56 59	Lrp
+T2	Enzyme 70 91	lysyl-tRNA synthetase
+T3	Gene 222 226	lysU
+T4	Enzyme 246 289	the inducible form of lysyl-tRNA synthetase
+T5	SPAN 291 305	The transposon
+T6	Gene 347 351	lysU
+T7	SPAN 371 381	within lrp
+T8	Gene 378 381	lrp
+T9	Gene 383 398	The latter gene
+T10	Regulator 452 455	Lrp
+T11	SPAN 472 489	a global response
+T12	Gene 562 566	lysU
+T13	Gene 636 639	lrp
+T14	SPAN 647 668	an increased activity
+T15	SPAN 691 721	whatever the growth conditions
+T16	Gene 749 769	a wild-type lrp gene
+T17	Plasmid 775 795	a multi-copy plasmid
+T18	SPAN 796 809	significantly
+T19	Gene 818 822	lysU

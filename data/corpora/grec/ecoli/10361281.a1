@@ -1,0 +1,15 @@
+T1	Protein 12 32	the trehalose system
+T2	DNA 47 66	the maltose regulon
+T3	DNA 89 108	The maltose regulon
+T4	Gene 121 129	10 genes
+T5	Protein 139 157	an ABC transporter
+T6	Repressor 240 244	MalK
+T7	Repressor 325 336	a repressor
+T8	Gene 565 569	treR
+T9	Repressor 579 592	the repressor
+T10	SPAN 618 626	The loss
+T11	Gene 667 671	treB
+T12	SPAN 681 695	an enzymeIITre
+T13	Gene 728 732	treC
+T14	Enzyme 742 746	TreC
+T15	Gene 1095 1103	mal gene

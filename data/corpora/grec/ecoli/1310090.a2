@@ -1,0 +1,32 @@
+T34	Transcription 38 51	transcription
+T35	GRE 140 147	encodes
+T36	Gene_Expression 203 213	expression
+T37	Regulation 218 232	osmoregulation
+T38	Gene_Expression 423 433	expression
+T39	GRE 480 489	increased
+T40	GRE 673 681	involves
+T41	GRE 709 716	effects
+T42	GRE 812 817	binds
+T43	Gene_Repression 926 935	inhibited
+T44	Gene_Activation 940 949	activated
+T45	Regulation 1094 1104	regulation
+T46	Gene_Expression 1113 1123	expression
+T47	GRE 1139 1146	Control
+T48	Regulation 1213 1223	regulation
+T49	GRE 1231 1240	formation
+E1	Transcription:T34 Agent:T4,T5 Theme:T1 Location:T2
+E2	GRE:T35 Agent:T6 Theme:T7
+E3	Gene_Expression:T36 Theme:T8 Location:T9
+E4	Regulation:T37 Theme:T8 Location:T9
+E5	Gene_Expression:T38 Theme:T11 Location:T12
+E6	GRE:T39 Theme:E5 Condition:T17 Rate:T14 Temporal:T15
+E7	GRE:T40 Theme:T18 Descriptive-Theme:E8
+E8	GRE:T41 Agent:T20 Manner:T19 Location:T21
+E9	GRE:T42 Agent:T23 Destination:T24
+E10	Gene_Repression:T43 Agent:T26 Theme:T25
+E11	Gene_Activation:T44 Agent:T26 Theme:T25
+E12	Regulation:T45 Agent:T29 Theme:E13 Manner:T27
+E13	Gene_Expression:T46 Theme:T28
+E14	GRE:T47 Agent:T31 Theme:T30
+E15	Regulation:T48 Theme:E16
+E16	GRE:T49 Agent:T33 Theme:T32

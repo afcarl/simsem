@@ -1,0 +1,28 @@
+T32	GRE 33 41	involved
+T33	Regulation 59 69	regulation
+T34	GRE 137 147	suppresses
+T35	Gene_Expression 205 215	expression
+T36	GRE 318 323	bound
+T37	GRE 572 580	activate
+T38	GRE 649 657	belonged
+T39	GRE 740 748	elevated
+T40	GRE 827 837	eliminated
+T41	GRE 838 847	formation
+T42	GRE 926 937	interacting
+T43	GRE 1101 1104	led
+T44	Gene_Repression 1139 1150	suppression
+T45	GRE 1184 1193	possesses
+E1	GRE:T32 Theme:T1 Descriptive-Theme:E2
+E2	Regulation:T33 Agent:T4 Theme:T3 Manner:T2
+E3	GRE:T34 Agent:T5 Theme:T7,T8 Purpose:T10
+E4	Gene_Expression:T35 Theme:T9
+E5	GRE:T36 Agent:T11 Location:T12 Destination:T14 Manner:T15
+E6	GRE:T37 Agent:T16 Theme:T17 Manner:T18
+E7	GRE:T38 Theme:T16 Descriptive-Theme:T19
+E8	GRE:T39 Agent:T23 Theme:T20,T21,T22
+E9	GRE:T40 Agent:T24 Theme:E10
+E10	GRE:T41 Theme:T25
+E11	GRE:T42 Theme:T26 Theme:T27
+E12	GRE:T43 Agent:T28 Theme:E13
+E13	Gene_Repression:T44 Manner:T29
+E14	GRE:T45 Agent:T30 Descriptive-Agent:T31

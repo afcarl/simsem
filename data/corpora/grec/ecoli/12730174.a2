@@ -1,0 +1,26 @@
+T23	Regulation 14 24	regulation
+T24	Regulation 186 195	regulates
+T25	GRE 343 350	encodes
+T26	GRE 443 450	encodes
+T27	Gene_Activation 526 535	activates
+T28	Transcription 541 554	transcription
+T29	Gene_Repression 559 567	inhibits
+T30	Transcription 573 586	transcription
+T31	GRE 737 741	acts
+T32	Regulation 749 759	regulation
+T33	GRE 768 776	mediated
+T34	Regulation 789 799	regulation
+T35	GRE 854 864	controlled
+E1	Regulation:T23 Theme:T1 Location:T2
+E2	Regulation:T24 Agent:T4 Theme:T5
+E3	GRE:T25 Agent:T6 Theme:T7
+E4	GRE:T26 Agent:T8 Theme:T9
+E5	Gene_Activation:T27 Agent:T10 Theme:E6
+E6	Transcription:T28 Theme:T11 Source:T13
+E7	Gene_Repression:T29 Agent:T10 Theme:E8
+E8	Transcription:T30 Theme:T12 Source:T13
+E9	GRE:T31 Agent:T14,T15,T16 Descriptive-Agent:E10
+E10	Regulation:T32 Theme:T17
+E11	GRE:T33 Agent:T18 Theme:E10
+E12	Regulation:T34 Theme:T19
+E13	GRE:T35 Agent:T21,T22 Theme:E12 Manner:T20

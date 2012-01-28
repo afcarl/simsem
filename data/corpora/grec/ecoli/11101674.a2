@@ -1,0 +1,18 @@
+T22	GRE 200 206	encode
+T23	GRE 987 996	modulated
+T24	Gene_Expression 1139 1149	expression
+T25	GRE 1150 1159	increases
+T26	GRE 1202 1210	requires
+T27	Regulation 1235 1248	autoregulated
+T28	Gene_Activation 1269 1278	activated
+T29	Regulation 1333 1342	regulated
+T30	Transcription 1512 1523	transcribed
+E1	GRE:T22 Agent:T1 Theme:T2
+E2	GRE:T23 Agent:T5,T6 Theme:T3
+E3	Gene_Expression:T24 Theme:T8 Manner:T7
+E4	GRE:T25 Theme:E3 Rate:T9 Temporal:T10
+E5	GRE:T26 Theme:T11 Purpose:E3
+E6	Regulation:T27 Agent:T13 Theme:E3 Manner:T12
+E7	Gene_Activation:T28 Agent:T15,T16 Theme:E3 Manner:T14 Condition:T17
+E8	Regulation:T29 Agent:T19 Theme:E3 Manner:T18
+E9	Transcription:T30 Theme:T20 Source:T21

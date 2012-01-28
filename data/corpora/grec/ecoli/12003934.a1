@@ -1,0 +1,35 @@
+T1	SPAN 0 16	ArgR-independent
+T2	SPAN 31 45	ArgR-dependent
+T3	Operon 64 83	the astCADBE operon
+T4	SPAN 84 103	in Escherichia coli
+T5	Wild_Type_Bacteria 87 103	Escherichia coli
+T6	Gene 220 225	genes
+T7	Operon 351 370	The astCADBE operon
+T8	SPAN 447 457	moderately
+T9	SPAN 468 502	during general nitrogen limitation
+T10	SPAN 507 516	maximally
+T11	SPAN 546 554	arginine
+T12	Operon 556 566	The operon
+T13	SPAN 583 602	in stationary phase
+T14	SPAN 860 868	arginine
+T15	Gene_Expression 880 890	expression
+T16	Repressor 892 901	that ArgR
+T17	SPAN 952 966	both promoters
+T18	RNA_Polymerase 1032 1050	the RNA polymerase
+T19	SPAN 1054 1065	competitive
+T20	SPAN 1070 1088	mutually exclusive
+T21	RNA_Polymerase 1121 1147	RNA polymerase holoenzymes
+T22	Regulator 1149 1151	NR
+T23	SPAN 1149 1154	NR(I)
+T24	Repressor 1160 1164	ArgR
+T25	Promoter 1168 1187	the promoter region
+T26	SPAN 1188 1196	in vitro
+T27	Promoter 1239 1253	both promoters
+T28	Operon 1367 1381	the ast operon
+T29	SPAN 1391 1415	nitrogen source-specific
+T30	SPAN 1474 1489	transcriptional
+T31	Operon 1504 1518	the ast operon
+T32	SPAN 1519 1529	in E. coli
+T33	Wild_Type_Bacteria 1522 1529	E. coli
+T34	Regulator 1601 1605	ArgR
+T35	Operon 1622 1632	ast operon

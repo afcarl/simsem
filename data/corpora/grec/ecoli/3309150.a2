@@ -1,0 +1,32 @@
+T37	Gene_Activation 69 77	activate
+T38	Regulation 163 173	regulation
+T39	Gene_Activation 325 335	activating
+T40	Gene_Expression 336 346	expression
+T41	GRE 437 444	encoded
+T42	GRE 478 486	required
+T43	GRE 495 504	induction
+T44	GRE 633 640	encoded
+T45	GRE 699 706	causing
+T46	GRE 825 831	caused
+T47	GRE 832 842	expression
+T48	GRE 963 967	acts
+T49	GRE 1088 1098	regulation
+T50	GRE 1146 1151	exert
+T51	GRE 1181 1188	binding
+T52	Gene_Activation 1555 1561	induce
+E1	Gene_Activation:T37 Agent:T1 Theme:T2 Location:T3
+E2	Regulation:T38 Theme:T6
+E3	Gene_Activation:T39 Agent:T5,T7 Theme:E4 Location:T9
+E4	Gene_Expression:T40 Theme:T8 Location:T10
+E5	GRE:T41 Agent:T12 Theme:T13
+E6	GRE:T42 Theme:T13 Condition:T15 Purpose:E7
+E7	GRE:T43 Theme:T14
+E8	GRE:T44 Agent:T16 Theme:T17
+E9	GRE:T45 Agent:T16 Theme:T19 Manner:T18
+E10	GRE:T46 Agent:T21 Theme:E11 Condition:T20
+E11	GRE:T47 Theme:T22 Location:T23 Condition:T25
+E12	GRE:T48 Agent:T26 Location:T28 Descriptive-Agent:T27
+E13	GRE:T49 Agent:T31 Theme:T30
+E14	GRE:T50 Agent:T32 Theme:T33 Manner:E15
+E15	GRE:T51 Theme:T34 Theme:T32
+E16	Gene_Activation:T52 Agent:T35 Theme:T36

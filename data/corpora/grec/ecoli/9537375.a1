@@ -1,0 +1,25 @@
+T1	SPAN 0 21	Positive and negative
+T2	SPAN 22 37	transcriptional
+T3	Gene 52 100	the Escherichia coli gluconate regulon gene gntT
+T4	Protein_Complex 104 164	GntR and the cyclic AMP (cAMP)-cAMP receptor protein complex
+T5	Gene 167 180	The gntT gene
+T6	Organic_Compounds 228 237	gluconate
+T7	SPAN 256 277	catabolite repression
+T8	Gene 333 337	gntT
+T9	SPAN 399 424	In a gntR deletion mutant
+T10	Mutant_Bacteria 402 424	a gntR deletion mutant
+T11	Mutant_Gene 444 475	a chromosomal gntT::lacZ fusion
+T12	Regulator 571 575	GntR
+T13	Operator 585 617	two consensus gnt operator sites
+T14	Regulator 766 770	GntR
+T15	SPAN 774 785	these sites
+T16	Regulator 906 910	GntR
+T17	Operator 914 927	the operators
+T18	Organic_Compounds 945 954	gluconate
+T19	Organic_Compounds 967 985	6-phosphogluconate
+T20	Gene 1134 1138	gntT
+T21	Regulator 1211 1215	GntR
+T22	Operator 1219 1237	the operator sites
+T23	Gene 1334 1338	gntT
+T24	Protein_Complex 1366 1423	the cyclic AMP (cAMP)-cAMP receptor protein (CRP) complex
+T25	Transcription_Binding_Site 1427 1445	a CRP binding site

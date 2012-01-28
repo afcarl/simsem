@@ -1,0 +1,26 @@
+T28	GRE 552 560	required
+T29	GRE 868 876	encoding
+T30	GRE 1043 1052	conferred
+T31	GRE 1294 1303	abolished
+T32	Mutation 1307 1317	disruption
+T33	Transcription 1385 1398	transcription
+T34	GRE 1400 1408	required
+T35	Gene_Expression 1413 1423	expression
+T36	GRE 1494 1501	promote
+T37	Regulation 1646 1655	regulated
+T38	Mutation 1968 1980	inactivation
+T39	GRE 1997 2003	affect
+T40	GRE 2273 2277	acts
+E1	GRE:T28 Agent:T1 Purpose:T2,T3
+E2	GRE:T29 Agent:T4 Theme:T5
+E3	GRE:T30 Agent:T4,T6 Theme:T7,T8
+E4	GRE:T31 Agent:E5 Theme:T9
+E5	Mutation:T32 Theme:T10,T11,T12
+E6	Transcription:T33 Theme:T13,T14
+E7	GRE:T34 Theme:E6 Purpose:E8
+E8	Gene_Expression:T35 Theme:T15
+E9	GRE:T36 Agent:T16 Theme:T17
+E10	Regulation:T37 Agent:T20 Theme:T18 Manner:T19
+E11	Mutation:T38 Theme:T21
+E12	GRE:T39 Agent:E11 Theme:T22,T23 Location:T24
+E13	GRE:T40 Agent:T26 Descriptive-Agent:T27

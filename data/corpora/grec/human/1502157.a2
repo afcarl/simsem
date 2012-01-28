@@ -1,0 +1,32 @@
+T31	GRE 28 33	binds
+T32	Regulation 65 75	regulating
+T33	GRE 92 102	initiation
+T34	GRE 243 251	required
+T35	GRE 276 284	encoding
+T36	Laboratory_Technique 378 384	cloned
+T37	Gene_Expression 772 781	expressed
+T38	GRE 801 806	bound
+T39	GRE 888 894	failed
+T40	GRE 898 903	yield
+T41	Gene_Expression 922 931	expressed
+T42	GRE 976 981	binds
+T43	GRE 1146 1154	involved
+T44	GRE 1178 1189	termination
+T45	GRE 1214 1220	encode
+T46	GRE 1277 1287	initiation
+E1	GRE:T31 Agent:T1 Theme:T2
+E2	Regulation:T32 Agent:T1 Theme:E3,T4
+E3	GRE:T33 Manner:T3
+E4	GRE:T34 Theme:T5 Purpose:T6
+E5	GRE:T35 Agent:T7 Theme:T8
+E6	Laboratory_Technique:T36 Theme:T7 Source:T9
+E7	Gene_Expression:T37 Theme:T13 Manner:T12 Location:T10
+E8	GRE:T38 Agent:T14 Manner:T15 Destination:T16
+E9	GRE:T39 Agent:T14 Theme:E10
+E10	GRE:T40 Theme:T17
+E11	Gene_Expression:T41 Theme:T20 Location:T18
+E12	GRE:T42 Agent:T20 Manner:T21 Destination:T23,T24,T25
+E13	GRE:T43 Theme:T25 Descriptive-Theme:E14
+E14	GRE:T44 Theme:T27 Manner:T26
+E15	GRE:T45 Agent:T28 Theme:T29
+E16	GRE:T46 Theme:T30

@@ -1,0 +1,32 @@
+T24	Regulation 65 73	enhances
+T25	Mutation 948 955	mutated
+T26	GRE 1528 1533	shown
+T27	GRE 1549 1557	increase
+T28	GRE 1680 1695	phosphorylation
+T29	GRE 1702 1710	modulate
+T30	GRE 1733 1741	Addition
+T31	GRE 1785 1794	increased
+T32	GRE 1907 1921	cotransfection
+T33	GRE 1936 1945	increased
+T34	Mutation 1977 1986	Mutations
+T35	GRE 2051 2060	decreased
+T36	GRE 2076 2086	activation
+T37	GRE 2076 2086	activation
+T38	GRE 2383 2398	phosphorylation
+T39	GRE 2414 2422	enhances
+E1	Regulation:T24 Agent:T1 Theme:T2 Purpose:T3
+E2	Mutation:T25 Theme:T4
+E3	GRE:T26 Theme:T5 Descriptive-Theme:E4
+E4	GRE:T27 Agent:T5 Theme:T6
+E5	GRE:T28 Theme:T7
+E6	GRE:T29 Agent:E5 Theme:T8
+E7	GRE:T30 Theme:T10 Destination:T11
+E8	GRE:T31 Agent:E7 Theme:T12
+E9	GRE:T32 Theme:T14
+E10	GRE:T33 Agent:E9 Theme:T15
+E11	Mutation:T34 Theme:T17
+E12	GRE:T35 Agent:E11 Theme:E14
+E13	GRE:T36 Theme:T18
+E14	GRE:T37 Agent:T20 Theme:T19
+E15	GRE:T38 Agent:T22 Theme:T21
+E16	GRE:T39 Agent:E15 Theme:T23

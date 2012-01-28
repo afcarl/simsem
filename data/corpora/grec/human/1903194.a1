@@ -1,0 +1,17 @@
+T1	Protein 422 433	The product
+T2	Transcription_Binding_Site 453 465	an AP-1 site
+T3	SPAN 470 489	upon cotransfection
+T4	SPAN 501 527	the activity of a promoter
+T5	Promoter 517 527	a promoter
+T6	Transcription_Binding_Site 539 551	an AP-1 site
+T7	SPAN 612 632	the activity of both
+T8	Promoter 628 632	both
+T9	Transcription_Factor 658 663	v-fos
+T10	Gene 685 693	the gene
+T11	Domain 704 754	the best conserved region in the activating domain
+T12	Domain 805 826	the activating domain
+T13	SPAN 843 854	exclusively
+T14	SPAN 855 879	to the conserved regions
+T15	SPAN 899 918	high concentrations
+T16	Transcription_Factor 919 930	human jun-D
+T17	SPAN 940 958	decreased activity

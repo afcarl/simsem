@@ -1,0 +1,46 @@
+T1	Activator 19 24	NFATp
+T2	Enzyme 42 53	calcineurin
+T3	SPAN 54 64	in T cells
+T4	Cells 57 64	T cells
+T5	Gene 95 117	several cytokine genes
+T6	Transcription_Factor 120 141	Transcription factors
+T7	SPAN 166 176	a key role
+T8	Gene 201 215	cytokine genes
+T9	Gene 220 231	other genes
+T10	SPAN 239 258	the immune response
+T11	SPAN 365 389	the predominant isoforms
+T12	SPAN 400 427	in murine and human T cells
+T13	Cells 403 427	murine and human T cells
+T14	SPAN 444 461	in Jurkat T cells
+T15	Cells 447 461	Jurkat T cells
+T16	Activator 463 480	recombinant NFAT1
+T17	Enzyme 511 559	the calmodulin-dependent phosphatase calcineurin
+T18	Activator 662 679	recombinant NFAT1
+T19	SPAN 680 697	in Jurkat T cells
+T20	Cells 683 697	Jurkat T cells
+T21	SPAN 707 711	dual
+T22	Organic_Compounds 729 738	ionomycin
+T23	Organic_Compounds 743 774	phorbol 12-myristate 13-acetate
+T24	Enzyme 824 857	constitutively active calcineurin
+T25	Activator 926 943	recombinant NFAT1
+T26	Organelles 1028 1039	the nucleus
+T27	SPAN 1043 1065	a CsA-sensitive manner
+T28	Organic_Compounds 1076 1085	ionomycin
+T29	SPAN 1114 1126	in COS cells
+T30	Cells 1117 1126	COS cells
+T31	Activator 1137 1142	NFAT1
+T32	SPAN 1242 1266	transcriptional function
+T33	Cells 1302 1315	the COS cells
+T34	Organic_Compounds 1321 1330	ionomycin
+T35	Organic_Compounds 1335 1366	phorbol 12-myristate 13-acetate
+T36	Activator 1368 1385	Recombinant NFAT1
+T37	Organic_Compounds 1415 1432	the interleukin-2
+T38	Organic_Compounds 1434 1447	interleukin-4
+T39	Organic_Compounds 1449 1476	tumor necrosis factor alpha
+T40	Promoter 1482 1540	granulocyte-macrophage colony-stimulating factor promoters
+T41	SPAN 1541 1551	in T cells
+T42	Cells 1544 1551	T cells
+T43	Activator 1569 1574	NFAT1
+T44	SPAN 1590 1607	the CsA-sensitive
+T45	Gene 1625 1636	these genes
+T46	SPAN 1644 1663	the immune response

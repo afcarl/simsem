@@ -1,0 +1,12 @@
+T1	SPAN 0 35	Formation of pluripotent stem cells
+T2	Cells 13 35	pluripotent stem cells
+T3	SPAN 36 59	in the mammalian embryo
+T4	Organism 39 59	the mammalian embryo
+T5	Transcription_Factor 71 104	the POU transcription factor Oct4
+T6	SPAN 107 111	Oct4
+T7	Cells 165 183	early embryo cells
+T8	Cells 188 198	germ cells
+T9	SPAN 657 692	Expansion of trophoblast precursors
+T10	Protein 747 773	fibroblast growth factor-4
+T11	Transcription_Factor 786 790	Oct4
+T12	SPAN 807 840	paracrine growth factor signaling

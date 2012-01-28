@@ -1,0 +1,21 @@
+T1	Transcription_Factor 0 34	The human forkhead protein FREAC-2
+T2	Domain 44 89	two functionally redundant activation domains
+T3	Transcription_Factor 109 122	TBP and TFIIB
+T4	Transcription_Factor 155 162	FREAC-2
+T5	SPAN 206 226	in lung and placenta
+T6	Tissue 209 226	lung and placenta
+T7	Locus 241 253	cis-elements
+T8	Domain 474 493	Activation domain 1
+T9	Motif 565 581	a sequence motif
+T10	SPAN 592 615	in an activation domain
+T11	Domain 595 615	an activation domain
+T12	Transcription_Factor 762 769	FREAC-2
+T13	SPAN 792 800	in vitro
+T14	Transcription_Factor 806 819	TBP and TFIIB
+T15	Transcription_Factor 922 927	TFIIB
+T16	Transcription_Factor 934 941	FREAC-2
+T17	SPAN 995 1014	The part of FREAC-2
+T18	Transcription_Factor 1007 1014	FREAC-2
+T19	Transcription_Factor 1026 1029	TBP
+T20	Transcription_Factor 1303 1308	TFIIB
+T21	Transcription_Factor 1335 1342	FREAC-2

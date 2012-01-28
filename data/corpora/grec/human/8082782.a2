@@ -1,0 +1,8 @@
+T13	Gene_Expression 101 111	expression
+T14	GRE 364 372	encoding
+T15	GRE 404 412	involved
+T16	Regulation 572 582	regulation
+E1	Gene_Expression:T13 Manner:T1 Location:T2
+E2	GRE:T14 Agent:T4 Theme:T5
+E3	GRE:T15 Theme:T6 Descriptive-Theme:T7,T8,T9,T11
+E4	Regulation:T16 Agent:T12 Manner:T10

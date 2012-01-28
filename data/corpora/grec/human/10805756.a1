@@ -1,0 +1,23 @@
+T1	SPAN 0 15	Phosphorylation
+T2	SPAN 74 88	SOX9's ability
+T3	Gene_Activation 89 105	to transactivate
+T4	Amino_Acids 924 941	(S(64) and S(211)
+T5	SPAN 1503 1507	cAMP
+T6	mRNA 1558 1573	the mRNA levels
+T7	SPAN 1676 1679	PKA
+T8	SPAN 1711 1731	the activity of SOX9
+T9	Protein 1727 1731	SOX9
+T10	SPAN 1745 1757	8-bromo-cAMP
+T11	SPAN 1761 1773	chondrocytes
+T12	SPAN 1795 1894	the activity of a transiently transfected SOX9-dependent 48-bp Col2a1 chondrocyte-specific enhancer
+T13	Enhancer 1811 1894	a transiently transfected SOX9-dependent 48-bp Col2a1 chondrocyte-specific enhancer
+T14	SPAN 1925 1935	PKA-Calpha
+T15	SPAN 1946 1976	the activity of this enhancer.
+T16	Enhancer 1962 1975	this enhancer
+T17	SPAN 1990 2033	the two PKA phosphorylation consensus sites
+T18	SPAN 2065 2075	PKA-Calpha
+T19	Enhancer 2090 2103	this enhancer
+T20	Protein 2107 2111	SOX9
+T21	Protein 2402 2406	SOX9
+T22	Protein 2410 2413	PKA
+T23	SPAN 2423 2467	its transcriptional and DNA-binding activity

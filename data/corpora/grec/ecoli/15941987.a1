@@ -1,0 +1,16 @@
+T1	SPAN 42 61	non-flagellar genes
+T2	SPAN 65 120	the Escherichia coli flagellar master regulator FlhD2C2
+T3	SPAN 166 187	peritrichous flagella
+T4	Protein 265 323	the heterotetrameric master transcriptional regulator FlhD
+T5	Protein 362 373	FlhD(2)C(2)
+T6	Promoter 393 402	promoters
+T7	Promoter 778 828	Nine representative non-flagellar promoter regions
+T8	SPAN 844 852	in vitro
+T9	Protein 856 881	active reconstituted FlhD
+T10	SPAN 1113 1160	four representative flagella class II promoters
+T11	Promoter 1148 1160	II promoters
+T12	Protein 1167 1178	FlhD(2)C(2)
+T13	SPAN 1242 1251	990-fold.
+T14	Gene 1547 1566	non-flagellar genes
+T15	SPAN 1591 1621	directly, albeit less strongly
+T16	SPAN 1626 1644	the same mechanism

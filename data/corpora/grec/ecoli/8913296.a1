@@ -1,0 +1,30 @@
+T1	Sub_Unit 14 22	HU alpha
+T2	Sub_Unit 27 34	HU beta
+T3	Activator 38 41	CRP
+T4	Activator 46 49	FIS
+T5	SPAN 50 69	in Escherichia coli
+T6	Wild_Type_Bacteria 53 69	Escherichia coli
+T7	Protein 72 107	The dimeric histone-like protein HU
+T8	Gene 230 234	hupA
+T9	Gene 239 243	hupB
+T10	Sub_Unit 263 295	one or the other of the subunits
+T11	Protein 386 398	this protein
+T12	Transcription 430 443	transcription
+T13	Gene 455 472	the two hup genes
+T14	Activator 492 495	CRP
+T15	Gene 528 538	both genes
+T16	Regulator 553 568	the FIS protein
+T17	Gene 666 679	the hupA gene
+T18	Gene 710 723	the hupB gene
+T19	SPAN 735 752	stringent control
+T20	Regulator 765 768	FIS
+T21	Operon 805 827	the stable RNA operons
+T22	SPAN 842 846	hupB
+T23	Gene 887 891	hupA
+T24	SPAN 898 906	opposite
+T25	Gene 942 958	the two HU genes
+T26	SPAN 1020 1035	the composition
+T27	SPAN 1053 1079	changes in the environment
+T28	SPAN 1115 1124	divergent
+T29	Gene 1161 1174	the two genes
+T30	Protein 1184 1201	a dimeric protein

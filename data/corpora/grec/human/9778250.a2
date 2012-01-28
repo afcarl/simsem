@@ -1,0 +1,24 @@
+T22	GRE 58 66	required
+T23	Regulation 103 113	regulation
+T24	GRE 202 212	expression
+T25	GRE 262 270	requires
+T26	GRE 369 377	generate
+T27	GRE 489 497	contains
+T28	Gene_Activation 786 794	activate
+T29	Gene_Expression 795 805	expression
+T30	GRE 920 924	acts
+T31	Gene_Activation 953 963	activation
+T32	Regulation 972 980	regulate
+T33	GRE 1013 1024	interacting
+E1	GRE:T22 Theme:T1 Purpose:E2
+E2	Regulation:T23 Agent:T3 Manner:T2 Condition:T4
+E3	GRE:T24 Theme:T6 Manner:T5
+E4	GRE:T25 Agent:T7 Theme:T8 Purpose:E5
+E5	GRE:T26 Agent:T7 Theme:T9 Location:T10 Condition:T11
+E6	GRE:T27 Theme:T12 Descriptive-Theme:T13
+E7	Gene_Activation:T28 Agent:T14 Theme:E8
+E8	Gene_Expression:T29 Theme:T15
+E9	GRE:T30 Agent:T16 Manner:T17 Descriptive-Agent:E10
+E10	Gene_Activation:T31 Manner:T18
+E11	Regulation:T32 Agent:T16 Theme:T19 Instrument:E12
+E12	GRE:T33 Theme:T21 Theme:T16 Manner:T20

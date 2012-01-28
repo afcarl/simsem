@@ -1,0 +1,16 @@
+T1	SPAN 0 11	Cooperative
+T2	Transcription_Factor 32 35	Cra
+T3	Transcription_Factor 40 43	Fnr
+T4	Operon 65 81	the cydAB operon
+T5	Regulator 205 208	Cra
+T6	Operon 269 285	the cydAB operon
+T7	Enzyme 315 335	cytochrome d oxidase
+T8	Regulator 337 352	The Fnr protein
+T9	SPAN 369 381	Cra-mediated
+T10	Protein 411 427	the ArcA protein
+T11	Regulator 456 459	Cra
+T12	Regulator 488 491	Fnr
+T13	Regulator 493 497	ArcA
+T14	Regulator 503 506	Cra
+T15	SPAN 513 526	their effects
+T16	SPAN 530 555	an interdependent fashion

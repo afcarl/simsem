@@ -1,0 +1,26 @@
+T1	Gene 28 41	the adhE gene
+T2	Enzyme 52 74	ethanol oxidoreductase
+T3	SPAN 75 94	in Escherichia coli
+T4	Bacteria 78 94	Escherichia coli
+T5	Promoter 115 136	a downstream promoter
+T6	Regulator 155 158	fnr
+T7	Regulator 163 167	RpoS
+T8	Gene 170 183	The adhE gene
+T9	Enzyme 250 292	the bifunctional NAD-linked oxidoreductase
+T10	Gene 402 406	adhE
+T11	Activator 982 985	Fnr
+T12	Transcription_Binding_Site 996 1020	only the -188 start site
+T13	Activator 1025 1028	Fis
+T14	Transcription_Binding_Site 1066 1090	only the -292 start site
+T15	Activator 1128 1132	RpoS
+T16	Transcription 1143 1161	adhE transcription
+T17	SPAN 1162 1181	at both start sites
+T18	Transcription_Binding_Site 1165 1181	both start sites
+T19	Promoter 1332 1360	the upstream promoter region
+T20	SPAN 1369 1379	a silencer
+T21	Transcription_Binding_Site 1383 1424	the downstream transcriptional start site
+T22	mRNA 1441 1449	the mRNA
+T23	SPAN 1441 1466	the mRNA starting at -292
+T24	RNA_Polymerase 1511 1520	RNase III
+T25	SPAN 1633 1651	RNase III cleavage
+T26	SPAN 1675 1682	the RBS

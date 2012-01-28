@@ -1,0 +1,54 @@
+T50	GRE 11 17	causes
+T51	Gene_Expression 28 38	expression
+T52	Gene_Expression 186 193	express
+T53	Insertion 308 317	Insertion
+T54	GRE 398 406	reverses
+T55	GRE 574 581	reduced
+T56	GRE 654 666	Transduction
+T57	GRE 733 736	led
+T58	GRE 754 769	P1 transduction
+T59	GRE 811 819	restored
+T60	GRE 859 867	required
+T61	Mutation 870 878	mutation
+T62	Gene_Expression 948 957	expressed
+T63	GRE 1089 1098	expressed
+T64	GRE 1189 1197	reversed
+T65	Insertion 1201 1210	insertion
+T66	GRE 1403 1412	reduction
+T67	GRE 1425 1430	occur
+T68	Gene_Expression 1621 1631	Expression
+T69	Gene_Activation 1676 1684	elevated
+T70	Deletion 1757 1764	deleted
+T71	GRE 1815 1824	reduction
+T72	GRE 1833 1841	required
+T73	Gene_Activation 1928 1937	increases
+T74	Gene_Expression 1943 1953	expression
+T75	GRE 1955 1962	causing
+T76	Gene_Repression 1985 1993	decrease
+E1	GRE:T50 Agent:T1 Theme:E2 Location:T4
+E2	Gene_Expression:T51 Theme:T3 Manner:T2
+E3	Gene_Expression:T52 Agent:T6 Theme:T8 Manner:T7
+E4	Insertion:T53 Theme:T9 Destination:T10
+E5	GRE:T54 Agent:E4 Theme:T12 Manner:T11
+E6	GRE:T55 Theme:T13 Manner:T14
+E7	GRE:T56 Theme:T15 Source:T16
+E8	GRE:T57 Agent:E7 Descriptive-Agent:T17
+E9	GRE:T58 Theme:T18 Destination:T19
+E10	GRE:T59 Agent:E9 Theme:T21 Manner:T20
+E11	GRE:T60 Agent:T22 Theme:E12
+E12	Mutation:T61 Theme:T23
+E13	Gene_Expression:T62 Agent:T24 Theme:T26 Rate:T25
+E14	GRE:T63 Agent:T27 Theme:T29 Rate:T28
+E15	GRE:T64 Agent:E16 Theme:T30 Manner:T31
+E16	Insertion:T65 Theme:T32
+E17	GRE:T66 Theme:T33
+E18	GRE:T67 Theme:E17 Manner:T34 Descriptive-Theme:T35
+E19	Gene_Expression:T68 Theme:T36
+E20	Gene_Activation:T69 Theme:E19 Location:T37
+E21	Deletion:T70 Theme:T39
+E22	GRE:T71 Theme:T41 Manner:T40
+E23	GRE:T72 Agent:E22 Theme:T42
+E24	Gene_Activation:T73 Agent:T43 Theme:E25 Manner:T44,T45
+E25	Gene_Expression:T74 Theme:T46
+E26	GRE:T75 Agent:T43 Theme:E27,T49
+E27	Gene_Repression:T76 Theme:T48 Manner:T47

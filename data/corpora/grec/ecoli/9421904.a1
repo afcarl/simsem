@@ -1,0 +1,35 @@
+T1	SPAN 0 15	Transcriptional
+T2	Gene 51 55	acnA
+T3	Gene 60 64	acnB
+T4	Bacteria 88 104	Escherichia coli
+T5	Gene 160 164	acnA
+T6	Gene 169 173	acnB
+T7	Promoter 175 193	Two acnA promoters
+T8	Promoter 241 247	P1acnA
+T9	Promoter 260 266	P2acnA
+T10	Gene 757 761	acnA
+T11	SPAN 789 803	SoxRS-mediated
+T12	Gene 824 828	acnB
+T13	Enzyme 837 856	the major aconitase
+T14	SPAN 1020 1024	acnA
+T15	Sigma_Factor 1052 1060	sigma 38
+T16	Promoter 1066 1072	P1acnA
+T17	Promoter 1083 1089	P2acnA
+T18	Activator 1132 1135	CRP
+T19	Activator 1137 1141	FruR
+T20	Activator 1143 1146	Fur
+T21	Activator 1151 1156	SoxRS
+T22	Repressor 1175 1179	ArcA
+T23	Repressor 1184 1187	FNR
+T24	SPAN 1202 1206	acnB
+T25	Activator 1234 1237	CRP
+T26	Repressor 1255 1259	ArcA
+T27	Repressor 1255 1273	ArcA, FruR and Fis
+T28	Repressor 1261 1265	FruR
+T29	Repressor 1270 1273	Fis
+T30	Promoter 1279 1284	PacnB
+T31	Gene 1359 1363	fumC
+T32	Gene 1376 1380	fumA
+T33	Gene 1384 1388	fumB
+T34	RNA_Polymerase 1406 1420	RNA polymerase
+T35	Sigma_Factor 1432 1440	sigma 38

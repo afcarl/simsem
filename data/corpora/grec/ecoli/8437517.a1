@@ -1,0 +1,41 @@
+T1	Transcription_Factor 136 139	FNR
+T2	Regulator 144 148	NarL
+T3	SPAN 176 213	at the Escherichia coli nirB promoter
+T4	Promoter 179 213	the Escherichia coli nirB promoter
+T5	SPAN 228 244	anaerobic growth
+T6	SPAN 249 256	further
+T7	Inorganic_Compounds 286 293	nitrite
+T8	Inorganic_Compounds 297 304	nitrate
+T9	Promoter 343 356	this promoter
+T10	Activator 407 410	FNR
+T11	SPAN 424 453	between positions -52 and -30
+T12	DNA 432 441	positions
+T13	Promoter 729 744	other promoters
+T14	Regulator 758 762	NarL
+T15	Operator 821 851	the putative NarL-binding site
+T16	SPAN 852 872	at the nirB promoter
+T17	Promoter 855 872	the nirB promoter
+T18	SPAN 882 905	FNR-dependent anaerobic
+T19	Regulator 933 937	NarL
+T20	SPAN 946 954	a helper
+T21	Transcription 969 982	transcription
+T22	SPAN 995 1010	These mutations
+T23	Mutation 1001 1010	mutations
+T24	Inorganic_Compounds 1038 1045	nitrite
+T25	SPAN 1047 1053	single
+T26	SPAN 1064 1093	at symmetry-related positions
+T27	SPAN 1123 1129	double
+T28	Sub_Unit 1183 1200	two NarL subunits
+T29	DNA 1209 1228	the inverted repeat
+T30	Gene 1244 1248	narL
+T31	Inorganic_Compounds 1259 1266	nitrite
+T32	Promoter 1280 1297	the nirB promoter
+T33	Inorganic_Compounds 1334 1341	nitrate
+T34	Inorganic_Compounds 1408 1415	Nitrate
+T35	SPAN 1454 1460	double
+T36	SPAN 1471 1500	at symmetry-related positions
+T37	DNA 1474 1500	symmetry-related positions
+T38	Regulator 1543 1570	this putative second factor
+T39	Transcription_Binding_Site 1583 1592	sequences
+T40	Operator 1604 1609	those
+T41	Regulator 1624 1628	NarL

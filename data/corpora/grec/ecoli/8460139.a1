@@ -1,0 +1,17 @@
+T1	SPAN 130 145	transcriptional
+T2	SPAN 159 174	Transcriptional
+T3	Gene 189 202	the sodA gene
+T4	Enzyme 290 295	MnSOD
+T5	Inorganic_Compounds 987 994	diamide
+T6	Inorganic_Compounds 999 1018	1,10-phenanthroline
+T7	SPAN 1026 1035	anaerobic
+T8	Gene 1050 1054	soxS
+T9	SPAN 1050 1068	soxS transcription
+T10	Inorganic_Compounds 1107 1114	diamide
+T11	Inorganic_Compounds 1119 1138	1,10-phenanthroline
+T12	Gene 1146 1163	the soxRS regulon
+T13	SPAN 1164 1177	anaerobically
+T14	Gene 1196 1200	soxS
+T15	SPAN 1196 1214	soxS transcription
+T16	SPAN 1366 1378	fnr-mediated
+T17	Gene 1393 1397	sodA

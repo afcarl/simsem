@@ -1,0 +1,16 @@
+T17	Gene_Expression 65 75	expression
+T18	GRE 192 199	results
+T19	GRE 324 331	effects
+T20	GRE 546 551	binds
+T21	Gene_Activation 569 578	activates
+T22	Transcription 847 860	transcription
+T23	GRE 1233 1240	control
+T24	Gene_Expression 1249 1259	expression
+E1	Gene_Expression:T17 Location:T2 Source:T1
+E2	GRE:T18 Agent:T5,T6,T7 Theme:T4
+E3	GRE:T19 Agent:T8,T9 Location:T10
+E4	GRE:T20 Agent:T12 Destination:T13,T14
+E5	Gene_Activation:T21 Agent:T12 Theme:T14
+E6	Transcription:T22 Source:T15
+E7	GRE:T23 Theme:E8
+E8	Gene_Expression:T24 Theme:T16

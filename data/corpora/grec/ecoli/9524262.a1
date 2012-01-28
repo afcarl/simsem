@@ -1,0 +1,13 @@
+T1	Gene 24 37	the shiA gene
+T2	Protein 53 83	the shikimate transport system
+T3	Gene 137 150	the shiA gene
+T4	SPAN 166 176	the uptake
+T5	Gene 257 265	The gene
+T6	Protein 289 298	a protein
+T7	Gene 574 590	an inactive form
+T8	Chromosome 615 629	the chromosome
+T9	Mutant_Gene 638 645	mutants
+T10	Gene 1080 1093	the shiA gene
+T11	Regulator 1129 1145	the TyrR protein
+T12	Gene 1201 1212	other genes
+T13	SPAN 1227 1256	the biosynthesis or transport

@@ -1,0 +1,31 @@
+T1	SPAN 14 27	CRP-dependent
+T2	SPAN 42 80	at the Escherichia coli acsP2 promoter
+T3	Promoter 45 80	the Escherichia coli acsP2 promoter
+T4	Protein_Complex 84 107	nucleoprotein complexes
+T5	Gene_Repression 109 124	anti-activation
+T6	Regulator 128 161	the nucleoid proteins FIS and IHF
+T7	Gene 164 167	acs
+T8	Enzyme 176 204	acetyl-coenzyme A synthetase
+T9	Activator 297 300	CRP
+T10	Transcription 311 328	acs transcription
+T11	Transcription_Binding_Site 340 356	tandem DNA sites
+T12	Regulator 507 540	the nucleoid proteins FIS and IHF
+T13	Locus 551 565	multiple sites
+T14	Regulator 605 608	FIS
+T15	Regulator 636 639	CRP
+T16	Transcription_Binding_Site 655 695	their overlapping and neighbouring sites
+T17	Regulator 705 708	IHF
+T18	SPAN 715 728	independently
+T19	Regulator 809 820	FIS and IHF
+T20	SPAN 821 834	independently
+T21	SPAN 842 855	CRP-dependent
+T22	Gene 856 859	acs
+T23	Locus 935 944	DNA sites
+T24	Transcription_Binding_Site 968 977	DNA sites
+T25	Gene 996 999	acs
+T26	Regulator 1031 1042	FIS and IHF
+T27	SPAN 1106 1119	independently
+T28	SPAN 1120 1152	at different times during growth
+T29	SPAN 1153 1170	to set the levels
+T30	SPAN 1174 1187	CRP-dependent
+T31	Gene 1188 1191	acs

@@ -1,0 +1,27 @@
+T1	Protein 394 397	FNR
+T2	SPAN 407 440	a site centred at position - 41.5
+T3	Promoter 444 460	the nir promoter
+T4	SPAN 471 484	FNR-dependent
+T5	Protein 512 515	IHF
+T6	SPAN 559 564	IHF I
+T7	SPAN 570 573	Fis
+T8	SPAN 618 623	Fis I
+T9	SPAN 634 640	Fis II
+T10	Protein 885 901	IHF, Fis and FNR
+T11	Protein_Complex 928 950	multiprotein complexes
+T12	Transcription_Factor 966 969	IHF
+T13	SPAN 981 996	the IHF II site
+T14	SPAN 1007 1020	FNR-dependent
+T15	Gene_Repression 1046 1060	the repression
+T16	SPAN 1073 1092	IHF and Fis binding
+T17	Protein 1145 1157	NarL or NarP
+T18	Promoter 1168 1184	the nir promoter
+T19	SPAN 1199 1231	a site centred at position -69.5
+T20	Protein 1276 1287	IHF and Fis
+T21	Protein 1324 1327	IHF
+T22	Protein 1337 1351	the IHF I site
+T23	Gene 1411 1415	NarL
+T24	Protein 1432 1435	IHF
+T25	SPAN 1447 1463	the nir promoter
+T26	SPAN 1561 1565	NarL
+T27	SPAN 1642 1655	FNR-dependent

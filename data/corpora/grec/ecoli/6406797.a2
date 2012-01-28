@@ -1,0 +1,40 @@
+T26	GRE 20 28	involved
+T27	Gene_Expression 36 46	expression
+T28	GRE 128 136	carrying
+T29	GRE 139 145	fusion
+T30	GRE 490 497	examine
+T31	Regulation 502 512	regulation
+T32	Gene_Expression 516 526	expression
+T33	GRE 575 583	increase
+T34	GRE 620 627	results
+T35	Gene_Repression 644 654	repression
+T36	GRE 677 686	synthesis
+T37	GRE 688 702	Overproduction
+T38	GRE 730 736	caused
+T39	GRE 739 747	decrease
+T40	Gene_Repression 799 809	repression
+T41	GRE 832 841	synthesis
+T42	Gene_Repression 872 882	repression
+T43	GRE 904 913	synthesis
+T44	Gene_Expression 947 957	expression
+T45	Gene_Repression 978 987	repressed
+E1	GRE:T26 Theme:T1 Descriptive-Theme:T2
+E2	Gene_Expression:T27 Theme:T3 Location:T4
+E3	GRE:T28 Theme:T6 Descriptive-Theme:E4
+E4	GRE:T29 Theme:T7 Descriptive-Theme:T9 Instrument:T11
+E5	GRE:T30 Theme:T13 Instrument:T12
+E6	Regulation:T31 Theme:E7
+E7	Gene_Expression:T32 Source:T14
+E8	GRE:T33 Theme:T15
+E9	GRE:T34 Agent:E8 Theme:T17
+E10	Gene_Repression:T35 Theme:E11
+E11	GRE:T36 Theme:T18
+E12	GRE:T37 Theme:T19
+E13	GRE:T38 Agent:E12 Theme:E14
+E14	GRE:T39 Theme:T20
+E15	Gene_Repression:T40 Theme:E16
+E16	GRE:T41 Theme:T21
+E17	Gene_Repression:T42 Theme:E18
+E18	GRE:T43 Theme:T22
+E19	Gene_Expression:T44 Theme:T23
+E20	Gene_Repression:T45 Agent:T24 Agent:T25 Theme:T23

@@ -1,0 +1,17 @@
+T1	SPAN 295 304	Aspartate
+T2	SPAN 315 341	several attractant ligands
+T3	Protein 361 364	Tar
+T4	SPAN 387 390	Taz
+T5	SPAN 401 415	OmpR-dependent
+T6	Promoter 435 452	the ompC promoter
+T7	SPAN 564 581	a reporter system
+T8	Protein 624 627	GFP
+T9	Promoter 634 651	the ompC promoter
+T10	Protein 696 699	Taz
+T11	Amino_Acids 705 731	all 20 natural amino acids
+T12	Amino_Acids 751 754	Leu
+T13	Amino_Acids 756 759	Met
+T14	Amino_Acids 761 764	Val
+T15	Amino_Acids 769 772	Ser
+T16	Protein 782 785	GFP
+T17	Amino_Acids 819 826	leucine

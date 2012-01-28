@@ -1,0 +1,16 @@
+T18	GRE 351 357	sensed
+T19	GRE 372 381	interacts
+T20	GRE 394 400	induce
+T21	GRE 416 429	transcription
+T22	GRE 587 596	expresses
+T23	GRE 681 692	interaction
+T24	GRE 774 781	reduced
+T25	GRE 786 796	expression
+E1	GRE:T18 Agent:T3 Theme:T2
+E2	GRE:T19 Agent:T1 Agent:T4
+E3	GRE:T20 Agent:T1 Theme:E4
+E4	GRE:T21 Manner:T5 Source:T6
+E5	GRE:T22 Agent:T7 Theme:T8 Source:T9
+E6	GRE:T23 Agent:T10 Agent:T11
+E7	GRE:T24 Agent:T12,T13,T14,T15 Theme:E8
+E8	GRE:T25 Theme:T16

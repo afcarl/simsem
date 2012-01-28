@@ -1,0 +1,44 @@
+T37	Regulation 73 82	regulates
+T38	Transcription 83 96	transcription
+T39	Regulation 129 138	regulates
+T40	Regulation 245 254	regulated
+T41	Gene_Expression 288 298	expression
+T42	GRE 337 347	influenced
+T43	Gene_Expression 530 540	expression
+T44	GRE 544 553	increased
+T45	Gene_Expression 583 593	expression
+T46	GRE 597 606	decreased
+T47	Regulation 745 754	regulated
+T48	GRE 767 772	binds
+T49	Gene_Expression 905 915	expression
+T50	GRE 965 974	increased
+T51	Gene_Expression 1043 1053	expression
+T52	Gene_Expression 1112 1122	expression
+T53	GRE 1329 1339	containing
+T54	Deletion 1342 1350	deletion
+T55	GRE 1398 1404	effect
+T56	Gene_Expression 1420 1430	expression
+T57	GRE 1453 1459	effect
+T58	Gene_Expression 1474 1484	expression
+E1	Regulation:T37 Agent:T1 Theme:E2 Manner:T2
+E2	Transcription:T38 Theme:T3
+E3	Regulation:T39 Agent:T1 Theme:T5 Manner:T4
+E4	Regulation:T40 Theme:T6 Manner:T7
+E5	Gene_Expression:T41 Theme:T8
+E6	GRE:T42 Agent:T9 Theme:E5
+E7	Gene_Expression:T43 Theme:T10
+E8	GRE:T44 Theme:E7 Location:T11
+E9	Gene_Expression:T45 Theme:T13
+E10	GRE:T46 Theme:E9 Location:T11
+E11	Regulation:T47 Agent:T16 Theme:T14 Manner:T15
+E12	GRE:T48 Agent:T17 Manner:T18 Destination:T19
+E13	Gene_Expression:T49 Theme:T21
+E14	GRE:T50 Theme:E13 Location:T23 Rate:T22
+E15	Gene_Expression:T51 Theme:T25
+E16	Gene_Expression:T52 Theme:T27 Manner:T26 Temporal:T28
+E17	GRE:T53 Theme:T29 Descriptive-Theme:E18
+E18	Deletion:T54 Theme:T30
+E19	GRE:T55 Agent:T32 Theme:E20 Manner:T31
+E20	Gene_Expression:T56 Theme:T33
+E21	GRE:T57 Agent:T35 Theme:E22 Manner:T34
+E22	Gene_Expression:T58 Theme:T36

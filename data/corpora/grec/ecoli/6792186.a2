@@ -1,0 +1,20 @@
+T14	GRE 23 28	study
+T15	Gene_Expression 29 39	expression
+T16	GRE 166 171	fused
+T17	GRE 266 271	study
+T18	Regulation 276 286	regulation
+T19	GRE 349 361	introduction
+T20	GRE 440 448	resulted
+T21	GRE 456 464	decrease
+T22	Gene_Expression 529 539	expression
+T23	GRE 543 556	autoregulated
+E1	GRE:T14 Theme:E2 Instrument:T1
+E2	Gene_Expression:T15 Theme:T2
+E3	GRE:T16 Theme:T3 Destination:T4
+E4	GRE:T17 Theme:T6 Instrument:T5
+E5	Regulation:T18 Theme:T7
+E6	GRE:T19 Theme:T8 Destination:T9
+E7	GRE:T20 Agent:E6 Theme:E8
+E8	GRE:T21 Theme:T10
+E9	Gene_Expression:T22 Theme:T12
+E10	GRE:T23 Agent:T13 Theme:T11

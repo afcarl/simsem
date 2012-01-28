@@ -1,0 +1,27 @@
+T1	Regulator 538 542	MlrA
+T2	SPAN 565 581	curli production
+T3	SPAN 586 616	extracellular matrix formation
+T4	Gene 853 866	The rpoS gene
+T5	Activator 877 903	a known positive regulator
+T6	Gene 986 990	yehV
+T7	SPAN 1053 1069	curli production
+T8	SPAN 1074 1076	HA
+T9	SPAN 1247 1270	HA and curli production
+T10	Gene 1321 1325	rpoS
+T11	Gene 1327 1331	mlrA
+T12	Gene 1335 1339	csgA
+T13	Gene 1370 1374	csgD
+T14	Gene 1379 1384	csgBA
+T15	SPAN 1427 1432	curli
+T16	SPAN 1478 1488	conditions
+T17	SPAN 1502 1518	curli production
+T18	Gene 1626 1630	mlrA
+T19	SPAN 1635 1645	positively
+T20	Sigma_Factor 1659 1663	rpoS
+T21	Gene 1984 1988	mlrA
+T22	SPAN 2004 2020	curli production
+T23	SPAN 2025 2047	aggregative morphology
+T24	SPAN 2048 2107	in an upregulated curli producing S. typhimurium derivative
+T25	Mutant_Bacteria 2082 2107	S. typhimurium derivative
+T26	Regulator 2205 2209	MlrA
+T27	Activator 2281 2301	a positive regulator

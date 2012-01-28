@@ -1,0 +1,34 @@
+T1	Sub_Unit 0 48	Three human RNA polymerase III-specific subunits
+T2	Protein_Complex 54 66	a subcomplex
+T3	SPAN 96 104	specific
+T4	Transcription 105 118	transcription
+T5	RNA_Polymerase 149 167	RNA polymerase III
+T6	RNA_Polymerase 192 206	the polymerase
+T7	Transcription_Factor 210 242	template-bound accessory factors
+T8	SPAN 256 301	initiation, elongation, and termination steps
+T9	SPAN 414 427	some of which
+T10	SPAN 452 465	in HeLa cells
+T11	Cells 455 465	HeLa cells
+T12	Laboratory_Technique 467 544	Partial denaturing conditions and sucrose gradient sedimentation at high salt
+T13	Protein_Complex 575 587	a subcomplex
+T14	Gene 630 643	Cognate cDNAs
+T15	Sub_Unit 678 692	three subunits
+T16	Domain 766 792	The human RNA Pol III core
+T17	Transcription 829 842	transcription
+T18	SPAN 858 869	termination
+T19	SPAN 880 891	nonspecific
+T20	SPAN 906 923	a tailed template
+T21	SPAN 943 961	promoter-dependent
+T22	Transcription 962 975	transcription
+T23	SPAN 1045 1053	specific
+T24	Transcription 1054 1067	transcription
+T25	Protein_Complex 1105 1127	the natural subcomplex
+T26	Protein_Complex 1134 1153	a stable subcomplex
+T27	Peptide 1234 1240	hRPC39
+T28	Peptide 1292 1296	hTBP
+T29	Peptide 1301 1310	hTFIIIB90
+T30	Protein_Complex 1417 1452	the hRPC32-hRPC39-hRPC62 subcomplex
+T31	RNA_Polymerase 1461 1472	RNA Pol III
+T32	Protein_Complex 1484 1506	the TFIIIB-DNA complex
+T33	Peptide 1536 1542	TFIIIB
+T34	Peptide 1547 1553	hRPC39

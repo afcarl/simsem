@@ -1,0 +1,8 @@
+T11	Gene_Expression 523 530	express
+T12	GRE 563 572	functions
+T13	GRE 756 763	express
+T14	Gene_Expression 1051 1060	expressed
+E1	Gene_Expression:T11 Agent:T1 Theme:T2
+E2	GRE:T12 Agent:T2 Descriptive-Agent:T3 Temporal:T4
+E3	GRE:T13 Agent:T5,T6 Theme:T7
+E4	Gene_Expression:T14 Theme:T8 Location:T9

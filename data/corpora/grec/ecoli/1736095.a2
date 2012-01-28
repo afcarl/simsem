@@ -1,0 +1,30 @@
+T25	GRE 9 21	interactions
+T26	GRE 184 193	increased
+T27	Gene_Expression 194 204	expression
+T28	Regulation 217 231	osmoregulation
+T29	GRE 353 362	interacts
+T30	GRE 477 482	binds
+T31	GRE 712 721	increased
+T32	GRE 778 786	addition
+T33	GRE 864 873	inhibited
+T34	Transcription 879 892	transcription
+T35	GRE 985 993	required
+T36	Gene_Expression 1003 1013	expression
+T37	GRE 1039 1046	inhibit
+T38	Transcription 1052 1065	transcription
+T39	GRE 1087 1096	interacts
+E1	GRE:T25 Agent:T2 Agent:T3 Manner:T1
+E2	GRE:T26 Theme:E3
+E3	Gene_Expression:T27 Theme:T5
+E4	Regulation:T28 Theme:T5
+E5	GRE:T29 Agent:T6 Agent:T8 Manner:T7
+E6	GRE:T30 Agent:T9 Destination:T10
+E7	GRE:T31 Agent:T11 Theme:T13 Manner:T12
+E8	GRE:T32 Theme:T14 Destination:T15
+E9	GRE:T33 Agent:E8 Theme:E10 Manner:T16,T17
+E10	Transcription:T34 Theme:T18
+E11	GRE:T35 Theme:T19 Purpose:E12
+E12	Gene_Expression:T36 Theme:T20
+E13	GRE:T37 Agent:T21 Theme:E14
+E14	Transcription:T38 Theme:T22
+E15	GRE:T39 Agent:T23 Agent:T24

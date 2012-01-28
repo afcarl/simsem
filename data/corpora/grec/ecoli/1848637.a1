@@ -1,0 +1,23 @@
+T1	Regulator 0 3	CAP
+T2	Repressor 8 21	Nag repressor
+T3	Locus 33 55	the regulatory regions
+T4	Repressor 352 371	A repressor protein
+T5	Gene 402 415	the gene nagC
+T6	Bacteria 457 464	Strains
+T7	Repressor 479 495	the NagC protein
+T8	Repressor 541 550	repressor
+T9	Transcription_Binding_Site 554 593	the intergenic nagE-B regulatory region
+T10	Transcription_Binding_Site 595 612	Two binding sites
+T11	SPAN 633 658	overlapping the promoters
+T12	Promoter 645 658	the promoters
+T13	Repressor 687 691	NagC
+T14	SPAN 721 749	DNase I hypersensitive sites
+T15	Repressor 849 866	the NagC proteins
+T16	SPAN 872 886	co-operatively
+T17	Locus 890 905	these two sites
+T18	Transcription_Binding_Site 950 975	A strong CAP binding site
+T19	SPAN 983 1013	between the two operator sites
+T20	Operator 991 1013	the two operator sites
+T21	Regulator 1105 1117	CAP and NagC
+T22	SPAN 1127 1141	simultaneously
+T23	Protein_Complex 1154 1163	a complex

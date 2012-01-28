@@ -1,0 +1,34 @@
+T35	Regulation 19 29	regulation
+T36	Transcription 285 298	transcription
+T37	GRE 302 311	repressed
+T38	GRE 383 389	senses
+T39	GRE 447 455	controls
+T40	GRE 511 517	reacts
+T41	GRE 745 750	binds
+T42	GRE 811 822	inactivated
+T43	GRE 844 848	bind
+T44	Gene_Activation 913 926	up-regulation
+T45	GRE 1001 1010	abolished
+T46	Mutation 1018 1026	mutation
+T47	GRE 1040 1049	modulates
+T48	Gene_Expression 1050 1060	expression
+T49	GRE 1111 1118	respond
+T50	Regulation 1190 1200	regulation
+T51	Regulation 1257 1267	regulation
+E1	Regulation:T35 Theme:T1
+E2	Transcription:T36 Theme:T2
+E3	GRE:T37 Agent:T3 Theme:E2
+E4	GRE:T38 Agent:T4 Theme:T5
+E5	GRE:T39 Agent:T6 Theme:T7,T8
+E6	GRE:T40 Manner:T10 Agent:T9 Agent:T11
+E7	GRE:T41 Agent:T12 Destination:T13
+E8	GRE:T42 Agent:T15,T16 Theme:T14
+E9	GRE:T43 Agent:T14 Manner:T17 Destination:T18
+E10	Gene_Activation:T44 Agent:T22 Theme:T20 Manner:T19 Condition:T21
+E11	GRE:T45 Agent:E12 Theme:E10
+E12	Mutation:T46 Theme:T23
+E13	GRE:T47 Agent:T24 Theme:E14
+E14	Gene_Expression:T48 Source:T25
+E15	GRE:T49 Agent:T26 Theme:T27,T28
+E16	Regulation:T50 Theme:T29 Location:T30
+E17	Regulation:T51 Theme:T33 Manner:T32

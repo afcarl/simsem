@@ -1,0 +1,8 @@
+T9	GRE 95 105	associated
+T10	GRE 95 105	associated
+T11	GRE 986 994	involved
+T12	GRE 986 994	involved
+E1	GRE:T9 Theme:T1 Descriptive-Theme:T2
+E2	GRE:T10 Theme:T3 Descriptive-Theme:T4
+E3	GRE:T11 Theme:T5,T6 Descriptive-Theme:T7
+E4	GRE:T12 Theme:T5,T6 Descriptive-Theme:T8

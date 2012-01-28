@@ -1,0 +1,74 @@
+T47	GRE 166 177	coordinates
+T48	GRE 205 214	activates
+T49	GRE 256 265	represses
+T50	GRE 322 333	antagonized
+T51	GRE 376 381	binds
+T52	GRE 386 391	forms
+T53	Gene_Activation 446 455	activates
+T54	Transcription 461 474	transcription
+T55	GRE 616 625	affecting
+T56	Gene_Repression 681 690	decreased
+T57	Transcription 696 709	transcription
+T58	GRE 722 728	affect
+T59	Gene_Expression 741 751	expression
+T60	GRE 840 848	required
+T61	Gene_Expression 866 876	expression
+T62	Gene_Expression 951 961	expression
+T63	GRE 970 980	suppressed
+T64	Gene_Expression 995 1005	expression
+T65	GRE 1014 1020	caused
+T66	Mutation 1044 1053	mutations
+T67	GRE 1060 1070	suppressed
+T68	GRE 1102 1114	complemented
+T69	Mutation 1129 1137	mutation
+T70	GRE 1161 1171	stimulated
+T71	Gene_Expression 1182 1192	expression
+T72	GRE 1279 1285	effect
+T73	Transcription 1302 1315	transcription
+T74	Mutation 1317 1327	Disruption
+T75	GRE 1343 1350	encodes
+T76	Gene_Repression 1369 1378	decreased
+T77	Gene_Expression 1383 1393	expression
+T78	GRE 1443 1449	affect
+T79	Gene_Expression 1521 1531	expression
+T80	GRE 1540 1550	stimulated
+T81	GRE 1788 1798	stimulates
+T82	Gene_Activation 1814 1824	activation
+T83	Gene_Expression 1833 1843	expression
+E1	GRE:T47 Agent:T1 Theme:T2 Location:T5
+E2	GRE:T48 Agent:T1 Theme:T3 Location:T5
+E3	GRE:T49 Agent:T1 Theme:T4 Location:T5
+E4	GRE:T50 Agent:T9 Theme:T8
+E5	GRE:T51 Agent:T7 Theme:T9
+E6	GRE:T52 Agent:T7,T9 Theme:T10
+E7	Gene_Activation:T53 Agent:T11 Theme:E8 Manner:T12
+E8	Transcription:T54 Theme:T13
+E9	GRE:T55 Agent:T14 Theme:T15
+E10	Gene_Repression:T56 Agent:T14 Theme:E11
+E11	Transcription:T57 Theme:T16
+E12	GRE:T58 Agent:T14 Theme:E13
+E13	Gene_Expression:T59 Theme:T17
+E14	GRE:T60 Theme:T18 Purpose:E15
+E15	Gene_Expression:T61 Theme:T19
+E16	Gene_Expression:T62 Theme:T21 Manner:T20
+E17	GRE:T63 Agent:E16 Theme:E18
+E18	Gene_Expression:T64 Theme:T22
+E19	GRE:T65 Agent:E20 Theme:T23
+E20	Mutation:T66 Theme:T24,T25,T26
+E21	GRE:T67 Agent:T27 Theme:T28
+E22	GRE:T68 Agent:T29 Theme:E23
+E23	Mutation:T69 Theme:T30
+E24	GRE:T70 Agent:T31 Theme:E25 Rate:T33
+E25	Gene_Expression:T71 Theme:T32
+E26	GRE:T72 Agent:T34 Theme:E27
+E27	Transcription:T73 Theme:T35
+E28	Mutation:T74 Theme:T36
+E29	GRE:T75 Agent:T36 Theme:T37
+E30	Gene_Repression:T76 Agent:E28 Theme:E31
+E31	Gene_Expression:T77 Theme:T38
+E32	GRE:T78 Agent:E28 Theme:T39
+E33	Gene_Expression:T79 Theme:T41 Manner:T40
+E34	GRE:T80 Agent:E33 Theme:T42
+E35	GRE:T81 Agent:T43 Theme:E36 Manner:T46
+E36	Gene_Activation:T82 Theme:E37 Manner:T44
+E37	Gene_Expression:T83 Theme:T45

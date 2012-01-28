@@ -1,0 +1,28 @@
+T1	Regulator 0 21	The narL gene product
+T2	Operon 32 60	the nitrate reductase operon
+T3	Operon 75 142	the fumarate reductase and trimethylamine N-oxide reductase operons
+T4	SPAN 143 162	in Escherichia coli
+T5	Wild_Type_Bacteria 146 162	Escherichia coli
+T6	Inorganic_Compounds 355 362	Thus O2
+T7	Enzyme 385 424	nitrate, fumarate, and Me3NO reductases
+T8	Inorganic_Compounds 430 437	nitrate
+T9	Enzyme 464 493	fumarate and Me3NO reductases
+T10	SPAN 501 521	anaerobic conditions
+T11	Regulator 522 543	the narL gene product
+T12	SPAN 548 571	the presence of nitrate
+T13	Inorganic_Compounds 564 571	nitrate
+T14	Operon 611 626	the narC operon
+T15	Enzyme 642 659	nitrate reductase
+T16	Inorganic_Compounds 734 741	nitrate
+T17	Operon 758 761	frd
+T18	Operon 766 769	tor
+T19	Enzyme 783 812	fumarate and Me3NO reductases
+T20	SPAN 831 840	anaerobic
+T21	Enzyme 855 876	ethanol dehydrogenase
+T22	Inorganic_Compounds 880 887	nitrate
+T23	Protein 905 921	the narL product
+T24	Gene 937 941	narL
+T25	Activator 959 979	the fnr gene product
+T26	Gene 1045 1049	narC
+T27	Gene 1051 1054	frd
+T28	Gene 1060 1063	tor

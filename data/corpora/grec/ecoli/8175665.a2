@@ -1,0 +1,28 @@
+T30	GRE 37 42	binds
+T31	GRE 185 192	encodes
+T32	Regulation 253 262	regulated
+T33	GRE 289 293	acts
+T34	Gene_Expression 348 358	expression
+T35	GRE 362 369	binding
+T36	Regulation 459 468	regulated
+T37	GRE 716 722	causes
+T38	GRE 723 730	binding
+T39	Gene_Expression 849 859	expression
+T40	Regulation 1043 1053	repression
+T41	GRE 1242 1249	binding
+T42	GRE 1277 1285	requires
+T43	Regulation 1453 1463	regulation
+E1	GRE:T30 Agent:T1 Destination:T3
+E2	GRE:T31 Agent:T7 Theme:T8 Location:T5
+E3	Regulation:T32 Agent:T7 Theme:T9 Location:T5
+E4	GRE:T33 Agent:T10 Descriptive-Agent:T11,T12
+E5	Gene_Expression:T34 Theme:T13
+E6	GRE:T35 Agent:T10 Destination:T14
+E7	Regulation:T36 Agent:T18 Theme:T16
+E8	GRE:T37 Agent:T19 Theme:E9
+E9	GRE:T38 Agent:T20 Destination:T21
+E10	Gene_Expression:T39 Theme:T22
+E11	Regulation:T40 Theme:T23
+E12	GRE:T41 Agent:T24 Destination:T25
+E13	GRE:T42 Theme:E12 Condition:T26
+E14	Regulation:T43 Theme:T28

@@ -1,0 +1,8 @@
+T8	GRE 146 154	required
+T9	Transcription 159 172	transcription
+T10	GRE 897 904	binding
+T11	Transcription 915 928	transcription
+E1	GRE:T8 Theme:T1 Purpose:E2
+E2	Transcription:T9 Agent:T4 Theme:T2
+E3	GRE:T10 Agent:T5 Destination:T6
+E4	Transcription:T11 Theme:T6 Manner:T7

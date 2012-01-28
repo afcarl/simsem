@@ -1,0 +1,34 @@
+T37	GRE 390 397	exhibit
+T38	Gene_Activation 420 429	induction
+T39	Regulation 442 452	regulation
+T40	Regulation 532 542	regulation
+T41	GRE 719 727	involved
+T42	GRE 784 792	modulate
+T43	Gene_Expression 797 807	expression
+T44	GRE 826 829	act
+T45	Gene_Activation 875 884	induction
+T46	Gene_Activation 931 942	stimulation
+T47	Gene_Repression 984 994	repression
+T48	Gene_Activation 1013 1022	induction
+T49	GRE 1049 1057	mediated
+T50	GRE 1148 1154	acting
+T51	GRE 1406 1414	contains
+T52	GRE 1509 1517	involved
+T53	Regulation 1599 1609	regulation
+E1	GRE:T37 Agent:T1 Descriptive-Agent:T3,T5
+E2	Gene_Activation:T38 Manner:T2
+E3	Regulation:T39 Manner:T4
+E4	Regulation:T40 Theme:T6
+E5	GRE:T41 Theme:T7,T8,T9 Descriptive-Theme:T10
+E6	GRE:T42 Agent:T11 Theme:E7 Manner:T12
+E7	Gene_Expression:T43 Theme:T13
+E8	GRE:T44 Agent:T11 Descriptive-Agent:T14
+E9	Gene_Activation:T45 Theme:T16 Manner:T15 Location:T17
+E10	Gene_Activation:T46 Agent:T18
+E11	Gene_Repression:T47 Agent:T19
+E12	Gene_Activation:T48 Theme:T21 Manner:T20 Location:T22
+E13	GRE:T49 Agent:T23,T24,T25,T26 Theme:E12
+E14	GRE:T50 Agent:T24,T25,T26 Descriptive-Agent:T27
+E15	GRE:T51 Theme:T28 Descriptive-Theme:T29
+E16	GRE:T52 Theme:T30,T31,T32,T33 Descriptive-Theme:T34
+E17	Regulation:T53 Theme:T36 Manner:T35

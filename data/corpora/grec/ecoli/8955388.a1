@@ -1,0 +1,46 @@
+T1	SPAN 7 20	at a distance
+T2	SPAN 25 33	negative
+T3	Gene 62 75	the glpD gene
+T4	Enzyme 85 122	sn-glycerol 3-phosphate dehydrogenase
+T5	Enzyme 199 251	a cytoplasmic membrane-associated respiratory enzyme
+T6	Gene 263 276	the glpD gene
+T7	Operon 298 313	The glpD operon
+T8	SPAN 339 350	cooperative
+T9	Repressor 362 379	the glp repressor
+T10	Operator 401 406	O(D)1
+T11	Operator 411 416	O(D)2
+T12	Operator 651 677	The two internal operators
+T13	Repressor 684 701	the glp repressor
+T14	Operator 754 759	O(D)1
+T15	Operator 764 769	O(D)2
+T16	SPAN 771 779	in vitro
+T17	Gene 991 1002	this fusion
+T18	Repressor 1006 1023	the glp repressor
+T19	Operator 1078 1083	O(D)3
+T20	Operator 1088 1089	O
+T21	Operator 1089 1090	(
+T22	Operator 1090 1091	D
+T23	Operator 1091 1093	)4
+T24	Laboratory_Technique 1121 1129	deletion
+T25	SPAN 1133 1146	site-directed
+T26	SPAN 1178 1192	the repression
+T27	Gene_Repression 1182 1192	repression
+T28	Repressor 1217 1234	the glp repressor
+T29	Operator 1238 1243	O(D)1
+T30	Operator 1248 1253	O(D)2
+T31	SPAN 1268 1286	five- to sevenfold
+T32	Operator 1308 1330	the internal operators
+T33	SPAN 1394 1412	repressor-mediated
+T34	Gene 1424 1428	glpD
+T35	SPAN 1457 1465	fourfold
+T36	SPAN 1466 1490	in strains containing HU
+T37	Bacteria 1469 1476	strains
+T38	Regulator 1488 1490	HU
+T39	Regulator 1552 1554	HU
+T40	Gene 1642 1646	glpD
+T41	SPAN 1664 1673	formation
+T42	Operator 1703 1736	the tandem and internal operators
+T43	Regulator 1738 1740	HU
+T44	Gene_Repression 1752 1762	repression
+T45	DNA 1774 1781	the DNA
+T46	SPAN 1796 1800	loop

@@ -1,0 +1,24 @@
+T1	Activator 0 4	EnvZ
+T2	SPAN 15 27	through OmpR
+T3	Regulator 23 27	OmpR
+T4	Gene 39 49	porin gene
+T5	SPAN 61 85	in Escherichia coli K-12
+T6	Wild_Type_Bacteria 64 85	Escherichia coli K-12
+T7	Regulator 88 125	The regulatory proteins OmpR and EnvZ
+T8	Gene 170 179	the genes
+T9	Activator 284 288	OmpR
+T10	SPAN 296 314	certain conditions
+T11	SPAN 331 336	porin
+T12	SPAN 348 379	in the complete absence of EnvZ
+T13	Activator 375 379	EnvZ
+T14	Phenotype 394 420	the pleiotropic phenotypes
+T15	Mutation 462 469	envZ473
+T16	SPAN 480 519	the presence of functional OmpR protein
+T17	Activator 496 519	functional OmpR protein
+T18	SPAN 560 573	EnvZ and OmpR
+T19	SPAN 581 599	sequential fashion
+T20	Gene 612 622	porin gene
+T21	Regulator 641 645	EnvZ
+T22	Activator 678 682	OmpR
+T23	SPAN 703 742	at the appropriate porin gene promoter.
+T24	Promoter 706 741	the appropriate porin gene promoter

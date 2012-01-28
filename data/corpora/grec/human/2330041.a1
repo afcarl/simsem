@@ -1,0 +1,15 @@
+T1	Transcription_Factor 0 35	Nucleolar transcription factor hUBF
+T2	Motif 45 64	a DNA-binding motif
+T3	Transcription_Factor 137 140	UBF
+T4	Promoter 154 185	the ribosomal RNA gene promoter
+T5	Transcription 200 213	transcription
+T6	RNA_Polymerase 226 242	RNA polymerase I
+T7	SPAN 251 275	cooperative interactions
+T8	Transcription_Factor 569 580	cloned hUBF
+T9	SPAN 589 607	a nucleolar factor
+T10	SPAN 619 631	specifically
+T11	Transcription_Binding_Site 635 672	the upstream control element and core
+T12	SPAN 635 698	the upstream control element and core of the rRNA gene promoter
+T13	Promoter 676 698	the rRNA gene promoter
+T14	Transcription 711 724	transcription
+T15	SPAN 728 759	a binding site-dependent manner

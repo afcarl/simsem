@@ -1,0 +1,16 @@
+T15	GRE 340 348	involved
+T16	Regulation 549 558	regulated
+T17	Gene_Expression 666 676	expression
+T18	Gene_Expression 708 717	expressed
+T19	GRE 761 768	altered
+T20	Gene_Expression 842 852	expression
+T21	GRE 915 924	modulated
+T22	GRE 973 985	interactions
+E1	GRE:T15 Theme:T1 Descriptive-Theme:T2
+E2	Regulation:T16 Agent:T4 Theme:T3
+E3	Gene_Expression:T17 Theme:T5
+E4	Gene_Expression:T18 Theme:T5 Condition:T7 Temporal:T6
+E5	GRE:T19 Theme:E3 Temporal:T8
+E6	Gene_Expression:T20 Theme:T9
+E7	GRE:T21 Agent:T12 Theme:E6 Manner:T10,T11
+E8	GRE:T22 Agent:T13 Agent:T14

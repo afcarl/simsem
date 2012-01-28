@@ -1,0 +1,48 @@
+T41	GRE 0 6	Action
+T42	GRE 39 46	control
+T43	Transcription 56 69	transcription
+T44	GRE 180 186	encode
+T45	GRE 335 345	controlled
+T46	GRE 363 370	binding
+T47	GRE 737 745	response
+T48	GRE 842 853	inactivated
+T49	GRE 894 905	mutagenesis
+T50	Gene_Repression 925 935	repression
+T51	GRE 944 953	conferred
+T52	GRE 957 964	binding
+T53	GRE 1004 1013	increased
+T54	GRE 1044 1056	introduction
+T55	Gene_Repression 1315 1325	repression
+T56	GRE 1334 1342	mediated
+T57	GRE 1355 1364	decreased
+T58	Mutation 1416 1425	mutations
+T59	GRE 1446 1455	decreased
+T60	GRE 1496 1502	effect
+T61	GRE 1629 1638	involving
+T62	GRE 1644 1651	binding
+T63	GRE 1711 1722	intervening
+T64	GRE 1727 1734	forming
+E1	GRE:T41 Agent:E2 Manner:T1
+E2	GRE:T42 Agent:T2 Theme:E3
+E3	Transcription:T43 Theme:T3 Location:T4
+E4	GRE:T44 Agent:T6 Theme:T7,T8 Manner:T9
+E5	GRE:T45 Agent:T12 Theme:T10 Manner:T11
+E6	GRE:T46 Agent:T12 Destination:T13
+E7	GRE:T47 Agent:T14 Theme:T15
+E8	GRE:T48 Theme:T16,T17 Agent:T18,E9
+E9	GRE:T49 Manner:T19
+E10	Gene_Repression:T50 Theme:T20
+E11	GRE:T51 Agent:E12 Theme:E10
+E12	GRE:T52 Agent:T21 Destination:T22
+E13	GRE:T53 Theme:E10 Condition:E14 Rate:T23
+E14	GRE:T54 Theme:T24
+E15	Gene_Repression:T55 Theme:T25
+E16	GRE:T56 Agent:T26 Theme:E15
+E17	GRE:T57 Theme:E15 Location:T28 Rate:T27
+E18	Mutation:T58 Source:T29,T30
+E19	GRE:T59 Agent:E18 Theme:T31 Rate:T32
+E20	GRE:T60 Agent:T33
+E21	GRE:T61 Agent:T34 Theme:E22
+E22	GRE:T62 Agent:T36 Theme:T38 Manner:T37
+E23	GRE:T63 Agent:T36 Theme:E24
+E24	GRE:T64 Agent:T39 Theme:T40

@@ -1,0 +1,46 @@
+T1	Operon 14 33	microcin C51 operon
+T2	Operon 109 132	the microcin C51 operon
+T3	SPAN 133 158	in Escherichia coli cells
+T4	Wild_Type_Bacteria 136 158	Escherichia coli cells
+T5	SPAN 172 208	as a function of the phase of growth
+T6	SPAN 227 256	during the decelerating phase
+T7	Promoter 321 340	the promoter region
+T8	Operon 377 402	a promoterless lac operon
+T9	SPAN 403 418	in lambda phage
+T10	Virus 406 418	lambda phage
+T11	Promoter 455 483	the microcin operon promoter
+T12	Gene 553 557	-lac
+T13	SPAN 581 601	in rpoS null mutants
+T14	Mutant_Bacteria 584 601	rpoS null mutants
+T15	Sigma_Factor 619 639	another sigma factor
+T16	Operon 678 701	the microcin C51 operon
+T17	Sigma_Factor 721 728	sigma70
+T18	Promoter 739 752	Pmcc-directed
+T19	Activator 870 896	The cyclic AMP-CRP complex
+T20	Promoter 939 943	Pmcc
+T21	SPAN 945 971	the absence of CRP or cAMP
+T22	Activator 960 971	CRP or cAMP
+T23	SPAN 972 998	in crp or cya mutant cells
+T24	Mutant_Bacteria 975 998	crp or cya mutant cells
+T25	SPAN 999 1007	strongly
+T26	Gene 1037 1041	-lac
+T27	Protein 1072 1084	C51 microcin
+T28	SPAN 1109 1142	in rpoS, crp and cya mutant cells
+T29	Mutant_Bacteria 1112 1142	rpoS, crp and cya mutant cells
+T30	Repressor 1171 1174	Lrp
+T31	Repressor 1200 1204	H-NS
+T32	Gene 1221 1225	-lac
+T33	SPAN 1237 1289	in the exponential and decelerating phases of growth
+T34	Gene 1311 1315	-lac
+T35	SPAN 1327 1349	in double mutant cells
+T36	Mutant_Bacteria 1330 1349	double mutant cells
+T37	Repressor 1375 1378	CRP
+T38	Repressor 1380 1383	Lrp
+T39	Repressor 1388 1392	H-NS
+T40	SPAN 1402 1442	rpoS-dependent and rpoS-independent ways
+T41	SPAN 1443 1459	in transcription
+T42	Operon 1463 1486	the microcin C51 operon
+T43	Null_Mutation 1488 1500	Mutation hns
+T44	Gene 1537 1541	-lac
+T45	SPAN 1553 1586	in crp, rpoS and lrp mutant cells
+T46	Mutant_Bacteria 1556 1559	crp

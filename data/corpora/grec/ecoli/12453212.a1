@@ -1,0 +1,12 @@
+T1	Transcription_Binding_Site 54 72	Low-affinity sites
+T2	Gene_Expression 190 207	promoter activity
+T3	Regulator 234 237	NRI
+T4	SPAN 254 269	in intact cells
+T5	Bacteria 257 269	intact cells
+T6	Transcription_Binding_Site 364 386	the low-affinity sites
+T7	Gene_Expression 421 450	the maximum promoter activity
+T8	Activator 738 762	enhancer-bound activator
+T9	RNA_Polymerase 767 777	polymerase
+T10	Promoter 893 905	the promoter
+T11	Activator 911 938	the activator concentration
+T12	SPAN 911 945	the activator concentration is low

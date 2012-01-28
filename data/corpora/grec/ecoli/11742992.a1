@@ -1,0 +1,17 @@
+T1	Promoter 89 124	The Escherichia coli melAB promoter
+T2	Activator 176 180	MelR
+T3	Activator 218 221	CRP
+T4	Activator 299 303	MelR
+T5	Activator 308 311	CRP
+T6	Promoter 315 333	the melAB promoter
+T7	Activator 392 396	MelR
+T8	Locus 406 416	four sites
+T9	SPAN 525 542	MelR is pre-bound
+T10	Activator 544 547	CRP
+T11	Locus 567 575	a target
+T12	Locus 661 685	the two downstream sites
+T13	Transcription 719 732	transcription
+T14	Activator 1002 1006	MelR
+T15	Activator 1011 1014	CRP
+T16	Transcription 1024 1037	transcription
+T17	Locus 1096 1110	adjacent sites

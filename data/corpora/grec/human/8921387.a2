@@ -1,0 +1,12 @@
+T15	GRE 313 317	acts
+T16	GRE 582 589	encodes
+T17	GRE 1239 1247	maintain
+T18	GRE 1273 1282	expressed
+T19	GRE 1538 1547	involving
+T20	GRE 1624 1633	modifying
+E1	GRE:T15 Agent:T1 Descriptive-Agent:T2
+E2	GRE:T16 Agent:T3 Theme:T4
+E3	GRE:T17 Agent:T5 Theme:T6
+E4	GRE:T18 Theme:T7 Location:T9 Descriptive-Theme:T8
+E5	GRE:T19 Agent:T11 Theme:T12,T13
+E6	GRE:T20 Theme:T14

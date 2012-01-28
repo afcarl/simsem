@@ -1,0 +1,20 @@
+T1	Gene 153 157	fimA
+T2	Gene 434 438	fimA
+T3	Protein 489 492	IHF
+T4	SPAN 505 535	in either the himA-or the himD
+T5	Gene 508 535	either the himA-or the himD
+T6	SPAN 542 546	gene
+T7	Sub_Unit 561 588	the alpha and beta subunits
+T8	SPAN 621 636	phase variation
+T9	Gene 662 666	fimA
+T10	SPAN 740 761	himA and himD lesions
+T11	SPAN 769 790	a sevenfold reduction
+T12	Gene 808 838	a phi(fimA-lacZ) operon fusion
+T13	SPAN 839 849	in strains
+T14	Mutant_Bacteria 842 849	strains
+T15	Regulator 898 901	IHF
+T16	Gene 935 939	fimA
+T17	SPAN 989 1012	the fimA control region
+T18	Promoter 1047 1064	the fimA promoter
+T19	Regulator 1087 1090	IHF
+T20	Gene 1114 1118	fimA

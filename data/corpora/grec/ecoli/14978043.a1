@@ -1,0 +1,29 @@
+T1	Protein 0 3	Crl
+T2	SPAN 39 58	in Escherichia coli
+T3	Wild_Type_Bacteria 42 58	Escherichia coli
+T4	SPAN 70 78	directly
+T5	Sub_Unit 82 116	the stationary phase sigma subunit
+T6	Sigma_Factor 176 180	RpoS
+T7	Gene 282 287	genes
+T8	Sigma_Factor 295 296	S
+T9	Gene 340 363	the cryptic genes csgBA
+T10	Sub_Unit 376 388	the subunits
+T11	Gene 430 445	the csgBA genes
+T12	SPAN 489 510	physiological signals
+T13	SPAN 515 531	stationary phase
+T14	Gene 533 544	these genes
+T15	Sigma_Factor 574 575	S
+T16	Operon 603 613	the operon
+T17	Protein 629 650	the small protein Crl
+T18	Protein 675 678	Crl
+T19	SPAN 690 702	the activity
+T20	Protein 905 908	Crl
+T21	SPAN 919 927	directly
+T22	Sigma_Factor 939 940	S
+T23	SPAN 951 967	this interaction
+T24	Enzyme 1013 1022	Esigma(S)
+T25	Promoter 1027 1045	the csgBA promoter
+T26	Protein 1061 1064	Crl
+T27	SPAN 1085 1099	the transition
+T28	Protein 1261 1264	Crl
+T29	SPAN 1326 1334	activity

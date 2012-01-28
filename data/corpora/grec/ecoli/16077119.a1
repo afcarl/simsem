@@ -1,0 +1,24 @@
+T1	SPAN 0 62	The Escherichia coli CpxA-CpxR envelope stress response system
+T2	Gene 87 111	the porins ompF and ompC
+T3	Mutant_Bacteria 332 348	numerous mutants
+T4	SPAN 388 393	porin
+T5	Mutant_Bacteria 406 416	One mutant
+T6	Insertion 426 438	an insertion
+T7	Gene 442 450	the gene
+T8	Enzyme 460 485	the histidine kinase CpxA
+T9	Mutant_Bacteria 569 584	The cpxA mutant
+T10	Gene 622 626	ompC
+T11	SPAN 631 653	a very strong decrease
+T12	Gene 674 678	ompF
+T13	Enzyme 705 728	acetyl phosphate levels
+T14	SPAN 705 738	acetyl phosphate levels were high
+T15	Gene 883 887	CpxA
+T16	Cells 891 906	wild-type cells
+T17	SPAN 940 945	porin
+T18	Protein 1007 1011	CpxR
+T19	SPAN 1018 1026	upstream
+T20	Promoter 1035 1062	the ompF and ompC promoters
+T21	SPAN 1391 1430	the Cpx envelope stress response system
+T22	SPAN 1437 1474	a role in regulating their expression
+T23	Regulation 1447 1457	regulating
+T24	Gene_Expression 1458 1474	their expression

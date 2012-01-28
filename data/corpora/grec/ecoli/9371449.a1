@@ -1,0 +1,33 @@
+T1	Operon 31 51	the D-xylose operons
+T2	SPAN 52 76	in Escherichia coli K-12
+T3	Bacteria 55 76	Escherichia coli K-12
+T4	Activator 78 82	XylR
+T5	Activator 91 118	a transcriptional activator
+T6	SPAN 121 147	The metabolism of D-xylose
+T7	Organic_Compounds 139 147	D-xylose
+T8	Gene 200 214	the xylAB gene
+T9	Gene 637 642	xylAB
+T10	Gene 647 654	xylFGHR
+T11	Promoter 682 684	PA
+T12	Promoter 689 691	PF
+T13	Promoter 908 931	the PA and PF promoters
+T14	Organic_Compounds 950 958	D-xylose
+T15	Organic_Compounds 976 983	glucose
+T16	SPAN 998 1013	the PR promoter
+T17	Organic_Compounds 1035 1047	these sugars
+T18	SPAN 1049 1067	A mutation in xylR
+T19	Gene 1063 1067	xylR
+T20	Promoter 1105 1128	the PA and PF promoters
+T21	Activator 1188 1192	XylR
+T22	Promoter 1196 1212	the xyl promoter
+T23	Organic_Compounds 1245 1253	D-xylose
+T24	Transcription 1271 1284	transcription
+T25	SPAN 1289 1299	positively
+T26	Activator 1313 1317	XylR
+T27	Activator 1363 1367	XylR
+T28	Transcription_Binding_Site 1403 1405	IA
+T29	Transcription_Binding_Site 1410 1412	IF
+T30	Activator 1464 1468	XylR
+T31	Transcription_Binding_Site 1484 1486	IA
+T32	Transcription_Binding_Site 1491 1493	IF
+T33	SPAN 1777 1785	xyl gene

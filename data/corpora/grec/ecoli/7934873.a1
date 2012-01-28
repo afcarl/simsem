@@ -1,0 +1,15 @@
+T1	Repressor 27 50	Nag repressor molecules
+T2	Operator 60 82	its two operator sites
+T3	Operon 114 129	the nag regulon
+T4	SPAN 150 157	in vivo
+T5	Transcription_Binding_Site 160 173	Binding sites
+T6	Promoter 204 233	the transcription start sites
+T7	Mutation 355 364	Mutations
+T8	Repressor 379 388	repressor
+T9	Transcription_Binding_Site 400 411	either site
+T10	Gene 493 503	both genes
+T11	Mutation 505 527	An additional mutation
+T12	Gene_Repression 580 590	repression
+T13	SPAN 649 661	co-operative
+T14	SPAN 673 686	the repressor
+T15	Transcription_Binding_Site 690 703	its two sites

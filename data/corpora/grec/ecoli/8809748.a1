@@ -1,0 +1,24 @@
+T1	Regulator 43 46	Lrp
+T2	Repressor 56 76	a specific repressor
+T3	SPAN 116 146	the Escherichia coli aidB gene
+T4	Gene 324 337	The aidB gene
+T5	SPAN 355 369	constitutively
+T6	Sigma_Factor 718 746	the alternative sigma factor
+T7	Gene 888 892	aidB
+T8	SPAN 920 928	in vitro
+T9	Sigma_Factor 932 943	the sigma s
+T10	SPAN 1008 1029	the presence of meAda
+T11	SPAN 1031 1054	levels of transcription
+T12	Transcription 1041 1054	transcription
+T13	Gene 1160 1164	aidB
+T14	SPAN 1183 1191	in vitro
+T15	SPAN 1196 1203	in vivo
+T16	Protein 1253 1279	leucine responsive protein
+T17	DNA 1310 1315	PaidB
+T18	Protein 1318 1321	Lrp
+T19	Repressor 1330 1350	a specific repressor
+T20	Gene 1390 1394	aidB
+T21	Amino_Acids 1396 1403	Leucine
+T22	SPAN 1416 1427	Lrp binding
+T23	SPAN 1489 1492	Lrp
+T24	SPAN 1512 1524	the promoter

@@ -1,0 +1,16 @@
+T1	SPAN 568 589	regulatory mechanisms
+T2	Gene 617 626	mal genes
+T3	SPAN 2019 2034	the transporter
+T4	SPAN 2038 2053	transcriptional
+T5	Operon 2065 2080	the mal regulon
+T6	Activator 2082 2098	The MalT protein
+T7	Transcription 2109 2122	transcription
+T8	SPAN 2123 2143	at all mal promoters
+T9	Promoter 2126 2143	all mal promoters
+T10	SPAN 2145 2153	A subset
+T11	Protein 2168 2199	the cyclic AMP receptor protein
+T12	Protein 2219 2235	The MalT protein
+T13	Transcription_Binding_Site 2291 2318	a dodecanucleotide MalT box
+T14	SPAN 2351 2380	upstream of all mal promoters
+T15	Promoter 2363 2380	all mal promoters
+T16	SPAN 2668 2681	MalT-mediated

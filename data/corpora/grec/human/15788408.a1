@@ -1,0 +1,29 @@
+T1	Inorganic_Compounds 0 31	The oxidative stressor arsenite
+T2	SPAN 42 81	vascular endothelial growth factor mRNA
+T3	Protein 196 200	VEGF
+T4	SPAN 509 513	VEGF
+T5	Inorganic_Compounds 544 552	Arsenite
+T6	SPAN 599 603	VEGF
+T7	Organic_Compounds 687 699	homocysteine
+T8	SPAN 746 750	VEGF
+T9	Transcription_Factor 913 917	ATF4
+T10	Protein 953 957	VEGF
+T11	Inorganic_Compounds 987 995	arsenite
+T12	Inorganic_Compounds 1014 1022	arsenite
+T13	mRNA 1056 1065	VEGF mRNA
+T14	Transcription 1080 1093	transcription
+T15	Promoter 1099 1124	a VEGF promoter construct
+T16	Transcription_Factor 1321 1325	ATF4
+T17	Promoter 1353 1370	the VEGF promoter
+T18	Inorganic_Compounds 1376 1384	arsenite
+T19	Transcription_Factor 1401 1415	exogenous ATF4
+T20	SPAN 1436 1448	the promoter
+T21	Protein_Complex 1450 1459	A complex
+T22	DNA 1482 1495	a DNA element
+T23	SPAN 1559 1579	DNA binding activity
+T24	SPAN 1596 1614	arsenite treatment
+T25	Organic_Compounds 1665 1681	N-acetylcysteine
+T26	Inorganic_Compounds 1708 1716	arsenite
+T27	SPAN 1720 1724	VEGF
+T28	SPAN 1838 1854	arsenite-induced
+T29	SPAN 1872 1881	VEGF gene

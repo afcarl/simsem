@@ -1,0 +1,25 @@
+T1	Repressor 0 23	Integration host factor
+T2	SPAN 30 42	specifically
+T3	Locus 46 60	multiple sites
+T4	Transcription 115 128	transcription
+T5	Regulator 181 202	a DNA-binding protein
+T6	Gene 224 228	gene
+T7	Recombination 241 268	site-specific recombination
+T8	SPAN 274 289	other processes
+T9	Plasmid 290 300	in E. coli
+T10	Wild_Type_Bacteria 293 300	E. coli
+T11	Plasmid 317 331	bacteriophages
+T12	Plasmid 336 344	plasmids
+T13	Repressor 523 526	IHF
+T14	Transcription_Binding_Site 536 547	three sites
+T15	SPAN 577 585	In vitro
+T16	Promoter 605 628	ompB promoter fragments
+T17	SPAN 633 645	specifically
+T18	Repressor 657 660	IHF
+T19	Gene 724 728	ompB
+T20	SPAN 740 756	in growing cells
+T21	Bacteria 743 756	growing cells
+T22	Transcription_Binding_Site 770 786	IHF binding site
+T23	Repressor 821 824	IHF
+T24	SPAN 833 860	in the ompB promoter region
+T25	Promoter 836 860	the ompB promoter region

@@ -1,0 +1,25 @@
+T1	Regulation 0 19	Multiple regulation
+T2	SPAN 32 74	the expression of the uxuR regulatory gene
+T3	Gene 50 74	the uxuR regulatory gene
+T4	SPAN 75 99	in Escherichia coli K-12
+T5	Wild_Type_Bacteria 78 99	Escherichia coli K-12
+T6	Mutant_Bacteria 119 127	a strain
+T7	Gene 149 187	the beta-galactosidase structural gene
+T8	Promoter 191 203	the promoter
+T9	SPAN 191 231	the promoter of the uxuR regulatory gene
+T10	Gene 207 231	the uxuR regulatory gene
+T11	Viral_Vector 267 273	Aprlac
+T12	Mutant_Bacteria 445 472	The uxuR-lacZ fusion strain
+T13	SPAN 498 526	the regulation of expression
+T14	Promoter 532 549	the uxuR promoter
+T15	SPAN 587 619	the copy number of the uxuR gene
+T16	Gene 606 619	the uxuR gene
+T17	SPAN 631 654	an increased repression
+T18	SPAN 658 676	beta-galactosidase
+T19	Repressor 706 724	the exuR repressor
+T20	SPAN 751 779	the beta-galactosidase level
+T21	SPAN 813 831	beta-galactosidase
+T22	Protein 886 903	uxuB gene product
+T23	Gene 961 974	the uxuR gene
+T24	Repressor 991 1006	its own product
+T25	Repressor 1019 1037	the exuR repressor

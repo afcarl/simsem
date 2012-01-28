@@ -1,0 +1,24 @@
+T1	SPAN 0 19	CpxR/OmpR interplay
+T2	Gene 30 40	curli gene
+T3	Protein 391 395	OmpR
+T4	Gene 418 422	csgD
+T5	Protein 466 484	The CpxR regulator
+T6	SPAN 498 508	negatively
+T7	Gene 516 526	curli gene
+T8	SPAN 554 574	its recognition site
+T9	Transcription_Binding_Site 589 615	the csgD OmpR-binding site
+T10	SPAN 709 722	OmpR and CpxR
+T11	Gene 756 770	the curli gene
+T12	SPAN 786 820	variation of the medium osmolarity
+T13	Protein 882 886	CpxR
+T14	Promoter 896 920	the csgD promoter region
+T15	SPAN 1204 1219	the Cpx pathway
+T16	SPAN 1236 1287	both transcriptional and posttranscriptional levels
+T17	SPAN 1303 1327	a high osmolarity medium
+T18	Protein 1337 1341	CpxR
+T19	Gene 1352 1356	csgD
+T20	Gene_Expression 1441 1456	csgD repression
+T21	Protein 1524 1558	the global regulatory protein H-NS
+T22	SPAN 1589 1608	EnvZ/OmpR, Cpx, Rcs
+T23	SPAN 1614 1618	H-NS
+T24	Gene 1718 1733	the curli genes

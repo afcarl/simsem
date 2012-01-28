@@ -1,0 +1,40 @@
+T39	Regulation 13 23	regulation
+T40	GRE 101 108	depends
+T41	GRE 230 237	control
+T42	Gene_Expression 242 252	expression
+T43	GRE 496 505	regulated
+T44	GRE 540 550	controlled
+T45	GRE 691 696	binds
+T46	GRE 808 813	binds
+T47	GRE 858 868	recognizes
+T48	Regulation 947 957	regulation
+T49	GRE 1010 1017	effects
+T50	GRE 1321 1330	abolished
+T51	GRE 1336 1343	binding
+T52	GRE 1362 1369	reduced
+T53	GRE 1375 1382	binding
+T54	GRE 1501 1509	decrease
+T55	GRE 1525 1537	interactions
+T56	GRE 1586 1595	preferred
+T57	GRE 1633 1642	recognize
+T58	GRE 1706 1713	lacking
+E1	Regulation:T39 Agent:T2,T3 Manner:T1
+E2	GRE:T40 Agent:E1 Theme:T4
+E3	GRE:T41 Agent:T5 Theme:E4
+E4	Gene_Expression:T42 Theme:T6 Condition:T7,T8
+E5	GRE:T43 Agent:T10 Theme:T9 Manner:T11
+E6	GRE:T44 Agent:T13,T14 Theme:T12
+E7	GRE:T45 Agent:T15 Manner:T16 Destination:T17
+E8	GRE:T46 Agent:T18 Destination:T19
+E9	GRE:T47 Agent:T18 Theme:T20
+E10	Regulation:T48 Agent:T22 Theme:T21 Manner:T23
+E11	GRE:T49 Agent:T24,T25 Theme:T26
+E12	GRE:T50 Agent:T27 Theme:E13
+E13	GRE:T51 Agent:T28
+E14	GRE:T52 Agent:T27 Theme:E15 Manner:T29
+E15	GRE:T53 Agent:T30
+E16	GRE:T54 Theme:E17
+E17	GRE:T55 Manner:T31
+E18	GRE:T56 Agent:T33,T34 Theme:T32
+E19	GRE:T57 Agent:T35 Theme:T36
+E20	GRE:T58 Agent:T38 Theme:T37

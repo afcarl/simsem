@@ -1,0 +1,9 @@
+T1	Operon 104 136	The Escherichia coli flhD operon
+T2	Gene 156 160	flhD
+T3	Gene 165 169	flhC
+T4	Protein_Complex 342 363	the FlhD/FlhC complex
+T5	Locus 404 424	the upstream regions
+T6	Protein_Complex 553 562	FlhD/FlhC
+T7	Promoter 574 609	the three class II promoter regions
+T8	Protein_Complex 882 903	the FlhD/FlhC complex
+T9	Operon 969 995	the three class II operons

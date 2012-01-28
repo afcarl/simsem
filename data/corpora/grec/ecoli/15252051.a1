@@ -1,0 +1,32 @@
+T1	Gene 14 18	ptsG
+T2	Protein 28 57	the major glucose transporter
+T3	Regulator 74 78	ArcA
+T4	SPAN 79 98	in Escherichia coli
+T5	Wild_Type_Bacteria 82 98	Escherichia coli
+T6	Gene 456 464	ptsHIcrr
+T7	Gene 469 473	ptsG
+T8	SPAN 500 516	the availability
+T9	Transcription_Factor 656 667	new factors
+T10	SPAN 714 769	the phosphoenolpyruvate:sugar phosphotransferase system
+T11	Organic_Compounds 714 737	the phosphoenolpyruvate
+T12	SPAN 770 789	in Escherichia coli
+T13	Wild_Type_Bacteria 773 789	Escherichia coli
+T14	Regulator 809 837	the anaerobic regulator ArcA
+T15	SPAN 838 850	specifically
+T16	Promoter 860 873	the promoters
+T17	Gene 887 900	the arcA gene
+T18	SPAN 916 922	2-fold
+T19	SPAN 923 931	increase
+T20	Gene 939 943	ptsG
+T21	Regulator 978 982	ArcA
+T22	SPAN 1007 1026	glucose consumption
+T23	Regulator 1084 1090	ArcA-P
+T24	Gene 1102 1106	ptsG
+T25	SPAN 1102 1109	ptsG P1
+T26	Regulator 1172 1178	ArcA-P
+T27	Operator 1188 1199	three sites
+T28	Regulator 1286 1292	ArcA-P
+T29	Regulator 1315 1318	CRP
+T30	Promoter 1353 1360	ptsG P1
+T31	Regulator 1403 1430	the response regulator ArcA
+T32	Enzyme 1467 1470	Glc

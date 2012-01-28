@@ -1,0 +1,14 @@
+T18	GRE 590 598	controls
+T19	Gene_Expression 603 613	expression
+T20	GRE 2054 2061	control
+T21	Gene_Activation 2099 2108	activates
+T22	Transcription 2204 2217	transcription
+T23	GRE 2280 2287	binding
+T24	Gene_Activation 2682 2692	activation
+E1	GRE:T18 Agent:T1 Theme:E2
+E2	Gene_Expression:T19 Theme:T2
+E3	GRE:T20 Agent:T3 Theme:T5 Manner:T4
+E4	Gene_Activation:T21 Agent:T6 Theme:T7 Location:T8
+E5	Transcription:T22 Theme:T10 Condition:T11
+E6	GRE:T23 Agent:T12 Location:T14 Destination:T13
+E7	Gene_Activation:T24 Agent:T16

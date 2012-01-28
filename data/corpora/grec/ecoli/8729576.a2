@@ -1,0 +1,16 @@
+T14	GRE 55 75	promiscuous coupling
+T15	GRE 1111 1119	regulate
+T16	Transcription 1124 1137	transcription
+T17	GRE 1375 1382	coupled
+T18	GRE 1523 1532	selection
+T19	GRE 1536 1540	form
+T20	Regulation 1579 1589	regulation
+T21	GRE 1629 1637	coupling
+E1	GRE:T14 Theme:T2 Theme:T3 Manner:T1
+E2	GRE:T15 Agent:T4 Theme:E3 Manner:T5
+E3	Transcription:T16 Theme:T6
+E4	GRE:T17 Theme:T7 Theme:T9 Manner:T8
+E5	GRE:T18 Purpose:E6
+E6	GRE:T19 Theme:T10
+E7	Regulation:T20 Manner:T11
+E8	GRE:T21 Theme:T13 Manner:T12

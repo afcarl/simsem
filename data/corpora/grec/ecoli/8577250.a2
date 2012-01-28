@@ -1,0 +1,36 @@
+T27	GRE 35 44	modulates
+T28	GRE 155 163	regulate
+T29	Gene_Expression 164 174	expression
+T30	GRE 282 289	binding
+T31	GRE 358 365	binding
+T32	GRE 485 490	bound
+T33	GRE 632 640	controls
+T34	Gene_Activation 645 655	expression
+T35	GRE 690 698	encoding
+T36	Null_Mutation 788 796	mutation
+T37	GRE 797 804	altered
+T38	GRE 1060 1067	binding
+T39	GRE 1101 1110	activated
+T40	GRE 1115 1124	repressed
+T41	GRE 1137 1146	permitted
+T42	GRE 1147 1158	formulation
+T43	Gene_Repression 1308 1318	activation
+T44	GRE 1328 1336	encoding
+E1	GRE:T27 Agent:T1 Theme:T2 Location:T3
+E2	GRE:T28 Agent:T5 Theme:E3
+E3	Gene_Expression:T29 Theme:T6
+E4	GRE:T30 Agent:T8 Destination:T7
+E5	GRE:T31 Agent:T9
+E6	GRE:T32 Agent:T10 Destination:T11
+E7	GRE:T33 Agent:T12 Theme:E8
+E8	Gene_Activation:T34 Theme:T13
+E9	GRE:T35 Agent:T13 Theme:T14
+E10	Null_Mutation:T36 Manner:T15
+E11	GRE:T37 Agent:E10 Theme:T16
+E12	GRE:T38 Agent:T18 Destination:T17
+E13	GRE:T39 Agent:T20 Theme:T19
+E14	GRE:T40 Agent:T20 Theme:T19
+E15	GRE:T41 Agent:T17 Theme:E16
+E16	GRE:T42 Theme:T21
+E17	Gene_Repression:T43 Theme:T24 Manner:T23
+E18	GRE:T44 Agent:T24 Theme:T25

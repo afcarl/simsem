@@ -1,0 +1,22 @@
+T24	GRE 59 67	involved
+T25	Gene_Activation 75 85	activation
+T26	GRE 199 209	controlled
+T27	GRE 261 268	depends
+T28	GRE 570 582	interactions
+T29	GRE 735 740	binds
+T30	GRE 735 740	binds
+T31	GRE 842 849	binding
+T32	Mutation 1093 1102	Mutations
+T33	GRE 1151 1158	reduced
+T34	Gene_Activation 1255 1265	activation
+E1	GRE:T24 Agent:T1 Theme:E2
+E2	Gene_Activation:T25 Theme:T2
+E3	GRE:T26 Agent:T6 Theme:T3 Location:T4
+E4	GRE:T27 Agent:T7 Theme:T8,T9
+E5	GRE:T28 Agent:T12 Agent:T11 Manner:T10
+E6	GRE:T29 Agent:T13 Manner:T14 Destination:T15
+E7	GRE:T30 Agent:T13 Manner:T16 Destination:T17
+E8	GRE:T31 Agent:T18 Manner:T20 Destination:T19
+E9	Mutation:T32 Theme:T21
+E10	GRE:T33 Agent:E9 Theme:T22
+E11	Gene_Activation:T34 Theme:T23

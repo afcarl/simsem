@@ -1,0 +1,21 @@
+T1	Gene 32 62	a human ribosomal protein gene
+T2	SPAN 68 76	enhanced
+T3	SPAN 88 117	in fetal and neoplastic cells
+T4	Cells 91 117	fetal and neoplastic cells
+T5	Gene 386 408	neighboring host genes
+T6	Gene 430 444	cellular genes
+T7	SPAN 514 547	in hepatocellular carcinoma cells
+T8	Cells 517 547	hepatocellular carcinoma cells
+T9	Gene 569 582	one such gene
+T10	Protein 591 600	a protein
+T11	Ribosome 612 645	the E. coli L-3 ribosomal protein
+T12	mRNA 681 685	mRNA
+T13	Ribosome 697 709	the ribosome
+T14	Protein 711 722	The protein
+T15	DNA 734 742	the cDNA
+T16	Protein 874 878	MRL3
+T17	SPAN 882 888	higher
+T18	SPAN 889 907	in colon carcinoma
+T19	Cells 892 907	colon carcinoma
+T20	Cells 912 931	lymphoma cell lines
+T21	Protein 1048 1052	MRL3

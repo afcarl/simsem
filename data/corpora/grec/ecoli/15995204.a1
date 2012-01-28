@@ -1,0 +1,23 @@
+T1	SPAN 76 126	the nitrate-responsive NarX-NarL regulatory system
+T2	SPAN 150 201	the fumarate-responsive DcuS-DcuR regulatory system
+T3	Regulation 469 487	Nitrate regulation
+T4	SPAN 503 537	the NarX-NarL two-component system
+T5	Operon 576 583	operons
+T6	Enzyme 593 620	nitrate respiration enzymes
+T7	SPAN 656 663	operons
+T8	SPAN 668 703	other anaerobic respiratory enzymes
+T9	Enzyme 767 785	fumarate reductase
+T10	Operon 798 816	the frdABCD operon
+T11	Gene 949 983	the corresponding structural genes
+T12	SPAN 1000 1034	the DcuS-DcuR two-component system
+T13	SPAN 1047 1091	to fumarate or its dicarboxylate precursors.
+T14	Gene 1230 1243	the aspA gene
+T15	Enzyme 1253 1276	aspartate-ammonia lyase
+T16	Operon 1308 1324	the dcuSR operon
+T17	SPAN 1334 1380	the dicarboxylate-responsive regulatory system
+T18	SPAN 1580 1587	Nitrate
+T19	Operon 1668 1685	all three operons
+T20	SPAN 1955 1962	nitrate
+T21	Operon 1973 1984	frdA operon
+T22	Promoter 2032 2054	frdA promoter activity
+T23	Promoter 2091 2113	dcuS promoter activity

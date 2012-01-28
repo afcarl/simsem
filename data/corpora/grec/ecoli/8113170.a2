@@ -1,0 +1,26 @@
+T17	GRE 24 32	involved
+T18	Regulation 49 59	regulation
+T19	GRE 279 283	acts
+T20	GRE 324 331	control
+T21	Transcription 337 350	transcription
+T22	GRE 496 508	Inactivation
+T23	Insertion 525 534	insertion
+T24	GRE 555 563	prevents
+T25	Regulation 568 578	repression
+T26	Gene_Expression 587 597	expression
+T27	GRE 853 859	result
+T28	Gene_Expression 881 891	expression
+T29	Regulation 995 1005	regulation
+E1	GRE:T17 Agent:T1 Descriptive-Agent:E2
+E2	Regulation:T18 Theme:T3 Manner:T2
+E3	GRE:T19 Agent:T4 Descriptive-Agent:T5,T6
+E4	GRE:T20 Agent:T4 Theme:E5
+E5	Transcription:T21 Theme:T7
+E6	GRE:T22 Theme:T8 Instrument:E7
+E7	Insertion:T23 Theme:T9
+E8	GRE:T24 Agent:E6 Theme:E9
+E9	Regulation:T25 Theme:T11
+E10	Gene_Expression:T26 Theme:T10
+E11	GRE:T27 Agent:T12 Theme:T13
+E12	Gene_Expression:T28 Theme:T14
+E13	Regulation:T29 Theme:T16 Manner:T15

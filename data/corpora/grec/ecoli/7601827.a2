@@ -1,0 +1,40 @@
+T31	Gene_Repression 8 18	repression
+T32	GRE 57 65	mediated
+T33	Gene_Expression 158 167	expressed
+T34	GRE 263 266	led
+T35	GRE 276 284	decrease
+T36	Gene_Repression 350 360	repression
+T37	GRE 389 397	enhanced
+T38	Regulation 458 468	Regulation
+T39	Gene_Expression 476 486	expression
+T40	Gene_Expression 653 663	expression
+T41	GRE 807 816	exhibited
+T42	Regulation 844 854	regulation
+T43	Regulation 936 946	regulation
+T44	GRE 985 993	retained
+T45	Gene_Repression 1007 1017	repression
+T46	GRE 1101 1109	localize
+T47	GRE 1128 1136	required
+T48	GRE 1140 1147	mediate
+T49	Gene_Repression 1156 1166	repression
+T50	GRE 1235 1245	identified
+E1	Gene_Repression:T31 Agent:T1 Theme:T2
+E2	GRE:T32 Agent:T3,T4 Theme:E1
+E3	Gene_Expression:T33 Theme:T5 Manner:T7 Rate:T6
+E4	GRE:T34 Agent:T8 Theme:E5
+E5	GRE:T35 Theme:T10 Rate:T9 Temporal:T11
+E6	Gene_Repression:T36 Agent:T12
+E7	GRE:T37 Theme:E6 Rate:T13 Temporal:T14
+E8	Regulation:T38 Agent:T16 Theme:E9 Condition:T17
+E9	Gene_Expression:T39 Theme:T15
+E10	Gene_Expression:T40 Theme:T18
+E11	GRE:T41 Agent:T19 Theme:E12
+E12	Regulation:T42 Agent:T20
+E13	Regulation:T43 Agent:T22
+E14	GRE:T44 Agent:T21 Theme:E15 Rate:T24 Temporal:T25
+E15	Gene_Repression:T45 Agent:T23
+E16	GRE:T46 Theme:T26 Destination:T28
+E17	GRE:T47 Theme:T26 Purpose:E18
+E18	GRE:T48 Theme:E19
+E19	Gene_Repression:T49 Agent:T27
+E20	GRE:T50 Theme:T30 Instrument:T29

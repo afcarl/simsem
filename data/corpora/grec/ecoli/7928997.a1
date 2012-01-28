@@ -1,0 +1,46 @@
+T1	Gene 19 23	inaA
+T2	Operon 63 66	mar
+T3	Gene 84 89	soxRS
+T4	Operon 150 160	the marRAB
+T5	SPAN 150 200	the marRAB (multiple antibiotic resistance) operon
+T6	Gene 205 210	soxRS
+T7	SPAN 205 238	soxRS (superoxide response) genes
+T8	Gene 260 264	inaA
+T9	Gene 318 322	inaA
+T10	SPAN 318 333	inaA expression
+T11	Gene_Expression 323 333	expression
+T12	SPAN 353 384	the beta-galactosidase activity
+T13	Enzyme 357 375	beta-galactosidase
+T14	Mutation 438 452	marR mutations
+T15	SPAN 466 486	marRAB transcription
+T16	Transcription 473 486	transcription
+T17	SPAN 500 530	multiple antibiotic resistance
+T18	Gene 540 544	inaA
+T19	SPAN 540 555	inaA expression
+T20	SPAN 559 573	10- to 20-fold
+T21	SPAN 718 740	Overexpression of marA
+T22	Gene 736 740	marA
+T23	SPAN 747 769	on a multicopy plasmid
+T24	Plasmid 750 769	a multicopy plasmid
+T25	SPAN 777 794	high constitutive
+T26	Gene 809 813	inaA
+T27	Mutant_Bacteria 817 825	a strain
+T28	SPAN 817 868	a strain with an extensive (39-kbp) marRAB deletion
+T29	Organic_Compounds 870 880	Salicylate
+T30	Gene 980 984	inaA
+T31	SPAN 988 994	6-fold
+T32	Mutant_Bacteria 1050 1080	Two soxRS constitutive mutants
+T33	SPAN 1105 1128	elevated levels of inaA
+T34	Protein 1124 1128	inaA
+T35	Organic_Compounds 1130 1138	Paraquat
+T36	Gene 1181 1185	inaA
+T37	SPAN 1200 1212	6- to 9-fold
+T38	Gene 1293 1297	inaA
+T39	Organic_Compounds 1301 1311	salicylate
+T40	SPAN 1450 1502	induction of multiple antibiotic resistance and inaA
+T41	Gene 1498 1502	inaA
+T42	Organic_Compounds 1506 1516	salicylate
+T43	Operon 1528 1531	mar
+T44	SPAN 1536 1559	an unidentified pathway
+T45	Organic_Compounds 1580 1588	paraquat
+T46	Gene 1600 1605	soxRS

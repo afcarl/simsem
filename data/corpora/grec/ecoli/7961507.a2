@@ -1,0 +1,10 @@
+T10	GRE 137 144	encodes
+T11	GRE 395 400	bound
+T12	GRE 563 570	binding
+T13	GRE 935 943	required
+T14	Transcription 952 965	transcription
+E1	GRE:T10 Agent:T1 Theme:T2,T3
+E2	GRE:T11 Agent:T4 Destination:T5
+E3	GRE:T12 Agent:T6 Destination:T7
+E4	GRE:T13 Theme:T8 Purpose:E5
+E5	Transcription:T14 Theme:T9

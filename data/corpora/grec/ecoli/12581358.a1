@@ -1,0 +1,30 @@
+T1	Gene 47 100	the Escherichia coli K30 group 1 capsule biosynthesis
+T2	SPAN 101 119	(cps) gene cluster
+T3	Operon 289 302	(cps) operons
+T4	Gene 321 355	the prototype serotype K30 cluster
+T5	SPAN 372 416	the JUMPStart-RfaH antitermination mechanism
+T6	Protein 613 621	products
+T7	SPAN 666 673	capsule
+T8	Gene 679 702	serotype-specific genes
+T9	Enzyme 712 719	enzymes
+T10	SPAN 774 807	This putative stem-loop structure
+T11	SPAN 844 873	in a termination-probe vector
+T12	Viral_Vector 847 873	a termination-probe vector
+T13	Gene 923 936	the cps genes
+T14	Activator 1152 1186	the transcriptional activator RcsB
+T15	SPAN 1194 1198	rcsB
+T16	SPAN 1200 1204	aadA
+T17	SPAN 1205 1216	chromosomal
+T18	SPAN 1235 1244	the level
+T19	Gene 1373 1377	galF
+T20	SPAN 1398 1412	the production
+T21	Activator 1463 1467	RcsB
+T22	SPAN 1491 1502	a threefold
+T23	DNA 1532 1563	a galF::lacZ chromosomal fusion
+T24	Protein 1593 1597	GalF
+T25	SPAN 1631 1639	increase
+T26	SPAN 1707 1725	cps::lacZ activity
+T27	Gene 1772 1807	the E. coli group 1 capsule cluster
+T28	SPAN 1835 1849	the Rcs system
+T29	SPAN 1894 1908	the Rcs system
+T30	Gene 1994 1998	galF

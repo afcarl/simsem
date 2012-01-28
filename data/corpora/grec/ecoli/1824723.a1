@@ -1,0 +1,23 @@
+T1	Transcription_Binding_Site 0 28	Three adjacent binding sites
+T2	Promoter 89 124	the divergent malEp-malKp promoters
+T3	Operon 127 174	The divergent malEFG and malK-lamB-malM operons
+T4	SPAN 175 194	in Escherichia coli
+T5	Wild_Type_Bacteria 178 194	Escherichia coli
+T6	Promoter 213 244	partially overlapping promoters
+T7	SPAN 246 260	whose activity
+T8	Activator 320 324	MalT
+T9	Activator 356 359	CRP
+T10	SPAN 561 569	in vitro
+T11	Regulator 586 589	CRP
+T12	Transcription_Binding_Site 595 626	its four adjacent binding sites
+T13	Regulator 731 734	CRP
+T14	SPAN 746 759	high affinity
+T15	Promoter 763 793	the three malEp-proximal sites
+T16	SPAN 803 817	a low affinity
+T17	Promoter 821 836	the fourth site
+T18	Regulator 838 841	CRP
+T19	Promoter 853 864	these sites
+T20	SPAN 868 883	not cooperative
+T21	Transcription_Binding_Site 1113 1150	the three high-affinity binding sites
+T22	Gene_Expression 1164 1188	malEp and malKp activity
+T23	Promoter 1269 1279	a promoter

@@ -1,0 +1,24 @@
+T29	Regulation 67 77	regulation
+T30	GRE 263 271	encoding
+T31	GRE 916 924	detected
+T32	Gene_Expression 1056 1066	expression
+T33	GRE 1071 1079	observed
+T34	Laboratory_Technique 1116 1131	Cotransfections
+T35	GRE 1146 1156	expressing
+T36	GRE 1225 1233	revealed
+T37	Gene_Activation 1280 1289	induction
+T38	Gene_Activation 1310 1319	induction
+T39	Gene_Repression 1351 1361	repression
+T40	GRE 1577 1588	interacting
+E1	Regulation:T29 Agent:T1,T2
+E2	GRE:T30 Agent:T3 Theme:T4
+E3	GRE:T31 Theme:T5 Temporal:T7
+E4	Gene_Expression:T32 Theme:T9
+E5	GRE:T33 Theme:E4 Location:T10
+E6	Laboratory_Technique:T34 Theme:T12
+E7	GRE:T35 Agent:T12 Theme:T13,T14,T15,T17
+E8	GRE:T36 Agent:E6 Theme:T19
+E9	Gene_Activation:T37 Condition:T22 Rate:T21
+E10	Gene_Activation:T38 Condition:T24 Rate:T23
+E11	Gene_Repression:T39 Condition:T26 Rate:T25
+E12	GRE:T40 Agent:T27 Agent:T28

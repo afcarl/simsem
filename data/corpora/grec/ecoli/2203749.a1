@@ -1,0 +1,22 @@
+T1	SPAN 50 57	in vivo
+T2	SPAN 62 70	in vitro
+T3	Protein 85 89	ompC
+T4	SPAN 90 109	in Escherichia coli
+T5	Wild_Type_Bacteria 93 109	Escherichia coli
+T6	Regulator 165 186	a DNA-binding protein
+T7	Gene 199 203	gene
+T8	SPAN 219 243	other cellular functions
+T9	SPAN 244 254	in E. coli
+T10	Wild_Type_Bacteria 247 254	E. coli
+T11	Virus 267 298	its bacteriophages and plasmids
+T12	Repressor 385 388	IHF
+T13	Transcription_Binding_Site 398 406	ompC DNA
+T14	Locus 420 428	a region
+T15	Repressor 504 507	IHF
+T16	Laboratory_Technique 511 551	a purified in vitro transcription system
+T17	Promoter 581 612	two of the three ompC promoters
+T18	Mutant_Bacteria 698 709	IHF mutants
+T19	Protein 739 743	OmpC
+T20	Phenotype 758 777	the OmpC- phenotype
+T21	SPAN 836 842	in IHF
+T22	Repressor 839 842	IHF

@@ -1,0 +1,12 @@
+T9	Gene_Repression 13 22	represses
+T10	Transcription 23 36	transcription
+T11	Mutation 325 333	Mutation
+T12	GRE 365 373	resulted
+T13	Gene_Expression 384 394	expression
+T14	GRE 1538 1546	inhibits
+E1	Gene_Repression:T9 Agent:T1 Theme:E2
+E2	Transcription:T10 Theme:T2
+E3	Mutation:T11 Theme:T3
+E4	GRE:T12 Agent:E3 Theme:E5 Location:T4
+E5	Gene_Expression:T13 Theme:T5
+E6	GRE:T14 Agent:T6 Theme:T7 Location:T8

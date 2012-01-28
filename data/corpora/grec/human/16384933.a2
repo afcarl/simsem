@@ -1,0 +1,16 @@
+T9	Gene_Expression 0 10	Expression
+T10	Gene_Expression 79 89	expression
+T11	GRE 471 479	required
+T12	Gene_Activation 488 497	induction
+T13	Gene_Expression 511 521	expression
+T14	Gene_Expression 596 606	expression
+T15	Regulation 757 770	up-regulation
+T16	GRE 841 851	expression
+E1	Gene_Expression:T9 Theme:T1
+E2	Gene_Expression:T10 Theme:T2
+E3	GRE:T11 Theme:T3 Purpose:E4
+E4	Gene_Activation:T12 Theme:E5
+E5	Gene_Expression:T13 Theme:T4
+E6	Gene_Expression:T14 Theme:T5
+E7	Regulation:T15 Theme:T6
+E8	GRE:T16 Theme:T8

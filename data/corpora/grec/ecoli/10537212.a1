@@ -1,0 +1,45 @@
+T1	SPAN 0 15	Transcriptional
+T2	Inorganic_Compounds 42 48	oxygen
+T3	Inorganic_Compounds 53 60	nitrate
+T4	SPAN 85 116	the [NiFe] hydrogenases 1 and 2
+T5	Enzyme 152 183	the [NiFe] hydrogenases 1 and 2
+T6	SPAN 230 242	anaerobiosis
+T7	Inorganic_Compounds 265 272	nitrate
+T8	Enzyme 306 349	The hydrogenase 1 and hydrogenase 2 enzymes
+T9	Operon 365 416	the polycistronic hyaABCDEF and hybOABCDEFG operons
+T10	Laboratory_Technique 432 457	Primer extension analysis
+T11	SPAN 480 516	the initiation site of transcription
+T12	Operon 520 532	both operons
+T13	Locus 569 600	single-copy lacZ operon fusions
+T14	SPAN 629 659	the transcriptional regulation
+T15	SPAN 633 648	transcriptional
+T16	Operon 663 678	the two operons
+T17	SPAN 694 698	both
+T18	SPAN 714 726	anaerobiosis
+T19	Inorganic_Compounds 744 751	nitrate
+T20	SPAN 815 824	Anaerobic
+T21	Operon 838 852	the hyb operon
+T22	Protein 885 900	the FNR protein
+T23	Mutation 936 952	an arcA mutation
+T24	Repressor 988 992	ArcA
+T25	SPAN 1004 1013	anaerobic
+T26	SPAN 1014 1017	hyb
+T27	SPAN 1038 1054	a further factor
+T28	SPAN 1115 1124	anaerobic
+T29	SPAN 1138 1144	operon
+T30	Gene_Expression 1138 1155	operon expression
+T31	SPAN 1157 1164	Nitrate
+T32	SPAN 1179 1182	hyb
+T33	SPAN 1210 1270	the NarL/NarX and NarP/NarQ two-component regulatory systems
+T34	Mutant_Bacteria 1284 1297	a narP mutant
+T35	SPAN 1305 1314	anaerobic
+T36	Gene_Expression 1328 1342	hyb expression
+T37	SPAN 1367 1380	added nitrate
+T38	SPAN 1382 1391	Anaerobic
+T39	Gene_Expression 1405 1419	hya expression
+T40	SPAN 1437 1465	the ArcA and AppY regulators
+T41	SPAN 1521 1528	Nitrate
+T42	Operon 1543 1557	the hya operon
+T43	Repressor 1579 1583	NarL
+T44	Repressor 1588 1592	NarP
+T45	Operon 1757 1779	the individual operons

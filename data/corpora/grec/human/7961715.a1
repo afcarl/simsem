@@ -1,0 +1,31 @@
+T1	Protein 24 28	ref1
+T2	SPAN 45 53	negative
+T3	Gene 54 58	gene
+T4	Inorganic_Compounds 73 94	extracellular calcium
+T5	SPAN 97 128	A rise in extracellular calcium
+T6	Inorganic_Compounds 107 128	extracellular calcium
+T7	SPAN 157 166	secretion
+T8	SPAN 205 215	expression
+T9	Gene 219 231	the PTH gene
+T10	SPAN 232 268	to ensure constant plasma Ca2+ level
+T11	Protein 270 290	A nuclear protein(s)
+T12	SPAN 291 317	in a wide variety of cells
+T13	Cells 312 317	cells
+T14	Transcription_Binding_Site 389 395	nCaREs
+T15	SPAN 422 481	sequence-specific and Ca2+e concentration-dependent manners
+T16	Protein 546 550	ref1
+T17	Transcription_Factor 581 610	several transcription factors
+T18	SPAN 615 647	alterations of their redox state
+T19	Regulator 661 685	an nCaRE binding protein
+T20	mRNA 687 709	The level of ref1 mRNA
+T21	SPAN 710 735	as well as of its protein
+T22	Protein 724 735	its protein
+T23	Inorganic_Compounds 752 786	an increase in Ca2+e concentration
+T24	Protein 808 826	anti-ref1 antibody
+T25	Protein_Complex 851 876	the nCaRE-protein complex
+T26	Protein 907 925	another protein(s)
+T27	Regulator 943 958	nCaREs and ref1
+T28	SPAN 1072 1100	DNA (nCaRE)-ref1 interaction
+T29	SPAN 1108 1138	Ca2+e-mediated transcriptional
+T30	Regulator 1179 1183	ref1
+T31	SPAN 1194 1226	transcription repressor activity

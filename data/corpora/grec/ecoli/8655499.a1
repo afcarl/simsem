@@ -1,0 +1,17 @@
+T1	RNA 492 507	the transcripts
+T2	Transcription 729 747	mioC transcription
+T3	Chromosome 1009 1020	chromosomes
+T4	Chromosome 1025 1040	minichromosomes
+T5	SPAN 1054 1058	mioC
+T6	SPAN 1137 1141	mioC
+T7	SPAN 1399 1403	mioC
+T8	SPAN 1473 1483	initiation
+T9	Mutant_Gene 1503 1518	minichromosomes
+T10	SPAN 1530 1540	a deletion
+T11	DNA 1544 1556	the DnaA box
+T12	Promoter 1979 2001	the mioC gene promoter
+T13	Gene 2191 2195	mioC
+T14	Regulator 2214 2234	a negative regulator
+T15	Activator 2728 2740	DnaA protein
+T16	Protein 2762 2766	oriC
+T17	SPAN 2771 2782	replication

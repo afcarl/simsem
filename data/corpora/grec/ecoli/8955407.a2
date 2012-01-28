@@ -1,0 +1,52 @@
+T49	Gene_Expression 66 76	Expression
+T50	GRE 151 160	increased
+T51	GRE 250 253	act
+T52	GRE 271 276	block
+T53	GRE 281 287	action
+T54	GRE 350 359	regulated
+T55	Gene_Repression 374 384	repression
+T56	Gene_Activation 521 531	expression
+T57	GRE 571 580	increased
+T58	Gene_Activation 724 734	expression
+T59	GRE 795 800	binds
+T60	GRE 891 898	reduced
+T61	GRE 1069 1082	The formation
+T62	GRE 1123 1132	regulated
+T63	GRE 1206 1215	repressed
+T64	GRE 1295 1303	reversed
+T65	GRE 1308 1318	inhibition
+T66	Laboratory_Technique 1334 1345	mutagenesis
+T67	GRE 1378 1385	reduced
+T68	GRE 1390 1397	binding
+T69	GRE 1402 1411	prevented
+T70	Gene_Repression 1416 1426	repression
+T71	Transcription 1434 1447	transcription
+T72	GRE 1549 1552	act
+T73	GRE 1565 1572	repress
+T74	Transcription 1599 1612	transcription
+E1	Gene_Expression:T49 Theme:T1
+E2	GRE:T50 Theme:E1 Temporal:T3
+E3	GRE:T51 Agent:T5 Descriptive-Agent:T6 Purpose:E5
+E4	GRE:T52 Agent:T5 Theme:T7
+E5	GRE:T53 Agent:T8
+E6	GRE:T54 Agent:E7 Theme:T9
+E7	Gene_Repression:T55 Agent:T10
+E8	Gene_Activation:T56 Theme:T11 Location:T12
+E9	GRE:T57 Theme:E8 Rate:T14 Temporal:T16
+E10	Gene_Activation:T58 Theme:T19 Manner:T18
+E11	GRE:T59 Agent:T20 Manner:T21 Destination:T23
+E12	GRE:T60 Agent:T26,T27 Theme:T25
+E13	GRE:T61 Theme:T28
+E14	GRE:T62 Agent:T30 Theme:E13 Manner:T29
+E15	GRE:T63 Agent:T31 Theme:E13
+E16	GRE:T64 Agent:T32,T33 Theme:E17 Manner:T34,T35
+E17	GRE:T65 Agent:T36
+E18	Laboratory_Technique:T66 Manner:T37
+E19	GRE:T67 Agent:E18 Theme:E20 Manner:T41,T42
+E20	GRE:T68 Agent:T38
+E21	GRE:T69 Agent:E18 Theme:E22 Manner:T41,T42
+E22	Gene_Repression:T70 Agent:T39 Theme:E23
+E23	Transcription:T71 Theme:T40
+E24	GRE:T72 Agent:T43 Agent:T44,T45 Manner:T46 Purpose:E25
+E25	GRE:T73 Agent:T43 Agent:T44,T45 Theme:E26 Manner:T47
+E26	Transcription:T74 Theme:T48

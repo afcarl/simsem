@@ -1,0 +1,12 @@
+T11	GRE 14 21	encodes
+T12	Mutation 131 140	Mutations
+T13	Null_Mutation 285 297	Inactivation
+T14	Gene_Expression 336 346	expression
+T15	GRE 387 391	acts
+T16	GRE 448 457	regulates
+E1	GRE:T11 Agent:T1 Theme:T2
+E2	Mutation:T12 Location:T3
+E3	Null_Mutation:T13 Theme:T5
+E4	Gene_Expression:T14 Theme:T6
+E5	GRE:T15 Agent:T7 Descriptive-Agent:T8
+E6	GRE:T16 Agent:T9 Theme:T10

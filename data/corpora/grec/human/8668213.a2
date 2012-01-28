@@ -1,0 +1,46 @@
+T47	GRE 29 38	regulated
+T48	GRE 69 77	mediates
+T49	Transcription 78 91	transcription
+T50	GRE 161 165	play
+T51	Transcription 184 197	transcription
+T52	GRE 390 399	expressed
+T53	GRE 434 443	expressed
+T54	GRE 484 493	regulated
+T55	GRE 643 658	Transactivation
+T56	GRE 698 706	requires
+T57	GRE 712 723	stimulation
+T58	GRE 808 820	coexpression
+T59	GRE 1010 1022	translocates
+T60	GRE 1086 1097	stimulation
+T61	GRE 1104 1113	expressed
+T62	GRE 1157 1172	transactivation
+T63	GRE 1188 1197	regulated
+T64	GRE 1275 1283	affected
+T65	GRE 1287 1298	stimulation
+T66	GRE 1390 1397	mediate
+T67	Transcription 1398 1411	transcription
+T68	GRE 1575 1586	contributes
+T69	Transcription 1608 1621	transcription
+E1	GRE:T47 Agent:T2 Theme:T1 Location:T3
+E2	GRE:T48 Agent:T1 Theme:E3
+E3	Transcription:T49 Theme:T5
+E4	GRE:T50 Agent:T6 Theme:T7 Descriptive-Theme:E5
+E5	Transcription:T51 Theme:T8,T9 Temporal:T10
+E6	GRE:T52 Theme:T11 Location:T12
+E7	GRE:T53 Location:T14
+E8	GRE:T54 Theme:T16 Agent:T17
+E9	GRE:T55 Agent:T18 Location:T19
+E10	GRE:T56 Agent:E9 Theme:E11
+E11	GRE:T57 Agent:T22,T23 Manner:T21
+E12	GRE:T58 Theme:T24
+E13	GRE:T59 Agent:T25 Manner:T27 Destination:T26
+E14	GRE:T60 Agent:T28
+E15	GRE:T61 Location:T29
+E16	GRE:T62 Agent:T31 Temporal:E15
+E17	GRE:T63 Theme:T31
+E18	GRE:T64 Agent:E19 Theme:T32
+E19	GRE:T65 Agent:T34,T35 Theme:T33
+E20	GRE:T66 Agent:T36 Theme:E21
+E21	Transcription:T67 Theme:T37,T38,T39,T40 Location:T41
+E22	GRE:T68 Agent:T43 Theme:E23
+E23	Transcription:T69 Theme:T45 Manner:T44 Temporal:T46

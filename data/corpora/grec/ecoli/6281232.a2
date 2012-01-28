@@ -1,0 +1,36 @@
+T28	GRE 32 37	study
+T29	Regulation 120 130	regulation
+T30	GRE 171 179	composed
+T31	GRE 193 199	coding
+T32	GRE 212 220	involved
+T33	GRE 274 284	controlled
+T34	Gene_Expression 362 372	expression
+T35	GRE 470 475	study
+T36	Transcription 761 772	transcribed
+T37	GRE 852 864	Introduction
+T38	GRE 973 981	resulted
+T39	GRE 987 995	decrease
+T40	GRE 1018 1027	synthesis
+T41	Gene_Expression 1051 1061	expression
+T42	Gene_Repression 1089 1098	repressed
+T43	Gene_Activation 1186 1195	induction
+T44	Gene_Repression 1273 1283	repression
+T45	GRE 1323 1328	occur
+E1	GRE:T28 Theme:T2 Instrument:T1
+E2	Regulation:T29 Theme:T3
+E3	GRE:T30 Theme:T4 Descriptive-Theme:T5
+E4	GRE:T31 Agent:T5 Theme:E5
+E5	GRE:T32 Theme:T6 Descriptive-Theme:T7
+E6	GRE:T33 Agent:T10 Theme:T8 Manner:T9
+E7	Gene_Expression:T34 Theme:T12
+E8	GRE:T35 Theme:T13 Instrument:T11
+E9	Transcription:T36 Theme:T14 Manner:T15
+E10	GRE:T37 Theme:T17 Destination:T20
+E11	GRE:T38 Agent:E10 Theme:E12
+E12	GRE:T39 Theme:E13
+E13	GRE:T40 Theme:T22
+E14	Gene_Expression:T41 Theme:T23
+E15	Gene_Repression:T42 Agent:T24 Theme:E14
+E16	Gene_Activation:T43 Agent:T25
+E17	Gene_Repression:T44 Agent:T26 Theme:T27
+E18	GRE:T45 Theme:E17 Descriptive-Theme:T27

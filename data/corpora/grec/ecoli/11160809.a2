@@ -1,0 +1,18 @@
+T18	GRE 23 30	binding
+T19	GRE 128 138	identified
+T20	GRE 223 235	demonstrated
+T21	Gene_Expression 410 420	expression
+T22	Gene_Repression 484 494	suppressed
+T23	Gene_Activation 533 541	enhanced
+T24	GRE 545 553	reducing
+T25	Regulation 626 635	regulates
+T26	Gene_Expression 636 646	expression
+E1	GRE:T18 Agent:T1 Destination:T2
+E2	GRE:T19 Theme:T3 Location:T4
+E3	GRE:T20 Theme:T5 Instrument:T6
+E4	Gene_Expression:T21 Theme:T9 Source:T10
+E5	Gene_Repression:T22 Agent:T11 Theme:E4 Location:T7
+E6	Gene_Activation:T23 Agent:E7 Theme:E4 Location:T7
+E7	GRE:T24 Theme:T13
+E8	Regulation:T25 Agent:T14 Theme:E9 Manner:T15 Condition:T17
+E9	Gene_Expression:T26 Theme:T16

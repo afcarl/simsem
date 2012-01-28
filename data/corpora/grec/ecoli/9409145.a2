@@ -1,0 +1,16 @@
+T16	GRE 169 176	derived
+T17	GRE 885 893	contains
+T18	GRE 923 927	bind
+T19	GRE 956 964	activate
+T20	Transcription 965 978	transcription
+T21	GRE 1876 1885	recognize
+T22	GRE 2088 2095	protect
+T23	GRE 2243 2252	recognize
+E1	GRE:T16 Theme:T1 Source:T2
+E2	GRE:T17 Theme:T3 Descriptive-Theme:E3
+E3	GRE:T18 Theme:T4 Destination:T5
+E4	GRE:T19 Agent:T4 Theme:E5
+E5	Transcription:T20 Source:T6
+E6	GRE:T21 Agent:T7 Theme:T8
+E7	GRE:T22 Agent:T9 Theme:T10 Location:T11
+E8	GRE:T23 Agent:T13 Theme:T14 Location:T15

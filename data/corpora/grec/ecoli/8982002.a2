@@ -1,0 +1,26 @@
+T24	GRE 281 286	binds
+T25	GRE 351 358	encodes
+T26	GRE 468 479	controlling
+T27	Gene_Expression 480 490	expression
+T28	GRE 516 521	codes
+T29	GRE 628 633	codes
+T30	GRE 779 784	binds
+T31	GRE 942 949	binding
+T32	GRE 1007 1016	represses
+T33	GRE 1197 1207	regulating
+T34	Gene_Expression 1208 1218	expression
+T35	GRE 1262 1269	encoded
+T36	GRE 1311 1318	binding
+E1	GRE:T24 Agent:T1 Theme:T2,T5
+E2	GRE:T25 Agent:T3 Theme:T4
+E3	GRE:T26 Agent:T5 Theme:E4
+E4	Gene_Expression:T27 Theme:T6
+E5	GRE:T28 Agent:T6 Theme:T7
+E6	GRE:T29 Agent:T8 Theme:T9
+E7	GRE:T30 Agent:T10 Theme:T12,T14
+E8	GRE:T31 Agent:T15 Theme:T16
+E9	GRE:T32 Agent:T15 Theme:T18 Manner:T17
+E10	GRE:T33 Agent:T19 Theme:E11
+E11	Gene_Expression:T34 Theme:T20
+E12	GRE:T35 Agent:T21 Theme:T20
+E13	GRE:T36 Agent:T23 Destination:T22

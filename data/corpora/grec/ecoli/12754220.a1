@@ -1,0 +1,14 @@
+T1	Gene 334 339	genes
+T2	SPAN 352 375	the regulatory networks
+T3	Gene 528 539	these genes
+T4	Regulator 616 619	FNR
+T5	Gene 698 707	the genes
+T6	SPAN 718 731	during growth
+T7	SPAN 738 756	aerobic conditions
+T8	SPAN 774 827	E. coli cells transition to an anaerobic growth state
+T9	Gene 869 880	these genes
+T10	SPAN 892 900	directly
+T11	SPAN 904 914	indirectly
+T12	Regulator 928 931	FNR
+T13	Regulator 994 1001	the FNR
+T14	Regulator 1049 1052	Lrp

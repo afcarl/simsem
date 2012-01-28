@@ -1,0 +1,30 @@
+T1	Inorganic_Compounds 0 7	Nitrate
+T2	Operon 22 53	the Escherichia coli pfl operon
+T3	Protein 69 99	the dual sensors NarQ and NarX
+T4	Regulator 104 137	the dual regulators NarL and NarP
+T5	Operon 140 154	The pfl operon
+T6	SPAN 171 182	high levels
+T7	SPAN 183 196	anaerobically
+T8	SPAN 198 204	Growth
+T9	SPAN 272 275	45%
+T10	Gene_Expression 288 298	expression
+T11	SPAN 299 340	when cells were cultivated in rich medium
+T12	Inorganic_Compounds 342 349	Nitrate
+T13	SPAN 399 408	sevenfold
+T14	SPAN 410 456	when the cells were cultured in minimal medium
+T15	Operon 472 475	pfl
+T16	Inorganic_Compounds 490 497	nitrate
+T17	Protein 515 554	the NarL, NarP, NarQ, and NarX proteins
+T18	Operon 649 652	pfl
+T19	Mutant_Bacteria 665 672	Strains
+T20	Inorganic_Compounds 836 843	nitrate
+T21	Mutant_Bacteria 869 912	narL narP and narX narQ double null mutants
+T22	Inorganic_Compounds 928 935	nitrate
+T23	Inorganic_Compounds 999 1006	nitrate
+T24	SPAN 1019 1027	1.3-fold
+T25	SPAN 1029 1057	when grown in minimal medium
+T26	DNA 1110 1127	the DNA sequences
+T27	Inorganic_Compounds 1148 1155	nitrate
+T28	Promoter 1170 1204	the pfl promoter-regulatory region
+T29	Laboratory_Technique 1206 1234	DNase I footprinting studies
+T30	Transcription_Binding_Site 1246 1274	five potential binding sites

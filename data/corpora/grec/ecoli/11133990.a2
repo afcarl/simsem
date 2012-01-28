@@ -1,0 +1,4 @@
+T5	GRE 463 472	functions
+T6	GRE 781 786	binds
+E1	GRE:T5 Agent:T1 Descriptive-Agent:T2
+E2	GRE:T6 Agent:T3 Destination:T4

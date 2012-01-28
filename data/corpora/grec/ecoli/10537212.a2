@@ -1,0 +1,60 @@
+T46	Regulation 16 26	regulation
+T47	GRE 76 84	encoding
+T48	GRE 139 148	Synthesis
+T49	Gene_Activation 207 214	induced
+T50	Gene_Repression 250 259	repressed
+T51	GRE 354 361	encoded
+T52	GRE 470 479	determine
+T53	Transcription 503 516	transcription
+T54	GRE 621 628	examine
+T55	Regulation 649 659	regulation
+T56	Gene_Expression 680 690	Expression
+T57	Gene_Activation 703 710	induced
+T58	Gene_Repression 731 740	repressed
+T59	Gene_Activation 825 834	induction
+T60	GRE 924 932	enhanced
+T61	GRE 993 1003	suppresses
+T62	GRE 1018 1028	expression
+T63	GRE 1091 1099	involved
+T64	GRE 1103 1114	controlling
+T65	Gene_Activation 1125 1134	induction
+T66	GRE 1145 1155	expression
+T67	Gene_Repression 1165 1175	repression
+T68	Gene_Expression 1183 1193	expression
+T69	GRE 1198 1206	mediated
+T70	GRE 1298 1304	lacked
+T71	Gene_Activation 1315 1324	induction
+T72	Gene_Activation 1392 1401	induction
+T73	Gene_Repression 1529 1539	repression
+T74	GRE 1562 1570	mediated
+T75	Gene_Expression 1743 1753	expression
+E1	Regulation:T46 Theme:E2 Manner:T1 Condition:T2,T3
+E2	GRE:T47 Agent:T1 Theme:T4
+E3	GRE:T48 Theme:T5
+E4	Gene_Activation:T49 Theme:E3 Condition:T6
+E5	Gene_Repression:T50 Theme:E3 Condition:T7
+E6	GRE:T51 Agent:T9 Theme:T8
+E7	GRE:T52 Theme:T11 Instrument:T10
+E8	Transcription:T53 Theme:T12
+E9	GRE:T54 Theme:T14 Instrument:T13
+E10	Regulation:T55 Theme:T16 Manner:T15
+E11	Gene_Expression:T56 Theme:T17
+E12	Gene_Activation:T57 Agent:T18 Theme:E11
+E13	Gene_Repression:T58 Agent:T19 Theme:E11
+E14	Gene_Activation:T59 Agent:T22 Theme:T21 Manner:T20
+E15	GRE:T60 Agent:T23 Theme:E14
+E16	GRE:T61 Agent:T24 Theme:E17
+E17	GRE:T62 Theme:T26 Condition:T25
+E18	GRE:T63 Theme:T27 Descriptive-Theme:E21
+E19	GRE:T64 Theme:E20
+E20	Gene_Activation:T65 Theme:T30 Condition:T28
+E21	GRE:T66 Theme:T29
+E22	Gene_Repression:T67 Agent:T31 Theme:E23
+E23	Gene_Expression:T68 Theme:T32
+E24	GRE:T69 Agent:T33 Theme:E22
+E25	GRE:T70 Theme:T34 Descriptive-Theme:E26
+E26	Gene_Activation:T71 Theme:T36 Manner:T35 Condition:T37
+E27	Gene_Activation:T72 Theme:T39 Manner:T38 Condition:T40
+E28	Gene_Repression:T73 Agent:T41 Theme:T42
+E29	GRE:T74 Agent:T43,T44 Theme:E28
+E30	Gene_Expression:T75 Theme:T45

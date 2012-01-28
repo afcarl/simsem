@@ -1,0 +1,34 @@
+T32	Regulation 0 10	Regulation
+T33	GRE 136 143	encodes
+T34	Gene_Expression 196 206	Expression
+T35	GRE 342 351	repressed
+T36	Gene_Expression 446 456	expression
+T37	GRE 460 469	activated
+T38	Gene_Expression 553 563	Expression
+T39	GRE 580 586	varies
+T40	GRE 829 837	interact
+T41	GRE 878 882	bind
+T42	GRE 966 973	prevent
+T43	GRE 987 996	formation
+T44	GRE 1004 1011	repress
+T45	Transcription 1016 1029	transcription
+T46	GRE 1091 1100	represses
+T47	Gene_Expression 1105 1115	expression
+T48	GRE 1391 1399	interact
+E1	Regulation:T32 Agent:T2,T3 Theme:T1
+E2	GRE:T33 Agent:T4 Theme:T5
+E3	Gene_Expression:T34 Theme:T6
+E4	GRE:T35 Agent:T9 Theme:T8 Condition:T7
+E5	Gene_Expression:T36 Theme:T11
+E6	GRE:T37 Agent:T12 Theme:E5 Condition:T10,T14 Temporal:T13
+E7	Gene_Expression:T38 Theme:T15
+E8	GRE:T39 Agent:E7 Condition:T17 Temporal:T16
+E9	GRE:T40 Agent:T18,T19 Agent:T20
+E10	GRE:T41 Agent:T21 Destination:T22
+E11	GRE:T42 Agent:T21 Theme:E12
+E12	GRE:T43 Theme:T23
+E13	GRE:T44 Agent:T21 Theme:E14
+E14	Transcription:T45 Theme:T24 Manner:T25
+E15	GRE:T46 Agent:T26 Theme:E16
+E16	Gene_Expression:T47 Theme:T27 Manner:T28
+E17	GRE:T48 Agent:T29,T30 Agent:T31

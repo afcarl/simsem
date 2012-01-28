@@ -1,0 +1,44 @@
+T33	GRE 13 20	control
+T34	GRE 191 198	encodes
+T35	Transcription 263 274	transcribed
+T36	GRE 325 330	codes
+T37	Gene_Expression 781 791	expression
+T38	GRE 898 906	addition
+T39	GRE 915 924	increased
+T40	Gene_Expression 929 939	expression
+T41	GRE 951 958	reduced
+T42	Gene_Expression 963 973	expression
+T43	GRE 1022 1034	introduction
+T44	GRE 1107 1115	enhanced
+T45	Gene_Expression 1120 1130	expression
+T46	GRE 1162 1172	introduced
+T47	GRE 1212 1221	increased
+T48	Gene_Expression 1239 1249	expression
+T49	Gene_Expression 1319 1329	expression
+T50	GRE 1350 1359	regulated
+T51	Mutation 1420 1429	mutations
+T52	GRE 1487 1494	binding
+T53	GRE 1533 1543	interferes
+T54	GRE 1553 1564	interaction
+E1	GRE:T33 Agent:T1,T2 Theme:T3,T4 Location:T5
+E2	GRE:T34 Agent:T7 Theme:T8
+E3	Transcription:T35 Theme:T7 Manner:T9
+E4	GRE:T36 Agent:T10 Theme:T11
+E5	Gene_Expression:T37 Theme:T12
+E6	GRE:T38 Theme:T15
+E7	GRE:T39 Agent:E6 Theme:E8 Location:T13
+E8	Gene_Expression:T40 Theme:T16
+E9	GRE:T41 Agent:E6 Theme:E10 Location:T13
+E10	Gene_Expression:T42 Theme:T17
+E11	GRE:T43 Theme:T18 Location:T19
+E12	GRE:T44 Agent:E11 Theme:E13
+E13	Gene_Expression:T45 Theme:T21
+E14	GRE:T46 Theme:T22 Location:T23
+E15	GRE:T47 Agent:T22 Theme:E16
+E16	Gene_Expression:T48 Theme:T25
+E17	Gene_Expression:T49 Theme:T26
+E18	GRE:T50 Theme:E17
+E19	Mutation:T51 Location:T27
+E20	GRE:T52 Agent:T29 Destination:T30
+E21	GRE:T53 Agent:E20 Theme:E22
+E22	GRE:T54 Agent:T31 Agent:T32

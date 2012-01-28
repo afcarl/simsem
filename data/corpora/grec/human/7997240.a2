@@ -1,0 +1,16 @@
+T26	GRE 135 143	encoding
+T27	GRE 394 401	encodes
+T28	Gene_Expression 603 612	expressed
+T29	Gene_Activation 723 730	induced
+T30	GRE 783 788	binds
+T31	Gene_Activation 1249 1258	activated
+T32	GRE 1354 1361	require
+T33	GRE 1499 1503	bind
+E1	GRE:T26 Agent:T1 Theme:T2
+E2	GRE:T27 Agent:T3 Theme:T4
+E3	Gene_Expression:T28 Theme:T5 Location:T6
+E4	Gene_Activation:T29 Agent:T13 Theme:T11 Manner:T12 Location:T9
+E5	GRE:T30 Agent:T14 Manner:T15 Destination:T16
+E6	Gene_Activation:T31 Agent:T17 Theme:T18
+E7	GRE:T32 Agent:T19 Theme:T20,T21 Purpose:T22
+E8	GRE:T33 Agent:T23 Manner:T24 Destination:T25

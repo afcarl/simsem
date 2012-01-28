@@ -1,0 +1,44 @@
+T31	Regulation 0 10	Regulation
+T32	GRE 179 186	encoded
+T33	Gene_Expression 245 259	Overproduction
+T34	GRE 373 382	synthesis
+T35	GRE 402 413	coordinated
+T36	GRE 496 506	stimulated
+T37	Transcription 511 524	transcription
+T38	GRE 634 644	stimulated
+T39	Transcription 649 662	transcription
+T40	GRE 692 701	repressed
+T41	GRE 774 783	regulates
+T42	Transcription 788 801	transcription
+T43	GRE 829 837	affected
+T44	Transcription 847 860	transcription
+T45	GRE 877 883	effect
+T46	Regulation 907 917	regulation
+T47	Transcription 925 938	transcription
+T48	GRE 1009 1016	changes
+T49	GRE 1042 1047	occur
+T50	Regulation 1141 1151	regulation
+T51	GRE 1152 1160	controls
+T52	GRE 1175 1183	encoding
+E1	Regulation:T31 Agent:T3,T4 Theme:T1,T2 Destination:T5
+E2	GRE:T32 Agent:T8,T9 Theme:T7
+E3	Gene_Expression:T33 Theme:T10
+E4	GRE:T34 Theme:T11
+E5	GRE:T35 Theme:E4
+E6	GRE:T36 Agent:T14 Theme:E7
+E7	Transcription:T37 Theme:T15
+E8	GRE:T38 Agent:T16 Theme:E9
+E9	Transcription:T39 Theme:T17
+E10	GRE:T40 Agent:T16 Theme:T18
+E11	GRE:T41 Agent:T20 Theme:E12
+E12	Transcription:T42 Theme:T21
+E13	GRE:T43 Agent:T19 Theme:E14
+E14	Transcription:T44 Theme:T22
+E15	GRE:T45 Agent:T19 Theme:T23
+E16	Regulation:T46 Theme:E17 Manner:T24
+E17	Transcription:T47 Theme:T25
+E18	GRE:T48 Theme:T26
+E19	GRE:T49 Theme:E18 Condition:T27
+E20	Regulation:T50 Manner:T28
+E21	GRE:T51 Agent:E20 Theme:T29
+E22	GRE:T52 Agent:T29 Manner:T30

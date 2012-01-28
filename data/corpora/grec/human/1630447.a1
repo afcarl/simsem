@@ -1,0 +1,28 @@
+T1	SPAN 149 165	Alpha interferon
+T2	Transcription 177 190	transcription
+T3	Transcription_Factor 205 249	the positive transcriptional regulator ISGF3
+T4	SPAN 255 263	a latent
+T5	SPAN 267 281	an active form
+T6	SPAN 283 311	This receptor-mediated event
+T7	SPAN 319 335	in the cytoplasm
+T8	Organelles 322 335	the cytoplasm
+T9	Transcription_Factor 469 480	ISGF3 gamma
+T10	Sub_Unit 491 518	the DNA recognition subunit
+T11	Transcription_Factor 526 537	ISGF3 alpha
+T12	Sub_Unit 644 666	a regulatory component
+T13	Transcription_Factor 704 709	ISGF3
+T14	Transcription_Factor 854 865	ISGF3 gamma
+T15	DNA 916 919	DNA
+T16	Transcription_Factor 1202 1231	The other IRF family proteins
+T17	DNA 1237 1240	DNA
+T18	Transcription_Factor 1535 1546	ISGF3 gamma
+T19	Transcription_Factor 1551 1563	IRF proteins
+T20	Transcription_Factor 1568 1589	the c-myb oncoprotein
+T21	Motif 1594 1619	a common structural motif
+T22	SPAN 1624 1639	DNA recognition
+T23	Protein 1641 1664	Recombinant ISGF3 gamma
+T24	Protein 1708 1729	HeLa cell ISGF3 alpha
+T25	Protein_Complex 1738 1774	the mature ISGF3 DNA-binding complex
+T26	Transcription_Factor 1792 1816	other IRF family members
+T27	SPAN 1836 1854	signaling pathways
+T28	Sub_Unit 1875 1914	as yet unidentified regulatory subunits

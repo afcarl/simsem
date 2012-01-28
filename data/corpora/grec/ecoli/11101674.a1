@@ -1,0 +1,21 @@
+T1	Gene 67 94	The yeiL open reading frame
+T2	Protein 207 230	a CRP and FNR paralogue
+T3	SPAN 932 977	the transcription-regulatory activity of YeiL
+T4	Regulator 973 977	YeiL
+T5	DNA 1000 1030	a sensory iron-sulphur cluster
+T6	DNA 1041 1077	reversible disulphide bond formation
+T7	SPAN 1126 1133	aerobic
+T8	SPAN 1134 1138	yeiL
+T9	SPAN 1169 1176	sixfold
+T10	SPAN 1177 1200	during stationary phase
+T11	Regulator 1211 1215	RpoS
+T12	SPAN 1224 1234	positively
+T13	Regulator 1252 1256	YeiL
+T14	SPAN 1258 1268	positively
+T15	Activator 1282 1285	Lrp
+T16	Activator 1291 1294	IHF
+T17	Regulator 1313 1316	FNR
+T18	SPAN 1322 1332	negatively
+T19	Regulator 1346 1349	FNR
+T20	Gene 1472 1495	the yeiK and yeiL genes
+T21	Promoter 1529 1550	overlapping promoters

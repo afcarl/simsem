@@ -1,0 +1,4 @@
+T4	Gene_Expression 283 292	expressed
+T5	Gene_Expression 302 312	expression
+E1	Gene_Expression:T4 Theme:T1 Manner:T2
+E2	Gene_Expression:T5 Theme:T3

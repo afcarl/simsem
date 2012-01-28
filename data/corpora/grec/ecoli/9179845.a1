@@ -1,0 +1,40 @@
+T1	SPAN 10 20	a distance
+T2	Repressor 25 38	glp repressor
+T3	Operon 50 55	glpTQ
+T4	SPAN 70 94	in Escherichia coli K-12
+T5	Bacteria 73 94	Escherichia coli K-12
+T6	Operon 97 159	The adjacent, divergently transcribed glpACB and glpTQ operons
+T7	Enzyme 187 235	the anaerobic glycerol 3-phosphate dehydrogenase
+T8	Enzyme 240 290	glycerol 3-phosphate transporter/phosphodiesterase
+T9	SPAN 292 304	respectively
+T10	Operon 306 319	These operons
+T11	SPAN 324 334	negatively
+T12	Repressor 349 362	glp repressor
+T13	Operator 374 383	operators
+T14	Gene 749 760	this fusion
+T15	Repressor 764 781	the glp repressor
+T16	Operator 825 828	OT1
+T17	Operator 833 836	OT3
+T18	Laboratory_Technique 865 873	deletion
+T19	SPAN 880 893	site-directed
+T20	Operator 939 943	glpT
+T21	Repressor 968 981	glp repressor
+T22	Operator 985 999	glpA operators
+T23	SPAN 1014 1038	about three- to fourfold
+T24	Operator 1060 1085	the remote glpT operators
+T25	Operator 1329 1333	glpT
+T26	Repressor 1346 1350	GlpR
+T27	SPAN 1365 1378	about twofold
+T28	SPAN 1379 1406	in strains deficient in IHF
+T29	Repressor 1429 1433	IHF1
+T30	Repressor 1441 1445	IHF2
+T31	Gene_Repression 1456 1466	repression
+T32	SPAN 1467 1490	about two- to threefold
+T33	Repressor 1506 1509	IHF
+T34	SPAN 1607 1614	a model
+T35	Gene_Repression 1618 1628	repression
+T36	Repressor 1639 1643	GlpR
+T37	SPAN 1652 1666	simultaneously
+T38	Operator 1670 1704	the glpA and remote glpT operators
+T39	DNA 1723 1726	DNA
+T40	SPAN 1735 1741	a loop

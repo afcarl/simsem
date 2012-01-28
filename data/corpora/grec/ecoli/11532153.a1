@@ -1,0 +1,33 @@
+T1	Promoter 43 62	the glnAp2 promoter
+T2	SPAN 173 192	In Escherichia coli
+T3	Bacteria 176 192	Escherichia coli
+T4	Gene 194 198	glnA
+T5	Enzyme 209 229	glutamine synthetase
+T6	Promoter 266 272	glnAp1
+T7	Promoter 277 283	glnAp2
+T8	Promoter 286 296	The glnAp1
+T9	Activator 379 382	CRP
+T10	SPAN 391 427	nitrogen-deficient growth conditions
+T11	Promoter 429 435	glnAp1
+T12	Protein 452 466	NtrC-phosphate
+T13	Promoter 468 498	The downstream glnAp2 promoter
+T14	Protein 542 556	NtrC-phosphate
+T15	SPAN 577 583	glnAp2
+T16	Reagents 610 634	different carbon sources
+T17	Protein_Complex 644 664	the CRP-cAMP complex
+T18	Promoter 674 702	the glnAp2 promoter activity
+T19	Promoter 835 841	glnAp2
+T20	Activator 858 862	NifA
+T21	Protein_Complex 1127 1135	CRP-cAMP
+T22	Promoter 1165 1171	glnAp2
+T23	SPAN 1185 1192	21-fold
+T24	Promoter 1208 1214	glnAp1
+T25	Promoter 1234 1240	glnAp2
+T26	Protein_Complex 1264 1272	CRP-cAMP
+T27	SPAN 1276 1280	glnA
+T28	SPAN 1312 1330	fourfold reduction
+T29	Protein_Complex 1473 1481	CRP-cAMP
+T30	Promoter 1496 1502	glnAp1
+T31	Protein_Complex 1534 1542	CRP-cAMP
+T32	Promoter 1561 1567	glnAp2
+T33	Gene 1626 1645	the important genes

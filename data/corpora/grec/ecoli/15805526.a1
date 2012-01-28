@@ -1,0 +1,12 @@
+T1	Operon 277 295	the prpBCDE operon
+T2	Transcription_Factor 321 366	transcription factor PrpR, sigma-54, and IHF.
+T3	Gene 521 532	these genes
+T4	SPAN 553 610	the cyclic AMP (cAMP)-cAMP receptor protein (CRP) complex
+T5	Protein_Complex 569 573	cAMP
+T6	SPAN 793 800	defects
+T7	SPAN 825 832	reduced
+T8	Gene 863 879	prpR and prpBCDE
+T9	Wild_Type_Bacteria 883 899	Escherichia coli
+T10	Regulation 1043 1058	this regulation
+T11	Gene 1099 1118	regulator gene prpR
+T12	Operon 1123 1141	the prpBCDE operon

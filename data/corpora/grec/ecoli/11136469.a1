@@ -1,0 +1,28 @@
+T1	Regulator 0 4	CueR
+T2	Protein 85 109	the copper exporter CopA
+T3	ORF 131 158	the open reading frame ybbI
+T4	Regulator 216 229	the regulator
+T5	Protein 276 280	CopA
+T6	Gene 282 297	In vivo studies
+T7	SPAN 327 331	cueR
+T8	SPAN 383 399	copper tolerance
+T9	SPAN 400 413	during growth
+T10	Gene 434 438	cueR
+T11	Gene 454 458	copA
+T12	Gene 479 488	copA gene
+T13	Regulator 517 521	cueR
+T14	Inorganic_Compounds 529 550	copper or silver ions
+T15	Gene 566 586	a lacZ reporter gene
+T16	SPAN 722 734	more rapidly
+T17	Inorganic_Compounds 750 775	silver ion concentrations
+T18	Regulator 893 909	the CueR protein
+T19	SPAN 916 924	in vitro
+T20	Promoter 928 955	a dyad symmetrical sequence
+T21	Regulator 1009 1013	CueR
+T22	SPAN 1029 1037	in vitro
+T23	RNA_Polymerase 1078 1092	RNA polymerase
+T24	Inorganic_Compounds 1109 1120	copper ions
+T25	Regulator 1153 1157	CueR
+T26	SPAN 1159 1173	RNA polymerase
+T27	SPAN 1178 1189	copper ions
+T28	Protein_Complex 1191 1237	permanganate-sensitive transcription complexes

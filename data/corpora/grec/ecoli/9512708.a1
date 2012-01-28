@@ -1,0 +1,21 @@
+T1	SPAN 0 13	FruR-mediated
+T2	SPAN 14 29	transcriptional
+T3	Promoter 44 61	the ppsA promoter
+T4	Gene 119 132	the ppsA gene
+T5	Regulator 168 195	the regulatory protein FruR
+T6	Promoter 296 313	the ppsA promoter
+T7	RNA_Polymerase 326 340	RNA polymerase
+T8	Regulator 344 355	FruR factor
+T9	Regulator 520 524	FruR
+T10	DNA 534 553	a target DNA region
+T11	Locus 570 584	position -45.5
+T12	Regulator 694 698	FruR
+T13	SPAN 707 719	a sharp bend
+T14	Promoter 817 830	ppsA promoter
+T15	Mutant_Gene 1092 1097	L262A
+T16	Mutant_Gene 1106 1111	R265A
+T17	Mutant_Gene 1123 1128	N268A
+T18	SPAN 1188 1205	the FruR-mediated
+T19	Promoter 1220 1237	the ppsA promoter
+T20	SPAN 1276 1305	the upstream element-mediated
+T21	Promoter 1320 1339	the rrnBP1 promoter

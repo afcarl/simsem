@@ -1,0 +1,21 @@
+T1	Protein_Complex 48 53	E-RC1
+T2	SPAN 71 102	tissue-specific transcriptional
+T3	Transcription_Factor 117 121	EKLF
+T4	SPAN 122 130	in vitro
+T5	SPAN 187 201	stage-specific
+T6	Gene 216 242	the human beta-globin gene
+T7	Transcription_Factor 257 261	EKLF
+T8	Protein_Complex 358 363	E-RC1
+T9	Promoter 380 449	DNase I hypersensitive, transcriptionally active beta-globin promoter
+T10	SPAN 450 472	on chromatin templates
+T11	SPAN 473 481	in vitro
+T12	Protein_Complex 483 488	E-RC1
+T13	Sub_Unit 498 545	BRG1, BAF170, BAF155, and INI1 (BAF47) homologs
+T14	Protein_Complex 702 707	E-RC1
+T15	SPAN 809 844	chromatin-assembled HIV-1 templates
+T16	Transcription_Factor 889 919	a member of the SWI/SNF family
+T17	SPAN 925 933	directly
+T18	SPAN 937 952	transcriptional
+T19	Gene 981 997	subsets of genes
+T20	SPAN 1001 1012	selectively
+T21	Transcription_Factor 1030 1059	specific DNA-binding proteins

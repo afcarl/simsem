@@ -1,0 +1,10 @@
+T11	Regulation 13 22	regulates
+T12	Gene_Expression 39 49	expression
+T13	Gene_Activation 282 291	activates
+T14	Gene_Activation 774 783	activated
+T15	Gene_Expression 887 897	expression
+E1	Regulation:T11 Agent:T1 Theme:E2 Manner:T3
+E2	Gene_Expression:T12 Theme:T2
+E3	Gene_Activation:T13 Agent:T4 Theme:T5 Manner:T6
+E4	Gene_Activation:T14 Agent:T9 Theme:T7 Manner:T8
+E5	Gene_Expression:T15 Theme:T10

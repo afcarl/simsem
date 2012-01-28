@@ -1,0 +1,16 @@
+T1	Enzyme 84 105	formate dehydrogenase
+T2	SPAN 148 167	in Escherichia coli
+T3	Wild_Type_Bacteria 151 167	Escherichia coli
+T4	Peptide 189 217	the product of the fhlA gene
+T5	Gene 236 240	fdhF
+T6	SPAN 343 372	in an fhlA genetic background
+T7	Mutant_Bacteria 346 372	an fhlA genetic background
+T8	SPAN 384 400	in the fhlA gene
+T9	Gene 387 400	the fhlA gene
+T10	SPAN 416 426	production
+T11	Gene 588 601	the two genes
+T12	SPAN 621 640	opposite directions
+T13	Gene 642 655	The fhlA gene
+T14	Protein 666 682	a 78-kDa protein
+T15	Gene 704 707	fdv
+T16	Protein 719 736	an 82-kDa protein

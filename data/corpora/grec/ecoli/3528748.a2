@@ -1,0 +1,34 @@
+T40	Mutation 232 241	mutations
+T41	GRE 259 269	suppressed
+T42	GRE 305 310	lacks
+T43	Mutation 418 426	mutation
+T44	GRE 731 740	mutations
+T45	GRE 763 772	extending
+T46	GRE 792 800	resulted
+T47	Gene_Expression 821 831	expression
+T48	GRE 850 860	containing
+T49	GRE 976 981	codes
+T50	GRE 1282 1289	lacking
+T51	Mutation 1413 1422	mutations
+T52	GRE 1449 1458	extending
+T53	GRE 1497 1509	Introduction
+T54	GRE 1608 1623	Complementation
+T55	GRE 1667 1675	reversed
+T56	GRE 1742 1746	acts
+E1	Mutation:T40 Theme:T1 Manner:T2
+E2	GRE:T41 Agent:T3 Theme:T4 Location:T5
+E3	GRE:T42 Theme:T6 Descriptive-Theme:T7
+E4	Mutation:T43 Manner:T8 Location:T9
+E5	GRE:T44 Theme:T11 Manner:T12
+E6	GRE:T45 Theme:T13 Manner:T15 Source:T16
+E7	GRE:T46 Theme:E5,T13,T14 Descriptive-Theme:E8
+E8	Gene_Expression:T47 Theme:T18 Manner:T17
+E9	GRE:T48 Theme:T18 Descriptive-Theme:T19,T20,T21,T22
+E10	GRE:T49 Agent:T23 Theme:T24
+E11	GRE:T50 Theme:T25 Descriptive-Theme:T26
+E12	Mutation:T51 Theme:T27 Manner:T28 Location:T29
+E13	GRE:T52 Theme:T31 Source:T32
+E14	GRE:T53 Theme:T33
+E15	GRE:T54 Agent:T35 Theme:T34
+E16	GRE:T55 Agent:E15 Theme:T36 Temporal:T37
+E17	GRE:T56 Agent:T38 Descriptive-Agent:T39

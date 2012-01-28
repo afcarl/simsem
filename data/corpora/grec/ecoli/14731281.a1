@@ -1,0 +1,15 @@
+T1	Operon 169 201	The agaZVWEFASYBCDI gene cluster
+T2	Enzyme 210 252	the phosphotransferase systems and enzymes
+T3	SPAN 713 724	Divergently
+T4	Operon 742 759	this gene cluster
+T5	Gene 763 776	the gene agaR
+T6	Repressor 786 813	a transcriptional repressor
+T7	Promoter 941 960	All three promoters
+T8	Gene_Expression 974 982	activity
+T9	Organic_Compounds 1002 1040	N-acetylgalactosamine or galactosamine
+T10	SPAN 1057 1064	in vivo
+T11	Repressor 1068 1072	AgaR
+T12	Transcription_Binding_Site 1087 1113	specific DNA-binding sites
+T13	SPAN 1123 1152	upstream from the start sites
+T14	Promoter 1266 1278	the promoter
+T15	Activator 1325 1333	cAMP-CRP

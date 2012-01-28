@@ -1,0 +1,50 @@
+T1	Transcription_Factor 6 11	Spi-1
+T2	Gene_Expression 27 41	its expression
+T3	SPAN 42 58	in myeloid cells
+T4	Cells 45 58	myeloid cells
+T5	Transcription_Factor 67 72	Spi-1
+T6	SPAN 151 215	in myeloid (granulocytes, monocytes and macrophages) and B cells
+T7	Cells 154 161	myeloid
+T8	Gene 217 221	PU.1
+T9	SPAN 237 290	early during commitment of multipotential progenitors
+T10	Cells 264 290	multipotential progenitors
+T11	SPAN 333 346	PU.1 function
+T12	SPAN 347 373	in human CD34+ progenitors
+T13	Cells 350 373	human CD34+ progenitors
+T14	SPAN 374 400	prior to this upregulation
+T15	Regulation 383 400	this upregulation
+T16	SPAN 408 432	myeloid colony formation
+T17	Gene 440 444	PU.1
+T18	SPAN 472 507	a role in hematopoietic development
+T19	Promoter 565 589	the murine PU.1 promoter
+T20	Promoter 602 620	the human promoter
+T21	SPAN 634 649	tissue-specific
+T22	Gene 650 663	reporter gene
+T23	SPAN 675 696	in myeloid cell lines
+T24	Cells 678 696	myeloid cell lines
+T25	SPAN 812 847	tissue-specific functional elements
+T26	SPAN 860 905	in the -61 to -39 bp and -7 to +34 bp regions
+T27	Locus 863 880	the -61 to -39 bp
+T28	Locus 885 905	-7 to +34 bp regions
+T29	Locus 1002 1012	The second
+T30	Transcription_Binding_Site 1022 1036	a binding site
+T31	SPAN 1037 1046	at +20 bp
+T32	SPAN 1154 1175	a hypersensitive band
+T33	SPAN 1206 1238	in myeloid cells but not in HeLa
+T34	Cells 1209 1222	myeloid cells
+T35	Transcription_Binding_Site 1254 1267	the PU.1 site
+T36	SPAN 1284 1296	PU.1 binding
+T37	Gene_Expression 1304 1347	a significant decrease in promoter activity
+T38	Transcription_Binding_Site 1361 1384	the Oct and/or Sp1 site
+T39	SPAN 1396 1434	a lesser decrease of promoter activity
+T40	Gene_Expression 1417 1434	promoter activity
+T41	SPAN 1435 1451	in myeloid cells
+T42	Cells 1438 1451	myeloid cells
+T43	Laboratory_Technique 1453 1468	Co-transfection
+T44	Promoter 1546 1564	a minimal promoter
+T45	SPAN 1576 1597	the PU.1 binding site
+T46	Transcription_Factor 1615 1619	PU.1
+T47	Promoter 1633 1658	its own promoter elements
+T48	SPAN 1662 1684	an autoregulatory loop
+T49	SPAN 1686 1694	Positive
+T50	Promoter 1713 1730	the PU.1 promoter

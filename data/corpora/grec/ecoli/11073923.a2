@@ -1,0 +1,28 @@
+T39	Gene_Activation 19 29	activation
+T40	GRE 168 175	encodes
+T41	Gene_Activation 240 249	activated
+T42	GRE 471 479	required
+T43	Gene_Activation 489 499	activation
+T44	Gene_Expression 509 519	expression
+T45	Gene_Activation 550 560	activation
+T46	GRE 699 709	activating
+T47	GRE 895 903	required
+T48	Gene_Activation 1031 1039	activate
+T49	Gene_Activation 1131 1141	activation
+T50	GRE 1204 1212	involves
+T51	GRE 1452 1459	effects
+T52	Gene_Activation 1804 1814	activation
+E1	Gene_Activation:T39 Agent:T3,T4,T5 Location:T1
+E2	GRE:T40 Agent:T6 Theme:T7,T8
+E3	Gene_Activation:T41 Agent:T9 Theme:T6 Condition:T10
+E4	GRE:T42 Theme:T11,T12 Purpose:E5
+E5	Gene_Activation:T43 Theme:E6
+E6	Gene_Expression:T44 Theme:T13
+E7	Gene_Activation:T45 Agent:T14,T15 Location:T16
+E8	GRE:T46 Agent:T18 Theme:T19
+E9	GRE:T47 Theme:T20 Purpose:T22
+E10	Gene_Activation:T48 Agent:T23,T24 Theme:T25 Condition:T26
+E11	Gene_Activation:T49 Agent:T27 Theme:T25
+E12	GRE:T50 Theme:T28 Descriptive-Theme:T29,T30
+E13	GRE:T51 Agent:T32,T33,T34 Theme:T35
+E14	Gene_Activation:T52 Agent:T36,T37,T38

@@ -1,0 +1,29 @@
+T1	Operon 28 44	the glpFK operon
+T2	Protein 54 84	glycerol diffusion facilitator
+T3	Enzyme 89 104	glycerol kinase
+T4	Gene 242 255	The glpF gene
+T5	Protein 264 294	a cytoplasmic membrane protein
+T6	Gene 354 367	The glpK gene
+T7	Enzyme 376 391	glycerol kinase
+T8	SPAN 1017 1030	Binding sites
+T9	Laboratory_Technique 1121 1141	DNase I footprinting
+T10	Locus 1143 1153	The region
+T11	Protein_Complex 1167 1187	the cAMP.CRP complex
+T12	Transcription_Binding_Site 1266 1279	The CRP sites
+T13	SPAN 1294 1360	at 37.5 and 60.5 base pairs upstream of the start of transcription
+T14	Locus 1297 1321	37.5 and 60.5 base pairs
+T15	Repressor 1362 1379	The glp repressor
+T16	Locus 1390 1407	an extensive area
+T17	Transcription_Binding_Site 1522 1550	Two additional binding sites
+T18	SPAN 1585 1614	within the glpK coding region
+T19	ORF 1592 1614	the glpK coding region
+T20	DNA 1616 1623	The DNA
+T21	Operator 1635 1654	these two operators
+T22	SPAN 1655 1670	synergistically
+T23	SPAN 1681 1702	the apparent affinity
+T24	DNA 1724 1737	DNA fragments
+T25	Operator 1749 1767	the four operators
+T26	SPAN 1768 1790	in the promoter region
+T27	Promoter 1771 1790	the promoter region
+T28	Organic_Compounds 2288 2298	catabolite
+T29	Organic_Compounds 2432 2442	catabolite

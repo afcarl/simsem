@@ -1,0 +1,30 @@
+T36	Regulation 16 26	regulation
+T37	GRE 105 113	contains
+T38	Transcription 194 206	transcribing
+T39	Gene_Activation 804 814	activation
+T40	GRE 829 836	encodes
+T41	GRE 1025 1035	expression
+T42	GRE 1039 1048	initiated
+T43	Gene_Activation 1096 1105	activated
+T44	Gene_Repression 1162 1171	repressed
+T45	Gene_Expression 1207 1217	expression
+T46	Gene_Activation 1221 1230	activated
+T47	Gene_Repression 1242 1251	repressed
+T48	Transcription 1342 1355	transcription
+T49	GRE 1393 1402	initiated
+T50	GRE 1421 1431	containing
+E1	Regulation:T36 Theme:T2,T3 Manner:T1
+E2	GRE:T37 Theme:T4 Descriptive-Theme:T5,T6
+E3	Transcription:T38 Agent:T7 Source:T8,T9
+E4	Gene_Activation:T39 Theme:T10 Condition:T11
+E5	GRE:T40 Agent:T12 Theme:T13
+E6	GRE:T41 Theme:T14
+E7	GRE:T42 Agent:T15 Theme:E6 Source:T16
+E8	Gene_Activation:T43 Agent:T18,T19,T20,T21 Theme:E6 Source:T17
+E9	Gene_Repression:T44 Agent:T22,T23 Theme:E6
+E10	Gene_Expression:T45 Theme:T24
+E11	Gene_Activation:T46 Agent:T25 Theme:E10
+E12	Gene_Repression:T47 Agent:T26,T28,T29 Theme:E10 Source:T30
+E13	Transcription:T48 Theme:T31,T32,T33
+E14	GRE:T49 Agent:T34 Theme:E13
+E15	GRE:T50 Theme:T34 Descriptive-Theme:T35

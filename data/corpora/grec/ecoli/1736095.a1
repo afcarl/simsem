@@ -1,0 +1,24 @@
+T1	SPAN 0 8	In vitro
+T2	Regulator 25 48	integration host factor
+T3	Promoter 54 89	the ompF promoter-regulatory region
+T4	Mutant_Bacteria 171 178	mutants
+T5	Protein 235 239	OmpF
+T6	Regulator 349 352	IHF
+T7	SPAN 363 371	directly
+T8	Promoter 377 401	the ompF promoter region
+T9	Regulator 473 476	IHF
+T10	Locus 486 495	two sites
+T11	SPAN 691 702	IHF binding
+T12	SPAN 703 711	strongly
+T13	SPAN 722 744	a small intrinsic bend
+T14	Regulator 790 793	IHF
+T15	Laboratory_Technique 797 837	a purified in vitro transcription system
+T16	SPAN 838 846	strongly
+T17	SPAN 851 863	specifically
+T18	Gene 874 878	ompF
+T19	Activator 958 962	OmpR
+T20	Gene 998 1002	ompF
+T21	Regulator 1031 1034	IHF
+T22	Gene 1047 1051	ompF
+T23	Regulator 1082 1086	OmpR
+T24	Promoter 1102 1119	the ompF promoter

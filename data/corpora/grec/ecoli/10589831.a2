@@ -1,0 +1,22 @@
+T23	Gene_Activation 31 41	activation
+T24	Gene_Expression 373 383	expression
+T25	GRE 405 412	studied
+T26	GRE 459 468	specified
+T27	GRE 673 682	increased
+T28	Gene_Expression 688 698	expression
+T29	Gene_Expression 838 848	expression
+T30	Gene_Expression 967 977	expression
+T31	GRE 987 999	is activated
+T32	GRE 1070 1078	contains
+T33	Gene_Activation 1159 1169	activation
+E1	Gene_Activation:T23 Theme:T3 Manner:T1 Manner:T2 Temporal:T4
+E2	Gene_Expression:T24 Theme:T5
+E3	GRE:T25 Theme:E2 Manner:T6
+E4	GRE:T26 Theme:T8 Descriptive-Theme:T7
+E5	GRE:T27 Agent:T9,T10,T11,T12,T13 Theme:E6
+E6	Gene_Expression:T28 Theme:T14
+E7	Gene_Expression:T29 Theme:T16 Manner:T15
+E8	Gene_Expression:T30 Theme:T17
+E9	GRE:T31 Theme:E8 Temporal:T18
+E10	GRE:T32 Theme:T20 Descriptive-Theme:T21
+E11	Gene_Activation:T33 Theme:T22

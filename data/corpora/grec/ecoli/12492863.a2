@@ -1,0 +1,38 @@
+T33	Gene_Repression 37 47	repression
+T34	GRE 163 170	encodes
+T35	GRE 313 322	represses
+T36	Gene_Expression 327 337	expression
+T37	GRE 446 451	binds
+T38	GRE 487 495	overlaps
+T39	GRE 523 531	competes
+T40	GRE 573 580	leading
+T41	Gene_Repression 598 608	repression
+T42	GRE 649 654	binds
+T43	GRE 715 725	interferes
+T44	GRE 731 738	binding
+T45	GRE 826 836	identified
+T46	GRE 885 890	binds
+T47	GRE 980 987	induces
+T48	Gene_Repression 1032 1042	repression
+T49	Transcription 1051 1064	transcription
+T50	GRE 1230 1241	interaction
+T51	GRE 1298 1304	caused
+E1	Gene_Repression:T33 Agent:T3 Theme:T2 Manner:T1
+E2	GRE:T34 Agent:T4 Theme:T5,T6,T7
+E3	GRE:T35 Agent:T8 Theme:E4 Manner:T10
+E4	Gene_Expression:T36 Theme:T9
+E5	GRE:T37 Agent:T11 Destination:T12
+E6	GRE:T38 Theme:T12 Descriptive-Theme:T13
+E7	GRE:T39 Agent:T11 Agent:T14
+E8	GRE:T40 Agent:T11 Theme:E9
+E9	Gene_Repression:T41 Theme:T15
+E10	GRE:T42 Agent:T16 Destination:T17
+E11	GRE:T43 Agent:T16 Theme:E12
+E12	GRE:T44 Agent:T18 Destination:T19
+E13	GRE:T45 Theme:T20 Location:T21
+E14	GRE:T46 Agent:T24 Destination:T25 Temporal:T26
+E15	GRE:T47 Agent:T24 Theme:T27
+E16	Gene_Repression:T48 Theme:E17
+E17	Transcription:T49 Theme:T28
+E18	GRE:T50 Agent:T30 Agent:T31 Manner:T29
+E19	GRE:T51 Agent:E18 Theme:T32

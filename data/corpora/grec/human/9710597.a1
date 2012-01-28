@@ -1,0 +1,33 @@
+T1	SPAN 66 91	steroid receptor-mediated
+T2	SPAN 92 96	gene
+T3	Motif 274 279	SNURF
+T4	SPAN 301 303	AR
+T5	SPAN 335 368	in both yeast and mammalian cells
+T6	Protein 399 401	AR
+T7	Motif 406 411	SNURF
+T8	Laboratory_Technique 432 453	coimmunoprecipitation
+T9	mRNA 828 838	SNURF mRNA
+T10	SPAN 852 889	in a variety of human and rat tissues
+T11	Tissue 868 889	human and rat tissues
+T12	Motif 909 914	SNURF
+T13	SPAN 915 942	in cultured mammalian cells
+T14	Cells 918 942	cultured mammalian cells
+T15	SPAN 961 1038	androgen, glucocorticoid, and progesterone receptor-dependent transactivation
+T16	SPAN 1048 1067	basal transcription
+T17	Promoter 1073 1100	steroid-regulated promoters
+T18	Amino_Acids 1114 1162	two of the potential Zn2+ coordinating cysteines
+T19	SPAN 1174 1192	in the RING finger
+T20	Motif 1229 1234	SNURF
+T21	Transcription 1246 1265	basal transcription
+T22	Transcription 1299 1339	steroid receptor-dependent transcription
+T23	Domain 1382 1398	separate domains
+T24	SPAN 1382 1407	separate domains in SNURF
+T25	Motif 1402 1407	SNURF
+T26	SPAN 1421 1433	interactions
+T27	Motif 1469 1474	SNURF
+T28	SPAN 1501 1509	in vitro
+T29	SPAN 1515 1539	the TATA-binding protein
+T30	Domain 1545 1567	the RING finger domain
+T31	Motif 1697 1702	SNURF
+T32	SPAN 1756 1782	steroid receptor-dependent
+T33	SPAN 1756 1796	steroid receptor-dependent transcription

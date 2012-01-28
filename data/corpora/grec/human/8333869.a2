@@ -1,0 +1,12 @@
+T11	GRE 173 184	is required
+T12	Transcription 194 207	transcription
+T13	Regulation 352 362	regulation
+T14	Gene_Expression 371 381	expression
+T15	GRE 717 729	may interact
+T16	GRE 795 803	encoding
+E1	GRE:T11 Theme:T1 Purpose:T2,T3,T4
+E2	Transcription:T12 Theme:T4
+E3	Regulation:T13 Theme:E4
+E4	Gene_Expression:T14 Theme:T5 Theme:T6
+E5	GRE:T15 Agent:T7 Agent:T8
+E6	GRE:T16 Agent:T9 Theme:T10

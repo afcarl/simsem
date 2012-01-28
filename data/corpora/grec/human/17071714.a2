@@ -1,0 +1,4 @@
+T7	Gene_Expression 763 773	Expression
+T8	GRE 1440 1448	encoding
+E1	Gene_Expression:T7 Theme:T1,T2 Location:T3
+E2	GRE:T8 Agent:T5 Theme:T6

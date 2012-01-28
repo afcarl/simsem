@@ -1,0 +1,25 @@
+T1	Locus 378 393	These sequences
+T2	Regulator 454 458	GalR
+T3	Regulator 479 483	GalS
+T4	Regulator 512 515	CRP
+T5	Promoter 552 567	these promoters
+T6	Repressor 594 607	GalR and GalS
+T7	Repressor 677 681	GalS
+T8	Repressor 714 718	GalR
+T9	SPAN 720 737	transport systems
+T10	Gene 770 775	genes
+T11	Repressor 828 832	GalS
+T12	SPAN 843 855	autogenously
+T13	Regulator 870 883	CRP dependent
+T14	Operon 926 940	The gal operon
+T15	Enzyme 950 961	the enzymes
+T16	Promoter 991 1004	two promoters
+T17	Regulator 1018 1021	CRP
+T18	Promoter 1045 1047	P1
+T19	Promoter 1078 1080	P2
+T20	Regulator 1095 1098	CRP
+T21	Promoter 1100 1114	Both promoters
+T22	SPAN 1119 1127	strongly
+T23	Repressor 1141 1145	GalR
+T24	SPAN 1150 1156	weakly
+T25	Repressor 1160 1164	GalS

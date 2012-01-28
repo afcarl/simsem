@@ -1,0 +1,46 @@
+T42	Regulation 10 20	regulation
+T43	Gene_Expression 29 39	expression
+T44	Transcription 140 153	Transcription
+T45	GRE 162 170	encoding
+T46	GRE 239 248	initiated
+T47	Transcription 285 298	transcription
+T48	Gene_Repression 302 311	repressed
+T49	Regulation 382 392	regulation
+T50	Transcription 404 417	transcription
+T51	Gene_Activation 642 651	induction
+T52	Transcription 673 686	transcription
+T53	GRE 691 698	induced
+T54	Transcription 809 822	transcription
+T55	GRE 838 847	decreased
+T56	GRE 1073 1080	assists
+T57	Gene_Repression 1090 1100	repression
+T58	Gene_Activation 1114 1124	activation
+T59	GRE 1148 1157	formation
+T60	Transcription 1299 1312	transcription
+T61	GRE 1317 1326	inhibited
+T62	Gene_Repression 1355 1365	repression
+T63	Gene_Activation 1388 1398	activation
+T64	Regulation 1433 1441	regulate
+E1	Regulation:T42 Agent:T2 Theme:E2
+E2	Gene_Expression:T43 Theme:T1
+E3	Transcription:T44 Theme:T3 Location:T5
+E4	GRE:T45 Agent:T3 Theme:T4
+E5	GRE:T46 Theme:E3 Source:T7
+E6	Transcription:T47 Theme:T8
+E7	Gene_Repression:T48 Agent:T9 Theme:E6
+E8	Regulation:T49 Theme:E9
+E9	Transcription:T50 Theme:T10
+E10	Gene_Activation:T51 Agent:T11 Theme:T12
+E11	Transcription:T52 Theme:T13
+E12	GRE:T53 Theme:E11 Condition:T16 Temporal:T14
+E13	Transcription:T54 Theme:T19
+E14	GRE:T55 Theme:E13 Location:T17 Condition:T21 Temporal:T20
+E15	GRE:T56 Agent:T22 Theme:T24,T26 Instrument:E18
+E16	Gene_Repression:T57 Theme:T23
+E17	Gene_Activation:T58 Theme:T27 Agent:T25
+E18	GRE:T59 Theme:T28 Location:T29 Condition:T31
+E19	Transcription:T60 Theme:T33
+E20	GRE:T61 Agent:T34 Theme:E19
+E21	Gene_Repression:T62 Theme:T35 Agent:T38
+E22	Gene_Activation:T63 Agent:T38 Theme:T37 Condition:T36
+E23	Regulation:T64 Agent:T39 Theme:T40 Instrument:T41

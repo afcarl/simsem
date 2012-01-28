@@ -1,0 +1,30 @@
+T1	Regulator 0 3	MAZ
+T2	Gene 37 64	c-MYC and C2 gene sequences
+T3	Transcription 76 91	transcriptional
+T4	SPAN 107 118	termination
+T5	Transcription_Binding_Site 121 126	ME1a1
+T6	Gene_Expression 256 267	P2 activity
+T7	DNA 269 275	A cDNA
+T8	Regulator 285 321	a 477-amino acid zinc finger protein
+T9	Cells 390 416	a HeLa lambda gt11 library
+T10	SPAN 646 666	in all human tissues
+T11	Tissue 649 666	all human tissues
+T12	SPAN 757 771	differentially
+T13	mRNA 782 795	minor species
+T14	Regulator 797 800	MAZ
+T15	SPAN 807 819	specifically
+T16	Transcription_Binding_Site 823 851	the wild-type ME1a1 sequence
+T17	Gene_Expression 904 915	P2 activity
+T18	SPAN 952 970	in a pMAL-c vector
+T19	Plasmid 955 970	a pMAL-c vector
+T20	Regulator 972 975	MAZ
+T21	SPAN 982 998	with specificity
+T22	Transcription_Binding_Site 1002 1019	a GA box sequence
+T23	SPAN 1004 1019	GA box sequence
+T24	Termination_Site 1065 1089	the P2 attenuator region
+T25	Termination_Site 1127 1145	a related sequence
+T26	Transcription 1162 1177	transcriptional
+T27	Gene 1193 1204	the C2 gene
+T28	Gene 1206 1209	MAZ
+T29	Transcription_Factor 1221 1243	a transcription factor
+T30	Transcription 1263 1276	transcription

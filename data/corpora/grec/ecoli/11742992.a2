@@ -1,0 +1,12 @@
+T18	GRE 288 295	binding
+T19	GRE 397 402	binds
+T20	GRE 559 563	bind
+T21	GRE 647 657	occupation
+T22	Gene_Activation 1015 1023	activate
+T23	GRE 1073 1077	bind
+E1	GRE:T18 Agent:T4,T5 Destination:T6
+E2	GRE:T19 Agent:T7 Destination:T8
+E3	GRE:T20 Agent:T10 Destination:T11 Condition:T9
+E4	GRE:T21 Theme:T12
+E5	Gene_Activation:T22 Agent:T14,T15 Theme:T16
+E6	GRE:T23 Agent:T14,T15 Destination:T17

@@ -1,0 +1,29 @@
+T1	SPAN 391 419	its complementary expression
+T2	Transcription 490 515	the transcriptional level
+T3	Gene 525 545	the mouse Map1A gene
+T4	Promoter 582 607	5' and intronic promoters
+T5	SPAN 640 665	the regulatory mechanisms
+T6	SPAN 682 704	neuronal cell-specific
+T7	SPAN 682 715	neuronal cell-specific activation
+T8	Promoter 719 740	the MAP1A 5' promoter
+T9	Transcription_Factor 1009 1019	RFX1 and 3
+T10	Repressor 1041 1060	repressive elements
+T11	SPAN 1061 1069	in vitro
+T12	Protein 1109 1113	RFX1
+T13	SPAN 1134 1146	ubiquitously
+T14	SPAN 1163 1193	the MAP1A 5' promoter activity
+T15	Promoter 1167 1184	MAP1A 5' promoter
+T16	Cells 1197 1215	non-neuronal cells
+T17	Protein 1231 1235	RFX3
+T18	SPAN 1246 1256	abundantly
+T19	Cells 1270 1284	neuronal cells
+T20	SPAN 1301 1318	the transactivity
+T21	SPAN 1333 1372	it was expressed in non-neuronal cells.
+T22	Gene_Expression 1336 1349	was expressed
+T23	Cells 1353 1371	non-neuronal cells
+T24	Protein 1378 1382	RFX1
+T25	Protein 1378 1388	RFX1 and 3
+T26	SPAN 1411 1428	the transactivity
+T27	Cells 1432 1446	neuronal cells
+T28	Protein 1648 1657	which RFX
+T29	SPAN 1673 1685	the elements

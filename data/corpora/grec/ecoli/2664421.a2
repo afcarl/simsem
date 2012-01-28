@@ -1,0 +1,10 @@
+T6	GRE 290 300	initiation
+T7	GRE 535 544	formation
+T8	GRE 580 590	implicated
+T9	GRE 608 618	initiation
+T10	GRE 625 632	involve
+E1	GRE:T6 Theme:T1,T2
+E2	GRE:T7 Theme:T3
+E3	GRE:T8 Theme:T3 Descriptive-Theme:T4
+E4	GRE:T9 Theme:T4
+E5	GRE:T10 Theme:T3 Descriptive-Theme:T5

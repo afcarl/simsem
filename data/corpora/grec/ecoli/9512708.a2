@@ -1,0 +1,26 @@
+T22	Gene_Activation 0 40	FruR-mediated transcriptional activation
+T23	Transcription 102 115	transcription
+T24	Gene_Expression 140 150	expression
+T25	GRE 151 164	is controlled
+T26	Regulation 280 292	interactions
+T27	GRE 525 530	binds
+T28	GRE 699 706	induces
+T29	Gene_Activation 831 841	activation
+T30	GRE 1151 1157	caused
+T31	Regulation 1175 1184	reduction
+T32	Gene_Activation 1206 1216	activation
+T33	Gene_Repression 1268 1275	inhibit
+T34	Gene_Activation 1306 1316	activation
+E1	Gene_Activation:T22 Theme:T3 Manner:T2 Manner:T1
+E2	Transcription:T23 Theme:T4
+E3	Gene_Expression:T24 Theme:T4
+E4	GRE:T25 Agent:T5 Theme:E3
+E5	Regulation:T26 Agent:T6 Agent:T7 Agent:T8
+E6	GRE:T27 Agent:T9 Location:T11 Destination:T10
+E7	GRE:T28 Agent:T12 Theme:T13
+E8	Gene_Activation:T29 Theme:T14
+E9	GRE:T30 Agent:T15,T16,T17 Theme:E10
+E10	Regulation:T31 Theme:E11
+E11	Gene_Activation:T32 Theme:T19 Manner:T18
+E12	Gene_Repression:T33 Agent:T15,T16,T17 Theme:E13
+E13	Gene_Activation:T34 Theme:T21 Manner:T20

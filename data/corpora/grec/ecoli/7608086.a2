@@ -1,0 +1,30 @@
+T23	GRE 335 339	bind
+T24	GRE 384 393	increased
+T25	GRE 399 406	binding
+T26	GRE 569 577	resulted
+T27	Gene_Expression 741 751	expression
+T28	GRE 788 796	to alter
+T29	GRE 860 868	Changing
+T30	GRE 930 936	caused
+T31	GRE 940 948	increase
+T32	Gene_Expression 962 972	expression
+T33	GRE 974 982	Changing
+T34	GRE 1036 1042	caused
+T35	GRE 1045 1053	decrease
+T36	GRE 1100 1108	required
+T37	Regulation 1125 1135	regulation
+E1	GRE:T23 Agent:T1 Destination:T2
+E2	GRE:T24 Agent:T3 Theme:E3
+E3	GRE:T25 Agent:T4 Destination:T5
+E4	GRE:T26 Agent:T6 Theme:T7
+E5	Gene_Expression:T27 Theme:T8
+E6	GRE:T28 Theme:T10 Location:T11 Instrument:T9
+E7	GRE:T29 Theme:T13
+E8	GRE:T30 Agent:E7 Theme:E10
+E9	GRE:T31 Theme:T15
+E10	Gene_Expression:T32 Theme:T14
+E11	GRE:T33 Theme:T16
+E12	GRE:T34 Agent:E11 Theme:E13
+E13	GRE:T35 Theme:T17
+E14	GRE:T36 Agent:T18 Theme:T20
+E15	Regulation:T37 Theme:T21 Manner:T19

@@ -1,0 +1,11 @@
+T1	Gene 273 287	the human gene
+T2	Transcription_Factor 297 308	this factor
+T3	Transcription_Binding_Site 424 433	(HMG) box
+T4	Locus 482 492	VI and VII
+T5	SPAN 494 515	Differential splicing
+T6	Locus 546 548	IX
+T7	Locus 554 581	three splice acceptor sites
+T8	Transcription_Binding_Site 791 804	the HMG boxes
+T9	Gene 816 833	the two TCF genes
+T10	Promoter 1069 1081	The promoter
+T11	Transcription_Binding_Site 1099 1130	TCF-1/TCF-1 alpha binding sites

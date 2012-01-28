@@ -1,0 +1,18 @@
+T1	SPAN 0 8	A factor
+T2	SPAN 14 24	positively
+T3	SPAN 35 48	cell division
+T4	Gene 80 130	the major cluster of essential cell division genes
+T5	Wild_Type_Bacteria 263 271	the cell
+T6	Protein 282 309	the cellular concentrations
+T7	SPAN 379 387	a factor
+T8	SPAN 403 416	cell division
+T9	SPAN 420 432	specifically
+T10	Promoter 463 487	one of the two promoters
+T11	Protein 573 584	the product
+T12	SPAN 743 764	the sdiA gene product
+T13	SPAN 776 786	the action
+T14	Protein 1052 1073	the sdiA gene product
+T15	Gene 1116 1139	the ftsQAZ gene cluster
+T16	Protein 1213 1234	The sdiA gene product
+T17	SPAN 1280 1292	specifically
+T18	Gene 1317 1354	this key group of cell division genes

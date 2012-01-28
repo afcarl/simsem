@@ -1,0 +1,34 @@
+T1	Operator 34 52	multiple operators
+T2	Operon 62 120	the adjacent, divergently transcribed glpTQ-glpACB operons
+T3	Operon 148 163	The glp regulon
+T4	Protein 192 204	the proteins
+T5	Operon 294 346	the divergently transcribed glpTQ and glpACB operons
+T6	SPAN 360 368	at sites
+T7	Locus 363 368	sites
+T8	Operon 410 423	These operons
+T9	SPAN 439 449	negatively
+T10	Repressor 453 466	glp repressor
+T11	SPAN 471 481	positively
+T12	Protein_Complex 485 529	the cAMP-cAMP receptor protein (CRP) complex
+T13	Locus 531 544	The locations
+T14	Transcription_Binding_Site 548 565	the binding sites
+T15	Laboratory_Technique 664 684	DNase I footprinting
+T16	Repressor 697 714	the glp repressor
+T17	Locus 725 746	the region -32 to -51
+T18	SPAN 752 773	in the glpTQ promoter
+T19	Promoter 755 773	the glpTQ promoter
+T20	Transcription_Binding_Site 821 849	Four repressor binding sites
+T21	SPAN 995 1024	in the glpACB promoter region
+T22	Promoter 998 1024	the glpACB promoter region
+T23	Plasmid 1374 1384	constructs
+T24	Transcription_Binding_Site 1469 1471	OT
+T25	Operon 1517 1530	either operon
+T26	Operator 1540 1560	the glpACB operators
+T27	Operon 1590 1602	both operons
+T28	Operon 1674 1679	glpTQ
+T29	Promoter 1825 1843	the glpTQ promoter
+T30	SPAN 1844 1857	in constructs
+T31	Plasmid 1847 1857	constructs
+T32	Insertion 1869 1891	6- or 10-bp insertions
+T33	Insertion 1932 1948	A 6-bp insertion
+T34	Promoter 2015 2033	the glpTQ promoter

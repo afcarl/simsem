@@ -1,0 +1,30 @@
+T24	GRE 64 74	exhibiting
+T25	Regulation 99 113	osmoregulation
+T26	Gene_Expression 163 173	Expression
+T27	GRE 208 214	encode
+T28	GRE 282 290	affected
+T29	GRE 377 385	mediated
+T30	GRE 452 459	encoded
+T31	GRE 637 646	exhibited
+T32	Regulation 662 676	osmoregulation
+T33	Gene_Expression 684 694	expression
+T34	GRE 822 829	carried
+T35	GRE 1048 1057	conferred
+T36	GRE 1088 1103	complementation
+T37	GRE 1381 1391	exhibiting
+T38	Gene_Expression 1416 1426	expression
+E1	GRE:T24 Theme:T1 Descriptive-Theme:T2
+E2	Regulation:T25 Theme:T3
+E3	Gene_Expression:T26 Theme:T4
+E4	GRE:T27 Agent:T4 Theme:T5
+E5	GRE:T28 Theme:E3 Manner:T6 Agent:T7
+E6	GRE:T29 Agent:T9 Theme:T8
+E7	GRE:T30 Agent:T10 Theme:T9
+E8	GRE:T31 Theme:T11 Descriptive-Theme:T12
+E9	Regulation:T32 Theme:E10
+E10	Gene_Expression:T33 Theme:T13
+E11	GRE:T34 Agent:T14,T15 Theme:T16
+E12	GRE:T35 Agent:T18 Theme:T17
+E13	GRE:T36 Theme:T20 Manner:T19
+E14	GRE:T37 Theme:T21 Descriptive-Theme:T22
+E15	Gene_Expression:T38 Theme:T23

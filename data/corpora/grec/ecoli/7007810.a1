@@ -1,0 +1,10 @@
+T1	Gene 22 35	the recA gene
+T2	SPAN 36 63	in Escherichia coli strains
+T3	Mutant_Bacteria 39 63	Escherichia coli strains
+T4	Repressor 73 97	a recA-linked suppressor
+T5	SPAN 73 106	a recA-linked suppressor of lexA.
+T6	Gene 101 105	lexA
+T7	Mutant_Bacteria 108 123	A mutant strain
+T8	Gene 168 181	the recA gene
+T9	SPAN 198 248	a revertant of a lexA3 recA200 double mutant which
+T10	Mutant_Bacteria 213 242	a lexA3 recA200 double mutant

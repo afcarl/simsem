@@ -1,0 +1,48 @@
+T1	Operon 123 135	(dad) operon
+T2	Wild_Type_Bacteria 166 182	Escherichia coli
+T3	SPAN 166 226	Escherichia coli is grown in the presence of D- or L-alanine
+T4	Amino_Acids 211 226	D- or L-alanine
+T5	Amino_Acids 228 235	Alanine
+T6	SPAN 257 267	an inducer
+T7	SPAN 277 287	the action
+T8	Repressor 291 313	a postulated repressor
+T9	Operon 315 326	This operon
+T10	Organic_Compounds 363 373	catabolite
+T11	Gene 517 520	dad
+T12	SPAN 532 566	in a dad-lacZ operon fusion strain
+T13	Mutant_Bacteria 535 566	a dad-lacZ operon fusion strain
+T14	SPAN 581 599	four- to sevenfold
+T15	Bacteria 605 610	cells
+T16	SPAN 605 669	cells were grown in minimal medium containing alanine or leucine
+T17	Amino_Acids 651 669	alanine or leucine
+T18	SPAN 696 719	high-level constitutive
+T19	Gene 720 723	dad
+T20	Repressor 791 794	Lrp
+T21	SPAN 801 809	in vitro
+T22	DNA 813 827	multiple sites
+T23	SPAN 813 872	multiple sites over a large area in the dad promoter region
+T24	Promoter 849 872	the dad promoter region
+T25	SPAN 874 886	This binding
+T26	Amino_Acids 902 909	alanine
+T27	Amino_Acids 913 920	leucine
+T28	mRNA 1086 1103	these transcripts
+T29	SPAN 1108 1122	differentially
+T30	Protein_Complex 1136 1182	cyclic AMP-cyclic AMP receptor protein complex
+T31	Repressor 1219 1222	Lrp
+T32	Amino_Acids 1224 1231	Alanine
+T33	Amino_Acids 1235 1242	leucine
+T34	SPAN 1243 1253	completely
+T35	SPAN 1275 1284	partially
+T36	Repressor 1304 1307	Lrp
+T37	SPAN 1320 1333	Site-directed
+T38	Repressor 1386 1389	Lrp
+T39	Repressor 1412 1415	Lrp
+T40	Gene 1430 1433	dad
+T41	SPAN 1448 1455	in vivo
+T42	SPAN 1460 1468	in vitro
+T43	Repressor 1522 1525	Lrp
+T44	Amino_Acids 1530 1537	alanine
+T45	Amino_Acids 1541 1548	leucine
+T46	SPAN 1553 1561	directly
+T47	SPAN 1585 1597	respectively
+T48	Operon 1616 1630	the dad operon

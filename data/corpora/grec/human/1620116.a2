@@ -1,0 +1,10 @@
+T12	Gene_Repression 16 26	repression
+T13	GRE 190 198	displays
+T14	GRE 240 248	overlaps
+T15	Gene_Expression 317 326	expressed
+T16	Gene_Repression 410 419	repressed
+E1	Gene_Repression:T12 Agent:T2 Manner:T1
+E2	GRE:T13 Theme:T3 Descriptive-Theme:T4
+E3	GRE:T14 Theme:T4 Descriptive-Theme:T5
+E4	Gene_Expression:T15 Theme:T8 Temporal:T6
+E5	Gene_Repression:T16 Agent:T8 Theme:T10 Manner:T9,T11 Temporal:E4

@@ -1,0 +1,49 @@
+T1	Locus 0 10	marA locus
+T2	SPAN 18 27	decreased
+T3	Protein 42 52	OmpF porin
+T4	SPAN 53 99	in multiple-antibiotic-resistant (Mar) mutants
+T5	Mutant_Bacteria 56 99	multiple-antibiotic-resistant (Mar) mutants
+T6	Mutant_Bacteria 122 165	Mar (multiple antibiotic resistant) mutants
+T7	SPAN 194 216	chromosomally mediated
+T8	SPAN 217 306	resistance to a variety of structurally unrelated hydrophilic and hydrophobic antibiotics
+T9	DNA 321 335	transposon Tn5
+T10	Locus 341 355	the marA locus
+T11	SPAN 387 397	completely
+T12	Phenotype 407 424	the Mar phenotype
+T13	Protein 551 561	porin OmpF
+T14	SPAN 566 573	greatly
+T15	Gene 670 685	the marA region
+T16	Mutant_Bacteria 691 703	a Mar strain
+T17	Phenotype 740 752	loss of OmpF
+T18	DNA 773 782	marA::Tn5
+T19	Mutant_Bacteria 788 800	a Mar mutant
+T20	SPAN 801 810	partially
+T21	SPAN 820 831	OmpF levels
+T22	Phenotype 844 858	OmpF reduction
+T23	Gene 882 897	the marA region
+T24	Mutant_Bacteria 899 910	Mar mutants
+T25	SPAN 958 967	50 to 75%
+T26	SPAN 971 1002	the beta-galactosidase activity
+T27	Mutant_Bacteria 1050 1061	Mar mutants
+T28	SPAN 1099 1112	less than 10%
+T29	SPAN 1116 1135	the enzyme activity
+T30	Phenotype 1159 1172	These changes
+T31	SPAN 1178 1188	completely
+T32	DNA 1214 1223	marA::Tn5
+T33	Protein 1398 1402	OmpF
+T34	SPAN 1431 1440	primarily
+T35	SPAN 1444 1475	a posttranscriptional mechanism
+T36	Gene 1635 1639	micF
+T37	SPAN 1685 1699	in Mar strains
+T38	Mutant_Bacteria 1688 1699	Mar strains
+T39	Locus 1769 1783	the micF locus
+T40	SPAN 1800 1814	marA-dependent
+T41	Protein 1828 1832	OmpF
+T42	Locus 1842 1862	an intact micF locus
+T43	Locus 1890 1904	the marA locus
+T44	SPAN 1905 1913	directly
+T45	SPAN 1917 1927	indirectly
+T46	Gene 1938 1942	micF
+T47	SPAN 1965 1984	posttranscriptional
+T48	mRNA 1997 2006	ompF mRNA
+T49	SPAN 2011 2034	reduced amounts of OmpF

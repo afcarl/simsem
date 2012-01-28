@@ -1,0 +1,15 @@
+T1	Protein 0 28	The periplasmic TorT protein
+T2	Gene 45 82	trimethylamine N-oxide reductase gene
+T3	SPAN 93 112	in Escherichia coli
+T4	Bacteria 96 112	Escherichia coli
+T5	Operon 129 163	the Escherichia coli torCAD operon
+T6	Enzyme 179 222	the trimethylamine N-oxide reductase system
+T7	Inorganic_Compounds 256 278	trimethylamine N-oxide
+T8	Operon 442 466	torCAD structural operon
+T9	SPAN 489 509	within the torT gene
+T10	Gene 496 509	the torT gene
+T11	Gene 549 569	a torA'-'lacZ fusion
+T12	SPAN 641 655	Overproduction
+T13	Gene 728 750	the torA'-'lacZ fusion
+T14	Gene 800 813	The torT gene
+T15	Protein 824 854	a 35.7-kDa periplasmic protein

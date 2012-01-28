@@ -1,0 +1,54 @@
+T52	Regulation 7 17	regulation
+T53	GRE 181 188	encodes
+T54	Gene_Activation 353 363	activation
+T55	Gene_Repression 421 430	represses
+T56	Gene_Expression 435 445	expression
+T57	GRE 476 481	binds
+T58	Regulation 618 628	regulation
+T59	GRE 716 723	effects
+T60	Gene_Expression 759 769	expression
+T61	Gene_Repression 907 917	repression
+T62	Gene_Repression 1029 1039	repression
+T63	Transcription 1062 1075	Transcription
+T64	GRE 1092 1098	affect
+T65	Gene_Activation 1113 1123	activation
+T66	Gene_Repression 1140 1150	repression
+T67	Regulation 1181 1191	regulation
+T68	GRE 1195 1202	exerted
+T69	Regulation 1452 1461	regulated
+T70	Regulation 1541 1550	regulated
+T71	Gene_Activation 1570 1579	activated
+T72	Gene_Expression 1663 1673	expression
+T73	GRE 1787 1792	bound
+T74	Regulation 1837 1849	downregulate
+T75	Transcription 1906 1919	transcription
+T76	GRE 1943 1949	driven
+T77	GRE 2063 2070	control
+T78	Gene_Expression 2079 2089	expression
+E1	Regulation:T52 Theme:T2,T3 Manner:T1
+E2	GRE:T53 Agent:T4 Theme:T5
+E3	Gene_Activation:T54 Agent:T6 Theme:T8 Manner:T7
+E4	Gene_Repression:T55 Agent:T9 Theme:E5 Condition:T10
+E5	Gene_Expression:T56 Theme:T8
+E6	GRE:T57 Agent:T11 Manner:T12 Destination:T14
+E7	Regulation:T58 Theme:T17 Manner:T16
+E8	GRE:T59 Agent:T18 Theme:E9
+E9	Gene_Expression:T60 Theme:T20 Manner:T19
+E10	Gene_Repression:T61 Theme:T23,T24 Manner:T22
+E11	Gene_Repression:T62 Theme:T26 Manner:T25
+E12	Transcription:T63 Source:T27
+E13	GRE:T64 Agent:E12 Theme:E14
+E14	Gene_Activation:T65 Theme:E15 Manner:T28
+E15	Gene_Repression:T66 Theme:T30 Manner:T29
+E16	Regulation:T67 Manner:T31
+E17	GRE:T68 Agent:E16 Theme:T32
+E18	Regulation:T69 Agent:T35,T36 Theme:T33,T34 Condition:T37,T38,T39
+E19	Regulation:T70 Agent:T41 Theme:T40
+E20	Gene_Activation:T71 Agent:T42 Theme:T40
+E21	Gene_Expression:T72 Theme:T43
+E22	GRE:T73 Agent:T44 Destination:T45
+E23	Regulation:T74 Agent:T44 Theme:T46 Source:T47
+E24	Transcription:T75 Theme:T48
+E25	GRE:T76 Agent:T49 Theme:E24
+E26	GRE:T77 Theme:E27 Manner:T50
+E27	Gene_Expression:T78 Theme:T51

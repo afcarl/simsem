@@ -1,0 +1,22 @@
+T1	Transcription 0 13	Transcription
+T2	SPAN 75 99	in Escherichia coli K-12
+T3	Wild_Type_Bacteria 78 99	Escherichia coli K-12
+T4	Regulator 102 153	The cAMP-catabolite activator protein (CAP) complex
+T5	Gene 213 235	Escherichia coli genes
+T6	Gene 331 335	argG
+T7	Enzyme 351 379	the arginosuccinate synthase
+T8	Gene 431 435	metY
+T9	Regulator 494 503	tRNAf2Met
+T10	Regulator 505 525	The cAMP-CAP complex
+T11	Gene 536 540	argG
+T12	Gene 568 572	metY
+T13	Locus 592 613	the same DNA position
+T14	Regulator 633 637	ArgR
+T15	SPAN 714 735	its arginine cofactor
+T16	SPAN 718 735	arginine cofactor
+T17	Gene 763 767	metY
+T18	Regulator 780 783	CAP
+T19	Promoter 803 830	the two divergent promoters
+T20	SPAN 839 853	simultaneously
+T21	Regulator 877 897	the cAMP-CAP complex
+T22	Regulator 931 951	a specific regulator

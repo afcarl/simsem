@@ -1,0 +1,20 @@
+T17	GRE 171 179	controls
+T18	Transcription 194 204	initiation
+T19	GRE 237 244	binding
+T20	GRE 615 624	activated
+T21	Gene_Repression 661 675	were repressed
+T22	Gene_Repression 936 945	repressed
+T23	GRE 1053 1059	failed
+T24	Regulation 1091 1101	regulation
+T25	GRE 1310 1319	regulates
+T26	Gene_Expression 1324 1334	expression
+E1	GRE:T17 Agent:T1 Theme:E2
+E2	Transcription:T18 Source:T2
+E3	GRE:T19 Agent:T1 Destination:T3
+E4	GRE:T20 Agent:T5 Theme:T4 Instrument:T6
+E5	Gene_Repression:T21 Agent:T5 Theme:T7
+E6	Gene_Repression:T22 Agent:T9 Theme:T8
+E7	GRE:T23 Theme:T10 Descriptive-Theme:E8 Purpose:T11
+E8	Regulation:T24 Manner:T12
+E9	GRE:T25 Agent:T13 Theme:E10
+E10	Gene_Expression:T26 Theme:T14 Location:T16

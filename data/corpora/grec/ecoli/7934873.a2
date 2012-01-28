@@ -1,0 +1,18 @@
+T16	GRE 51 56	bound
+T17	Gene_Repression 100 110	repression
+T18	GRE 196 203	overlap
+T19	GRE 371 378	prevent
+T20	GRE 389 396	binding
+T21	GRE 454 460	result
+T22	Gene_Activation 477 489	derepression
+T23	GRE 572 579	permits
+T24	GRE 662 669	binding
+E1	GRE:T16 Agent:T1 Destination:T2
+E2	Gene_Repression:T17 Theme:T3 Manner:T4
+E3	GRE:T18 Theme:T5 Descriptive-Theme:T6
+E4	GRE:T19 Agent:T7 Theme:E5
+E5	GRE:T20 Agent:T8 Destination:T9
+E6	GRE:T21 Agent:T7 Descriptive-Agent:E7
+E7	Gene_Activation:T22 Theme:T10
+E8	GRE:T23 Agent:T11 Theme:T12
+E9	GRE:T24 Agent:T14 Manner:T13 Destination:T15

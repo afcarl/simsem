@@ -1,0 +1,38 @@
+T1	Protein_Complex 100 109	DcuS-DcuR
+T2	Gene 123 127	gene
+T3	Organic_Compounds 154 171	C4-dicarboxylates
+T4	SPAN 172 191	in Escherichia coli
+T5	Wild_Type_Bacteria 175 191	Escherichia coli
+T6	Gene 194 207	The dcuB gene
+T7	Protein 236 277	an anaerobic C4-dicarboxylate transporter
+T8	Protein 311 314	FNR
+T9	Activator 329 360	the cyclic AMP receptor protein
+T10	Inorganic_Compounds 395 402	nitrate
+T11	Repressor 406 410	NarL
+T12	Gene 425 429	dcuB
+T13	Organic_Compounds 464 481	C4-dicarboxylates
+T14	SPAN 633 641	160-fold
+T15	Gene 655 659	dcuB
+T16	Organic_Compounds 674 691	C4-dicarboxylates
+T17	Operon 934 943	an operon
+T18	Protein 994 1003	DcuS-DcuR
+T19	Plasmid 1006 1015	A plasmid
+T20	SPAN 1051 1103	the C4-dicarboxylate inducibility of dcuB expression
+T21	Gene 1088 1092	dcuB
+T22	SPAN 1104 1122	in the dcuS mutant
+T23	Mutant_Bacteria 1107 1122	the dcuS mutant
+T24	Mutant_Gene 1196 1213	The dcuS mutation
+T25	SPAN 1223 1252	the expression of other genes
+T26	Gene 1241 1252	other genes
+T27	SPAN 1309 1319	Expression
+T28	SPAN 1320 1322	of
+T29	Operon 1347 1354	frdABCD
+T30	SPAN 1356 1362	operon
+T31	Gene 1409 1413	dctA
+T32	SPAN 1415 1419	gene
+T33	SPAN 1433 1447	22- and 4-fold
+T34	Protein_Complex 1466 1486	the DcuS-DcuR system
+T35	Organic_Compounds 1506 1523	C4-dicarboxylates
+T36	SPAN 1875 1901	C4-dicarboxylate transport
+T37	SPAN 1922 1949	C4-dicarboxylate-responsive
+T38	Gene 1950 1954	gene

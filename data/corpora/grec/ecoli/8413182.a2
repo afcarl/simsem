@@ -1,0 +1,12 @@
+T11	GRE 108 113	codes
+T12	Transcription 547 560	transcription
+T13	Regulation 591 600	repressed
+T14	GRE 791 796	binds
+T15	Transcription 942 955	transcription
+T16	Regulation 988 997	regulated
+E1	GRE:T11 Agent:T1 Theme:T2
+E2	Transcription:T12 Theme:T5 Manner:T3
+E3	Regulation:T13 Agent:T6 Theme:T4
+E4	GRE:T14 Agent:T7 Destination:T8
+E5	Transcription:T15 Theme:T9
+E6	Regulation:T16 Agent:T10 Theme:E5

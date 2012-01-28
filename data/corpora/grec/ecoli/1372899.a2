@@ -1,0 +1,28 @@
+T31	Regulation 14 24	regulation
+T32	GRE 45 53	encoding
+T33	GRE 256 263	encodes
+T34	GRE 368 375	encodes
+T35	GRE 1107 1117	identified
+T36	GRE 1154 1163	protected
+T37	GRE 1285 1293	centered
+T38	GRE 1380 1389	protected
+T39	GRE 1574 1584	identified
+T40	GRE 1624 1634	containing
+T41	GRE 1671 1680	increased
+T42	GRE 1738 1748	containing
+T43	Gene_Repression 2299 2309	repression
+T44	Gene_Repression 2443 2453	repression
+E1	Regulation:T31 Theme:T1
+E2	GRE:T32 Agent:T1 Theme:T2,T3
+E3	GRE:T33 Agent:T4 Theme:T5
+E4	GRE:T34 Agent:T6 Theme:T7
+E5	GRE:T35 Theme:T8 Instrument:T9
+E6	GRE:T36 Agent:T11 Theme:T10
+E7	GRE:T37 Theme:T12 Location:T13
+E8	GRE:T38 Agent:T15 Theme:T16
+E9	GRE:T39 Theme:T17 Location:T18
+E10	GRE:T40 Theme:T20 Descriptive-Theme:T21
+E11	GRE:T41 Agent:T20 Theme:T23 Manner:T22
+E12	GRE:T42 Theme:T24 Location:T26 Descriptive-Theme:T25
+E13	Gene_Repression:T43 Manner:T28
+E14	Gene_Repression:T44 Theme:T29

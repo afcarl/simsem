@@ -1,0 +1,22 @@
+T1	Operon 28 68	the divergent ulaG and ulaABCDEF operons
+T2	SPAN 81 106	LaAscorbate dissimilation
+T3	Wild_Type_Bacteria 110 126	Escherichia coli
+T4	Gene 129 144	The ula regulon
+T5	Operon 264 282	ulaG and ulaABCDEF
+T6	Gene 284 295	The regulon
+T7	SPAN 299 309	negatively
+T8	Repressor 323 334	a repressor
+T9	Gene 374 400	the constitutive gene ulaR
+T10	Gene 448 463	the ula regulon
+T11	Repressor 501 514	the repressor
+T12	Promoter 520 544	both divergent promoters
+T13	SPAN 737 759	either of the two sets
+T14	SPAN 810 826	the other operon
+T15	Promoter 834 847	each promoter
+T16	Gene_Repression 921 931	repression
+T17	SPAN 1130 1137	Glucose
+T18	Gene 1148 1163	the ula regulon
+T19	SPAN 1318 1333	Glucose effects
+T20	Regulator 1346 1369	other global regulators
+T21	SPAN 1420 1427	Changes
+T22	Operon 1479 1499	the ulaABCDEF operon

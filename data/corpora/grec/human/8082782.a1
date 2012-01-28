@@ -1,0 +1,12 @@
+T1	SPAN 88 100	heterologous
+T2	SPAN 112 120	in yeast
+T3	Wild_Type_Organism 115 120	yeast
+T4	DNA 358 363	cDNAs
+T5	Protein 373 403	members of a family of ATPases
+T6	Protein 396 403	ATPases
+T7	SPAN 416 431	membrane fusion
+T8	SPAN 482 512	cell division cycle regulation
+T9	SPAN 523 542	peroxisome assembly
+T10	SPAN 556 571	transcriptional
+T11	SPAN 556 582	transcriptional regulation
+T12	SPAN 584 589	TBP-1

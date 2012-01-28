@@ -1,0 +1,8 @@
+T13	GRE 181 189	limiting
+T14	GRE 412 420	limiting
+T15	GRE 714 725	interaction
+T16	Gene_Activation 879 889	activation
+E1	GRE:T13 Agent:T1 Theme:T2 Location:T4 Condition:T3
+E2	GRE:T14 Agent:T6 Theme:T7
+E3	GRE:T15 Agent:T8,T9
+E4	Gene_Activation:T16 Theme:T10 Condition:T12

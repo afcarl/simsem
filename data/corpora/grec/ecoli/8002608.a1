@@ -1,0 +1,36 @@
+T1	Repressor 0 41	The leucine-responsive regulatory protein
+T2	SPAN 62 72	negatively
+T3	Gene 100 113	ompC and micF
+T4	SPAN 118 128	positively
+T5	SPAN 139 150	translation
+T6	Protein 216 229	OmpC and OmpF
+T7	SPAN 235 244	inversely
+T8	Protein 302 315	OmpC and OmpF
+T9	Regulator 394 397	Lrp
+T10	Protein 525 529	OmpC
+T11	SPAN 554 570	in an lrp strain
+T12	Mutant_Bacteria 557 570	an lrp strain
+T13	Protein 578 582	OmpF
+T14	Operon 671 703	transcriptional (operon) fusions
+T15	SPAN 734 744	negatively
+T16	Repressor 758 761	Lrp
+T17	Regulator 763 766	Lrp
+T18	SPAN 773 785	specifically
+T19	Locus 789 810	the intergenic region
+T20	Gene 919 938	an ompF'-lacZ+ gene
+T21	SPAN 919 961	an ompF'-lacZ+ gene (translational) fusion
+T22	SPAN 975 983	3.7-fold
+T23	SPAN 984 1005	in an lrp+ background
+T24	Wild_Type_Bacteria 987 1005	an lrp+ background
+T25	Operon 1057 1084	an ompF-lacZ+ operon fusion
+T26	SPAN 1104 1111	in vivo
+T27	Protein 1126 1151	the outer membrane porins
+T28	SPAN 1152 1191	during growth on glucose minimal medium
+T29	Mutant_Bacteria 1320 1328	a strain
+T30	RNA 1354 1358	micF
+T31	SPAN 1389 1397	positive
+T32	Regulator 1408 1411	Lrp
+T33	Protein 1415 1419	OmpF
+T34	SPAN 1444 1452	negative
+T35	Regulator 1463 1466	Lrp
+T36	RNA 1488 1492	micF

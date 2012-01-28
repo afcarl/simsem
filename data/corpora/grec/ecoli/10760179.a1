@@ -1,0 +1,29 @@
+T1	Promoter 14 48	the Escherichia coli melR promoter
+T2	Activator 52 56	MelR
+T3	Gene_Repression 72 92	efficient repression
+T4	SPAN 119 136	a repression loop
+T5	Activator 139 172	The Escherichia coli MelR protein
+T6	Organic_Compounds 227 236	melibiose
+T7	Operon 262 278	the melAB operon
+T8	Locus 293 303	four sites
+T9	Activator 349 353	MelR
+T10	Gene 368 381	the melR gene
+T11	DNA 407 429	a divergent transcript
+T12	Locus 542 558	a fifth DNA site
+T13	Locus 582 631	the melR promoter transcript start and -10 region
+T14	Activator 651 655	MelR
+T15	Locus 667 676	this site
+T16	Promoter 710 727	the melR promoter
+T17	Promoter 796 813	the melR promoter
+T18	Organic_Compounds 844 853	melibiose
+T19	SPAN 867 898	one of the four other DNA sites
+T20	Locus 874 898	the four other DNA sites
+T21	Locus 931 957	The two MelR binding sites
+T22	Gene_Repression 971 994	this optimal repression
+T23	Organic_Compounds 1143 1152	melibiose
+T24	Promoter 1177 1195	the melAB promoter
+T25	Organic_Compounds 1238 1247	melibiose
+T26	Promoter 1249 1266	the melR promoter
+T27	Activator 1303 1307	MelR
+T28	Locus 1319 1327	the site
+T29	Locus 1342 1377	the transcript start and -10 region

@@ -1,0 +1,14 @@
+T14	Laboratory_Technique 107 113	cloned
+T15	GRE 259 264	codes
+T16	GRE 508 512	bind
+T17	Gene_Activation 579 587	activate
+T18	Transcription 588 601	transcription
+T19	GRE 624 634	containing
+T20	GRE 788 797	expressed
+E1	Laboratory_Technique:T14 Agent:T1 Theme:T2 Source:T3
+E2	GRE:T15 Agent:T4 Theme:T5
+E3	GRE:T16 Agent:T6 Destination:T7
+E4	Gene_Activation:T17 Agent:T6 Theme:E5
+E5	Transcription:T18 Theme:T8
+E6	GRE:T19 Theme:T8 Descriptive-Theme:T9
+E7	GRE:T20 Theme:T10,T11 Location:T12

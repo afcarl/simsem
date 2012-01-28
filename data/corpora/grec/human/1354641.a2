@@ -1,0 +1,6 @@
+T8	Gene_Expression 215 224	expressed
+T9	Mutation 346 354	mutation
+T10	GRE 366 373	involve
+E1	Gene_Expression:T8 Theme:T1 Location:T3 Temporal:T2
+E2	Mutation:T9 Manner:T6
+E3	GRE:T10 Theme:T5 Descriptive-Theme:T7

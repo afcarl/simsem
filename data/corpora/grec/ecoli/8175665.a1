@@ -1,0 +1,28 @@
+T1	Protein 0 16	The OmpR protein
+T2	DNA 46 51	sites
+T3	SPAN 46 79	sites in the ompF promoter region
+T4	Promoter 55 79	the ompF promoter region
+T5	SPAN 151 170	In Escherichia coli
+T6	Bacteria 154 170	Escherichia coli
+T7	Gene 171 184	the ompF gene
+T8	Protein 193 229	a major outer membrane porin protein
+T9	Protein 266 282	the OmpR protein
+T10	Regulator 284 288	OmpR
+T11	SPAN 297 307	a positive
+T12	SPAN 319 339	a negative regulator
+T13	Gene 343 347	ompF
+T14	DNA 373 414	DNA sequences in the ompF promoter region
+T15	Promoter 390 414	the ompF promoter region
+T16	SPAN 416 448	The DNA binding activity of OmpR
+T17	Regulator 444 448	OmpR
+T18	SPAN 472 487	phosphorylation
+T19	SPAN 700 715	phosphorylation
+T20	Regulator 734 738	OmpR
+T21	DNA 742 754	a DNA region
+T22	Gene 844 848	ompF
+T23	Gene 1038 1042	ompF
+T24	Regulator 1237 1241	OmpR
+T25	DNA 1253 1276	the -360 to -380 region
+T26	SPAN 1286 1326	previous binding at downstream sequences
+T27	DNA 1306 1326	downstream sequences
+T28	Gene 1448 1452	ompF

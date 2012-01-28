@@ -1,0 +1,31 @@
+T1	Operon 19 38	glc and ace operons
+T2	SPAN 75 95	pathway intersection
+T3	Promoter 118 134	the glc promoter
+T4	SPAN 136 158	The metabolic pathways
+T5	Operon 172 195	the glc and ace operons
+T6	Enzyme 284 310	malate synthase isoenzymes
+T7	Gene 327 331	glcB
+T8	Gene 349 353	aceB
+T9	Operon 437 451	the ace operon
+T10	Organic_Compounds 455 464	glycolate
+T11	Operon 469 483	the glc operon
+T12	Organic_Compounds 487 494	acetate
+T13	Operon 529 543	the glc operon
+T14	Gene 556 585	the structural genes glcDEFGB
+T15	Operon 624 635	This operon
+T16	Organic_Compounds 660 669	glycolate
+T17	Activator 743 747	GlcC
+T18	Gene 759 775	a divergent gene
+T19	Operon 791 805	the glc operon
+T20	Transcription_Factor 860 863	IHF
+T21	Repressor 918 924	ArcA-P
+T22	SPAN 970 976	direct
+T23	Promoter 988 1004	the promoter DNA
+T24	Transcription_Factor 1008 1011	IHF
+T25	Transcription_Factor 1016 1022	ArcA-P
+T26	SPAN 1074 1088	the glc operon
+T27	Organic_Compounds 1092 1099	acetate
+T28	Activator 1115 1131	the GlcC protein
+T29	SPAN 1226 1249	the Glc and Ace systems
+T30	Transcription_Factor 1253 1256	IHF
+T31	Transcription_Factor 1261 1267	ArcA-P

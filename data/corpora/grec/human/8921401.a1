@@ -1,0 +1,24 @@
+T1	Gene 153 156	IRF
+T2	Activator 171 204	a family of transcription factors
+T3	Activator 183 204	transcription factors
+T4	SPAN 221 236	transcriptional
+T5	Protein 251 261	interferon
+T6	Gene 266 297	the interferon stimulated genes
+T7	Transcription_Binding_Site 321 363	the interferon stimulated response element
+T8	Gene 437 443	mLSIRF
+T9	mRNA 875 894	a single transcript
+T10	SPAN 938 979	in spleen and peripheral blood lymphocyte
+T11	Tissue 941 947	spleen
+T12	mRNA 981 992	hLSIRF mRNA
+T13	SPAN 1013 1034	in peripheral T cells
+T14	Cells 1016 1034	peripheral T cells
+T15	SPAN 1041 1073	crosslinking the T-cell receptor
+T16	Protein 1054 1073	the T-cell receptor
+T17	mRNA 1116 1127	hLSIRF mRNA
+T18	SPAN 1132 1139	basally
+T19	SPAN 1150 1181	in most B- but not T-cell lines
+T20	Cells 1153 1160	most B-
+T21	Cells 1169 1181	T-cell lines
+T22	mRNA 1196 1207	hLSIRF mRNA
+T23	SPAN 1266 1287	in normal melanocytes
+T24	Cells 1269 1287	normal melanocytes

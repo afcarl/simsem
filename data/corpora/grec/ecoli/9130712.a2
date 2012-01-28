@@ -1,0 +1,12 @@
+T13	Gene_Activation 246 253	induced
+T14	GRE 354 361	encodes
+T15	GRE 385 393	involved
+T16	GRE 401 412	degradation
+T17	GRE 610 620	modulating
+T18	GRE 751 757	encode
+E1	Gene_Activation:T13 Agent:T2 Theme:T1
+E2	GRE:T14 Agent:T4 Theme:T5
+E3	GRE:T15 Theme:T5 Descriptive-Theme:E4
+E4	GRE:T16 Theme:T6
+E5	GRE:T17 Agent:T7 Theme:T8
+E6	GRE:T18 Agent:T9 Theme:T11,T12

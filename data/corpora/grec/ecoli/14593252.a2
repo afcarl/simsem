@@ -1,0 +1,30 @@
+T29	Regulation 218 227	regulated
+T30	GRE 310 316	exerts
+T31	Gene_Repression 326 333	control
+T32	GRE 428 436	involves
+T33	Regulation 437 447	regulation
+T34	Regulation 480 490	regulation
+T35	GRE 520 528	examined
+T36	Regulation 618 628	regulation
+T37	Regulation 650 660	regulation
+T38	GRE 684 696	introduction
+T39	GRE 776 781	share
+T40	Gene_Activation 866 875	initiates
+T41	Gene_Expression 876 886	expression
+T42	Gene_Activation 931 940	induction
+T43	Regulation 1041 1057	cross-regulation
+E1	Regulation:T29 Agent:T2,T3 Theme:T1
+E2	GRE:T30 Agent:T4 Theme:E3 Manner:T7
+E3	Gene_Repression:T31 Theme:T6 Manner:T5
+E4	GRE:T32 Theme:T8 Descriptive-Theme:E5
+E5	Regulation:T33 Theme:T9
+E6	Regulation:T34 Agent:T10
+E7	GRE:T35 Theme:E6 Instrument:T11,T12
+E8	Regulation:T36 Agent:T15 Manner:T13,T14
+E9	Regulation:T37 Agent:T17 Manner:T16
+E10	GRE:T38 Theme:T18 Location:T19
+E11	GRE:T39 Theme:T21 Descriptive-Theme:T22
+E12	Gene_Activation:T40 Agent:T23 Theme:E13
+E13	Gene_Expression:T41 Theme:T24
+E14	Gene_Activation:T42 Agent:T25 Theme:T24 Condition:T27 Temporal:T26
+E15	Regulation:T43 Agent:T28

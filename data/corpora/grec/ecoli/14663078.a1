@@ -1,0 +1,30 @@
+T1	Regulator 0 44	The LysR-type transcriptional regulator CysB
+T2	Gene 72 76	hslJ
+T3	SPAN 91 110	in Escherichia coli
+T4	Wild_Type_Bacteria 94 110	Escherichia coli
+T5	Regulator 160 164	CysB
+T6	Promoter 251 278	the target promoter regions
+T7	Gene 293 302	the genes
+T8	SPAN 376 386	negatively
+T9	Gene 425 438	The hslJ gene
+T10	SPAN 455 465	negatively
+T11	Regulator 479 483	CysB
+T12	Gene 553 565	cysB mutants
+T13	Gene 589 618	the hslJ : : lacZ gene fusion
+T14	Gene 889 902	the hslJ gene
+T15	Regulator 957 975	the CysB regulator
+T16	SPAN 980 1018	direct or indirect autogenous negative
+T17	SPAN 1028 1049	These two regulations
+T18	Regulator 1110 1114	CysB
+T19	Regulator 1123 1141	a direct repressor
+T20	Gene 1145 1149	hslJ
+T21	Promoter 1174 1198	the hslJ promoter region
+T22	Regulator 1251 1255	CysB
+T23	SPAN 1362 1365	NAS
+T24	SPAN 1417 1430	CysB-mediated
+T25	Gene 1431 1435	gene
+T26	SPAN 1449 1461	Interallelic
+T27	SPAN 1481 1524	characterized CysB mutants I33N and S277Ter
+T28	SPAN 1525 1534	partially
+T29	Gene 1562 1566	hslJ
+T30	SPAN 1585 1622	the consequent novobiocin sensitivity

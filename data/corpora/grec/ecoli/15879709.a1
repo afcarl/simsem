@@ -1,0 +1,16 @@
+T1	Gene 185 190	genes
+T2	RNA 203 221	stable RNA species
+T3	RNA 231 235	rRNA
+T4	RNA 240 244	tRNA
+T5	Gene 263 276	the rnpB gene
+T6	RNA 286 292	M1 RNA
+T7	Protein 511 514	FIS
+T8	SPAN 524 535	these sites
+T9	Gene 563 567	rnpB
+T10	Protein 702 705	FIS
+T11	SPAN 724 759	the upstream region of the promoter
+T12	Promoter 747 759	the promoter
+T13	SPAN 773 799	the region from +4 to +18.
+T14	SPAN 800 803	FIS
+T15	Gene 814 818	rnpB
+T16	SPAN 833 841	in vitro

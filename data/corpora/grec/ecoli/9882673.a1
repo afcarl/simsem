@@ -1,0 +1,27 @@
+T1	Activator 17 21	RcsA
+T2	Gene_Expression 117 135	its own expression
+T3	Gene_Expression 138 167	Capsule (cps) gene expression
+T4	Gene 147 150	cps
+T5	SPAN 168 187	in Escherichia coli
+T6	Wild_Type_Bacteria 171 187	Escherichia coli
+T7	Regulator 226 236	regulators
+T8	Operon 255 269	the cps operon
+T9	Activator 321 325	RcsA
+T10	Activator 330 334	RcsB
+T11	Activator 354 358	RcsA
+T12	SPAN 381 399	its own expression
+T13	Locus 449 484	a rcsA::lacZ transcriptional fusion
+T14	SPAN 485 528	in strains with high levels of RcsA protein
+T15	Bacteria 488 495	strains
+T16	Activator 590 594	RcsA
+T17	Plasmid 600 619	a multicopy plasmid
+T18	Locus 635 656	the rcsA::lacZ fusion
+T19	Activator 710 714	RcsB
+T20	Activator 744 748	H-NS
+T21	Activator 753 757	RcsB
+T22	Gene 779 783	rcsA
+T23	SPAN 815 831	A sequence motif
+T24	SPAN 985 1012	in the rcsA promoter region
+T25	Promoter 988 1012	the rcsA promoter region
+T26	SPAN 1042 1063	high-level expression
+T27	Gene 1067 1071	rcsA

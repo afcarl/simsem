@@ -1,0 +1,36 @@
+T30	Gene_Repression 0 10	Repression
+T31	GRE 93 101	requires
+T32	Gene_Activation 238 247	activates
+T33	Gene_Expression 248 258	expression
+T34	GRE 282 289	binding
+T35	GRE 357 364	encoded
+T36	Gene_Expression 392 401	expressed
+T37	GRE 573 581	overlaps
+T38	GRE 656 663	binding
+T39	Regulation 681 693	downregulate
+T40	Gene_Expression 694 704	expression
+T41	Gene_Repression 782 792	repression
+T42	GRE 858 866	requires
+T43	GRE 958 966	required
+T44	Gene_Activation 1199 1208	activated
+T45	Gene_Repression 1290 1299	repressed
+T46	GRE 1308 1315	binding
+T47	GRE 1333 1341	overlaps
+E1	Gene_Repression:T30 Agent:T2 Theme:T1
+E2	GRE:T31 Agent:T4 Purpose:T3
+E3	Gene_Activation:T32 Agent:T5 Theme:E4 Condition:T6
+E4	Gene_Expression:T33 Theme:T7 Manner:E5
+E5	GRE:T34 Destination:T8
+E6	GRE:T35 Agent:T10 Theme:T9
+E7	Gene_Expression:T36 Theme:T10 Source:T11
+E8	GRE:T37 Agent:T12 Theme:T13
+E9	GRE:T38 Agent:T14 Destination:T15
+E10	Regulation:T39 Agent:E9 Theme:E11
+E11	Gene_Expression:T40 Source:T16
+E12	Gene_Repression:T41 Theme:T17 Condition:T18
+E13	GRE:T42 Agent:T19 Purpose:E12
+E14	GRE:T43 Agent:T21 Purpose:T22
+E15	Gene_Activation:T44 Theme:T24 Condition:T23
+E16	Gene_Repression:T45 Agent:E17 Theme:T26 Condition:T25
+E17	GRE:T46 Agent:T27 Destination:T28
+E18	GRE:T47 Agent:T28 Theme:T29

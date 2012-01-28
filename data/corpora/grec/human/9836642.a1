@@ -1,0 +1,21 @@
+T1	Transcription_Factor 15 27	RSF and FACT
+T2	DNA 49 68	chromatin templates
+T3	SPAN 69 77	in vitro
+T4	DNA 97 106	naked DNA
+T5	SPAN 107 115	in vitro
+T6	Transcription_Factor 125 158	the general transcription factors
+T7	RNA_Polymerase 163 180	RNA polymerase II
+T8	SPAN 260 276	the DNA template
+T9	SPAN 294 303	chromatin
+T10	Transcription_Factor 311 319	a factor
+T11	SPAN 337 356	activator-dependent
+T12	Transcription 357 370	transcription
+T13	SPAN 382 404	on chromatin templates
+T14	RNA_Polymerase 552 563	Polymerases
+T15	Transcription 578 591	transcription
+T16	mRNA 617 634	their transcripts
+T17	Protein 654 658	FACT
+T18	SPAN 672 681	chromatin
+T19	SPAN 740 759	activator-dependent
+T20	SPAN 777 796	chromatin templates
+T21	SPAN 797 805	in vitro

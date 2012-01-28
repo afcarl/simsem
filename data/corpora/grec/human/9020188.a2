@@ -1,0 +1,62 @@
+T50	GRE 42 50	requires
+T51	GRE 69 77	contacts
+T52	GRE 78 86	provided
+T53	GRE 115 126	interaction
+T54	GRE 154 163	responses
+T55	GRE 188 196	mediated
+T56	GRE 368 376	required
+T57	GRE 401 410	responses
+T58	GRE 445 454	Responses
+T59	GRE 491 498	require
+T60	GRE 561 565	form
+T61	GRE 647 653	formed
+T62	GRE 698 706	interact
+T63	GRE 720 728	function
+T64	GRE 797 804	forming
+T65	GRE 829 838	interacts
+T66	GRE 856 865	recruited
+T67	GRE 882 890	activate
+T68	GRE 941 949	required
+T69	GRE 1218 1226	interact
+T70	GRE 1283 1292	increases
+T71	GRE 1310 1316	alters
+T72	GRE 1353 1365	interactions
+T73	GRE 1369 1379	contacting
+T74	GRE 1490 1498	involves
+T75	GRE 1503 1514	functioning
+T76	GRE 1540 1547	recruit
+T77	GRE 1615 1626	contributes
+T78	GRE 1685 1692	contact
+T79	GRE 1710 1720	stabilizes
+T80	GRE 1748 1758	contacting
+E1	GRE:T50 Agent:T2 Theme:E2 Purpose:E4
+E2	GRE:T51 Manner:T3
+E3	GRE:T52 Agent:T4,T5 Theme:E2
+E4	GRE:T53 Agent:T1 Agent:T6
+E5	GRE:T54 Theme:T8 Manner:T7
+E6	GRE:T55 Agent:T9,T10 Theme:E5
+E7	GRE:T56 Theme:T11 Purpose:E8
+E8	GRE:T57 Manner:T12 Theme:T13
+E9	GRE:T58 Theme:T14
+E10	GRE:T59 Agent:E9 Theme:T15,T16
+E11	GRE:T60 Agent:T15,T16 Agent:T17
+E12	GRE:T61 Theme:T18 Condition:T19
+E13	GRE:T62 Agent:T18 Agent:T20
+E14	GRE:T63 Agent:T18 Descriptive-Agent:T21
+E15	GRE:T64 Agent:T22 Theme:T23
+E16	GRE:T65 Agent:T23 Agent:T24
+E17	GRE:T66 Theme:T22 Destination:T25
+E18	GRE:T67 Agent:T22 Theme:T26
+E19	GRE:T68 Theme:T27
+E20	GRE:T69 Agent:T28 Agent:T29
+E21	GRE:T70 Agent:T30 Theme:T31
+E22	GRE:T71 Agent:T30 Theme:T32
+E23	GRE:T72 Agent:T33
+E24	GRE:T73 Theme:T34 Destination:T35
+E25	GRE:T74 Agent:T36 Theme:T37
+E26	GRE:T75 Agent:T37 Descriptive-Agent:T38 Purpose:E27
+E27	GRE:T76 Agent:T37 Theme:T39,T40 Destination:T41
+E28	GRE:T77 Agent:T42 Theme:T43
+E29	GRE:T78 Agent:T42 Theme:T45 Manner:T44
+E30	GRE:T79 Agent:T46 Theme:T47
+E31	GRE:T80 Agent:T46 Theme:T48 Manner:T49

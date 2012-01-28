@@ -1,0 +1,16 @@
+T16	GRE 171 179	required
+T17	Transcription 196 209	transcription
+T18	GRE 296 304	encoding
+T19	Gene_Expression 662 672	expression
+T20	GRE 712 722	complement
+T21	Gene_Expression 746 756	expression
+T22	GRE 836 846	complement
+T23	GRE 951 960	conserved
+E1	GRE:T16 Theme:T1 Condition:T2 Purpose:E2
+E2	Transcription:T17 Theme:T3
+E3	GRE:T18 Agent:T4 Theme:T5
+E4	Gene_Expression:T19 Theme:T6
+E5	GRE:T20 Agent:T6 Theme:T8 Manner:T7
+E6	Gene_Expression:T21 Theme:T9
+E7	GRE:T22 Agent:E6 Theme:T11 Manner:T10
+E8	GRE:T23 Theme:T12 Location:T13

@@ -1,0 +1,26 @@
+T20	GRE 135 143	involved
+T21	Mutation 166 175	mutations
+T22	GRE 207 213	reduce
+T23	GRE 495 502	results
+T24	Transcription 520 533	transcription
+T25	GRE 548 556	encoding
+T26	GRE 718 727	abolishes
+T27	GRE 833 841	carrying
+T28	Transcription 924 937	transcription
+T29	GRE 979 988	increases
+T30	Transcription 1008 1021	transcription
+T31	Regulation 1025 1042	dephosphorylation
+T32	GRE 1058 1062	acts
+E1	GRE:T20 Agent:T1 Descriptive-Agent:T2
+E2	Mutation:T21 Theme:T3
+E3	GRE:T22 Agent:E2 Theme:T4 Manner:T5
+E4	GRE:T23 Agent:E5 Theme:T6
+E5	Transcription:T24 Theme:T8 Manner:T7
+E6	GRE:T25 Agent:T9 Theme:T8
+E7	GRE:T26 Agent:T10 Theme:T11
+E8	GRE:T27 Theme:T12 Descriptive-Theme:T13
+E9	Transcription:T28 Theme:T14
+E10	GRE:T29 Agent:T15 Theme:T16 Manner:E12
+E11	Transcription:T30 Theme:T17 Manner:E12
+E12	Regulation:T31 Theme:T18
+E13	GRE:T32 Agent:T18 Descriptive-Agent:T19

@@ -1,0 +1,10 @@
+T9	GRE 24 32	mediated
+T10	GRE 512 515	act
+T11	GRE 610 618	mediated
+T12	GRE 622 635	sequestration
+T13	GRE 759 767	function
+E1	GRE:T9 Agent:T2 Theme:T1
+E2	GRE:T10 Theme:T3 Descriptive-Theme:T4
+E3	GRE:T11 Agent:E4 Theme:T5
+E4	GRE:T12 Theme:T6
+E5	GRE:T13 Theme:T7 Descriptive-Theme:T8

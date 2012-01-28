@@ -1,0 +1,38 @@
+T1	SPAN 0 12	Differential
+T2	Regulator 62 66	NarL
+T3	Regulator 71 75	NarP
+T4	SPAN 112 140	DNA binding site arrangement
+T5	Regulator 143 169	The NarL and NarP proteins
+T6	Operon 256 271	several operons
+T7	Inorganic_Compounds 287 294	nitrate
+T8	Inorganic_Compounds 299 306	nitrite
+T9	Operon 479 491	some operons
+T10	Regulator 509 513	NarL
+T11	SPAN 514 519	alone
+T12	Operon 529 535	others
+T13	Regulator 559 563	NarL
+T14	Regulator 568 572	NarP
+T15	Regulator 681 685	NarP
+T16	SPAN 686 690	only
+T17	DNA 700 718	heptamer sequences
+T18	Regulator 786 802	The NarL protein
+T19	DNA 817 834	these 7-2-7 sites
+T20	DNA 869 900	heptamers in other arrangements
+T21	Operon 961 973	some operons
+T22	Regulator 977 981	NarL
+T23	SPAN 982 987	alone
+T24	Regulator 1021 1025	NarL
+T25	Regulator 1030 1034	NarP
+T26	Operon 1038 1059	common target operons
+T27	SPAN 1272 1294	Increasing the spacing
+T28	Regulator 1331 1335	NarP
+T29	SPAN 1348 1361	significantly
+T30	Regulator 1370 1374	NarL
+T31	SPAN 1513 1524	cooperative
+T32	DNA 1570 1581	7-2-7 sites
+T33	Regulator 1604 1608	NarL
+T34	Regulator 1613 1617	NarP
+T35	Regulator 1619 1623	NarL
+T36	Transcription_Binding_Site 1643 1674	other binding site arrangements
+T37	SPAN 1676 1686	an ability
+T38	Regulator 1717 1721	NarP

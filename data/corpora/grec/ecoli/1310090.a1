@@ -1,0 +1,33 @@
+T1	SPAN 33 37	ompB
+T2	SPAN 52 71	in Escherichia coli
+T3	Wild_Type_Bacteria 55 71	Escherichia coli
+T4	Organic_Compounds 75 85	cyclic AMP
+T5	Protein 90 121	the cyclic AMP receptor protein
+T6	Operon 124 139	The ompB operon
+T7	Protein 148 161	OmpR and EnvZ
+T8	Protein 236 260	the OmpF and OmpC porins
+T9	SPAN 261 280	in Escherichia coli
+T10	Wild_Type_Bacteria 264 280	Escherichia coli
+T11	Gene 418 422	ompB
+T12	SPAN 434 475	in an ompB-lacZ chromosomal fusion strain
+T13	Mutant_Bacteria 437 475	an ompB-lacZ chromosomal fusion strain
+T14	SPAN 490 506	two- to fivefold
+T15	SPAN 507 528	when cells were grown
+T16	Wild_Type_Bacteria 512 517	cells
+T17	Organic_Compounds 532 594	medium containing poor carbon sources or with added cyclic AMP
+T18	SPAN 645 657	this control
+T19	SPAN 687 708	positive and negative
+T20	Protein_Complex 720 734	cyclic AMP-CRP
+T21	SPAN 735 761	on multiple ompB promoters
+T22	Promoter 738 761	multiple ompB promoters
+T23	Protein_Complex 797 811	cyclic AMP-CRP
+T24	Locus 821 833	a 34-bp site
+T25	mRNA 895 916	the major transcripts
+T26	Protein_Complex 968 980	this complex
+T27	SPAN 1086 1093	in vivo
+T28	Gene 1108 1112	ompB
+T29	Organic_Compounds 1127 1137	cyclic AMP
+T30	Operon 1150 1165	the ompB operon
+T31	Protein_Complex 1169 1183	cyclic AMP-CRP
+T32	Protein 1244 1257	OmpF and OmpC
+T33	Protein_Complex 1261 1273	this complex

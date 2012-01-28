@@ -1,0 +1,28 @@
+T28	Recombination 74 87	recombination
+T29	GRE 244 254	maintained
+T30	GRE 303 308	arise
+T31	Recombination 343 356	recombination
+T32	GRE 371 380	converted
+T33	GRE 438 442	acts
+T34	GRE 512 515	act
+T35	GRE 595 601	encode
+T36	GRE 612 620	required
+T37	Recombination 652 665	recombination
+T38	GRE 804 812	encoding
+T39	GRE 887 892	binds
+T40	GRE 986 994	required
+T41	GRE 998 1006	generate
+E1	Recombination:T28 Manner:T1 Location:T2
+E2	GRE:T29 Theme:T4 Descriptive-Theme:T5
+E3	GRE:T30 Theme:T6 Instrument:T8
+E4	Recombination:T31 Manner:T7
+E5	GRE:T32 Agent:T9 Theme:T6
+E6	GRE:T33 Agent:T9 Location:T10,T11
+E7	GRE:T34 Agent:T12 Location:T13
+E8	GRE:T35 Agent:T15 Theme:T16
+E9	GRE:T36 Theme:T16 Purpose:E10
+E10	Recombination:T37 Manner:T17
+E11	GRE:T38 Agent:T18 Theme:T19
+E12	GRE:T39 Agent:T20 Destination:T21 Condition:T22,T23,T24
+E13	GRE:T40 Theme:T25 Purpose:E14
+E14	GRE:T41 Theme:T26 Location:T27

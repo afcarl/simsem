@@ -1,0 +1,38 @@
+T32	Gene_Expression 34 44	expression
+T33	GRE 75 83	encoding
+T34	Gene_Expression 152 162	Expression
+T35	GRE 175 183	encoding
+T36	GRE 219 227	encoding
+T37	GRE 274 282	elevated
+T38	Gene_Repression 299 308	repressed
+T39	GRE 362 371	initiated
+T40	GRE 533 541	prevents
+T41	Gene_Expression 554 564	expression
+T42	Gene_Expression 1017 1027	expression
+T43	Mutation 1133 1141	mutation
+T44	GRE 1159 1167	encoding
+T45	GRE 1226 1236	alleviated
+T46	Gene_Repression 1251 1262	repressions
+T47	Mutation 1264 1273	Mutations
+T48	GRE 1566 1574	encoding
+T49	GRE 1609 1617	encoding
+T50	GRE 1655 1663	encoding
+E1	Gene_Expression:T32 Theme:T1
+E2	GRE:T33 Agent:T1 Theme:T2,T3
+E3	Gene_Expression:T34 Theme:T4,T6
+E4	GRE:T35 Agent:T4 Theme:T5
+E5	GRE:T36 Agent:T6 Theme:T7
+E6	GRE:T37 Theme:E3 Location:T10 Condition:T8
+E7	Gene_Repression:T38 Theme:E3 Location:T10 Condition:T9
+E8	GRE:T39 Agent:T13 Theme:T12
+E9	GRE:T40 Agent:T12 Theme:T15
+E10	Gene_Expression:T41 Theme:T14,T16
+E11	Gene_Expression:T42 Theme:T17,T18
+E12	Mutation:T43 Location:T19
+E13	GRE:T44 Agent:T20 Theme:T21
+E14	GRE:T45 Agent:E12 Theme:T22
+E15	Gene_Repression:T46 Condition:T23
+E16	Mutation:T47 Location:T24
+E17	GRE:T48 Agent:T26 Theme:T27
+E18	GRE:T49 Agent:T28 Theme:T29
+E19	GRE:T50 Agent:T30 Theme:T31

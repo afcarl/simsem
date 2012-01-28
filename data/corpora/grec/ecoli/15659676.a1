@@ -1,0 +1,28 @@
+T1	Protein 161 164	Fur
+T2	Gene 189 205	the iron regulon
+T3	SPAN 221 238	iron availability
+T4	Protein 278 281	Crp
+T5	Gene 307 325	the carbon regulon
+T6	SPAN 341 360	carbon availability
+T7	Gene 481 506	Many iron transport genes
+T8	SPAN 511 541	several carbon metabolic genes
+T9	Protein 602 605	Crp
+T10	Protein 635 638	Fur
+T11	Gene 649 662	the sodB gene
+T12	Enzyme 673 693	superoxide dismutase
+T13	Operon 699 716	the aceBAK operon
+T14	Enzyme 727 755	the glyoxalate shunt enzymes
+T15	Protein 817 820	Crp
+T16	Protein 850 853	Fur
+T17	Gene 885 895	the sdhA-D
+T18	SPAN 885 903	the sdhA-D, sucA-D
+T19	Gene 909 919	fumA genes
+T20	SPAN 930 965	key constituents of the Krebs cycle
+T21	Transcription_Factor 1005 1031	both transcription factors
+T22	Protein 1054 1070	both Crp and Fur
+T23	SPAN 1081 1111	a heterogeneous group of genes
+T24	Gene 1106 1111	genes
+T25	Sigma_Factor 1118 1132	sigmaS control
+T26	Enzyme 1156 1316	the cyclopropane fatty acid synthase, Cfa, the glycogen synthesis protein, GlgS, the 30S ribosomal protein, S22, and the mechanosensitive channel protein, YggB.
+T27	Gene 1317 1327	Many genes
+T28	Transcription_Factor 1356 1385	the two transcription factors

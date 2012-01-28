@@ -1,0 +1,32 @@
+T1	Gene 31 50	cell division genes
+T2	SPAN 202 207	genes
+T3	SPAN 220 243	peptidoglycan synthesis
+T4	SPAN 259 273	in the cluster
+T5	DNA 262 273	the cluster
+T6	SPAN 286 304	the same direction
+T7	SPAN 367 377	Regulation
+T8	SPAN 392 443	the transcriptional and post-transcriptional levels
+T9	mRNA 534 549	the transcripts
+T10	SPAN 560 562	at
+T11	Promoter 587 593	mraZ1p
+T12	DNA 747 758	the cluster
+T13	Promoter 768 783	other promoters
+T14	SPAN 784 796	individually
+T15	SPAN 810 839	cis- and trans-acting signals
+T16	Gene 875 888	the ftsZ gene
+T17	Gene 1089 1093	gene
+T18	SPAN 1105 1119	in the cluster
+T19	Promoter 1255 1264	promoters
+T20	Gene 1296 1300	ftsI
+T21	Protein 1313 1317	PBP3
+T22	Promoter 1401 1407	ftsQ1p
+T23	SPAN 1423 1434	the signals
+T24	Gene 1467 1471	ftsQ
+T25	Gene 1473 1474	A
+T26	Gene 1479 1480	Z
+T27	SPAN 1482 1484	It
+T28	RNA_Polymerase 1538 1552	RNA polymerase
+T29	Transcription_Factor 1564 1571	sigma s
+T30	Gene 1614 1645	stationary phase-specific genes
+T31	Gene 1751 1755	gene
+T32	Gene 1795 1811	individual genes

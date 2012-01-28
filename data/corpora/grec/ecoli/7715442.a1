@@ -1,0 +1,38 @@
+T1	Gene 14 23	the genes
+T2	Regulator 35 79	the Escherichia coli integration host factor
+T3	SPAN 98 110	growth phase
+T4	Sigma_Factor 112 116	rpoS
+T5	Inorganic_Compounds 118 123	ppGpp
+T6	Regulation 131 145	autoregulation
+T7	Gene 175 206	the himA and the himD/hip genes
+T8	Sub_Unit 218 234	the two subunits
+T9	Promoter 402 416	both promoters
+T10	SPAN 442 474	the cells enter stationary phase
+T11	SPAN 485 492	in rpoS
+T12	Sigma_Factor 488 492	rpoS
+T13	SPAN 514 544	upon entry to stationary phase
+T14	SPAN 567 592	the growth-phase response
+T15	Promoter 665 686	the himD/hip promoter
+T16	Gene_Expression 688 710	The increased activity
+T17	Gene 754 777	the relA and spoT genes
+T18	Inorganic_Compounds 857 888	An artificial increase in ppGpp
+T19	SPAN 889 919	in exponentially growing cells
+T20	Wild_Type_Bacteria 892 919	exponentially growing cells
+T21	mRNA 948 980	himA P4 and himD/hip mRNA levels
+T22	SPAN 1192 1212	different mechanisms
+T23	Sigma_Factor 1223 1237	RpoS and ppGpp
+T24	SPAN 1247 1272	the growth-phase response
+T25	Inorganic_Compounds 1325 1330	ppGpp
+T26	Promoter 1334 1341	himA P4
+T27	Sigma_Factor 1358 1362	RpoS
+T28	Promoter 1371 1392	the himD/hip promoter
+T29	Inorganic_Compounds 1408 1413	ppGpp
+T30	SPAN 1414 1435	independently of RpoS
+T31	Sigma_Factor 1431 1435	RpoS
+T32	Gene 1451 1478	the himD/hip and himA genes
+T33	Transcription_Binding_Site 1531 1548	IHF-binding sites
+T34	Regulation 1564 1578	autoregulation
+T35	Promoter 1607 1641	the himD/hip and himA P4 promoters
+T36	Transcription_Binding_Site 1643 1673	An additional IHF-binding site
+T37	SPAN 1684 1717	upstream of the himD/hip promoter
+T38	Promoter 1696 1717	the himD/hip promoter

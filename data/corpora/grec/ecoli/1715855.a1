@@ -1,0 +1,46 @@
+T1	Protein_Complex 15 51	(cAMP)-cAMP receptor protein complex
+T2	Regulator 62 103	both as an activator and as a corepressor
+T3	SPAN 104 126	at the tsx-p2 promoter
+T4	Promoter 107 126	the tsx-p2 promoter
+T5	Promoter 184 225	at least seven Escherichia coli promoters
+T6	Activator 248 305	the cyclic AMP (cAMP)-cAMP receptor protein (CRP) complex
+T7	SPAN 310 320	negatively
+T8	Repressor 334 352	the CytR repressor
+T9	Activator 578 608	the cAMP-CRP activator complex
+T10	Locus 620 629	two sites
+T11	SPAN 630 639	in tsx-p2
+T12	Promoter 633 639	tsx-p2
+T13	Repressor 791 809	The CytR repressor
+T14	DNA 819 832	a DNA segment
+T15	Regulator 932 962	the cAMP-CRP and CytR proteins
+T16	SPAN 968 981	cooperatively
+T17	Promoter 985 991	tsx-p2
+T18	SPAN 1146 1154	cytidine
+T19	SPAN 1173 1181	in vitro
+T20	DNA 1182 1185	DNA
+T21	Repressor 1197 1201	CytR
+T22	Repressor 1216 1229	the repressor
+T23	Protein_Complex 1235 1260	the nucleoprotein complex
+T24	Activator 1272 1294	the cAMP-CRP activator
+T25	DNA 1304 1323	its two DNA targets
+T26	SPAN 1331 1339	cytidine
+T27	Regulator 1387 1404	cAMP-CRP and CytR
+T28	Promoter 1408 1414	tsx-p2
+T29	Mutant_Bacteria 1433 1452	four tsx-p2 mutants
+T30	Phenotype 1464 1482	a reduced response
+T31	Mutant_Bacteria 1492 1497	three
+T32	SPAN 1516 1533	in the CRP-2 site
+T33	Transcription_Binding_Site 1519 1533	the CRP-2 site
+T34	Mutant_Bacteria 1539 1542	one
+T35	SPAN 1562 1610	in the region between CRP-1 and the -10 sequence
+T36	DNA 1565 1575	the region
+T37	Protein_Complex 1625 1668	the cAMP-CRP-CytR DNA nucleoprotein complex
+T38	SPAN 1669 1677	in vitro
+T39	Repressor 1733 1751	the CytR repressor
+T40	SPAN 1762 1808	the presence of the cAMP-CRP activator complex
+T41	Protein_Complex 1778 1808	the cAMP-CRP activator complex
+T42	Gene_Expression 1821 1845	tsx-p2 promoter activity
+T43	Repressor 1872 1900	an active repression complex
+T44	Regulator 1939 1956	cAMP-CRP and CytR
+T45	SPAN 1957 1966	at tsx-p2
+T46	Promoter 1960 1966	tsx-p2

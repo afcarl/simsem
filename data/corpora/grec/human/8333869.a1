@@ -1,0 +1,10 @@
+T1	Transcription_Factor 166 171	mtTF1
+T2	SPAN 194 207	transcription
+T3	SPAN 212 223	replication
+T4	SPAN 256 261	mtDNA
+T5	SPAN 366 370	gene
+T6	Transcription_Factor 385 390	mtTF1
+T7	DNA 691 709	the second HMG-box
+T8	DNA 744 747	DNA
+T9	Gene 778 794	the genomic gene
+T10	Transcription_Factor 804 819	the human mtTF1

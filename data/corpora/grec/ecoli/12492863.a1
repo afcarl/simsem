@@ -1,0 +1,32 @@
+T1	Transcription 23 36	transcription
+T2	Operon 51 86	the Escherichia coli acetate operon
+T3	Repressor 90 94	IclR
+T4	Operon 121 155	the Escherichia coli aceBAK operon
+T5	Gene 189 193	aceB
+T6	Gene 213 217	aceA
+T7	Gene 271 275	aceK
+T8	Repressor 303 307	IclR
+T9	Gene 341 345	iclR
+T10	SPAN 349 369	an autogenous manner
+T11	Repressor 441 445	IclR
+T12	Transcription_Binding_Site 455 466	an IclR box
+T13	Promoter 496 513	the iclR promoter
+T14	RNA_Polymerase 537 555	the RNA polymerase
+T15	Transcription 584 597	transcription
+T16	Repressor 644 648	IclR
+T17	Locus 658 669	IclR box II
+T18	RNA_Polymerase 742 760	the RNA polymerase
+T19	Promoter 764 777	this promoter
+T20	Transcription_Binding_Site 810 820	IclR box I
+T21	SPAN 837 878	between -125 and -99 of the aceB promoter
+T22	Locus 845 857	-125 and -99
+T23	Promoter 861 878	the aceB promoter
+T24	Repressor 880 884	IclR
+T25	Transcription_Binding_Site 894 909	this IclR box I
+T26	SPAN 915 964	after formation of the aceB promoter open complex
+T27	SPAN 988 1019	disassembly of the open complex
+T28	Gene 1046 1050	aceB
+T29	SPAN 1223 1229	direct
+T30	Sub_Unit 1250 1262	the alphaCTD
+T31	Repressor 1267 1297	the IclR box I-associated IclR
+T32	Gene_Repression 1305 1319	the repression

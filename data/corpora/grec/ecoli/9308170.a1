@@ -1,0 +1,31 @@
+T1	SPAN 14 26	the ndh gene
+T2	Repressor 50 73	integration host factor
+T3	Activator 97 100	Arr
+T4	Gene 103 115	The ndh gene
+T5	Enzyme 144 194	the non-proton-translocating NADH dehydrogenase II
+T6	Gene 210 222	the ndh gene
+T7	Laboratory_Technique 314 334	anaerobic conditions
+T8	Gene 335 338	ndh
+T9	Repressor 404 407	FNR
+T10	Repressor 437 440	FNR
+T11	Gene 442 445	ndh
+T12	Activator 508 511	Arr
+T13	SPAN 520 536	anaerobic growth
+T14	SPAN 540 551	rich medium
+T15	Gene 567 579	the ndh gene
+T16	SPAN 594 610	the growth cycle
+T17	Protein 698 701	Fis
+T18	Transcription_Factor 778 781	IHF
+T19	Transcription_Factor 787 814	the histone-like protein HU
+T20	Promoter 843 859	the ndh promoter
+T21	Repressor 861 864	IHF
+T22	Transcription_Binding_Site 886 897	three sites
+T23	SPAN 974 986	open-complex
+T24	Gene 1012 1015	ndh
+T25	SPAN 1030 1038	in vitro
+T26	Repressor 1087 1090	IHF
+T27	Gene 1101 1104	ndh
+T28	SPAN 1116 1123	in vivo
+T29	Repressor 1327 1330	IHF
+T30	SPAN 1335 1346	a component
+T31	Promoter 1405 1436	the corresponding ansB promoter

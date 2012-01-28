@@ -1,0 +1,11 @@
+T1	Gene 28 33	genes
+T2	Transcription_Factor 70 75	c-rel
+T3	Transcription_Factor 77 90	NF-kappa Bp50
+T4	Transcription_Factor 92 100	NF-kappa
+T5	Transcription_Factor 101 105	Bp65
+T6	Transcription_Factor 111 117	lyt-10
+T7	Gene 255 264	the genes
+T8	Transcription_Factor 300 305	c-rel
+T9	Transcription_Factor 307 320	NF-kappa Bp50
+T10	Transcription_Factor 322 335	NF-kappa Bp65
+T11	Transcription_Factor 341 347	lyt-10

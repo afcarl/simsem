@@ -1,0 +1,46 @@
+T35	GRE 0 11	Interaction
+T36	GRE 53 61	controls
+T37	GRE 184 191	encodes
+T38	Transcription 277 290	Transcription
+T39	GRE 350 359	initiated
+T40	GRE 428 438	controlled
+T41	GRE 428 438	controlled
+T42	GRE 650 660	determined
+T43	GRE 686 693	Binding
+T44	GRE 715 724	protected
+T45	GRE 989 994	found
+T46	GRE 1350 1359	measuring
+T47	Gene_Repression 1360 1370	repression
+T48	Mutation 1455 1465	Alteration
+T49	GRE 1494 1502	decrease
+T50	Gene_Repression 1503 1513	repression
+T51	GRE 1561 1572	contributed
+T52	Gene_Repression 1576 1586	repression
+T53	Gene_Expression 1680 1690	expression
+T54	Gene_Repression 1811 1821	repression
+T55	GRE 1858 1868	containing
+T56	GRE 1990 2000	eliminated
+T57	Gene_Repression 2001 2011	repression
+E1	GRE:T35 Agent:T1
+E2	GRE:T36 Agent:E1 Theme:T2
+E3	GRE:T37 Agent:T3 Theme:T4
+E4	Transcription:T38 Theme:T5
+E5	GRE:T39 Theme:E4 Location:T6
+E6	GRE:T40 Agent:T10 Theme:T8 Manner:T9
+E7	GRE:T41 Agent:T12 Theme:T8 Manner:T11
+E8	GRE:T42 Theme:T13 Instrument:T15
+E9	GRE:T43 Agent:T16
+E10	GRE:T44 Agent:E9 Theme:T17 Location:T18
+E11	GRE:T45 Theme:T20 Location:T21
+E12	GRE:T46 Theme:E13
+E13	Gene_Repression:T47 Theme:T23
+E14	Mutation:T48 Theme:T24
+E15	GRE:T49 Agent:E14 Theme:E16
+E16	Gene_Repression:T50 Theme:T25
+E17	GRE:T51 Theme:T26 Descriptive-Theme:E18
+E18	Gene_Repression:T52 Theme:T27
+E19	Gene_Expression:T53 Theme:T28
+E20	Gene_Repression:T54 Theme:T29 Location:T30
+E21	GRE:T55 Theme:T31 Descriptive-Theme:T32
+E22	GRE:T56 Agent:T33 Theme:E23
+E23	Gene_Repression:T57 Theme:T34

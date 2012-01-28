@@ -1,0 +1,28 @@
+T29	GRE 17 28	potentiates
+T30	Transcription 45 55	activation
+T31	GRE 214 222	encoding
+T32	Gene_Expression 418 428	expression
+T33	GRE 488 499	potentiates
+T34	GRE 516 527	stimulation
+T35	GRE 661 667	affect
+T36	GRE 755 763	requires
+T37	Gene_Activation 892 902	Expression
+T38	GRE 923 933	stimulates
+T39	Gene_Activation 1045 1059	overexpression
+T40	Gene_Activation 1060 1071	compensates
+T41	GRE 1126 1136	facilitate
+T42	GRE 1141 1152	recruitment
+E1	GRE:T29 Agent:T1 Theme:E2
+E2	Transcription:T30 Agent:T3 Manner:T2 Location:T4
+E3	GRE:T31 Agent:T6 Theme:T9
+E4	Gene_Expression:T32 Theme:T13 Location:T14
+E5	GRE:T33 Agent:E4 Theme:E6 Manner:T15
+E6	GRE:T34 Agent:T17 Manner:T16
+E7	GRE:T35 Agent:E4 Theme:T18
+E8	GRE:T36 Agent:T19 Theme:T20
+E9	Gene_Activation:T37 Theme:T22
+E10	GRE:T38 Agent:E9 Theme:T23 Temporal:T25
+E11	Gene_Activation:T39 Theme:T26
+E12	Gene_Activation:T40 Agent:E12
+E13	GRE:T41 Agent:T26 Theme:E14
+E14	GRE:T42 Agent:T28 Theme:T27

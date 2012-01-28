@@ -1,0 +1,16 @@
+T13	Gene_Activation 263 273	activation
+T14	GRE 296 304	requires
+T15	GRE 309 317	function
+T16	Regulation 540 549	regulated
+T17	GRE 815 824	exhibited
+T18	Gene_Activation 849 859	activation
+T19	GRE 1062 1070	effected
+T20	GRE 1079 1086	control
+E1	Gene_Activation:T13 Theme:T1
+E2	GRE:T14 Agent:E1 Theme:E3
+E3	GRE:T15 Theme:T2
+E4	Regulation:T16 Agent:T4 Theme:T3
+E5	GRE:T17 Agent:T6 Theme:E6 Manner:T7
+E6	Gene_Activation:T18 Theme:T8 Location:T9
+E7	GRE:T19 Theme:T10 Descriptive-Theme:E8
+E8	GRE:T20 Theme:T11,T12

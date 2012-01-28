@@ -1,0 +1,44 @@
+T30	GRE 93 102	activates
+T31	GRE 107 116	represses
+T32	GRE 147 156	regulates
+T33	GRE 185 190	binds
+T34	GRE 304 312	contains
+T35	GRE 407 412	plays
+T36	Regulation 416 430	autoregulation
+T37	Gene_Expression 435 445	expression
+T38	Regulation 546 560	autoregulation
+T39	Gene_Expression 569 579	expression
+T40	GRE 641 646	cause
+T41	Gene_Expression 673 686	overexpressed
+T42	GRE 726 734	increase
+T43	Gene_Expression 977 987	expression
+T44	GRE 1001 1007	causes
+T45	GRE 1012 1016	loss
+T46	Gene_Repression 1036 1046	repression
+T47	Gene_Expression 1080 1094	overexpression
+T48	Gene_Repression 1134 1144	repression
+T49	Regulation 1200 1210	regulation
+T50	GRE 1295 1305	regulation
+T51	Gene_Expression 1313 1323	expression
+E1	GRE:T30 Agent:T1 Theme:T2
+E2	GRE:T31 Agent:T1 Theme:T2
+E3	GRE:T32 Agent:T1 Theme:T4 Manner:T3
+E4	GRE:T33 Agent:T5 Location:T7 Destination:T6,T9
+E5	GRE:T34 Theme:T10 Descriptive-Theme:T11
+E6	GRE:T35 Agent:T12 Descriptive-Agent:T13,T14
+E7	Regulation:T36 Theme:T15
+E8	Gene_Expression:T37 Theme:T15
+E9	Regulation:T38 Theme:E10
+E10	Gene_Expression:T39 Theme:T16
+E11	GRE:T40 Agent:T17 Theme:E12
+E12	Gene_Expression:T41 Theme:T18 Rate:T19
+E13	GRE:T42 Theme:T20
+E14	Gene_Expression:T43 Theme:T21
+E15	GRE:T44 Agent:E14 Theme:E16
+E16	GRE:T45 Theme:E17
+E17	Gene_Repression:T46 Theme:T23 Manner:T22
+E18	Gene_Expression:T47 Theme:T24
+E19	Gene_Repression:T48 Theme:T26 Manner:T25
+E20	Regulation:T49 Theme:T27
+E21	GRE:T50 Theme:E22 Condition:T29
+E22	Gene_Expression:T51 Theme:T28

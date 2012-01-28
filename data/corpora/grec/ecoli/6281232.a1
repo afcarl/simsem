@@ -1,0 +1,27 @@
+T1	Laboratory_Technique 7 28	in vitro gene fusions
+T2	Gene 38 62	the uxuR regulatory gene
+T3	Gene_Expression 134 148	its expression
+T4	Operon 151 167	The uxuAB operon
+T5	Gene 183 192	two genes
+T6	Enzyme 204 211	enzymes
+T7	SPAN 224 246	hexuronate degradation
+T8	Operon 248 259	This operon
+T9	SPAN 263 273	negatively
+T10	Protein 288 330	the uxuR and exuR regulatory gene products
+T11	SPAN 332 339	Fusions
+T12	Gene 353 361	lac gene
+T13	Regulation 476 491	uxuR regulation
+T14	SPAN 749 757	The gene
+T15	SPAN 773 789	counterclockwise
+T16	Plasmid 877 897	a compatible plasmid
+T17	SPAN 877 928	a compatible plasmid carrying a wild-type uxuR gene
+T18	Gene 907 928	a wild-type uxuR gene
+T19	Plasmid 932 954	the lac fusion plasmid
+T20	SPAN 932 972	the lac fusion plasmid containing strain
+T21	Mutant_Bacteria 966 972	strain
+T22	SPAN 999 1017	beta-galactosidase
+T23	Gene 1065 1078	the uxuR gene
+T24	Repressor 1102 1117	its own product
+T25	Activator 1199 1211	fructuronate
+T26	Repressor 1287 1305	the exuR repressor
+T27	Gene 1333 1346	the uxuR gene

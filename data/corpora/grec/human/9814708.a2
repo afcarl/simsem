@@ -1,0 +1,8 @@
+T13	GRE 60 67	depends
+T14	Gene_Expression 152 161	expressed
+T15	GRE 696 704	restored
+T16	GRE 796 806	determines
+E1	GRE:T13 Agent:T1 Theme:T5 Location:T3
+E2	Gene_Expression:T14 Agent:T7,T8 Theme:T6
+E3	GRE:T15 Agent:T10 Theme:T9
+E4	GRE:T16 Agent:T11 Theme:T12

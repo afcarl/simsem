@@ -1,0 +1,26 @@
+T20	Regulation 0 14	Autoregulation
+T21	Regulation 74 84	regulation
+T22	Gene_Expression 122 132	expression
+T23	GRE 169 176	encodes
+T24	GRE 196 207	controlling
+T25	GRE 212 221	synthesis
+T26	Gene_Expression 430 440	expression
+T27	Regulation 444 457	autoregulated
+T28	GRE 568 578	identified
+T29	GRE 612 624	Introduction
+T30	Mutation 635 643	mutation
+T31	GRE 697 704	abolish
+T32	Gene_Repression 712 722	repression
+E1	Regulation:T20 Theme:T1
+E2	Regulation:T21 Theme:E3 Location:T7
+E3	Gene_Expression:T22 Theme:T2,T3,T4,T5,T6 Location:T7
+E4	GRE:T23 Agent:T9 Theme:T10
+E5	GRE:T24 Agent:T10 Theme:E6
+E6	GRE:T25 Theme:T11
+E7	Gene_Expression:T26 Theme:T12
+E8	Regulation:T27 Theme:E7
+E9	GRE:T28 Theme:T13 Location:T14
+E10	GRE:T29 Theme:E11 Location:T16
+E11	Mutation:T30 Theme:T15
+E12	GRE:T31 Agent:E10 Theme:E13
+E13	Gene_Repression:T32 Agent:T18 Theme:T19

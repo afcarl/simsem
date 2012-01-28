@@ -1,0 +1,14 @@
+T18	GRE 189 197	carrying
+T19	GRE 229 237	isolated
+T20	GRE 252 261	harboring
+T21	GRE 500 508	carrying
+T22	GRE 652 659	encodes
+T23	GRE 911 919	carrying
+T24	Transcription 1085 1096	transcribed
+E1	GRE:T18 Agent:T1 Theme:T2,T3,T4
+E2	GRE:T19 Theme:T1 Source:T5
+E3	GRE:T20 Theme:T5 Descriptive-Theme:T6
+E4	GRE:T21 Agent:T7 Theme:T8
+E5	GRE:T22 Agent:T10 Theme:T11
+E6	GRE:T23 Agent:T12 Theme:T13
+E7	Transcription:T24 Theme:T14 Theme:T15 Manner:T16

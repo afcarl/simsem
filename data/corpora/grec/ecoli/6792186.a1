@@ -1,0 +1,13 @@
+T1	Laboratory_Technique 7 19	gene fusions
+T2	Gene 43 47	cysB
+T3	Gene 149 162	the lacZ gene
+T4	Gene 175 179	cysB
+T5	Mutant_Bacteria 234 252	The fusion strains
+T6	SPAN 272 303	the regulation of the cysB gene
+T7	Gene 290 303	the cysB gene
+T8	Allele 365 378	a cysB allele
+T9	Mutant_Bacteria 420 438	the fusion strains
+T10	SPAN 468 495	beta-galactosidase activity
+T11	SPAN 515 539	the cysB gene expression
+T12	Gene 519 528	cysB gene
+T13	SPAN 560 575	its own product

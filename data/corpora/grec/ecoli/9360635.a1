@@ -1,0 +1,14 @@
+T1	Operon 67 98	the Escherichia coli lac operon
+T2	Cells 102 117	mammalian cells
+T3	Mutation 388 398	a mutation
+T4	Gene 402 415	the lacI gene
+T5	Gene 473 486	the lacZ gene
+T6	Cells 490 503	mutated cells
+T7	SPAN 896 908	introduction
+T8	Gene_Repression 954 988	correct transcriptional repression
+T9	SPAN 1201 1222	transcriptional state
+T10	SPAN 1232 1255	epigenetic inactivation
+T11	Cells 1337 1361	several transgenic lines
+T12	Gene 1383 1401	the lacZ transgene
+T13	Gene 1789 1802	the lacZ gene
+T14	SPAN 1852 1875	epigenetic inactivation

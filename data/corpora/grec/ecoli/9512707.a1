@@ -1,0 +1,18 @@
+T1	Gene 40 44	csiD
+T2	SPAN 155 165	activation
+T3	Gene 633 637	csiD
+T4	SPAN 704 721	carbon starvation
+T5	Promoter 746 763	the csiD promoter
+T6	Activator 908 920	an activator
+T7	Protein 984 987	Lrp
+T8	Regulator 997 1017	a positive modulator
+T9	Protein 1665 1673	cAMP-CRP
+T10	Transcription 1699 1740	E sigma s-mediated in vitro transcription
+T11	Transcription 1750 1763	transcription
+T12	Protein 1817 1825	cAMP-CRP
+T13	Experimental_Technique 2052 2086	In vitro transcription experiments
+T14	Transcription 2134 2179	significant cAMP-CRP-stimulated transcription
+T15	SPAN 2229 2233	H-NS
+T16	Transcription 2306 2349	cAMP-CRP/E sigma 70-dependent transcription
+T17	SPAN 2351 2354	Lrp
+T18	Transcription 2539 2561	in vitro transcription

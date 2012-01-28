@@ -1,0 +1,19 @@
+T1	Gene 18 22	GBX2
+T2	SPAN 63 72	autocrine
+T3	SPAN 73 79	growth
+T4	SPAN 84 108	monocyte differentiation
+T5	Gene 129 133	GBX2
+T6	Gene 152 165	a target gene
+T7	SPAN 152 190	a target gene of the v-Myb oncoprotein
+T8	Protein 169 190	the v-Myb oncoprotein
+T9	Virus 234 237	AMV
+T10	Gene 240 244	GBX2
+T11	Activator 259 264	c-Myb
+T12	SPAN 274 293	signal transduction
+T13	Gene 332 358	the leukemogenic AMV v-Myb
+T14	SPAN 359 373	constitutively
+T15	Gene 382 395	the GBX2 gene
+T16	Gene 661 665	GBX2
+T17	SPAN 666 704	in growth factor-dependent myeloblasts
+T18	Cells 669 704	growth factor-dependent myeloblasts
+T19	SPAN 713 773	monocytic features and independence from exogenous cytokines

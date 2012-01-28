@@ -1,0 +1,27 @@
+T1	SPAN 40 73	plasmid-stabilizing site-specific
+T2	SPAN 88 110	at the ColE1 cer locus
+T3	Locus 91 110	the ColE1 cer locus
+T4	Plasmid 228 240	the plasmids
+T5	SPAN 258 277	the monomeric state
+T6	Plasmid 279 296	Plasmid multimers
+T7	SPAN 317 342	recA-dependent homologous
+T8	Recombination 317 356	recA-dependent homologous recombination
+T9	Recombination 396 432	a site-specific recombination system
+T10	SPAN 443 445	at
+T11	Locus 471 474	cer
+T12	SPAN 486 506	No plasmid functions
+T13	SPAN 516 528	at this site
+T14	Locus 519 528	this site
+T15	Gene 564 589	two unlinked E.coli genes
+T16	SPAN 602 611	functions
+T17	SPAN 625 651	cer-mediated site-specific
+T18	Gene 795 803	the gene
+T19	Repressor 862 868	(argR)
+T20	Repressor 870 886	The argR protein
+T21	Locus 896 903	cer DNA
+T22	SPAN 909 916	in vivo
+T23	SPAN 921 929	in vitro
+T24	Organic_Compounds 949 957	arginine
+T25	SPAN 970 982	this binding
+T26	Protein_Complex 1007 1041	a higher order protein-DNA complex
+T27	SPAN 1042 1076	within the recombinational synapse

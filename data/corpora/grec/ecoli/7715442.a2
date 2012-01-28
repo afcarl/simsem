@@ -1,0 +1,44 @@
+T39	Gene_Expression 0 10	Expression
+T40	GRE 24 30	coding
+T41	GRE 84 94	controlled
+T42	GRE 207 213	coding
+T43	Gene_Expression 386 396	Expression
+T44	GRE 430 438	increase
+T45	Mutation 476 484	Mutation
+T46	Gene_Activation 506 513	induced
+T47	GRE 559 566	reduced
+T48	GRE 652 661	induction
+T49	GRE 729 737	required
+T50	GRE 920 927	induced
+T51	GRE 936 944	increase
+T52	GRE 1213 1222	involving
+T53	Regulation 1238 1246	regulate
+T54	GRE 1315 1321	effect
+T55	GRE 1345 1353	mediated
+T56	GRE 1396 1404	affected
+T57	Gene_Expression 1437 1447	Expression
+T58	GRE 1550 1560	implicated
+T59	GRE 1594 1601	overlap
+T60	GRE 1678 1683	found
+E1	Gene_Expression:T39 Theme:T1
+E2	GRE:T40 Agent:T1 Theme:T2
+E3	GRE:T41 Agent:T3,T4,T5,T6 Theme:E1
+E4	GRE:T42 Agent:T7 Theme:T8
+E5	Gene_Expression:T43 Source:T9
+E6	GRE:T44 Theme:E5 Temporal:T10
+E7	Mutation:T45 Location:T11
+E8	Gene_Activation:T46 Theme:T12 Temporal:T13
+E9	GRE:T47 Agent:E7 Theme:T14
+E10	GRE:T48 Theme:T15
+E11	GRE:T49 Agent:T16 Theme:T17
+E12	GRE:T50 Agent:T18 Theme:E13 Location:T19
+E13	GRE:T51 Theme:T21
+E14	GRE:T52 Agent:T22 Descriptive-Agent:T23
+E15	Regulation:T53 Agent:T22 Theme:T24
+E16	GRE:T54 Agent:T25 Theme:T26
+E17	GRE:T55 Agent:T27 Theme:E16
+E18	GRE:T56 Agent:T29 Theme:T28 Condition:T30
+E19	Gene_Expression:T57 Theme:T32
+E20	GRE:T58 Agent:T33 Descriptive-Agent:T34
+E21	GRE:T59 Agent:T33 Theme:T35
+E22	GRE:T60 Theme:T36 Location:T37

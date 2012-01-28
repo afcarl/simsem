@@ -1,0 +1,14 @@
+T1	Regulator 297 312	Drosophila E(z)
+T2	Regulator 321 341	a negative regulator
+T3	Gene 577 581	EZH1
+T4	Protein 590 599	a protein
+T5	Protein_Complex 1209 1226	protein complexes
+T6	SPAN 1248 1263	heterochromatin
+T7	Gene 1265 1269	EZH1
+T8	mRNA 1286 1307	two major transcripts
+T9	SPAN 1308 1344	in all adult and fetal human tissues
+T10	Tissue 1311 1344	all adult and fetal human tissues
+T11	SPAN 1512 1537	an unusual splicing event
+T12	Gene 1548 1552	EZH1
+T13	Gene 1557 1584	a tandemly linked gene GPR2
+T14	Protein 1634 1650	the EZH1 protein

@@ -1,0 +1,66 @@
+T43	GRE 13 23	modulation
+T44	GRE 64 74	repression
+T45	GRE 83 89	affect
+T46	GRE 90 99	synthesis
+T47	Transcription 588 601	Transcription
+T48	GRE 615 623	encoding
+T49	GRE 718 725	induced
+T50	GRE 1069 1078	involving
+T51	GRE 1079 1095	cross-repression
+T52	GRE 1166 1175	interfere
+T53	GRE 1186 1196	activation
+T54	GRE 1281 1290	Balancing
+T55	GRE 1395 1403	involves
+T56	GRE 1421 1431	repressing
+T57	GRE 1436 1446	expression
+T58	GRE 1476 1486	repressing
+T59	GRE 1490 1500	inhibiting
+T60	GRE 1550 1556	drives
+T61	Transcription 1557 1570	transcription
+T62	GRE 1603 1612	influence
+T63	GRE 1623 1639	cross-repression
+T64	GRE 1665 1675	inhibiting
+T65	GRE 1676 1686	production
+T66	GRE 1715 1724	represses
+T67	GRE 1919 1929	expression
+T68	GRE 1947 1957	expression
+T69	GRE 2038 2047	increases
+T70	GRE 2078 2087	increases
+T71	GRE 2092 2102	production
+T72	GRE 2141 2148	repress
+T73	GRE 2172 2181	induction
+T74	GRE 2259 2268	governing
+T75	Gene_Expression 2269 2279	expression
+E1	GRE:T43 Theme:T2 Manner:T1
+E2	GRE:T44 Theme:T4 Manner:T3
+E3	GRE:T45 Agent:E1,E2 Theme:E4,T6
+E4	GRE:T46 Theme:T5
+E5	Transcription:T47 Theme:T7
+E6	GRE:T48 Agent:T7 Theme:T8,T9
+E7	GRE:T49 Theme:E5 Condition:T10,T11
+E8	GRE:T50 Agent:T12 Theme:E9
+E9	GRE:T51 Theme:T13,T14
+E10	GRE:T52 Agent:T13,T14 Theme:E11
+E11	GRE:T53 Agent:T15 Theme:T16
+E12	GRE:T54 Theme:T17
+E13	GRE:T55 Agent:T18 Theme:T19,T21
+E14	GRE:T56 Agent:T19 Theme:E15
+E15	GRE:T57 Theme:T20
+E16	GRE:T58 Agent:T21 Theme:T22
+E17	GRE:T59 Agent:T21 Theme:T22
+E18	GRE:T60 Agent:T23 Theme:E19
+E19	Transcription:T61 Theme:T24
+E20	GRE:T62 Agent:T25,T27 Theme:E21
+E21	GRE:T63 Agent:T28
+E22	GRE:T64 Agent:T26 Theme:E23
+E23	GRE:T65 Theme:T29
+E24	GRE:T66 Agent:T30 Theme:T31 Condition:T32
+E25	GRE:T67 Theme:T33
+E26	GRE:T68 Theme:T34
+E27	GRE:T69 Agent:T35 Theme:T36
+E28	GRE:T70 Agent:T35 Theme:E29
+E29	GRE:T71 Theme:T37
+E30	GRE:T72 Agent:T38 Theme:T39
+E31	GRE:T73 Theme:T40
+E32	GRE:T74 Agent:T41 Theme:E33
+E33	Gene_Expression:T75 Theme:T42

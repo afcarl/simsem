@@ -1,0 +1,19 @@
+T1	SPAN 129 134	genes
+T2	SPAN 147 164	biofilm formation
+T3	Gene 179 192	the cpxA gene
+T4	SPAN 214 231	biofilm formation
+T5	SPAN 235 244	affecting
+T6	SPAN 433 452	the negative effect
+T7	SPAN 510 519	decreased
+T8	Protein 537 547	the curlin
+T9	Gene 557 566	csgA gene
+T10	Gene 697 717	The cpxA101 mutation
+T11	Enzyme 728 753	cpxA phosphatase activity
+T12	Mutant_Bacteria 822 832	the strain
+T13	Mutant_Gene 842 862	the cpxA101 mutation
+T14	Gene 919 923	csgA
+T15	Gene 965 978	the cpxA gene
+T16	SPAN 989 999	the levels
+T17	Gene 1003 1007	csgA
+T18	Regulator 1046 1050	CpxR
+T19	Regulator 1066 1086	a negative regulator

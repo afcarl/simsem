@@ -1,0 +1,12 @@
+T1	Activator 0 4	GadE
+T2	SPAN 40 55	in the response
+T3	Phenotype 313 330	the acid response
+T4	SPAN 331 350	in Escherichia coli
+T5	Wild_Type_Bacteria 334 350	Escherichia coli
+T6	Gene 370 374	yhiE
+T7	Regulator 407 411	gadX
+T8	Enzyme 434 457	glutamate decarboxylase
+T9	Gene 586 590	gene
+T10	SPAN 605 622	the acid response
+T11	Regulator 746 767	GadE purified protein
+T12	Promoter 815 834	the promoter region

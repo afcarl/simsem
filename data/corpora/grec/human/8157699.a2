@@ -1,0 +1,10 @@
+T11	Gene_Expression 91 101	expression
+T12	GRE 196 202	encode
+T13	GRE 245 254	interacts
+T14	Gene_Expression 1054 1064	expression
+T15	GRE 1088 1101	was expressed
+E1	Gene_Expression:T11 Theme:T2 Manner:T1
+E2	GRE:T12 Agent:T3 Theme:T4
+E3	GRE:T13 Agent:T4 Agent:T5,T6
+E4	Gene_Expression:T14 Theme:T7
+E5	GRE:T15 Theme:T8 Location:T9

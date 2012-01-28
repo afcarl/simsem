@@ -1,0 +1,41 @@
+T1	Gene 24 28	ptsG
+T2	Regulator 43 46	Fis
+T3	Gene 157 161	ptsG
+T4	Enzyme 210 213	Glc
+T5	SPAN 216 235	in Escherichia coli
+T6	Wild_Type_Bacteria 219 235	Escherichia coli
+T7	Promoter 269 278	P1 and P2
+T8	Gene 280 284	ptsG
+T9	Regulator 315 318	Mlc
+T10	Promoter 396 403	ptsG P1
+T11	Organic_Compounds 634 641	glucose
+T12	Operon 655 666	Mlc regulon
+T13	Gene 668 672	ptsG
+T14	SPAN 699 730	when wild-type cells were grown
+T15	Wild_Type_Bacteria 704 719	wild-type cells
+T16	Organic_Compounds 750 757	glucose
+T17	SPAN 768 783	in a fis mutant
+T18	Mutant_Bacteria 771 783	a fis mutant
+T19	Gene 804 808	ptsG
+T20	SPAN 853 869	cells were grown
+T21	Organic_Compounds 889 896	glucose
+T22	Regulator 1069 1072	Fis
+T23	Regulator 1086 1089	Mlc
+T24	SPAN 1086 1100	Mlc repression
+T25	Activator 1105 1113	CRP.cAMP
+T26	SPAN 1105 1124	CRP.cAMP activation
+T27	Promoter 1128 1135	ptsG P1
+T28	Protein_Complex 1161 1207	Fis.CRP.Mlc or Fis.CRP nucleoprotein complexes
+T29	SPAN 1208 1227	at ptsG P1 promoter
+T30	Promoter 1211 1227	ptsG P1 promoter
+T31	SPAN 1241 1268	the availability of glucose
+T32	Organic_Compounds 1261 1268	glucose
+T33	Promoter 1291 1298	ptsG P2
+T34	Repressor 1330 1341	Fis and Mlc
+T35	Regulator 1351 1354	Mlc
+T36	Activator 1379 1387	CRP.cAMP
+T37	SPAN 1402 1409	ptsG P1
+T38	Regulator 1413 1416	Fis
+T39	Wild_Type_Bacteria 1424 1429	cells
+T40	Operon 1442 1453	Mlc regulon
+T41	SPAN 1481 1510	controlling the concentration

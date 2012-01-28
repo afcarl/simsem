@@ -1,0 +1,21 @@
+T1	Operon 72 78	operon
+T2	SPAN 90 114	in Escherichia coli K-12
+T3	Wild_Type_Bacteria 93 114	Escherichia coli K-12
+T4	Enzyme 271 300	Periplasmic nitrate reductase
+T5	Operon 313 334	the napFDAGHBC operon
+T6	Activator 540 581	the transcription regulators Fnr and NarP
+T7	Transcription 598 611	transcription
+T8	SPAN 627 651	anaerobiosis and nitrate
+T9	Transcription_Binding_Site 700 730	the napF operon control region
+T10	mRNA 752 767	two transcripts
+T11	Activator 995 1009	NarP-regulated
+T12	Operon 1010 1021	napF operon
+T13	Promoter 1084 1086	P2
+T14	SPAN 1102 1113	only weakly
+T15	Activator 1117 1132	the Fnr protein
+T16	Regulator 1154 1185	phospho-NarP and -NarL proteins
+T17	Promoter 1334 1355	the major promoter P1
+T18	Activator 1372 1387	the Fnr protein
+T19	Locus 1397 1403	a site
+T20	Regulator 1501 1525	the phospho-NarP protein
+T21	Locus 1535 1541	a site

@@ -1,0 +1,36 @@
+T44	GRE 38 47	regulates
+T45	Gene_Activation 77 87	activation
+T46	Gene_Repression 93 103	inhibition
+T47	Gene_Expression 146 156	expression
+T48	GRE 198 207	regulated
+T49	GRE 408 414	encode
+T50	GRE 437 441	bind
+T51	GRE 562 574	to stimulate
+T52	Regulation 682 692	regulation
+T53	Transcription 1227 1240	transcription
+T54	GRE 1245 1255	stimulated
+T55	Gene_Activation 1354 1364	activation
+T56	GRE 1734 1743	inhibited
+T57	Gene_Expression 1747 1759	coexpression
+T58	GRE 1846 1857	facilitated
+T59	GRE 1922 1930	mediates
+T60	Gene_Activation 1947 1957	activation
+T61	Regulation 1978 1988	regulation
+E1	GRE:T44 Agent:T1 Theme:T4,T6,T7
+E2	Gene_Activation:T45 Manner:T5
+E3	Gene_Repression:T46 Agent:T8
+E4	Gene_Expression:T47 Theme:T10,T11 Manner:T9
+E5	GRE:T48 Agent:T12 Theme:T10,T11
+E6	GRE:T49 Agent:T13,T14,T15,T16,T17 Theme:T18
+E7	GRE:T50 Agent:T18 Destination:T19
+E8	GRE:T51 Agent:T20,T21 Theme:T22
+E9	Regulation:T52 Agent:T25 Theme:T24 Manner:T23
+E10	Transcription:T53 Manner:T26
+E11	GRE:T54 Agent:T28 Theme:E10 Rate:T27
+E12	Gene_Activation:T55 Theme:T30 Manner:T29
+E13	GRE:T56 Agent:T35 Theme:T32 Location:T34
+E14	Gene_Expression:T57 Theme:T36
+E15	GRE:T58 Agent:T40 Theme:T37
+E16	GRE:T59 Agent:T41 Theme:E17
+E17	Gene_Activation:T60 Manner:T42
+E18	Regulation:T61 Agent:T43 Theme:T41

@@ -1,0 +1,53 @@
+T1	SPAN 0 13	Collaborative
+T2	SPAN 28 80	Escherichia coli glutamate-dependent acid resistance
+T3	Regulator 110 114	GadX
+T4	Regulator 119 123	GadW
+T5	SPAN 688 698	the system
+T6	Sigma_Factor 716 733	two sigma factors
+T7	Regulator 789 792	CRP
+T8	Regulator 798 802	H-NS
+T9	Regulator 839 843	GadX
+T10	Regulator 877 893	the GadX protein
+T11	Regulator 907 940	a positive and negative regulator
+T12	Gene 944 968	the gadA and gadBC genes
+T13	SPAN 982 1006	environmental conditions
+T14	SPAN 1051 1064	collaborative
+T15	Regulator 1084 1088	GadX
+T16	Regulator 1128 1132	GadW
+T17	Regulator 1258 1262	GadX
+T18	Gene 1287 1291	gadA
+T19	Gene 1296 1301	gadBC
+T20	SPAN 1305 1311	any pH
+T21	Regulator 1319 1323	GadW
+T22	SPAN 1333 1347	GadX-dependent
+T23	Gene 1374 1378	gadA
+T24	Gene 1383 1388	gadBC
+T25	Regulator 1392 1408	either regulator
+T26	DNA 1418 1453	an upstream, 20-bp GAD box sequence
+T27	Regulator 1501 1505	GadW
+T28	Gene 1530 1534	gadX
+T29	Regulator 1582 1586	GadW
+T30	Promoter 1607 1634	the gadA and gadX promoters
+T31	Regulator 1636 1640	GadW
+T32	Gene 1659 1663	gadX
+T33	Regulator 1689 1693	GadX
+T34	SPAN 1689 1704	GadX is missing
+T35	Gene 1716 1720	gadA
+T36	Gene 1725 1730	gadBC
+T37	Regulator 1732 1736	GadX
+T38	Gene 1762 1766	gadA
+T39	Gene 1771 1776	gadBC
+T40	Regulator 1789 1792	CRP
+T41	Gene 1808 1812	gadX
+T42	Sigma_Factor 1876 1883	sigma S
+T43	Gene 1918 1922	gadX
+T44	SPAN 1948 1952	acid
+T45	Gene 1966 1970	gadA
+T46	Gene 1975 1980	gadBC
+T47	SPAN 2058 2062	acid
+T48	Sigma_Factor 2076 2083	sigma S
+T49	SPAN 2096 2126	These complex control circuits
+T50	Gene 2164 2189	the gadA and gadBC system
+T51	SPAN 2202 2213	flexibility
+T52	SPAN 2227 2242	acid resistance
+T53	SPAN 2278 2289	acid stress

@@ -1,0 +1,2 @@
+Altered regulation of the recA gene in Escherichia coli strains carrying a recA-linked suppressor of lexA. 
+A mutant strain of E. coli displaying altered regulation of the recA gene was isolated as a revertant of a lexA3 recA200 double mutant which showed improved DNA repair and recombination functions. The mutant (alc-24) was located between srl and recA200 and caused synthesis of high levels of recA protein in both lexA+ and lexA3 strains. The possibility that alc-24 defines the regulatory site for recA is discussed. 

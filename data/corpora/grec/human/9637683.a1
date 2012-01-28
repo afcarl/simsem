@@ -1,0 +1,21 @@
+T1	Gene 290 295	genes
+T2	Protein 305 326	ER protein chaperones
+T3	DNA 358 376	a novel human cDNA
+T4	SPAN 386 429	a homolog to Saccharomyces cerevisiae Ire1p
+T5	Gene 399 429	Saccharomyces cerevisiae Ire1p
+T6	Gene 793 799	hIre1p
+T7	SPAN 810 828	in mammalian cells
+T8	Cells 813 828	mammalian cells
+T9	SPAN 839 877	intrinsic autophosphorylation activity
+T10	Enzyme 885 901	endoribonuclease
+T11	mRNA 1197 1207	Ire1p mRNA
+T12	SPAN 1258 1293	a functional hIre1p kinase activity
+T13	Gene 1322 1338	wild-type hIre1p
+T14	SPAN 1339 1353	constitutively
+T15	Gene 1364 1379	a reporter gene
+T16	Gene 1457 1488	a catalytically inactive hIre1p
+T17	SPAN 1498 1530	a trans-dominant-negative manner
+T18	SPAN 1542 1557	transcriptional
+T19	SPAN 1542 1568	transcriptional activation
+T20	Promoter 1572 1588	the BiP promoter
+T21	SPAN 1604 1613	ER stress

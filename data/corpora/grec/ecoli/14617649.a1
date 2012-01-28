@@ -1,0 +1,42 @@
+T1	SPAN 0 12	pH-Dependent
+T2	SPAN 27 44	cyclic AMP levels
+T3	SPAN 49 63	GadW-dependent
+T4	Sigma_Factor 78 82	RpoS
+T5	Regulator 103 121	the GadX regulator
+T6	SPAN 126 158	Escherichia coli acid resistance
+T7	Gene 605 614	the genes
+T8	Enzyme 624 652	the glutamate decarboxylases
+T9	Protein 657 689	the substrate-product antiporter
+T10	SPAN 767 787	the stationary phase
+T11	SPAN 792 800	a low pH
+T12	SPAN 1051 1068	a regulatory loop
+T13	Regulator 1125 1129	GadX
+T14	Regulator 1134 1138	GadW
+T15	SPAN 1181 1185	GadE
+T16	Gene 1200 1242	the gad decarboxylase and antiporter genes
+T17	SPAN 1291 1307	cross-repression
+T18	SPAN 1378 1394	The control loop
+T19	Regulator 1404 1420	the GadX protein
+T20	Gene 1450 1454	gadW
+T21	Regulator 1459 1475	the GadW protein
+T22	Sigma_Factor 1501 1505	RpoS
+T23	Sigma_Factor 1516 1544	the alternative sigma factor
+T24	Gene 1574 1578	gadX
+T25	SPAN 1580 1583	CRP
+T26	SPAN 1580 1592	CRP and cAMP
+T27	SPAN 1588 1592	cAMP
+T28	SPAN 1613 1622	GadX-GadW
+T29	Sigma_Factor 1690 1694	RpoS
+T30	Regulator 1710 1714	GadW
+T31	Gene 1725 1748	the decarboxylase genes
+T32	SPAN 1752 1766	minimal medium
+T33	Gene 1914 1918	gadX
+T34	Gene 1961 1984	the decarboxylase genes
+T35	SPAN 1986 2022	Mutational or physiological lowering
+T36	SPAN 2048 2057	the level
+T37	Gene 2106 2110	GadX
+T38	Regulator 2112 2130	Higher GadX levels
+T39	Gene 2149 2153	gadW
+T40	Gene 2185 2212	the gad decarboxylase genes
+T41	SPAN 2230 2258	multiple pH control pathways
+T42	SPAN 2283 2310	this acid resistance system

@@ -1,0 +1,44 @@
+T1	Transcription_Binding_Site 0 19	The upstream region
+T2	Regulator 83 118	retinoic acid and HOX homeoproteins
+T3	Gene 176 181	HOX3D
+T4	Gene 251 256	HOX3D
+T5	SPAN 260 275	developmentally
+T6	SPAN 286 306	during embryogenesis
+T7	SPAN 342 344	RA
+T8	SPAN 346 388	in cultured embryonal carcinoma (EC) cells
+T9	Cells 349 377	cultured embryonal carcinoma
+T10	Transcription_Binding_Site 406 438	HOX3D upstream genomic sequences
+T11	Gene 449 464	a reporter gene
+T12	Promoter 502 514	its promoter
+T13	Transcription_Binding_Site 527 551	a canonical TATA element
+T14	Promoter 553 566	This promoter
+T15	Gene 593 610	the reporter gene
+T16	SPAN 611 622	in EC cells
+T17	Cells 614 622	EC cells
+T18	SPAN 644 646	RA
+T19	SPAN 658 686	RA-induced nuclear factor(s)
+T20	Transcription_Binding_Site 695 727	a conserved palindromic sequence
+T21	Promoter 799 817	The HOX3D promoter
+T22	SPAN 836 866	in both human and murine cells
+T23	Cells 839 866	both human and murine cells
+T24	SPAN 867 898	when cotransfected with vectors
+T25	SPAN 891 898	vectors
+T26	Protein 910 929	the protein product
+T27	Protein 961 973	the paralogs
+T28	Protein 1064 1081	The HOX3D protein
+T29	Gene 1104 1129	the downstream gene HOX3E
+T30	Gene 1134 1151	its paralog HOX4B
+T31	Regulator 1174 1198	HOX4C and HOX4D proteins
+T32	SPAN 1211 1222	in bacteria
+T33	Bacteria 1214 1222	bacteria
+T34	Transcription_Binding_Site 1231 1258	the same conserved sequence
+T35	Transcription_Binding_Site 1303 1315	the TATA box
+T36	Transcription_Binding_Site 1320 1367	immediately upstream and downstream nucleotides
+T37	SPAN 1402 1418	cross-regulatory
+T38	Gene 1440 1460	mammalian homeogenes
+T39	SPAN 1525 1545	a regulatory network
+T40	SPAN 1556 1563	in vivo
+T41	Operator 1565 1578	The sequences
+T42	Regulation 1613 1629	cross-regulation
+T43	SPAN 1663 1678	nuclear factors
+T44	SPAN 1690 1692	RA

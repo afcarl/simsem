@@ -1,0 +1,16 @@
+T13	Methylation 442 453	Methylation
+T14	GRE 1014 1019	binds
+T15	GRE 1095 1099	bind
+T16	Methylation 1248 1259	methylation
+T17	GRE 1260 1268	inhibits
+T18	GRE 1269 1276	binding
+T19	GRE 1316 1322	alters
+T20	GRE 1323 1330	binding
+E1	Methylation:T13 Theme:T1,T2
+E2	GRE:T14 Agent:T3 Destination:T4
+E3	GRE:T15 Agent:T5 Destination:T6
+E4	Methylation:T16 Theme:T7
+E5	GRE:T17 Agent:T8 Theme:E6
+E6	GRE:T18 Agent:T9 Destination:T10
+E7	GRE:T19 Agent:T8 Theme:E8
+E8	GRE:T20 Agent:T11 Destination:T12

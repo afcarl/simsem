@@ -1,0 +1,20 @@
+T17	GRE 36 46	regulating
+T18	GRE 109 117	consists
+T19	GRE 130 138	encoding
+T20	GRE 302 306	acts
+T21	GRE 570 578	encoding
+T22	GRE 644 647	led
+T23	Gene_Activation 651 663	derepression
+T24	GRE 672 680	encoding
+T25	GRE 733 741	encoding
+T26	Gene_Expression 1104 1114	expression
+E1	GRE:T17 Agent:T1 Theme:T2
+E2	GRE:T18 Theme:T3 Descriptive-Theme:T4
+E3	GRE:T19 Agent:T4 Theme:T5
+E4	GRE:T20 Agent:T6 Descriptive-Agent:T7
+E5	GRE:T21 Agent:T8 Theme:T9
+E6	GRE:T22 Agent:T10 Theme:E7
+E7	Gene_Activation:T23 Theme:T11,T13
+E8	GRE:T24 Agent:T11 Theme:T12
+E9	GRE:T25 Agent:T13 Theme:T14
+E10	Gene_Expression:T26 Theme:T15

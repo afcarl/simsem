@@ -1,0 +1,36 @@
+T22	Gene_Expression 139 149	Expression
+T23	Gene_Expression 420 430	expression
+T24	GRE 452 459	require
+T25	Mutation 495 504	Mutations
+T26	GRE 554 560	encode
+T27	GRE 611 620	prevented
+T28	GRE 641 647	locked
+T29	Gene_Expression 648 658	expression
+T30	GRE 762 768	caused
+T31	Gene_Expression 794 804	expression
+T32	GRE 923 934	controlling
+T33	Gene_Expression 940 950	expression
+T34	GRE 958 966	required
+T35	GRE 976 985	inversion
+T36	GRE 1031 1041	expression
+T37	GRE 1095 1100	exert
+T38	GRE 1101 1108	control
+T39	Gene_Expression 1119 1129	expression
+E1	Gene_Expression:T22 Theme:T1
+E2	Gene_Expression:T23 Theme:T2
+E3	GRE:T24 Agent:E2 Theme:T3
+E4	Mutation:T25 Location:T4,T6
+E5	GRE:T26 Agent:T5 Theme:T7
+E6	GRE:T27 Agent:E4 Theme:T8
+E7	GRE:T28 Agent:E4 Theme:E8
+E8	Gene_Expression:T29 Theme:T9
+E9	GRE:T30 Agent:T10 Theme:T11
+E10	Gene_Expression:T31 Theme:T12 Location:T13 Rate:T11
+E11	GRE:T32 Agent:T15 Theme:E12
+E12	Gene_Expression:T33 Theme:T16
+E13	GRE:T34 Theme:T15 Purpose:E14,E15
+E14	GRE:T35 Theme:T17
+E15	GRE:T36 Source:T18
+E16	GRE:T37 Agent:T19 Theme:E17
+E17	GRE:T38 Theme:E18
+E18	Gene_Expression:T39 Theme:T20

@@ -1,0 +1,28 @@
+T1	Activator 0 16	Human TAF(II)135
+T2	SPAN 29 44	transcriptional
+T3	Activator 59 68	the AF-2s
+T4	SPAN 133 151	in mammalian cells
+T5	Cells 136 151	mammalian cells
+T6	Gene 198 213	a complete cDNA
+T7	Sub_Unit 260 264	hTAF
+T8	Sub_Unit 264 265	(
+T9	Sub_Unit 265 267	II
+T10	Sub_Unit 267 268	)
+T11	Sub_Unit 268 271	130
+T12	Sub_Unit 432 436	hTAF
+T13	SPAN 432 443	hTAF(II)135
+T14	SPAN 444 462	in mammalian cells
+T15	SPAN 476 487	selectively
+T16	SPAN 500 515	transcriptional
+T17	Sub_Unit 558 562	AF-2
+T18	Sub_Unit 668 677	the AF-2s
+T19	SPAN 730 754	The coactivator activity
+T20	Sub_Unit 764 785	an hTAF(II)135 region
+T21	Sub_Unit 906 910	hTAF
+T22	SPAN 906 917	hTAF(II)135
+T23	SPAN 934 951	RAR AF-2 activity
+T24	Promoter 957 967	a promoter
+T25	SPAN 957 1015	a promoter with a low-affinity TATA element (TGTA) is used
+T26	Sub_Unit 1033 1041	hTAF(II)
+T27	Sub_Unit 1156 1161	TFIID
+T28	Sub_Unit 1165 1177	the RAR AF-2

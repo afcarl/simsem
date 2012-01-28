@@ -1,0 +1,16 @@
+T1	Viral_Vector 162 188	A transducing lambda phage
+T2	Gene 198 208	glpD''lacZ
+T3	Gene 210 214	glpR
+T4	Gene 220 224	malT
+T5	Mutant_Bacteria 243 251	a strain
+T6	Gene 262 281	a glpD''lacZ fusion
+T7	Plasmid 479 499	recombinant plasmids
+T8	SPAN 509 551	different portions of the glpD-malT region
+T9	Locus 531 551	the glpD-malT region
+T10	Locus 622 633	this region
+T11	Polypeptide 660 686	at least five polypeptides
+T12	Plasmid 895 910	Hybrid plasmids
+T13	Gene 920 953	glpD''lacZ and glpR''lacZ fusions
+T14	Gene 1055 1059	glpD
+T15	Gene 1064 1068	glpR
+T16	SPAN 1073 1084	divergently

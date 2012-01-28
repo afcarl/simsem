@@ -1,0 +1,23 @@
+T1	Regulator 276 280	GalS
+T2	Operator 304 325	the external operator
+T3	Operon 329 343	the mgl operon
+T4	Protein 359 426	the high-affinity beta-methylgalactoside galactose transport system
+T5	Operator 454 467	the operators
+T6	Operon 494 508	the gal operon
+T7	Enzyme 526 533	enzymes
+T8	Gene 616 620	galP
+T9	Enzyme 638 656	galactose permease
+T10	Regulator 767 771	GalR
+T11	Operator 802 814	the operator
+T12	SPAN 802 822	the operator of galP
+T13	Gene 818 822	galP
+T14	SPAN 842 853	that of mgl
+T15	Regulator 882 886	GalS
+T16	Operator 953 976	the bipartite operators
+T17	SPAN 995 1006	selectively
+T18	Promoter 1017 1032	its P1 promoter
+T19	Regulator 1186 1190	GalS
+T20	Protein 1222 1261	the high-affinity galactose transporter
+T21	Operon 1273 1287	the mgl operon
+T22	DNA 1307 1310	DNA
+T23	Regulator 1322 1326	GalS

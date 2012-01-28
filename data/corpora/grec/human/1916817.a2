@@ -1,0 +1,10 @@
+T12	GRE 123 127	bind
+T13	GRE 350 355	binds
+T14	GRE 396 404	mediated
+T15	GRE 660 668	encoding
+T16	GRE 726 734	encoding
+E1	GRE:T12 Agent:T1 Destination:T2
+E2	GRE:T13 Agent:T3 Theme:T4
+E3	GRE:T14 Agent:T6,T7 Theme:T5
+E4	GRE:T15 Agent:T8 Theme:T9
+E5	GRE:T16 Agent:T10 Theme:T11

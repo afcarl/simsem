@@ -1,0 +1,30 @@
+T26	GRE 9 19	regulation
+T27	Gene_Expression 46 56	expression
+T28	GRE 188 197	regulates
+T29	GRE 203 213	expression
+T30	GRE 301 310	repressed
+T31	GRE 325 332	induced
+T32	Transcription 345 358	Transcription
+T33	GRE 367 376	increased
+T34	GRE 581 591	expression
+T35	GRE 601 610	repressed
+T36	GRE 733 738	bound
+T37	GRE 801 810	represses
+T38	GRE 815 828	transcription
+T39	GRE 912 920	regulate
+T40	GRE 931 941	expression
+E1	GRE:T26 Agent:T3 Theme:E2 Manner:T1 Location:T4
+E2	Gene_Expression:T27 Theme:T2
+E3	GRE:T28 Agent:T6 Theme:E4 Condition:T8
+E4	GRE:T29 Theme:T7
+E5	GRE:T30 Theme:T9
+E6	GRE:T31 Theme:T10 Location:T11
+E7	Transcription:T32 Theme:T13
+E8	GRE:T33 Theme:E7 Location:T14,T16
+E9	GRE:T34 Theme:T18
+E10	GRE:T35 Theme:E9
+E11	GRE:T36 Agent:T19 Theme:T20
+E12	GRE:T37 Agent:T19 Theme:E13
+E13	GRE:T38 Theme:T21
+E14	GRE:T39 Agent:T22 Theme:E15 Manner:T23
+E15	GRE:T40 Theme:T24

@@ -1,0 +1,48 @@
+T31	GRE 45 53	controls
+T32	GRE 58 68	repression
+T33	GRE 77 90	transcription
+T34	GRE 245 250	binds
+T35	GRE 283 292	activates
+T36	GRE 387 401	autoregulating
+T37	GRE 410 423	transcription
+T38	GRE 466 475	regulated
+T39	GRE 566 572	showed
+T40	GRE 573 585	upregulation
+T41	Transcription 872 885	transcription
+T42	GRE 935 945	repression
+T43	GRE 1019 1026	control
+T44	GRE 1050 1057	compete
+T45	GRE 1115 1119	acts
+T46	GRE 1150 1163	transcription
+T47	GRE 1168 1173	binds
+T48	GRE 1256 1263	binding
+T49	GRE 1307 1315	enhanced
+T50	GRE 1436 1447	regulations
+T51	GRE 1462 1477	complementation
+T52	GRE 1535 1543	restored
+T53	GRE 1548 1558	repression
+T54	GRE 1567 1580	transcription
+E1	GRE:T31 Agent:T1 Theme:E2 Location:T3
+E2	GRE:T32 Theme:E3
+E3	GRE:T33 Theme:T2
+E4	GRE:T34 Agent:T5 Destination:T6
+E5	GRE:T35 Agent:T5 Theme:T7
+E6	GRE:T36 Agent:T5 Theme:E7 Manner:T8
+E7	GRE:T37 Theme:T5
+E8	GRE:T38 Agent:T11 Theme:T9 Manner:T10
+E9	GRE:T39 Agent:T12 Theme:E10
+E10	GRE:T40 Theme:T13
+E11	Transcription:T41 Theme:T14
+E12	GRE:T42 Agent:T15 Theme:T14
+E13	GRE:T43 Theme:T14 Manner:T16
+E14	GRE:T44 Agent:T17
+E15	GRE:T45 Agent:T18 Descriptive-Agent:T19
+E16	GRE:T46 Theme:T20
+E17	GRE:T47 Agent:T18 Destination:T21
+E18	GRE:T48 Agent:T22
+E19	GRE:T49 Theme:E18 Condition:T23
+E20	GRE:T50 Theme:T25 Manner:T24
+E21	GRE:T51 Theme:T27 Manner:T26
+E22	GRE:T52 Agent:E21 Theme:E23,T30 Manner:T28
+E23	GRE:T53 Theme:E24
+E24	GRE:T54 Theme:T29

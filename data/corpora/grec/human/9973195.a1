@@ -1,0 +1,32 @@
+T1	SPAN 74 83	Apoptosis
+T2	Protein 115 169	viral and cellular BCL-2 family antiapoptotic proteins
+T3	Protein 175 205	various pro-apoptotic proteins
+T4	Protein 262 284	Cellular protein BNIP3
+T5	Protein 381 415	adenoviruses E1B-19K and EBV-BHRF1
+T6	Protein 460 476	BCL-2 and BCL-xL
+T7	Chromosome 510 526	the human genome
+T8	ORF 535 556	an open reading frame
+T9	ORF 629 662	The BNIP3alpha open reading frame
+T10	Protein 671 680	a protein
+T11	ORF 976 986	BNIP3alpha
+T12	SPAN 987 1007	in transfected cells
+T13	Cells 990 1007	transfected cells
+T14	SPAN 1019 1028	apoptosis
+T15	SPAN 1044 1092	the antiapoptosis activity of E1B-19K and BCL-xL
+T16	ORF 1407 1417	BNIP3alpha
+T17	SPAN 1431 1443	ubiquitously
+T18	SPAN 1444 1465	in most human tissues
+T19	Tissue 1447 1465	most human tissues
+T20	ORF 1480 1485	BNIP3
+T21	SPAN 1499 1503	well
+T22	SPAN 1504 1528	in several human tissues
+T23	Tissue 1507 1528	several human tissues
+T24	SPAN 1533 1548	less abundantly
+T25	Tissue 1576 1593	placenta and lung
+T26	Protein 1631 1651	BNIP3 and BNIP3alpha
+T27	SPAN 1664 1673	apoptosis
+T28	SPAN 1674 1688	simultaneously
+T29	SPAN 1689 1710	in most human tissues
+T30	Tissue 1692 1710	most human tissues
+T31	Protein 1712 1722	BNIP3alpha
+T32	SPAN 1732 1753	a more universal role

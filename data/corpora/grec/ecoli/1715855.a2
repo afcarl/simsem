@@ -1,0 +1,46 @@
+T47	GRE 52 61	functions
+T48	Gene_Activation 235 244	activated
+T49	Regulation 321 330	regulated
+T50	GRE 609 619	recognizes
+T51	GRE 810 818	protects
+T52	GRE 963 967	bind
+T53	GRE 1165 1172	prevent
+T54	GRE 1186 1193	binding
+T55	GRE 1207 1215	releases
+T56	GRE 1295 1300	bound
+T57	GRE 1340 1350	interferes
+T58	GRE 1376 1383	binding
+T59	GRE 1453 1463	exhibiting
+T60	GRE 1498 1505	carried
+T61	Mutation 1506 1515	mutations
+T62	GRE 1543 1550	carried
+T63	Mutation 1553 1561	mutation
+T64	GRE 1612 1621	Formation
+T65	GRE 1752 1758	relies
+T66	Regulation 1812 1820	regulate
+T67	GRE 1859 1868	formation
+T68	GRE 1901 1909	requires
+T69	GRE 1923 1935	interactions
+E1	GRE:T47 Agent:T1 Location:T3 Descriptive-Agent:T2
+E2	Gene_Activation:T48 Agent:T6 Theme:T5
+E3	Regulation:T49 Agent:T8 Theme:T5 Manner:T7
+E4	GRE:T50 Agent:T9 Theme:T10 Location:T11
+E5	GRE:T51 Agent:T13 Theme:T14
+E6	GRE:T52 Agent:T15 Manner:T16 Destination:T17
+E7	GRE:T53 Agent:T18 Theme:E8
+E8	GRE:T54 Agent:T21 Destination:T20 Condition:T19
+E9	GRE:T55 Agent:T18 Theme:T22 Source:T23
+E10	GRE:T56 Agent:T24 Destination:T25
+E11	GRE:T57 Agent:T26 Theme:E12
+E12	GRE:T58 Agent:T27 Destination:T28
+E13	GRE:T59 Agent:T29 Theme:T30
+E14	GRE:T60 Agent:T31 Theme:E15
+E15	Mutation:T61 Location:T32
+E16	GRE:T62 Agent:T34 Theme:E17
+E17	Mutation:T63 Location:T35
+E18	GRE:T64 Theme:T37 Condition:T38
+E19	GRE:T65 Agent:T39 Theme:T40
+E20	Regulation:T66 Agent:T39 Theme:T42
+E21	GRE:T67 Theme:T43
+E22	GRE:T68 Agent:E21 Theme:E23
+E23	GRE:T69 Agent:T44 Location:T45

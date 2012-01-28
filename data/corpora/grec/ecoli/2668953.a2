@@ -1,0 +1,18 @@
+T16	GRE 0 15	Phosphorylation
+T17	GRE 47 56	modulates
+T18	Gene_Expression 57 67	expression
+T19	Gene_Expression 174 184	expression
+T20	GRE 527 538	transferred
+T21	Gene_Expression 1065 1075	expression
+T22	GRE 1079 1087	elevated
+T23	GRE 1248 1257	modulates
+T24	Gene_Expression 1262 1272	expression
+E1	GRE:T16 Theme:T1
+E2	GRE:T17 Agent:E1 Theme:E3
+E3	Gene_Expression:T18 Theme:T2 Location:T3
+E4	Gene_Expression:T19 Theme:T5 Location:T6
+E5	GRE:T20 Theme:T8 Destination:T9
+E6	Gene_Expression:T21 Theme:T12 Location:T10
+E7	GRE:T22 Theme:E6 Rate:T13
+E8	GRE:T23 Agent:T14 Theme:E9
+E9	Gene_Expression:T24 Theme:T15

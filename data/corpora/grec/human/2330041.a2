@@ -1,0 +1,14 @@
+T16	GRE 36 44	contains
+T17	GRE 143 153	recognizes
+T18	Gene_Activation 190 199	activates
+T19	GRE 214 222	mediated
+T20	GRE 581 588	encodes
+T21	GRE 613 618	binds
+T22	Gene_Activation 702 710	activate
+E1	GRE:T16 Theme:T1 Descriptive-Theme:T2
+E2	GRE:T17 Agent:T3 Theme:T4
+E3	Gene_Activation:T18 Agent:T3 Theme:T5
+E4	GRE:T19 Agent:T6 Theme:T5 Manner:T7
+E5	GRE:T20 Agent:T8 Theme:T9
+E6	GRE:T21 Agent:T9 Manner:T10 Destination:T12 Purpose:E7
+E7	Gene_Activation:T22 Theme:T14 Manner:T15

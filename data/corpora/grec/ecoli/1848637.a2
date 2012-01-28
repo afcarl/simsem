@@ -1,0 +1,24 @@
+T24	GRE 22 29	binding
+T25	GRE 391 398	encoded
+T26	GRE 465 478	overproducing
+T27	GRE 530 537	binding
+T28	GRE 623 631	detected
+T29	GRE 692 699	binding
+T30	GRE 700 708	produces
+T31	GRE 867 871	bind
+T32	GRE 921 929	interact
+T33	GRE 976 982	exists
+T34	GRE 1122 1126	bind
+T35	GRE 1146 1153	produce
+E1	GRE:T24 Agent:T1,T2 Destination:T3
+E2	GRE:T25 Agent:T5 Theme:T4
+E3	GRE:T26 Agent:T6 Theme:T7
+E4	GRE:T27 Agent:T8 Destination:T9
+E5	GRE:T28 Theme:T10 Location:T11
+E6	GRE:T29 Agent:T13
+E7	GRE:T30 Agent:E6 Theme:T14
+E8	GRE:T31 Agent:T15 Manner:T16 Destination:T17
+E9	GRE:T32 Agent:T15
+E10	GRE:T33 Theme:T18 Location:T19
+E11	GRE:T34 Agent:T21 Manner:T22
+E12	GRE:T35 Agent:T21 Theme:T23

@@ -1,0 +1,16 @@
+T1	Protein 139 142	CRP
+T2	Promoter 210 233	more than 100 promoters
+T3	DNA 248 271	a specific DNA sequence
+T4	Operon 593 604	176 operons
+T5	Protein 628 631	CRP
+T6	SPAN 632 640	in vitro
+T7	Operon 645 655	16 operons
+T8	Operon 914 925	the operons
+T9	Protein 949 952	CRP
+T10	SPAN 1016 1052	the in vivo transcriptional profiles
+T11	SPAN 1060 1071	to identify
+T12	SPAN 1077 1090	CRP-dependent
+T13	Protein 1210 1213	CRP
+T14	SPAN 1338 1367	a large number of other genes
+T15	Gene 1356 1367	other genes
+T16	Bacteria 1371 1377	E.coli

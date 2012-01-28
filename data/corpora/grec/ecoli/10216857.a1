@@ -1,0 +1,31 @@
+T1	Regulator 0 3	Lrp
+T2	Promoter 28 53	the dadAX promoter region
+T3	Transcription 98 111	transcription
+T4	SPAN 112 120	directly
+T5	Operon 123 139	The dadAX operon
+T6	Promoter 156 174	multiple promoters
+T7	Repressor 236 239	Lrp
+T8	Activator 258 272	cyclic AMP-CRP
+T9	Amino_Acids 306 313	alanine
+T10	Amino_Acids 317 324	leucine
+T11	Repressor 357 360	Lrp
+T12	Promoter 375 400	the three major promoters
+T13	SPAN 583 592	Lrp sites
+T14	Gene_Repression 641 651	repression
+T15	SPAN 666 697	sites upstream of the promoters
+T16	Activator 781 784	Lrp
+T17	Amino_Acids 790 797	alanine
+T18	Amino_Acids 801 808	leucine
+T19	Promoter 844 846	P2
+T20	Amino_Acids 867 874	alanine
+T21	Amino_Acids 878 885	leucine
+T22	SPAN 926 928	P2
+T23	SPAN 948 971	a constitutive template
+T24	SPAN 986 994	fivefold
+T25	Amino_Acids 1107 1114	Alanine
+T26	Amino_Acids 1118 1125	leucine
+T27	SPAN 1136 1174	the affinity of Lrp to repressor sites
+T28	Activator 1227 1230	Lrp
+T29	SPAN 1234 1249	activator sites
+T30	SPAN 1335 1350	these modifiers
+T31	Operon 1395 1409	the dad operon

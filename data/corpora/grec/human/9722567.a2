@@ -1,0 +1,24 @@
+T22	GRE 35 43	contains
+T23	GRE 94 103	interacts
+T24	GRE 196 205	expressed
+T25	GRE 232 237	binds
+T26	GRE 556 564	contains
+T27	GRE 582 591	conserved
+T28	GRE 783 791	interact
+T29	GRE 928 933	binds
+T30	GRE 1020 1025	binds
+T31	Gene_Expression 1285 1299	Overexpression
+T32	GRE 1309 1320	potentiates
+T33	Gene_Activation 1321 1331	activation
+E1	GRE:T22 Theme:T1 Descriptive-Theme:T2
+E2	GRE:T23 Theme:T3 Theme:T1
+E3	GRE:T24 Theme:T4 Location:T5
+E4	GRE:T25 Agent:T4 Destination:T7
+E5	GRE:T26 Theme:T8 Descriptive-Theme:T9
+E6	GRE:T27 Theme:T9 Location:T10
+E7	GRE:T28 Theme:T12 Theme:T14 Condition:T13
+E8	GRE:T29 Agent:T15 Destination:T16
+E9	GRE:T30 Agent:T17 Destination:T19
+E10	Gene_Expression:T31 Theme:T20
+E11	GRE:T32 Agent:E10 Theme:E12
+E12	Gene_Activation:T33 Agent:T21

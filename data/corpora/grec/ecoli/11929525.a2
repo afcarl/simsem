@@ -1,0 +1,52 @@
+T45	Regulation 12 22	regulation
+T46	Gene_Expression 142 152	Expression
+T47	Gene_Activation 204 213	activated
+T48	GRE 414 419	binds
+T49	Gene_Activation 469 478	activates
+T50	GRE 514 521	induced
+T51	GRE 550 557	results
+T52	GRE 567 574	binding
+T53	GRE 663 670	directs
+T54	Transcription 671 684	transcription
+T55	GRE 708 716	encoding
+T56	GRE 756 767	overlapping
+T57	Regulation 863 872	regulated
+T58	GRE 949 953	bind
+T59	GRE 1005 1010	binds
+T60	Transcription 1067 1080	transcription
+T61	GRE 1107 1112	binds
+T62	Gene_Repression 1165 1172	repress
+T63	Gene_Expression 1181 1191	expression
+T64	Gene_Expression 1244 1254	expression
+T65	GRE 1328 1335	binding
+T66	GRE 1410 1417	binding
+T67	GRE 1569 1579	introduced
+T68	GRE 1658 1662	bind
+T69	Gene_Repression 1675 1682	inhibit
+T70	Regulation 1857 1866	regulated
+E1	Regulation:T45 Agent:T2 Theme:T1
+E2	Gene_Expression:T46 Source:T3
+E3	Gene_Activation:T47 Agent:T4,T5 Theme:E2
+E4	GRE:T48 Agent:T7 Theme:T8 Condition:T6
+E5	Gene_Activation:T49 Agent:T7 Theme:T9
+E6	GRE:T50 Theme:T10 Condition:T11
+E7	GRE:T51 Agent:T10 Descriptive-Agent:E8
+E8	GRE:T52 Agent:T12 Destination:T13
+E9	GRE:T53 Agent:T14 Theme:E10
+E10	Transcription:T54 Destination:T17
+E11	GRE:T55 Agent:T17 Theme:T16
+E12	GRE:T56 Theme:T14 Descriptive-Theme:T18
+E13	Regulation:T57 Theme:T19 Manner:T20
+E14	GRE:T58 Agent:T21 Destination:T22
+E15	GRE:T59 Agent:T23 Theme:T24
+E16	Transcription:T60 Theme:T25
+E17	GRE:T61 Agent:T26 Destination:T27
+E18	Gene_Repression:T62 Agent:T28,T29 Theme:E19
+E19	Gene_Expression:T63 Manner:T30 Source:T31
+E20	Gene_Expression:T64 Theme:T32
+E21	GRE:T65 Agent:T34 Manner:T33 Destination:T35
+E22	GRE:T66 Agent:T36
+E23	GRE:T67 Theme:T37 Destination:T38
+E24	GRE:T68 Agent:T39 Destination:T40
+E25	Gene_Repression:T69 Agent:T39 Theme:T41
+E26	Regulation:T70 Theme:T42 Manner:T43 Condition:T44

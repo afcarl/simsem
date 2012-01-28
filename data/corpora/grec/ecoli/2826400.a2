@@ -1,0 +1,32 @@
+T25	GRE 5 14	functions
+T26	GRE 31 38	control
+T27	Gene_Expression 50 60	expression
+T28	GRE 135 143	required
+T29	Gene_Activation 147 155	activate
+T30	Gene_Expression 156 166	expression
+T31	Gene_Activation 322 330	activate
+T32	Gene_Expression 337 347	expression
+T33	GRE 421 430	conferred
+T34	GRE 471 479	required
+T35	GRE 574 577	act
+T36	Gene_Activation 603 611	activate
+T37	Gene_Expression 623 633	expression
+T38	GRE 646 654	modifies
+T39	GRE 670 677	directs
+T40	GRE 698 702	acts
+E1	GRE:T25 Agent:T1 Manner:T2
+E2	GRE:T26 Agent:T1 Theme:E3 Location:T5
+E3	Gene_Expression:T27 Theme:T4
+E4	GRE:T28 Theme:T7 Purpose:E5
+E5	Gene_Activation:T29 Theme:E6
+E6	Gene_Expression:T30 Theme:T8
+E7	Gene_Activation:T31 Agent:T9 Theme:E8 Condition:T10
+E8	Gene_Expression:T32 Theme:T11 Condition:T12
+E9	GRE:T33 Agent:T15 Theme:T14
+E10	GRE:T34 Agent:T14 Theme:T16
+E11	GRE:T35 Agent:T18 Manner:T19 Purpose:E12
+E12	Gene_Activation:T36 Theme:E13
+E13	Gene_Expression:T37 Theme:T20
+E14	GRE:T38 Agent:T21 Theme:T22
+E15	GRE:T39 Agent:T21 Theme:T22
+E16	GRE:T40 Agent:T22 Location:T23

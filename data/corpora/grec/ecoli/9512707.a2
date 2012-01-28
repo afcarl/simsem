@@ -1,0 +1,20 @@
+T19	GRE 26 36	regulation
+T20	GRE 146 154	requires
+T21	Gene_Activation 693 700	induced
+T22	GRE 899 907	requires
+T23	GRE 989 993	acts
+T24	GRE 1688 1698	stimulates
+T25	GRE 1803 1813	stimulated
+T26	GRE 2125 2133	revealed
+T27	GRE 2289 2300	interfering
+T28	GRE 2528 2538	stimulates
+E1	GRE:T19 Agent:T1
+E2	GRE:T20 Agent:E1 Theme:T2
+E3	Gene_Activation:T21 Agent:T4 Theme:T3
+E4	GRE:T22 Agent:T5 Theme:T6
+E5	GRE:T23 Agent:T7 Descriptive-Agent:T8
+E6	GRE:T24 Agent:T9 Theme:T10
+E7	GRE:T25 Agent:T12 Theme:T11
+E8	GRE:T26 Agent:T13 Theme:T14
+E9	GRE:T27 Agent:T15 Theme:T16
+E10	GRE:T28 Agent:T17 Theme:T18

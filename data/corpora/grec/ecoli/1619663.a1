@@ -1,0 +1,31 @@
+T1	SPAN 54 63	Inducible
+T2	Operon 82 113	the Escherichia coli gal operon
+T3	Repressor 132 149	the Gal repressor
+T4	Gene 253 257	galS
+T5	SPAN 272 308	constitutive and ultrainduced levels
+T6	Gene 312 315	gal
+T7	Gene 348 361	the galS gene
+T8	mRNA 366 377	its product
+T9	Repressor 391 406	an isorepressor
+T10	Repressor 584 597	Gal repressor
+T11	Gene 610 623	the galR gene
+T12	Promoter 684 689	galP1
+T13	Promoter 691 696	galP2
+T14	Promoter 701 705	mglP
+T15	Laboratory_Technique 723 739	primer extension
+T16	SPAN 744 751	reverse
+T17	Laboratory_Technique 744 765	reverse transcription
+T18	mRNA 769 773	mRNA
+T19	Mutant_Bacteria 788 795	strains
+T20	SPAN 817 836	in galR and/or galS
+T21	Gene 820 836	galR and/or galS
+T22	SPAN 838 848	In strains
+T23	Mutant_Bacteria 841 848	strains
+T24	Gene 862 866	galS
+T25	mRNA 895 906	gal message
+T26	SPAN 940 947	inducer
+T27	mRNA 955 966	mgl message
+T28	SPAN 971 985	constitutively
+T29	Gene 1003 1007	galS
+T30	SPAN 1022 1036	constitutively
+T31	Gene 1049 1069	an mglA::lacZ fusion

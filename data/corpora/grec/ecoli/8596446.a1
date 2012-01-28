@@ -1,0 +1,32 @@
+T1	Regulator 11 29	the TorR regulator
+T2	DNA 33 58	cis-acting direct repeats
+T3	Operon 69 79	tor operon
+T4	Operon 111 145	the Escherichia coli torCAD operon
+T5	Protein 213 247	TMAO) reductase respiratory system
+T6	Organic_Compounds 274 278	TMAO
+T7	Regulator 318 322	TorR
+T8	Regulator 356 378	the regulatory protein
+T9	Operon 411 428	the torCAD operon
+T10	Organic_Compounds 444 448	TMAO
+T11	SPAN 563 573	Alteration
+T12	DNA 577 581	base
+T13	DNA 599 624	any of the four tor boxes
+T14	Plasmid 628 637	a plasmid
+T15	Gene 649 668	a torC'-lacZ fusion
+T16	SPAN 669 681	dramatically
+T17	SPAN 690 704	TorR-dependent
+T18	Gene 705 709	torC
+T19	DNA 767 771	box1
+T20	Gene 783 787	torC
+T21	Gene 897 901	torC
+T22	Regulator 991 995	TorR
+T23	Operator 1005 1031	the torC regulatory region
+T24	Regulator 1073 1077	TorR
+T25	DNA 1404 1408	box1
+T26	DNA 1413 1417	box2
+T27	DNA 1484 1488	box3
+T28	DNA 1493 1497	box4
+T29	Protein_Complex 1719 1742	a nucleoprotein complex
+T30	DNA 1748 1781	only one particular proximal site
+T31	Regulator 1792 1796	TorR
+T32	RNA_Polymerase 1832 1846	RNA polymerase

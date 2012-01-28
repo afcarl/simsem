@@ -1,0 +1,19 @@
+T1	Gene 134 142	The gene
+T2	Regulator 152 156	GcvA
+T3	Locus 271 285	The gcvA locus
+T4	Protein 354 363	a protein
+T5	Deletion 740 762	A chromosomal deletion
+T6	SPAN 818 832	the expression
+T7	Gene 836 859	a gcvT-lacZ gene fusion
+T8	SPAN 865 897	grown in the presence of glycine
+T9	Inorganic_Compounds 890 897	glycine
+T10	Gene 926 935	gcvT-lacZ
+T11	SPAN 926 946	gcvT-lacZ expression
+T12	SPAN 952 984	grown in the presence of inosine
+T13	Inorganic_Compounds 977 984	inosine
+T14	Gene 1004 1008	gcvA
+T15	Gene 1161 1165	gcvA
+T16	SPAN 1161 1176	gcvA expression
+T17	SPAN 1219 1244	a two- to threefold range
+T18	Inorganic_Compounds 1271 1278	glycine
+T19	Inorganic_Compounds 1296 1303	inosine

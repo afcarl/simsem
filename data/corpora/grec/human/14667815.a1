@@ -1,0 +1,27 @@
+T1	SPAN 14 32	aldehyde reductase
+T2	Activator 47 51	STAF
+T3	Activator 56 60	CHOP
+T4	SPAN 237 255	aldehyde reductase
+T5	DNA 699 713	The 3' element
+T6	Transcription_Factor 720 741	transcription factors
+T7	SPAN 720 759	transcription factors of the Sp1 family
+T8	Activator 915 919	STAF
+T9	DNA 930 944	the 5' element
+T10	Enzyme 988 1022	mouse and human aldehyde reductase
+T11	Enzyme 1024 1042	Aldehyde reductase
+T12	Activator 1102 1106	STAF
+T13	Promoter 1138 1146	promoter
+T14	Activator 1184 1188	CHOP
+T15	Experimental_Technique 1243 1255	Transfection
+T16	SPAN 1326 1345	a 3.5-fold increase
+T17	SPAN 1349 1366	promoter activity
+T18	Gene_Activation 1483 1492	Induction
+T19	Locus 1574 1595	the CHOP-binding site
+T20	SPAN 1596 1617	in the human promoter
+T21	Promoter 1599 1617	the human promoter
+T22	SPAN 1628 1640	CHOP binding
+T23	SPAN 1667 1677	ethoxyquin
+T24	Activator 1705 1709	CHOP
+T25	Gene_Expression 1730 1740	expression
+T26	Reagents 1756 1768	antioxidants
+T27	SPAN 1769 1781	in the human

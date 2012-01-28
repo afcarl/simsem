@@ -1,0 +1,30 @@
+T24	Gene_Activation 90 100	activation
+T25	Regulation 285 293	regulate
+T26	GRE 640 647	induces
+T27	Regulation 648 661	up-regulation
+T28	GRE 672 680	enhances
+T29	Gene_Activation 883 893	activation
+T30	GRE 905 913	Enhanced
+T31	GRE 1151 1159	elevated
+T32	GRE 1198 1207	Inhibited
+T33	Regulation 1223 1238	down-regulation
+T34	GRE 1382 1392	inhibition
+T35	GRE 1422 1431	elevation
+T36	GRE 1653 1661	inducing
+T37	GRE 1665 1674	elevation
+T38	GRE 1687 1696	enhancing
+E1	Gene_Activation:T24 Manner:T1
+E2	Regulation:T25 Agent:T2 Theme:T3
+E3	GRE:T26 Agent:T4 Theme:E4
+E4	Regulation:T27 Agent:T4 Theme:T5
+E5	GRE:T28 Agent:T4 Theme:T6
+E6	Gene_Activation:T29 Theme:T8
+E7	GRE:T30 Agent:T9 Theme:T10
+E8	GRE:T31 Agent:T13 Theme:T12 Location:T14
+E9	GRE:T32 Agent:T15 Theme:E10
+E10	Regulation:T33 Theme:T17 Manner:T16
+E11	GRE:T34 Theme:T18
+E12	GRE:T35 Agent:T20 Theme:T19
+E13	GRE:T36 Agent:T21 Theme:E14
+E14	GRE:T37 Theme:T22
+E15	GRE:T38 Agent:T21 Theme:T23

@@ -1,0 +1,29 @@
+T1	Protein 28 44	the AdhE protein
+T2	Gene 48 51	rng
+T3	SPAN 83 98	in the cra gene
+T4	Gene 86 98	the cra gene
+T5	SPAN 102 116	in the Cra-box
+T6	Transcription_Binding_Site 105 116	the Cra-box
+T7	Restriction_Enzyme 140 164	Escherichia coli RNase G
+T8	Gene 176 188	the rng gene
+T9	mRNA 219 228	adhE mRNA
+T10	Protein 248 264	the AdhE protein
+T11	Mutant_Bacteria 268 279	rng mutants
+T12	SPAN 303 325	the genetic background
+T13	Mutant_Bacteria 390 395	DC272
+T14	SPAN 406 411	point
+T15	SPAN 421 444	in the Cra-binding site
+T16	Transcription_Binding_Site 424 444	the Cra-binding site
+T17	Regulator 467 482	The Cra protein
+T18	Gene 494 506	the cra gene
+T19	Repressor 526 537	a repressor
+T20	Repressor 818 822	AdhE
+T21	SPAN 823 847	in the MC1061 background
+T22	Mutant_Bacteria 826 847	the MC1061 background
+T23	Plasmid 904 913	a plasmid
+T24	Gene 923 938	the cra(+) gene
+T25	Gene 983 996	the adhE gene
+T26	SPAN 1011 1028	transcriptionally
+T27	Transcription_Factor 1032 1035	Cra
+T28	SPAN 1040 1061	posttranscriptionally
+T29	Restriction_Enzyme 1065 1072	RNase G

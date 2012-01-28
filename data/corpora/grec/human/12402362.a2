@@ -1,0 +1,8 @@
+T6	GRE 139 144	binds
+T7	GRE 186 195	regulates
+T8	Gene_Expression 206 216	expression
+T9	GRE 869 874	plays
+E1	GRE:T6 Agent:T1 Destination:T2
+E2	GRE:T7 Agent:T1 Theme:E3
+E3	Gene_Expression:T8 Theme:T3
+E4	GRE:T9 Agent:T4 Theme:T5

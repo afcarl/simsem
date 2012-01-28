@@ -1,0 +1,16 @@
+T15	GRE 387 395	involved
+T16	Regulation 403 413	regulation
+T17	Gene_Expression 892 902	expression
+T18	GRE 977 985	function
+T19	GRE 1081 1085	bind
+T20	GRE 1240 1249	expressed
+T21	GRE 1338 1346	involved
+T22	Regulation 1354 1364	regulation
+E1	GRE:T15 Theme:T1 Descriptive-Theme:E2
+E2	Regulation:T16 Theme:T2
+E3	Gene_Expression:T17 Location:T3
+E4	GRE:T18 Agent:T5,T6 Descriptive-Agent:T7
+E5	GRE:T19 Agent:T8 Destination:T10
+E6	GRE:T20 Theme:T11
+E7	GRE:T21 Theme:T12,T13 Descriptive-Theme:E8
+E8	Regulation:T22 Theme:T14

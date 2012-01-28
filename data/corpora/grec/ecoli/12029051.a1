@@ -1,0 +1,25 @@
+T1	Repressor 260 264	OxyR
+T2	Gene 319 324	agn43
+T3	SPAN 335 348	Dam-dependent
+T4	SPAN 364 391	three GATC target sequences
+T5	SPAN 392 416	in the regulatory region
+T6	SPAN 427 439	OxyR binding
+T7	Gene 484 489	agn43
+T8	Transcription 524 537	Transcription
+T9	Promoter 557 587	a sigma(70)-dependent promoter
+T10	Transcription 694 707	transcription
+T11	SPAN 708 716	in vitro
+T12	DNA 722 725	DNA
+T13	SPAN 747 773	the level of transcription
+T14	Transcription 760 773	transcription
+T15	SPAN 801 808	in vivo
+T16	Gene 812 821	agn'-lacZ
+T17	Methylation 887 898	methylation
+T18	SPAN 914 926	OxyR binding
+T19	Methylation 948 959	methylation
+T20	Gene 994 999	agn43
+T21	SPAN 1015 1023	In vitro
+T22	DNA 1043 1067	an unmethylated template
+T23	Repressor 1085 1096	OxyR(C199S)
+T24	SPAN 1384 1407	a 101-nucleotide region
+T25	Promoter 1450 1462	the promoter

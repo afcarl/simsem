@@ -1,0 +1,11 @@
+T1	SPAN 0 15	Transcriptional
+T2	Transcription_Factor 30 63	a novel member of the bZIP family
+T3	Transcription_Factor 178 183	E4BP4
+T4	SPAN 199 233	an unusual DNA-binding specificity
+T5	SPAN 249 299	that of the activating transcription factor family
+T6	SPAN 327 360	in a transient transfection assay
+T7	Laboratory_Technique 330 360	a transient transfection assay
+T8	Transcription_Factor 395 400	E4BP4
+T9	SPAN 401 409	strongly
+T10	Transcription 420 433	transcription
+T11	SPAN 437 472	a DNA-binding-site-dependent manner

@@ -1,0 +1,52 @@
+T1	Transcription_Factor 0 4	Nrf1
+T2	Transcription_Factor 23 27	fosB
+T3	Transcription_Factor 29 34	c-jun
+T4	Transcription_Factor 36 40	junD
+T5	Transcription_Factor 45 49	ATF2
+T6	Protein_Complex 56 73	the AP1 component
+T7	SPAN 74 99	at the TNF alpha promoter
+T8	Promoter 77 99	the TNF alpha promoter
+T9	SPAN 100 124	in stimulated mast cells
+T10	Cells 103 124	stimulated mast cells
+T11	Transcription_Factor 164 172	CNC-bZIP
+T12	SPAN 208 231	developmental processes
+T13	Transcription_Factor 292 304	some of them
+T14	Gene 339 343	gene
+T15	SPAN 355 367	in the adult
+T16	Wild_Type_Organism 358 367	the adult
+T17	Transcription_Factor 414 419	NF-E2
+T18	Transcription_Factor 421 425	Nrf1
+T19	Transcription_Factor 430 434	Nrf2
+T20	SPAN 439 453	constitutively
+T21	SPAN 464 497	in the murine mast cell line CPII
+T22	Cells 467 497	the murine mast cell line CPII
+T23	Protein_Complex 517 547	transcription factor complexes
+T24	SPAN 553 581	several AP1 binding proteins
+T25	SPAN 583 597	Upon induction
+T26	Gene_Activation 588 597	induction
+T27	Protein_Complex 599 608	complexes
+T28	SPAN 622 661	at the 2 x NF-E2 consensus binding site
+T29	Transcription_Binding_Site 625 661	the 2 x NF-E2 consensus binding site
+T30	Transcription_Binding_Site 666 689	the extended kappa3/AP1
+T31	SPAN 666 697	the extended kappa3/AP1(+) site
+T32	Transcription_Factor 743 747	Nrf1
+T33	Transcription_Factor 753 759	c -jun
+T34	Transcription_Factor 761 765	junD
+T35	Transcription_Factor 767 771	fosB
+T36	Transcription_Factor 776 780	ATF2
+T37	SPAN 781 794	in mast cells
+T38	Cells 784 794	mast cells
+T39	SPAN 846 850	Nrf1
+T40	SPAN 851 856	alone
+T41	Transcription_Binding_Site 860 882	the kappa3/AP1(-) site
+T42	SPAN 883 901	in dendritic cells
+T43	Cells 886 901	dendritic cells
+T44	Protein 966 974	isoforms
+T45	SPAN 983 996	in mast cells
+T46	Cells 986 996	mast cells
+T47	Domain 1239 1278	this altered binding/interaction domain
+T48	Protein 1295 1303	TNFalpha
+T49	Protein 1344 1363	this splice variant
+T50	Protein_Complex 1369 1397	the active AP1/NF-AT complex
+T51	SPAN 1398 1414	at this promoter
+T52	Promoter 1401 1414	this promoter

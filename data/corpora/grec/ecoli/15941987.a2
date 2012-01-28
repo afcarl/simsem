@@ -1,0 +1,16 @@
+T17	GRE 28 38	activation
+T18	GRE 152 162	biogenesis
+T19	GRE 251 261	controlled
+T20	GRE 383 392	activates
+T21	GRE 838 843	bound
+T22	GRE 1161 1166	bound
+T23	GRE 1215 1226	upregulated
+T24	GRE 1581 1590	activated
+E1	GRE:T17 Agent:T2 Theme:T1
+E2	GRE:T18 Theme:T3
+E3	GRE:T19 Agent:T4 Theme:E2
+E4	GRE:T20 Agent:T5 Theme:T6
+E5	GRE:T21 Agent:T9 Theme:T7 Descriptive-Theme:T8
+E6	GRE:T22 Agent:T10 Destination:T12
+E7	GRE:T23 Theme:T10 Rate:T13
+E8	GRE:T24 Agent:T16 Theme:T14 Manner:T15

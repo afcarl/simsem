@@ -1,0 +1,8 @@
+T8	GRE 136 144	controls
+T9	Gene_Expression 145 155	expression
+T10	GRE 459 463	bind
+T11	Gene_Repression 875 882	repress
+E1	GRE:T8 Agent:T1 Theme:E2
+E2	Gene_Expression:T9 Agent:T1 Theme:T2 Descriptive-Agent:T3
+E3	GRE:T10 Agent:T4 Destination:T5
+E4	Gene_Repression:T11 Agent:T6 Theme:T7

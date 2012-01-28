@@ -1,0 +1,6 @@
+T7	GRE 398 405	encodes
+T8	GRE 499 504	binds
+T9	GRE 519 526	forming
+E1	GRE:T7 Agent:T1 Theme:T2
+E2	GRE:T8 Agent:T3 Agent:T4 Manner:T5
+E3	GRE:T9 Agent:T3,T4 Theme:T6

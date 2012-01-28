@@ -1,0 +1,12 @@
+T10	GRE 151 160	regulates
+T11	Gene_Expression 183 193	expression
+T12	GRE 208 214	encode
+T13	GRE 780 789	clustered
+T14	GRE 825 834	represent
+T15	GRE 1423 1432	regulated
+E1	GRE:T10 Agent:T1 Theme:E2
+E2	Gene_Expression:T11 Theme:T2
+E3	GRE:T12 Agent:T2 Theme:T3
+E4	GRE:T13 Theme:T4 Descriptive-Theme:T5
+E5	GRE:T14 Agent:T4 Theme:T6
+E6	GRE:T15 Agent:T9 Theme:T7 Manner:T8

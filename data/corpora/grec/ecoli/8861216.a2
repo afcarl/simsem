@@ -1,0 +1,8 @@
+T9	GRE 538 545	encodes
+T10	GRE 577 586	expressed
+T11	GRE 751 760	activates
+T12	Gene_Expression 766 776	expression
+E1	GRE:T9 Agent:T1 Theme:T2
+E2	GRE:T10 Agent:T3 Theme:T2 Condition:T4
+E3	GRE:T11 Agent:T6 Theme:E4
+E4	Gene_Expression:T12 Theme:T7

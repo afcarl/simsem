@@ -1,0 +1,4 @@
+T5	Regulation 986 995	regulated
+T6	Regulation 1230 1239	regulated
+E1	Regulation:T5 Agent:T2 Theme:T1
+E2	Regulation:T6 Agent:T4 Theme:T3

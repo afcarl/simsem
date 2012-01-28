@@ -1,0 +1,18 @@
+T17	GRE 71 80	Synthesis
+T18	GRE 181 188	require
+T19	Transcription 219 232	Transcription
+T20	GRE 334 342	detected
+T21	Mutation 374 383	Mutations
+T22	GRE 406 415	abolished
+T23	GRE 606 617	transcribed
+T24	GRE 656 661	codes
+T25	GRE 709 714	codes
+E1	GRE:T17 Theme:T1 Location:T2
+E2	GRE:T18 Agent:E1 Theme:T4
+E3	Transcription:T19 Theme:T5
+E4	GRE:T20 Theme:E3 Location:T6
+E5	Mutation:T21 Location:T8
+E6	GRE:T22 Agent:E5 Theme:T10
+E7	GRE:T23 Theme:T11 Descriptive-Theme:T12
+E8	GRE:T24 Agent:T13 Theme:T14
+E9	GRE:T25 Agent:T15 Theme:T16

@@ -1,0 +1,16 @@
+T1	DNA 0 23	A distant upstream site
+T2	SPAN 40 48	negative
+T3	Gene 63 93	the Escherichia coli ompF gene
+T4	Protein 243 247	OmpR
+T5	Activator 292 304	an activator
+T6	Repressor 309 320	a repressor
+T7	Gene 332 336	ompF
+T8	DNA 512 521	this site
+T9	DNA 538 554	a 22-bp fragment
+T10	Gene 582 586	ompF
+T11	SPAN 582 597	ompF expression
+T12	Mutation 810 819	mutations
+T13	SPAN 863 891	constitutive ompF expression
+T14	Gene 876 880	ompF
+T15	SPAN 986 994	negative
+T16	Gene 1009 1013	ompF

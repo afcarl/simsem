@@ -1,0 +1,18 @@
+T20	Regulation 0 10	Regulation
+T21	Gene_Expression 94 104	expression
+T22	Regulation 145 154	regulated
+T23	GRE 174 184	comprising
+T24	GRE 246 249	act
+T25	Transcription 393 403	transcribe
+T26	GRE 532 542	identified
+T27	Gene_Expression 808 818	expression
+T28	Gene_Expression 975 985	expression
+E1	Regulation:T20 Theme:T1
+E2	Gene_Expression:T21 Theme:T2 Location:T3
+E3	Regulation:T22 Agent:T5 Theme:E2
+E4	GRE:T23 Theme:T5 Descriptive-Theme:T6
+E5	GRE:T24 Agent:T7 Descriptive-Agent:T8
+E6	Transcription:T25 Agent:T9 Theme:T10 Condition:T11
+E7	GRE:T26 Theme:T13 Source:T14 Condition:T15
+E8	Gene_Expression:T27 Theme:T16 Condition:T17
+E9	Gene_Expression:T28 Theme:T18

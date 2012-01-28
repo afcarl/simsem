@@ -1,0 +1,23 @@
+T1	Gene 28 63	the wild-type and mutant ompR genes
+T2	Phenotype 75 95	different phenotypes
+T3	Gene 117 140	the ompF and ompC genes
+T4	Gene 177 200	the ompF and ompC genes
+T5	SPAN 250 263	OmpF and OmpC
+T6	SPAN 294 313	a reciprocal manner
+T7	SPAN 317 352	the osmolarity of the growth medium
+T8	Regulation 354 373	This osmoregulation
+T9	Activator 389 405	the OmpR protein
+T10	Gene 463 476	the ompR gene
+T11	Gene 591 631	the wild-type and five mutant ompR genes
+T12	SPAN 647 676	differences in osmoregulation
+T13	Protein 698 724	the OmpF and OmpC proteins
+T14	Bacteria 779 792	a host strain
+T15	Plasmid 797 806	a plasmid
+T16	Gene 837 872	the wild-type or a mutant ompR gene
+T17	Phenotype 1022 1047	OmpF+ or OmpC+ phenotypes
+T18	Gene 1061 1077	other ompR genes
+T19	SPAN 1079 1087	Positive
+T20	Gene 1107 1128	two mutant ompR genes
+T21	Domain 1369 1380	each domain
+T22	SPAN 1392 1426	a different role in the expression
+T23	Protein 1430 1456	the OmpF and OmpC proteins

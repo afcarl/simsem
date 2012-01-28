@@ -1,0 +1,26 @@
+T18	GRE 508 518	reappeared
+T19	GRE 765 775	terminated
+T20	GRE 1047 1053	lacked
+T21	Transcription 1059 1072	transcription
+T22	Transcription 1142 1155	transcription
+T23	GRE 1164 1174	terminated
+T24	Transcription 1404 1417	transcription
+T25	GRE 1451 1458	altered
+T26	GRE 1463 1469	timing
+T27	GRE 1519 1529	possessing
+T28	GRE 2014 2023	inhibited
+T29	GRE 2205 2210	serve
+T30	GRE 2753 2761	activate
+E1	GRE:T18 Theme:T1
+E2	GRE:T19 Theme:T2
+E3	GRE:T20 Agent:T3,T4 Theme:E4
+E4	Transcription:T21 Theme:T5
+E5	Transcription:T22 Theme:T6
+E6	GRE:T23 Theme:E5
+E7	Transcription:T24 Agent:T7
+E8	GRE:T25 Agent:E7 Theme:E9
+E9	GRE:T26 Theme:T8
+E10	GRE:T27 Agent:T9 Theme:T10 Location:T11
+E11	GRE:T28 Theme:T12
+E12	GRE:T29 Agent:T13 Descriptive-Agent:T14
+E13	GRE:T30 Agent:T15 Theme:T16 Purpose:T17

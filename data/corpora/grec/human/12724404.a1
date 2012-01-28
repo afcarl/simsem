@@ -1,0 +1,4 @@
+T1	Repressor 1007 1019	Each new SAP
+T2	Transcription 1030 1043	transcription
+T3	Gene_Repression 1079 1089	repression
+T4	Protein_Complex 1106 1112	mSin3A

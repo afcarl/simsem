@@ -1,0 +1,26 @@
+T1	Promoter 123 139	The tdh promoter
+T2	SPAN 171 190	seven- to eightfold
+T3	Wild_Type_Bacteria 196 201	cells
+T4	SPAN 196 248	cells are grown in the presence of exogenous leucine
+T5	Organic_Compounds 231 248	exogenous leucine
+T6	Mutant_Bacteria 281 288	mutants
+T7	SPAN 304 321	high constitutive
+T8	Promoter 336 352	the tdh promoter
+T9	SPAN 368 384	in these strains
+T10	Mutant_Bacteria 371 384	these strains
+T11	SPAN 403 409	within
+T12	Gene 440 443	lrp
+T13	Regulator 458 461	Lrp
+T14	Transcription_Binding_Site 650 685	a 12-bp presumptive target sequence
+T15	Gene_Activation 726 752	constitutively derepressed
+T16	Promoter 769 785	the tdh promoter
+T17	Regulator 1132 1135	Lrp
+T18	SPAN 1141 1151	indirectly
+T19	SPAN 1152 1172	on the serA promoter
+T20	Promoter 1155 1172	the serA promoter
+T21	SPAN 1206 1208	in
+T22	Regulator 1251 1255	LivR
+T23	Gene_Repression 1345 1369	constitutively repressed
+T24	Promoter 1386 1402	the tdh promoter
+T25	Gene_Activation 1407 1429	constitutively induced
+T26	Promoter 1446 1463	the serA promoter

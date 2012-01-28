@@ -1,0 +1,40 @@
+T30	GRE 10 24	overproduction
+T31	Mutation 52 61	mutations
+T32	GRE 62 69	depends
+T33	Mutation 73 82	mutations
+T34	GRE 165 172	encoded
+T35	GRE 192 200	involved
+T36	GRE 204 215	degradation
+T37	GRE 230 244	Overproduction
+T38	GRE 293 299	depend
+T39	GRE 396 403	carried
+T40	Point_Mutation 412 420	mutation
+T41	GRE 483 490	encoded
+T42	GRE 519 522	act
+T43	GRE 800 814	Overproduction
+T44	GRE 852 860	reversed
+T45	GRE 888 900	introduction
+T46	GRE 914 922	carrying
+T47	Gene_Expression 969 979	expression
+T48	Regulation 1001 1010	regulated
+T49	Regulation 1001 1010	regulated
+E1	GRE:T30 Agent:E2 Theme:T1
+E2	Mutation:T31 Theme:T2
+E3	GRE:T32 Agent:E1 Theme:E4
+E4	Mutation:T33 Location:T3,T5
+E5	GRE:T34 Agent:T8 Theme:T7
+E6	GRE:T35 Agent:T7 Purpose:E7
+E7	GRE:T36 Theme:T9
+E8	GRE:T37 Agent:T11 Theme:T10
+E9	GRE:T38 Agent:E8 Theme:T12
+E10	GRE:T39 Agent:T13 Theme:E11
+E11	Point_Mutation:T40 Manner:T14 Location:T15
+E12	GRE:T41 Agent:T18 Theme:T17
+E13	GRE:T42 Agent:T17 Descriptive-Agent:T19
+E14	GRE:T43 Theme:T20 Location:T21
+E15	GRE:T44 Agent:E16 Theme:E14
+E16	GRE:T45 Theme:T23
+E17	GRE:T46 Agent:T23 Theme:T24
+E18	Gene_Expression:T47 Theme:T25
+E19	Regulation:T48 Agent:T27 Theme:E18 Manner:T26
+E20	Regulation:T49 Agent:T29 Theme:E18 Manner:T28

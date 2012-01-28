@@ -1,0 +1,36 @@
+T30	GRE 64 69	binds
+T31	GRE 217 226	regulates
+T32	GRE 231 241	expression
+T33	GRE 306 314	required
+T34	GRE 323 336	transcription
+T35	GRE 369 375	encode
+T36	GRE 416 426	expression
+T37	GRE 449 458	regulated
+T38	GRE 549 560	transcribed
+T39	Gene_Expression 589 599	expression
+T40	GRE 617 625	enhanced
+T41	GRE 679 689	stimulates
+T42	GRE 909 918	interacts
+T43	GRE 968 976	promotes
+T44	GRE 977 984	binding
+T45	Gene_Expression 1047 1057	Expression
+T46	GRE 1068 1077	increased
+T47	GRE 1305 1316	controlling
+E1	GRE:T30 Agent:T1 Manner:T4 Location:T2 Destination:T5
+E2	GRE:T31 Agent:T6 Theme:E3
+E3	GRE:T32 Theme:T7
+E4	GRE:T33 Theme:T8 Purpose:E5
+E5	GRE:T34 Theme:T9
+E6	GRE:T35 Agent:T9 Theme:T10
+E7	GRE:T36 Theme:T11
+E8	GRE:T37 Theme:E7 Condition:T12
+E9	GRE:T38 Agent:T15 Theme:T14 Temporal:T13
+E10	Gene_Expression:T39 Theme:T16
+E11	GRE:T40 Agent:T17 Theme:E10
+E12	GRE:T41 Agent:T18 Theme:T19
+E13	GRE:T42 Agent:T20 Agent:T22 Manner:T21
+E14	GRE:T43 Agent:T23 Theme:E15
+E15	GRE:T44 Agent:T24 Destination:T25
+E16	Gene_Expression:T45 Theme:T26
+E17	GRE:T46 Theme:E16 Temporal:T27
+E18	GRE:T47 Agent:T28 Theme:T29

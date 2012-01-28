@@ -1,0 +1,46 @@
+T1	Regulator 82 107	The global regulator CsrA
+T2	SPAN 178 203	central carbon metabolism
+T3	SPAN 215 250	flagellum biosynthesis and motility
+T4	SPAN 266 283	biofilm formation
+T5	SPAN 284 303	in Escherichia coli
+T6	Wild_Type_Bacteria 287 303	Escherichia coli
+T7	Regulator 305 309	CsrA
+T8	SPAN 305 318	CsrA activity
+T9	RNA 337 362	the untranslated RNA CsrB
+T10	Protein_Complex 392 428	a globular ribonucleoprotein complex
+T11	Regulator 430 434	CsrA
+T12	SPAN 435 445	indirectly
+T13	Gene 456 460	csrB
+T14	Mutation 606 615	Mutations
+T15	SPAN 626 680	the BarA/UvrY two-component signal transduction system
+T16	Gene 691 695	csrB
+T17	Gene 729 740	csrA'-'lacZ
+T18	Gene 821 834	csrA and uvrY
+T19	Gene 861 865	barA
+T20	SPAN 943 950	Ectopic
+T21	Gene 965 969	uvrY
+T22	Gene 985 994	csrB-lacZ
+T23	SPAN 985 1013	csrB-lacZ expression defects
+T24	Gene 1024 1028	uvrY
+T25	Gene 1030 1034	csrA
+T26	Gene 1039 1043	barA
+T27	Gene 1055 1059	csrA
+T28	SPAN 1071 1091	csrA or barA defects
+T29	Gene 1097 1101	barA
+T30	Gene 1124 1128	barA
+T31	Activator 1139 1160	Purified UvrY protein
+T32	Gene 1172 1181	csrB-lacZ
+T33	SPAN 1193 1214	approximately sixfold
+T34	Protein 1289 1293	UvrY
+T35	Gene 1297 1301	csrB
+T36	Gene 1331 1335	sdiA
+T37	SPAN 1351 1367	a LuxR homologue
+T38	Gene 1397 1430	uvrY'-'lacZ and csrB-lacZ fusions
+T39	Gene 1450 1461	csrA'-'lacZ
+T40	SPAN 1513 1520	Ectopic
+T41	Gene 1535 1539	uvrY
+T42	SPAN 1551 1568	biofilm formation
+T43	Regulator 1783 1787	CsrA
+T44	SPAN 1799 1813	UvrY-dependent
+T45	Gene 1828 1832	csrB
+T46	SPAN 1847 1889	BarA-dependent and -independent mechanisms

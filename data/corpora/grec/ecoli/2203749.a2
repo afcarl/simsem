@@ -1,0 +1,24 @@
+T23	Gene_Expression 71 81	expression
+T24	GRE 187 195	involved
+T25	Gene_Expression 204 214	expression
+T26	GRE 389 394	binds
+T27	GRE 411 419	protects
+T28	GRE 492 500	addition
+T29	GRE 552 561	inhibited
+T30	Transcription 562 575	transcription
+T31	GRE 710 714	show
+T32	Gene_Activation 725 735	expression
+T33	Gene_Repression 811 821	suppressed
+T34	Mutation 827 835	mutation
+E1	Gene_Expression:T23 Theme:T3 Manner:T1,T2 Location:T4
+E2	GRE:T24 Theme:T6 Location:T9,T11 Descriptive-Theme:E3,T8
+E3	Gene_Expression:T25 Theme:T7 Location:T9
+E4	GRE:T26 Agent:T12 Destination:T13
+E5	GRE:T27 Agent:T12 Theme:T14
+E6	GRE:T28 Theme:T15 Destination:T16
+E7	GRE:T29 Agent:E6 Theme:E8
+E8	Transcription:T30 Source:T17
+E9	GRE:T31 Agent:T18 Theme:E10
+E10	Gene_Activation:T32 Theme:T19
+E11	Gene_Repression:T33 Agent:E12 Theme:T20
+E12	Mutation:T34 Location:T21

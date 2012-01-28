@@ -1,0 +1,10 @@
+T10	GRE 31 39	encoding
+T11	GRE 123 131	encoding
+T12	GRE 277 286	contained
+T13	GRE 330 338	encoding
+T14	Gene_Expression 816 826	expression
+E1	GRE:T10 Agent:T1 Theme:T2
+E2	GRE:T11 Agent:T3 Theme:T4
+E3	GRE:T12 Theme:T5 Descriptive-Theme:T6
+E4	GRE:T13 Agent:T6 Theme:T7
+E5	Gene_Expression:T14 Theme:T9 Manner:T8

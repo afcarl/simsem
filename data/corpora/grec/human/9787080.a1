@@ -1,0 +1,15 @@
+T1	Transcription_Factor 107 111	Spt3
+T2	SPAN 180 187	in vivo
+T3	Gene 225 260	RNA polymerase II-transcribed genes
+T4	Gene 287 295	the gene
+T5	Transcription_Factor 334 340	SUPT3H
+T6	Transcription_Factor 676 698	the full-length SUPT3H
+T7	SPAN 702 708	unable
+T8	Mutation 723 744	an spt3Delta mutation
+T9	Gene 760 787	a human-yeast chimeric gene
+T10	SPAN 826 835	partially
+T11	Mutation 847 868	an spt3Delta mutation
+T12	SPAN 894 921	the transcriptional control
+T13	SPAN 961 980	from yeast to human
+T14	Wild_Type_Organism 966 971	yeast
+T15	Wild_Type_Organism 975 980	human

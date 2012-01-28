@@ -1,0 +1,21 @@
+T1	Operator 64 96	the cis-acting upstream sequence
+T2	Promoter 123 140	the ompF promoter
+T3	SPAN 141 160	in Escherichia coli
+T4	Wild_Type_Bacteria 144 160	Escherichia coli
+T5	Gene 177 190	the ompF gene
+T6	Protein 202 227	an outer membrane protein
+T7	SPAN 266 281	transcriptional
+T8	Protein 317 338	the ompR gene product
+T9	SPAN 349 363	on nucleotides
+T10	Locus 352 363	nucleotides
+T11	Locus 883 898	The nucleotides
+T12	SPAN 961 978	sequence-specific
+T13	Promoter 994 1011	the ompF promoter
+T14	SPAN 1015 1031	the OmpR protein
+T15	SPAN 1046 1060	OmpR-dependent
+T16	Promoter 1075 1092	the ompF promoter
+T17	Locus 1124 1139	the nucleotides
+T18	SPAN 1181 1202	a role in stimulation
+T19	Gene 1210 1214	ompF
+T20	Promoter 1471 1488	the ompF promoter
+T21	Activator 1492 1508	the OmpR protein

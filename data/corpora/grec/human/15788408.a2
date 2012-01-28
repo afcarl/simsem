@@ -1,0 +1,42 @@
+T31	Gene_Activation 32 41	activates
+T32	Transcription 82 95	transcription
+T33	Gene_Expression 146 156	expression
+T34	Gene_Expression 514 524	expression
+T35	Gene_Activation 591 598	induces
+T36	Gene_Expression 604 614	expression
+T37	GRE 736 745	increases
+T38	Transcription 751 764	transcription
+T39	Transcription 958 971	transcription
+T40	GRE 1023 1032	increased
+T41	Gene_Activation 1070 1079	activated
+T42	Gene_Expression 1303 1317	Overexpression
+T43	Gene_Activation 1344 1352	activate
+T44	GRE 1427 1435	activate
+T45	GRE 1476 1481	binds
+T46	GRE 1583 1592	increased
+T47	GRE 1686 1693	inhibit
+T48	GRE 1698 1704	effect
+T49	Gene_Expression 1725 1735	expression
+T50	Regulation 1855 1868	up-regulation
+T51	Transcription 1882 1895	transcription
+E1	Gene_Activation:T31 Agent:T1 Theme:E2
+E2	Transcription:T32 Theme:T2
+E3	Gene_Expression:T33 Theme:T3
+E4	Gene_Expression:T34 Theme:T4
+E5	Gene_Activation:T35 Agent:T5 Theme:E6
+E6	Gene_Expression:T36 Theme:T6
+E7	GRE:T37 Agent:T7 Theme:E8
+E8	Transcription:T38 Theme:T8
+E9	Transcription:T39 Theme:T10
+E10	GRE:T40 Agent:T12 Theme:T13
+E11	Gene_Activation:T41 Agent:T12 Theme:T14 Source:T15
+E12	Gene_Expression:T42 Theme:T16
+E13	Gene_Activation:T43 Agent:E12 Theme:T17
+E14	GRE:T44 Agent:T18,T19 Theme:T20
+E15	GRE:T45 Agent:T21 Destination:T22
+E16	GRE:T46 Agent:T24 Theme:T23
+E17	GRE:T47 Agent:T25 Theme:E18
+E18	GRE:T48 Agent:T26 Theme:E19
+E19	Gene_Expression:T49 Theme:T27
+E20	Regulation:T50 Theme:E21 Manner:T28
+E21	Transcription:T51 Theme:T29

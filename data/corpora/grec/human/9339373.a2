@@ -1,0 +1,4 @@
+T5	GRE 91 98	encodes
+T6	GRE 723 730	encodes
+E1	GRE:T5 Agent:T1 Theme:T2
+E2	GRE:T6 Agent:T3 Theme:T4

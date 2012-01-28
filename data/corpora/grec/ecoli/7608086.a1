@@ -1,0 +1,21 @@
+T1	Transcription_Binding_Site 324 334	both sites
+T2	Protein 340 344	MetR
+T3	Organic_Compounds 346 358	Homocysteine
+T4	Protein 394 398	MetR
+T5	Transcription_Binding_Site 410 433	the glyA control region
+T6	SPAN 556 568	MetR binding
+T7	SPAN 581 596	a bending angle
+T8	Gene 736 740	glyA
+T9	Laboratory_Technique 753 778	site-directed mutagenesis
+T10	Transcription_Binding_Site 797 818	the two binding sites
+T11	SPAN 819 858	in a lambda glyA-lacZ gene fusion phage
+T12	Virus 822 858	a lambda glyA-lacZ gene fusion phage
+T13	Transcription_Binding_Site 869 886	the binding sites
+T14	Gene 952 961	glyA-lacZ
+T15	SPAN 952 972	glyA-lacZ expression
+T16	Transcription_Binding_Site 998 1002	site
+T17	Gene_Expression 1057 1067	expression
+T18	Transcription_Binding_Site 1085 1095	both sites
+T19	SPAN 1113 1119	normal
+T20	SPAN 1113 1135	normal glyA regulation
+T21	Gene 1120 1124	glyA

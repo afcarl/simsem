@@ -1,0 +1,20 @@
+T1	Gene 14 18	glnA
+T2	SPAN 19 38	in Escherichia coli
+T3	Wild_Type_Bacteria 22 38	Escherichia coli
+T4	SPAN 52 71	at tandem promoters
+T5	Promoter 55 71	tandem promoters
+T6	Gene 98 111	the glnA gene
+T7	Promoter 181 197	tandem promoters
+T8	Promoter 238 244	glnAp1
+T9	Activator 255 288	the catabolite activating protein
+T10	Repressor 328 331	NRI
+T11	mRNA 368 380	a transcript
+T12	Promoter 470 476	glnAp2
+T13	Regulator 487 490	NRI
+T14	Protein 502 518	the glnF product
+T15	Gene_Expression 520 535	full expression
+T16	SPAN 550 556	growth
+T17	SPAN 560 590	a nitrogen-limited environment
+T18	SPAN 710 726	the glnL product
+T19	Activator 764 767	NRI
+T20	Promoter 805 811	glnAp2

@@ -1,0 +1,4 @@
+T12	GRE 34 42	encoding
+T13	GRE 265 273	encoding
+E1	GRE:T12 Agent:T1 Theme:T2,T3,T4,T5,T6
+E2	GRE:T13 Agent:T7 Theme:T8,T9,T10,T11

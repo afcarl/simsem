@@ -1,0 +1,45 @@
+T1	SPAN 0 13	Transcription
+T2	Promoter 28 63	the Escherichia coli melAB promoter
+T3	SPAN 432 445	transcription
+T4	SPAN 457 478	at the melAB promoter
+T5	Promoter 460 478	the melAB promoter
+T6	Gene_Activation 480 495	This activation
+T7	Organic_Compounds 512 516	MelR
+T8	Organic_Compounds 521 530	melibiose
+T9	Activator 594 597	CRP
+T10	Promoter 614 632	the melAB promoter
+T11	SPAN 647 675	MelR-dependent transcription
+T12	Activator 836 840	MelR
+T13	DNA 850 886	two identical 18 bp target sequences
+T14	Activator 979 983	MelR
+T15	DNA 1006 1039	two other related 18 bp sequences
+T16	Activator 1226 1230	MelR
+T17	Locus 1243 1247	Site
+T18	Locus 1248 1250	1'
+T19	Locus 1252 1258	Site 1
+T20	Locus 1260 1266	Site 2
+T21	Locus 1271 1277	Site R
+T22	Organic_Compounds 1319 1328	melibiose
+T23	Organic_Compounds 1358 1367	melibiose
+T24	Activator 1369 1373	MelR
+T25	Locus 1388 1400	a fifth site
+T26	Activator 1557 1560	CRP
+T27	Promoter 1582 1600	the melAB promoter
+T28	Activator 1619 1623	MelR
+T29	Activator 1644 1648	MelR
+T30	Locus 1662 1668	a site
+T31	Promoter 1799 1817	the melAB promoter
+T32	Activator 1850 1854	MelR
+T33	Locus 1866 1872	Site 2
+T34	SPAN 1866 1873	Site 2'
+T35	Promoter 1897 1915	the melAB promoter
+T36	Locus 1925 1932	Sites 1
+T37	SPAN 1925 1933	Sites 1'
+T38	Locus 1935 1941	Site 1
+T39	Locus 1943 1949	Site 2
+T40	Locus 1954 1960	Site 2
+T41	SPAN 1954 1961	Site 2'
+T42	SPAN 1963 1966	CRP
+T43	Activator 1994 1998	MelR
+T44	Locus 2008 2044	Sites 1' and 1 and at Sites 2 and 2'
+T45	Promoter 2073 2091	the melAB promoter

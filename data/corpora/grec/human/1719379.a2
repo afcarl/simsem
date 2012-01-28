@@ -1,0 +1,12 @@
+T9	GRE 179 186	binding
+T10	GRE 315 323	encoding
+T11	GRE 347 352	binds
+T12	GRE 634 642	involved
+T13	Regulation 662 672	regulation
+T14	GRE 788 793	plays
+E1	GRE:T9 Destination:T1
+E2	GRE:T10 Agent:T2 Theme:T3
+E3	GRE:T11 Agent:T3
+E4	GRE:T12 Theme:T5 Descriptive-Theme:E5
+E5	Regulation:T13 Manner:T6
+E6	GRE:T14 Agent:T7 Descriptive-Agent:T8

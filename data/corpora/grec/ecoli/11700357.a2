@@ -1,0 +1,26 @@
+T21	GRE 386 394	required
+T22	GRE 469 476	directs
+T23	Transcription 477 490	transcription
+T24	GRE 722 725	act
+T25	Mutation 904 914	increasing
+T26	GRE 951 958	results
+T27	GRE 1002 1010	resulted
+T28	GRE 1031 1039	increase
+T29	GRE 1105 1114	increased
+T30	Gene_Activation 1200 1210	activation
+T31	GRE 1211 1219	involves
+T32	GRE 1220 1231	realignment
+T33	GRE 1368 1382	down-regulated
+E1	GRE:T21 Theme:T1 Purpose:T2
+E2	GRE:T22 Agent:T3 Theme:E3
+E3	Transcription:T23 Theme:T4
+E4	GRE:T24 Agent:T5 Descriptive-Agent:T6
+E5	Mutation:T25 Theme:T7
+E6	GRE:T26 Agent:E5 Theme:T8
+E7	GRE:T27 Agent:T9 Theme:E8
+E8	GRE:T28 Theme:T13 Rate:T10,T11,T12
+E9	GRE:T29 Theme:T14
+E10	Gene_Activation:T30 Theme:T15
+E11	GRE:T31 Agent:E10 Theme:E12
+E12	GRE:T32 Theme:T16 Location:T17
+E13	GRE:T33 Agent:T20 Theme:T19

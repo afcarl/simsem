@@ -1,0 +1,34 @@
+T35	Transcription 97 110	transcription
+T36	GRE 286 295	interacts
+T37	GRE 379 390	interaction
+T38	GRE 416 428	demonstrated
+T39	Gene_Expression 842 851	expressed
+T40	Gene_Expression 891 905	Overexpression
+T41	GRE 943 951	enhanced
+T42	Transcription 1054 1067	transcription
+T43	Mutation 1102 1110	Mutation
+T44	GRE 1204 1213	abolished
+T45	GRE 1238 1245	enhance
+T46	GRE 1290 1298	activate
+T47	GRE 1344 1354	maintained
+T48	GRE 1413 1420	mediate
+T49	GRE 1489 1500	interacting
+T50	Regulation 1747 1755	regulate
+T51	Transcription 1783 1796	transcription
+E1	Transcription:T35 Agent:T1 Theme:T2
+E2	GRE:T36 Theme:T4 Theme:T3 Location:T5
+E3	GRE:T37 Theme:T6 Manner:T7
+E4	GRE:T38 Theme:E3 Instrument:T8
+E5	Gene_Expression:T39 Theme:T9 Location:T10
+E6	Gene_Expression:T40 Theme:T12 Location:T13
+E7	GRE:T41 Agent:E6 Theme:T15,T16
+E8	Transcription:T42 Source:T17
+E9	Mutation:T43 Theme:T18 Location:T19
+E10	GRE:T44 Agent:E9 Theme:E11
+E11	GRE:T45 Agent:T20 Theme:T21
+E12	GRE:T46 Agent:T20 Theme:T22
+E13	GRE:T47 Theme:E12
+E14	GRE:T48 Agent:T24 Theme:T26
+E15	GRE:T49 Theme:T27 Theme:T29 Manner:T28 Condition:T30
+E16	Regulation:T50 Agent:T31 Theme:T33
+E17	Transcription:T51 Condition:T32

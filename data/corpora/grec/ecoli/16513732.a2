@@ -1,0 +1,52 @@
+T37	GRE 5 15	expression
+T38	GRE 16 26	regulation
+T39	GRE 177 184	encoded
+T40	GRE 356 364	promotes
+T41	GRE 424 431	effects
+T42	GRE 688 698	expression
+T43	GRE 699 707	promotes
+T44	GRE 740 749	activates
+T45	GRE 750 763	transcription
+T46	GRE 806 816	expression
+T47	GRE 886 896	expression
+T48	GRE 917 924	results
+T49	GRE 1076 1084	encoding
+T50	GRE 1167 1175	encoding
+T51	GRE 1347 1357	expression
+T52	GRE 1386 1393	affects
+T53	GRE 1423 1435	inactivation
+T54	GRE 1436 1443	results
+T55	GRE 1483 1488	leads
+T56	GRE 1524 1536	Inactivation
+T57	GRE 1545 1552	results
+T58	GRE 1636 1643	effects
+T59	GRE 1771 1781	activation
+T60	GRE 1826 1832	effect
+T61	GRE 1871 1879	enhanced
+T62	GRE 1883 1893	repression
+E1	GRE:T37 Theme:T1
+E2	GRE:T38 Agent:T2 Theme:E1
+E3	GRE:T39 Agent:T4 Theme:T3
+E4	GRE:T40 Agent:T5 Theme:T6
+E5	GRE:T41 Agent:T7
+E6	GRE:T42 Theme:T9 Manner:T8
+E7	GRE:T43 Agent:E6 Theme:T10
+E8	GRE:T44 Agent:E6 Theme:E9
+E9	GRE:T45 Source:T11
+E10	GRE:T46 Theme:T12
+E11	GRE:T47 Theme:T14 Manner:T13
+E12	GRE:T48 Agent:E11 Theme:T15
+E13	GRE:T49 Agent:T16 Theme:T17 Condition:T18,T19
+E14	GRE:T50 Agent:T20 Theme:T21
+E15	GRE:T51 Theme:T22
+E16	GRE:T52 Agent:E15 Theme:T24 Manner:T23
+E17	GRE:T53 Theme:T25
+E18	GRE:T54 Agent:E17 Theme:T26
+E19	GRE:T55 Agent:E17 Theme:T27
+E20	GRE:T56 Theme:T28
+E21	GRE:T57 Agent:E20 Theme:T29
+E22	GRE:T58 Agent:T30
+E23	GRE:T59 Theme:T32
+E24	GRE:T60 Agent:T34 Theme:T35 Manner:T33
+E25	GRE:T61 Agent:E26 Theme:E24
+E26	GRE:T62 Theme:T36

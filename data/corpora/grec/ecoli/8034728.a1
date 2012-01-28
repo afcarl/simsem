@@ -1,0 +1,27 @@
+T1	SPAN 21 29	in vitro
+T2	Gene 33 38	genes
+T3	Sub_Unit 50 82	formate hydrogenlyase components
+T4	Activator 105 118	Purified FHLA
+T5	Promoter 248 280	the sigma 54-dependent promoters
+T6	Sigma_Factor 374 382	sigma 54
+T7	Enhancer 421 424	UAS
+T8	SPAN 434 441	formate
+T9	Regulator 602 605	IHF
+T10	SPAN 646 653	in vivo
+T11	SPAN 658 666	in vitro
+T12	Gene 675 692	hyp and hyc genes
+T13	Gene 708 717	fdhF gene
+T14	Regulator 730 733	IHF
+T15	SPAN 734 751	within the region
+T16	Locus 741 751	the region
+T17	SPAN 831 846	transcriptional
+T18	Operon 861 903	the inversely oriented hyp and hyc operons
+T19	SPAN 905 907	It
+T20	Transcription_Binding_Site 992 995	IR1
+T21	Transcription_Binding_Site 1035 1038	IR2
+T22	Enhancer 1041 1048	The UAS
+T23	Operon 1102 1116	the hyc operon
+T24	Protein_Complex 1168 1206	A supramolecular transcription complex
+T25	Regulator 1249 1252	IHF
+T26	Locus 1256 1262	a site
+T27	Operon 1337 1351	the hyc operon

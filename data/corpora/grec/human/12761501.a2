@@ -1,0 +1,14 @@
+T13	Gene_Activation 68 76	activate
+T14	Gene_Activation 207 215	activate
+T15	Gene_Activation 575 584	activated
+T16	Transcription 589 602	transcription
+T17	Gene_Activation 743 751	activate
+T18	Gene_Activation 1059 1067	activate
+T19	Gene_Activation 1174 1182	activate
+E1	Gene_Activation:T13 Agent:T1 Theme:T2
+E2	Gene_Activation:T14 Agent:T3 Theme:T4
+E3	Gene_Activation:T15 Agent:T5 Theme:E4
+E4	Transcription:T16 Theme:T6
+E5	Gene_Activation:T17 Agent:T7 Theme:T8
+E6	Gene_Activation:T18 Agent:T9 Theme:T10
+E7	Gene_Activation:T19 Agent:T11 Theme:T12

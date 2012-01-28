@@ -1,0 +1,25 @@
+T1	SPAN 0 15	Transcriptional
+T2	Operon 30 65	the divergent paa catabolic operons
+T3	SPAN 100 119	in Escherichia coli
+T4	Bacteria 103 119	Escherichia coli
+T5	Operon 140 209	the divergently transcribed paaZ and paaABCDEFGHIJK catabolic operons
+T6	SPAN 272 291	in Escherichia coli
+T7	Bacteria 275 291	Escherichia coli
+T8	Promoter 306 329	the Pz and Pa promoters
+T9	SPAN 358 373	transcriptional
+T10	Gene 388 421	the inducible paa catabolic genes
+T11	Regulator 505 523	the PaaX regulator
+T12	Promoter 546 569	the Pa and Pz promoters
+T13	SPAN 630 643	PaaX-mediated
+T14	Gene 683 719	Pa-lacZ and Pz-lacZ reporter fusions
+T15	Locus 721 731	The region
+T16	Promoter 739 762	the Pa and Pz promoters
+T17	Repressor 784 802	the PaaX repressor
+T18	Repressor 974 978	PaaX
+T19	Enzyme 1018 1024	PA-CoA
+T20	Repressor 1073 1077	PaaX
+T21	DNA 1081 1101	the target sequences
+T22	SPAN 1312 1325	PaaX-mediated
+T23	SPAN 1340 1355	transcriptional
+T24	Activator 1370 1395	the cAMP receptor protein
+T25	Activator 1400 1435	the integration host factor protein

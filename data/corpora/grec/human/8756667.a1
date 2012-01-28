@@ -1,0 +1,14 @@
+T1	Activator 371 376	ELF-1
+T2	Gene 417 453	several T- and B-cell-specific genes
+T3	SPAN 903 923	in different tissues
+T4	Tissue 906 923	different tissues
+T5	Activator 930 936	NERF-2
+T6	Activator 941 946	ELF-1
+T7	Activator 989 1015	transcriptional activators
+T8	SPAN 1060 1080	all isoforms of NERF
+T9	Activator 1076 1080	NERF
+T10	Transcription_Binding_Site 1144 1161	Ets binding sites
+T11	Gene 1180 1231	the blk, lck, lyn, mb-1, and immunoglobulin H genes
+T12	Transcription_Factor 1275 1279	NERF
+T13	Transcription_Factor 1284 1289	ELF-1
+T14	Gene 1368 1382	the same genes

@@ -1,0 +1,12 @@
+T12	GRE 54 63	interacts
+T13	GRE 423 432	interacts
+T14	Gene_Repression 478 487	represses
+T15	Transcription 497 510	transcription
+T16	GRE 837 844	repress
+T17	GRE 1312 1320	involved
+E1	GRE:T12 Agent:T1 Descriptive-Agent:T2
+E2	GRE:T13 Agent:T3 Descriptive-Agent:T4
+E3	Gene_Repression:T14 Agent:T3 Theme:E4 Manner:T5
+E4	Transcription:T15 Theme:T6
+E5	GRE:T16 Agent:T7 Theme:T8
+E6	GRE:T17 Theme:T10 Descriptive-Theme:T11

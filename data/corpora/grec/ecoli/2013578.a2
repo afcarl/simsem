@@ -1,0 +1,8 @@
+T11	GRE 67 75	involved
+T12	Gene_Expression 103 113	expression
+T13	GRE 755 762	encoded
+T14	Gene_Expression 866 880	Overexpression
+E1	GRE:T11 Agent:T1 Purpose:E2
+E2	Gene_Expression:T12 Theme:T3 Manner:T2 Location:T4
+E3	GRE:T13 Agent:T6 Theme:T7
+E4	Gene_Expression:T14 Theme:T8 Location:T9

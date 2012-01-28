@@ -1,0 +1,30 @@
+T26	Regulation 0 10	Regulation
+T27	GRE 108 115	encoded
+T28	GRE 125 133	controls
+T29	Gene_Expression 138 148	expression
+T30	GRE 176 184	involved
+T31	GRE 474 478	acts
+T32	Gene_Expression 571 580	synthesis
+T33	Regulation 585 597	accumulation
+T34	GRE 609 623	are controlled
+T35	GRE 638 647	affecting
+T36	GRE 766 774	involves
+T37	Regulation 936 947	Translation
+T38	GRE 961 974	is controlled
+T39	GRE 1602 1610	activate
+T40	GRE 1636 1643	promote
+E1	Regulation:T26 Location:T1
+E2	GRE:T27 Agent:T4 Theme:T3
+E3	GRE:T28 Agent:T3 Theme:E4
+E4	Gene_Expression:T29 Theme:T5
+E5	GRE:T30 Agent:T5 Descriptive-Agent:T6
+E6	GRE:T31 Agent:T7 Descriptive-Agent:T8
+E7	Gene_Expression:T32 Theme:T9
+E8	Regulation:T33 Theme:T9
+E9	GRE:T34 Agent:T10 Theme:E8
+E10	GRE:T35 Agent:T10 Theme:T11,T12,T13,T14
+E11	GRE:T36 Agent:T16,T17,T18 Descriptive-Agent:T15
+E12	Regulation:T37 Theme:T19
+E13	GRE:T38 Agent:T20 Theme:E12
+E14	GRE:T39 Agent:T22 Theme:T23
+E15	GRE:T40 Agent:T22 Theme:T24 Destination:T25

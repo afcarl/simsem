@@ -1,0 +1,6 @@
+T8	GRE 175 180	occur
+T9	GRE 1269 1275	occurs
+T10	GRE 1269 1275	occurs
+E1	GRE:T8 Agent:T1 Theme:T2
+E2	GRE:T9 Agent:T7 Theme:T3 Location:T5
+E3	GRE:T10 Theme:T6 Descriptive-Theme:T7

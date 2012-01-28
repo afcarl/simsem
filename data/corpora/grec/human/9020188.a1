@@ -1,0 +1,49 @@
+T1	Activator 0 5	Stat2
+T2	Activator 9 36	a transcriptional activator
+T3	SPAN 51 68	sequence-specific
+T4	Activator 90 95	stat1
+T5	Activator 100 103	p48
+T6	DNA 132 135	DNA
+T7	SPAN 138 153	Transcriptional
+T8	Protein 179 182	IFN
+T9	SPAN 200 224	tyrosine phosphorylation
+T10	SPAN 229 250	nuclear translocation
+T11	Activator 347 364	The Stat1 protein
+T12	SPAN 385 400	transcriptional
+T13	Organic_Compounds 414 417	IFN
+T14	Protein 458 468	type I IFN
+T15	Activator 499 504	Stat2
+T16	Activator 509 553	the IFN regulatory factor family protein p48
+T17	Activator 610 628	Stat1 termed ISGF3
+T18	Activator 630 646	Stat1 homodimers
+T19	Laboratory_Technique 669 688	IFN-gamma treatment
+T20	Activator 712 715	p48
+T21	Activator 732 758	transcriptional activators
+T22	Activator 777 782	Stat2
+T23	Protein_Complex 805 823	a stable homodimer
+T24	Activator 844 847	p48
+T25	SPAN 869 872	DNA
+T26	Transcription 891 904	transcription
+T27	Activator 932 937	Stat1
+T28	Activator 1172 1177	Stat2
+T29	DNA 1239 1242	DNA
+T30	Activator 1277 1282	Stat1
+T31	SPAN 1293 1305	the affinity
+T32	SPAN 1317 1341	the sequence selectivity
+T33	Protein_Complex 1345 1352	p48-DNA
+T34	SPAN 1380 1391	a half-site
+T35	Transcription_Binding_Site 1441 1467	a p48 interaction sequence
+T36	Protein_Complex 1475 1489	ISGF3 assembly
+T37	Activator 1499 1502	p48
+T38	Protein 1518 1536	an adaptor protein
+T39	Activator 1548 1553	Stat1
+T40	Activator 1558 1563	Stat2
+T41	Transcription_Binding_Site 1567 1607	an IFN-alpha-stimulated response element
+T42	Activator 1609 1614	Stat2
+T43	SPAN 1627 1658	a potent transactivation domain
+T44	SPAN 1676 1684	directly
+T45	DNA 1693 1696	DNA
+T46	Activator 1704 1709	Stat1
+T47	Protein_Complex 1721 1744	the heteromeric complex
+T48	DNA 1759 1762	DNA
+T49	SPAN 1763 1771	directly

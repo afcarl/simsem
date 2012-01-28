@@ -1,0 +1,16 @@
+T16	GRE 202 209	encodes
+T17	Transcription 725 736	transcribed
+T18	GRE 777 785	encoding
+T19	GRE 965 973	elevated
+T20	Regulation 1047 1056	regulated
+T21	GRE 1077 1086	possessed
+T22	GRE 1302 1310	requires
+T23	Gene_Activation 1311 1321	activation
+E1	GRE:T16 Agent:T1 Theme:T2
+E2	Transcription:T17 Theme:T5 Manner:T3 Source:T4
+E3	GRE:T18 Agent:T5 Theme:T6
+E4	GRE:T19 Theme:T8 Condition:T9
+E5	Regulation:T20 Agent:T11 Theme:T7 Manner:T10
+E6	GRE:T21 Theme:T7 Descriptive-Theme:T12 Location:T13
+E7	GRE:T22 Agent:T14 Theme:E8
+E8	Gene_Activation:T23 Agent:T15 Theme:T14

@@ -1,0 +1,4 @@
+T7	Gene_Expression 627 636	expressed
+T8	Gene_Activation 1321 1330	activated
+E1	Gene_Expression:T7 Theme:T2 Manner:T3
+E2	Gene_Activation:T8 Agent:T4 Theme:T6 Manner:T5

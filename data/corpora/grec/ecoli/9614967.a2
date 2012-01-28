@@ -1,0 +1,52 @@
+T33	Regulation 0 10	Regulation
+T34	Transcription 14 27	transcription
+T35	GRE 208 216	involved
+T36	Transcription 245 258	Transcription
+T37	GRE 274 282	proceeds
+T38	GRE 378 388	is exerted
+T39	GRE 521 530	extension
+T40	GRE 550 559	initiated
+T41	GRE 759 767	contains
+T42	GRE 797 806	regulated
+T43	GRE 841 853	Dissociation
+T44	Gene_Expression 861 871	expression
+T45	Regulation 1075 1085	regulation
+T46	Gene_Expression 1094 1104	expression
+T47	GRE 1271 1277	direct
+T48	Gene_Expression 1282 1292	expression
+T49	GRE 1302 1308	coding
+T50	GRE 1409 1414	forms
+T51	GRE 1435 1445	regulating
+T52	Transcription 1450 1463	transcription
+T53	GRE 1528 1534	driven
+T54	GRE 1553 1563	containing
+T55	GRE 1584 1592	involved
+T56	Gene_Expression 1600 1610	expression
+T57	Regulation 1733 1747	the regulation
+T58	Gene_Expression 1756 1766	expression
+E1	Regulation:T33 Theme:E2
+E2	Transcription:T34 Theme:T1
+E3	GRE:T35 Agent:T2 Descriptive-Agent:T3
+E4	Transcription:T36 Location:T4
+E5	GRE:T37 Theme:E4 Manner:T6
+E6	GRE:T38 Theme:T7 Manner:T8
+E7	GRE:T39 Theme:T9
+E8	GRE:T40 Theme:T9 Location:T10,T11
+E9	GRE:T41 Theme:T12 Descriptive-Theme:T13
+E10	GRE:T42 Agent:T15 Theme:T13 Manner:T14
+E11	GRE:T43 Theme:E12
+E12	Gene_Expression:T44 Theme:T16
+E13	Regulation:T45 Theme:E14
+E14	Gene_Expression:T46 Theme:T17 Location:T18
+E15	GRE:T47 Agent:T19 Theme:E16
+E16	Gene_Expression:T48 Theme:T20
+E17	GRE:T49 Agent:T20 Theme:T21
+E18	GRE:T50 Agent:T22 Theme:T23
+E19	GRE:T51 Agent:T23 Theme:E20
+E20	Transcription:T52 Theme:T24,T25,T26
+E21	GRE:T53 Agent:T28 Theme:T27
+E22	GRE:T54 Theme:T28 Descriptive-Theme:T29
+E23	GRE:T55 Agent:T29 Descriptive-Agent:E24
+E24	Gene_Expression:T56 Theme:T30
+E25	Regulation:T57 Theme:E26
+E26	Gene_Expression:T58 Theme:T31

@@ -1,0 +1,22 @@
+T1	SPAN 0 14	PhoB-dependent
+T2	SPAN 15 30	transcriptional
+T3	Gene 45 58	the iciA gene
+T4	SPAN 59 76	during starvation
+T5	Gene 387 400	the iciA gene
+T6	SPAN 416 426	monitoring
+T7	Enzyme 427 458	the beta-galactosidase activity
+T8	Mutant_Gene 472 500	an iciA promoter-lacZ fusion
+T9	Inorganic_Compounds 560 577	carbon starvation
+T10	Inorganic_Compounds 579 601	the stringent response
+T11	Inorganic_Compounds 603 623	phosphate starvation
+T12	Inorganic_Compounds 629 645	the SOS response
+T13	Inorganic_Compounds 653 672	phosphate depletion
+T14	Gene 683 687	iciA
+T15	SPAN 829 837	Enhanced
+T16	Mutant_Gene 852 861	iciA-lacZ
+T17	SPAN 950 965	the Pho regulon
+T18	SPAN 1000 1027	during phosphate starvation
+T19	Inorganic_Compounds 1007 1027	phosphate starvation
+T20	Promoter 1052 1069	the iciA promoter
+T21	Transcription_Binding_Site 1119 1130	the Pho box
+T22	Gene 1173 1178	genes

@@ -1,0 +1,38 @@
+T32	Gene_Activation 64 78	overexpression
+T33	Mutation 228 236	mutation
+T34	GRE 259 268	resulting
+T35	Gene_Expression 316 326	expression
+T36	GRE 328 344	Characterization
+T37	GRE 382 390	revealed
+T38	GRE 599 606	encoded
+T39	Transcription 625 638	Transcription
+T40	GRE 711 719	examined
+T41	Transcription 752 765	transcription
+T42	GRE 796 806	containing
+T43	Mutation 807 816	mutations
+T44	GRE 849 859	containing
+T45	Mutation 867 875	mutation
+T46	Gene_Expression 877 891	overexpression
+T47	GRE 907 915	occurred
+T48	Gene_Activation 986 997	derepressed
+T49	Mutation 1008 1016	mutation
+T50	Gene_Activation 1037 1048	derepressed
+E1	Gene_Activation:T32 Theme:T2 Manner:T1 Condition:T3
+E2	Mutation:T33 Theme:T4
+E3	GRE:T34 Agent:E2 Theme:T5
+E4	Gene_Expression:T35 Theme:T6 Manner:T5
+E5	GRE:T36 Theme:T7,T8
+E6	GRE:T37 Agent:E5 Theme:T9
+E7	GRE:T38 Agent:T11 Theme:T10
+E8	Transcription:T39 Source:T12,T13,T14
+E9	GRE:T40 Theme:E8 Instrument:T15,T17
+E10	Transcription:T41 Theme:T18 Manner:T16
+E11	GRE:T42 Theme:T19 Descriptive-Theme:E12
+E12	Mutation:T43 Location:T20
+E13	GRE:T44 Theme:T23 Descriptive-Theme:E14
+E14	Mutation:T45 Theme:T24
+E15	Gene_Expression:T46 Theme:T25 Location:T22
+E16	GRE:T47 Theme:E15 Condition:T26
+E17	Gene_Activation:T48 Theme:T27 Manner:T28 Location:T22
+E18	Mutation:T49 Theme:T29
+E19	Gene_Activation:T50 Agent:E18 Theme:T31 Manner:T30

@@ -1,0 +1,24 @@
+T1	SPAN 0 8	Negative
+T2	Gene 40 44	uvrA
+T3	SPAN 60 90	ArcA/ArcB two-component system
+T4	SPAN 91 110	in Escherichia coli
+T5	Wild_Type_Bacteria 94 110	Escherichia coli
+T6	SPAN 113 167	The ArcA/ArcB two-component signal transduction system
+T7	Gene 198 202	gene
+T8	SPAN 229 249	the redox conditions
+T9	Gene_Expression 276 296	uvrA gene expression
+T10	Regulator 316 320	ArcA
+T11	SPAN 333 343	in E. coli
+T12	Wild_Type_Bacteria 336 343	E. coli
+T13	Gene 362 366	uvrA
+T14	SPAN 377 411	in DeltaarcA and DeltaarcB strains
+T15	Mutant_Bacteria 380 411	DeltaarcA and DeltaarcB strains
+T16	SPAN 422 445	in the wild-type strain
+T17	Wild_Type_Bacteria 425 445	the wild-type strain
+T18	Gene 571 580	uvrA gene
+T19	Regulator 715 719	ArcA
+T20	Transcription_Binding_Site 742 754	the ArcA box
+T21	SPAN 779 796	the uvrA promoter
+T22	SPAN 857 891	the ArcA/ArcB two-component system
+T23	SPAN 901 911	negatively
+T24	Gene 921 930	uvrA gene

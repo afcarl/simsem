@@ -1,0 +1,29 @@
+T1	Regulator 71 87	The GcvA protein
+T2	Operon 117 131	the gcv operon
+T3	SPAN 136 146	negatively
+T4	Transcription 157 178	its own transcription
+T5	Regulator 180 184	GcvA
+T6	DNA 194 205	three sites
+T7	SPAN 206 231	in the gcv control region
+T8	DNA 209 231	the gcv control region
+T9	DNA 239 247	one site
+T10	DNA 284 303	these binding sites
+T11	DNA 313 355	the conserved 5 bp DNA sequence 5'-CTAAT-3
+T12	SPAN 389 406	this DNA sequence
+T13	SPAN 416 430	autoregulation
+T14	SPAN 435 445	expression
+T15	SPAN 449 453	gcvA
+T16	Gene 564 568	gcvA
+T17	SPAN 590 630	Two of the gcvA control region mutations
+T18	Mutant_Gene 647 666	a gcvA::lacZ fusion
+T19	SPAN 690 720	9-24 times the wild-type level
+T20	Gene_Expression 738 748	expression
+T21	Gene 972 976	gcvA
+T22	SPAN 1020 1035	purine-mediated
+T23	Mutant_Gene 1050 1069	a gcvT::lacZ fusion
+T24	Gene 1098 1102	gcvR
+T25	SPAN 1118 1133	purine-mediated
+T26	Mutant_Gene 1148 1169	the gcvT::lacZ fusion
+T27	Gene 1196 1199	gcv
+T28	Gene 1309 1312	gcv
+T29	SPAN 1339 1370	glycine and purine availability

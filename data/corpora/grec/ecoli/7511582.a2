@@ -1,0 +1,24 @@
+T24	Gene_Repression 4 15	suppression
+T25	GRE 601 608	encodes
+T26	GRE 667 674	abolish
+T27	GRE 774 782	identify
+T28	GRE 818 826	required
+T29	Gene_Repression 837 848	suppression
+T30	Gene_Expression 937 947	expression
+T31	GRE 1015 1024	increased
+T32	Gene_Activation 1171 1181	activation
+T33	Transcription 1190 1203	transcription
+T34	Gene_Repression 1220 1228	suppress
+T35	Gene_Expression 1509 1519	expression
+E1	Gene_Repression:T24 Agent:T1 Theme:T2
+E2	GRE:T25 Agent:T3 Theme:T4
+E3	GRE:T26 Agent:T5 Theme:T6
+E4	GRE:T27 Theme:T8 Instrument:T7
+E5	GRE:T28 Agent:T8 Theme:T10
+E6	Gene_Repression:T29 Agent:T9 Theme:T11
+E7	Gene_Expression:T30 Theme:T13 Source:T14
+E8	GRE:T31 Theme:E7 Rate:T16
+E9	Gene_Activation:T32 Theme:T19
+E10	Transcription:T33 Theme:T18
+E11	Gene_Repression:T34 Agent:T17 Theme:T20
+E12	Gene_Expression:T35 Agent:T22 Theme:T23

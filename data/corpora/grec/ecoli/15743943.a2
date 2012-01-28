@@ -1,0 +1,26 @@
+T18	GRE 155 162	encodes
+T19	GRE 235 246	transcribed
+T20	GRE 277 285	involved
+T21	GRE 331 342	controlling
+T22	Transcription 343 356	transcription
+T23	Gene_Expression 486 496	expression
+T24	Gene_Activation 500 507	induced
+T25	GRE 539 548	modulated
+T26	GRE 589 595	occurs
+T27	GRE 641 648	control
+T28	Gene_Expression 654 664	expression
+T29	Gene_Expression 671 681	expression
+T30	Gene_Activation 690 699	activated
+E1	GRE:T18 Agent:T1 Theme:T3
+E2	GRE:T19 Theme:T1 Manner:T4 Source:T5
+E3	GRE:T20 Theme:T5 Descriptive-Theme:T6
+E4	GRE:T21 Agent:T5 Theme:E5
+E5	Transcription:T22 Theme:T7
+E6	Gene_Expression:T23 Theme:T8
+E7	Gene_Activation:T24 Agent:T9 Theme:E6
+E8	GRE:T25 Agent:T10 Theme:T8
+E9	GRE:T26 Agent:T11 Descriptive-Agent:T12
+E10	GRE:T27 Agent:T12 Manner:E11
+E11	Gene_Expression:T28 Theme:T13
+E12	Gene_Expression:T29 Theme:T14
+E13	Gene_Activation:T30 Agent:T16,T17 Theme:T15

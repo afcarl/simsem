@@ -1,0 +1,19 @@
+T1	Transcription_Factor 0 5	E2F-6
+T2	Repressor 53 80	a transcriptional repressor
+T3	Transcription_Factor 83 97	The E2F family
+T4	SPAN 83 109	The E2F family of proteins
+T5	SPAN 147 167	cell-cycle-dependent
+T6	SPAN 185 190	genes
+T7	SPAN 218 231	cell division
+T8	Transcription_Factor 233 271	All previously identified E2F proteins
+T9	Gene 486 506	E2F-responsive genes
+T10	SPAN 806 808	it
+T11	Regulator 829 832	pRB
+T12	Regulator 834 838	p107
+T13	Regulator 843 847	p130
+T14	SPAN 853 855	it
+T15	Transcription 878 891	transcription
+T16	SPAN 902 904	it
+T17	Gene 945 965	E2F responsive genes
+T18	SPAN 980 1019	the activity of the other E2F complexes
+T19	Transcription_Factor 996 1019	the other E2F complexes

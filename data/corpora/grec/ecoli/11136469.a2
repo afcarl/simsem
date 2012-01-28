@@ -1,0 +1,34 @@
+T29	GRE 59 70	controlling
+T30	Gene_Expression 71 81	expression
+T31	GRE 208 215	encodes
+T32	Gene_Expression 233 243	expression
+T33	GRE 370 378	required
+T34	Null_Mutation 420 430	disruption
+T35	GRE 439 445	caused
+T36	GRE 446 450	loss
+T37	Gene_Expression 459 469	expression
+T38	Gene_Expression 489 499	expression
+T39	GRE 504 513	regulated
+T40	Gene_Expression 552 562	Expression
+T41	Gene_Activation 712 721	increased
+T42	GRE 910 915	binds
+T43	GRE 1014 1021	binding
+T44	GRE 1022 1028	occurs
+T45	GRE 1243 1249	formed
+E1	GRE:T29 Agent:T1 Theme:E2
+E2	Gene_Expression:T30 Theme:T2
+E3	GRE:T31 Agent:T3 Theme:T4
+E4	Gene_Expression:T32 Theme:T5
+E5	GRE:T33 Agent:T7 Purpose:T8 Temporal:T9
+E6	Null_Mutation:T34 Theme:T10
+E7	GRE:T35 Agent:E6 Theme:E8
+E8	GRE:T36 Theme:E9
+E9	Gene_Expression:T37 Theme:T11
+E10	Gene_Expression:T38 Theme:T12
+E11	GRE:T39 Agent:T13,T14 Theme:E10
+E12	Gene_Expression:T40 Theme:T15
+E13	Gene_Activation:T41 Theme:E12 Condition:T17 Rate:T16
+E14	GRE:T42 Agent:T18 Theme:T20 Condition:T19
+E15	GRE:T43 Agent:T21
+E16	GRE:T44 Theme:E15 Manner:T22 Condition:T23,T24
+E17	GRE:T45 Theme:T28 Condition:T25,T26,T27

@@ -1,0 +1,22 @@
+T21	Regulation 4 14	regulation
+T22	Regulation 506 519	autoregulated
+T23	Gene_Expression 555 565	expression
+T24	Regulation 595 604	regulated
+T25	GRE 633 644	stimulation
+T26	Regulation 692 706	autoregulation
+T27	GRE 984 989	binds
+T28	Regulation 1058 1072	autoregulation
+T29	GRE 1238 1244	permit
+T30	Gene_Expression 1249 1259	expression
+T31	Regulation 1298 1307	regulated
+E1	Regulation:T21 Theme:T1
+E2	Regulation:T22 Agent:T5,T6 Theme:T2,T3 Manner:T4
+E3	Gene_Expression:T23 Theme:T7
+E4	Regulation:T24 Agent:T9 Theme:E3 Manner:T8
+E5	GRE:T25 Manner:T10
+E6	Regulation:T26 Theme:T12 Manner:T11
+E7	GRE:T27 Agent:T13 Destination:T14
+E8	Regulation:T28 Manner:T15
+E9	GRE:T29 Theme:E10 Condition:T16,T17,T18
+E10	Gene_Expression:T30 Theme:T19
+E11	Regulation:T31 Theme:E10 Condition:T20

@@ -1,0 +1,38 @@
+T24	Gene_Repression 127 136	represses
+T25	GRE 137 146	synthesis
+T26	GRE 491 499	mediated
+T27	Gene_Activation 545 554	activates
+T28	Transcription 559 572	transcription
+T29	GRE 584 592	encoding
+T30	Gene_Repression 625 634	represses
+T31	Transcription 639 652	transcription
+T32	GRE 787 794	encoded
+T33	Transcription 932 945	transcription
+T34	GRE 987 996	activated
+T35	GRE 1244 1252	encoding
+T36	GRE 1325 1333	encoding
+T37	Gene_Repression 1637 1646	repressed
+T38	Transcription 1651 1664	transcription
+T39	GRE 1963 1972	represses
+T40	Transcription 1985 1998	transcription
+T41	GRE 2021 2031	repressing
+T42	Gene_Repression 2080 2090	repressing
+E1	Gene_Repression:T24 Agent:T1 Theme:E2
+E2	GRE:T25 Theme:T2
+E3	GRE:T26 Agent:T4 Theme:T3
+E4	Gene_Activation:T27 Agent:T4 Theme:E5
+E5	Transcription:T28 Theme:T5
+E6	GRE:T29 Agent:T5 Theme:T6
+E7	Gene_Repression:T30 Agent:T4 Theme:E8
+E8	Transcription:T31 Theme:T7 Purpose:T8
+E9	GRE:T32 Agent:T9 Theme:T10
+E10	Transcription:T33 Theme:T11
+E11	GRE:T34 Agent:T12 Theme:E10 Condition:T13
+E12	GRE:T35 Agent:T14 Theme:T15
+E13	GRE:T36 Agent:T16 Theme:T17
+E14	Gene_Repression:T37 Agent:T18 Theme:E15
+E15	Transcription:T38 Theme:T19
+E16	GRE:T39 Agent:T20 Theme:E17
+E17	Transcription:T40 Theme:T21
+E18	GRE:T41 Agent:T20 Theme:T22
+E19	Gene_Repression:T42 Agent:T20 Theme:T23

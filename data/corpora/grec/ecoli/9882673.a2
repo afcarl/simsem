@@ -1,0 +1,30 @@
+T28	Gene_Activation 108 116	activate
+T29	Gene_Expression 157 167	expression
+T30	GRE 191 201	controlled
+T31	Transcription 238 251	Transcription
+T32	GRE 273 283	controlled
+T33	GRE 372 380	activate
+T34	Gene_Expression 435 445	expression
+T35	GRE 572 586	overexpression
+T36	Gene_Expression 621 631	Expression
+T37	GRE 660 669	increased
+T38	GRE 729 740	the effects
+T39	Gene_Expression 765 775	expression
+T40	GRE 974 984	identified
+T41	GRE 1029 1037	required
+T42	Gene_Expression 1053 1063	expression
+E1	Gene_Activation:T28 Agent:T1 Theme:T2
+E2	Gene_Expression:T29 Theme:T4 Location:T5
+E3	GRE:T30 Agent:T7 Theme:T3
+E4	Transcription:T31 Theme:T8
+E5	GRE:T32 Agent:T9,T10 Theme:E4
+E6	GRE:T33 Agent:T11 Theme:T12
+E7	Gene_Expression:T34 Theme:T13 Location:T14
+E8	GRE:T35 Theme:T16 Source:T17
+E9	Gene_Expression:T36 Theme:T18
+E10	GRE:T37 Agent:T19 Theme:E9
+E11	GRE:T38 Agent:T20,T21 Theme:E12
+E12	Gene_Expression:T39 Theme:T22
+E13	GRE:T40 Theme:T23 Location:T24
+E14	GRE:T41 Agent:T23 Theme:T26
+E15	Gene_Expression:T42 Theme:T27

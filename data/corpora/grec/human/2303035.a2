@@ -1,0 +1,12 @@
+T15	GRE 83 90	encodes
+T16	GRE 375 383	involved
+T17	GRE 474 480	encode
+T18	GRE 728 738	implicated
+T19	GRE 783 789	encode
+T20	GRE 837 845	involved
+E1	GRE:T15 Agent:T1 Theme:T2
+E2	GRE:T16 Theme:T3 Descriptive-Theme:T4
+E3	GRE:T17 Agent:T5 Theme:T8 Location:T6
+E4	GRE:T18 Theme:T9 Descriptive-Theme:T10
+E5	GRE:T19 Agent:T11 Theme:T12
+E6	GRE:T20 Theme:T13 Descriptive-Theme:T14

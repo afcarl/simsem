@@ -1,0 +1,28 @@
+T1	Gene 17 21	gene
+T2	Regulator 514 518	EvgA
+T3	SPAN 544 559	acid resistance
+T4	Bacteria 585 590	cells
+T5	SPAN 592 612	This acid resistance
+T6	Gene 642 646	ydeP
+T7	Gene 648 652	ydeO
+T8	Gene 657 661	yhiE
+T9	Regulator 684 688	EvgA
+T10	Regulator 805 809	EvgA
+T11	Gene 820 849	several acid resistance genes
+T12	Gene 880 884	yhiE
+T13	SPAN 906 921	acid resistance
+T14	SPAN 922 947	in stationary-phase cells
+T15	Wild_Type_Bacteria 925 947	stationary-phase cells
+T16	SPAN 1029 1053	The multidrug resistance
+T17	Regulator 1091 1095	EvgA
+T18	SPAN 1115 1125	completely
+T19	Gene 1151 1156	yhiUV
+T20	Gene 1168 1173	emrKY
+T21	SPAN 1216 1226	resistance
+T22	Regulator 1230 1234	EvgA
+T23	Regulator 1264 1268	EvgA
+T24	SPAN 1299 1309	resistance
+T25	SPAN 1310 1336	in a tolC-deficient strain
+T26	Mutant_Bacteria 1313 1336	a tolC-deficient strain
+T27	Protein 1365 1370	YhiUV
+T28	Regulator 1382 1386	EvgA

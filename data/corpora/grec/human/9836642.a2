@@ -1,0 +1,26 @@
+T22	GRE 0 11	Requirement
+T23	Transcription 32 45	transcription
+T24	Transcription 80 93	Transcription
+T25	GRE 116 124	requires
+T26	Transcription 241 254	transcription
+T27	GRE 280 288	packaged
+T28	GRE 325 336	facilitates
+T29	GRE 371 381	initiation
+T30	GRE 569 577	initiate
+T31	GRE 610 616	extend
+T32	GRE 660 671	facilitates
+T33	Transcription 682 695	transcription
+T34	Transcription 760 773	transcription
+E1	GRE:T22 Theme:T1 Purpose:E2
+E2	Transcription:T23 Theme:T2 Condition:T3
+E3	Transcription:T24 Theme:T4 Condition:T5
+E4	GRE:T25 Agent:E3 Theme:T6,T7
+E5	Transcription:T26 Temporal:E6
+E6	GRE:T27 Theme:T8 Destination:T9
+E7	GRE:T28 Agent:T10 Theme:E8
+E8	GRE:T29 Theme:T12 Manner:T11 Location:T13
+E9	GRE:T30 Agent:T14 Theme:T15
+E10	GRE:T31 Agent:T14 Theme:T16 Condition:T17
+E11	GRE:T32 Agent:T17 Theme:E12
+E12	Transcription:T33 Theme:T18
+E13	Transcription:T34 Theme:T20 Manner:T19 Condition:T21

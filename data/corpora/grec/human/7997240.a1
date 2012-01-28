@@ -1,0 +1,25 @@
+T1	DNA 110 134	complementary DNA clones
+T2	Protein 203 214	termed BD73
+T3	Locus 342 361	the opposite strand
+T4	Domain 402 424	the C-terminal portion
+T5	mRNA 581 599	BD73 messenger RNA
+T6	SPAN 613 656	in a wide variety of tissues and cell lines
+T7	Tissue 634 641	tissues
+T8	Cells 646 656	cell lines
+T9	SPAN 658 682	In quiescent HepG2 cells
+T10	Cells 661 682	quiescent HepG2 cells
+T11	mRNA 684 709	BD73 messenger RNA levels
+T12	SPAN 714 722	strongly
+T13	SPAN 734 762	planar aromatic antioxidants
+T14	Protein 778 782	BD73
+T15	SPAN 792 801	a monomer
+T16	Transcription_Binding_Site 805 819	a DNA sequence
+T17	Protein 1232 1248	BD73 nor Rev-Erb
+T18	Gene 1259 1268	reporters
+T19	Protein 1332 1349	these two orphans
+T20	SPAN 1368 1391	yet unidentified ligand
+T21	SPAN 1395 1407	other signal
+T22	Gene_Activation 1412 1427	such activation
+T23	Protein 1439 1455	BD73 and Rev-Erb
+T24	SPAN 1504 1515	as monomers
+T25	Locus 1519 1530	a half-site

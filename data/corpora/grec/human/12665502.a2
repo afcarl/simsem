@@ -1,0 +1,14 @@
+T12	GRE 783 791	function
+T13	GRE 933 940	mutated
+T14	GRE 1058 1066	affected
+T15	GRE 1075 1082	binding
+T16	GRE 1508 1516	required
+T17	GRE 1529 1536	binding
+T18	GRE 1545 1558	are conserved
+E1	GRE:T12 Theme:T3
+E2	GRE:T13 Theme:T4 Destination:T5
+E3	GRE:T14 Agent:T6 Theme:E4 Manner:T7
+E4	GRE:T15 Theme:T8
+E5	GRE:T16 Theme:T9 Purpose:E6
+E6	GRE:T17 Theme:T10 Destination:T11
+E7	GRE:T18 Agent:T1 Theme:E1

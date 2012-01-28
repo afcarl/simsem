@@ -1,0 +1,28 @@
+T27	Gene_Activation 163 170	induced
+T28	GRE 294 303	exhibited
+T29	GRE 322 332	expression
+T30	Mutation 358 367	mutations
+T31	GRE 399 402	lie
+T32	GRE 450 457	encodes
+T33	Mutation 636 646	Disruption
+T34	GRE 714 722	resulted
+T35	Gene_Expression 753 763	expression
+T36	GRE 1136 1140	acts
+T37	Mutation 1197 1205	mutation
+T38	GRE 1333 1341	resulted
+T39	Gene_Expression 1370 1380	expression
+T40	Gene_Expression 1430 1440	expression
+E1	Gene_Activation:T27 Theme:T1 Rate:T2 Temporal:T4
+E2	GRE:T28 Agent:T6 Theme:E3
+E3	GRE:T29 Theme:T8 Manner:T7
+E4	Mutation:T30 Location:T9
+E5	GRE:T31 Theme:E4 Location:T11,T12
+E6	GRE:T32 Agent:T12 Theme:T13
+E7	Mutation:T33 Theme:T14
+E8	GRE:T34 Agent:E7 Theme:E9
+E9	Gene_Expression:T35 Manner:T15 Source:T16
+E10	GRE:T36 Agent:T17 Theme:T20 Manner:T18 Location:T19
+E11	Mutation:T37 Location:T21,T22
+E12	GRE:T38 Agent:E11 Theme:E13,E14
+E13	Gene_Expression:T39 Manner:T23 Source:T24
+E14	Gene_Expression:T40 Manner:T25 Source:T26

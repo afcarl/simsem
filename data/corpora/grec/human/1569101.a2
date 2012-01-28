@@ -1,0 +1,12 @@
+T13	GRE 288 296	encoding
+T14	GRE 446 453	encoded
+T15	GRE 516 524	involves
+T16	GRE 805 812	encoded
+T17	GRE 1091 1098	contain
+T18	Regulation 1152 1165	autoregulated
+E1	GRE:T13 Agent:T1 Theme:T2
+E2	GRE:T14 Agent:T4 Theme:T3
+E3	GRE:T15 Theme:T5 Descriptive-Theme:T6,T7
+E4	GRE:T16 Agent:T9 Theme:T8
+E5	GRE:T17 Theme:T10 Descriptive-Theme:T11
+E6	Regulation:T18 Theme:T10

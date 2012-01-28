@@ -1,0 +1,28 @@
+T1	Gene 111 115	WT-1
+T2	Gene 121 124	p53
+T3	DNA 212 262	a corresponding 5.2-kilobase pair genomic fragment
+T4	Transcription_Factor 272 279	FREAC-4
+T5	SPAN 869 910	Significant levels of luciferase activity
+T6	Plasmid 930 944	this construct
+T7	SPAN 930 1016	this construct was transfected into two kidney-derived cell lines, 293 and COS-7 cells
+T8	Cells 966 995	two kidney-derived cell lines
+T9	Gene 1031 1055	background reporter gene
+T10	SPAN 1080 1114	in a cell line of nonkidney origin
+T11	Cells 1083 1094	a cell line
+T12	Plasmid 1137 1145	plasmids
+T13	Gene 1157 1161	WT-1
+T14	Mutant_Gene 1163 1167	WTAR
+T15	Gene 1194 1197	p53
+T16	Mutant_Gene 1203 1217	a mutated form
+T17	SPAN 1203 1224	a mutated form of p53
+T18	Gene 1221 1224	p53
+T19	SPAN 1234 1265	a complex pattern of regulation
+T20	Regulation 1255 1265	regulation
+T21	SPAN 1273 1279	3-fold
+T22	Gene 1295 1299	WT-1
+T23	SPAN 1303 1309	7-fold
+T24	Mutant_Gene 1325 1336	mutated p53
+T25	SPAN 1344 1350	4-fold
+T26	Gene 1367 1380	wild-type p53
+T27	Transcription_Binding_Site 1533 1557	at least one cis-element
+T28	Activator 1594 1610	recombinant WT-1

@@ -1,0 +1,6 @@
+T9	GRE 124 131	encodes
+T10	GRE 380 388	encoding
+T11	GRE 581 590	expressed
+E1	GRE:T9 Agent:T1 Theme:T2
+E2	GRE:T10 Agent:T3 Theme:T4
+E3	GRE:T11 Theme:T5 Manner:T7 Descriptive-Theme:T8

@@ -1,0 +1,14 @@
+T20	Gene_Expression 5 15	expression
+T21	GRE 51 59	proceeds
+T22	Gene_Expression 313 327	overexpression
+T23	Gene_Expression 440 450	expression
+T24	GRE 491 500	evaluated
+T25	GRE 677 687	production
+T26	GRE 958 968	production
+E1	Gene_Expression:T20 Theme:T1 Source:T2
+E2	GRE:T21 Theme:E1 Condition:T4 Rate:T3
+E3	Gene_Expression:T22 Theme:T7 Manner:T6 Location:T8
+E4	Gene_Expression:T23 Theme:T10 Condition:T11
+E5	GRE:T24 Theme:E4 Instrument:T13,T14
+E6	GRE:T25 Theme:T15,T16
+E7	GRE:T26 Theme:T17 Location:T18

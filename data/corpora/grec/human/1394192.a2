@@ -1,0 +1,18 @@
+T15	GRE 85 93	inhibits
+T16	Gene_Expression 198 207	expressed
+T17	Gene_Expression 268 282	Overexpression
+T18	GRE 309 315	caused
+T19	GRE 320 334	transformation
+T20	Gene_Expression 356 366	expression
+T21	GRE 398 407	inhibited
+T22	GRE 650 656	affect
+T23	Gene_Repression 1122 1133	suppression
+E1	GRE:T15 Agent:T1 Theme:T2
+E2	Gene_Expression:T16 Theme:T3 Temporal:T4
+E3	Gene_Expression:T17 Theme:T5
+E4	GRE:T18 Agent:E3 Theme:E5,T7
+E5	GRE:T19 Theme:T6
+E6	Gene_Expression:T20 Theme:T8
+E7	GRE:T21 Agent:E6 Theme:T9
+E8	GRE:T22 Agent:T11 Theme:T12
+E9	Gene_Repression:T23 Agent:T14 Theme:T13

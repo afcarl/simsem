@@ -1,0 +1,25 @@
+T1	SPAN 11 30	in the rpoS regulon
+T2	Gene 14 30	the rpoS regulon
+T3	Sigma_Factor 74 106	the transcription factor sigma s
+T4	Gene 119 123	rpoS
+T5	Gene 170 175	genes
+T6	SPAN 188 206	cellular responses
+T7	SPAN 441 473	The transcription factor sigma s
+T8	SPAN 496 515	a positive effector
+T9	Sigma_Factor 601 608	sigma s
+T10	SPAN 627 637	mechanisms
+T11	SPAN 648 661	transcription
+T12	SPAN 663 674	translation
+T13	SPAN 676 687	proteolysis
+T14	SPAN 693 706	the formation
+T15	SPAN 734 757	Transcriptional control
+T16	SPAN 809 814	ppGpp
+T17	SPAN 820 833	polyphosphate
+T18	SPAN 901 909	CRP-cAMP
+T19	mRNA 951 960	rpoS mRNA
+T20	SPAN 978 1010	a cascade of interacting factors
+T21	Transcription_Factor 1184 1216	The transcription factor sigma s
+T22	Organic_Compounds 1571 1594	trehalose and glutamate
+T23	SPAN 1611 1631	holoenzyme formation
+T24	SPAN 1644 1662	holoenzyme binding
+T25	Promoter 1666 1683	certain promoters

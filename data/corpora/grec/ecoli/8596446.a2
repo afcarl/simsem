@@ -1,0 +1,42 @@
+T33	GRE 0 7	Binding
+T34	GRE 59 68	activates
+T35	Gene_Expression 80 90	expression
+T36	Gene_Expression 97 107	expression
+T37	GRE 153 160	encodes
+T38	GRE 249 257	requires
+T39	GRE 342 352	identified
+T40	Gene_Activation 393 407	the expression
+T41	Laboratory_Technique 582 595	substitutions
+T42	GRE 682 689	reduces
+T43	Gene_Activation 710 720	expression
+T44	Deletion 735 743	deletion
+T45	GRE 773 782	abolishes
+T46	Gene_Activation 788 797	induction
+T47	Gene_Activation 902 912	expression
+T48	GRE 996 1001	binds
+T49	GRE 1078 1085	binding
+T50	GRE 1369 1376	Binding
+T51	GRE 1447 1454	binding
+T52	GRE 1706 1715	formation
+T53	GRE 1817 1826	interacts
+E1	GRE:T33 Agent:T1 Destination:T2
+E2	GRE:T34 Agent:E1 Theme:E3
+E3	Gene_Expression:T35 Theme:T3
+E4	Gene_Expression:T36 Theme:T4
+E5	GRE:T37 Agent:T4 Theme:T5
+E6	GRE:T38 Agent:E4 Theme:T6
+E7	GRE:T39 Theme:T7 Descriptive-Theme:T8
+E8	Gene_Activation:T40 Theme:T9 Condition:T10
+E9	Laboratory_Technique:T41 Theme:T12
+E10	GRE:T42 Agent:T11 Theme:E11 Manner:T16
+E11	Gene_Activation:T43 Theme:T18 Manner:T17
+E12	Deletion:T44 Theme:T19
+E13	GRE:T45 Agent:E12 Theme:E14
+E14	Gene_Activation:T46 Theme:T20
+E15	Gene_Activation:T47 Theme:T21
+E16	GRE:T48 Agent:T22 Theme:T23
+E17	GRE:T49 Agent:T24
+E18	GRE:T50 Destination:T25,T26
+E19	GRE:T51 Destination:T27,T28
+E20	GRE:T52 Theme:T29
+E21	GRE:T53 Agent:T31 Agent:T32

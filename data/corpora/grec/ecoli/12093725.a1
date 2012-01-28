@@ -1,0 +1,33 @@
+T1	Protein 87 90	Hmp
+T2	Gene 276 284	hmp gene
+T3	Repressor 315 348	the O(2)-responsive regulator FNR
+T4	Repressor 374 377	FNR
+T5	Inorganic_Compounds 390 392	NO
+T6	SPAN 394 418	The [4Fe-4S](2+) cluster
+T7	SPAN 456 476	protein dimerization
+T8	SPAN 481 506	site-specific DNA binding
+T9	SPAN 508 510	NO
+T10	SPAN 518 531	anaerobically
+T11	SPAN 537 553	the Fe-S cluster
+T12	Repressor 741 744	FNR
+T13	Transcription_Binding_Site 754 764	an FNR box
+T14	Repressor 799 810	FNR samples
+T15	Inorganic_Compounds 833 837	O(2)
+T16	Inorganic_Compounds 841 843	NO
+T17	SPAN 849 861	specifically
+T18	Promoter 865 872	P(hmp),
+T19	SPAN 898 912	Dose-dependent
+T20	Promoter 930 936	P(hmp)
+T21	SPAN 937 944	in vivo
+T22	Inorganic_Compounds 948 965	NO concentrations
+T23	Gene 1014 1017	fnr
+T24	Inorganic_Compounds 1032 1034	NO
+T25	Promoter 1066 1095	model FNR-regulated promoters
+T26	Repressor 1103 1106	FNR
+T27	Inorganic_Compounds 1131 1135	O(2)
+T28	Inorganic_Compounds 1146 1148	NO
+T29	Gene 1178 1189	global gene
+T30	SPAN 1201 1212	in bacteria
+T31	Bacteria 1204 1212	bacteria
+T32	SPAN 1225 1249	an NO-mediated mechanism
+T33	Gene 1253 1256	hmp

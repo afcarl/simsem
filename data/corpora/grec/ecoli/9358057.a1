@@ -1,0 +1,15 @@
+T1	Gene 20 33	the gntT gene
+T2	Enzyme 43 77	a high-affinity gluconate permease
+T3	SPAN 78 97	in Escherichia coli
+T4	Bacteria 81 97	Escherichia coli
+T5	Gene 117 130	the gntT gene
+T6	Enzyme 140 174	a high-affinity gluconate permease
+T7	Promoter 273 306	one strong and two weak promoters
+T8	SPAN 335 345	positively
+T9	Activator 349 357	cAMP-CRP
+T10	SPAN 362 372	negatively
+T11	Repressor 376 380	GntR
+T12	SPAN 539 573	Gluconate-specific uptake activity
+T13	SPAN 654 674	the presence of gntK
+T14	Gene 670 674	gntK
+T15	Enzyme 684 700	gluconate kinase

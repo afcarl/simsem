@@ -1,0 +1,28 @@
+T27	Regulation 0 10	Regulation
+T28	Gene_Expression 14 24	expression
+T29	GRE 43 51	encoding
+T30	Transcription 96 109	transcription
+T31	Regulation 141 151	regulation
+T32	GRE 242 249	encodes
+T33	Gene_Expression 388 398	expression
+T34	Gene_Activation 986 995	activates
+T35	GRE 1032 1040	required
+T36	Transcription 1049 1062	transcription
+T37	Gene_Activation 1133 1142	activates
+T38	GRE 1361 1365	acts
+T39	GRE 1426 1437	Translation
+T40	GRE 1667 1674	release
+E1	Regulation:T27 Theme:E2
+E2	Gene_Expression:T28 Theme:T1
+E3	GRE:T29 Agent:T1 Theme:T2 Location:T3
+E4	Transcription:T30 Source:T5
+E5	Regulation:T31 Agent:T6,T7 Theme:T1
+E6	GRE:T32 Agent:T8 Theme:T9
+E7	Gene_Expression:T33 Theme:T10
+E8	Gene_Activation:T34 Agent:T11 Theme:T12
+E9	GRE:T35 Agent:T13 Theme:E10
+E10	Transcription:T36 Theme:T14
+E11	Gene_Activation:T37 Agent:T15 Theme:T16 Location:T17
+E12	GRE:T38 Agent:T19 Theme:T20 Descriptive-Theme:T21
+E13	GRE:T39 Theme:T23 Condition:T24
+E14	GRE:T40 Agent:T25 Theme:T26

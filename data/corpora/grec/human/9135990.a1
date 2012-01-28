@@ -1,0 +1,17 @@
+T1	Repressor 0 4	BCL6
+T2	Promoter 36 100	the human immunodeficiency virus type I promoter/enhancer region
+T3	Gene 103 116	The gene BCL6
+T4	Repressor 125 146	a zinc finger protein
+T5	Repressor 448 476	the full-length BCL6 protein
+T6	Protein 518 559	a bacterially expressed truncated protein
+T7	SPAN 602 614	specifically
+T8	DNA 618 621	DNA
+T9	Repressor 734 750	the BCL6 protein
+T10	Enzyme 754 764	luciferase
+T11	DNA 818 821	LTR
+T12	Repressor 834 850	Full-length BCL6
+T13	SPAN 875 894	luciferase activity
+T14	Repressor 945 961	the BCL6 protein
+T15	Enhancer 974 1008	the HIV-1 promoter-enhancer region
+T16	Domain 1043 1059	its zinc fingers
+T17	Enhancer 1096 1109	the HIV-1 LTR

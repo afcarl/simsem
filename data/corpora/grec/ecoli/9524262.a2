@@ -1,0 +1,22 @@
+T14	Experimental_Technique 12 20	analysis
+T15	GRE 45 52	encodes
+T16	GRE 151 162	is involved
+T17	GRE 282 288	encode
+T18	Recombination 562 573	Recombining
+T19	GRE 630 637	creates
+T20	Gene_Expression 1066 1076	Expression
+T21	GRE 1116 1125	regulated
+T22	GRE 1174 1182	controls
+T23	Gene_Expression 1187 1197	expression
+T24	GRE 1213 1221	involved
+E1	Experimental_Technique:T14 Theme:T1
+E2	GRE:T15 Agent:T1 Theme:T2
+E3	GRE:T16 Agent:T3 Descriptive-Agent:T4
+E4	GRE:T17 Agent:T5 Theme:T6
+E5	Recombination:T18 Theme:T7 Destination:T8
+E6	GRE:T19 Agent:E5 Theme:T9
+E7	Gene_Expression:T20 Theme:T10
+E8	GRE:T21 Agent:T11 Theme:E7
+E9	GRE:T22 Agent:T11 Theme:E10
+E10	Gene_Expression:T23 Theme:T12
+E11	GRE:T24 Agent:T12 Descriptive-Agent:T13

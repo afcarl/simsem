@@ -1,0 +1,20 @@
+T1	Gene 28 64	gal repressor and isorepressor genes
+T2	SPAN 65 84	in Escherichia coli
+T3	Wild_Type_Bacteria 68 84	Escherichia coli
+T4	Repressor 112 142	Gal repressor and isorepressor
+T5	Operon 170 193	the gal and mgl operons
+T6	SPAN 194 213	in Escherichia coli
+T7	Wild_Type_Bacteria 197 213	Escherichia coli
+T8	Gene 456 460	galS
+T9	SPAN 485 493	in cells
+T10	Mutant_Bacteria 488 493	cells
+T11	Gene 503 523	the normal galS gene
+T12	Gene 567 580	the galR gene
+T13	Gene 599 609	both genes
+T14	Gene 626 630	galS
+T15	Promoter 680 697	the galS promoter
+T16	Organic_Compounds 732 740	D-fucose
+T17	Organic_Compounds 755 762	glucose
+T18	Gene 830 851	a similar gene fusion
+T19	SPAN 1168 1195	The increased concentration
+T20	Gene 1272 1304	the isorepressor-regulated genes

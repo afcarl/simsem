@@ -1,0 +1,30 @@
+T29	Gene_Activation 166 176	stimulates
+T30	GRE 194 204	converting
+T31	GRE 312 318	occurs
+T32	GRE 481 487	serves
+T33	GRE 634 640	serves
+T34	GRE 673 683	activation
+T35	GRE 687 695	required
+T36	GRE 699 703	form
+T37	GRE 910 915	bound
+T38	GRE 1232 1236	bind
+T39	GRE 1590 1593	use
+T40	GRE 1692 1702	interacted
+T41	GRE 1733 1737	form
+T42	GRE 1821 1832	participate
+T43	GRE 1858 1869	interacting
+E1	Gene_Activation:T29 Agent:T1 Theme:T2 Instrument:E2
+E2	GRE:T30 Agent:T1 Theme:T3 Source:T4 Destination:T5
+E3	GRE:T31 Theme:T6 Location:T7
+E4	GRE:T32 Agent:T9 Descriptive-Agent:T10
+E5	GRE:T33 Agent:T11 Descriptive-Agent:T12
+E6	GRE:T34 Theme:T11
+E7	GRE:T35 Theme:E6 Purpose:E8
+E8	GRE:T36 Theme:T13
+E9	GRE:T37 Agent:T14 Destination:T15
+E10	GRE:T38 Agent:T16 Destination:T17
+E11	GRE:T39 Agent:T18,T19,T20 Purpose:T22 Instrument:T21
+E12	GRE:T40 Theme:T23 Theme:T24 Purpose:E13
+E13	GRE:T41 Theme:T25
+E14	GRE:T42 Agent:T26 Descriptive-Agent:T27 Manner:E15
+E15	GRE:T43 Theme:T26 Theme:T28

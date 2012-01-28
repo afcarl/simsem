@@ -1,0 +1,14 @@
+T1	RNA 0 25	A region of antisense RNA
+T2	SPAN 94 115	NIH 3T3 proliferation
+T3	Protein 118 150	The human nucleolar p120 protein
+T4	SPAN 208 223	in G1 and peaks
+T5	Protein 286 308	the human p120 protein
+T6	Cells 338 351	NIH 3T3 cells
+T7	SPAN 356 366	expression
+T8	RNA 370 397	an antisense p120 construct
+T9	SPAN 408 435	the growth of NIH 3T3 cells
+T10	Cells 422 435	NIH 3T3 cells
+T11	RNA 609 641	the 5' and 3' antisense portions
+T12	SPAN 657 683	NIH 3T3 cell proliferation
+T13	RNA 1137 1158	mouse p120 expression
+T14	RNA 1162 1186	RNA:RNA duplex formation

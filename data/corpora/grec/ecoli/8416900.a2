@@ -1,0 +1,36 @@
+T21	GRE 0 7	Control
+T22	Transcription 11 24	transcription
+T23	GRE 144 151	control
+T24	Gene_Activation 156 166	expression
+T25	Gene_Expression 461 471	expression
+T26	GRE 476 484	elevated
+T27	GRE 528 539	interrupted
+T28	GRE 585 592	deleted
+T29	GRE 615 624	disrupted
+T30	Gene_Activation 631 641	expression
+T31	GRE 654 662	elevated
+T32	Gene_Activation 664 674	Expression
+T33	GRE 702 712	stimulated
+T34	GRE 720 728	addition
+T35	GRE 742 751	repressed
+T36	Gene_Activation 816 826	Expression
+T37	GRE 1244 1254	facilitate
+T38	Gene_Repression 1261 1268	shutoff
+E1	GRE:T21 Theme:E2
+E2	Transcription:T22 Theme:T1 Location:T2
+E3	GRE:T23 Agent:T4 Theme:E4
+E4	Gene_Activation:T24 Theme:T5 Location:T6
+E5	Gene_Expression:T25 Theme:T8
+E6	GRE:T26 Theme:E5 Location:T9
+E7	GRE:T27 Theme:T11
+E8	GRE:T28 Theme:T12
+E9	GRE:T29 Theme:T13
+E10	Gene_Activation:T30 Theme:T14
+E11	GRE:T31 Theme:E10
+E12	Gene_Activation:T32 Source:T15
+E13	GRE:T33 Agent:E14 Theme:E12
+E14	GRE:T34 Theme:T16
+E15	GRE:T35 Agent:T17 Theme:E12
+E16	Gene_Activation:T36 Theme:T18
+E17	GRE:T37 Agent:T19 Theme:E18
+E18	Gene_Repression:T38 Theme:T20

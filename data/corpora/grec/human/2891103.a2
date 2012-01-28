@@ -1,0 +1,18 @@
+T23	Gene_Expression 77 87	expression
+T24	Gene_Expression 372 382	expression
+T25	Gene_Expression 459 472	overexpressed
+T26	GRE 583 590	encodes
+T27	GRE 666 670	play
+T28	GRE 686 693	binding
+T29	GRE 723 730	encoded
+T30	Gene_Expression 860 870	expression
+T31	Gene_Expression 1053 1067	overexpression
+E1	Gene_Expression:T23 Theme:T1 Manner:T2 Location:T3
+E2	Gene_Expression:T24 Theme:T5
+E3	Gene_Expression:T25 Theme:T6 Location:T7
+E4	GRE:T26 Agent:T9 Theme:T10
+E5	GRE:T27 Agent:T11 Descriptive-Agent:E6
+E6	GRE:T28 Agent:T12 Destination:T13
+E7	GRE:T29 Agent:T15 Theme:T14
+E8	Gene_Expression:T30 Theme:T16 Location:T18,T20 Rate:T17
+E9	Gene_Expression:T31 Theme:T21

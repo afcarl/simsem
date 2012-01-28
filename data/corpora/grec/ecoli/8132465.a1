@@ -1,0 +1,31 @@
+T1	Operon 48 74	the Arc-controlled operons
+T2	Enzyme 84 107	succinate dehydrogenase
+T3	Enzyme 112 149	flavin-linked L-lactate dehydrogenase
+T4	Gene 166 173	sdhCDAB
+T5	Enzyme 184 207	succinate dehydrogenase
+T6	Gene 213 217	lctD
+T7	Enzyme 228 269	the flavin-linked L-lactate dehydrogenase
+T8	SPAN 283 294	aerobically
+T9	SPAN 309 322	anaerobically
+T10	SPAN 323 342	in Escherichia coli
+T11	Bacteria 326 342	Escherichia coli
+T12	Gene_Repression 344 358	The repression
+T13	SPAN 375 421	autophosphorylation of the sensor protein ArcB
+T14	Gene 542 545	sdh
+T15	SPAN 542 564	sdh and lct expression
+T16	Gene 550 553	lct
+T17	Gene 1005 1008	sdh
+T18	Gene 1013 1016	lct
+T19	SPAN 1142 1157	in the fnr gene
+T20	Gene 1145 1157	the fnr gene
+T21	Regulator 1168 1186	a global regulator
+T22	SPAN 1237 1262	the anaerobic repressions
+T23	SPAN 1241 1250	anaerobic
+T24	SPAN 1274 1289	in arcB or arcA
+T25	Gene 1277 1289	arcB or arcA
+T26	Gene 1556 1564	cyoABCDE
+T27	Protein 1575 1599	the cytochrome o complex
+T28	Gene 1602 1607	cydAB
+T29	Protein 1618 1642	the cytochrome d complex
+T30	Gene 1649 1653	sodA
+T31	Enzyme 1664 1708	the manganese-dependent superoxide dismutase

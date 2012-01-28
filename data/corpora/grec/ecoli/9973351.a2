@@ -1,0 +1,38 @@
+T39	GRE 111 122	controlling
+T40	Gene_Expression 128 138	expression
+T41	GRE 228 235	encodes
+T42	GRE 286 293	induced
+T43	GRE 316 325	activated
+T44	GRE 366 375	repressed
+T45	Gene_Expression 430 440	expression
+T46	GRE 453 460	induced
+T47	Gene_Activation 642 651	induction
+T48	Gene_Expression 660 670	expression
+T49	GRE 944 952	encoding
+T50	GRE 1042 1050	restored
+T51	Gene_Expression 1093 1103	expression
+T52	GRE 1214 1222	affected
+T53	Gene_Expression 1227 1237	expression
+T54	Gene_Expression 1309 1319	Expression
+T55	GRE 1420 1432	were induced
+T56	GRE 1909 1917	required
+T57	Regulation 1955 1965	regulation
+E1	GRE:T39 Agent:T1 Theme:E2 Location:T4 Condition:T3
+E2	Gene_Expression:T40 Theme:T2
+E3	GRE:T41 Agent:T6 Theme:T7
+E4	GRE:T42 Agent:T8 Theme:T6
+E5	GRE:T43 Agent:T9 Theme:T6
+E6	GRE:T44 Agent:T11 Theme:T6 Condition:T10
+E7	Gene_Expression:T45 Theme:T12
+E8	GRE:T46 Agent:T13 Theme:E7
+E9	Gene_Activation:T47 Agent:T16 Theme:E10 Rate:T14
+E10	Gene_Expression:T48 Theme:T15
+E11	GRE:T49 Agent:T17 Theme:T18
+E12	GRE:T50 Agent:T19 Theme:T20 Location:T22
+E13	Gene_Expression:T51 Theme:T21 Location:T22
+E14	GRE:T52 Agent:T24 Theme:T25
+E15	Gene_Expression:T53 Theme:T26
+E16	Gene_Expression:T54 Theme:T29,T30,T31,T32
+E17	GRE:T55 Agent:T34 Theme:T27,T28,T29,T30,T31,T32 Condition:T35 Rate:T33
+E18	GRE:T56 Theme:T36 Purpose:E19
+E19	Regulation:T57 Theme:T38 Manner:T37

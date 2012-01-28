@@ -1,0 +1,42 @@
+T51	Regulation 13 26	autoregulates
+T52	GRE 141 150	expressed
+T53	Gene_Activation 225 236	upregulated
+T54	GRE 319 329	inhibition
+T55	GRE 401 407	blocks
+T56	GRE 445 455	expression
+T57	GRE 467 471	play
+T58	GRE 622 633	demonstrate
+T59	Gene_Expression 664 674	expression
+T60	GRE 852 859	encoded
+T61	GRE 1013 1021	contains
+T62	GRE 1180 1188	detected
+T63	Mutation 1242 1250	mutation
+T64	GRE 1274 1283	abolished
+T65	GRE 1297 1303	caused
+T66	Mutation 1349 1357	Mutation
+T67	GRE 1385 1392	results
+T68	Gene_Activation 1531 1545	transactivated
+T69	GRE 1565 1575	containing
+T70	GRE 1624 1632	activate
+T71	Regulation 1695 1709	autoregulation
+E1	Regulation:T51 Agent:T1 Theme:T2 Location:T3
+E2	GRE:T52 Theme:T5 Location:T6
+E3	Gene_Activation:T53 Theme:T8 Temporal:T9
+E4	GRE:T54 Theme:T11 Location:T12 Temporal:T14
+E5	GRE:T55 Agent:E4 Theme:T16
+E6	GRE:T56 Theme:T17
+E7	GRE:T57 Agent:E6 Descriptive-Agent:T18
+E8	GRE:T58 Agent:T19,T20 Theme:E9 Location:T23
+E9	Gene_Expression:T59 Theme:T22 Manner:T21
+E10	GRE:T60 Theme:T25 Location:T26
+E11	GRE:T61 Agent:T29 Theme:T30 Location:T31
+E12	GRE:T62 Theme:T32 Location:T33
+E13	Mutation:T63 Theme:T35
+E14	GRE:T64 Agent:E13 Theme:T36
+E15	GRE:T65 Agent:E13 Theme:T37
+E16	Mutation:T66 Theme:T38
+E17	GRE:T67 Agent:E16 Location:T41 Descriptive-Agent:T39
+E18	Gene_Activation:T68 Agent:T43 Theme:T44
+E19	GRE:T69 Theme:T44 Descriptive-Theme:T45
+E20	GRE:T70 Agent:T46 Theme:T47 Manner:T48
+E21	Regulation:T71 Theme:T50 Manner:T49

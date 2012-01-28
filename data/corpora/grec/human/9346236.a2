@@ -1,0 +1,16 @@
+T20	GRE 54 62	mediates
+T21	GRE 138 148	identified
+T22	GRE 191 198	encoded
+T23	Gene_Activation 245 255	activation
+T24	GRE 265 273	requires
+T25	GRE 374 381	induces
+T26	Gene_Expression 647 657	expression
+T27	GRE 705 712	induces
+E1	GRE:T20 Agent:T1 Theme:T2,T3,T4
+E2	GRE:T21 Theme:T5 Descriptive-Theme:T7
+E3	GRE:T22 Agent:T9 Theme:T8
+E4	Gene_Activation:T23 Agent:T11 Theme:T10
+E5	GRE:T24 Agent:T12 Theme:E4
+E6	GRE:T25 Agent:T13 Theme:T15 Manner:T14
+E7	Gene_Expression:T26 Theme:T16 Location:T17
+E8	GRE:T27 Agent:E7 Theme:T19

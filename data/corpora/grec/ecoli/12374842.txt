@@ -1,0 +1,2 @@
+The gene yjfQ encodes the repressor of the yjfR-X regulon (ula), which is involved in L-ascorbate metabolism in Escherichia coli. 
+Mutations in yjfQ allowed us to identify this gene as the regulator of the operon yjfS-X (ula operon), reported to be involved in L-ascorbate metabolism. Inactivation of this gene renders constitutive the expression of the ula operon, indicating that YjfQ acts as a repressor. We also demonstrate that this repressor regulates the nearby yjfR gene, which in this way constitutes a regulon with the ula operon. 

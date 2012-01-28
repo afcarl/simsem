@@ -1,0 +1,21 @@
+T1	Mutant_Organism 124 127	SMA
+T2	SPAN 193 207	reduced levels
+T3	Mutation 215 224	mutations
+T4	SPAN 225 272	in, the Survival of Motor Neurons (SMN) protein
+T5	Protein 245 258	Motor Neurons
+T6	Protein 354 357	SMN
+T7	Protein_Complex 373 400	spliceosomal snRNP proteins
+T8	Mutation 499 510	SMNdeltaN27
+T9	SPAN 519 554	a dramatic reorganization of snRNPs
+T10	Protein_Complex 548 554	snRNPs
+T11	SPAN 555 569	in the nucleus
+T12	Organelles 558 569	the nucleus
+T13	Mutation 584 595	SMNdeltaN27
+T14	SPAN 605 622	pre-mRNA splicing
+T15	SPAN 623 631	in vitro
+T16	Protein 639 652	wild-type SMN
+T17	SPAN 664 672	splicing
+T18	Mutation 674 685	SMN mutants
+T19	SPAN 692 707	in SMA patients
+T20	Organism 695 707	SMA patients
+T21	SPAN 725 733	splicing

@@ -1,0 +1,14 @@
+T17	GRE 162 170	encoding
+T18	GRE 225 231	affect
+T19	Gene_Expression 601 610	expressed
+T20	GRE 615 625	represents
+T21	Gene_Expression 711 720	expressed
+T22	Gene_Activation 930 939	activated
+T23	Transcription 940 953	transcription
+E1	GRE:T17 Agent:T2 Theme:T3
+E2	GRE:T18 Agent:T1 Theme:T4
+E3	Gene_Expression:T19 Theme:T6 Manner:T7
+E4	GRE:T20 Theme:T6 Location:T9 Descriptive-Theme:T8
+E5	Gene_Expression:T21 Theme:T10 Manner:T11 Location:T12
+E6	Gene_Activation:T22 Agent:T14 Theme:E7
+E7	Transcription:T23 Theme:T16

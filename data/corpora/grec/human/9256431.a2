@@ -1,0 +1,6 @@
+T8	GRE 392 399	encodes
+T9	GRE 1003 1011	enhances
+T10	GRE 1143 1151	inhibits
+E1	GRE:T8 Agent:T1 Theme:T2
+E2	GRE:T9 Agent:T3 Theme:T5
+E3	GRE:T10 Agent:T6 Theme:T7

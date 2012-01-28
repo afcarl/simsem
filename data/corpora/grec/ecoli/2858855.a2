@@ -1,0 +1,26 @@
+T21	Gene_Expression 0 10	Expression
+T22	GRE 42 51	regulated
+T23	Transcription 164 175	transcribed
+T24	Gene_Expression 199 209	Expression
+T25	GRE 246 254	requires
+T26	GRE 293 302	repressed
+T27	GRE 359 367	produces
+T28	Gene_Expression 429 439	Expression
+T29	GRE 478 486	requires
+T30	GRE 541 549	requires
+T31	GRE 733 740	mediate
+T32	GRE 745 760	interconversion
+T33	Gene_Activation 794 804	activating
+E1	Gene_Expression:T21 Theme:T1 Location:T2
+E2	GRE:T22 Theme:E1 Location:T4
+E3	Transcription:T23 Theme:T6 Source:T7
+E4	Gene_Expression:T24 Source:T8
+E5	GRE:T25 Agent:E4 Theme:T9
+E6	GRE:T26 Agent:T10 Theme:E4
+E7	GRE:T27 Agent:E4 Theme:T11
+E8	Gene_Expression:T28 Source:T12
+E9	GRE:T29 Agent:E8 Theme:T13,T14
+E10	GRE:T30 Agent:T15 Theme:T16 Condition:T17
+E11	GRE:T31 Agent:T18 Theme:E12
+E12	GRE:T32 Theme:T19
+E13	Gene_Activation:T33 Agent:T19 Theme:T20

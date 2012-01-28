@@ -1,0 +1,43 @@
+T1	SPAN 0 37	Dimerization of NF-KB2 with RelA(p65)
+T2	Protein 16 22	NF-KB2
+T3	Protein 28 32	RelA
+T4	SPAN 48 59	DNA binding
+T5	SPAN 61 76	transcriptional
+T6	SPAN 61 87	transcriptional activation
+T7	SPAN 93 103	inhibition
+T8	Protein 127 132	MAD-3
+T9	SPAN 136 145	Inducible
+T10	SPAN 136 159	Inducible expression of
+T11	Virus 190 193	HIV
+T12	Transcription_Factor 268 278	NF-kappa B
+T13	Gene 350 355	NFKB1
+T14	Gene 363 368	NFKB2
+T15	Gene 376 380	RelA
+T16	Gene 387 392	c-rel
+T17	Gene 397 401	relB
+T18	Protein 415 431	related proteins
+T19	DNA 445 465	kappa B DNA elements
+T20	Transcription_Factor 516 521	NFKB2
+T21	Transcription_Factor 552 556	RelA
+T22	Enhancer 575 591	the HIV enhancer
+T23	SPAN 666 681	transcriptional
+T24	Virus 696 699	HIV
+T25	Transcription_Factor 703 708	NFKB2
+T26	SPAN 1218 1226	in vitro
+T27	SPAN 1256 1263	18-fold
+T28	Protein 1267 1337	the addition of preformed, heterodimeric NFKB2(p49)/RelA(p65) protein.
+T29	SPAN 1338 1353	Transcriptional
+T30	Enhancer 1368 1384	the HIV enhancer
+T31	Protein 1451 1456	MAD-3
+T32	SPAN 1614 1662	Functional activation of an HIV reporter plasmid
+T33	Plasmid 1639 1662	an HIV reporter plasmid
+T34	SPAN 1674 1724	in transiently transfected Jurkat T-leukemia cells
+T35	SPAN 1747 1768	coexpression of MAD-3
+T36	Protein 1763 1768	MAD-3
+T37	SPAN 1794 1842	binding of the NFKB2 subunit to the HIV enhancer
+T38	Sub_Unit 1805 1822	the NFKB2 subunit
+T39	Enhancer 1826 1842	the HIV enhancer
+T40	Protein 1861 1865	RelA
+T41	Protein_Complex 1880 1921	this NFKB2(p49)/p65 heterodimeric complex
+T42	SPAN 1931 1946	transcriptional
+T43	Protein 1992 1997	MAD-3

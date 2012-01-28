@@ -1,0 +1,28 @@
+T25	GRE 48 52	acts
+T26	Transcription 99 112	transcription
+T27	Gene_Expression 345 354	expressed
+T28	Transcription 379 392	transcription
+T29	GRE 396 403	induced
+T30	Transcription 908 919	transcribed
+T31	GRE 1105 1114	increased
+T32	Transcription 1143 1156	transcription
+T33	GRE 1168 1177	inhibited
+T34	GRE 1207 1214	binding
+T35	GRE 1322 1326	acts
+T36	Transcription 1373 1386	transcription
+T37	GRE 1404 1415	counteracts
+T38	GRE 1496 1506	dissociate
+E1	GRE:T25 Theme:T1 Descriptive-Theme:T2 Purpose:E2
+E2	Transcription:T26 Theme:T3
+E3	Gene_Expression:T27 Theme:T4 Manner:T5
+E4	Transcription:T28 Theme:T4
+E5	GRE:T29 Theme:E4
+E6	Transcription:T30 Agent:T9 Theme:T7 Instrument:T8
+E7	GRE:T31 Theme:T11 Condition:T10
+E8	Transcription:T32 Theme:T13
+E9	GRE:T33 Theme:E8 Instrument:T14,T15
+E10	GRE:T34 Theme:T16 Destination:T17
+E11	GRE:T35 Theme:T18 Descriptive-Theme:T19 Purpose:E12
+E12	Transcription:T36 Theme:T20
+E13	GRE:T37 Agent:T21 Theme:T22
+E14	GRE:T38 Agent:T23 Source:T24

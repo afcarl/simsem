@@ -1,0 +1,30 @@
+T53	GRE 50 55	forms
+T54	GRE 194 204	implicated
+T55	GRE 314 327	participating
+T56	Gene_Activation 331 338	induced
+T57	Gene_Expression 344 354	expression
+T58	Gene_Expression 454 463	expressed
+T59	GRE 512 516	form
+T60	GRE 613 621	observed
+T61	GRE 728 739	interaction
+T62	GRE 835 842	binding
+T63	Gene_Expression 952 962	expression
+T64	Gene_Expression 1225 1235	Expression
+T65	GRE 1279 1289	interferes
+T66	Gene_Activation 1304 1313	induction
+T67	GRE 1329 1340	interaction
+E1	GRE:T53 Agent:T1,T2,T3,T4,T5 Theme:T6 Location:T7,T9
+E2	GRE:T54 Theme:T11 Descriptive-Theme:T12
+E3	GRE:T55 Agent:T13 Location:T15 Descriptive-Agent:E4
+E4	Gene_Activation:T56 Theme:E5
+E5	Gene_Expression:T57 Theme:T14
+E6	Gene_Expression:T58 Theme:T17,T18,T19 Manner:T20 Location:T21
+E7	GRE:T59 Agent:T17,T18,T19 Agent:T24 Theme:T23
+E8	GRE:T60 Theme:T27 Location:T28,T31 Temporal:T25
+E9	GRE:T61 Theme:T32 Theme:T33,T34,T35,T36 Location:T37
+E10	GRE:T62 Agent:T39 Manner:T40 Location:T42 Destination:T41
+E11	Gene_Expression:T63 Theme:T44 Location:T45
+E12	Gene_Expression:T64 Theme:T47
+E13	GRE:T65 Agent:E12 Theme:E14
+E14	Gene_Activation:T66 Theme:T48
+E15	GRE:T67 Theme:T49 Theme:T50 Location:T51

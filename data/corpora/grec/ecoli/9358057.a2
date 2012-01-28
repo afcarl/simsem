@@ -1,0 +1,10 @@
+T16	GRE 34 42	encoding
+T17	GRE 131 139	encoding
+T18	Regulation 325 334	regulated
+T19	GRE 642 650	enhanced
+T20	GRE 675 683	encoding
+E1	GRE:T16 Agent:T1 Theme:T2 Location:T3
+E2	GRE:T17 Agent:T5 Theme:T6
+E3	Regulation:T18 Agent:T9,T11 Theme:T7 Manner:T8,T10
+E4	GRE:T19 Agent:T13 Theme:T12
+E5	GRE:T20 Agent:T14 Theme:T15

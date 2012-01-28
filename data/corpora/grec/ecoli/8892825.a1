@@ -1,0 +1,8 @@
+T1	SPAN 0 23	Transcriptional control
+T2	Protein 36 85	the ArcA two-component response regulator protein
+T3	Protein 489 495	ArcA-P
+T4	Repressor 519 546	a transcriptional repressor
+T5	SPAN 583 593	the effect
+T6	SPAN 639 690	cis-controlling transcriptional regulatory elements
+T7	Protein 737 743	ArcA-P
+T8	Activator 771 798	a transcriptional activator

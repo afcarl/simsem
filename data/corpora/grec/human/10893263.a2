@@ -1,0 +1,18 @@
+T15	GRE 24 33	functions
+T16	GRE 254 271	can also function
+T17	GRE 324 332	increase
+T18	GRE 371 380	activates
+T19	GRE 414 421	induces
+T20	GRE 761 770	transduce
+T21	GRE 784 792	activate
+T22	GRE 1341 1344	act
+T23	GRE 1376 1385	affecting
+E1	GRE:T15 Theme:T1 Descriptive-Theme:T2
+E2	GRE:T16 Theme:T3 Descriptive-Theme:T4
+E3	GRE:T17 Theme:T6 Rate:T5
+E4	GRE:T18 Agent:E3 Theme:T7
+E5	GRE:T19 Agent:E3 Theme:T8
+E6	GRE:T20 Agent:T9 Theme:T10
+E7	GRE:T21 Agent:T10 Theme:T11
+E8	GRE:T22 Agent:T12 Descriptive-Agent:T13
+E9	GRE:T23 Agent:T12 Theme:T14

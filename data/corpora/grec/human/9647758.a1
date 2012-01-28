@@ -1,0 +1,16 @@
+T1	Mutation 133 142	Mutations
+T2	Locus 146 161	the mouse locus
+T3	Transcription_Factor 219 223	Mitf
+T4	SPAN 232 266	the development of many cell types
+T5	Cells 251 266	many cell types
+T6	mRNA 579 590	MITF-A mRNA
+T7	SPAN 594 600	widely
+T8	Transcription_Factor 628 652	predominant MITF isoform
+T9	SPAN 653 674	in cultured RPE cells
+T10	mRNA 684 695	MITF-M mRNA
+T11	SPAN 699 710	exclusively
+T12	SPAN 721 754	in melanocytes and melanoma cells
+T13	Cells 724 735	melanocytes
+T14	Transcription_Factor 923 929	MITF-A
+T15	Gene 957 971	the tyrosinase
+T16	SPAN 957 1010	the tyrosinase and tyrosinase-related protein 1 genes

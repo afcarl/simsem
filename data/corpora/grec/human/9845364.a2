@@ -1,0 +1,12 @@
+T22	GRE 180 187	results
+T23	GRE 358 367	interacts
+T24	GRE 512 518	causes
+T25	GRE 596 604	inhibits
+T26	GRE 653 663	stimulates
+T27	GRE 715 724	stimulate
+E1	GRE:T22 Theme:T2,T3,T4 Descriptive-Theme:T1
+E2	GRE:T23 Theme:T6 Theme:T7
+E3	GRE:T24 Agent:T8 Theme:T9 Location:T11
+E4	GRE:T25 Agent:T13 Theme:T14 Condition:T15
+E5	GRE:T26 Agent:T16 Theme:T17
+E6	GRE:T27 Agent:T18 Theme:T21 Location:T19

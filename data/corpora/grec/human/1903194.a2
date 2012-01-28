@@ -1,0 +1,14 @@
+T18	GRE 447 452	binds
+T19	Gene_Activation 490 500	stimulates
+T20	GRE 533 538	bears
+T21	GRE 644 654	stimulated
+T22	GRE 699 703	lack
+T23	GRE 834 842	confined
+T24	GRE 931 939	displays
+E1	GRE:T18 Agent:T1 Destination:T2
+E2	Gene_Activation:T19 Agent:T1 Theme:T4 Temporal:T3
+E3	GRE:T20 Theme:T5 Descriptive-Theme:T6
+E4	GRE:T21 Agent:T9 Theme:T7
+E5	GRE:T22 Agent:T10 Theme:T11
+E6	GRE:T23 Theme:T12 Manner:T13 Location:T14
+E7	GRE:T24 Agent:T16 Condition:T15 Descriptive-Agent:T17

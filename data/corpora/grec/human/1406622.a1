@@ -1,0 +1,13 @@
+T1	SPAN 99 101	We
+T2	DNA 114 126	a human cDNA
+T3	Gene 144 149	spi-B
+T4	Gene 253 258	spi-B
+T5	Protein 269 278	a protein
+T6	Activator 479 496	the Spi-B protein
+T7	Transcription_Binding_Site 539 545	PU box
+T8	Plasmid 605 623	a reporter plasmid
+T9	Transcription_Binding_Site 635 643	PU boxes
+T10	Gene 753 758	spi-B
+T11	Gene 765 770	spi-1
+T12	SPAN 798 850	in various murine and human hematopoietic cell lines
+T13	Cells 801 850	various murine and human hematopoietic cell lines

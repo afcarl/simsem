@@ -1,0 +1,14 @@
+T1	Gene 0 12	The tal gene
+T2	Protein 91 117	a helix-loop-helix protein
+T3	Gene 370 373	tal
+T4	SPAN 387 405	T cell oncogenesis
+T5	Locus 436 445	sequences
+T6	SPAN 446 456	within tal
+T7	Gene 453 456	tal
+T8	Motif 481 518	an amphipathic helix-loop-helix motif
+T9	Gene 678 683	lyl-1
+T10	SPAN 742 760	T cell oncogenesis
+T11	SPAN 769 782	tal and lyl-1
+T12	Protein 790 836	a distinct family of helix-loop-helix proteins
+T13	SPAN 811 836	helix-loop-helix proteins
+T14	SPAN 849 874	the malignant development

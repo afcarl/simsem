@@ -1,0 +1,2 @@
+Cooperative interaction between Cra and Fnr in the regulation of the cydAB operon of Escherichia coli. 
+In vivo and in vitro experiments are reported demonstrating that the catabolite repressor-activator (Cra) protein (formerly designated FruR) regulates expression of the cydAB operon of Escherichia coli encoding cytochrome d oxidase. The Fnr protein is required for Cra-mediated transcriptional control, but the ArcA protein antagonizes the response to Cra. The results establish that Fnr, ArcA, and Cra exert their effects in an interdependent fashion. 

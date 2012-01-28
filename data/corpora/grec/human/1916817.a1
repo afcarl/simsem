@@ -1,0 +1,11 @@
+T1	Protein 105 122	cellular proteins
+T2	Enhancer 131 167	cellular and viral enhancer elements
+T3	Transcription_Factor 345 349	AP-2
+T4	Peptide 359 377	the SV40 T-antigen
+T5	SPAN 379 392	AP-2 activity
+T6	SPAN 413 450	the state of cellular differentiation
+T7	SPAN 455 494	changes in signal transduction pathways
+T8	Gene 645 659	cellular genes
+T9	Transcription_Factor 669 690	transcription factors
+T10	Gene 717 725	the gene
+T11	Transcription_Factor 735 739	AP-2

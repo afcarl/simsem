@@ -1,0 +1,36 @@
+T1	Gene 0 4	Gene
+T2	Activator 30 62	the Curli activator CsgD protein
+T3	Protein 163 175	Curli fibers
+T4	Gene 188 204	the csgBAC genes
+T5	Activator 311 343	the CsgD transcription activator
+T6	SPAN 365 387	cellulose biosynthesis
+T7	Gene_Expression 435 450	CsgD expression
+T8	SPAN 670 682	Constitutive
+T9	Activator 683 687	CsgD
+T10	SPAN 708 725	biofilm formation
+T11	Promoter 769 788	the csgBAC promoter
+T12	Promoter 799 805	csgBAC
+T13	SPAN 873 885	Constitutive
+T14	Activator 900 916	the CsgD protein
+T15	SPAN 928 958	altered transcription patterns
+T16	Gene 1051 1074	The cspA and fecR genes
+T17	Regulator 1085 1104	regulatory proteins
+T18	SPAN 1119 1129	cold shock
+T19	Inorganic_Compounds 1137 1141	iron
+T20	Gene 1161 1165	yoaD
+T21	Regulator 1176 1205	a putative negative regulator
+T22	Gene 1361 1374	the yoaD gene
+T23	SPAN 1375 1385	negatively
+T24	SPAN 1394 1410	cell aggregation
+T25	Gene 1418 1422	yoaD
+T26	SPAN 1447 1458	stimulation
+T27	SPAN 1492 1522	increased cellulose production
+T28	Gene 1540 1544	fecR
+T29	SPAN 1556 1577	significant increases
+T30	Gene 1647 1651	cspA
+T31	Activator 1722 1726	CsgD
+T32	Gene 1785 1798	the yoaD gene
+T33	SPAN 1817 1825	positive
+T34	Activator 1836 1840	CsgD
+T35	SPAN 1844 1861	biofilm formation
+T36	Gene 1897 1910	the fecR gene

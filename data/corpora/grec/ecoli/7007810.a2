@@ -1,0 +1,10 @@
+T11	Regulation 8 18	regulation
+T12	GRE 64 72	carrying
+T13	GRE 135 145	displaying
+T14	GRE 154 164	regulation
+T15	GRE 186 194	isolated
+E1	Regulation:T11 Theme:T1 Location:T2
+E2	GRE:T12 Theme:T3 Descriptive-Theme:T5
+E3	GRE:T13 Theme:T7 Descriptive-Theme:E4
+E4	GRE:T14 Theme:T8
+E5	GRE:T15 Theme:T7 Descriptive-Theme:T9

@@ -1,0 +1,13 @@
+T1	Gene 994 997	icd
+T2	Gene 999 1003	gltA
+T3	Gene 1005 1009	sucC
+T4	Gene 1015 1019	sdhC
+T5	Gene 1037 1041	ArcA
+T6	Gene 1201 1205	nuoA
+T7	Gene 1207 1210	ndh
+T8	Gene 1216 1220	ubiE
+T9	Protein 1264 1268	ArcA
+T10	Protein 1272 1295	Fnr regulation proteins
+T11	Gene 1325 1329	cydA
+T12	SPAN 1337 1349	9-fold lower
+T13	SPAN 1357 1374	higher expression

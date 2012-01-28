@@ -1,0 +1,36 @@
+T1	Gene 50 63	two rcs genes
+T2	SPAN 78 112	colanic acid capsular biosynthesis
+T3	SPAN 113 132	in Escherichia coli
+T4	Wild_Type_Bacteria 116 132	Escherichia coli
+T5	Gene 157 161	rcsA
+T6	SPAN 177 194	capsule synthesis
+T7	Gene 200 204	rcsB
+T8	SPAN 350 386	colanic acid capsular polysaccharide
+T9	SPAN 387 410	in Escherichia coli K12
+T10	SPAN 387 411	in Escherichia coli K12.
+T11	Wild_Type_Bacteria 390 410	Escherichia coli K12
+T12	Gene 412 436	The Klebsiella rcsA gene
+T13	Polypeptide 445 458	a polypeptide
+T14	Phenotype 508 526	a mucoid phenotype
+T15	SPAN 552 562	30 degrees
+T16	Locus 607 632	The Klebsiella rcsB locus
+T17	Polypeptide 641 665	no apparent polypeptides
+T18	SPAN 674 685	not capable
+T19	SPAN 707 741	the overproduction of colanic acid
+T20	Gene 787 791	rcsA
+T21	Gene 820 824	rcsB
+T22	Phenotype 846 853	mucoidy
+T23	SPAN 854 864	in E. coli
+T24	Bacteria 857 864	E. coli
+T25	SPAN 868 891	all growth temperatures
+T26	Polypeptide 930 962	the Klebsiella rcsA gene product
+T27	Activator 971 991	a positive regulator
+T28	SPAN 1021 1031	in E. coli
+T29	Wild_Type_Bacteria 1024 1031	E. coli
+T30	SPAN 1041 1065	activity of this protein
+T31	Enzyme 1102 1114	Lon protease
+T32	Locus 1116 1141	The Klebsiella rcsB locus
+T33	SPAN 1152 1162	its effect
+T34	Repressor 1189 1209	a negative regulator
+T35	Gene 1536 1551	these rcs genes
+T36	Phenotype 1562 1580	a mucoid phenotype

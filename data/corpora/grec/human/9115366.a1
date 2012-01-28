@@ -1,0 +1,31 @@
+T1	Laboratory_Technique 0 22	A novel genetic system
+T2	Protein 34 62	a dominant negative effector
+T3	Transcription_Factor 153 174	transcription factors
+T4	SPAN 180 197	an important role
+T5	Gene 215 219	gene
+T6	SPAN 231 250	in eukaryotic cells
+T7	Cells 234 250	eukaryotic cells
+T8	Cells 263 274	cDNA clones
+T9	SPAN 280 290	dominantly
+T10	SPAN 299 323	the DNA-binding activity
+T11	Repressor 575 580	Oct-2
+T12	SPAN 591 612	in this tester strain
+T13	Wild_Type_Bacteria 594 612	this tester strain
+T14	Gene 641 658	the reporter gene
+T15	SPAN 671 684	the phenotype
+T16	SPAN 731 756	a cDNA expression library
+T17	Cells 771 790	a human T-cell line
+T18	Wild_Type_Bacteria 796 829	the Oct-2-harboring tester strain
+T19	SPAN 838 847	selection
+T20	Gene 913 917	hT86
+T21	Protein 928 958	a putative zinc finger protein
+T22	SPAN 982 1009	beta-galactosidase activity
+T23	SPAN 1010 1046	in the Oct-2-harboring tester strain
+T24	Wild_Type_Bacteria 1013 1046	the Oct-2-harboring tester strain
+T25	Gene 1107 1111	hT86
+T26	SPAN 1123 1136	the intensity
+T27	SPAN 1212 1229	dominant negative
+T28	SPAN 1240 1264	the DNA-binding activity
+T29	Repressor 1268 1273	Oct-2
+T30	SPAN 1340 1355	protein-protein
+T31	Gene 1407 1411	gene

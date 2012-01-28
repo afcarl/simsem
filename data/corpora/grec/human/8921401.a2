@@ -1,0 +1,18 @@
+T25	GRE 164 170	encode
+T26	GRE 205 213	involved
+T27	Regulation 237 247	regulation
+T28	GRE 306 317	recognition
+T29	GRE 464 471	induced
+T30	GRE 928 937	expressed
+T31	GRE 1005 1012	induced
+T32	GRE 1140 1149	expressed
+T33	GRE 1256 1265	expressed
+E1	GRE:T25 Agent:T1 Theme:T2
+E2	GRE:T26 Theme:T3 Descriptive-Theme:E3
+E3	Regulation:T27 Theme:T5,T6 Manner:T4
+E4	GRE:T28 Theme:T7
+E5	GRE:T29 Theme:T8
+E6	GRE:T30 Theme:T9 Location:T10
+E7	GRE:T31 Theme:T12 Location:T13 Condition:T15
+E8	GRE:T32 Theme:T17 Manner:T18 Location:T19
+E9	GRE:T33 Theme:T22 Location:T23

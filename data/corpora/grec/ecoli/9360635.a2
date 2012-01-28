@@ -1,0 +1,16 @@
+T15	Gene 53 63	expression
+T16	Gene_Activation 375 384	Induction
+T17	GRE 421 427	result
+T18	Gene_Repression 459 469	repression
+T19	GRE 942 950	resulted
+T20	GRE 1223 1231	triggers
+T21	GRE 1375 1382	express
+T22	GRE 1844 1851	prevent
+E1	Gene:T15 Theme:T1 Location:T2
+E2	Gene_Activation:T16 Theme:T3 Location:T4
+E3	GRE:T17 Agent:E2 Theme:E4
+E4	Gene_Repression:T18 Theme:T5 Location:T6
+E5	GRE:T19 Theme:T7 Descriptive-Theme:T8
+E6	GRE:T20 Agent:T9 Theme:T10
+E7	GRE:T21 Agent:T11 Theme:T12
+E8	GRE:T22 Agent:T13 Theme:T14

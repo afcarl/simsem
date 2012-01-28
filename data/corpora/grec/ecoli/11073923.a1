@@ -1,0 +1,38 @@
+T1	SPAN 30 38	at rhaSR
+T2	Operon 33 38	rhaSR
+T3	Activator 42 69	cyclic AMP receptor protein
+T4	Activator 71 121	the RNA polymerase alpha subunit C-terminal domain
+T5	Activator 127 131	rhaR
+T6	Operon 134 167	The Escherichia coli rhaSR operon
+T7	Activator 218 222	RhaS
+T8	Activator 227 231	RhaR
+T9	Activator 253 257	RhaR
+T10	Organic_Compounds 277 287	L-rhamnose
+T11	Locus 435 438	CRP
+T12	Locus 440 444	site
+T13	SPAN 503 508	rhaSR
+T14	Activator 564 567	CRP
+T15	Activator 624 633	alpha-CTD
+T16	SPAN 635 643	at rhaSR
+T17	Operon 638 643	rhaSR
+T18	Activator 695 698	CRP
+T19	Locus 710 725	regions 1 and 2
+T20	SPAN 854 890	DNA-contacting residues in alpha-CTD
+T21	Activator 881 890	alpha-CTD
+T22	Gene_Activation 908 923	full activation
+T23	Activator 997 1000	CRP
+T24	Activator 1005 1009	RhaR
+T25	Transcription 1040 1053	transcription
+T26	Activator 1072 1096	the other two activators
+T27	Activator 1102 1111	alpha-CTD
+T28	Gene_Activation 1188 1203	this activation
+T29	SPAN 1221 1245	an alpha-CTD interaction
+T30	SPAN 1250 1279	cooperative binding with RhaR
+T31	Activator 1275 1279	RhaR
+T32	Activator 1405 1408	CRP
+T33	Activator 1410 1414	RhaR
+T34	Activator 1420 1429	alpha-CTD
+T35	Gene_Activation 1463 1473	activation
+T36	Activator 1818 1821	CRP
+T37	Activator 1823 1832	alpha-CTD
+T38	Activator 1838 1842	RhaR

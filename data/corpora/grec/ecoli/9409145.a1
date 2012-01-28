@@ -1,0 +1,15 @@
+T1	Polypeptide 129 168	more than 100 proteins and polypeptides
+T2	ORF 182 201	open reading frames
+T3	DNA 863 884	The conserved stretch
+T4	SPAN 894 910	all the elements
+T5	SPAN 928 948	DNA target sequences
+T6	Promoter 984 1001	cognate promoters
+T7	Regulator 1826 1875	Most regulators belonging to the AraC/XylS family
+T8	Transcription_Binding_Site 1886 1908	multiple binding sites
+T9	Regulator 2071 2087	these regulators
+T10	SPAN 2096 2120	a stretch of up to 20 bp
+T11	SPAN 2121 2144	in the target promoters
+T12	Promoter 2124 2144	the target promoters
+T13	Protein 2230 2242	the proteins
+T14	DNA 2253 2265	short motifs
+T15	SPAN 2266 2293	within the protected region

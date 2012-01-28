@@ -1,0 +1,20 @@
+T1	Promoter 18 53	the Escherichia coli mazEF promoter
+T2	Promoter 463 467	P(2)
+T3	Promoter 472 476	P(3)
+T4	SPAN 495 505	negatively
+T5	Regulator 523 527	MazE
+T6	Regulator 532 536	MazF
+T7	SPAN 569 580	this module
+T8	SPAN 584 594	positively
+T9	SPAN 608 618	the factor
+T10	SPAN 623 632	inversion
+T11	SPAN 683 691	negative
+T12	Gene 710 715	mazEF
+T13	Protein_Complex 962 983	the MazE.MazF complex
+T14	DNA 1000 1010	these arms
+T15	SPAN 1049 1057	negative
+T16	Promoter 1123 1140	the two promoters
+T17	SPAN 1142 1178	the alternating palindrome structure
+T18	SPAN 1183 1193	the factor
+T19	SPAN 1263 1279	the mazEF module
+T20	SPAN 1314 1339	various growth conditions

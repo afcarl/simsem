@@ -1,0 +1,51 @@
+T1	SPAN 0 6	Oxygen
+T2	Operon 64 69	cydAB
+T3	SPAN 71 77	operon
+T4	Operon 147 180	The Escherichia coli cydAB operon
+T5	Enzyme 189 223	the high-affinity terminal oxidase
+T6	Regulator 306 315	ArcB-ArcA
+T7	SPAN 340 352	microaerobic
+T8	Operon 367 383	the cydAB operon
+T9	Regulator 393 420	the anaerobic regulator Fnr
+T10	Organic_Compounds 464 470	oxygen
+T11	Regulator 472 475	Fnr
+T12	SPAN 482 490	in vitro
+T13	Locus 494 503	two sites
+T14	SPAN 494 537	two sites within the cydAB promoter element
+T15	Promoter 511 537	the cydAB promoter element
+T16	SPAN 608 617	anaerobic
+T17	Operon 632 637	cydAB
+T18	Mutation 727 742	these mutations
+T19	SPAN 746 753	in vivo
+T20	SPAN 754 758	gene
+T21	Locus 853 867	the Fnr-2 site
+T22	SPAN 884 906	Fnr-mediated anaerobic
+T23	Promoter 951 953	P1
+T24	Promoter 958 960	P2
+T25	SPAN 1019 1028	anaerobic
+T26	Promoter 1043 1045	P1
+T27	Promoter 1081 1083	P1
+T28	SPAN 1099 1112	ArcA-mediated
+T29	SPAN 1127 1139	Fnr-mediated
+T30	Promoter 1154 1156	P2
+T31	SPAN 1174 1180	oxygen
+T32	Promoter 1206 1220	both promoters
+T33	Promoter 1423 1425	P3
+T34	Promoter 1430 1432	P4
+T35	Promoter 1467 1469	P1
+T36	Promoter 1474 1476	P2
+T37	Regulator 1492 1498	oxygen
+T38	Regulator 1500 1504	ArcA
+T39	Regulator 1509 1512	Fnr
+T40	Promoter 1514 1529	The P5 promoter
+T41	Regulator 1537 1540	Fnr
+T42	Activator 1583 1587	ArcA
+T43	SPAN 1657 1662	cydAB
+T44	Regulator 1773 1786	one Fnr dimer
+T45	Locus 1813 1818	Fnr-2
+T46	Transcription 1850 1863	transcription
+T47	Promoter 1869 1889	four cydAB promoters
+T48	Operon 1923 1939	the cydAB operon
+T49	Protein_Complex 1953 1981	a complex regulatory element
+T50	Organic_Compounds 2056 2062	oxygen
+T51	SPAN 2074 2078	gene

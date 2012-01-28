@@ -1,0 +1,14 @@
+T13	GRE 31 39	involved
+T14	Regulation 299 309	regulation
+T15	Gene_Expression 352 366	Overexpression
+T16	Gene_Expression 389 403	overexpression
+T17	Gene_Expression 458 468	expression
+T18	Gene_Expression 591 601	expression
+T19	GRE 806 811	binds
+E1	GRE:T13 Theme:T1 Descriptive-Theme:T2
+E2	Regulation:T14 Theme:T3 Location:T4
+E3	Gene_Expression:T15 Theme:T6
+E4	Gene_Expression:T16 Theme:T7
+E5	Gene_Expression:T17 Theme:T8
+E6	Gene_Expression:T18 Theme:T9 Temporal:T10
+E7	GRE:T19 Agent:T11 Destination:T12

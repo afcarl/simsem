@@ -1,0 +1,24 @@
+T16	GRE 32 40	required
+T17	Regulation 83 92	induction
+T18	Gene_Expression 115 125	Expression
+T19	GRE 171 178	encodes
+T20	Regulation 227 236	regulated
+T21	Gene_Expression 467 477	expression
+T22	Insertion 479 488	Insertion
+T23	GRE 523 530	reduced
+T24	Gene_Expression 535 545	expression
+T25	GRE 681 689	resulted
+T26	Gene_Expression 714 724	expression
+T27	GRE 814 819	codes
+E1	GRE:T16 Location:T3 Purpose:E2 Theme:T1
+E2	Regulation:T17 Theme:T2
+E3	Gene_Expression:T18 Theme:T5
+E4	GRE:T19 Agent:T5 Theme:T6
+E5	Regulation:T20 Agent:T7 Theme:E3
+E6	Gene_Expression:T21 Theme:T8
+E7	Insertion:T22 Location:T9
+E8	GRE:T23 Agent:E7 Theme:E9
+E9	Gene_Expression:T24 Theme:T11
+E10	GRE:T25 Agent:T12 Theme:E11
+E11	Gene_Expression:T26 Theme:T13
+E12	GRE:T27 Agent:T14 Theme:T15

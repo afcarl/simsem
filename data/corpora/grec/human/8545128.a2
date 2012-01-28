@@ -1,0 +1,8 @@
+T10	GRE 39 46	encodes
+T11	GRE 436 445	expressed
+T12	GRE 843 853	deregulate
+T13	Gene_Expression 877 887	expression
+E1	GRE:T10 Agent:T1 Theme:T2
+E2	GRE:T11 Theme:T3 Location:T4
+E3	GRE:T12 Agent:T6 Theme:T7
+E4	Gene_Expression:T13 Theme:T9 Manner:T8

@@ -1,0 +1,19 @@
+T1	SPAN 18 42	PurR repressor synthesis
+T2	Gene 88 92	purB
+T3	Gene 94 98	purC
+T4	Gene 100 104	purL
+T5	Gene 106 111	purMN
+T6	Gene 116 121	guaBA
+T7	SPAN 133 152	in Escherichia coli
+T8	Wild_Type_Bacteria 136 152	Escherichia coli
+T9	Gene 155 168	The purR gene
+T10	Repressor 190 194	PurR
+T11	Enzyme 225 236	the enzymes
+T12	Gene 425 429	purR
+T13	Transcription_Binding_Site 540 562	two PurR-binding sites
+T14	SPAN 579 610	in the transcribed part of purR
+T15	Gene 630 634	purR
+T16	SPAN 644 683	in wild-type and pur-lac fusion strains
+T17	Bacteria 647 683	wild-type and pur-lac fusion strains
+T18	Organic_Compounds 705 711	purine
+T19	Gene 726 735	all genes

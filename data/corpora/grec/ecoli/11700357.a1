@@ -1,0 +1,20 @@
+T1	Promoter 327 346	The promoter P(cer)
+T2	SPAN 399 425	stable plasmid maintenance
+T3	Promoter 427 433	P(cer)
+T4	RNA 507 510	Rcd
+T5	Protein 708 712	ArgR
+T6	Repressor 729 756	a transcriptional repressor
+T7	SPAN 856 866	only 15 bp
+T8	Gene_Activation 962 979	elevated activity
+T9	Insertion 981 992	An increase
+T10	SPAN 1014 1019	a 10-
+T11	SPAN 1020 1022	to
+T12	SPAN 1023 1030	20-fold
+T13	Gene_Expression 1043 1051	activity
+T14	SPAN 1090 1100	the spacer
+T15	Promoter 1193 1199	P(cer)
+T16	Operator 1235 1260	the -35 and -10 sequences
+T17	SPAN 1261 1302	within a recombinational synaptic complex
+T18	Protein_Complex 1268 1302	a recombinational synaptic complex
+T19	SPAN 1323 1357	a 17 bp spacer promoter derivative
+T20	SPAN 1386 1409	plasmid multimerization

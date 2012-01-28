@@ -1,0 +1,37 @@
+T1	Gene 14 22	lrp gene
+T2	SPAN 14 33	lrp gene expression
+T3	Protein 37 58	H-NS and Lrp proteins
+T4	SPAN 59 78	in Escherichia coli
+T5	Wild_Type_Bacteria 62 78	Escherichia coli
+T6	Transcription_Factor 117 120	Lrp
+T7	Gene 255 265	many genes
+T8	Gene 276 280	lysU
+T9	Enzyme 296 317	lysyl-tRNA synthetase
+T10	Mutation 319 346	Dominant negative mutations
+T11	Gene 362 366	lysU
+T12	SPAN 362 377	lysU expression
+T13	Mutation 407 422	These mutations
+T14	Transcription_Binding_Site 432 462	a predicted DNA-binding domain
+T15	Gene 572 577	ilvIH
+T16	SPAN 572 588	ilvIH expression
+T17	Gene 610 614	lysU
+T18	SPAN 610 625	lysU expression
+T19	Gene 668 671	lrp
+T20	Gene 690 693	lrp
+T21	SPAN 690 704	lrp expression
+T22	Mutation 724 739	these mutations
+T23	Plasmid 757 776	multi-copy plasmids
+T24	SPAN 786 790	lrp+
+T25	Protein 901 905	H-NS
+T26	Promoter 929 947	a promoter segment
+T27	SPAN 929 954	a promoter segment of lrp
+T28	Gene 951 954	lrp
+T29	SPAN 955 963	in vitro
+T30	Gene 982 985	lrp
+T31	SPAN 982 996	lrp expression
+T32	SPAN 1007 1029	in the hns null mutant
+T33	Mutant_Bacteria 1010 1029	the hns null mutant
+T34	Gene 1060 1072	the lrp gene
+T35	SPAN 1085 1093	feedback
+T36	Protein 1107 1110	Lrp
+T37	Protein 1137 1149	H-NS protein

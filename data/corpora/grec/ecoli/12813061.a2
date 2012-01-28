@@ -1,0 +1,6 @@
+T8	GRE 708 716	involved
+T9	Transcription 747 760	transcription
+T10	Regulation 1209 1218	regulated
+E1	GRE:T8 Theme:T1 Manner:T2,T3 Descriptive-Theme:E2
+E2	Transcription:T9 Theme:T4
+E3	Regulation:T10 Agent:T7 Theme:T5 Manner:T6

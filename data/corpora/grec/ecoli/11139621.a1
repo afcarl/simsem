@@ -1,0 +1,31 @@
+T1	Gene 63 67	nagE
+T2	Protein 78 122	the N-acetylglucosamine-specific transporter
+T3	SPAN 123 142	in Escherichia coli
+T4	Wild_Type_Bacteria 126 142	Escherichia coli
+T5	Transcription_Factor 145 170	The NagC and Mlc proteins
+T6	Gene 279 282	PTS
+T7	Gene 284 289	genes
+T8	SPAN 290 309	in Escherichia coli
+T9	Wild_Type_Bacteria 293 309	Escherichia coli
+T10	Transcription_Factor 311 315	NagC
+T11	Gene 326 330	nagE
+T12	Protein 341 386	the N:-acetylglucosamine-specific transporter
+T13	SPAN 394 397	Mlc
+T14	Operon 427 431	ptsG
+T15	Operon 433 439	manXYZ
+T16	Operon 444 452	ptsHIcrr
+T17	Repressor 489 501	NagC and Mlc
+T18	Operator 514 534	each others operator
+T19	SPAN 545 553	in vitro
+T20	Operator 891 908	The nagE operator
+T21	SPAN 922 939	a higher affinity
+T22	Gene 980 984	nagE
+T23	SPAN 988 1023	physiological concentrations of Mlc
+T24	Repressor 1020 1023	Mlc
+T25	SPAN 1037 1044	in vivo
+T26	Gene 1060 1074	wild-type nagE
+T27	Repressor 1078 1082	NagC
+T28	Point_Mutation 1199 1208	Replacing
+T29	Repressor 1258 1262	NagC
+T30	SPAN 1266 1299	the absence of the nagB operator.
+T31	Operator 1281 1298	the nagB operator

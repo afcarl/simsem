@@ -1,0 +1,13 @@
+T1	SPAN 55 66	promiscuous
+T2	Regulator 79 98	regulatory proteins
+T3	Operon 104 111	operons
+T4	Regulator 1076 1103	similar regulatory proteins
+T5	SPAN 1104 1110	rarely
+T6	Gene 1141 1162	similar protein genes
+T7	Regulator 1320 1350	descendant regulatory proteins
+T8	SPAN 1361 1374	promiscuously
+T9	Operon 1388 1406	descendant operons
+T10	SPAN 1541 1559	the present system
+T11	SPAN 1563 1578	transcriptional
+T12	SPAN 1617 1628	promiscuous
+T13	SPAN 1643 1666	regulatory organization

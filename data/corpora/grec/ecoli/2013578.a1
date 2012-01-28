@@ -1,0 +1,10 @@
+T1	Gene 59 63	sfs1
+T2	SPAN 79 93	CRP*-dependent
+T3	Gene 94 102	mal gene
+T4	SPAN 114 133	in Escherichia coli
+T5	Wild_Type_Bacteria 117 133	Escherichia coli
+T6	Gene 750 754	sfs1
+T7	Protein 763 772	a protein
+T8	Gene 884 897	the sfs1 gene
+T9	SPAN 898 907	in MK2001
+T10	Bacteria 901 907	MK2001

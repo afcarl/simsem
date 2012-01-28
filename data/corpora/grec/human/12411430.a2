@@ -1,0 +1,20 @@
+T30	Regulation 477 486	regulated
+T31	GRE 671 677	govern
+T32	Gene_Activation 705 715	activation
+T33	GRE 1027 1035	interact
+T34	GRE 1124 1133	expressed
+T35	GRE 1148 1162	down-regulated
+T36	GRE 1257 1266	expressed
+T37	Regulation 1286 1300	down-regulated
+T38	Regulation 1397 1410	down-regulate
+T39	GRE 1658 1667	interacts
+E1	Regulation:T30 Theme:T1 Descriptive-Theme:T2
+E2	GRE:T31 Agent:T5 Theme:T7
+E3	Gene_Activation:T32 Theme:T8 Manner:T6
+E4	GRE:T33 Agent:T9 Descriptive-Agent:T10 Instrument:T11
+E5	GRE:T34 Theme:T12 Manner:T13
+E6	GRE:T35 Agent:T12 Theme:T14
+E7	GRE:T36 Theme:T17 Manner:T18 Location:T19
+E8	Regulation:T37 Agent:T17 Theme:T20 Condition:T21
+E9	Regulation:T38 Agent:T25 Theme:T26 Location:T27
+E10	GRE:T39 Agent:T28 Descriptive-Agent:T29

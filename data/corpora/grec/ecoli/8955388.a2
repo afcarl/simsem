@@ -1,0 +1,48 @@
+T48	GRE 0 6	Action
+T49	GRE 34 41	control
+T50	Transcription 45 58	transcription
+T51	GRE 76 84	encoding
+T52	GRE 252 259	encoded
+T53	GRE 325 335	controlled
+T54	GRE 351 358	binding
+T55	GRE 678 683	bound
+T56	GRE 979 987	response
+T57	GRE 1099 1110	inactivated
+T58	GRE 1147 1158	mutagenesis
+T59	GRE 1193 1202	conferred
+T60	GRE 1206 1213	binding
+T61	GRE 1258 1267	increased
+T62	GRE 1292 1304	introduction
+T63	GRE 1413 1420	control
+T64	Transcription 1429 1442	transcription
+T65	GRE 1447 1456	increased
+T66	GRE 1542 1548	effect
+T67	GRE 1650 1660	controlled
+T68	GRE 1745 1751	assist
+T69	GRE 1766 1773	bending
+T70	GRE 1785 1795	facilitate
+T71	GRE 1801 1810	formation
+E1	GRE:T48 Manner:T1 Agent:E2
+E2	GRE:T49 Theme:E3 Manner:T2
+E3	Transcription:T50 Theme:T3
+E4	GRE:T51 Agent:T3 Theme:T4
+E5	GRE:T52 Agent:T6 Theme:T5
+E6	GRE:T53 Agent:E7 Theme:T7
+E7	GRE:T54 Agent:T9 Manner:T8 Destination:T10,T11
+E8	GRE:T55 Agent:T12 Manner:T16 Destination:T13 Condition:T14,T15
+E9	GRE:T56 Agent:T17 Theme:T18
+E10	GRE:T57 Agent:T24,E11 Theme:T19,T20,T21,T22,T23
+E11	GRE:T58 Manner:T25
+E12	GRE:T59 Agent:E13 Theme:T27
+E13	GRE:T60 Agent:T28 Destination:T29,T30
+E14	GRE:T61 Theme:T26 Condition:E15 Rate:T31
+E15	GRE:T62 Theme:T32
+E16	GRE:T63 Agent:T33 Theme:E17
+E17	Transcription:T64 Theme:T34
+E18	GRE:T65 Theme:E16 Location:T36 Rate:T35
+E19	GRE:T66 Agent:T39
+E20	GRE:T67 Agent:T41 Theme:T40
+E21	GRE:T68 Agent:T43 Theme:T44
+E22	GRE:T69 Theme:T45 Purpose:E23
+E23	GRE:T70 Theme:E24
+E24	GRE:T71 Theme:T46

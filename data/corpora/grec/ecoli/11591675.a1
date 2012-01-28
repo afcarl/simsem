@@ -1,0 +1,16 @@
+T1	Promoter 81 107	the seven rrn P1 promoters
+T2	SPAN 108 127	in Escherichia coli
+T3	Bacteria 111 127	Escherichia coli
+T4	SPAN 130 147	The high activity
+T5	DNA 205 230	a cis-acting DNA sequence
+T6	DNA 232 246	the UP element
+T7	Transcription_Factor 289 292	FIS
+T8	Transcription_Factor 335 338	FIS
+T9	DNA 343 357	the UP element
+T10	SPAN 358 391	at the other six rrn P1 promoters
+T11	Promoter 361 391	the other six rrn P1 promoters
+T12	Transcription_Factor 542 545	FIS
+T13	SPAN 552 563	upstream of
+T14	Promoter 580 606	all seven rrn P1 promoters
+T15	Promoter 866 887	most rrn P1 promoters
+T16	Gene 1263 1290	unlinked multigene families

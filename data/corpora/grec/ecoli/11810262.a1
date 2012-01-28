@@ -1,0 +1,32 @@
+T1	Regulator 24 27	IHF
+T2	Regulator 32 36	cAMP
+T3	Gene 71 74	hpt
+T4	Gene 79 82	gcd
+T5	SPAN 84 103	in Escherichia coli
+T6	Bacteria 87 103	Escherichia coli
+T7	Gene 171 183	The hpt gene
+T8	Enzyme 199 237	hypoxanthine phosphoribosyltransferase
+T9	SPAN 278 300	the opposite direction
+T10	Gene 305 317	the gcd gene
+T11	Enzyme 335 373	a membrane-bound glucose dehydrogenase
+T12	Gene 795 808	the two genes
+T13	SPAN 856 896	In an adenylate cyclase-deficient strain
+T14	Mutant_Bacteria 859 896	an adenylate cyclase-deficient strain
+T15	Organic_Compounds 910 914	cAMP
+T16	Gene 943 946	hpt
+T17	Gene 977 980	gcd
+T18	Mutation 1038 1047	mutations
+T19	SPAN 1048 1081	into the putative binding element
+T20	DNA 1053 1081	the putative binding element
+T21	Gene 1134 1137	gcd
+T22	Mutation 1152 1161	mutations
+T23	SPAN 1173 1211	into the putative IHF-binding elements
+T24	DNA 1178 1211	the putative IHF-binding elements
+T25	SPAN 1235 1238	hpt
+T26	Gene 1333 1346	the two genes
+T27	SPAN 1430 1469	at the -10 sequence of the gcd promoter
+T28	Promoter 1453 1469	the gcd promoter
+T29	RNA_Polymerase 1498 1512	RNA polymerase
+T30	Promoter 1516 1532	the hpt promoter
+T31	RNA_Polymerase 1568 1582	RNA polymerase
+T32	Promoter 1588 1604	the gcd promoter

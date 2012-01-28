@@ -1,0 +1,40 @@
+T35	GRE 49 53	form
+T36	GRE 119 129	initiation
+T37	Transcription 132 145	Transcription
+T38	GRE 168 176	involves
+T39	GRE 177 188	recruitment
+T40	GRE 244 252	followed
+T41	GRE 443 451	modified
+T42	GRE 545 551	result
+T43	GRE 559 571	dissociation
+T44	GRE 671 677	encode
+T45	GRE 816 825	functions
+T46	GRE 843 853	elongation
+T47	GRE 892 902	initiation
+T48	GRE 976 986	initiation
+T49	GRE 1068 1078	initiation
+T50	GRE 1086 1094	restored
+T51	GRE 1261 1270	interacts
+T52	GRE 1453 1460	directs
+T53	GRE 1473 1480	binding
+T54	GRE 1515 1527	interactions
+E1	GRE:T35 Agent:T1 Theme:T2
+E2	GRE:T36 Theme:T4 Manner:T3
+E3	Transcription:T37 Agent:T5
+E4	GRE:T38 Agent:E3 Theme:E5
+E5	GRE:T39 Agent:T7 Theme:T6
+E6	GRE:T40 Agent:T8 Theme:E5
+E7	GRE:T41 Theme:T9 Location:T10
+E8	GRE:T42 Agent:T12 Theme:E9
+E9	GRE:T43 Theme:T13
+E10	GRE:T44 Agent:T14 Theme:T15
+E11	GRE:T45 Agent:T16 Descriptive-Agent:E12,T18
+E12	GRE:T46 Theme:T17
+E13	GRE:T47 Theme:T20 Manner:T19
+E14	GRE:T48 Theme:T22 Manner:T21
+E15	GRE:T49 Theme:T24 Manner:T23
+E16	GRE:T50 Agent:T25,T26 Theme:E15
+E17	GRE:T51 Agent:T27 Agent:T28,T29
+E18	GRE:T52 Agent:T30 Theme:E19
+E19	GRE:T53 Agent:T31 Destination:T32
+E20	GRE:T54 Agent:T33 Agent:T34

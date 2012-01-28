@@ -1,0 +1,42 @@
+T33	GRE 26 33	isolate
+T34	GRE 132 144	interactions
+T35	GRE 175 179	play
+T36	Regulation 201 211	regulation
+T37	Gene_Activation 220 230	expression
+T38	GRE 291 298	inhibit
+T39	GRE 581 590	expressed
+T40	GRE 613 622	represses
+T41	Gene_Activation 627 637	expression
+T42	GRE 663 670	changes
+T43	GRE 715 727	Introduction
+T44	GRE 757 765	prepared
+T45	GRE 830 837	allowed
+T46	GRE 919 927	encoding
+T47	GRE 972 981	derepress
+T48	GRE 1112 1122	attenuated
+T49	GRE 1230 1236	effect
+T50	GRE 1356 1368	interactions
+T51	GRE 1374 1380	govern
+T52	Regulation 1393 1403	regulation
+T53	Gene_Activation 1412 1422	expression
+E1	GRE:T33 Agent:T1 Theme:T2
+E2	GRE:T34 Agent:T3
+E3	GRE:T35 Agent:E2 Theme:T4 Descriptive-Agent:E4
+E4	Regulation:T36 Theme:E5
+E5	Gene_Activation:T37 Theme:T5 Location:T6
+E6	GRE:T38 Agent:T8 Theme:T10 Manner:T9
+E7	GRE:T39 Theme:T11 Location:T12
+E8	GRE:T40 Agent:T11 Theme:E9
+E9	Gene_Activation:T41 Theme:T14
+E10	GRE:T42 Agent:T11 Theme:T15
+E11	GRE:T43 Theme:T16 Destination:T18
+E12	GRE:T44 Theme:T16 Source:T17
+E13	GRE:T45 Agent:E11 Theme:T19
+E14	GRE:T46 Agent:T20 Theme:T21
+E15	GRE:T47 Agent:T20 Theme:T22 Location:T23
+E16	GRE:T48 Agent:T25 Theme:T26
+E17	GRE:T49 Agent:T29 Theme:T28 Manner:T27
+E18	GRE:T50 Agent:T30
+E19	GRE:T51 Agent:E18 Theme:E20
+E20	Regulation:T52 Theme:E21
+E21	Gene_Activation:T53 Theme:T31

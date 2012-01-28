@@ -1,0 +1,22 @@
+T18	GRE 9 16	repress
+T19	Transcription 17 30	transcription
+T20	GRE 117 124	encodes
+T21	GRE 597 601	bind
+T22	GRE 723 730	effects
+T23	Gene_Activation 765 775	expression
+T24	GRE 776 782	driven
+T25	GRE 865 874	repressed
+T26	GRE 966 970	bind
+T27	GRE 1069 1076	repress
+T28	Transcription 1077 1090	transcription
+E1	GRE:T18 Agent:T1 Theme:E2
+E2	Transcription:T19 Source:T2
+E3	GRE:T20 Agent:T3 Theme:T4
+E4	GRE:T21 Agent:T5,T6 Manner:T7 Destination:T8
+E5	GRE:T22 Agent:T9 Theme:E6
+E6	Gene_Activation:T23 Theme:T10
+E7	GRE:T24 Agent:T11 Theme:E6
+E8	GRE:T25 Agent:T12 Theme:T13
+E9	GRE:T26 Agent:T14 Theme:T15
+E10	GRE:T27 Agent:T16 Theme:E11
+E11	Transcription:T28 Source:T17

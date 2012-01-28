@@ -1,0 +1,24 @@
+T19	Regulation 25 34	regulates
+T20	GRE 52 62	activating
+T21	Transcription 63 76	transcription
+T22	Regulation 272 281	regulates
+T23	GRE 393 402	activates
+T24	GRE 433 443	increasing
+T25	Transcription 444 457	transcription
+T26	GRE 765 775	suppressed
+T27	GRE 1090 1098	increase
+T28	Transcription 1099 1112	transcription
+T29	Regulation 1293 1302	regulates
+T30	Gene_Expression 1303 1313	expression
+E1	Regulation:T19 Agent:T1 Theme:T3 Manner:T2
+E2	GRE:T20 Agent:T1 Theme:E3
+E3	Transcription:T21 Theme:T4
+E4	Regulation:T22 Agent:T5 Theme:T6
+E5	GRE:T23 Agent:T7 Theme:T8
+E6	GRE:T24 Agent:T7 Theme:E7 Manner:T9
+E7	Transcription:T25 Source:T10
+E8	GRE:T26 Agent:T12 Theme:T13
+E9	GRE:T27 Agent:T14 Theme:E10
+E10	Transcription:T28 Theme:T15
+E11	Regulation:T29 Agent:T16 Theme:E12 Manner:T17
+E12	Gene_Expression:T30 Theme:T18

@@ -1,0 +1,12 @@
+T1	DNA 204 222	the sigmaE regulon
+T2	SPAN 257 279	misfolding of proteins
+T3	Protein 271 279	proteins
+T4	Gene 321 325	htrA
+T5	Enzyme 362 384	a periplasmic protease
+T6	Protein 416 434	misfolded proteins
+T7	SPAN 569 609	the putative signal transduction pathway
+T8	Transcription 621 639	htrA transcription
+T9	Gene 735 750	these two genes
+T10	Enzyme 758 789	two phosphoprotein phosphatases
+T11	Enzyme 802 806	PrpA
+T12	Enzyme 811 815	PrpB
