@@ -1,0 +1,6 @@
+*	Equiv T3 T2
+T5	Process 139 149	infectious
+T6	Positive_regulation 331 338	induced
+E1	Process:T5 
+M1	Negation E1
+E2	Positive_regulation:T6 Theme:T2

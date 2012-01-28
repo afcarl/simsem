@@ -1,0 +1,6 @@
+*	Equiv T5 T4
+*	Equiv T7 T6
+*	Equiv T9 T8
+T44	Binding 3716 3723	Binding
+T45	Entity 3756 3766	N-terminus
+E1	Binding:T44 Theme1:T40 Theme2:T41 Site2:T45

@@ -1,0 +1,53 @@
+T74	Process 28 37	infection
+T75	Gene_expression 1315 1324	expressed
+T76	Positive_regulation 1542 1549	induced
+T77	Positive_regulation 1827 1838	upregulated
+T78	Positive_regulation 2185 2196	upregulated
+T79	Positive_regulation 2408 2419	upregulated
+T80	Gene_expression 2656 2666	expression
+T81	Positive_regulation 2939 2950	upregulated
+T82	Process 3512 3521	infection
+T83	Positive_regulation 3741 3748	induced
+T84	Process 3928 3937	infection
+E1	Process:T74 
+E2	Gene_expression:T75 Theme:T8
+E3	Gene_expression:T75 Theme:T10
+E4	Gene_expression:T75 Theme:T11
+E5	Gene_expression:T75 Theme:T12
+E6	Gene_expression:T75 Theme:T13
+E7	Gene_expression:T75 Theme:T14
+E8	Gene_expression:T75 Theme:T15
+E9	Gene_expression:T75 Theme:T16
+E10	Positive_regulation:T76 Theme:T10
+E11	Positive_regulation:T76 Theme:T11
+E12	Positive_regulation:T76 Theme:T12
+E13	Positive_regulation:T76 Theme:T13
+E14	Positive_regulation:T76 Theme:T14
+E15	Positive_regulation:T76 Theme:T15
+E16	Positive_regulation:T76 Theme:T16
+E17	Positive_regulation:T76 Theme:T8
+E18	Positive_regulation:T77 Theme:T20
+E19	Positive_regulation:T77 Theme:T22
+E20	Positive_regulation:T78 Theme:T29
+E21	Positive_regulation:T78 Theme:T30
+E22	Positive_regulation:T79 Theme:T37
+E23	Gene_expression:T80 Theme:T46
+E24	Gene_expression:T80 Theme:T47
+E25	Gene_expression:T80 Theme:T48
+E26	Gene_expression:T80 Theme:T49
+E27	Gene_expression:T80 Theme:T50
+E28	Gene_expression:T80 Theme:T51
+E29	Gene_expression:T80 Theme:T52
+E30	Positive_regulation:T81 Theme:T46
+E31	Positive_regulation:T81 Theme:T47
+E32	Positive_regulation:T81 Theme:T48
+E33	Positive_regulation:T81 Theme:T49
+E34	Positive_regulation:T81 Theme:T50
+E35	Positive_regulation:T81 Theme:T51
+E36	Positive_regulation:T81 Theme:T52
+E37	Process:T82 
+E38	Positive_regulation:T83 Theme:T63
+E39	Positive_regulation:T83 Theme:T64
+E40	Positive_regulation:T83 Theme:T65
+E41	Positive_regulation:T83 Theme:T66
+E42	Process:T84 

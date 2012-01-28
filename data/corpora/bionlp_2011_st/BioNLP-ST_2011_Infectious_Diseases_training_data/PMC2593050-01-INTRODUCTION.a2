@@ -1,0 +1,35 @@
+T51	Negative_regulation 711 722	inactivated
+T52	Process 1066 1076	attenuated
+T53	Process 1077 1086	virulence
+T54	Process 1359 1368	infection
+T55	Process 1517 1526	infection
+T56	Process 1627 1634	resists
+T57	Process 1857 1867	resistance
+T58	Process 1968 1979	reinfection
+T59	Regulation 2405 2415	importance
+T60	Process 2436 2445	virulence
+T61	Process 2520 2529	infection
+T62	Process 2570 2580	attenuated
+T63	Process 2589 2598	virulence
+T64	Process 2646 2656	infections
+T65	Process 2666 2675	infection
+T66	Process 2742 2751	infection
+T67	Process 2852 2861	infection
+E1	Negative_regulation:T51 Theme:T12
+E2	Process:T52 
+E3	Process:T53 
+E4	Process:T54 
+E5	Process:T55 
+E6	Process:T56 Participant:T27
+E7	Process:T57 
+E8	Process:T58 Participant:T34
+E9	Regulation:T59 Theme:E10 Cause:T37
+M1	Speculation E9
+E10	Process:T60 Participant:T40
+E11	Process:T61 
+E12	Process:T62 Participant:T45
+E13	Process:T63 Participant:T45
+E14	Process:T64 
+E15	Process:T65 Participant:T47
+E16	Process:T66 Participant:T49
+E17	Process:T67 

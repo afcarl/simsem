@@ -1,0 +1,9 @@
+T25	Negative_regulation 1896 1904	depleted
+T26	Localization 1975 1982	reached
+T27	Entity 2015 2024	cytoplasm
+T28	Gene_expression 2096 2106	expression
+E1	Negative_regulation:T25 Theme:T18
+E2	Negative_regulation:T25 Theme:T19
+E3	Localization:T26 Theme:T18 AtLoc:T27
+E4	Localization:T26 Theme:T19 AtLoc:T27
+E5	Gene_expression:T28 Theme:T22

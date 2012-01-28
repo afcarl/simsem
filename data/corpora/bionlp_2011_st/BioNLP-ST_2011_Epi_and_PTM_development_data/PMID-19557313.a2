@@ -1,0 +1,13 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+T12	Entity 0 8	Arginine
+T13	Methylation 9 20	methylation
+T14	Entity 360 368	arginine
+T15	Methylation 369 380	methylation
+T16	Catalysis 369 380	methylation
+T17	Entity 818 826	arginine
+T18	Methylation 827 838	methylation
+E1	Methylation:T13 Theme:T2 Site:T12
+E2	Methylation:T15 Theme:T5 Site:T14
+E3	Catalysis:T16 Theme:E2 Cause:T6
+E4	Methylation:T18 Theme:T11 Site:T17

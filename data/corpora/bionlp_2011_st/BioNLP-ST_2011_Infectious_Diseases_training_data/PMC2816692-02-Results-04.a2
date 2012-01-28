@@ -1,0 +1,4 @@
+T25	Gene_expression 404 414	expression
+T26	Regulation 422 431	regulated
+E1	Gene_expression:T25 Theme:T4
+E2	Regulation:T26 Theme:E1

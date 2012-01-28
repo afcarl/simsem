@@ -1,0 +1,10 @@
+T22	Catalysis 416 430	ubiquitination
+T23	Ubiquitination 416 430	ubiquitination
+T24	Catalysis 697 711	ubiquitination
+T25	Ubiquitination 697 711	ubiquitination
+E1	Ubiquitination:T23 Theme:T5
+E2	Catalysis:T22 Theme:E1 Cause:T4
+E3	Ubiquitination:T23 Theme:T6
+E4	Catalysis:T22 Theme:E3 Cause:T4
+E5	Ubiquitination:T25 Theme:T13
+E6	Catalysis:T24 Theme:E5 Cause:T12

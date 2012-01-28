@@ -1,0 +1,45 @@
+*	Equiv T13 T12
+*	Equiv T19 T18
+*	Equiv T21 T20
+*	Equiv T46 T45
+T95	Positive_regulation 616 629	production of
+T96	Positive_regulation 731 738	induced
+T97	Positive_regulation 779 786	produce
+T98	Positive_regulation 985 996	upregulated
+T99	Positive_regulation 1261 1271	synthesize
+T100	Process 2131 2140	infection
+T101	Positive_regulation 2336 2347	upregulated
+T102	Positive_regulation 2815 2827	Upregulation
+T103	Regulation 2873 2890	direct the uptake
+T104	Positive_regulation 2982 2990	produced
+T105	Positive_regulation 3291 3298	induced
+E1	Positive_regulation:T95 Theme:T11 Cause:T9
+E2	Positive_regulation:T95 Theme:T10 Cause:T10
+E3	Positive_regulation:T96 Theme:T9
+E4	Positive_regulation:T96 Theme:T10
+E5	Positive_regulation:T97 Theme:T16 Cause:T15
+E6	Positive_regulation:T98 Theme:T28
+E7	Positive_regulation:T98 Theme:T22
+E8	Positive_regulation:T98 Theme:T20
+E9	Positive_regulation:T98 Theme:T23
+E10	Positive_regulation:T98 Theme:T24
+E11	Positive_regulation:T98 Theme:T25
+E12	Positive_regulation:T98 Theme:T26
+E13	Positive_regulation:T98 Theme:T27
+E14	Positive_regulation:T99 Theme:T37 Cause:T35
+M1	Speculation E14
+E15	Positive_regulation:T99 Theme:T37 Cause:T36
+M2	Speculation E15
+E16	Process:T100 
+E17	Positive_regulation:T101 Theme:T45
+E18	Positive_regulation:T101 Theme:T47
+E19	Positive_regulation:T101 Theme:T50
+E20	Positive_regulation:T101 Theme:T52
+E21	Positive_regulation:T101 Theme:T53
+E22	Positive_regulation:T101 Theme:T51
+E23	Positive_regulation:T102 Theme:T60
+E24	Positive_regulation:T102 Theme:T61
+E25	Regulation:T103 Theme:T63 Cause:E23
+E26	Regulation:T103 Theme:T63 Cause:E24
+E27	Positive_regulation:T104 Theme:T65
+E28	Positive_regulation:T105 Theme:T71

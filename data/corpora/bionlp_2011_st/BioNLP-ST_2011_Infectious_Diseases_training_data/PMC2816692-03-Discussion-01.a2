@@ -1,0 +1,5 @@
+T26	Process 270 279	infection
+T27	Binding 973 980	binding
+E1	Process:T26 
+E2	Binding:T27 Theme1:T9 Theme2:T7
+M1	Negation E2

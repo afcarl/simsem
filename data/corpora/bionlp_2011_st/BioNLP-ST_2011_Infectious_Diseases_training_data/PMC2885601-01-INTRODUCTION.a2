@@ -1,0 +1,25 @@
+*	Equiv T18 T17
+T46	Process 219 228	infection
+T47	Process 458 467	infection
+T48	Process 545 554	resistant
+T49	Process 645 656	reinfection
+T50	Gene_expression 954 961	produce
+T51	Process 1037 1047	resistance
+T52	Gene_expression 1091 1099	produces
+T53	Localization 1102 1110	secreted
+T54	Gene_expression 1365 1373	produced
+T55	Gene_expression 1534 1542	produced
+T56	Binding 1680 1684	bind
+T57	Process 2073 2082	infection
+E1	Process:T46 
+E2	Process:T47 
+E3	Process:T48 
+E4	Process:T49 Participant:T8
+E5	Gene_expression:T50 Theme:T15
+E6	Process:T51 
+E7	Gene_expression:T52 Theme:T17
+E8	Localization:T53 Theme:T17
+E9	Gene_expression:T54 Theme:T24
+E10	Gene_expression:T55 Theme:T29
+E11	Binding:T56 Theme1:T32 Theme2:T33
+E12	Process:T57 Participant:T45

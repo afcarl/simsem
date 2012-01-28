@@ -1,0 +1,15 @@
+T12	Acetylation 16 27	acetylation
+T13	Catalysis 16 27	acetylation
+T14	Acetylation 466 477	acetylation
+T15	Catalysis 466 477	acetylation
+T16	Entity 494 504	lysine 120
+T17	Entity 506 510	K120
+T18	Acetylation 897 908	acetylation
+T19	Catalysis 897 908	acetylation
+T20	Entity 919 923	K120
+E1	Acetylation:T12 Theme:T2
+E2	Catalysis:T13 Theme:E1 Cause:T1
+E3	Acetylation:T14 Theme:T5 Site:T17
+E4	Catalysis:T15 Theme:E3 Cause:T4
+E5	Acetylation:T18 Theme:T10 Site:T20
+E6	Catalysis:T19 Theme:E5 Cause:T9

@@ -1,0 +1,35 @@
+T36	Regulation 45 54	Important
+T37	Process 58 67	Virulence
+T38	Regulation 141 151	importance
+T39	Process 200 209	virulence
+T40	Process 342 351	infection
+T41	Process 431 441	attenuated
+T42	Process 445 454	virulence
+T43	Process 491 501	infections
+T44	Process 600 606	resist
+T45	Process 723 732	infection
+T46	Process 755 766	reinfection
+T47	Process 821 830	infection
+T48	Positive_regulation 831 838	induces
+T49	Gene_expression 839 849	production
+T50	Regulation 929 938	important
+T51	Process 961 970	virulence
+E1	Regulation:T36 Theme:E2 Cause:T1
+E2	Process:T37 Participant:T4
+E3	Regulation:T38 Theme:E4 Cause:T5
+M1	Speculation E3
+E4	Process:T39 Participant:T9
+E5	Process:T40 
+E6	Process:T41 Participant:T13
+E7	Process:T42 Participant:T13
+E8	Process:T43 Participant:T13
+E9	Process:T44 Participant:T18
+E10	Process:T45 Participant:T20
+E11	Process:T46 Participant:T23
+E12	Process:T47 Participant:T24
+E13	Positive_regulation:T48 Theme:E15 Cause:E12
+E14	Positive_regulation:T48 Theme:E16 Cause:E12
+E15	Gene_expression:T49 Theme:T27
+E16	Gene_expression:T49 Theme:T28
+E17	Regulation:T50 Theme:E18 Cause:T29
+E18	Process:T51 Participant:T32

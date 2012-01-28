@@ -1,0 +1,25 @@
+*	Equiv T4 T3
+*	Equiv T6 T5
+T35	Regulation 248 257	regulated
+T36	Negative_regulation 282 291	repressed
+T37	Negative_regulation 378 387	regulated
+T38	Localization 556 563	located
+T39	Entity 635 655	713 genes downstream
+T40	Regulation 946 954	input on
+T41	Gene_expression 960 970	expression
+T42	Binding 989 996	binding
+T43	Regulation 1300 1310	regulatory
+T44	Gene_expression 1333 1343	expression
+T45	Gene_expression 1438 1447	expressed
+T46	Negative_regulation 1588 1595	reduced
+E1	Regulation:T35 Theme:T6
+E2	Negative_regulation:T36 Theme:T6
+E3	Negative_regulation:T37 Theme:T6
+E4	Localization:T38 Theme:T11 AtLoc:T39
+E5	Regulation:T40 Theme:E6 Cause:T16
+E6	Gene_expression:T41 Theme:T17
+E7	Binding:T42 Theme:T18
+E8	Regulation:T43 Theme:E9 Cause:T22
+E9	Gene_expression:T44 Theme:T23
+E10	Gene_expression:T45 Theme:T26
+E11	Negative_regulation:T46 Theme:T29

@@ -1,0 +1,4 @@
+T12	Catalysis 839 853	ubiquitination
+T13	Ubiquitination 839 853	ubiquitination
+E1	Ubiquitination:T13 Theme:T11
+E2	Catalysis:T12 Theme:E1 Cause:T10

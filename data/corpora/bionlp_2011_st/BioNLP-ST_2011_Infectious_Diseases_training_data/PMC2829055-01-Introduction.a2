@@ -1,0 +1,14 @@
+*	Equiv T16 T15
+T54	Process 623 632	infection
+T55	Process 697 706	virulence
+T56	Process 1028 1037	infection
+T57	Process 1671 1679	infected
+T58	Regulation 2475 2485	determined
+E1	Process:T54 
+E2	Process:T55 
+E3	Process:T56 
+E4	Process:T57 
+E5	Regulation:T58 Theme:T33 Cause:T34
+E6	Regulation:T58 Theme:T33 Cause:T35
+E7	Regulation:T58 Theme:T33 Cause:T36
+E8	Regulation:T58 Theme:T33 Cause:T37

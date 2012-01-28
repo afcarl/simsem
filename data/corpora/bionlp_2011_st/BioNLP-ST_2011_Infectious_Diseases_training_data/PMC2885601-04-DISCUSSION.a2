@@ -1,0 +1,9 @@
+T86	Gene_expression 2126 2134	produced
+T87	Regulation 2186 2196	controlled
+T88	Regulation 2470 2479	regulated
+E1	Gene_expression:T86 Theme:T63
+M1	Negation E1
+E2	Gene_expression:T86 Theme:T65
+E3	Regulation:T87 Theme:T66 Cause:T67
+E4	Regulation:T88 Theme:T71
+E5	Regulation:T88 Theme:T72

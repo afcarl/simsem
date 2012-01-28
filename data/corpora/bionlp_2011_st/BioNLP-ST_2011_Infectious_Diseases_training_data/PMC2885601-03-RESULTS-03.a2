@@ -1,0 +1,4 @@
+T68	Gene_expression 648 657	expressed
+E1	Gene_expression:T68 Theme:T16
+E2	Gene_expression:T68 Theme:T17
+E3	Gene_expression:T68 Theme:T18

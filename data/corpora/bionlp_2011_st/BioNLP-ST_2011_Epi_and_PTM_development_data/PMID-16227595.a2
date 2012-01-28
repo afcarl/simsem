@@ -1,0 +1,11 @@
+T15	Methylation 0 13	Dimethylation
+T16	Entity 31 40	lysine 36
+T17	Entity 138 147	lysine 36
+T18	Methylation 148 161	dimethylation
+T19	Catalysis 148 161	dimethylation
+T20	Methylation 490 502	dimethylated
+T21	Entity 508 511	K36
+E1	Methylation:T15 Theme:T1 Site:T16
+E2	Methylation:T18 Theme:T3 Site:T17
+E3	Catalysis:T19 Theme:E2 Cause:T2
+E4	Methylation:T20 Theme:T5 Site:T21

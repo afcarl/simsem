@@ -1,0 +1,12 @@
+T10	Glycosylation 0 13	Glycosylation
+T11	Glycosylation 51 64	glycosylation
+T12	Entity 256 274	glycosylation site
+T13	Glycosylation 325 334	abundance
+T14	Entity 338 350	oligomannose
+T15	Entity 355 374	hybrid type glycans
+T16	Entity 396 414	glycosylation site
+E1	Glycosylation:T10 Theme:T1
+E2	Glycosylation:T10 Theme:T2
+E3	Glycosylation:T11 Theme:T4
+E4	Glycosylation:T13 Theme:T6 Site:T16 Sidechain:T14
+E5	Glycosylation:T13 Theme:T6 Site:T16 Sidechain:T15

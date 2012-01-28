@@ -1,0 +1,22 @@
+*	Equiv T22 T21
+T41	Gene_expression 326 336	expression
+T42	Regulation 348 359	coordinated
+T43	Binding 474 481	binding
+T44	Regulation 547 557	regulation
+T45	Localization 1406 1418	translocated
+T46	Regulation 1457 1466	regulated
+T47	Localization 1534 1546	translocated
+T48	Entity 1575 1585	host cells
+T49	Regulation 1749 1759	chaperones
+T50	Localization 1780 1793	translocation
+E1	Gene_expression:T41 Theme:T7
+E2	Regulation:T42 Theme:E4 Cause:T8
+E3	Binding:T43 Theme:T11
+E4	Regulation:T44 Theme:T14 Cause:T13
+E5	Regulation:T44 Theme:T15 Cause:T13
+E6	Localization:T45 Theme:T23
+E7	Regulation:T46 Theme:T24 Cause:T25
+E8	Localization:T47 Theme:T24 ToLoc:T48
+E9	Regulation:T49 Theme:E10 Cause:T31
+E10	Localization:T50 Theme:T32
+M1	Speculation E10

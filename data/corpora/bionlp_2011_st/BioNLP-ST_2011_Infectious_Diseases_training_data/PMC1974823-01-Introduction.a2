@@ -1,0 +1,59 @@
+T57	Process 362 371	infection
+T58	Regulation 847 857	regulation
+T59	Gene_expression 866 876	expression
+T60	Gene_expression 1401 1411	expression
+T61	Regulation 1416 1425	modulated
+T62	Gene_expression 1697 1707	expression
+T63	Negative_regulation 1737 1744	reduced
+T64	Regulation 1819 1829	regulation
+T65	Binding 1875 1879	bind
+T66	Entity 1901 1909	promoter
+T67	Binding 1922 1927	binds
+T68	Entity 1935 1943	promoter
+T69	Regulation 2061 2070	regulates
+T70	Gene_expression 2071 2081	expression
+T71	Gene_expression 2731 2741	expression
+T72	Regulation 2753 2762	fluctuate
+T73	Gene_expression 2848 2858	expression
+T74	Negative_regulation 2880 2889	inhibited
+T75	Gene_expression 3002 3012	expression
+T76	Negative_regulation 3024 3033	repressed
+T77	Regulation 3212 3233	regulatory mechanisms
+T78	Gene_expression 3242 3252	expression
+T79	Gene_expression 3330 3340	expression
+T80	Regulation 3380 3389	dependent
+T81	Gene_expression 3395 3405	expression
+T82	Regulation 3412 3421	regulates
+T83	Gene_expression 3427 3437	expression
+T84	Binding 3450 3457	binding
+T85	Entity 3465 3473	promoter
+E1	Process:T57 Participant:T2
+E2	Regulation:T58 Theme:E3 Cause:T6
+E3	Gene_expression:T59 Theme:T7
+E4	Gene_expression:T60 Theme:T14
+E5	Regulation:T61 Theme:E4
+E6	Gene_expression:T62 Theme:T21
+E7	Negative_regulation:T63 Theme:E6
+E8	Regulation:T64 Theme:T24 Cause:T25
+E9	Binding:T65 Theme1:T26 Theme2:T27 Site2:T66
+M1	Negation E9
+E10	Binding:T67 Theme1:T26 Theme2:T28 Site2:T68
+E11	Regulation:T69 Theme:E12 Cause:T30
+E12	Gene_expression:T70 Theme:T33
+E13	Gene_expression:T71 Theme:T41
+E14	Regulation:T72 Theme:E13
+E15	Gene_expression:T73 Theme:T42
+E16	Gene_expression:T73 Theme:T43
+E17	Negative_regulation:T74 Theme:E15
+E18	Negative_regulation:T74 Theme:E16
+E19	Gene_expression:T75 Theme:T45
+E20	Negative_regulation:T76 Theme:E19
+E21	Regulation:T77 Theme:E22
+M2	Speculation E21
+E22	Gene_expression:T78 Theme:T49
+E23	Gene_expression:T79 Theme:T51
+E24	Regulation:T80 Theme:E25 Cause:T52
+E25	Gene_expression:T81 Theme:T53
+E26	Regulation:T82 Theme:E27 Cause:E28
+E27	Gene_expression:T83 Theme:T55
+E28	Binding:T84 Theme1:T54 Theme2:T56 Site2:T85

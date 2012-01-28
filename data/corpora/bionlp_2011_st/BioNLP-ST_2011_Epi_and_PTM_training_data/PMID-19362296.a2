@@ -1,0 +1,14 @@
+*	Equiv T3 T4
+*	Equiv T8 T9
+T19	Catalysis 17 31	ubiquitination
+T20	Ubiquitination 17 31	ubiquitination
+T21	Catalysis 432 445	ubiquitinated
+T22	Ubiquitination 432 445	ubiquitinated
+T23	Catalysis 788 802	ubiquitination
+T24	Ubiquitination 788 802	ubiquitination
+E1	Ubiquitination:T20 Theme:T2
+E2	Catalysis:T19 Theme:E1 Cause:T1
+E3	Ubiquitination:T22 Theme:T7
+E4	Catalysis:T21 Theme:E3 Cause:T9
+E5	Ubiquitination:T24 Theme:T15
+E6	Catalysis:T23 Theme:E5 Cause:T14

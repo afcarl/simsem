@@ -1,0 +1,5 @@
+*	Equiv T4 T5
+T18	Catalysis 35 49	ubiquitination
+T19	Ubiquitination 35 49	ubiquitination
+E1	Ubiquitination:T19 Theme:T3
+E2	Catalysis:T18 Theme:E1 Cause:T2

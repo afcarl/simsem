@@ -1,0 +1,24 @@
+T27	Deubiquitination 69 85	deubiquitination
+T28	Catalysis 69 85	deubiquitination
+T29	Deubiquitination 918 934	deubiquitination
+T30	Catalysis 918 934	deubiquitination
+T31	Deubiquitination 1088 1104	deubiquitinating
+T32	Catalysis 1088 1104	deubiquitinating
+E1	Deubiquitination:T27 Theme:T3
+E2	Catalysis:T28 Theme:E1 Cause:T1
+E3	Catalysis:T28 Theme:E1 Cause:T2
+E4	Deubiquitination:T27 Theme:T4
+E5	Catalysis:T28 Theme:E4 Cause:T1
+E6	Catalysis:T28 Theme:E4 Cause:T2
+E7	Deubiquitination:T29 Theme:T22
+E8	Catalysis:T30 Theme:E7 Cause:T19
+E9	Catalysis:T30 Theme:E7 Cause:T20
+E10	Deubiquitination:T29 Theme:T21
+E11	Catalysis:T30 Theme:E10 Cause:T19
+E12	Catalysis:T30 Theme:E10 Cause:T20
+E13	Deubiquitination:T31 Theme:T25
+E14	Deubiquitination:T31 Theme:T26
+E15	Catalysis:T32 Theme:E13 Cause:T23
+E16	Catalysis:T32 Theme:E13 Cause:T24
+E17	Catalysis:T32 Theme:E14 Cause:T23
+E18	Catalysis:T32 Theme:E14 Cause:T24

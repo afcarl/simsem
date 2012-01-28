@@ -1,0 +1,12 @@
+*	Equiv T8 T9
+T15	Methylation 672 682	methylated
+T16	Entity 683 691	lysine 4
+T17	Entity 708 710	K4
+T18	Catalysis 881 899	monoubiquitination
+T19	Ubiquitination 881 899	monoubiquitination
+T20	Entity 938 940	K4
+T21	Methylation 941 952	methylation
+E1	Methylation:T15 Theme:T9 Site:T17
+E2	Ubiquitination:T19 Theme:T12
+E3	Catalysis:T18 Theme:E2 Cause:T11
+E4	Methylation:T21 Theme:T13 Site:T20

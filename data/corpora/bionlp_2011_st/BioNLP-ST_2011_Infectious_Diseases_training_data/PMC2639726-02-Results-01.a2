@@ -1,0 +1,72 @@
+T93	Process 59 68	infection
+T94	Process 249 258	infection
+T95	Process 400 409	virulence
+T96	Process 1033 1041	infected
+T97	Process 1225 1233	infected
+T98	Regulation 1351 1361	regulators
+T99	Process 1565 1574	virulence
+T100	Process 1920 1929	virulence
+T101	Process 2033 2042	infection
+T102	Process 2108 2117	infection
+T103	Process 2164 2173	avirulent
+T104	Process 2249 2258	infection
+T105	Process 2379 2388	virulence
+T106	Process 2403 2412	virulence
+T107	Process 2456 2465	virulence
+T108	Process 2496 2505	infection
+T109	Process 2779 2789	resistance
+T110	Process 2861 2870	infection
+T111	Process 2899 2907	infected
+T112	Process 4028 4037	infection
+T113	Transcription 4050 4063	transcription
+T114	Process 4286 4297	attenuation
+T115	Process 4346 4355	infection
+T116	Process 4432 4441	infection
+T117	Process 4554 4563	virulence
+E1	Process:T93 Participant:T1
+E2	Process:T94 Participant:T3
+E3	Process:T95 
+E4	Process:T96 
+E5	Process:T97 
+E6	Regulation:T98 Theme:T26
+E7	Regulation:T98 Theme:T29
+E8	Regulation:T98 Theme:T30
+E9	Regulation:T98 Theme:T31
+E10	Regulation:T98 Theme:T32
+E11	Regulation:T98 Theme:T33
+E12	Regulation:T98 Theme:T34
+E13	Regulation:T98 Theme:T35
+E14	Regulation:T98 Theme:T36
+E15	Regulation:T98 Theme:T39
+E16	Regulation:T98 Theme:T20
+E17	Regulation:T98 Theme:T21
+E18	Regulation:T98 Theme:T22
+E19	Regulation:T98 Theme:T23
+E20	Process:T99 
+E21	Process:T100 Participant:T41
+E22	Process:T101 
+E23	Process:T102 
+E24	Process:T103 
+M1	Negation E24
+E25	Process:T104 
+E26	Process:T105 
+E27	Process:T106 
+E28	Process:T107 
+E29	Process:T108 
+E30	Process:T109 
+E31	Process:T110 Participant:T49
+E32	Process:T111 
+E33	Process:T112 
+E34	Transcription:T113 Theme:T77
+E35	Transcription:T113 Theme:T79
+E36	Transcription:T113 Theme:T80
+E37	Transcription:T113 Theme:T84
+E38	Transcription:T113 Theme:T85
+E39	Transcription:T113 Theme:T86
+E40	Transcription:T113 Theme:T87
+E41	Transcription:T113 Theme:T82
+E42	Transcription:T113 Theme:T83
+E43	Process:T114 
+E44	Process:T115 
+E45	Process:T116 
+E46	Process:T117 

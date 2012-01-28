@@ -1,0 +1,4 @@
+T19	Catalysis 400 418	polyubiquitination
+T20	Ubiquitination 400 418	polyubiquitination
+E1	Ubiquitination:T20 Theme:T6
+E2	Catalysis:T19 Theme:E1 Cause:T3

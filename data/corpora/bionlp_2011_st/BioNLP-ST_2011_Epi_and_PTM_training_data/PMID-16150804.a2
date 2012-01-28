@@ -1,0 +1,4 @@
+T16	Entity 989 1017	glycosylphosphatidylinositol
+T17	Entity 1019 1022	GPI
+T18	Glycosylation 1024 1030	linked
+E1	Glycosylation:T18 Theme:T12 Sidechain:T17

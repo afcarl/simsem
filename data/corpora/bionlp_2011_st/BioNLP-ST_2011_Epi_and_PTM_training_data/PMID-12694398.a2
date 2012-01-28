@@ -1,0 +1,10 @@
+*	Equiv T4 T5
+*	Equiv T7 T8
+*	Equiv T9 T10
+T23	Glycosylation 1083 1097	N-glycosylated
+T24	Entity 1098 1101	GPI
+T25	Glycosylation 1102 1110	anchored
+E1	Glycosylation:T23 Theme:T17
+E2	Glycosylation:T23 Theme:T18
+E3	Glycosylation:T25 Theme:T17 Sidechain:T24
+E4	Glycosylation:T25 Theme:T18 Sidechain:T24

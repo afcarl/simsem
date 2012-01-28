@@ -1,0 +1,16 @@
+T9	Glycosylation 31 44	glycosylation
+T10	Entity 428 451	carboxy-terminal region
+T11	Glycosylation 521 534	glycosylation
+T12	Glycosylation 583 596	glycosylation
+T13	Glycosylation 875 888	glycosylation
+T14	Glycosylation 1089 1102	glycosylation
+T15	Glycosylation 1126 1139	glycosylation
+T16	Glycosylation 1288 1301	glycosylation
+E1	Glycosylation:T9 Theme:T1
+E2	Glycosylation:T11 Theme:T3 Site:T10
+E3	Glycosylation:T12 Theme:T4
+M1	Speculation E3
+E4	Glycosylation:T13 Theme:T6
+E5	Glycosylation:T14 Theme:T7
+E6	Glycosylation:T15 Theme:T8
+E7	Glycosylation:T16 Theme:T8

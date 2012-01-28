@@ -1,0 +1,6 @@
+T20	Catalysis 519 533	ubiquitination
+T21	Ubiquitination 519 533	ubiquitination
+T22	Acetylation 582 593	acetylation
+E1	Ubiquitination:T21 Theme:T9
+E2	Catalysis:T20 Theme:E1 Cause:T8
+E3	Acetylation:T22 Theme:T11
