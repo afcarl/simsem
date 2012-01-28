@@ -1,0 +1,20 @@
+T1	protein 37 84	human lymphoid-specific octamer-binding protein
+T2	protein 87 92	OTF-2
+T3	DNA 130 153	immunoglobulin promoter
+T4	DNA 237 253	upstream element
+T5	DNA 270 279	promoters
+T6	DNA 301 325	modular enhancer element
+T7	DNA 360 380	immunoglobulin genes
+T8	DNA 406 422	upstream regions
+T9	DNA 430 461	heavy and light chain promoters
+T10	DNA 473 493	heavy chain enhancer
+T11	protein 616 671	ubiquitous and B cell-specific octamer-binding proteins
+T12	protein 678 691	B cell factor
+T13	protein 960 982	B cell-specific factor
+T14	protein 1022 1057	affinity-purified ubiquitous factor
+T15	protein 1065 1103	B cell-specific octamer-binding factor
+T16	DNA 1152 1178	kappa light chain promoter
+T17	protein 1229 1265	B cell-specific transcription factor
+T18	protein 1301 1355	ubiquitous and B cell-specific octamer-binding factors
+T19	cell_type 1418 1424	B cell
+T20	DNA 1460 1474	kappa promoter

@@ -1,0 +1,38 @@
+T1	DNA 34 59	ferritin heavy-chain gene
+T2	protein 82 107	CCAAT binding factor NF-Y
+T3	cell_line 124 158	heme-treated Friend leukemia cells
+T4	DNA 215 245	ferritin H-chain gene promoter
+T5	cell_line 273 307	heme-treated Friend leukemia cells
+T6	cell_line 310 314	FLCs
+T7	cell_line 388 398	cell lines
+T8	protein 427 435	ferritin
+T9	cell_type 508 539	differentiating erythroid cells
+T10	protein 596 606	hemoglobin
+T11	cell_type 626 637	macrophages
+T12	DNA 784 808	ferritin H-gene promoter
+T13	cell_line 870 874	FLCs
+T14	DNA 880 893	reporter gene
+T15	DNA 897 920	77 nucleotides upstream
+T16	DNA 928 936	TATA box
+T17	DNA 944 955	cis element
+T18	protein 995 998	HRF
+T19	protein 1001 1023	heme-responsive factor
+T20	cell_line 1075 1079	FLCs
+T21	DNA 1136 1149	CCAAT element
+T22	DNA 1212 1233	ferritin H-chain gene
+T23	protein 1347 1350	HRF
+T24	cell_line 1387 1404	transfected cells
+T25	protein 1484 1487	HRF
+T26	protein 1526 1546	transcription factor
+T27	protein 1547 1551	NF-Y
+T28	protein 1554 1558	NF-Y
+T29	protein 1578 1586	subunits
+T30	protein 1589 1590	A
+T31	protein 1593 1594	B
+T32	protein 1601 1602	C
+T33	protein 1672 1701	transdominant negative mutant
+T34	protein 1709 1722	NF-YA subunit
+T35	protein 1767 1771	heme
+T36	protein 1790 1794	NF-Y
+T37	protein 1895 1908	NF-YA subunit
+T38	cell_line 1937 1941	FLCs

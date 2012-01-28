@@ -1,0 +1,47 @@
+T1	protein 15 20	Stat3
+T2	protein 24 37	interleukin-6
+T3	protein 47 50	IgM
+T4	cell_line 67 84	human B-cell line
+T5	protein 87 100	Interleukin-6
+T6	protein 103 107	IL-6
+T7	protein 126 166	B-cell growth and differentiation factor
+T8	protein 169 173	IL-6
+T9	cell_line 191 221	human lymphoblastoid cell line
+T10	cell_line 224 230	SKW6.4
+T11	protein 252 255	IgM
+T12	protein 299 303	IL-6
+T13	protein 326 330	JAK1
+T14	protein 335 339	JAK2
+T15	cell_line 343 361	human B cell lines
+T16	protein 375 388	IL-6 receptor
+T17	protein 408 426	intracellular tail
+T18	protein 434 455	IL-6 receptor subunit
+T19	protein 456 461	gp130
+T20	protein 475 495	extracellular domain
+T21	protein 503 543	epidermal growth factor ( EGF ) receptor
+T22	cell_line 574 586	SKW6.4 cells
+T23	protein 611 614	IgM
+T24	protein 662 684	gp130 cytoplasmic tail
+T25	cell_line 698 717	untransfected cells
+T26	protein 746 762	cytoplasmic tail
+T27	protein 780 853	signal transducers and activators of transcription ( Stat ) binding sites
+T28	protein 889 894	Stat3
+T29	protein 948 975	chimeric EGF-gp130 receptor
+T30	DNA 1024 1065	classical interferon-gamma-activated site
+T31	protein 1107 1112	Stat3
+T32	protein 1137 1140	IgM
+T33	protein 1262 1276	immunoglobulin
+T34	DNA 1301 1336	immunoglobulin heavy chain enhancer
+T35	DNA 1339 1351	IgH-enhancer
+T36	cell_line 1388 1400	SKW6.4 cells
+T37	DNA 1438 1471	IgH-enhancer-luciferase construct
+T38	DNA 1510 1534	IgH-luciferase construct
+T39	protein 1568 1597	full-length chimeric receptor
+T40	protein 1609 1634	truncated gp130 receptors
+T41	protein 1652 1657	gp130
+T42	DNA 1684 1697	reporter gene
+T43	protein 1715 1722	Stat3EE
+T44	protein 1734 1739	Stat3
+T45	protein 1795 1799	IL-6
+T46	protein 1849 1852	IgM
+T47	protein 1887 1901	Stat3 proteins

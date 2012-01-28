@@ -1,0 +1,18 @@
+T1	protein 73 105	mitogen-activated protein kinase
+T2	protein 115 118	MEK
+T3	protein 195 227	mitogen-activated protein kinase
+T4	protein 230 234	MAPK
+T5	cell_line 359 397	human myeloblastic leukemia ML-1 cells
+T6	protein 437 441	ERK1
+T7	protein 446 450	ERK2
+T8	protein 520 524	ERK2
+T9	protein 576 580	JNK1
+T10	protein 619 623	JNK1
+T11	protein 744 776	mitogen-activated protein kinase
+T12	protein 786 789	MEK
+T13	protein 816 820	ERK2
+T14	cell_line 908 918	ML-1 cells
+T15	protein 1047 1055	esterase
+T16	protein 1088 1101	NADPH oxidase
+T17	RNA 1145 1155	c-jun mRNA
+T18	protein 1206 1209	MEK

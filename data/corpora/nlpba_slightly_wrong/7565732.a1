@@ -1,0 +1,31 @@
+T1	DNA 34 52	interleukin-2 gene
+T2	protein 90 108	NFATp/AP-1 complex
+T3	protein 124 148	nuclear hormone receptor
+T4	cell_line 493 505	Jurkat cells
+T5	protein 603 607	IL-2
+T6	protein 626 645	vitamin D3 receptor
+T7	protein 648 651	VDR
+T8	protein 722 726	IL-2
+T9	cell_line 756 768	Jurkat cells
+T10	DNA 774 807	IL-2 promoter/reporter constructs
+T11	DNA 814 839	VDR overexpression vector
+T12	DNA 1000 1012	40-bp region
+T13	DNA 1039 1066	positive regulatory element
+T14	DNA 1069 1076	NF-AT-1
+T15	protein 1099 1135	T-cell-specific transcription factor
+T16	protein 1138 1143	NFATp
+T17	protein 1160 1164	AP-1
+T18	protein 1167 1190	VDR DNA-binding mutants
+T19	protein 1268 1290	VDR DNA-binding domain
+T20	protein 1354 1358	IL-2
+T21	protein 1415 1418	VDR
+T22	protein 1462 1466	IL-2
+T23	protein 1493 1520	partially purified proteins
+T24	protein 1566 1588	NFATp/AP-1-DNA complex
+T25	protein 1607 1610	VDR
+T26	protein 1614 1637	VDR-retinoid X receptor
+T27	protein 1701 1736	VDR-retinoid X receptor heterodimer
+T28	protein 1744 1762	NFATp/AP-1 complex
+T29	DNA 1809 1824	NF-AT-1 element
+T30	protein 1883 1909	transcriptional activators
+T31	DNA 1917 1926	IL-2 gene

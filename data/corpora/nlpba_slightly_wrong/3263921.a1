@@ -1,0 +1,24 @@
+T1	protein 14 27	interleukin 2
+T2	cell_line 54 75	cloned murine T cells
+T3	protein 124 142	inhibitory protein
+T4	protein 187 200	interleukin 2
+T5	protein 203 207	IL 2
+T6	cell_type 219 225	T cell
+T7	cell_line 247 278	cytotoxic T cell ( CTL ) clones
+T8	cell_line 384 406	IL 2-depleted cultures
+T9	cell_line 410 413	CTL
+T10	protein 453 460	hormone
+T11	protein 486 490	IL 2
+T12	protein 552 556	IL 2
+T13	protein 614 628	IL 2 receptors
+T14	protein 808 831	glucocorticoid receptor
+T15	protein 854 862	hormones
+T16	protein 901 919	inhibitory protein
+T17	cell_line 1080 1083	CTL
+T18	cell_line 1166 1176	CTL clones
+T19	protein 1188 1192	IL 2
+T20	protein 1207 1211	IL 2
+T21	protein 1226 1239	IL 2 receptor
+T22	protein 1378 1386	hormones
+T23	cell_type 1403 1409	T cell
+T24	protein 1438 1442	IL 2

@@ -1,0 +1,19 @@
+T1	protein 0 22	c-Rel and p65 subunits
+T2	DNA 34 57	upstream NF-kappaB site
+T3	DNA 61 124	human granulocyte macrophage-colony stimulating factor promoter
+T4	cell_line 163 173	5637 cells
+T5	DNA 241 258	human GM-CSF gene
+T6	cell_type 299 316	activated T cells
+T7	DNA 359 378	NF-kappaB like site
+T8	cell_line 386 413	5637 non-lymphoid cell line
+T9	protein 483 489	GM-CSF
+T10	protein 552 558	GM-CSF
+T11	DNA 598 616	tumor promoter PMA
+T12	protein 676 705	heterodimeric binding complex
+T13	protein 709 727	NF-kappaB subunits
+T14	protein 730 735	c-Rel
+T15	protein 740 743	p65
+T16	DNA 795 814	HIV-LTR-kappaB site
+T17	protein 868 873	c-Rel
+T18	protein 878 881	p50
+T19	cell_line 920 956	Mo T-lymphoid HTLV-II infected cells

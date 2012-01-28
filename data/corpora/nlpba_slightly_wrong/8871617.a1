@@ -1,0 +1,46 @@
+T1	protein 0 5	IL-12
+T2	cell_type 29 43	NK and T cells
+T3	DNA 69 100	immediate-early activation gene
+T4	cell_type 131 142	lymphocytes
+T5	protein 146 150	IL-2
+T6	protein 155 160	IL-12
+T7	protein 211 219	cytokine
+T8	protein 336 341	genes
+T9	RNA 414 426	mRNA species
+T10	cell_type 440 479	IL-2 -but not IL-12-stimulated NK cells
+T11	RNA 509 513	mRNA
+T12	protein 527 547	transcription factor
+T13	protein 548 553	egr-1
+T14	cell_type 597 611	T and NK cells
+T15	protein 617 621	IL-2
+T16	protein 632 637	IL-12
+T17	protein 686 707	mRNA-encoding members
+T18	protein 715 747	AP-1 transcription factor family
+T19	DNA 766 771	c-fos
+T20	DNA 776 780	junB
+T21	cell_type 820 834	NK and T cells
+T22	protein 840 844	IL-2
+T23	protein 855 860	IL-12
+T24	DNA 885 890	c-jun
+T25	DNA 895 899	junD
+T26	protein 926 934	cytokine
+T27	protein 961 965	AP-1
+T28	protein 991 995	AP-1
+T29	cell_line 1061 1082	IL-2-stimulated cells
+T30	protein 1115 1120	genes
+T31	protein 1142 1150	cytokine
+T32	protein 1197 1201	IL-2
+T33	protein 1206 1211	IL-12
+T34	RNA 1219 1229	c-myc mRNA
+T35	cell_type 1246 1260	NK and T cells
+T36	protein 1276 1280	IL-2
+T37	DNA 1289 1294	bcl-2
+T38	protein 1354 1359	IL-12
+T39	cell_type 1384 1398	T and NK cells
+T40	DNA 1445 1484	immediate-early activation genes family
+T41	DNA 1487 1492	egr-1
+T42	DNA 1495 1500	c-fos
+T43	DNA 1507 1511	junB
+T44	protein 1516 1520	AP-1
+T45	DNA 1551 1556	bcl-2
+T46	cell_line 1625 1657	IL-2- and IL-12-stimulated cells

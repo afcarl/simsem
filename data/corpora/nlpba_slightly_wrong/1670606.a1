@@ -1,0 +1,34 @@
+T1	cell_line 14 37	human CD4 T lymphocytes
+T2	protein 55 66	fibronectin
+T3	protein 72 86	VLA-5 receptor
+T4	cell_line 90 99	CD4 cells
+T5	protein 112 137	AP-1 transcription factor
+T6	protein 140 151	Fibronectin
+T7	protein 168 185	anti-CD3 antibody
+T8	protein 197 200	CD4
+T9	cell_line 294 303	CD4 cells
+T10	protein 323 331	anti-CD3
+T11	protein 341 352	fibronectin
+T12	protein 375 384	anti-CD29
+T13	protein 387 402	integrin beta 1
+T14	protein 416 426	anti-VLA-5
+T15	protein 429 455	human fibronectin receptor
+T16	cell_line 482 490	CD4 cell
+T17	protein 528 536	anti-CD3
+T18	protein 546 557	fibronectin
+T19	protein 579 583	IL-2
+T20	cell_line 595 604	CD4 cells
+T21	protein 626 634	anti-CD3
+T22	protein 640 651	fibronectin
+T23	protein 660 664	IL-2
+T24	cell_line 676 685	CD4 cells
+T25	protein 739 743	IL-2
+T26	protein 785 796	fibronectin
+T27	protein 804 824	fibronectin receptor
+T28	protein 892 895	CD3
+T29	protein 941 968	AP-1 transcriptional factor
+T30	protein 980 1006	VLA-5 fibronectin receptor
+T31	cell_line 1010 1019	CD4 cells
+T32	protein 1053 1056	CD3
+T33	protein 1059 1062	TCR
+T34	protein 1122 1133	fibronectin

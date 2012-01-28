@@ -1,0 +1,37 @@
+T1	protein 0 24	Core-binding factor beta
+T2	protein 27 34	CBFbeta
+T3	protein 47 87	CBFbeta-smooth muscle myosin heavy chain
+T4	protein 126 133	CBFbeta
+T5	cell_type 145 165	embryonic stem cells
+T6	protein 168 192	Core-binding factor beta
+T7	protein 195 202	CBFbeta
+T8	protein 212 235	non-DNA-binding subunit
+T9	protein 243 261	heterodimeric CBFs
+T10	DNA 264 286	Genes encoding CBFbeta
+T11	DNA 289 293	CBFB
+T12	protein 313 350	DNA-binding CBFalpha subunits , Runx1
+T13	protein 367 376	CBFalpha2
+T14	protein 379 383	AML1
+T15	protein 390 401	PEBP2alphaB
+T16	DNA 571 589	Runx1 or Cbfb gene
+T17	cell_type 799 826	embryonic stem ( ES ) cells
+T18	cell_type 850 878	primitive erythroid colonies
+T19	cell_type 946 976	erythroid and myeloid colonies
+T20	DNA 1072 1099	full-length Cbfb transgenes
+T21	protein 1146 1171	heterodimerization domain
+T22	protein 1175 1182	CBFbeta
+T23	protein 1203 1210	CBFbeta
+T24	protein 1213 1270	smooth muscle myosin heavy chain ( SMMHC ) fusion protein
+T25	protein 1288 1298	inv ( 16 )
+T26	cell_line 1315 1338	acute myeloid leukemias
+T27	cell_line 1341 1345	M4Eo
+T28	cell_type 1391 1414	Cbfb-deficient ES cells
+T29	protein 1460 1467	CBFbeta
+T30	protein 1524 1537	SMMHC portion
+T31	protein 1545 1559	fusion protein
+T32	protein 1589 1617	CBFbeta-SMMHC fusion protein
+T33	protein 1719 1724	Runx1
+T34	protein 1728 1732	Cbfb
+T35	protein 1735 1748	CBFbeta-SMMHC
+T36	cell_type 1796 1817	myeloid lineage cells
+T37	cell_type 1851 1866	blastlike cells

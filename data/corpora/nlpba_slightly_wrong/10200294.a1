@@ -1,0 +1,34 @@
+T1	protein 8 55	lipopolysaccharide-induced transcription factor
+T2	protein 67 94	tumor necrosis factor alpha
+T3	cell_type 247 256	monocytes
+T4	cell_type 261 272	macrophages
+T5	protein 296 323	tumor necrosis factor alpha
+T6	protein 326 335	TNF-alpha
+T7	protein 418 427	TNF-alpha
+T8	protein 458 467	TNF-alpha
+T9	protein 530 544	nuclear factor
+T10	protein 564 573	TNF-alpha
+T11	protein 630 639	NF-kappaB
+T12	protein 742 760	DNA-binding domain
+T13	DNA 794 818	human TNF-alpha promoter
+T14	protein 880 889	NF-kappaB
+T15	DNA 890 904	-binding sites
+T16	protein 962 976	60-kDa protein
+T17	protein 1019 1042	amino-terminal sequence
+T18	DNA 1070 1087	degenerate probes
+T19	cell_line 1118 1129	THP-1 cells
+T20	DNA 1140 1150	cDNA clone
+T21	DNA 1222 1232	cDNA clone
+T22	cell_line 1296 1307	THP-1 cells
+T23	protein 1327 1355	LPS-induced TNF-alpha factor
+T24	protein 1358 1363	LITAF
+T25	RNA 1382 1392	LITAF mRNA
+T26	cell_line 1407 1418	THP-1 cells
+T27	protein 1446 1455	TNF-alpha
+T28	RNA 1512 1522	LITAF mRNA
+T29	cell_type 1568 1595	peripheral blood leukocytes
+T30	protein 1719 1724	LITAF
+T31	DNA 1735 1759	chromosome 16p12-16p13.3
+T32	protein 1801 1806	LITAF
+T33	DNA 1856 1876	human TNF-alpha gene
+T34	protein 1917 1926	TNF-alpha

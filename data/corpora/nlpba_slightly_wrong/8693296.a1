@@ -1,0 +1,20 @@
+T1	protein 37 68	NF-kappa B transcription factor
+T2	cell_type 85 118	neonatal than adult T lymphocytes
+T3	protein 243 274	NF-kappa B transcription factor
+T4	DNA 337 342	genes
+T5	protein 435 445	NF-kappa B
+T6	cell_type 449 483	human umbilical cord T lymphocytes
+T7	protein 530 546	nuclear proteins
+T8	DNA 592 626	consensus kappa B binding sequence
+T9	protein 825 835	NF-kappa B
+T10	cell_type 839 866	neonatal than adult T cells
+T11	protein 881 891	NF-kappa B
+T12	cell_type 923 941	CD4+ T-cell subset
+T13	protein 982 992	antibodies
+T14	protein 1034 1044	NF-kappa B
+T15	protein 1049 1078	p50 and RelA ( p65 ) proteins
+T16	protein 1115 1125	NF-kappa B
+T17	cell_type 1141 1165	neonatal and adult cells
+T18	cell_type 1195 1211	neonatal T cells
+T19	protein 1317 1327	NF-kappa B
+T20	cell_type 1352 1365	adult T cells

@@ -1,0 +1,31 @@
+T1	protein 0 9	NF-kappaB
+T2	cell_type 67 80	T lymphocytes
+T3	protein 207 227	transcription factor
+T4	protein 228 237	NF-kappaB
+T5	protein 314 317	TNF
+T6	protein 336 345	NF-kappaB
+T7	protein 376 379	Fas
+T8	protein 382 387	APO-1
+T9	protein 390 394	CD95
+T10	cell_type 432 449	peripheral T cell
+T11	cell_line 474 486	Jurkat cells
+T12	protein 496 514	NF-kappaB subunits
+T13	protein 515 518	p50
+T14	protein 523 526	p65
+T15	protein 608 617	NF-kappaB
+T16	protein 686 695	NF-kappaB
+T17	protein 708 715	IkappaB
+T18	protein 807 816	NF-kappaB
+T19	cell_line 870 886	T cell hybridoma
+T20	protein 966 969	p50
+T21	protein 974 977	p65
+T22	protein 1092 1095	Fas
+T23	cell_type 1115 1130	primary T cells
+T24	cell_line 1158 1179	cycling T cell blasts
+T25	protein 1218 1243	dominant IkappaB molecule
+T26	protein 1336 1355	NF-kappaB complexes
+T27	protein 1396 1399	TNF
+T28	protein 1433 1442	NF-kappaB
+T29	protein 1450 1473	neutralizing antibodies
+T30	protein 1600 1609	NF-kappaB
+T31	protein 1627 1630	Fas

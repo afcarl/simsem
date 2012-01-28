@@ -1,0 +1,10 @@
+T1	protein 13 38	transcription factor AP-1
+T2	cell_type 63 74	lymphocytes
+T3	protein 528 546	Phytohemagglutinin
+T4	cell_type 558 569	lymphocytes
+T5	cell_type 683 694	lymphocytes
+T6	protein 829 833	AP-1
+T7	cell_type 858 873	NCL lymphocytes
+T8	cell_type 888 895	DS ones
+T9	cell_type 994 1005	fibroblasts
+T10	cell_type 1053 1064	lymphocytes

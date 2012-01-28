@@ -1,0 +1,26 @@
+T1	cell_type 55 77	erythroblastic progeny
+T2	cell_line 81 116	transduced hematopoietic stem cells
+T3	cell_type 336 381	genetically modified hematopoietic stem cells
+T4	DNA 429 456	constitutive viral enhancer
+T5	DNA 464 473	U3 region
+T6	DNA 481 488	3 ' LTR
+T7	DNA 507 530	autoregulatory enhancer
+T8	DNA 538 589	erythroid-specific GATA-1 transcription factor gene
+T9	DNA 596 613	replaced enhancer
+T10	DNA 635 642	5 ' LTR
+T11	DNA 669 687	target cell genome
+T12	cell_line 734 764	human hematopoietic cell lines
+T13	cell_type 767 818	cord blood-derived CD34 ( + ) stem/progenitor cells
+T14	cell_line 825 867	murine bone marrow repopulating stem cells
+T15	DNA 900 914	reporter genes
+T16	DNA 917 933	triangle upLNGFR
+T17	DNA 936 940	EGFP
+T18	cell_line 989 1010	transduced stem cells
+T19	DNA 1155 1185	GATA-1 autoregulatory enhancer
+T20	DNA 1230 1268	LTR-driven proviral transcription unit
+T21	cell_type 1276 1298	erythroblastic progeny
+T22	cell_type 1307 1324	human progenitors
+T23	cell_line 1329 1358	mouse-repopulating stem cells
+T24	DNA 1494 1497	LTR
+T25	DNA 1595 1615	retroviral transgene
+T26	cell_line 1641 1676	transduced hematopoietic stem cells

@@ -1,0 +1,18 @@
+T1	cell_line 37 41	HAEC
+T2	protein 42 48	VCAM-1
+T3	cell_type 132 162	human aortic endothelial cells
+T4	cell_line 165 169	HAEC
+T5	protein 301 322	nuclear factor-kappaB
+T6	protein 325 334	NF-kappaB
+T7	protein 411 420	NF-kappaB
+T8	protein 463 494	vascular cell adhesion molecule
+T9	protein 497 503	VCAM-1
+T10	cell_line 701 705	HAEC
+T11	protein 883 892	NF-kappaB
+T12	protein 909 915	VCAM-1
+T13	protein 1006 1012	VCAM-1
+T14	protein 1075 1084	NF-kappaB
+T15	protein 1125 1134	NF-kappaB
+T16	protein 1150 1156	VCAM-1
+T17	protein 1227 1236	NF-kappaB
+T18	protein 1275 1281	VCAM-1

@@ -1,0 +1,28 @@
+T1	protein 0 53	Peroxisome proliferator-activated receptor activators
+T2	cell_type 61 84	human endothelial cells
+T3	cell_type 96 105	leukocyte
+T4	cell_type 106 123	-endothelial cell
+T5	protein 298 316	adhesion molecules
+T6	cell_type 335 352	endothelial cells
+T7	cell_type 355 358	ECs
+T8	cell_type 387 397	leukocytes
+T9	protein 400 443	Peroxisome proliferator-activated receptors
+T10	protein 446 451	PPARs
+T11	protein 471 499	nuclear receptor superfamily
+T12	protein 503 524	transcription factors
+T13	cell_type 760 763	ECs
+T14	protein 991 1024	vascular cell adhesion molecule-1
+T15	protein 1027 1033	VCAM-1
+T16	cell_type 1085 1115	human aortic endothelial cells
+T17	cell_type 1118 1123	HAECs
+T18	protein 1366 1376	E-selectin
+T19	cell_line 1397 1406	HL60 cell
+T20	cell_type 1432 1437	HAECs
+T21	RNA 1544 1575	PPAR-alpha and PPAR-gamma mRNAs
+T22	cell_type 1593 1598	HAECs
+T23	protein 1662 1674	ribonuclease
+T24	protein 1753 1758	PPARs
+T25	protein 1887 1893	VCAM-1
+T26	cell_type 1898 1907	monocytes
+T27	protein 1957 1967	E-selectin
+T28	cell_type 1972 1982	neutrophil

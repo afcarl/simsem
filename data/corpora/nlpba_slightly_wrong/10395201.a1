@@ -1,0 +1,24 @@
+T1	cell_type 19 42	cytotoxic T lymphocytes
+T2	protein 114 127	Notch complex
+T3	cell_type 175 210	ovarian tumor associated lymphocyte
+T4	cell_type 213 218	OVTAL
+T5	cell_type 227 262	breast tumor associated lymphocytes
+T6	cell_type 265 270	BRTAL
+T7	protein 317 370	125-135 of the Aminoenhancer of split ( AES ) protein
+T8	protein 426 433	128-135
+T9	protein 453 460	127-137
+T10	protein 482 489	125-133
+T11	DNA 510 531	wildtype AES sequence
+T12	protein 568 586	AES1/2 ( 128-135 )
+T13	cell_type 775 778	CTL
+T14	protein 820 863	immunoaffinity precipitated HLA-A2 molecule
+T15	protein 1140 1147	128-135
+T16	protein 1160 1167	128-135
+T17	protein 1372 1391	epithelial tumor Ag
+T18	cell_type 1429 1441	CD8+ T cells
+T19	protein 1539 1558	N-terminal residues
+T20	protein 1621 1633	AES proteins
+T21	DNA 1697 1734	Enhancer of split [ E ( spl ) ] genes
+T22	protein 1826 1841	Notch receptors
+T23	protein 1903 1916	self-antigens
+T24	protein 1955 1963	tumor Ag

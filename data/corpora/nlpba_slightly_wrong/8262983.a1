@@ -1,0 +1,34 @@
+T1	protein 39 75	protein-tyrosine kinases Fyn and Csk
+T2	protein 113 145	Src-like protein-tyrosine kinase
+T3	protein 146 149	Fyn
+T4	protein 169 192	T-cell antigen receptor
+T5	protein 236 239	Fyn
+T6	cell_type 311 325	Jurkat T-cells
+T7	DNA 326 363	stimulated the serum response element
+T8	DNA 366 369	SRE
+T9	DNA 374 428	12-O-tetradecanoyl-phorbol-13-acetate response element
+T10	DNA 431 458	cyclic AMP response element
+T11	DNA 465 479	c-fos promoter
+T12	DNA 501 504	SRE
+T13	protein 553 556	Fyn
+T14	protein 571 595	normal ( wild-type ) Fyn
+T15	DNA 598 601	SRE
+T16	protein 630 651	normal and active Lck
+T17	protein 668 689	normal and active Fyn
+T18	DNA 724 742	IL-2 gene promoter
+T19	protein 785 799	concanavalin A
+T20	protein 872 875	Lck
+T21	DNA 894 907	IL-2 promoter
+T22	protein 964 974	mutant Fyn
+T23	protein 1008 1018	SH2 region
+T24	cell_type 1047 1073	chicken embryo fibroblasts
+T25	DNA 1105 1127	c-fos or IL-2 promoter
+T26	cell_type 1174 1180	T-cell
+T27	protein 1193 1196	Csk
+T28	protein 1274 1292	Src family kinases
+T29	DNA 1351 1373	serum response element
+T30	DNA 1406 1419	IL-2 promoter
+T31	protein 1455 1458	Fyn
+T32	protein 1463 1466	Lck
+T33	protein 1503 1506	Csk
+T34	cell_type 1545 1551	T-cell

@@ -1,0 +1,23 @@
+T1	protein 37 41	IL-2
+T2	protein 71 75	IL-2
+T3	cell_type 86 92	T cell
+T4	protein 180 210	NFAT-1 transcriptional complex
+T5	DNA 218 231	IL-2 promoter
+T6	protein 249 253	IL-2
+T7	DNA 336 361	NFAT-1 regulatory element
+T8	DNA 374 393	lac-Z reporter gene
+T9	protein 426 430	NFAT
+T10	protein 443 461	beta-galactosidase
+T11	RNA 567 590	beta-galactosidase mRNA
+T12	protein 622 626	NFAT
+T13	cell_line 680 689	cell line
+T14	DNA 725 751	NFAT-1 regulatory elements
+T15	DNA 766 788	reporter gene for sCD8
+T16	cell_line 867 900	NFAT-1-linked lac-Z transfectants
+T17	cell_type 910 927	human lymphocytes
+T18	protein 1033 1037	IL-2
+T19	protein 1060 1064	IL-2
+T20	protein 1150 1182	calcium-independent anti-CD28 Ab
+T21	protein 1199 1203	IL-2
+T22	protein 1258 1288	NFAT-1 transcriptional complex
+T23	protein 1440 1444	NFAT

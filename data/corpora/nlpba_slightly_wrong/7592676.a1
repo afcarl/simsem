@@ -1,0 +1,29 @@
+T1	DNA 36 80	nuclear inhibitory protein repressor element
+T2	DNA 88 116	human interleukin-3 promoter
+T3	protein 140 153	interleukin 3
+T4	protein 156 160	IL-3
+T5	DNA 178 223	positive and negative cis-acting DNA elements
+T6	DNA 263 289	transcriptional start site
+T7	protein 301 318	repressor element
+T8	protein 328 354	nuclear inhibitory protein
+T9	protein 357 360	NIP
+T10	DNA 407 420	IL-3 promoter
+T11	DNA 429 454	nucleotides -271 and -250
+T12	DNA 569 590	heterologous promoter
+T13	DNA 772 782	NIP region
+T14	protein 840 849	Complex 1
+T15	DNA 919 930	3 ' portion
+T16	protein 985 994	Complex 2
+T17	protein 1021 1041	transcription factor
+T18	protein 1044 1071	upstream stimulatory factor
+T19	DNA 1080 1091	E-box motif
+T20	DNA 1099 1110	5 ' portion
+T21	DNA 1118 1128	NIP region
+T22	protein 1190 1217	upstream stimulatory factor
+T23	protein 1302 1305	NIP
+T24	DNA 1360 1368	NIP site
+T25	DNA 1375 1414	IL-3 promoter-linked reporter construct
+T26	protein 1445 1448	NIP
+T27	protein 1549 1558	complex 3
+T28	protein 1589 1598	complex 3
+T29	DNA 1619 1637	consensus sequence

@@ -1,0 +1,13 @@
+T1	protein 4 37	winged-helix transcription factor
+T2	protein 38 45	Trident
+T3	cell_type 71 91	dividing lymphocytes
+T4	protein 121 154	winged-helix transcription factor
+T5	protein 155 162	Trident
+T6	cell_type 203 227	synchronized fibroblasts
+T7	protein 250 257	Trident
+T8	cell_line 272 282	cell lines
+T9	cell_type 285 311	differentiating thymocytes
+T10	cell_type 420 468	actively dividing immature single positive cells
+T11	RNA 519 531	Trident mRNA
+T12	protein 648 655	Trident
+T13	cell_type 659 679	dividing lymphocytes

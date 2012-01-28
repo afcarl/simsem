@@ -1,0 +1,19 @@
+T1	protein 35 54	human Stat proteins
+T2	protein 80 93	interleukin-2
+T3	protein 102 110	cytokine
+T4	protein 149 153	IL-2
+T5	protein 205 209	IL-2
+T6	protein 300 304	IL-2
+T7	cell_type 366 379	T lymphocytes
+T8	protein 469 473	IL-2
+T9	protein 521 542	transcription factors
+T10	protein 566 570	IL-2
+T11	cell_type 573 607	Human peripheral blood lymphocytes
+T12	protein 641 645	IL-2
+T13	cell_line 725 758	transformed human lymphocyte line
+T14	cell_line 768 770	YT
+T15	protein 836 860	IL-2-inducible component
+T16	protein 896 934	prolactin-induced transcription factor
+T17	cell_type 955 981	sheep mammary gland tissue
+T18	protein 1044 1050	hStat5
+T19	protein 1092 1096	IL-2

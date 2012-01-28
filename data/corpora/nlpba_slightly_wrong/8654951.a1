@@ -1,0 +1,32 @@
+T1	DNA 3 10	element
+T2	DNA 29 61	human delta-globin-encoding gene
+T3	DNA 84 109	beta-globin reporter gene
+T4	cell_type 124 152	murine erythroleukemia cells
+T5	protein 187 205	DNA-binding factor
+T6	cell_type 218 243	adult hematopoietic cells
+T7	protein 246 276	polypryrimidine-binding factor
+T8	protein 279 283	PYBF
+T9	DNA 297 319	pyrimidine-rich region
+T10	DNA 320 333	1 kb upstream
+T11	DNA 343 375	human delta-globin-encoding gene
+T12	DNA 378 381	HBD
+T13	protein 425 429	PYBF
+T14	DNA 479 526	fetal and adult beta-globin ( HBB ) -like genes
+T15	protein 540 544	PBYF
+T16	DNA 597 608	globin gene
+T17	DNA 654 705	383-bp ( delta383 ) and 99-bp ( delta99 ) sequences
+T18	DNA 721 738	PYBF-binding site
+T19	DNA 836 853	cat reporter gene
+T20	cell_line 857 893	murine erythroleukemia ( MEL ) cells
+T21	protein 922 926	PYBF
+T22	DNA 956 964	delta383
+T23	DNA 969 976	delta99
+T24	protein 1012 1015	cat
+T25	DNA 1020 1028	plasmids
+T26	DNA 1042 1077	human adult globin ( HBB ) promoter
+T27	DNA 1127 1205	human fetal ( A gamma- ) globin ( HBG1 ) or simian virus 40 ( SV40 ) promoters
+T28	protein 1249 1253	PYBF
+T29	DNA 1262 1284	pyrimidine-rich region
+T30	DNA 1299 1302	HBD
+T31	DNA 1328 1331	HBB
+T32	cell_type 1349 1370	adult erythroid cells

@@ -1,0 +1,25 @@
+T1	protein 75 97	polyomavirus T-antigen
+T2	protein 135 145	antibodies
+T3	protein 157 189	eukaryotic transcription factors
+T4	protein 260 303	polyomavirus transcription factor T-antigen
+T5	protein 332 351	anti-DNA antibodies
+T6	DNA 540 569	T-antigen-expressing plasmids
+T7	protein 579 589	antibodies
+T8	protein 604 613	T-antigen
+T9	protein 640 684	DNA-binding eukaryotic transcription factors
+T10	protein 685 705	TATA-binding protein
+T11	protein 708 711	TBP
+T12	protein 727 764	cAMP-response-element-binding protein
+T13	protein 767 771	CREB
+T14	protein 874 884	antibodies
+T15	protein 888 897	T-antigen
+T16	protein 913 916	TBP
+T17	protein 921 925	CREB
+T18	protein 1195 1205	antibodies
+T19	protein 1209 1218	T-antigen
+T20	protein 1227 1230	TBP
+T21	protein 1237 1241	CREB
+T22	protein 1501 1524	DNA-associated proteins
+T23	cell_type 1529 1536	T cells
+T24	protein 1549 1558	T antigen
+T25	protein 1621 1625	T ag

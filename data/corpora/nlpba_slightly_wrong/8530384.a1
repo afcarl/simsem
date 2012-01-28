@@ -1,0 +1,36 @@
+T1	protein 35 49	murine homolog
+T2	protein 57 84	B cell-specific coactivator
+T3	protein 85 96	BOB.1/OBF.1
+T4	DNA 165 178	octamer motif
+T5	protein 192 196	Oct1
+T6	protein 200 212	Oct2 protein
+T7	protein 228 255	B cell-restricted cofactors
+T8	protein 267 275	cofactor
+T9	protein 278 289	BOB.1/OBF.1
+T10	cell_type 319 332	human B cells
+T11	protein 405 419	murine homolog
+T12	DNA 434 439	cDNAs
+T13	DNA 444 458	genomic clones
+T14	protein 589 616	mouse and human BOB.1/OBF.1
+T15	protein 623 651	NH2-terminal 126 amino acids
+T16	protein 655 666	BOB.1/OBF.1
+T17	protein 726 737	POU domains
+T18	protein 748 752	Oct1
+T19	protein 756 760	Oct2
+T20	protein 841 853	Oct proteins
+T21	DNA 903 906	Oct
+T22	protein 948 959	BOB.1/OBF.1
+T23	protein 963 967	Oct1
+T24	protein 971 975	Oct2
+T25	protein 1018 1029	BOB.1/OBF.1
+T26	cell_type 1086 1097	fibroblasts
+T27	DNA 1132 1158	octamer-dependent enhancer
+T28	protein 1194 1205	BOB.1/OBF.1
+T29	protein 1215 1238	GAL4 DNA binding domain
+T30	protein 1257 1287	NH2- and COOH-terminal domains
+T31	protein 1291 1302	BOB.1/OBF.1
+T32	protein 1353 1373	COOH-terminal domain
+T33	protein 1455 1478	full-length BOB.1/OBF.1
+T34	DNA 1492 1527	octamer-dependent enhancer elements
+T35	cell_type 1531 1542	non B cells
+T36	protein 1549 1561	GAL4 fusions

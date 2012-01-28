@@ -1,0 +1,10 @@
+T1	protein 64 81	estrogen receptor
+T2	cell_type 201 227	natural killer ( NK ) cell
+T3	cell_type 271 288	cytotoxic T-cells
+T4	cell_type 428 430	NK
+T5	cell_type 523 530	NK cell
+T6	protein 621 638	estrogen receptor
+T7	protein 641 643	ER
+T8	cell_type 765 788	cytotoxic effector cell
+T9	protein 822 824	ER
+T10	cell_type 891 914	cytotoxic effector cell

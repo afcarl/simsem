@@ -1,0 +1,47 @@
+T1	protein 15 28	binding sites
+T2	protein 33 38	STAT6
+T3	protein 43 57	NF kappa B/rel
+T4	protein 65 69	IL-4
+T5	DNA 100 127	human IgE germline promoter
+T6	protein 130 144	Ig heavy chain
+T7	protein 176 185	cytokines
+T8	DNA 227 235	CH genes
+T9	cell_type 258 270	primed cells
+T10	protein 357 360	IgE
+T11	protein 379 383	IL-4
+T12	DNA 398 419	IgE germline promoter
+T13	protein 455 475	transcription factor
+T14	protein 476 481	STAT6
+T15	protein 484 492	IL-4STAT
+T16	DNA 502 524	responsive DNA element
+T17	DNA 532 547	proximal region
+T18	DNA 555 563	promoter
+T19	DNA 626 645	cis-acting elements
+T20	protein 680 722	NF kappa B/rel transcription factor family
+T21	protein 729 733	IL-4
+T22	protein 809 830	nucleoprotein complex
+T23	DNA 845 858	upstream site
+T24	protein 861 872	NF kappa B1
+T25	protein 888 917	classical p50/p65 heterodimer
+T26	DNA 939 952	proximal site
+T27	protein 955 966	NF kappa B2
+T28	protein 995 998	p50
+T29	protein 1003 1007	relB
+T30	DNA 1010 1056	IgE germline promoter reporter gene constructs
+T31	protein 1089 1100	NF kappa B2
+T32	protein 1135 1139	IL-4
+T33	protein 1237 1248	NF kappa B1
+T34	protein 1267 1275	cytokine
+T35	DNA 1304 1322	wild-type promoter
+T36	protein 1329 1340	NF kappa B2
+T37	DNA 1385 1403	STAT6 binding site
+T38	protein 1429 1446	NF kappa B2 motif
+T39	protein 1493 1501	cytokine
+T40	DNA 1553 1580	NF kappa B/rel binding site
+T41	DNA 1589 1611	STAT6 response element
+T42	protein 1622 1626	IL-4
+T43	DNA 1645 1674	heterologous minimal promoter
+T44	protein 1756 1789	NF kappa B2 nucleoprotein complex
+T45	protein 1809 1824	DNA-bound STAT6
+T46	protein 1836 1840	IL-4
+T47	DNA 1870 1893	human IgE germline gene

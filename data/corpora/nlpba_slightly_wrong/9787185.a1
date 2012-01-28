@@ -1,0 +1,23 @@
+T1	DNA 27 58	coproporphyrinogen oxidase gene
+T2	cell_type 67 99	erythroid and nonerythroid cells
+T3	protein 102 128	Coproporphyrinogen oxidase
+T4	protein 131 134	CPO
+T5	protein 169 173	heme
+T6	DNA 245 262	CPO gene promoter
+T7	DNA 265 289	mouse genomic DNA clones
+T8	protein 294 297	CPO
+T9	DNA 356 370	mouse CPO gene
+T10	DNA 413 424	seven exons
+T11	DNA 575 592	SP-1-like element
+T12	DNA 608 617	GATA site
+T13	DNA 637 661	novel regulatory element
+T14	DNA 664 668	CPRE
+T15	DNA 673 682	GGACTACAG
+T16	cell_type 742 778	murine erythroleukemia ( MEL ) cells
+T17	cell_line 784 809	nonerythroid NIH3T3 cells
+T18	DNA 826 835	GATA site
+T19	protein 907 928	DNA-protein complexes
+T20	DNA 1039 1056	SP-1-like element
+T21	cell_line 1065 1085	MEL and NIH3T3 cells
+T22	protein 1175 1178	CPO
+T23	cell_type 1192 1224	erythroid and nonerythroid cells

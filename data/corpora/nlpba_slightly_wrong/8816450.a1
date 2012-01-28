@@ -1,0 +1,18 @@
+T1	protein 16 37	ligand-binding domain
+T2	protein 41 75	human retinoic acid receptor alpha
+T3	protein 125 148	retinoic acid receptors
+T4	protein 151 154	RAR
+T5	protein 166 175	RAR alpha
+T6	protein 178 186	RAR beta
+T7	protein 193 202	RAR gamma
+T8	protein 258 276	structural domains
+T9	protein 335 339	RARs
+T10	protein 514 535	ligand-binding domain
+T11	protein 539 549	hRAR alpha
+T12	protein 552 566	hRAR alpha-LBD
+T13	protein 569 591	amino acids 154 to 462
+T14	protein 708 723	mutant proteins
+T15	protein 825 833	protease
+T16	protein 883 897	hRAR alpha-LBD
+T17	protein 1561 1574	RAR alpha-LBD
+T18	protein 1803 1812	RAR alpha

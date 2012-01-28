@@ -1,0 +1,22 @@
+T1	protein 35 59	glucocorticoid receptors
+T2	cell_type 65 121	corticoid-sensitive and -resistant malignant lymphocytes
+T3	protein 166 176	antibodies
+T4	protein 204 228	glucocorticoid receptors
+T5	protein 271 295	glucocorticoid receptors
+T6	cell_type 301 339	murine and human malignant lymphocytes
+T7	protein 361 393	purified immune immunoglobulin G
+T8	protein 419 434	Sepharose CL-4B
+T9	protein 499 558	cytosolic [ 3H ] triamcinolone acetonide-receptor complexes
+T10	cell_line 568 641	corticoid-sensitive ( CS ) and -resistant strains of mouse lymphoma P1798
+T11	cell_type 649 663	CS lymphocytes
+T12	cell_line 721 729	CS clone
+T13	cell_type 733 760	human leukemic lymphoblasts
+T14	cell_line 781 784	CH6
+T15	protein 826 849	glucocorticoid receptor
+T16	cell_type 855 876	normal CS lymphocytes
+T17	protein 970 1019	[ 3H ] triamcinolone acetonide-receptor complexes
+T18	cell_line 1042 1072	CS mouse and human lymphocytes
+T19	protein 1132 1155	glucocorticoid receptor
+T20	cell_line 1187 1213	mouse lymphoma P1798 cells
+T21	protein 1350 1383	rat liver glucocorticoid receptor
+T22	protein 1422 1445	glucocorticoid receptor

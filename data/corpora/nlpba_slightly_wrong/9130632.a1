@@ -1,0 +1,31 @@
+T1	protein 0 3	Itk
+T2	protein 8 39	T cell-specific tyrosine kinase
+T3	DNA 58 93	CD2-mediated interleukin-2 promoter
+T4	cell_line 112 136	human T cell line Jurkat
+T5	protein 178 181	Itk
+T6	protein 200 238	cytoplasmic tyrosine kinase Tec family
+T7	protein 286 289	CD2
+T8	protein 311 314	TCR
+T9	protein 414 417	Itk
+T10	protein 518 521	Itk
+T11	protein 610 614	IL-2
+T12	protein 666 669	CD2
+T13	protein 672 675	TCR
+T14	protein 687 691	CD28
+T15	protein 697 707	antibodies
+T16	protein 764 774	Itk mutant
+T17	protein 872 896	endogenous wild-type Itk
+T18	protein 914 917	CD2
+T19	protein 921 928	TCR/CD3
+T20	protein 955 990	nuclear factor of activated T cells
+T21	protein 993 997	NFAT
+T22	DNA 1006 1018	binding site
+T23	DNA 1047 1065	IL-2 gene promoter
+T24	protein 1086 1090	NFAT
+T25	protein 1130 1140	Itk mutant
+T26	protein 1174 1177	Itk
+T27	protein 1194 1198	IL-2
+T28	protein 1249 1252	Itk
+T29	protein 1325 1340	TCR/CD3 complex
+T30	protein 1343 1346	CD2
+T31	protein 1353 1357	CD28

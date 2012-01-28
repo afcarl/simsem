@@ -1,0 +1,19 @@
+T1	protein 28 32	JAK1
+T2	protein 37 42	STAT5
+T3	cell_type 46 57	pro-B cells
+T4	protein 74 87	interleukin-4
+T5	protein 145 192	bipartite human interleukin-4 ( IL-4 ) receptor
+T6	cell_type 223 241	murine pro-B cells
+T7	protein 259 269	human IL-4
+T8	protein 327 354	signal transducing proteins
+T9	protein 513 551	IL-4 receptor subunits alpha and gamma
+T10	protein 557 570	Janus kinases
+T11	protein 571 575	JAK1
+T12	protein 580 584	JAK3
+T13	protein 626 630	JAK1
+T14	protein 635 683	signal transducer and activator of transcription
+T15	protein 684 689	STAT5
+T16	protein 768 781	IL-4 receptor
+T17	protein 892 896	JAK1
+T18	protein 901 906	STAT5
+T19	protein 946 971	unphosphorylated proteins

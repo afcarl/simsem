@@ -1,0 +1,10 @@
+T1	cell_type 100 111	T or B cell
+T2	protein 291 298	mitogen
+T3	cell_type 309 334	Human T and B lymphocytes
+T4	protein 651 683	Ca ( 2+ ) -dependent K+ channels
+T5	cell_type 867 880	B and T cells
+T6	protein 983 1014	Ca ( 2+ ) -activated K+ channel
+T7	protein 1078 1082	IL-2
+T8	protein 1096 1101	IL-2R
+T9	protein 1240 1272	Ca ( 2+ ) -activated K+ channels
+T10	cell_type 1293 1311	B and T lymphocyte

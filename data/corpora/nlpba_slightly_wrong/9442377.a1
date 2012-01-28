@@ -1,0 +1,37 @@
+T1	protein 0 29	NF-kappa B/Rel family members
+T2	DNA 45 60	ICAM-1 promoter
+T3	cell_line 64 85	monocytic THP-1 cells
+T4	DNA 90 102	kappa B-site
+T5	DNA 141 190	intercellular adhesion molecule-1 ( ICAM-1 ) gene
+T6	protein 228 234	ICAM-1
+T7	protein 249 276	tumor necrosis factor alpha
+T8	protein 279 288	TNF-alpha
+T9	protein 334 355	transcription factors
+T10	DNA 390 407	enhancer sequence
+T11	DNA 425 444	ICAM-1 kappa B site
+T12	protein 462 466	RelA
+T13	protein 471 487	c-Rel homodimers
+T14	protein 517 528	NF-kappa B1
+T15	protein 542 564	NF-kappa B1 homodimers
+T16	protein 586 590	RelA
+T17	protein 595 600	c-Rel
+T18	protein 611 622	NF-kappa B1
+T19	DNA 656 689	ICAM-1 kappa B-reporter construct
+T20	cell_line 695 716	monocytic THP-1 cells
+T21	protein 717 726	TNF-alpha
+T22	protein 739 756	nuclear complexes
+T23	DNA 785 804	ICAM-1 kappa B site
+T24	protein 918 929	NF-kappa B1
+T25	protein 934 938	RelA
+T26	DNA 981 1003	consensus kappa B site
+T27	DNA 1011 1035	HIV long terminal repeat
+T28	protein 1067 1071	RelA
+T29	DNA 1116 1130	ICAM-1 kappa B
+T30	DNA 1143 1159	HIV kappa B site
+T31	protein 1166 1189	glucocorticoid receptor
+T32	protein 1232 1246	RelA homodimer
+T33	protein 1255 1283	NF-kappa B1/RelA heterodimer
+T34	protein 1308 1323	RelA homodimers
+T35	protein 1362 1371	TNF-alpha
+T36	protein 1381 1387	ICAM-1
+T37	cell_type 1405 1420	monocytic cells

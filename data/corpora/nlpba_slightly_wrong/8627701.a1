@@ -1,0 +1,33 @@
+T1	DNA 11 30	-responsive element
+T2	DNA 75 89	zebra promoter
+T3	cell_line 156 206	Epstein-Barr virus ( EBV ) genome-positive B cells
+T4	DNA 273 303	immediate-early EBV Zebra gene
+T5	DNA 465 475	Zebra gene
+T6	DNA 500 529	cyclic AMP-responsive element
+T7	DNA 532 535	CRE
+T8	DNA 557 571	Zebra promoter
+T9	DNA 574 576	Zp
+T10	cell_line 587 611	human B- or T-cell lines
+T11	DNA 629 659	ZpCat reporter gene constructs
+T12	DNA 706 716	ZII domain
+T13	DNA 720 722	Zp
+T14	DNA 780 803	consensus AP-1/CRE site
+T15	DNA 811 814	ZII
+T16	DNA 845 847	Zp
+T17	DNA 886 896	ZII domain
+T18	DNA 913 941	beta-globin minimal promoter
+T19	DNA 1023 1026	ZII
+T20	DNA 1072 1075	CRE
+T21	DNA 1087 1111	AP-1 consensus sequences
+T22	protein 1133 1161	CRE-binding ( CREB ) protein
+T23	protein 1178 1183	c-Fos
+T24	protein 1187 1192	c-Jun
+T25	protein 1221 1240	DNA-protein complex
+T26	protein 1273 1293	transcription factor
+T27	DNA 1309 1312	ZII
+T28	protein 1332 1355	CREB family of proteins
+T29	protein 1384 1396	CREB protein
+T30	DNA 1401 1436	protein kinase A expression vectors
+T31	DNA 1460 1462	Zp
+T32	cell_type 1466 1478	Jurkat cells
+T33	protein 1520 1532	CREB protein

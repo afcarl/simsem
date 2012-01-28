@@ -1,0 +1,27 @@
+T1	DNA 0 12	Ras oncogene
+T2	cell_type 31 51	human B lymphoblasts
+T3	protein 135 168	p21ras small GTP binding proteins
+T4	cell_type 418 437	human B lymphocytes
+T5	DNA 488 507	T24 Ha-ras oncogene
+T6	cell_line 511 542	EBV-immortalized B lymphoblasts
+T7	protein 584 620	interleukin 2 receptor alpha subunit
+T8	DNA 640 659	immunoglobulin gene
+T9	protein 770 797	IL-2 receptor alpha subunit
+T10	cell_type 815 825	lymphocyte
+T11	protein 855 861	p21ras
+T12	cell_type 881 887	B cell
+T13	cell_line 905 932	ras-transformed lymphocytes
+T14	protein 962 967	IL-2r
+T15	DNA 985 990	c-fos
+T16	protein 1026 1030	IL-2
+T17	protein 1088 1098	lymphokine
+T18	DNA 1129 1149	immunoglobulin genes
+T19	DNA 1169 1181	ras oncogene
+T20	cell_type 1217 1229	plasma cells
+T21	protein 1271 1312	lymphocyte-specific transcription factors
+T22	protein 1356 1362	p21ras
+T23	protein 1414 1435	transcription factors
+T24	protein 1436 1440	PEA1
+T25	protein 1443 1446	AP1
+T26	protein 1451 1455	PEA3
+T27	protein 1458 1463	Oct-2

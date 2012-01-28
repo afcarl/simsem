@@ -1,0 +1,9 @@
+T1	cell_type 63 78	monocytic cells
+T2	cell_type 319 334	monocytic cells
+T3	cell_line 378 415	HIV-infected myelomonocytic cell line
+T4	protein 601 623	anti-capsular antibody
+T5	protein 677 700	anti-TNF-alpha antibody
+T6	DNA 735 757	HIV plasmid constructs
+T7	DNA 806 830	HIV long terminal repeat
+T8	DNA 860 887	NF-kappaB binding sequences
+T9	cell_type 953 968	monocytic cells

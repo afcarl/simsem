@@ -1,0 +1,10 @@
+T1	cell_type 68 78	thymocytes
+T2	cell_type 178 185	T cells
+T3	cell_type 458 470	T-lymphocyte
+T4	DNA 504 521	reporter-plasmids
+T5	protein 581 613	mitogen-activated protein kinase
+T6	protein 617 652	cyclic AMP-dependent protein kinase
+T7	DNA 655 672	Reporter-plasmids
+T8	cell_type 694 704	thymocytes
+T9	cell_type 1029 1039	thymocytes
+T10	cell_type 1309 1330	differentiating cells

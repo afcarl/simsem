@@ -1,0 +1,12 @@
+T1	DNA 117 156	Translocation t ( 15 ; 17 ) ( q22 ; q21
+T2	DNA 465 488	classical t ( 15 ; 17 )
+T3	DNA 563 590	t ( 11 ; 17 ) ( q13 ; 121 )
+T4	DNA 597 621	chromosome 17 breakpoint
+T5	DNA 639 647	intron 2
+T6	DNA 651 655	RARA
+T7	DNA 749 758	PML locus
+T8	DNA 879 883	RARA
+T9	protein 1162 1177	fusion partners
+T10	DNA 1181 1185	RARA
+T11	protein 1200 1207	factors
+T12	cell_type 1266 1269	PML

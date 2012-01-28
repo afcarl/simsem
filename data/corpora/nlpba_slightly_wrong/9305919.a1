@@ -1,0 +1,40 @@
+T1	protein 0 5	STAT3
+T2	protein 11 31	serine kinase target
+T3	cell_type 35 48	T lymphocytes
+T4	protein 51 64	Interleukin 2
+T5	protein 69 92	T cell antigen receptor
+T6	protein 128 141	Interleukin 2
+T7	protein 144 148	IL-2
+T8	protein 187 200	STATs 3 and 5
+T9	protein 273 277	IL-2
+T10	protein 292 306	STAT3 proteins
+T11	cell_type 310 317	T cells
+T12	protein 377 382	STAT3
+T13	protein 392 402	STAT3alpha
+T14	protein 410 454	83-kDa carboxyl-terminal truncated STAT3beta
+T15	protein 480 493	STAT proteins
+T16	protein 544 548	STAT
+T17	protein 576 603	serine phosphorylation site
+T18	protein 607 617	STAT3alpha
+T19	protein 695 714	STAT3alpha proteins
+T20	protein 879 889	STAT3alpha
+T21	cell_type 927 944	quiescent T cells
+T22	protein 971 984	cytokine IL-2
+T23	protein 1021 1052	T cell antigen receptor complex
+T24	protein 1070 1086	protein kinase C
+T25	protein 1186 1191	STAT3
+T26	protein 1272 1277	STAT3
+T27	protein 1383 1387	IL-2
+T28	protein 1392 1423	T cell antigen receptor complex
+T29	protein 1437 1447	STAT3alpha
+T30	protein 1511 1514	MEK
+T31	protein 1515 1519	/ERK
+T32	protein 1607 1612	STAT3
+T33	protein 1672 1677	STAT3
+T34	cell_type 1693 1700	T cells
+T35	protein 1731 1752	H-7-sensitive kinases
+T36	protein 1769 1774	STAT3
+T37	protein 1864 1878	STAT3 proteins
+T38	cell_type 1923 1930	T cells
+T39	protein 1967 1985	cytokine receptors
+T40	protein 1990 2007	antigen receptors

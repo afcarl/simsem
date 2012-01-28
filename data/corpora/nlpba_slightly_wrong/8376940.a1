@@ -1,0 +1,22 @@
+T1	DNA 26 55	cyclosporin-sensitive element
+T2	DNA 63 110	human tumor necrosis factor alpha gene promoter
+T3	protein 113 140	Tumor necrosis factor alpha
+T4	protein 143 152	TNF-alpha
+T5	protein 159 167	cytokine
+T6	RNA 307 321	TNF-alpha mRNA
+T7	cell_line 357 376	murine T cell clone
+T8	protein 397 412	T cell receptor
+T9	protein 415 418	TCR
+T10	DNA 624 656	human TNF-alpha promoter element
+T11	DNA 659 666	kappa 3
+T12	DNA 836 843	kappa 3
+T13	cell_type 924 944	unstimulated T cells
+T14	protein 1049 1066	nuclear complexes
+T15	RNA 1180 1194	TNF-alpha mRNA
+T16	protein 1266 1288	kappa 3 binding factor
+T17	protein 1328 1342	nuclear factor
+T18	cell_type 1346 1363	activated T cells
+T19	DNA 1377 1391	TNF-alpha gene
+T20	cell_type 1432 1439	T cells
+T21	DNA 1490 1508	CsA-sensitive gene
+T22	cell_type 1522 1539	activated T cells

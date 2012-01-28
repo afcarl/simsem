@@ -1,0 +1,19 @@
+T1	protein 24 85	human immunodeficiency virus type 1 enhancer-binding proteins
+T2	cell_line 95 112	human T-cell line
+T3	cell_line 113 119	Jurkat
+T4	protein 217 234	cellular proteins
+T5	DNA 252 278	viral long terminal repeat
+T6	DNA 281 284	LTR
+T7	DNA 330 339	HIV-1 LTR
+T8	DNA 347 376	transcription-enhancer region
+T9	protein 405 414	inducible
+T10	protein 417 419	C1
+T11	protein 430 457	constitutive , C2 , protein
+T12	DNA 474 486	HIV enhancer
+T13	cell_line 490 502	Jurkat cells
+T14	DNA 728 747	HIV-enhancer domain
+T15	protein 755 757	C1
+T16	protein 762 773	C2 proteins
+T17	DNA 819 864	interleukin-2-receptor alpha-subunit enhancer
+T18	protein 871 891	inducible C1 protein
+T19	protein 991 1005	47 kDa protein

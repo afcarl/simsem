@@ -1,0 +1,11 @@
+T1	protein 14 23	LAZ3/BCL6
+T2	DNA 189 203	LAZ3/BCL6 gene
+T3	cell_type 207 214	B cells
+T4	protein 337 346	LAZ3/BCL6
+T5	protein 545 554	LAZ3/BCL6
+T6	RNA 613 633	LAZ3/BCL6 transcript
+T7	cell_type 698 725	peripheral blood leukocytes
+T8	protein 800 809	LAZ3/BCL6
+T9	protein 953 962	LAZ3/BCL6
+T10	protein 1130 1139	LAZ3/BCL6
+T11	cell_type 1202 1209	B cells

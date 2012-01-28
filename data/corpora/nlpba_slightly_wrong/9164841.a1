@@ -1,0 +1,39 @@
+T1	protein 19 36	N-terminal region
+T2	protein 44 99	human mineralocorticoid receptor hormone-binding domain
+T3	protein 151 174	new monoclonal antibody
+T4	protein 243 275	human mineralocorticoid receptor
+T5	protein 278 281	hMR
+T6	protein 305 324	monoclonal antibody
+T7	protein 327 330	mAb
+T8	protein 352 374	hormone-binding domain
+T9	protein 377 380	HBD
+T10	protein 431 445	fusion protein
+T11	protein 469 482	Thr729-Lys984
+T12	protein 486 489	hMR
+T13	protein 516 524	mAb 18C7
+T14	protein 570 573	HBD
+T15	protein 624 639	native MR forms
+T16	protein 657 682	hetero-oligomeric MR form
+T17	protein 691 711	transformed MR state
+T18	protein 731 747	HBD subfragments
+T19	protein 754 770	mAb 18C7 epitope
+T20	protein 790 807	N-terminal region
+T21	protein 815 818	HBD
+T22	protein 824 840	Thr729 to Leu765
+T23	protein 933 936	hMR
+T24	protein 944 948	18C7
+T25	protein 968 979	liganded MR
+T26	protein 1063 1067	18C7
+T27	protein 1087 1089	MR
+T28	protein 1189 1193	18C7
+T29	protein 1347 1365	steroid-MR complex
+T30	protein 1374 1393	antibody-MR complex
+T31	protein 1443 1467	heat-shock protein hsp90
+T32	protein 1501 1504	hMR
+T33	protein 1531 1535	18C7
+T34	protein 1611 1618	epitope
+T35	protein 1633 1637	18C7
+T36	protein 1714 1717	HBD
+T37	protein 1735 1757	Thr729-Leu765 sequence
+T38	protein 1971 2002	N-terminal Thr729-Leu765 region
+T39	protein 2010 2013	HBD

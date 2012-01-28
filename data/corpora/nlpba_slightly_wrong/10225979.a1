@@ -1,0 +1,31 @@
+T1	protein 92 96	STAT
+T2	protein 119 127	Cytokine
+T3	protein 185 206	transcription factors
+T4	protein 214 264	signal transducers and activators of transcription
+T5	protein 267 272	STATs
+T6	protein 280 284	STAT
+T7	protein 385 388	IFN
+T8	protein 417 435	STAT family member
+T9	protein 438 443	Stat1
+T10	DNA 450 487	Stat1-dependent immune-response genes
+T11	protein 496 529	intercellular adhesion molecule-1
+T12	protein 532 538	ICAM-1
+T13	protein 543 566	IFN regulatory factor-1
+T14	protein 569 574	IRF-1
+T15	protein 583 588	Stat1
+T16	cell_type 599 622	airway epithelial cells
+T17	protein 654 662	cytokine
+T18	protein 793 809	epithelial Stat1
+T19	protein 834 855	transcription factors
+T20	protein 1003 1008	Stat1
+T21	protein 1050 1067	epithelial ICAM-1
+T22	protein 1070 1075	IRF-1
+T23	protein 1082 1087	Stat1
+T24	protein 1104 1110	ICAM-1
+T25	protein 1195 1204	IFN-gamma
+T26	cell_type 1208 1233	IFN-gamma-producing cells
+T27	protein 1359 1363	STAT
+T28	protein 1377 1385	cytokine
+T29	protein 1619 1643	T helper 1-type cytokine
+T30	protein 1646 1655	IFN-gamma
+T31	protein 1711 1736	T helper 2-type cytokines

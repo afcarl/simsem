@@ -1,0 +1,34 @@
+T1	protein 10 33	thyroglobulin receptors
+T2	protein 89 113	Immunoglobulin molecules
+T3	cell_type 134 146	B lymphocyte
+T4	protein 250 269	monoclonal antibody
+T5	protein 442 461	palmitate conjugate
+T6	protein 467 492	human monoclonal antibody
+T7	protein 506 519	thyroglobulin
+T8	protein 522 524	TG
+T9	protein 547 568	surrogate TG receptor
+T10	cell_type 572 595	blood mononuclear cells
+T11	cell_type 634 641	T cells
+T12	cell_type 657 664	T cells
+T13	cell_type 667 678	non-T cells
+T14	protein 718 740	surrogate TG receptors
+T15	cell_type 744 772	non-T ( but not on T ) cells
+T16	protein 869 892	endogenous TG receptors
+T17	cell_type 919 930	non-T cells
+T18	protein 1031 1033	TG
+T19	protein 1037 1056	surrogate receptors
+T20	cell_type 1060 1071	non-T cells
+T21	protein 1123 1125	TG
+T22	cell_type 1129 1136	T cells
+T23	protein 1168 1170	TG
+T24	cell_type 1187 1194	T cells
+T25	cell_type 1329 1336	T cells
+T26	cell_type 1341 1367	autologous dendritic cells
+T27	protein 1411 1430	surrogate receptors
+T28	cell_type 1434 1445	non-T cells
+T29	protein 1484 1486	TG
+T30	cell_type 1503 1510	T cells
+T31	cell_type 1577 1584	T cells
+T32	cell_type 1595 1619	antigen-presenting cells
+T33	protein 1700 1702	TG
+T34	protein 1713 1733	thyroid autoantigens

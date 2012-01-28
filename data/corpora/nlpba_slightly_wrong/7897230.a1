@@ -1,0 +1,15 @@
+T1	protein 26 49	glucocorticoid receptor
+T2	protein 456 480	glucocorticoid receptors
+T3	protein 678 702	glucocorticoid receptors
+T4	DNA 720 737	DNA binding sites
+T5	DNA 740 743	GRE
+T6	cell_type 793 797	PBMC
+T7	protein 885 908	glucocorticoid receptor
+T8	DNA 1054 1057	GRE
+T9	cell_type 1069 1074	PBMCs
+T10	protein 1242 1265	glucocorticoid receptor
+T11	DNA 1268 1271	GRE
+T12	protein 1350 1359	receptors
+T13	protein 1468 1491	glucocorticoid receptor
+T14	DNA 1503 1506	GRE
+T15	protein 1580 1589	receptors

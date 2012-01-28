@@ -1,0 +1,32 @@
+T1	protein 4 31	c-rel protooncogene product
+T2	protein 42 52	NF-kappa B
+T3	protein 53 56	p65
+T4	DNA 167 187	long terminal repeat
+T5	DNA 190 193	LTR
+T6	DNA 257 278	5 ' regulatory region
+T7	protein 304 340	interleukin 2 receptor alpha subunit
+T8	protein 343 354	IL-2R alpha
+T9	DNA 374 399	kappa B enhancer elements
+T10	DNA 499 524	kappa B enhancer elements
+T11	protein 611 614	p50
+T12	protein 617 620	p65
+T13	DNA 646 665	c-rel protooncogene
+T14	protein 668 673	c-Rel
+T15	protein 721 724	p65
+T16	protein 729 732	p50
+T17	protein 755 773	NF-kappa B complex
+T18	DNA 971 980	HIV-1 LTR
+T19	DNA 988 1008	IL-2R alpha promoter
+T20	protein 1058 1061	p65
+T21	protein 1116 1121	c-Rel
+T22	protein 1168 1195	tumor necrosis factor alpha
+T23	protein 1230 1233	p65
+T24	protein 1255 1258	p65
+T25	protein 1339 1344	c-Rel
+T26	protein 1433 1436	p50
+T27	protein 1455 1460	c-Rel
+T28	protein 1498 1505	p50/p65
+T29	protein 1609 1614	c-Rel
+T30	DNA 1652 1661	HIV-1 LTR
+T31	protein 1666 1677	IL-2R alpha
+T32	protein 1770 1773	p65

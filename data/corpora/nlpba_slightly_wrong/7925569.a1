@@ -1,0 +1,23 @@
+T1	DNA 24 78	major histocompatibility complex class II DRA promoter
+T2	protein 105 126	AIR-1 trans-activator
+T3	cell_line 129 137	RJ 2.2.5
+T4	cell_line 143 162	human B cell mutant
+T5	cell_line 180 206	Burkitt lymphoma Raji cell
+T6	DNA 353 408	major histocompatibility complex ( MHC ) class II genes
+T7	protein 437 444	DNase I
+T8	DNA 469 487	AIR-1 locus defect
+T9	DNA 519 531	DRA promoter
+T10	DNA 576 600	human MHC class II genes
+T11	cell_line 604 640	RJ 2.2.5 x mouse spleen cell hybrids
+T12	DNA 681 693	DRA promoter
+T13	DNA 726 738	DRA promoter
+T14	cell_line 758 788	class II-negative B cell lines
+T15	cell_line 895 903	RJ 2.2.5
+T16	cell_line 908 918	Raji cells
+T17	protein 947 954	DNase I
+T18	cell_line 1005 1026	patients ' cell lines
+T19	DNA 1058 1071	bare promoter
+T20	protein 1167 1174	DNase I
+T21	DNA 1226 1244	AIR-1 locus defect
+T22	DNA 1250 1267	class II promoter
+T23	cell_line 1398 1425	MHC class II-negative cells

@@ -1,0 +1,23 @@
+T1	protein 0 5	c-Maf
+T2	cell_type 57 85	bipotent myeloid progenitors
+T3	cell_line 130 203	colony-forming unit granulocyte-macrophage ( CFU-GM ) myeloid progenitors
+T4	cell_type 246 279	granulocytic or monocytic lineage
+T5	protein 330 335	c-Maf
+T6	protein 340 367	c-Myb transcription factors
+T7	DNA 465 483	c-Myb target genes
+T8	DNA 510 529	Myb consensus sites
+T9	cell_type 610 628	promyelocyte stage
+T10	cell_line 637 655	cell model systems
+T11	protein 899 908	Myb : Maf
+T12	cell_type 924 945	differentiating cells
+T13	protein 988 993	c-Maf
+T14	DNA 1045 1055	c-Maf cDNA
+T15	cell_type 1070 1100	human myeloid progenitor cells
+T16	protein 1122 1135	c-Maf protein
+T17	protein 1163 1182	Myb : Maf complexes
+T18	cell_type 1207 1232	monocyte/macrophage cells
+T19	protein 1359 1364	c-Maf
+T20	protein 1473 1478	c-Myb
+T21	protein 1507 1512	Bcl-2
+T22	protein 1517 1525	CD13/APN
+T23	DNA 1576 1607	differentiation-promoting genes

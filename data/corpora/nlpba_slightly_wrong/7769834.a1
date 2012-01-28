@@ -1,0 +1,25 @@
+T1	protein 14 21	pp90rsk
+T2	DNA 26 54	early growth response-1 gene
+T3	protein 69 85	pokeweed mitogen
+T4	cell_type 89 102	human B cells
+T5	protein 154 170	pokeweed mitogen
+T6	protein 173 176	PWM
+T7	DNA 199 227	early growth response-1 gene
+T8	DNA 230 235	EGR-1
+T9	cell_type 241 261	normal human B cells
+T10	protein 264 267	PWM
+T11	DNA 278 283	EGR-1
+T12	DNA 397 421	EGR-1 promoter fragments
+T13	DNA 436 482	chloramphenicol acetyltransferase ( CAT ) gene
+T14	protein 501 504	PWM
+T15	DNA 513 518	EGR-1
+T16	DNA 553 563	CArG motif
+T17	DNA 566 580	C C [ AT ] 6GG
+T18	DNA 590 604	EGR-1 promoter
+T19	protein 658 667	S6 kinase
+T20	protein 670 677	pp90rsk
+T21	protein 714 716	S6
+T22	cell_line 765 784	PWM treated B cells
+T23	protein 832 835	PWM
+T24	DNA 899 904	EGR-1
+T25	cell_type 918 938	normal human B cells

@@ -1,0 +1,35 @@
+T1	protein 0 20	Transcription factor
+T2	DNA 53 113	human immunodeficiency virus type 1 transcription start site
+T3	DNA 225 233	promoter
+T4	DNA 290 314	promoter/enhancer region
+T5	DNA 336 351	255 nucleotides
+T6	DNA 379 403	transcription start site
+T7	protein 458 479	transcription factors
+T8	DNA 498 522	transcription start site
+T9	DNA 525 538	nt 465 to 720
+T10	DNA 549 559	AP-1 sites
+T11	DNA 586 600	AP3-like motif
+T12	DNA 603 608	AP3-L
+T13	DNA 615 653	downstream binding factor ( DBF ) site
+T14	DNA 660 680	juxtaposed Sp1 sites
+T15	DNA 707 715	DBF site
+T16	DNA 722 771	interferon-responsive factor ( IRF ) binding site
+T17	DNA 785 796	AP3-L motif
+T18	protein 807 829	T-cell-specific factor
+T19	protein 830 835	NF-AT
+T20	DNA 1059 1064	AP3-L
+T21	DNA 1092 1120	mutation AP-1 ( III ) /AP3-L
+T22	DNA 1247 1256	Sp1 sites
+T23	DNA 1412 1424	AP-1 ( III )
+T24	DNA 1427 1432	AP3-L
+T25	DNA 1439 1448	DBF sites
+T26	DNA 1460 1465	AP3-L
+T27	DNA 1470 1479	DBF-sites
+T28	DNA 1513 1534	AP-1 ( I , II , III )
+T29	DNA 1539 1550	AP3-L sites
+T30	DNA 1586 1591	AP3-L
+T31	DNA 1598 1607	DBF sites
+T32	RNA 1776 1791	HIV genomic RNA
+T33	DNA 1845 1859	HIV-1 promoter
+T34	DNA 1896 1914	HIV-1 provirus DNA
+T35	DNA 1921 1963	long terminal repeat-luciferase constructs

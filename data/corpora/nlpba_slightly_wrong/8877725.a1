@@ -1,0 +1,9 @@
+T1	protein 14 30	interferon-gamma
+T2	protein 68 77	IFN-gamma
+T3	protein 96 114	type II interferon
+T4	RNA 251 265	IFN-gamma mRNA
+T5	cell_type 309 316	T cells
+T6	cell_type 321 347	large granular lymphocytes
+T7	RNA 354 368	IFN-gamma mRNA
+T8	protein 632 652	DNA binding proteins
+T9	DNA 687 701	IFN-gamma gene

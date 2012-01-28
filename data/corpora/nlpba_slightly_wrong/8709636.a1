@@ -1,0 +1,63 @@
+T1	protein 11 16	IL-10
+T2	protein 21 25	IL-4
+T3	protein 41 62	transcription factors
+T4	protein 65 69	AP-1
+T5	protein 72 78	NF-IL6
+T6	protein 83 93	NF-kappa B
+T7	protein 118 122	IL-6
+T8	protein 136 150	Interleukin-10
+T9	protein 153 158	IL-10
+T10	protein 168 172	IL-4
+T11	protein 195 203	cytokine
+T12	cell_type 218 243	activated human monocytes
+T13	protein 266 271	IL-10
+T14	protein 276 280	IL-4
+T15	RNA 289 310	LPS-induced IL-6 mRNA
+T16	DNA 378 387	IL-6 gene
+T17	protein 419 423	IL-6
+T18	protein 478 483	IL-10
+T19	protein 488 492	IL-4
+T20	protein 514 535	transcription factors
+T21	protein 567 572	IL-10
+T22	protein 577 581	IL-4
+T23	protein 609 630	transcription factors
+T24	protein 683 687	IL-6
+T25	protein 738 742	AP-1
+T26	protein 747 761	nuclear factor
+T27	protein 762 766	IL-6
+T28	protein 769 775	NF-IL6
+T29	protein 784 806	nuclear factor kappa B
+T30	protein 809 818	NF-kappaB
+T31	protein 889 894	IL-10
+T32	protein 899 903	IL-4
+T33	protein 926 930	AP-1
+T34	protein 975 979	IL-4
+T35	protein 1022 1027	IL-10
+T36	protein 1048 1064	LPS-induced AP-1
+T37	RNA 1140 1144	mRNA
+T38	protein 1186 1198	AP-1 complex
+T39	DNA 1208 1213	c-fos
+T40	DNA 1218 1223	c-jun
+T41	protein 1284 1290	NF-IL6
+T42	protein 1322 1326	IL-4
+T43	protein 1335 1340	IL-10
+T44	RNA 1360 1371	NF-IL6 mRNA
+T45	protein 1400 1405	IL-10
+T46	protein 1409 1413	IL-4
+T47	protein 1432 1436	IL-4
+T48	protein 1477 1483	NF-IL6
+T49	protein 1494 1499	IL-10
+T50	protein 1504 1508	IL-4
+T51	protein 1531 1541	NF-kappa B
+T52	protein 1720 1730	NF-kappa B
+T53	protein 1773 1778	IL-10
+T54	protein 1782 1786	IL-4
+T55	protein 1811 1816	IL-10
+T56	protein 1821 1825	IL-4
+T57	RNA 1847 1861	I-kappa B mRNA
+T58	protein 1920 1925	IL-10
+T59	protein 1930 1934	IL-4
+T60	protein 1952 1956	IL-6
+T61	protein 1984 1988	IL-4
+T62	protein 2071 2076	IL-10
+T63	protein 2092 2096	AP-1

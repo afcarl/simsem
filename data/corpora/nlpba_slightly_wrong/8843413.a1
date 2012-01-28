@@ -1,0 +1,29 @@
+T1	cell_type 58 78	murine thymoma cells
+T2	cell_line 105 117	T cell lines
+T3	protein 190 238	glucocorticoid receptor ( GR ) N-terminal domain
+T4	cell_line 325 343	human T cell lines
+T5	protein 368 385	N-terminal domain
+T6	protein 444 446	GR
+T7	protein 555 591	GR N-terminal transactivation domain
+T8	protein 656 658	GR
+T9	protein 661 672	GR variants
+T10	protein 683 700	androgen receptor
+T11	protein 703 705	AR
+T12	cell_line 713 755	receptor-negative S49 murine thymoma cells
+T13	protein 758 760	GR
+T14	protein 908 910	GR
+T15	DNA 948 1000	mouse mammary tumor virus ( MMTV ) LTR reporter gene
+T16	protein 1028 1049	GR chimeric receptors
+T17	DNA 1072 1114	VP16 and E1A viral transactivation domains
+T18	protein 1131 1144	GR N terminus
+T19	protein 1357 1359	AR
+T20	cell_line 1386 1395	S49 cells
+T21	DNA 1612 1635	thymocyte-specific gene
+T22	DNA 1643 1648	GIG18
+T23	DNA 1665 1670	GIG18
+T24	protein 1720 1722	AR
+T25	protein 1727 1729	GR
+T26	protein 1751 1753	AR
+T27	cell_line 1808 1817	S49 cells
+T28	DNA 1840 1845	GIG18
+T29	protein 2107 2109	GR

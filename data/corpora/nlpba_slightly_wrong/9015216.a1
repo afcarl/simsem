@@ -1,0 +1,46 @@
+T1	protein 20 30	Jak kinase
+T2	protein 44 58	G-CSF receptor
+T3	protein 104 150	granulocyte colony-stimulating factor receptor
+T4	protein 153 159	G-CSFR
+T5	protein 213 237	intracellular substrates
+T6	cell_type 241 260	proliferating cells
+T7	cell_type 265 321	nonproliferating , terminally differentiated neutrophils
+T8	protein 394 413	cellular substrates
+T9	cell_type 552 565	proliferating
+T10	cell_type 570 601	terminally differentiated cells
+T11	protein 612 617	G-CSF
+T12	cell_line 699 717	murine Ba/F3 cells
+T13	protein 739 751	human G-CSFR
+T14	cell_line 756 768	NFS-60 cells
+T15	protein 799 812	murine G-CSFR
+T16	protein 815 820	G-CSF
+T17	protein 872 876	Jak1
+T18	protein 879 883	Jak2
+T19	protein 890 894	Tyk2
+T20	protein 925 930	Stat3
+T21	protein 958 963	Stat1
+T22	protein 992 997	G-CSF
+T23	protein 1020 1065	mitogenically incompetent human G-CSFR mutant
+T24	protein 1127 1142	box 1 PDP motif
+T25	protein 1186 1197	Jak kinases
+T26	protein 1232 1238	G-CSFR
+T27	protein 1260 1273	Stat proteins
+T28	protein 1303 1307	Jak1
+T29	protein 1310 1314	Jak2
+T30	protein 1317 1321	Tyk2
+T31	protein 1324 1329	Stat1
+T32	protein 1335 1340	Stat3
+T33	cell_type 1357 1368	neutrophils
+T34	protein 1379 1384	G-CSF
+T35	cell_type 1451 1462	neutrophils
+T36	protein 1486 1497	Jak3 kinase
+T37	cell_type 1558 1571	myeloid cells
+T38	protein 1663 1674	Jak kinases
+T39	protein 1695 1701	G-CSFR
+T40	cell_type 1705 1716	neutrophils
+T41	cell_type 1810 1829	proliferating cells
+T42	protein 1850 1853	Jak
+T43	protein 1854 1859	-Stat
+T44	protein 1915 1921	G-CSFR
+T45	protein 1939 1972	membrane-proximal box 1 PXP motif
+T46	protein 2012 2041	cytokine receptor superfamily

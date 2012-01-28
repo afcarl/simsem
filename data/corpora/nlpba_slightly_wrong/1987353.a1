@@ -1,0 +1,16 @@
+T1	DNA 4 47	NF kappa B independent cis-acting sequences
+T2	DNA 51 60	HIV-1 LTR
+T3	DNA 148 168	long terminal repeat
+T4	cell_type 232 239	T cells
+T5	DNA 280 289	HIV-1 LTR
+T6	protein 414 420	NFAT-1
+T7	protein 424 434	NF kappa B
+T8	DNA 449 452	LTR
+T9	protein 545 572	tumor necrosis factor alpha
+T10	protein 587 593	NFAT-1
+T11	DNA 597 621	NF kappa B binding sites
+T12	DNA 757 787	NF kappa B and NFAT-1 deletion
+T13	protein 875 881	NFAT-1
+T14	cell_line 923 935	Jurkat cells
+T15	protein 958 968	NF kappa B
+T16	protein 985 991	NFAT-1

@@ -1,0 +1,9 @@
+T1	protein 0 20	Aldosterone-receptor
+T2	protein 360 375	abnormal Type I
+T3	protein 379 417	`` mineralocorticoid-like '' receptors
+T4	protein 492 525	renal mineralocorticoid receptors
+T5	cell_type 560 565	cells
+T6	cell_type 578 600	mononuclear leukocytes
+T7	cell_type 862 897	Percoll-separated control monocytes
+T8	cell_type 1090 1099	monocytes
+T9	protein 1565 1581	Type I receptors

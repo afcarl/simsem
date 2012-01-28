@@ -1,0 +1,24 @@
+T1	protein 20 40	leucine zipper class
+T2	DNA 71 92	HLA DR alpha promoter
+T3	cell_line 124 154	transformed human B cell lines
+T4	DNA 183 238	major histocompatibility complex ( MHC ) class II genes
+T5	DNA 266 279	class II gene
+T6	cell_line 301 312	mutant line
+T7	DNA 336 354	MHC class II X box
+T8	DNA 359 392	conserved transcriptional element
+T9	DNA 400 415	promoter region
+T10	DNA 420 437	complementary DNA
+T11	protein 449 468	DNA-binding protein
+T12	protein 471 498	human X box binding protein
+T13	protein 501 507	hXBP-1
+T14	DNA 530 550	human DR alpha X box
+T15	DNA 559 578	3 ' flanking region
+T16	DNA 606 623	complementary DNA
+T17	protein 678 706	c-jun proto-oncogene product
+T18	DNA 760 787	palindromic target sequence
+T19	DNA 791 796	c-jun
+T20	DNA 815 841	hXBP-1 DNA target sequence
+T21	DNA 852 869	DR alpha promoter
+T22	protein 920 934	hXBP-1 protein
+T23	protein 945 965	transcription factor
+T24	cell_type 969 976	B cells

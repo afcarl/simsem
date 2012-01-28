@@ -1,0 +1,27 @@
+T1	protein 0 8	Thrombin
+T2	cell_type 23 61	apoptotic vascular smooth muscle cells
+T3	protein 64 72	Thrombin
+T4	protein 107 129	prothrombinase complex
+T5	protein 143 162	coagulation factors
+T6	cell_type 224 243	activated platelets
+T7	cell_type 317 349	rat vascular smooth muscle cells
+T8	cell_type 352 357	VSMCs
+T9	protein 464 472	thrombin
+T10	cell_type 487 502	apoptotic VSMCs
+T11	protein 514 519	c-myc
+T12	cell_line 522 530	VSMC-myc
+T13	protein 556 564	thrombin
+T14	protein 629 637	thrombin
+T15	protein 671 679	thrombin
+T16	cell_line 709 733	apoptotic VSMC-myc cells
+T17	cell_type 759 780	unactivated platelets
+T18	cell_type 854 873	activated platelets
+T19	protein 954 962	Thrombin
+T20	cell_type 993 1014	apoptotic human VSMCs
+T21	cell_line 1136 1150	VSMC-myc cells
+T22	protein 1186 1194	thrombin
+T23	cell_type 1254 1259	VSMCs
+T24	protein 1355 1363	thrombin
+T25	cell_type 1442 1457	apoptotic VSMCs
+T26	protein 1480 1488	thrombin
+T27	protein 1616 1624	thrombin

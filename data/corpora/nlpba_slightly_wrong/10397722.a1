@@ -1,0 +1,26 @@
+T1	protein 4 27	glucocorticoid receptor
+T2	protein 48 71	erythropoietin receptor
+T3	protein 76 81	c-Kit
+T4	cell_type 122 143	erythroid progenitors
+T5	protein 164 178	erythropoietin
+T6	protein 181 184	Epo
+T7	cell_type 222 244	mature red blood cells
+T8	cell_type 379 400	erythroid progenitors
+T9	protein 435 460	tyrosine kinase receptors
+T10	cell_type 482 503	erythroid progenitors
+T11	cell_type 575 604	primary human erythroid cells
+T12	protein 721 724	Epo
+T13	protein 729 745	stem cell factor
+T14	cell_type 756 777	erythroid progenitors
+T15	cell_type 880 895	erythroid cells
+T16	cell_type 920 941	erythroid progenitors
+T17	cell_type 992 1008	progenitor cells
+T18	cell_line 1021 1036	liquid cultures
+T19	cell_type 1089 1101	erythrocytes
+T20	protein 1138 1148	hemoglobin
+T21	cell_type 1211 1225	immature cells
+T22	cell_type 1255 1276	erythroid progenitors
+T23	cell_line 1312 1350	purified erythroid burst-forming units
+T24	cell_line 1353 1358	BFU-E
+T25	cell_type 1368 1390	CD34 ( + ) blast cells
+T26	cell_type 1428 1444	CD34 ( + ) cells

@@ -1,0 +1,25 @@
+T1	DNA 39 45	SKAT-2
+T2	DNA 56 85	Th2-specific zinc finger gene
+T3	DNA 115 151	Kruppel-type zinc finger ( ZF ) gene
+T4	DNA 154 160	SKAT-2
+T5	cell_type 197 213	murine Th2 cells
+T6	DNA 293 303	C terminus
+T7	DNA 308 318	N-terminal
+T8	DNA 319 327	SCAN box
+T9	DNA 332 344	KRAB domains
+T10	DNA 347 353	SKAT-2
+T11	cell_line 480 504	hematopoietic cell lines
+T12	DNA 534 540	SKAT-2
+T13	cell_type 592 609	CD4 ( + ) T cells
+T14	protein 731 737	GATA-3
+T15	cell_line 852 861	EL4 cells
+T16	DNA 864 870	SKAT-2
+T17	DNA 916 946	IL-4 but not the IL-5 promoter
+T18	protein 981 987	GATA-3
+T19	DNA 1005 1014	promoters
+T20	cell_line 1059 1068	EL4 cells
+T21	DNA 1108 1114	SKAT-2
+T22	DNA 1122 1128	SKAT-2
+T23	DNA 1140 1157	Th2-specific gene
+T24	DNA 1206 1220	cytokine genes
+T25	cell_type 1224 1231	T cells

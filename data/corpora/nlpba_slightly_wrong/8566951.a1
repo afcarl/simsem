@@ -1,0 +1,15 @@
+T1	DNA 0 25	Translocation breakpoints
+T2	DNA 123 127	SOX9
+T3	DNA 231 247	SRY-related gene
+T4	DNA 248 252	SOX9
+T5	DNA 256 259	17q
+T6	DNA 281 296	17q breakpoints
+T7	DNA 391 395	SOX9
+T8	DNA 492 521	th t ( 6 ; 17 ) ( q14 ; q24 )
+T9	DNA 578 592	17q breakpoint
+T10	DNA 705 709	SOX9
+T11	DNA 898 902	SOX9
+T12	DNA 916 949	SOX9 coding sequence polymorphism
+T13	DNA 971 975	SOX9
+T14	protein 1013 1034	reverse transcriptase
+T15	cell_type 1064 1084	lymphoblastoid cells

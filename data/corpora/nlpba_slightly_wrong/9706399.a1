@@ -1,0 +1,47 @@
+T1	protein 30 51	C/EBP alpha and -beta
+T2	protein 90 127	MRP14 myeloid calcium binding protein
+T3	protein 177 208	myeloid calcium binding protein
+T4	protein 211 216	MRP14
+T5	cell_line 239 274	human monocytic leukemia cell lines
+T6	DNA 281 291	MRP14 gene
+T7	cell_line 313 335	monoblastic ML-1 cells
+T8	cell_line 338 362	promonocytic U-937 cells
+T9	cell_line 368 393	promyelocytic HL-60 cells
+T10	cell_line 442 463	monocytic THP-1 cells
+T11	cell_line 475 486	HL-60 cells
+T12	protein 550 555	MRP14
+T13	cell_line 571 582	HL-60 cells
+T14	cell_line 616 627	THP-1 cells
+T15	DNA 650 685	transcription factor binding motifs
+T16	protein 688 709	nuclear protein ( s )
+T17	cell_line 713 752	VD3-treated HL-60 cells and THP-1 cells
+T18	DNA 766 821	CCAAT/enhancer binding protein ( C/EBP ) -binding motif
+T19	DNA 846 861	upstream region
+T20	DNA 869 879	MRP14 gene
+T21	protein 965 976	C/EBP alpha
+T22	protein 995 1016	nucleoprotein complex
+T23	cell_line 1020 1031	THP-1 cells
+T24	cell_line 1047 1070	VD3-treated HL-60 cells
+T25	protein 1097 1107	C/EBP beta
+T26	protein 1154 1168	nuclear factor
+T27	cell_line 1176 1187	HL-60 cells
+T28	cell_line 1209 1220	THP-1 cells
+T29	protein 1226 1251	anti-C/EBP delta antibody
+T30	protein 1327 1348	C/EBP alpha and -beta
+T31	protein 1374 1385	C/EBP motif
+T32	protein 1397 1408	C/EBP alpha
+T33	cell_line 1431 1442	THP-1 cells
+T34	protein 1447 1457	C/EBP beta
+T35	cell_line 1479 1502	VD3-treated HL-60 cells
+T36	protein 1566 1577	C/EBP motif
+T37	DNA 1615 1639	luciferase reporter DNAs
+T38	cell_line 1645 1656	HL-60 cells
+T39	cell_line 1661 1672	THP-1 cells
+T40	protein 1706 1717	C/EBP motif
+T41	cell_line 1721 1732	HL-60 cells
+T42	protein 1770 1781	C/EBP motif
+T43	DNA 1789 1799	MRP14 gene
+T44	cell_line 1852 1891	VD3-treated HL-60 cells and THP-1 cells
+T45	protein 1913 1923	C/EBP beta
+T46	cell_line 1945 1970	VD3-untreated HL-60 cells
+T47	protein 2005 2015	C/EBP beta

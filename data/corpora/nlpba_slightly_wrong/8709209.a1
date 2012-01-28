@@ -1,0 +1,38 @@
+T1	protein 17 47	basic helix-loop-helix protein
+T2	cell_line 111 130	lymphoid cell lines
+T3	DNA 137 173	transcriptionally regulatory regions
+T4	DNA 268 290	E-box consensus motifs
+T5	DNA 313 317	EA/S
+T6	DNA 338 362	upstream promoter region
+T7	DNA 381 390	E ( gre )
+T8	DNA 409 422	tandem repeat
+T9	DNA 502 509	E-boxes
+T10	cell_line 549 568	lymphoid cell lines
+T11	protein 580 616	E ( gre ) -binding protein complexes
+T12	protein 626 630	ALF1
+T13	protein 634 637	HEB
+T14	protein 642 677	E2A basic helix-loop-helix proteins
+T15	protein 688 692	ALF1
+T16	protein 697 709	E2A proteins
+T17	DNA 726 742	E ( gre ) motifs
+T18	protein 786 790	ALF1
+T19	DNA 847 863	E ( gre ) motifs
+T20	protein 882 893	E2A protein
+T21	DNA 925 934	E ( gre )
+T22	cell_line 946 965	T- and B-cell lines
+T23	DNA 972 988	E ( gre ) motifs
+T24	DNA 1063 1073	EA/S motif
+T25	DNA 1114 1123	E ( gre )
+T26	DNA 1128 1139	EA/S motifs
+T27	cell_line 1193 1206	NIH 3T3 cells
+T28	protein 1227 1231	ALF1
+T29	protein 1235 1238	HEB
+T30	protein 1243 1255	E2A proteins
+T31	protein 1295 1299	ALF1
+T32	protein 1343 1354	ectopic Id1
+T33	DNA 1365 1374	E ( gre )
+T34	DNA 1393 1397	EA/S
+T35	cell_line 1429 1448	lymphoid cell lines
+T36	DNA 1467 1476	E ( gre )
+T37	protein 1500 1531	basic helix-loop-helix proteins
+T38	cell_line 1595 1617	lymphocytic cell lines

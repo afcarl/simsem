@@ -1,0 +1,22 @@
+T1	protein 22 43	tumor necrosis factor
+T2	cell_type 58 73	human monocytes
+T3	cell_type 81 107	normal and malignant cells
+T4	protein 302 305	TNF
+T5	cell_type 309 324	blood monocytes
+T6	cell_line 336 366	monocytic cell line Mono Mac 6
+T7	protein 488 491	TNF
+T8	cell_type 513 517	PBMC
+T9	cell_line 533 549	Mono Mac 6 cells
+T10	protein 719 722	TNF
+T11	cell_type 737 741	PBMC
+T12	cell_line 751 761	Mono Mac 6
+T13	RNA 945 960	TNF transcripts
+T14	protein 1002 1024	nuclear factor kappa B
+T15	protein 1194 1201	CD14 Ag
+T16	protein 1206 1223	receptor molecule
+T17	protein 1228 1261	LPS-LPS binding protein complexes
+T18	protein 1343 1369	platelet activating factor
+T19	protein 1421 1424	TNF
+T20	cell_line 1439 1455	Mono Mac 6 cells
+T21	protein 1650 1653	TNF
+T22	cell_type 1673 1682	monocytes

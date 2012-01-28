@@ -1,0 +1,31 @@
+T1	DNA 18 57	megakaryocytic glycoprotein IX promoter
+T2	protein 65 99	oncogenic Ets transcription factor
+T3	protein 100 105	Fli-1
+T4	protein 108 130	Glycoprotein ( GP ) IX
+T5	protein 151 174	von Willebrand receptor
+T6	protein 177 186	GPIb-V-IX
+T7	cell_type 216 225	platelets
+T8	DNA 308 321	GPIX promoter
+T9	protein 421 432	Ets protein
+T10	DNA 454 467	GPIX promoter
+T11	DNA 545 578	GPIX promoter/reporter constructs
+T12	cell_line 584 607	293T kidney fibroblasts
+T13	DNA 615 638	Fli-1 expression vector
+T14	protein 672 677	Fli-1
+T15	DNA 700 713	GPIX promoter
+T16	DNA 729 742	GPIX Ets site
+T17	protein 770 775	Fli-1
+T18	DNA 791 804	GPIX Ets site
+T19	cell_type 888 929	hematopoietic human erythroleukemia cells
+T20	protein 964 969	Fli-1
+T21	DNA 1005 1014	GPIbalpha
+T22	DNA 1046 1060	GPIIb promoter
+T23	protein 1094 1107	Fli-1 protein
+T24	cell_type 1132 1141	platelets
+T25	protein 1172 1177	Fli-1
+T26	cell_type 1218 1232	megakaryocytes
+T27	cell_type 1246 1262	CD34 ( + ) cells
+T28	protein 1280 1334	megakaryocyte differentiation and proliferation factor
+T29	protein 1337 1351	thrombopoietin
+T30	protein 1381 1386	Fli-1
+T31	DNA 1409 1431	lineage-specific genes

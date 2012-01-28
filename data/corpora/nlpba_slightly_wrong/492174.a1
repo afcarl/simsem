@@ -1,0 +1,14 @@
+T1	cell_type 40 54	rat thymocytes
+T2	cell_type 86 114	human peripheral lymphocytes
+T3	cell_type 207 219	thymus cells
+T4	cell_type 384 396	thymus cells
+T5	cell_type 461 516	immunologically stimulated human peripheral lymphocytes
+T6	protein 591 615	glucocorticoid receptors
+T7	cell_type 619 635	rat thymus cells
+T8	cell_type 723 735	intact cells
+T9	protein 962 982	cytoplasmic receptor
+T10	protein 1072 1110	nuclear-bound hormone-receptor complex
+T11	cell_type 1170 1198	human peripheral lymphocytes
+T12	protein 1274 1297	glucocorticoid receptor
+T13	cell_type 1504 1528	mitogen-stimulated cells
+T14	protein 1775 1789	concanavalin A

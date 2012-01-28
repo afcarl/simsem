@@ -1,0 +1,31 @@
+T1	protein 0 18	AML1 ( CBFalpha2 )
+T2	protein 35 83	B cell-specific activating protein ( BSAP/PAX5 )
+T3	DNA 105 138	B cell-specific BLK gene promoter
+T4	protein 141 145	AML1
+T5	protein 230 234	AML1
+T6	protein 371 375	AML1
+T7	cell_type 383 389	B cell
+T8	DNA 420 438	regulatory regions
+T9	DNA 442 463	B cell-specific genes
+T10	DNA 478 496	AML1-binding sites
+T11	DNA 528 545	AML1-binding site
+T12	DNA 569 611	B cell-specific tyrosine kinase gene , blk
+T13	protein 691 695	AML1
+T14	DNA 735 747	blk promoter
+T15	DNA 787 790	blk
+T16	DNA 869 897	AML1 runt DNA-binding domain
+T17	DNA 928 953	paired DNA-binding domain
+T18	protein 957 961	BSAP
+T19	protein 966 1002	B cell-specific transcription factor
+T20	protein 1005 1009	BSAP
+T21	DNA 1090 1093	blk
+T22	protein 1125 1129	AML1
+T23	protein 1135 1139	BSAP
+T24	protein 1211 1215	AML1
+T25	protein 1220 1224	BSAP
+T26	DNA 1250 1253	blk
+T27	protein 1371 1375	AML1
+T28	protein 1380 1384	BSAP
+T29	protein 1402 1406	AML1
+T30	DNA 1456 1476	B cell-specific gene
+T31	DNA 1479 1482	blk

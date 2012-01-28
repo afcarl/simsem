@@ -1,0 +1,26 @@
+T1	protein 34 38	Rap1
+T2	cell_type 42 57	human platelets
+T3	protein 60 64	Rap1
+T4	protein 78 93	Ras-like GTPase
+T5	protein 208 222	GTP-bound form
+T6	protein 226 230	Rap1
+T7	protein 269 276	Rap1GTP
+T8	protein 281 288	Rap1GDP
+T9	protein 297 315	Rap binding domain
+T10	protein 319 325	RalGDS
+T11	protein 328 331	RBD
+T12	cell_type 351 366	blood platelets
+T13	protein 372 386	alpha-thrombin
+T14	protein 455 459	Rap1
+T15	protein 481 484	RBD
+T16	protein 507 510	RBD
+T17	cell_type 549 566	resting platelets
+T18	protein 586 590	Rap1
+T19	protein 712 716	Rap1
+T20	protein 873 877	Rap1
+T21	protein 946 954	thrombin
+T22	protein 978 982	Rap1
+T23	cell_type 1058 1066	platelet
+T24	protein 1142 1146	Rap1
+T25	protein 1185 1189	Rap1
+T26	cell_type 1204 1213	platelets

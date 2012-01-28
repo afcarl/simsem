@@ -1,0 +1,47 @@
+T1	protein 31 43	Janus kinase
+T2	protein 44 49	-STAT
+T3	protein 83 88	IL-13
+T4	cell_type 92 120	primary human NK and T cells
+T5	protein 148 152	IL-4
+T6	protein 155 160	IL-13
+T7	protein 185 189	IL-4
+T8	protein 268 273	IL-13
+T9	cell_type 277 305	primary human NK and T cells
+T10	cell_type 360 376	primary NK cells
+T11	protein 379 384	IL-13
+T12	protein 395 399	IL-4
+T13	protein 427 436	IFN-gamma
+T14	cell_type 454 462	NK cells
+T15	protein 486 491	IL-13
+T16	protein 496 500	IL-2
+T17	protein 503 508	IL-13
+T18	protein 557 562	IL-13
+T19	protein 579 583	IL-2
+T20	protein 597 606	IFN-gamma
+T21	protein 643 647	IL-2
+T22	protein 658 667	IFN-gamma
+T23	protein 721 726	IL-13
+T24	protein 730 734	IL-2
+T25	protein 744 753	IFN-gamma
+T26	protein 823 827	IL-4
+T27	cell_type 831 839	NK cells
+T28	protein 857 862	IL-13
+T29	protein 960 964	IL-4
+T30	cell_type 970 977	T cells
+T31	protein 980 985	IL-13
+T32	protein 1120 1125	IL-13
+T33	protein 1133 1137	IL-4
+T34	protein 1157 1184	STAT6-DNA binding complexes
+T35	protein 1217 1222	STAT6
+T36	protein 1227 1241	Janus kinase 3
+T37	protein 1244 1248	JAK3
+T38	cell_type 1261 1268	T cells
+T39	protein 1327 1332	STAT6
+T40	cell_type 1375 1382	T cells
+T41	cell_type 1394 1402	NK cells
+T42	protein 1426 1440	STAT6 isoforms
+T43	protein 1468 1473	IL-13
+T44	protein 1478 1482	IL-4
+T45	protein 1546 1551	IL-13
+T46	protein 1577 1582	STAT6
+T47	protein 1587 1591	JAK3

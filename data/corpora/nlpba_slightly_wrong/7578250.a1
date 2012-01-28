@@ -1,0 +1,21 @@
+T1	DNA 10 14	cDNA
+T2	cell_type 26 36	NK/T cells
+T3	DNA 93 103	cDNA clone
+T4	DNA 106 110	B4-2
+T5	DNA 133 187	natural killer ( NK ) minus T cell subtractive library
+T6	DNA 194 198	B4-2
+T7	RNA 218 222	mRNA
+T8	protein 267 281	327 aa protein
+T9	DNA 342 350	B4-2 DNA
+T10	DNA 456 460	B4-2
+T11	protein 530 556	nuclear targeting sequence
+T12	protein 575 586	SPXX motifs
+T13	protein 617 641	gene regulatory proteins
+T14	DNA 680 684	B4-2
+T15	protein 732 743	SH3 domains
+T16	DNA 786 790	B4-2
+T17	DNA 800 822	lymphoid specific gene
+T18	cell_line 845 863	hepatoma cell line
+T19	protein 970 986	recombinant B4-2
+T20	protein 1000 1017	32-34 kDa protein
+T21	cell_type 1021 1032	lymphocytes

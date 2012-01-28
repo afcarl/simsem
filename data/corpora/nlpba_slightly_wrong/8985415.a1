@@ -1,0 +1,43 @@
+T1	protein 0 5	STAT1
+T2	DNA 51 100	arthritis-encephalitis virus long terminal repeat
+T3	cell_type 104 113	monocytes
+T4	DNA 120 186	caprine arthritis-encephalitis virus ( CAEV ) long terminal repeat
+T5	DNA 189 192	LTR
+T6	protein 211 227	gamma interferon
+T7	protein 230 239	IFN-gamma
+T8	cell_type 245 263	promonocytic cells
+T9	DNA 298 311	70-bp element
+T10	DNA 364 372	CAEV LTR
+T11	protein 381 389	cytokine
+T12	DNA 399 406	5 ' end
+T13	DNA 414 446	70-bp IFN-gamma response element
+T14	DNA 483 503	gamma activated site
+T15	DNA 506 509	GAS
+T16	DNA 552 563	GAS element
+T17	DNA 571 579	CAEV LTR
+T18	protein 604 619	cellular factor
+T19	protein 631 640	IFN-gamma
+T20	cell_type 644 662	promonocytic cells
+T21	DNA 696 714	consensus sequence
+T22	protein 740 756	inducible factor
+T23	DNA 763 774	GAS element
+T24	DNA 784 795	70-bp motif
+T25	protein 838 847	IFN-gamma
+T26	DNA 949 960	GAS element
+T27	protein 989 998	IFN-gamma
+T28	DNA 1035 1043	CAEV LTR
+T29	DNA 1050 1071	heterologous promoter
+T30	DNA 1112 1123	GAS element
+T31	protein 1177 1186	IFN-gamma
+T32	DNA 1226 1237	GAS element
+T33	DNA 1245 1253	CAEV LTR
+T34	protein 1296 1301	STAT1
+T35	protein 1304 1310	p91/84
+T36	DNA 1346 1354	CAEV LTR
+T37	protein 1388 1397	IFN-gamma
+T38	protein 1404 1421	STAT1-like factor
+T39	DNA 1526 1534	CAEV LTR
+T40	protein 1538 1547	IFN-gamma
+T41	cell_type 1551 1560	monocytes
+T42	protein 1618 1636	STAT family member
+T43	DNA 1660 1674	viral promoter

@@ -1,0 +1,31 @@
+T1	protein 0 23	Phospholipase C gamma 1
+T2	protein 65 80	interferon beta
+T3	cell_type 84 103	human T lymphocytes
+T4	protein 109 114	ISGF3
+T5	protein 139 150	Interferons
+T6	protein 197 213	immunoregulatory
+T7	DNA 324 333	promoters
+T8	DNA 344 382	Interferon Stimulated Response Element
+T9	DNA 385 389	ISRE
+T10	protein 408 422	nuclear factor
+T11	protein 478 483	ISGF3
+T12	protein 507 517	interferon
+T13	protein 520 523	IFN
+T14	protein 633 656	phospholipase C gamma 1
+T15	protein 659 670	PLC gamma 1
+T16	cell_type 676 695	human T lymphocytes
+T17	protein 699 707	IFN-beta
+T18	protein 733 744	PLC gamma 1
+T19	protein 777 785	IFN-beta
+T20	protein 845 856	PLC gamma 1
+T21	protein 883 886	IFN
+T22	protein 932 938	enzyme
+T23	protein 1007 1022	tyrosine kinase
+T24	protein 1090 1095	ISGF3
+T25	cell_type 1139 1158	human T lymphocytes
+T26	protein 1159 1167	IFN-beta
+T27	protein 1187 1207	transcription factor
+T28	protein 1228 1233	ISGF3
+T29	protein 1246 1257	PLC gamma 1
+T30	protein 1305 1311	enzyme
+T31	protein 1460 1483	protein tyrosine kinase

@@ -1,0 +1,46 @@
+T1	protein 20 41	Grb2-binding proteins
+T2	cell_type 45 60	human platelets
+T3	protein 74 87	Fc gamma RIIA
+T4	protein 104 159	Glutathione-S-transferase ( GST ) -Grb2 fusion proteins
+T5	protein 209 230	Grb2-binding proteins
+T6	cell_type 234 242	platelet
+T7	protein 261 295	platelet low-affinity IgG receptor
+T8	protein 298 311	Fc gamma RIIA
+T9	protein 318 342	tyrosine phosphoproteins
+T10	protein 371 381	SH2 domain
+T11	protein 385 389	Grb2
+T12	protein 400 413	Fc gamma RIIA
+T13	cell_type 429 438	platelets
+T14	cell_type 496 504	platelet
+T15	protein 547 560	GST-construct
+T16	protein 576 595	SH2 and SH3 domains
+T17	protein 599 622	phospholipase C gamma 1
+T18	protein 659 678	tyrosine kinase csk
+T19	cell_type 682 698	stimulated cells
+T20	protein 726 732	kinase
+T21	protein 739 750	SH3 domains
+T22	protein 754 758	Grb2
+T23	protein 786 790	SOS1
+T24	protein 811 816	75 kD
+T25	protein 821 827	120 kD
+T26	cell_line 872 902	Fc gamma RIIA stimulated cells
+T27	protein 909 922	75-kD protein
+T28	protein 954 960	SLP-76
+T29	cell_type 1001 1008	T cells
+T30	protein 1053 1056	p38
+T31	protein 1061 1064	p63
+T32	cell_type 1085 1094	platelets
+T33	protein 1113 1128	tyrosine kinase
+T34	protein 1154 1162	collagen
+T35	protein 1174 1183	G protein
+T36	protein 1210 1218	thrombin
+T37	protein 1249 1255	SLP-76
+T38	protein 1276 1284	collagen
+T39	cell_type 1297 1306	platelets
+T40	protein 1309 1312	p38
+T41	protein 1317 1320	p63
+T42	protein 1352 1356	Grb2
+T43	protein 1375 1400	Grb2 SH3-binding proteins
+T44	protein 1401 1405	SOS1
+T45	protein 1408 1414	SLP-76
+T46	protein 1421 1425	p120

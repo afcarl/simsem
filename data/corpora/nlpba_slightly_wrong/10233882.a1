@@ -1,0 +1,17 @@
+T1	protein 22 31	NF-kappaB
+T2	cell_type 35 68	human CD34 ( + ) bone marrow cell
+T3	protein 84 104	transcription factor
+T4	protein 107 116	NF-kappaB
+T5	protein 350 359	NF-kappaB
+T6	cell_type 363 397	human CD34 ( + ) bone marrow cells
+T7	cell_type 467 501	human CD34 ( + ) bone marrow cells
+T8	protein 510 519	NF-kappaB
+T9	protein 606 615	cytokines
+T10	protein 623 650	tumor necrosis factor alpha
+T11	protein 653 666	interleukin-3
+T12	protein 673 721	granulocyte-macrophage colony-stimulating factor
+T13	protein 758 767	NF-kappaB
+T14	cell_type 794 821	CD34 ( + ) bone marrow cell
+T15	protein 905 914	NF-kappaB
+T16	cell_type 955 994	hematopoietic stem and progenitor cells
+T17	protein 1056 1065	NF-kappaB

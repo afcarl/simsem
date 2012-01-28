@@ -1,0 +1,28 @@
+T1	protein 29 42	collagenase-1
+T2	cell_line 46 89	differentiated monocyte-like ( U937 ) cells
+T3	protein 106 110	AP-1
+T4	DNA 118 142	upstream C/EBP-beta site
+T5	protein 186 190	AP-1
+T6	DNA 202 225	distal promoter element
+T7	protein 264 277	collagenase-1
+T8	DNA 313 368	Chloramphenicol acetyltransferase expression constructs
+T9	DNA 395 423	human collagenase-1 promoter
+T10	cell_line 468 478	U937 cells
+T11	DNA 698 717	mutant AP-1 element
+T12	DNA 756 785	mutant collagenase-1 promoter
+T13	protein 796 800	AP-1
+T14	DNA 848 870	AP-1 mutant constructs
+T15	cell_line 921 944	PMA-treated fibroblasts
+T16	protein 994 1025	functional Jun and Fos proteins
+T17	cell_line 1062 1091	PMA-differentiated U937 cells
+T18	DNA 1158 1183	distal promoter sequences
+T19	protein 1198 1211	collagenase-1
+T20	DNA 1319 1382	CCAAT/enhancer-binding protein-beta ( C/EBP-beta ) binding site
+T21	DNA 1391 1406	-2010 and -1954
+T22	protein 1438 1451	collagenase-1
+T23	cell_type 1455 1470	monocytic cells
+T24	DNA 1508 1527	regulatory elements
+T25	protein 1598 1611	collagenase-1
+T26	protein 1687 1700	collagenase-1
+T27	protein 1807 1817	proteinase
+T28	cell_type 1821 1842	activated macrophages

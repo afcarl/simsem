@@ -1,0 +1,21 @@
+T1	cell_type 72 100	post-germinal center B cells
+T2	cell_line 355 382	Reed-Sternberg ( RS ) cells
+T3	protein 553 558	BCL-6
+T4	protein 563 583	transcription factor
+T5	cell_line 597 627	germinal center ( GC ) B cells
+T6	protein 637 653	CD138/syndecan-1
+T7	protein 656 661	syn-1
+T8	cell_type 716 722	B-cell
+T9	cell_line 929 937	RS cells
+T10	protein 1002 1007	BCL-6
+T11	cell_line 1054 1069	post-GC B cells
+T12	protein 1081 1086	BCL-6
+T13	cell_line 1106 1114	RS cells
+T14	protein 1133 1137	CD40
+T15	cell_type 1167 1221	CD40 ligand-positive ( CD40L+ ) reactive T lymphocytes
+T16	protein 1320 1324	CD40
+T17	protein 1325 1331	/CD40L
+T18	cell_line 1360 1368	RS cells
+T19	protein 1405 1442	EBV-encoded latent membrane protein 1
+T20	protein 1445 1449	LMP1
+T21	protein 1495 1499	CD40

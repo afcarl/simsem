@@ -1,0 +1,23 @@
+T1	DNA 34 61	rabbit 15-lipoxygenase gene
+T2	cell_type 65 80	erythroid cells
+T3	DNA 86 110	transcriptional silencer
+T4	DNA 117 145	15-lipoxygenase ( lox ) gene
+T5	cell_type 206 221	erythroid cells
+T6	cell_type 234 257	airway epithelial cells
+T7	cell_type 262 273	eosinophils
+T8	DNA 315 331	5 ' flanking DNA
+T9	DNA 339 350	15-lox gene
+T10	cell_line 419 443	non-erythroid cell lines
+T11	cell_line 459 479	erythroid cell lines
+T12	DNA 519 536	transcriptional '
+T13	DNA 614 622	silencer
+T14	DNA 662 678	5 ' flanking DNA
+T15	protein 721 735	nuclear factor
+T16	cell_type 752 767	erythroid cells
+T17	cell_type 779 794	erythroid cells
+T18	DNA 867 880	binding sites
+T19	DNA 939 968	minimal lox promoter fragment
+T20	DNA 975 991	5 ' flanking DNA
+T21	DNA 1025 1038	binding sites
+T22	protein 1047 1058	GATA family
+T23	protein 1062 1083	transcription factors

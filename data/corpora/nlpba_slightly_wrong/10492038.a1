@@ -1,0 +1,25 @@
+T1	protein 31 35	MNDA
+T2	protein 283 287	MNDA
+T3	protein 441 445	MNDA
+T4	cell_type 460 488	normal maturing granulocytes
+T5	cell_type 493 502	monocytes
+T6	protein 576 580	MNDA
+T7	cell_type 644 665	activated macrophages
+T8	cell_type 670 694	foreign body giant cells
+T9	protein 794 798	MNDA
+T10	cell_type 825 844	myeloid blast cells
+T11	cell_line 938 957	mande B lymphocytes
+T12	cell_type 969 990	germinal center cells
+T13	cell_type 994 1006	plasma cells
+T14	cell_type 1021 1037	B cell neoplasms
+T15	protein 1049 1053	MNDA
+T16	protein 1231 1235	MNDA
+T17	protein 1250 1254	CD20
+T18	cell_type 1268 1275	B cells
+T19	protein 1278 1282	MNDA
+T20	cell_type 1341 1363	nonhematopoietic cells
+T21	protein 1409 1413	MNDA
+T22	protein 1572 1599	B- and myeloid cell markers
+T23	cell_type 1603 1621	neoplastic B cells
+T24	cell_type 1637 1661	normal B cell population
+T25	cell_type 1721 1737	B cell neoplasms

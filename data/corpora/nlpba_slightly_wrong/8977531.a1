@@ -1,0 +1,40 @@
+T1	protein 15 37	nuclear factor-kappa B
+T2	protein 52 55	IgE
+T3	cell_type 69 82	human B cells
+T4	protein 85 107	Nuclear factor-kappa B
+T5	protein 110 120	NF-kappa B
+T6	DNA 167 189	consensus DNA sequence
+T7	DNA 197 216	cis-acting elements
+T8	DNA 220 233	various genes
+T9	protein 245 255	NF-kappa B
+T10	protein 377 387	NF-kappa B
+T11	cell_type 436 449	human B cells
+T12	protein 501 511	NF-kappa B
+T13	cell_line 515 533	germline C epsilon
+T14	cell_line 553 587	human Burkitt lymphoma B cell line
+T15	cell_line 590 595	DND39
+T16	cell_line 613 624	DND39 cells
+T17	protein 630 634	IL-4
+T18	protein 638 667	anti-CD40 monoclonal antibody
+T19	protein 670 673	mAb
+T20	protein 686 715	phosphatidylinositol 3-kinase
+T21	protein 763 773	NF-kappa B
+T22	protein 901 911	NF-kappa B
+T23	protein 933 937	IL-4
+T24	protein 945 958	anti-CD40 mAb
+T25	cell_line 984 1014	IL-4-driven germline C epsilon
+T26	protein 1089 1102	anti-CD40 mAb
+T27	DNA 1130 1138	germline
+T28	protein 1206 1209	IgE
+T29	protein 1262 1266	IL-4
+T30	protein 1271 1284	anti-CD40 mAb
+T31	protein 1354 1357	IgE
+T32	protein 1484 1487	IgE
+T33	cell_type 1491 1505	atopic B cells
+T34	protein 1536 1546	NF-kappa B
+T35	cell_line 1581 1592	DND39 cells
+T36	protein 1596 1600	IL-4
+T37	protein 1605 1618	anti-CD40 mAb
+T38	protein 1636 1646	NF-kappa B
+T39	protein 1694 1697	IgE
+T40	cell_type 1711 1718	B cells

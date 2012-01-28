@@ -1,0 +1,26 @@
+T1	protein 25 37	PML/RARalpha
+T2	DNA 132 159	promyelocytic leukemia gene
+T3	DNA 162 165	PML
+T4	DNA 171 184	chromosome 15
+T5	DNA 194 222	retinoic acid receptor alpha
+T6	protein 225 233	RARalpha
+T7	DNA 239 252	chromosome 17
+T8	protein 289 301	PML/RARalpha
+T9	protein 306 326	transcription factor
+T10	protein 517 529	PML/RARalpha
+T11	cell_type 544 558	leukemic cells
+T12	protein 577 589	PML/RARalpha
+T13	protein 640 652	PML/RARalpha
+T14	DNA 685 702	PML/RARalpha cDNA
+T15	DNA 717 731	CD11b promoter
+T16	protein 939 951	PML/RARalpha
+T17	cell_type 1006 1030	CD11b+ bone marrow cells
+T18	cell_type 1048 1066	CD11b+ populations
+T19	cell_type 1237 1256	myeloid progenitors
+T20	protein 1293 1342	granulocyte/ macrophage colony-stimulating factor
+T21	protein 1345 1393	Granulocyte/macrophage colony-stimulating factor
+T22	protein 1573 1585	PML/RARalpha
+T23	protein 1825 1837	PML/RARalpha
+T24	protein 1983 1995	PML/RARalpha
+T25	cell_type 2010 2021	granulocyte
+T26	protein 2086 2098	PML/RARalpha

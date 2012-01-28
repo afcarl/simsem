@@ -1,0 +1,40 @@
+T1	protein 0 2	RB
+T2	protein 15 36	E2F-1 binding protein
+T3	cell_line 40 75	MHC class II deficient B-cell lines
+T4	protein 87 96	IFN-gamma
+T5	DNA 114 137	class IL transactivator
+T6	DNA 138 143	CIITA
+T7	cell_line 147 194	class II non-inducible RB-defective tumor lines
+T8	DNA 201 248	major histocompatibility ( MHC ) class II genes
+T9	protein 256 277	cell surface proteins
+T10	cell_type 326 333	T-cells
+T11	protein 340 357	class II proteins
+T12	cell_type 390 397	B-cells
+T13	cell_line 402 427	EBV-transformed B-cells ,
+T14	protein 449 458	IFN-gamma
+T15	cell_type 480 490	cell types
+T16	protein 493 515	Retinoblastoma protein
+T17	protein 518 520	RB
+T18	protein 564 589	transcriptional repressor
+T19	DNA 622 642	transactivator E2F-I
+T20	cell_line 645 669	RB-defective tumor lines
+T21	protein 692 704	MHC class II
+T22	protein 708 717	IFN-gamma
+T23	DNA 790 811	RB expression vectors
+T24	protein 905 907	RB
+T25	protein 1096 1098	RB
+T26	protein 1153 1155	RB
+T27	protein 1381 1390	IFN-gamma
+T28	DNA 1404 1409	CIITA
+T29	protein 1413 1415	RB
+T30	DNA 1435 1440	CIITA
+T31	DNA 1446 1474	class II gene transactivator
+T32	protein 1556 1568	MHC class II
+T33	protein 1572 1581	IFN-gamma
+T34	RNA 1584 1594	CIITA mRNA
+T35	protein 1620 1629	IFN-gamma
+T36	cell_line 1633 1676	class II non-inducible , RB-defective lines
+T37	protein 1714 1716	RB
+T38	RNA 1734 1744	CIITA mRNA
+T39	cell_line 1813 1831	RB-defective cells
+T40	DNA 1857 1862	CIITA

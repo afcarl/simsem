@@ -1,0 +1,39 @@
+T1	protein 46 68	FcepsilonRIIb receptor
+T2	protein 71 75	CD23
+T3	cell_type 81 96	human monocytes
+T4	protein 105 126	nuclear factor-kappaB
+T5	cell_type 153 173	Alveolar macrophages
+T6	cell_type 258 278	Alveolar macrophages
+T7	cell_type 283 309	peripheral blood monocytes
+T8	protein 329 358	IgE/allergen immune complexes
+T9	protein 371 384	CD23 receptor
+T10	protein 420 442	inflammatory cytokines
+T11	protein 631 635	CD23
+T12	cell_type 639 654	human monocytes
+T13	cell_line 663 690	promonocytic cell line U937
+T14	protein 703 707	CD23
+T15	cell_type 728 743	human monocytes
+T16	cell_line 748 758	U937 cells
+T17	protein 764 784	IgE immune complexes
+T18	protein 809 813	CD23
+T19	protein 848 868	Transcription factor
+T20	protein 980 992	IkappaBalpha
+T21	protein 1066 1095	Nuclear factor ( NF ) -kappaB
+T22	protein 1174 1178	CD23
+T23	cell_type 1196 1205	monocytes
+T24	protein 1208 1230	CD23-induced NF-kappaB
+T25	protein 1260 1276	p65/p50 subunits
+T26	protein 1381 1410	NF-kappaB inhibitory molecule
+T27	protein 1411 1423	IkappaBalpha
+T28	protein 1426 1441	Tyrosine kinase
+T29	protein 1463 1479	protein kinase C
+T30	protein 1510 1514	CD23
+T31	protein 1526 1535	NF-kappaB
+T32	protein 1603 1615	IkappaBalpha
+T33	protein 1618 1630	IkappaBalpha
+T34	protein 1647 1656	NF-kappaB
+T35	protein 1728 1750	inflammatory cytokines
+T36	protein 1751 1760	TNF-alpha
+T37	protein 1790 1799	NF-kappaB
+T38	protein 1880 1884	CD23
+T39	cell_type 1888 1897	monocytes

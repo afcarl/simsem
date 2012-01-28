@@ -1,0 +1,31 @@
+T1	protein 25 34	IL-1 beta
+T2	protein 39 52	IL-1 receptor
+T3	cell_line 113 149	chronically infected monocytic cells
+T4	protein 386 411	proinflammatory cytokines
+T5	cell_line 618 626	U1 cells
+T6	cell_line 631 653	promonocytic cell line
+T7	cell_line 701 709	U1 cells
+T8	protein 802 850	granulocyte-macrophage colony-stimulating factor
+T9	protein 853 859	GM-CSF
+T10	cell_line 881 889	U1 cells
+T11	protein 904 910	GM-CSF
+T12	RNA 966 973	HIV RNA
+T13	DNA 1011 1035	HIV long terminal repeat
+T14	protein 1112 1141	cellular transcription factor
+T15	protein 1142 1164	nuclear factor-kappa B
+T16	protein 1216 1222	GM-CSF
+T17	protein 1249 1274	proinflammatory cytokines
+T18	protein 1277 1281	IL-8
+T19	protein 1284 1293	IL-1 beta
+T20	protein 1298 1302	IL-6
+T21	protein 1313 1322	TNF-alpha
+T22	protein 1325 1338	IL-1 receptor
+T23	cell_line 1404 1427	GM-CSF-stimulated cells
+T24	protein 1446 1461	endogenous IL-1
+T25	protein 1527 1554	anti-inflammatory cytokines
+T26	protein 1574 1580	GM-CSF
+T27	protein 1664 1673	IL-1 beta
+T28	protein 1787 1822	endogenously produced viral inducer
+T29	protein 1825 1834	IL-1 beta
+T30	protein 1856 1862	IL-1ra
+T31	cell_type 1945 1960	monocytic cells

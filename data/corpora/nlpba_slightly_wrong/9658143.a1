@@ -1,0 +1,22 @@
+T1	protein 27 47	Nur77 family members
+T2	cell_type 51 99	human T-lymphotropic virus type 1-infected cells
+T3	DNA 125 139	TR3/nur77 gene
+T4	protein 143 154	Tax protein
+T5	protein 236 269	Nur77 transcription factor family
+T6	protein 322 333	Tax protein
+T7	cell_type 370 391	HTLV-1-infected cells
+T8	cell_line 396 422	Tax-expressing JPX-9 cells
+T9	protein 425 434	TR3/nur77
+T10	protein 568 571	Tax
+T11	protein 595 604	TR3/nur77
+T12	DNA 626 640	NOR-1 promoter
+T13	DNA 697 721	luciferase reporter gene
+T14	DNA 736 788	NGFI-B ( rat homolog of TR3/Nur77 ) response element
+T15	DNA 791 795	NBRE
+T16	protein 821 824	Tax
+T17	DNA 934 961	TR3/nur77 promoter sequence
+T18	DNA 969 973	NBRE
+T19	protein 1014 1017	Tax
+T20	protein 1042 1045	Tax
+T21	protein 1055 1064	TR3/nur77
+T22	protein 1091 1129	CREB/ATF-related transcription factors

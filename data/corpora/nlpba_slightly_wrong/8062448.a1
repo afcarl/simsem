@@ -1,0 +1,23 @@
+T1	protein 0 13	Superantigens
+T2	cell_type 48 63	monocytic cells
+T3	protein 94 116	MHC class II molecules
+T4	protein 241 269	staphylococcal superantigens
+T5	protein 270 298	toxic shock syndrome toxin-1
+T6	protein 301 307	TSST-1
+T7	protein 314 342	staphylococcal enterotoxin A
+T8	protein 345 348	SEA
+T9	DNA 360 369	HIV-1-LTR
+T10	protein 395 429	chloramphenicol acetyl transferase
+T11	cell_line 437 462	human monocytic cell line
+T12	cell_line 463 468	THP-1
+T13	DNA 491 494	LTR
+T14	cell_line 520 531	THP-1 cells
+T15	protein 535 548	superantigens
+T16	protein 586 608	nuclear factor-kappa B
+T17	protein 632 645	Superantigens
+T18	cell_line 694 803	granulocyte-macrophage colony-stimulating factor-pretreated chronically infected human monocytic cell line U1
+T19	cell_type 844 859	monocytic cells
+T20	protein 863 876	superantigens
+T21	protein 983 996	superantigens
+T22	protein 1007 1027	MHC class II ligands
+T23	cell_type 1066 1087	monocytes/macrophages

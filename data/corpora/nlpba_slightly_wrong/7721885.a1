@@ -1,0 +1,49 @@
+T1	protein 0 22	Interleukin ( IL ) -10
+T2	protein 32 54	nuclear factor kappa B
+T3	protein 57 67	NF kappa B
+T4	cell_type 84 99	human monocytes
+T5	protein 102 107	IL-10
+T6	protein 112 116	IL-4
+T7	protein 126 134	cytokine
+T8	cell_type 195 210	human monocytes
+T9	protein 234 256	interleukin ( IL ) -10
+T10	protein 319 341	inflammatory cytokines
+T11	protein 344 353	IL-1 beta
+T12	protein 356 360	IL-6
+T13	protein 363 367	IL-8
+T14	protein 374 410	tumor necrosis factor ( TNF ) -alpha
+T15	protein 554 563	TNF alpha
+T16	protein 566 571	IL-10
+T17	protein 604 626	nuclear factor kappa B
+T18	protein 629 639	NF kappa B
+T19	protein 646 666	transcription factor
+T20	DNA 697 724	inflammatory cytokine genes
+T21	protein 741 762	transcription factors
+T22	protein 777 781	IL-6
+T23	protein 784 788	AP-1
+T24	protein 791 795	AP-2
+T25	protein 798 800	GR
+T26	protein 803 807	CREB
+T27	protein 810 815	Oct-1
+T28	protein 822 826	Sp-1
+T29	protein 847 852	IL-10
+T30	protein 884 889	IL-10
+T31	protein 893 903	NF kappa B
+T32	protein 986 991	IL-10
+T33	protein 995 1003	cytokine
+T34	protein 1225 1235	NF kappa B
+T35	cell_line 1284 1308	LPS-stimulated monocytes
+T36	protein 1369 1379	NF kappa B
+T37	protein 1425 1430	IL-10
+T38	cell_type 1477 1492	human monocytes
+T39	protein 1495 1499	IL-4
+T40	protein 1510 1518	cytokine
+T41	RNA 1533 1546	cytokine mRNA
+T42	cell_type 1563 1572	monocytes
+T43	protein 1621 1631	NF kappa B
+T44	protein 1687 1692	IL-10
+T45	protein 1695 1699	IL-4
+T46	RNA 1709 1713	mRNA
+T47	protein 1803 1808	IL-10
+T48	protein 1813 1817	IL-4
+T49	protein 1826 1834	cytokine

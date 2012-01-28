@@ -1,0 +1,39 @@
+T1	DNA 12 36	myeloid-associated genes
+T2	cell_type 40 76	human hematopoietic progenitor cells
+T3	protein 99 144	myeloid lineage-associated cytokine receptors
+T4	protein 149 167	lysosomal proteins
+T5	cell_line 184 226	human CD34+ cord blood cell ( CB ) subsets
+T6	protein 353 398	granulomonocyte-associated lysosomal proteins
+T7	protein 399 414	myeloperoxidase
+T8	protein 417 420	MPO
+T9	protein 427 435	lysozyme
+T10	protein 438 440	LZ
+T11	protein 460 480	transcription factor
+T12	protein 481 485	PU.1
+T13	cell_line 533 551	CD34+Thy-1+ subset
+T14	RNA 554 567	Messenger RNA
+T15	RNA 570 574	mRNA
+T16	protein 592 648	granulocyte-colony stimulating factor ( G-CSF ) receptor
+T17	protein 651 708	granulocyte-macrophage ( GM ) -CSF receptor alpha subunit
+T18	protein 713 777	tumor necrosis factor ( TNF ) receptors I ( p55 ) and II ( p75 )
+T19	protein 827 832	c-kit
+T20	protein 837 842	flt-3
+T21	cell_type 880 896	progenitor cells
+T22	protein 917 981	monocyte-macrophage colony stimulating factor ( M-CSF ) receptor
+T23	cell_line 1026 1052	CD34+Thy-1-CD45RA- subsets
+T24	protein 1059 1073	M-CSF receptor
+T25	cell_line 1102 1145	myeloid-committed CD34+Thy-l-CD45RA+ subset
+T26	cell_line 1298 1329	sorted CD34+Thy-1+ single cells
+T27	protein 1415 1431	stem cell factor
+T28	protein 1434 1437	SCF
+T29	protein 1442 1454	Flt-3 ligand
+T30	protein 1457 1459	FL
+T31	protein 1464 1469	G-CSF
+T32	protein 1484 1490	GM-CSF
+T33	cell_line 1564 1588	single CD34+Thy-1+ cells
+T34	protein 1682 1691	TNF-alpha
+T35	RNA 1726 1779	myeloid-associated growth factor receptor transcripts
+T36	cell_line 1783 1799	CD34+ CB subsets
+T37	protein 1888 1902	M-CSF receptor
+T38	protein 1932 1941	TNF-alpha
+T39	cell_line 1987 2017	immature CD34+Thy-1+ CB subset

@@ -1,0 +1,34 @@
+T1	protein 15 42	tumor necrosis factor alpha
+T2	cell_type 65 80	human monocytes
+T3	protein 131 145	interleukin-10
+T4	protein 236 263	tumor necrosis factor alpha
+T5	protein 266 275	TNF-alpha
+T6	protein 321 343	interleukin ( IL ) -10
+T7	cell_type 347 364	mononuclear cells
+T8	DNA 367 381	TNF-alpha gene
+T9	protein 421 441	transcription factor
+T10	protein 442 463	nuclear factor kappaB
+T11	protein 466 475	NF-kappaB
+T12	protein 490 495	IL-10
+T13	protein 505 514	NF-kappaB
+T14	cell_type 518 527	monocytes
+T15	protein 548 557	TNF-alpha
+T16	protein 606 611	IL-10
+T17	protein 633 642	NF-kappaB
+T18	protein 658 667	TNF-alpha
+T19	cell_type 682 697	human monocytes
+T20	cell_type 718 733	Human monocytes
+T21	protein 887 895	Cytokine
+T22	protein 898 907	TNF-alpha
+T23	protein 912 917	IL-10
+T24	RNA 958 972	TNF-alpha mRNA
+T25	protein 1043 1052	NF-kappaB
+T26	protein 1174 1183	TNF-alpha
+T27	protein 1401 1406	IL-10
+T28	RNA 1588 1602	TNF-alpha mRNA
+T29	protein 1618 1627	NF-kappaB
+T30	protein 1720 1725	IL-10
+T31	protein 1742 1750	antibody
+T32	protein 1808 1817	TNF-alpha
+T33	protein 1899 1908	TNF-alpha
+T34	protein 1994 1999	IL-10

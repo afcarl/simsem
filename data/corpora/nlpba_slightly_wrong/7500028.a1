@@ -1,0 +1,27 @@
+T1	protein 29 37	cytokine
+T2	protein 108 112	STAT
+T3	protein 148 157	cytokines
+T4	protein 350 358	cytokine
+T5	protein 428 437	cytokines
+T6	protein 447 527	signal transducer and activation of transcription ( STAT ) transcription factors
+T7	cell_line 612 645	mononuclear cell priming cultures
+T8	cell_type 650 678	inflammatory synovial fluids
+T9	cell_type 681 684	SFs
+T10	protein 748 756	cytokine
+T11	protein 772 776	STAT
+T12	cell_type 845 848	SFs
+T13	protein 898 923	interferon ( IFN ) -gamma
+T14	protein 934 954	interleukin ( IL ) 4
+T15	cell_type 971 985	effector cells
+T16	protein 1049 1053	IL-4
+T17	protein 1058 1063	IL-10
+T18	protein 1082 1087	IL-12
+T19	cell_type 1164 1167	SFs
+T20	protein 1202 1228	transcription factor Stat1
+T21	protein 1239 1244	Stat3
+T22	protein 1279 1284	Stat1
+T23	protein 1326 1335	cytokines
+T24	protein 1394 1403	IFN-gamma
+T25	protein 1424 1429	Stat3
+T26	protein 1440 1445	Stat1
+T27	cell_type 1607 1613	T cell

@@ -1,0 +1,27 @@
+T1	cell_type 45 58	T lymphocytes
+T2	protein 104 116	immunophilin
+T3	cell_type 191 204	T lymphocytes
+T4	protein 239 255	antigen receptor
+T5	protein 373 386	interleukin 2
+T6	protein 389 393	IL-2
+T7	protein 577 589	immunophilin
+T8	protein 592 625	immunosuppressant binding protein
+T9	protein 689 710	FK506 binding protein
+T10	protein 711 715	FKBP
+T11	protein 782 786	FKBP
+T12	protein 945 949	IL-2
+T13	protein 1009 1014	NF-AT
+T14	protein 1019 1055	T-cell-specific transcription factor
+T15	DNA 1070 1079	IL-2 gene
+T16	protein 1177 1181	IL-2
+T17	protein 1345 1357	immunophilin
+T18	protein 1358 1362	FKBP
+T19	protein 1365 1369	FKBP
+T20	protein 1455 1481	peptidyl-prolyl amide bond
+T21	protein 1599 1603	FKBP
+T22	protein 1630 1634	FKBP
+T23	protein 1682 1686	FKBP
+T24	protein 1793 1805	immunophilin
+T25	protein 1837 1853	antigen receptor
+T26	protein 1902 1914	immunophilin
+T27	protein 1931 1935	IL-2

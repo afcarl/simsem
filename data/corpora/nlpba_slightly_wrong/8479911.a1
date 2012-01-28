@@ -1,0 +1,25 @@
+T1	protein 28 66	helix-loop-helix transcription factors
+T2	DNA 82 90	E2A gene
+T3	DNA 97 105	E2A gene
+T4	protein 114 135	transcription factors
+T5	protein 143 166	helix-loop-helix family
+T6	protein 231 248	dimeric complexes
+T7	DNA 268 291	E box enhancer elements
+T8	DNA 347 355	E2A gene
+T9	DNA 443 457	mouse E2A gene
+T10	protein 547 558	E2A protein
+T11	protein 599 613	73 kDa protein
+T12	cell_line 683 714	cell lines of B lymphoid origin
+T13	cell_type 730 751	pancreatic beta-cells
+T14	cell_type 756 772	fibroblast cells
+T15	cell_type 832 846	lymphoid cells
+T16	DNA 883 888	E box
+T17	protein 907 916	LEF1/BCF1
+T18	protein 1036 1053	E2A gene products
+T19	DNA 1095 1103	E2A cDNA
+T20	protein 1157 1171	73 kDa protein
+T21	protein 1221 1230	LEF1/BCF1
+T22	protein 1331 1340	LEF1/BCF1
+T23	protein 1346 1371	homodimer of E2A proteins
+T24	cell_type 1454 1470	B lymphoid cells
+T25	protein 1533 1544	E2A protein

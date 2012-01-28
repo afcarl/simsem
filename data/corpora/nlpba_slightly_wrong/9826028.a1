@@ -1,0 +1,14 @@
+T1	cell_type 38 50	T lymphocyte
+T2	protein 347 354	mitogen
+T3	cell_type 444 457	T lymphocytes
+T4	cell_line 507 524	T cell hybridomas
+T5	cell_type 529 547	peripheral T cells
+T6	cell_type 564 574	thymocytes
+T7	protein 655 663	caspases
+T8	protein 692 740	caspase substrate poly ( ADP-ribose ) polymerase
+T9	protein 743 747	PARP
+T10	protein 776 784	caspases
+T11	protein 826 830	PARP
+T12	protein 926 931	Bcl-2
+T13	protein 976 980	PARP
+T14	protein 1080 1088	caspases

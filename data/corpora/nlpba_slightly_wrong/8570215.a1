@@ -1,0 +1,21 @@
+T1	DNA 25 38	TCL1 oncogene
+T2	DNA 75 86	MTCP1/c6.1B
+T3	cell_type 106 127	non-leukaemic T cells
+T4	DNA 275 300	chromosome translocations
+T5	cell_type 333 351	peripheral T cells
+T6	cell_type 430 436	T cell
+T7	cell_type 451 470	translocation cells
+T8	protein 760 764	TCL1
+T9	DNA 770 775	14q32
+T10	protein 785 810	c6.1B/MTCP1 A1 transcript
+T11	DNA 813 820	at-Xq28
+T12	protein 905 909	TCL1
+T13	cell_type 920 937	leukaemic T cells
+T14	DNA 961 974	chromosome 14
+T15	protein 1006 1010	TCL1
+T16	cell_type 1030 1054	preleukaemic clone cells
+T17	protein 1135 1139	TCL1
+T18	RNA 1313 1326	B1 transcript
+T19	DNA 1348 1353	MTCP1
+T20	RNA 1481 1500	MTCP1/A1 transcript
+T21	cell_type 1539 1566	tumour and non tumour cells

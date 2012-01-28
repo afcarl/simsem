@@ -1,0 +1,60 @@
+T1	cell_type 17 40	peripheral blood T cell
+T2	cell_type 55 78	human endothelial cells
+T3	protein 90 94	IL-2
+T4	protein 135 140	c-fos
+T5	protein 165 168	Fos
+T6	protein 180 184	AP-1
+T7	cell_type 187 204	Endothelial cells
+T8	cell_type 207 209	EC
+T9	cell_type 227 238	resting PBL
+T10	cell_type 389 412	human umbilical vein EC
+T11	cell_type 446 464	PHA-stimulated PBL
+T12	protein 469 510	CD2 : lymphocyte function-associated Ag-3
+T13	protein 596 600	IL-2
+T14	cell_type 717 719	EC
+T15	cell_type 723 726	PBL
+T16	protein 756 764	mAb OKT3
+T17	cell_type 786 788	EC
+T18	RNA 830 839	IL-2 mRNA
+T19	protein 865 869	IL-2
+T20	cell_type 887 890	PBL
+T21	cell_type 930 932	EC
+T22	protein 936 958	T cell nuclear factors
+T23	protein 977 981	IL-2
+T24	protein 1008 1013	c-jun
+T25	protein 1018 1038	c-fos-two components
+T26	protein 1046 1066	transcription factor
+T27	protein 1067 1071	AP-1
+T28	protein 1074 1078	NFAT
+T29	cell_type 1094 1097	PBL
+T30	protein 1121 1138	c-jun transcripts
+T31	RNA 1158 1168	c-jun mRNA
+T32	protein 1187 1190	PHA
+T33	cell_type 1232 1234	EC
+T34	RNA 1251 1261	c-fos mRNA
+T35	cell_type 1285 1292	T cells
+T36	protein 1311 1314	PHA
+T37	cell_type 1328 1330	EC
+T38	RNA 1351 1361	c-fos mRNA
+T39	RNA 1387 1397	c-fos mRNA
+T40	cell_type 1401 1422	PHA-activated T cells
+T41	cell_type 1611 1622	resting PBL
+T42	DNA 1640 1658	proximal AP-1 site
+T43	DNA 1666 1679	IL-2 promoter
+T44	protein 1712 1717	c-Jun
+T45	protein 1726 1731	c-Fos
+T46	protein 1756 1760	AP-1
+T47	cell_type 1766 1785	PHA-activated cells
+T48	protein 1795 1800	c-Jun
+T49	protein 1819 1824	c-Fos
+T50	cell_type 1859 1861	EC
+T51	protein 1918 1923	c-Fos
+T52	protein 1935 1939	AP-1
+T53	protein 1958 1973	nuclear factors
+T54	protein 1986 1990	IL-2
+T55	cell_type 2022 2024	EC
+T56	protein 2036 2054	NFAT-DNA complexes
+T57	protein 2164 2184	transcription factor
+T58	protein 2185 2189	AP-1
+T59	protein 2234 2238	IL-2
+T60	cell_type 2305 2307	EC

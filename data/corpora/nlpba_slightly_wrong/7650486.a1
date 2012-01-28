@@ -1,0 +1,47 @@
+T1	protein 33 48	nuclear factors
+T2	cell_type 52 69	activated T cells
+T3	protein 72 77	NFATp
+T4	protein 82 87	NFATc
+T5	cell_type 93 119	human natural killer cells
+T6	protein 138 142	CD16
+T7	protein 261 269	cytokine
+T8	cell_type 283 310	natural killer ( NK ) cells
+T9	protein 362 376	nuclear factor
+T10	cell_type 380 397	activated T cells
+T11	protein 400 405	NFATp
+T12	protein 412 451	cyclosporin A ( CsA ) -sensitive factor
+T13	protein 496 505	cytokines
+T14	protein 517 521	CD16
+T15	protein 545 559	cytokine genes
+T16	cell_type 563 577	human NK cells
+T17	protein 580 584	CD16
+T18	protein 587 601	Fc gamma RIIIA
+T19	RNA 627 640	cytokine mRNA
+T20	cell_type 644 652	NK cells
+T21	cell_type 732 740	NK cells
+T22	protein 746 750	CD16
+T23	protein 767 771	NFAT
+T24	protein 1053 1065	NK cell NFAT
+T25	cell_type 1095 1114	nonstimulated cells
+T26	protein 1183 1187	AP-1
+T27	protein 1215 1220	NFATp
+T28	protein 1225 1230	NFATc
+T29	protein 1263 1267	NFAT
+T30	protein 1318 1355	NFATp- and NFATc- specific antibodies
+T31	protein 1401 1405	CD16
+T32	protein 1463 1468	NFATp
+T33	cell_type 1587 1600	T lymphocytes
+T34	cell_type 1603 1611	NK cells
+T35	protein 1627 1632	NFATc
+T36	RNA 1654 1664	NFATc mRNA
+T37	protein 1798 1801	mAb
+T38	protein 1818 1830	T cell NFATc
+T39	protein 1854 1859	NFATc
+T40	cell_line 1918 1948	phorbol ester-stimulated cells
+T41	protein 2040 2075	CsA-sensitive transcription factors
+T42	protein 2078 2083	NFATp
+T43	protein 2088 2093	NFATc
+T44	cell_type 2119 2127	NK cells
+T45	cell_type 2261 2269	NK cells
+T46	protein 2303 2308	NFATp
+T47	RNA 2348 2358	NFATc mRNA

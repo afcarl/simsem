@@ -1,0 +1,19 @@
+T1	protein 38 41	Fos
+T2	protein 46 49	Jun
+T3	cell_type 53 84	influenza virus-exposed T cells
+T4	cell_type 187 209	Mononuclear leukocytes
+T5	cell_type 393 400	T cells
+T6	protein 415 450	transcriptional regulating proteins
+T7	protein 451 454	Fos
+T8	protein 459 462	Jun
+T9	protein 523 526	Fos
+T10	protein 531 534	Jun
+T11	cell_type 668 675	T cells
+T12	protein 702 718	interferon-gamma
+T13	protein 721 730	IFN-gamma
+T14	protein 782 785	Fos
+T15	protein 790 793	Jun
+T16	protein 798 807	IFN-gamma
+T17	cell_type 838 859	virus-exposed T cells
+T18	protein 871 874	Fos
+T19	protein 879 882	Jun

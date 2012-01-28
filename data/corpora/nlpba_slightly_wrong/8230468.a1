@@ -1,0 +1,37 @@
+T1	protein 25 57	Epstein-Barr virus ZEBRA protein
+T2	DNA 76 112	transcriptional activating sequences
+T3	cell_type 148 155	B cells
+T4	protein 162 175	ZEBRA protein
+T5	DNA 219 242	early-lytic-cycle genes
+T6	cell_type 246 265	human B lymphocytes
+T7	protein 290 295	ZEBRA
+T8	protein 314 357	sequence-specific transcriptional activator
+T9	protein 436 441	ZEBRA
+T10	protein 521 523	YI
+T11	protein 526 552	amino acids [ aa ] 1 to 25
+T12	protein 557 560	YII
+T13	protein 563 575	aa 51 to 102
+T14	protein 584 588	YIII
+T15	protein 591 604	aa 228 to 245
+T16	protein 648 661	ZEBRA protein
+T17	protein 713 732	ZEBRA binding sites
+T18	protein 763 781	DNA binding domain
+T19	protein 785 788	GAL
+T20	protein 806 824	GAL4 binding sites
+T21	protein 827 847	regions YII and YIII
+T22	protein 920 925	ZEBRA
+T23	cell_type 991 1010	human B lymphocytes
+T24	protein 1017 1038	amino-terminal region
+T25	protein 1042 1047	ZEBRA
+T26	protein 1050 1060	aa 1 to 98
+T27	cell_type 1120 1133	human B cells
+T28	protein 1152 1174	carboxy-terminal 18 aa
+T29	protein 1257 1262	ZEBRA
+T30	cell_type 1266 1279	human B cells
+T31	protein 1333 1360	universal activation motifs
+T32	protein 1452 1468	deletion mutants
+T33	protein 1472 1477	ZEBRA
+T34	protein 1506 1523	N-terminal region
+T35	protein 1615 1632	ZEBRA aa 26 to 51
+T36	cell_type 1674 1681	B cells
+T37	protein 1784 1799	variable domain

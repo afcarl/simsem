@@ -1,0 +1,14 @@
+T1	protein 0 32	Ras-related GTP-binding proteins
+T2	cell_type 37 46	leukocyte
+T3	cell_type 85 94	leukocyte
+T4	protein 126 140	heterotrimeric
+T5	protein 145 177	Ras-related GTP-binding proteins
+T6	cell_type 280 290	leukocytes
+T7	protein 365 388	phagocyte NADPH oxidase
+T8	protein 396 420	Rac GTP-binding proteins
+T9	protein 572 585	NADPH oxidase
+T10	protein 650 653	Rac
+T11	cell_type 674 684	leukocytes
+T12	protein 700 719	GTP-binding protein
+T13	protein 846 861	Ras superfamily
+T14	protein 981 996	actin filaments

@@ -1,0 +1,33 @@
+T1	protein 36 40	IL-2
+T2	protein 111 115	IL-2
+T3	protein 134 144	lymphokine
+T4	DNA 251 260	IL-2 gene
+T5	cell_type 342 354	CD4+ T cells
+T6	DNA 406 433	cis-acting regulatory sites
+T7	DNA 468 477	IL-2 gene
+T8	DNA 553 580	cis-acting regulatory sites
+T9	DNA 610 623	IL-2 enhancer
+T10	DNA 628 645	promoter sequence
+T11	protein 691 695	NFAT
+T12	DNA 698 710	-276 to -261
+T13	DNA 719 733	distal octamer
+T14	DNA 736 748	-256 to -248
+T15	DNA 759 775	proximal octamer
+T16	DNA 778 788	-75 to -66
+T17	DNA 826 835	IL-2 gene
+T18	DNA 928 937	IL-2 gene
+T19	DNA 1013 1022	IL-2 gene
+T20	cell_line 1047 1068	T leukemia cell lines
+T21	DNA 1075 1092	distal purine box
+T22	DNA 1095 1107	-291 to -277
+T23	DNA 1118 1143	proximal purine box sites
+T24	DNA 1146 1158	-145 to -128
+T25	DNA 1177 1220	AP-1 ( -186 to -176 ) and the kappa B sites
+T26	DNA 1223 1235	-206 to -195
+T27	cell_line 1282 1291	EL4 cells
+T28	DNA 1298 1307	AP-1 site
+T29	DNA 1359 1371	kappa B site
+T30	protein 1385 1389	IL-1
+T31	DNA 1446 1455	IL-2 gene
+T32	DNA 1501 1528	cis-acting regulatory sites
+T33	cell_type 1568 1575	T cells

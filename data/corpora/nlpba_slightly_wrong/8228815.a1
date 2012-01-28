@@ -1,0 +1,46 @@
+T1	DNA 28 43	human IL-3 gene
+T2	DNA 101 145	AP-1 and Elf-1 nuclear protein binding sites
+T3	protein 148 161	Interleukin 3
+T4	protein 164 168	IL-3
+T5	protein 176 233	hematopoietic stem-cell growth and differentiation factor
+T6	cell_type 272 286	T and NK cells
+T7	DNA 341 362	IL-3 coding sequences
+T8	DNA 508 521	DNA sequences
+T9	DNA 562 571	IL-3 gene
+T10	DNA 639 709	human IL-3-chloramphenicol acetyltransferase ( CAT ) reporter plasmids
+T11	cell_type 713 730	T and non-T cells
+T12	DNA 747 754	plasmid
+T13	DNA 776 798	5 ' flanking sequences
+T14	cell_type 825 832	T cells
+T15	cell_type 867 873	T cell
+T16	DNA 905 919	49-bp fragment
+T17	DNA 922 937	bp -319 to -270
+T18	DNA 956 978	potential binding site
+T19	protein 983 1009	AP-1 transcription factors
+T20	DNA 1029 1051	binding site for Elf-1
+T21	protein 1070 1080	Ets family
+T22	protein 1084 1105	transcription factors
+T23	protein 1108 1114	DNaseI
+T24	cell_line 1190 1204	MLA-144 T cell
+T25	DNA 1245 1257	49-bp region
+T26	DNA 1269 1299	nuclear protein binding region
+T27	DNA 1314 1352	consensus AP-1 and Elf-1 binding sites
+T28	cell_type 1392 1414	purified human T cells
+T29	DNA 1496 1524	AP-1 and Elf-1 binding sites
+T30	protein 1564 1577	Elf-1 protein
+T31	DNA 1604 1614	Elf-1 site
+T32	cell_line 1700 1707	MLA-144
+T33	protein 1862 1884	AP-1-related complexes
+T34	cell_line 1921 1936	MLA-144 T cells
+T35	DNA 1990 1999	AP-1 site
+T36	DNA 2063 2073	Elf-1 site
+T37	DNA 2081 2093	NF-IL-3 site
+T38	DNA 2119 2147	nuclear protein binding site
+T39	DNA 2150 2166	bp. -155 to -148
+T40	DNA 2176 2189	IL-3 promoter
+T41	DNA 2306 2321	human IL-3 gene
+T42	DNA 2335 2363	AP-1 and Elf-1 binding sites
+T43	DNA 2414 2428	cytokine genes
+T44	protein 2437 2441	IL-2
+T45	protein 2448 2470	AP-1 and Elf-1 factors
+T46	DNA 2501 2510	IL-3 gene

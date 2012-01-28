@@ -1,0 +1,27 @@
+T1	protein 12 16	Jak3
+T2	protein 60 64	Jak3
+T3	DNA 181 227	cytokine receptor gamma chain ( gamma c ) gene
+T4	protein 292 305	interleukin-2
+T5	protein 308 312	IL-2
+T6	protein 317 321	IL-4
+T7	protein 324 328	IL-7
+T8	protein 331 335	IL-9
+T9	protein 342 347	IL-15
+T10	protein 354 382	Janus family tyrosine kinase
+T11	protein 383 387	Jak3
+T12	protein 447 454	gamma c
+T13	protein 496 500	Jak3
+T14	cell_line 653 702	Epstein-Barr virus ( EBV ) -transformed cell line
+T15	cell_type 720 731	lymphocytes
+T16	protein 743 750	gamma c
+T17	protein 773 785	Jak3 protein
+T18	RNA 813 831	Jak3 messenger RNA
+T19	protein 982 997	Jak3 JH4 domain
+T20	protein 1029 1033	Jak3
+T21	protein 1059 1063	Jak3
+T22	protein 1155 1159	IL-4
+T23	protein 1172 1177	Stat6
+T24	cell_line 1185 1210	EBV-transformed cell line
+T25	protein 1279 1286	gamma c
+T26	protein 1304 1308	Jak3
+T27	protein 1318 1322	Jak3

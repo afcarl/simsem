@@ -1,0 +1,27 @@
+T1	protein 0 35	Nuclear factor of activated T cells
+T2	protein 40 44	AP-1
+T3	DNA 66 79	IL-2 promoter
+T4	protein 109 113	CD28
+T5	protein 131 136	RE/AP
+T6	protein 139 143	IL-2
+T7	cell_type 166 173	T cells
+T8	DNA 220 233	IL-2 promoter
+T9	cell_line 248 262	Jurkat T cells
+T10	cell_line 305 317	Raji B cells
+T11	protein 327 331	CD28
+T12	protein 385 389	CD28
+T13	DNA 440 453	IL-2 promoter
+T14	protein 556 579	NF of activated T cells
+T15	protein 582 586	NFAT
+T16	DNA 592 606	AP-1 reporters
+T17	protein 635 639	NFAT
+T18	protein 644 648	AP-1
+T19	DNA 669 682	IL-2 promoter
+T20	protein 713 718	RE/AP
+T21	protein 790 794	CD28
+T22	DNA 798 811	IL-2 promoter
+T23	protein 844 849	RE/AP
+T24	DNA 862 880	NFAT or AP-1 sites
+T25	protein 951 956	RE/AP
+T26	protein 976 980	NFAT
+T27	protein 1007 1011	NFAT

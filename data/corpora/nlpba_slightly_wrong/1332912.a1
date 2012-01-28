@@ -1,0 +1,14 @@
+T1	DNA 0 57	Reticuloendotheliosis virus long terminal repeat elements
+T2	DNA 72 81	promoters
+T3	cell_type 140 160	human lymphoid cells
+T4	DNA 207 263	reticuloendotheliosis virus ( REV ) long terminal repeat
+T5	DNA 266 269	LTR
+T6	DNA 322 382	LTR-chloramphenicol acetyltransferase-encoding gene chimeras
+T7	DNA 472 480	REV LTRs
+T8	DNA 609 618	viral LTR
+T9	DNA 791 824	avian sarcoma/leukemia virus LTRs
+T10	DNA 827 835	REV LTRs
+T11	cell_type 856 876	human lymphoid cells
+T12	DNA 910 919	promoters
+T13	DNA 952 964	cloned genes
+T14	protein 1025 1066	ubiquitous cellular transcription factors

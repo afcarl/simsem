@@ -1,0 +1,33 @@
+T1	protein 11 33	testosterone receptors
+T2	cell_type 57 64	T cells
+T3	cell_type 67 74	T cells
+T4	protein 147 165	androgen receptors
+T5	protein 168 170	AR
+T6	cell_type 232 254	murine splenic T cells
+T7	protein 291 328	unconventional cell surface receptors
+T8	protein 350 376	classical intracellular AR
+T9	cell_type 433 464	CD4 ( + ) and CD8 ( + ) subsets
+T10	cell_type 468 475	T cells
+T11	protein 670 696	testosterone-BSA conjugate
+T12	cell_type 745 766	Fura-2-loaded T cells
+T13	protein 847 875	Ni2+-blockable Ca2+ channels
+T14	protein 992 994	AR
+T15	protein 1011 1013	AR
+T16	cell_type 1051 1065	intact T cells
+T17	protein 1077 1095	anti-AR antibodies
+T18	protein 1117 1143	amino and carboxy terminus
+T19	protein 1151 1153	AR
+T20	cell_type 1165 1172	T cells
+T21	protein 1181 1183	AR
+T22	protein 1273 1275	AR
+T23	protein 1303 1321	anti-AR antibodies
+T24	cell_type 1342 1363	permeabilized T cells
+T25	protein 1387 1389	AR
+T26	protein 1494 1508	Cytoplasmic AR
+T27	cell_type 1546 1553	T cells
+T28	protein 1603 1617	cytoplasmic AR
+T29	cell_line 1621 1645	human cancer LNCaP cells
+T30	protein 1680 1692	classical AR
+T31	cell_type 1704 1719	splenic T cells
+T32	protein 1778 1800	cell surface receptors
+T33	cell_type 1864 1871	T cells

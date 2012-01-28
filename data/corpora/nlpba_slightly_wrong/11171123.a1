@@ -1,0 +1,28 @@
+T1	protein 0 25	Transcription factor AP-4
+T2	protein 31 37	ligand
+T3	DNA 42 86	immunoglobulin-kappa promoter E-box elements
+T4	DNA 89 127	Immunoglobulin ( Ig ) -kappa promoters
+T5	DNA 155 174	conserved sequences
+T6	DNA 181 196	octamer element
+T7	DNA 214 226	Ig promoters
+T8	DNA 276 301	conserved sequence motifs
+T9	DNA 324 349	Ig variable gene families
+T10	DNA 471 478	octamer
+T11	DNA 499 504	E-box
+T12	DNA 512 542	E47/E12 type ( 5'-CAGCTG-3 ' )
+T13	DNA 584 633	human and murine Ig-kappa gene subgroups/families
+T14	DNA 696 711	murine families
+T15	protein 775 800	transcription factor AP-4
+T16	protein 811 814	E47
+T17	DNA 849 871	kappa promoter E-boxes
+T18	cell_line 961 990	human and murine B-cell lines
+T19	protein 1007 1011	AP-4
+T20	protein 1021 1024	E47
+T21	protein 1044 1058	transactivator
+T22	DNA 1115 1130	kappa promoters
+T23	DNA 1179 1194	octamer element
+T24	DNA 1264 1283	5'-CAGCTG-3 ' motif
+T25	DNA 1290 1322	human and murine kappa promoters
+T26	protein 1341 1345	AP-4
+T27	protein 1353 1365	major ligand
+T28	DNA 1370 1395	Ig-kappa promoter E-boxes

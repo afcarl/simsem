@@ -1,0 +1,43 @@
+T1	DNA 16 21	bcl-2
+T2	protein 29 71	Epstein-Barr virus latent membrane protein
+T3	protein 72 76	LMP1
+T4	protein 134 144	NF-kappa B
+T5	protein 176 196	cell surface markers
+T6	protein 217 259	Epstein-Barr virus latent membrane protein
+T7	protein 260 264	LMP1
+T8	cell_type 292 308	infected B cells
+T9	DNA 337 351	bcl-2 oncogene
+T10	cell_line 443 455	LMP1+ clones
+T11	protein 613 618	Bcl-2
+T12	protein 662 666	LMP1
+T13	cell_line 733 745	Bcl-2+ cells
+T14	protein 853 857	LMP1
+T15	protein 955 959	LMP1
+T16	protein 1109 1119	NF-kappa B
+T17	protein 1120 1140	transcription factor
+T18	protein 1165 1187	cell adhesion molecule
+T19	protein 1188 1194	ICAM-1
+T20	protein 1225 1229	LMP1
+T21	cell_line 1286 1298	B-cell lines
+T22	protein 1311 1315	LMP1
+T23	DNA 1355 1379	metallothionein promoter
+T24	protein 1404 1408	LMP1
+T25	protein 1438 1448	NK-kappa B
+T26	protein 1469 1475	ICAM-1
+T27	protein 1548 1553	Bcl-2
+T28	protein 1651 1655	LMP1
+T29	cell_line 1746 1758	B-cell lines
+T30	protein 1773 1783	NF-kappa B
+T31	protein 1810 1814	LMP1
+T32	protein 1888 1894	ICAM-1
+T33	protein 1899 1904	Bcl-2
+T34	cell_line 1948 1960	B-cell lines
+T35	protein 1968 1978	NF-kappa B
+T36	protein 1994 2000	ICAM-1
+T37	protein 2040 2045	Bcl-2
+T38	protein 2075 2080	Bcl-2
+T39	protein 2148 2152	LMP1
+T40	protein 2231 2241	NF-kappa B
+T41	protein 2275 2279	LMP1
+T42	protein 2308 2329	cell-specific factors
+T43	protein 2378 2391	viral protein

@@ -1,0 +1,31 @@
+T1	protein 0 25	Latent membrane protein-1
+T2	protein 34 43	cyclin D2
+T3	protein 57 60	pRb
+T4	protein 96 106	TGF-beta 1
+T5	cell_type 138 158	EBV-positive B cells
+T6	protein 231 259	tumor-suppressor protein pRb
+T7	protein 266 276	G1 cyclins
+T8	protein 283 307	cyclin-dependent kinases
+T9	protein 428 436	TGF-beta
+T10	protein 503 541	transforming latent membrane protein-1
+T11	protein 544 549	LMP-1
+T12	protein 575 585	TGF-beta 1
+T13	cell_type 617 630	human B cells
+T14	protein 661 684	125I-labeled TGF-beta 1
+T15	protein 714 731	TGF-beta receptor
+T16	cell_line 743 803	EBV-positive and EBV-negative Burkitt 's lymphoma cell lines
+T17	protein 899 909	TGF-beta 1
+T18	DNA 934 943	junB gene
+T19	protein 967 977	TGF-beta 1
+T20	protein 1014 1017	pRb
+T21	cell_line 1021 1053	EBV ( or LMP-1 ) -positive cells
+T22	cell_line 1068 1086	EBV-negative cells
+T23	protein 1119 1129	TGF-beta 1
+T24	protein 1233 1238	LMP-1
+T25	protein 1277 1286	cyclin D2
+T26	cell_type 1296 1303	B cells
+T27	cell_line 1307 1345	EBV-negative Burkitt 's lymphoma cells
+T28	protein 1361 1375	D-type cyclins
+T29	protein 1517 1542	key cell cycle regulators
+T30	protein 1546 1551	LMP-1
+T31	protein 1564 1567	pRb

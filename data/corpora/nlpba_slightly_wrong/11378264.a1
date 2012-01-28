@@ -1,0 +1,24 @@
+T1	protein 0 5	STAT3
+T2	cell_type 183 232	erythroid , myeloid , and megakaryocytic lineages
+T3	cell_type 264 280	progenitor cells
+T4	protein 356 370	erythropoietin
+T5	protein 373 401	insulin-like growth factor-1
+T6	protein 404 418	thrombopoietin
+T7	protein 421 434	interleukin-3
+T8	protein 441 487	granulocyte/monocyte colony-stimulating factor
+T9	protein 703 712	cytokines
+T10	protein 719 769	signal transducers and activators of transcription
+T11	protein 772 777	STATs
+T12	protein 811 823	STAT factors
+T13	cell_type 869 882	P. vera cells
+T14	cell_type 944 967	Peripheral granulocytes
+T15	protein 1040 1057	STAT1 , 3 , and 5
+T16	cell_type 1200 1236	unstimulated peripheral granulocytes
+T17	protein 1333 1338	STAT1
+T18	protein 1342 1347	STAT5
+T19	protein 1420 1425	STAT3
+T20	protein 1572 1577	STAT3
+T21	protein 1842 1847	STAT3
+T22	cell_type 1942 1961	hematopoietic cells
+T23	protein 2019 2046	Constitutively active STAT3
+T24	cell_type 2103 2116	P. vera cells

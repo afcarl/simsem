@@ -1,0 +1,25 @@
+T1	protein 50 73	CD4 and CXCR4 receptors
+T2	DNA 113 131	inflammatory genes
+T3	protein 150 153	MEK
+T4	protein 277 290	CD4 receptors
+T5	protein 317 320	Lck
+T6	protein 326 331	Raf-1
+T7	protein 365 370	Raf-1
+T8	protein 451 479	HIV-1 envelope glycoproteins
+T9	protein 624 653	nuclear transcription factors
+T10	protein 656 660	AP-1
+T11	protein 663 672	NF-kappaB
+T12	protein 679 684	C/EBP
+T13	DNA 715 743	cytokine and chemokine genes
+T14	protein 807 820	CD4 receptors
+T15	protein 854 859	CXCR4
+T16	protein 892 921	stromal cell-derived factor 1
+T17	protein 924 929	SDF-1
+T18	protein 935 940	CXCR4
+T19	protein 1013 1023	MAP kinase
+T20	protein 1044 1049	SDF-1
+T21	DNA 1096 1124	cytokine and chemokine genes
+T22	protein 1189 1217	HIV-1 envelope glycoproteins
+T23	protein 1221 1233	CD4 receptor
+T24	protein 1304 1322	chemokine receptor
+T25	DNA 1364 1382	inflammatory genes

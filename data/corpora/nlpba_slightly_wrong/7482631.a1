@@ -1,0 +1,10 @@
+T1	protein 39 68	human glucocorticoid receptor
+T2	protein 178 201	glucocorticoid receptor
+T3	protein 204 206	GR
+T4	cell_line 301 321	B95-8 lymphoid cells
+T5	cell_line 573 597	human lymphoid cell line
+T6	cell_line 600 602	HL
+T7	protein 665 672	trypsin
+T8	protein 879 881	GR
+T9	cell_type 1103 1114	B95-8 cells
+T10	protein 1193 1209	cognate receptor

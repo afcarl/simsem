@@ -1,0 +1,15 @@
+T1	cell_type 9 24	fetal thymocyte
+T2	protein 87 97	NF-kappa B
+T3	protein 328 338	NF-kappa B
+T4	protein 349 364	I kappa B alpha
+T5	protein 367 380	mut-I kappa B
+T6	protein 434 444	NF-kappa B
+T7	cell_type 496 512	Fetal thymocytes
+T8	protein 549 562	mut-I kappa B
+T9	protein 604 608	CD44
+T10	protein 618 621	CD4
+T11	protein 624 627	CD8
+T12	protein 884 898	TCR beta-chain
+T13	protein 981 994	mut-I kappa B
+T14	protein 1084 1094	NF-kappa B
+T15	cell_type 1164 1174	thymocytes

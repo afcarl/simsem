@@ -1,0 +1,28 @@
+T1	protein 13 21	cytokine
+T2	cell_type 36 46	leukocytes
+T3	cell_type 61 90	thrombin-stimulated platelets
+T4	cell_type 106 125	Activated platelets
+T5	cell_type 146 164	myeloid leukocytes
+T6	protein 277 285	cytokine
+T7	cell_type 692 702	leukocytes
+T8	cell_type 930 965	thrombin-stimulated fixed platelets
+T9	cell_type 975 986	neutrophils
+T10	cell_type 991 1000	monocytes
+T11	protein 1056 1083	interleukin ( IL ) , 1 beta
+T12	protein 1086 1090	IL-8
+T13	protein 1097 1140	monocyte chemoattractant protein ( MCP ) -1
+T14	cell_type 1159 1169	leukocytes
+T15	protein 1188 1197	IL-1 beta
+T16	protein 1202 1206	IL-8
+T17	protein 1326 1331	MCP-1
+T18	cell_type 1383 1402	activated platelets
+T19	cell_type 1415 1424	monocytes
+T20	protein 1470 1492	nuclear factor-kappa B
+T21	protein 1531 1557	anti-P selectin antibodies
+T22	cell_type 1580 1599	activated platelets
+T23	protein 1603 1611	cytokine
+T24	cell_type 1716 1735	activated platelets
+T25	protein 1744 1753	IL-1 beta
+T26	protein 1756 1760	IL-8
+T27	protein 1767 1772	MCP-1
+T28	cell_type 1776 1786	leukocytes

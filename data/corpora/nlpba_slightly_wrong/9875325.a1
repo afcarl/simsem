@@ -1,0 +1,33 @@
+T1	DNA 48 83	Epstein-Barr virus BamHI W promoter
+T2	DNA 160 172	latent genes
+T3	cell_type 206 213	B cells
+T4	DNA 318 332	viral promoter
+T5	DNA 397 419	Wp reporter constructs
+T6	cell_line 506 512	B cell
+T7	cell_line 521 537	non-B cell lines
+T8	DNA 568 576	promoter
+T9	DNA 586 590	UAS1
+T10	DNA 593 597	UAS2
+T11	DNA 604 608	UAS3
+T12	DNA 676 680	UAS3
+T13	DNA 683 696	-1168 to -440
+T14	DNA 703 707	UAS2
+T15	DNA 710 722	-352 to -264
+T16	cell_type 839 850	non-B cells
+T17	DNA 903 919	YY1 binding site
+T18	DNA 923 927	UAS2
+T19	DNA 960 964	UAS1
+T20	DNA 967 978	-140 to -87
+T21	cell_line 1070 1082	B cell lines
+T22	DNA 1108 1122	UAS1 sequences
+T23	DNA 1194 1207	binding sites
+T24	protein 1212 1228	cellular factors
+T25	DNA 1334 1355	Wp reporter construct
+T26	DNA 1391 1409	UAS1 binding sites
+T27	cell_type 1474 1481	B cells
+T28	protein 1541 1561	transcription factor
+T29	DNA 1562 1575	binding sites
+T30	DNA 1616 1643	cyclic AMP response element
+T31	DNA 1646 1649	CRE
+T32	DNA 1682 1685	CRE
+T33	protein 1701 1723	CREB and ATF1 proteins

@@ -1,0 +1,16 @@
+T1	protein 68 74	GATA-1
+T2	cell_type 89 135	pure differentiating hematopoietic progenitors
+T3	protein 178 199	transcription factors
+T4	protein 271 290	DNA-binding protein
+T5	protein 291 297	GATA-1
+T6	DNA 357 382	erythroid-expressed genes
+T7	cell_type 386 408	maturing erythroblasts
+T8	protein 423 429	GATA-1
+T9	cell_type 524 555	early hematopoietic progenitors
+T10	DNA 744 755	GATA-1 gene
+T11	cell_type 785 806	quiescent progenitors
+T12	cell_type 1022 1052	granulocyte-macrophage lineage
+T13	protein 1126 1132	GATA-1
+T14	cell_type 1147 1188	differentiating hematopoietic progenitors
+T15	protein 1330 1364	lineage-restricted transactivators
+T16	cell_type 1407 1432	hematopoietic progenitors

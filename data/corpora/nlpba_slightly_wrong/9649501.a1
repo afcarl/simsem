@@ -1,0 +1,27 @@
+T1	protein 66 71	HSBP1
+T2	protein 98 117	heat shock factor 1
+T3	protein 120 124	HSF1
+T4	protein 250 273	non-DNA-binding monomer
+T5	protein 459 470	HSF1 trimer
+T6	protein 511 530	hydrophobic repeats
+T7	protein 538 542	HSF1
+T8	protein 626 661	heat shock factor binding protein 1
+T9	protein 664 669	HSBP1
+T10	protein 696 717	76-amino-acid protein
+T11	protein 755 774	hydrophobic repeats
+T12	protein 798 817	HSF1 heptad repeats
+T13	protein 820 825	HSBP1
+T14	protein 903 907	HSF1
+T15	protein 963 967	HSF1
+T16	protein 991 996	HSBP1
+T17	protein 1021 1026	HSBP1
+T18	protein 1046 1050	HSF1
+T19	protein 1096 1101	HSBP1
+T20	cell_type 1105 1120	mammalian cells
+T21	protein 1163 1167	HSF1
+T22	protein 1205 1210	HSBP1
+T23	protein 1228 1258	Caenorhabditis elegans protein
+T24	cell_type 1280 1302	body wall muscle cells
+T25	DNA 1371 1409	heat shock promoter-reporter construct
+T26	protein 1439 1444	HSBP1
+T27	protein 1579 1584	HSBP1

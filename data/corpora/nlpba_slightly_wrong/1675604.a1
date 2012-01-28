@@ -1,0 +1,32 @@
+T1	protein 14 35	transcription factors
+T2	protein 53 74	rel/NF-kappa B family
+T3	protein 80 109	transdominant negative mutant
+T4	protein 116 127	KBF1 factor
+T5	DNA 149 159	enhancer A
+T6	DNA 175 183	promoter
+T7	DNA 191 213	mouse MHC class I gene
+T8	DNA 214 219	H-2Kb
+T9	protein 252 275	p50 DNA binding subunit
+T10	protein 283 314	transcription factor NF-kappa B
+T11	protein 403 418	KBF1/p50 factor
+T12	protein 430 439	homodimer
+T13	protein 458 470	heterodimers
+T14	DNA 536 571	c-rel and v-rel ( proto ) oncogenes
+T15	protein 578 597	dimerization domain
+T16	protein 601 609	KBF1/p50
+T17	protein 623 654	between amino acids 201 and 367
+T18	protein 669 677	KBF1/p50
+T19	protein 680 688	delta SP
+T20	protein 741 753	heterodimers
+T21	protein 850 868	wild-type proteins
+T22	protein 890 898	KBF1/p50
+T23	protein 901 913	c- and v-rel
+T24	protein 958 998	trans-acting dominant negative regulator
+T25	DNA 1041 1065	HIV long terminal repeat
+T26	protein 1097 1107	NF-kappa B
+T27	cell_line 1193 1205	CD4+ T cells
+T28	protein 1215 1223	delta SP
+T29	protein 1264 1267	TNF
+T30	DNA 1299 1325	MHC class I H-2Kb promoter
+T31	cell_line 1375 1385	cell lines
+T32	protein 1493 1514	rel/NF-kappa B family

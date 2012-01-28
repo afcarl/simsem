@@ -1,0 +1,25 @@
+T1	DNA 0 13	TCL1 oncogene
+T2	DNA 261 270	oncogenes
+T3	DNA 274 296	tumor-suppressor genes
+T4	DNA 517 530	TCL1 oncogene
+T5	DNA 545 580	AIDS IBLP-associated cDNA fragments
+T6	protein 650 654	TCL1
+T7	cell_line 786 804	B cell tumor lines
+T8	protein 817 821	TCL1
+T9	protein 882 886	TCL1
+T10	protein 947 951	TCL1
+T11	protein 1128 1132	TCL1
+T12	cell_type 1155 1174	mantle zone B cells
+T13	cell_type 1187 1213	interfollicular zone cells
+T14	cell_type 1224 1247	follicle-center B cells
+T15	cell_type 1250 1262	centroblasts
+T16	cell_type 1267 1278	centrocytes
+T17	protein 1330 1334	TCL1
+T18	DNA 1380 1389	oncogenes
+T19	protein 1451 1455	TCL1
+T20	cell_type 1470 1499	quiescent mantle zone B cells
+T21	cell_type 1531 1565	germinal center follicular B cells
+T22	protein 1613 1618	BCL-2
+T23	cell_type 1646 1670	nonproliferating B cells
+T24	protein 1685 1689	TCL1
+T25	cell_type 1717 1743	naive preactivated B cells

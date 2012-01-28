@@ -1,0 +1,38 @@
+T1	protein 15 31	gamma interferon
+T2	cell_type 69 91	mononuclear phagocytes
+T3	protein 170 183	Janus kinases
+T4	protein 188 193	Stat1
+T5	protein 247 263	gamma interferon
+T6	cell_type 279 301	mononuclear phagocytes
+T7	protein 441 457	gamma interferon
+T8	protein 522 555	cellular protein tyrosine kinases
+T9	protein 572 585	Janus kinases
+T10	protein 586 590	Jak1
+T11	protein 595 599	Jak2
+T12	protein 645 671	transcription factor Stat1
+T13	protein 745 761	gamma interferon
+T14	protein 861 865	Jak1
+T15	protein 870 874	Jak2
+T16	protein 898 903	Stat1
+T17	cell_line 921 979	phorbol 12-myristate 13-acetate-differentiated U-937 cells
+T18	protein 1079 1095	gamma interferon
+T19	cell_type 1247 1260	control cells
+T20	protein 1325 1329	Jak1
+T21	protein 1332 1336	Jak2
+T22	protein 1343 1348	Stat1
+T23	cell_line 1390 1414	interferon-treated cells
+T24	protein 1581 1585	Jak1
+T25	protein 1588 1592	Jak2
+T26	protein 1599 1604	Stat1
+T27	cell_line 1658 1669	U-937 cells
+T28	protein 1685 1701	gamma interferon
+T29	protein 1783 1787	Jak1
+T30	protein 1790 1794	Jak2
+T31	protein 1801 1806	Stat1
+T32	cell_line 1980 1991	U-937 cells
+T33	cell_type 2016 2048	human peripheral blood monocytes
+T34	cell_type 2093 2121	human mononuclear phagocytes
+T35	protein 2157 2173	gamma interferon
+T36	protein 2243 2248	Stat1
+T37	protein 2279 2295	gamma interferon
+T38	cell_type 2377 2402	leishmania-infected cells

@@ -1,0 +1,29 @@
+T1	protein 38 51	BCL-6 protein
+T2	RNA 112 122	BCL-6 gene
+T3	protein 134 182	nuclear-located Kruppel-type zinc finger protein
+T4	cell_type 225 241	B-cell lymphomas
+T5	cell_type 283 306	germinal center B cells
+T6	protein 359 364	BCL-6
+T7	cell_type 421 444	germinal center B cells
+T8	protein 596 609	BCL-6 protein
+T9	cell_type 779 804	malignant cell population
+T10	cell_type 817 828	L & H cells
+T11	protein 988 1009	monoclonal antibodies
+T12	protein 1010 1015	PG-B6
+T13	protein 1020 1026	PG-B6p
+T14	protein 1070 1096	formalin-resistant epitope
+T15	protein 1104 1124	aminoterminal region
+T16	protein 1132 1150	BCL-6 gene product
+T17	protein 1202 1215	BCL-6 protein
+T18	cell_type 1232 1253	tumor ( L & H ) cells
+T19	protein 1292 1297	BCL-6
+T20	cell_line 1342 1374	Hodgkin and Reed-Sternberg cells
+T21	cell_type 1437 1463	reactive CD3+/CD4+ T cells
+T22	cell_type 1495 1506	L & H cells
+T23	protein 1535 1540	BCL-6
+T24	protein 1556 1567	CD40 ligand
+T25	protein 1570 1575	CD40L
+T26	cell_type 1699 1716	CD3+/CD4+ T cells
+T27	protein 1729 1734	BCL-6
+T28	protein 1738 1743	CD40L
+T29	protein 1897 1902	BCL-6

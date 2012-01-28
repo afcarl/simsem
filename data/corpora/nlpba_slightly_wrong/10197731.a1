@@ -1,0 +1,25 @@
+T1	protein 27 47	tyrosine phosphatase
+T2	protein 80 88	NFkappaB
+T3	cell_type 103 116	T lymphocytes
+T4	protein 153 166	IkappaB-alpha
+T5	protein 201 223	Nuclear Factor kappa B
+T6	protein 226 234	NFkappaB
+T7	cell_type 339 346	T cells
+T8	protein 385 394	TNF-alpha
+T9	protein 438 456	p65-50 heterodimer
+T10	cell_type 501 508	T cells
+T11	protein 604 612	NFkappaB
+T12	protein 626 635	TNF-alpha
+T13	cell_type 644 651	T cells
+T14	protein 676 701	PAO-sensitive phosphatase
+T15	protein 727 735	NFkappaB
+T16	cell_type 756 769	human T cells
+T17	protein 856 867	phosphatase
+T18	protein 921 924	TNF
+T19	cell_type 970 977	T cells
+T20	protein 1070 1083	IkappaB-alpha
+T21	cell_type 1099 1118	TNF-treated T cells
+T22	protein 1194 1207	IkappaB-alpha
+T23	protein 1384 1397	IkappaB-alpha
+T24	protein 1411 1414	TNF
+T25	protein 1468 1478	proteasome

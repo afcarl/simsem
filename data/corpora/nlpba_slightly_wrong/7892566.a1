@@ -1,0 +1,18 @@
+T1	DNA 37 55	interleukin-2 gene
+T2	cell_type 59 72	B-lymphocytes
+T3	cell_line 86 99	B cell clones
+T4	protein 154 167	interleukin-2
+T5	protein 180 195	T cell cytokine
+T6	DNA 247 260	IL-2 promoter
+T7	DNA 342 346	TCEd
+T8	protein 365 385	transcription factor
+T9	protein 386 391	NF-kB
+T10	cell_line 422 430	B clones
+T11	cell_type 472 479	T cells
+T12	cell_line 487 498	Jurkat line
+T13	DNA 505 518	NFATd element
+T14	protein 537 557	transcription factor
+T15	protein 558 564	NFAT-1
+T16	cell_type 587 594	T cells
+T17	cell_line 626 633	B clone
+T18	DNA 700 713	IL-2 promoter

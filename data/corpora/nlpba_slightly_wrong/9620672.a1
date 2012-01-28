@@ -1,0 +1,20 @@
+T1	protein 0 4	CD28
+T2	cell_type 29 56	CD45RA+ and CD45RO+ T cells
+T3	protein 112 117	c-Rel
+T4	cell_type 143 156	CD45RA+ cells
+T5	protein 219 227	anti-CD3
+T6	protein 233 242	anti-CD28
+T7	protein 266 275	NF-kappaB
+T8	cell_type 279 336	CD45RA+ ( naive ) and CD45RO+ ( memory/effector ) T cells
+T9	protein 379 388	NF-kappaB
+T10	cell_type 404 417	CD45RA+ cells
+T11	cell_type 426 439	CD45RO+ cells
+T12	protein 458 479	nuclear c-Rel protein
+T13	protein 545 550	c-Rel
+T14	cell_type 565 578	CD45RA+ cells
+T15	protein 619 631	IkappaBalpha
+T16	cell_type 716 729	CD45RA+ cells
+T17	cell_type 737 750	CD45RO+ cells
+T18	cell_type 930 955	CD45RA+ and CD45RO+ cells
+T19	cell_type 1051 1064	CD45RA+ cells
+T20	cell_type 1142 1175	CD45RA+ and CD45RO+ T lymphocytes

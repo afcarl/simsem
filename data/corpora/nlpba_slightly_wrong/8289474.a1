@@ -1,0 +1,22 @@
+T1	protein 4 15	SCL protein
+T2	protein 63 74	SCL protein
+T3	cell_line 115 137	hemopoietic cell lines
+T4	protein 193 204	SCL protein
+T5	cell_line 221 282	erythroid , megakaryocyte , mast and early myeloid cell lines
+T6	cell_line 307 335	lymphoid leukemia cell lines
+T7	DNA 362 385	SCL gene rearrangements
+T8	protein 517 558	molecular weight species of 24 and 22 kDa
+T9	DNA 697 705	SCL gene
+T10	cell_line 756 766	cell lines
+T11	cell_line 769 776	GP+E-86
+T12	cell_line 779 784	AT2.5
+T13	cell_line 787 789	M1
+T14	protein 805 816	22 kDa form
+T15	cell_line 824 841	myeloid cell line
+T16	cell_line 844 854	WEHI-3B/D+
+T17	protein 887 898	SCL protein
+T18	cell_line 906 925	lymphoid cell lines
+T19	protein 1022 1025	SCL
+T20	protein 1068 1079	SCL protein
+T21	RNA 1138 1146	SCL mRNA
+T22	protein 1219 1230	SCL protein

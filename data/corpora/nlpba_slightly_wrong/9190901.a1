@@ -1,0 +1,39 @@
+T1	protein 0 4	ETS1
+T2	protein 7 15	NFkappaB
+T3	protein 20 23	AP1
+T4	DNA 58 79	human GM-CSF promoter
+T5	cell_type 96 110	helper T cells
+T6	protein 159 168	cytokines
+T7	protein 259 307	Granulocyte-macrophage colony stimulating factor
+T8	protein 310 316	GM-CSF
+T9	protein 331 339	cytokine
+T10	DNA 418 437	Cis-acting elements
+T11	DNA 443 485	NFkappaB , AP1 and ETS-like binding motifs
+T12	DNA 537 548	GM-CSF gene
+T13	protein 641 645	ETS1
+T14	protein 651 671	transcription factor
+T15	protein 679 689	ETS family
+T16	cell_type 711 718	T cells
+T17	protein 751 755	ETS1
+T18	protein 774 780	GM-CSF
+T19	cell_line 784 798	Jurkat T cells
+T20	protein 945 949	ETS1
+T21	cell_line 989 1001	Jurkat cells
+T22	protein 1028 1059	PMA/ionomycin inducible factors
+T23	protein 1080 1084	ETS1
+T24	DNA 1105 1130	GM-CSF reporter construct
+T25	cell_line 1147 1159	Jurkat cells
+T26	protein 1184 1192	NFkappaB
+T27	protein 1196 1199	AP1
+T28	protein 1200 1221	transcription factors
+T29	protein 1294 1302	NFkappaB
+T30	protein 1307 1310	AP1
+T31	cell_type 1359 1366	T cells
+T32	protein 1388 1392	ETS1
+T33	protein 1395 1403	NFkappaB
+T34	protein 1408 1411	AP1
+T35	protein 1594 1598	ETS1
+T36	protein 1615 1623	NFkappaB
+T37	protein 1628 1631	AP1
+T38	protein 1670 1693	transcriptional complex
+T39	cell_type 1707 1714	T cells

@@ -1,0 +1,34 @@
+T1	protein 20 23	PML
+T2	protein 28 41	PML/RAR alpha
+T3	cell_type 63 70	myeloid
+T4	cell_type 75 100	acute promyelocytic cells
+T5	cell_line 171 213	retinoid-resistant promyelocytic cell line
+T6	DNA 220 228	PML gene
+T7	DNA 245 278	retinoic acid receptor alpha gene
+T8	DNA 281 290	RAR alpha
+T9	protein 361 364	PML
+T10	cell_type 530 543	myeloid cells
+T11	protein 546 549	PML
+T12	protein 595 621	class I and II interferons
+T13	cell_type 743 756	myeloid cells
+T14	protein 786 789	PML
+T15	cell_type 849 858	APL cells
+T16	RNA 941 972	PML/RAR alpha fusion transcript
+T17	DNA 991 1008	the t ( 15 ; 17 )
+T18	protein 1023 1033	interferon
+T19	protein 1056 1059	PML
+T20	cell_type 1126 1141	human monocytes
+T21	cell_type 1144 1155	lymphocytes
+T22	cell_type 1162 1186	polymorphonucleate cells
+T23	protein 1216 1226	interferon
+T24	protein 1234 1237	PML
+T25	protein 1242 1255	PML/RAR alpha
+T26	protein 1283 1293	interferon
+T27	cell_line 1301 1318	NB4 APL cell line
+T28	DNA 1335 1352	the t ( 15 ; 17 )
+T29	cell_type 1362 1372	APL blasts
+T30	protein 1394 1404	interferon
+T31	cell_type 1441 1450	APL cells
+T32	cell_line 1533 1542	NB4 cells
+T33	protein 1566 1606	interferon gamma , but not alpha or beta
+T34	cell_line 1654 1663	NB4 cells

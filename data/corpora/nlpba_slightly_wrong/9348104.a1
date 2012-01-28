@@ -1,0 +1,22 @@
+T1	protein 90 110	transcription factor
+T2	protein 111 120	NF-kappaB
+T3	protein 817 837	transcription factor
+T4	protein 838 847	NF-kappaB
+T5	protein 1018 1027	NF-kappaB
+T6	protein 1061 1080	cytoplasmic complex
+T7	cell_line 1084 1102	unstimulated cells
+T8	protein 1160 1178	inhibitory subunit
+T9	protein 1181 1188	IkappaB
+T10	protein 1210 1219	NF-kappaB
+T11	cell_type 1272 1279	T-cells
+T12	cell_type 1282 1289	B-cells
+T13	cell_type 1294 1310	epithelial cells
+T14	protein 1325 1331	kappaB
+T15	protein 1419 1440	transcription factors
+T16	protein 1443 1448	Oct-1
+T17	protein 1451 1454	TBP
+T18	protein 1457 1460	Sp1
+T19	protein 1465 1471	STAT 5
+T20	protein 1565 1586	NF-kappaB heterodimer
+T21	protein 1621 1646	NF-kappaB/IkappaB complex
+T22	protein 1675 1682	IkappaB

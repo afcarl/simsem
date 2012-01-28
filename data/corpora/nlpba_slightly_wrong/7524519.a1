@@ -1,0 +1,13 @@
+T1	protein 0 12	MHC class II
+T2	cell_type 26 32	B-cell
+T3	cell_type 93 100	T cells
+T4	cell_type 105 129	antigen-presenting cells
+T5	cell_type 132 136	APCs
+T6	protein 153 212	major histocompatibility complex ( MHC ) class II molecules
+T7	cell_type 268 271	APC
+T8	cell_type 347 351	APCs
+T9	protein 413 425	MHC class II
+T10	cell_type 464 470	B-cell
+T11	protein 486 509	microbial superantigens
+T12	protein 617 629	MHC class II
+T13	cell_type 672 678	B-cell

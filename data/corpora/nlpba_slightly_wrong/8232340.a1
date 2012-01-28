@@ -1,0 +1,30 @@
+T1	protein 11 15	IL-4
+T2	protein 20 40	Fc gamma receptor II
+T3	protein 55 60	Egr-1
+T4	cell_type 94 107	B lymphocytes
+T5	DNA 150 155	Egr-1
+T6	DNA 162 182	immediate early gene
+T7	cell_type 288 308	murine B lymphocytes
+T8	DNA 344 349	Egr-1
+T9	cell_type 389 395	B cell
+T10	DNA 495 500	Egr-1
+T11	protein 532 537	Fab'2
+T12	protein 542 565	IgG anti-immunoglobulin
+T13	protein 568 575	anti-Ig
+T14	protein 603 616	Fab'2 anti-Ig
+T15	protein 636 647	IgG anti-Ig
+T16	protein 715 734	B cell Fc gamma RII
+T17	protein 738 749	membrane Ig
+T18	protein 777 790	Fab'2 anti-Ig
+T19	protein 846 857	IgG anti-Ig
+T20	RNA 890 900	Egr-1 mRNA
+T21	protein 963 976	Fab'2 anti-Ig
+T22	protein 1072 1076	IL-4
+T23	protein 1138 1149	IgG anti-Ig
+T24	protein 1184 1197	Fab'2 anti-Ig
+T25	RNA 1230 1240	Egr-1 mRNA
+T26	protein 1266 1270	IL-4
+T27	protein 1294 1298	IL-4
+T28	cell_type 1344 1350	B cell
+T29	RNA 1397 1407	Egr-1 mRNA
+T30	RNA 1448 1458	c-myc mRNA

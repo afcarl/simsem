@@ -1,0 +1,21 @@
+T1	DNA 0 5	Pax-5
+T2	protein 18 38	transcription factor
+T3	protein 39 43	BSAP
+T4	cell_type 64 77	B lymphocytes
+T5	protein 120 124	BSAP
+T6	protein 161 181	transcription factor
+T7	protein 325 329	BSAP
+T8	protein 355 377	paired domain proteins
+T9	protein 380 384	BSAP
+T10	DNA 403 413	Pax-5 gene
+T11	protein 559 563	BSAP
+T12	DNA 595 621	BSAP recognition sequences
+T13	protein 668 672	BSAP
+T14	protein 716 743	paired domain protein Pax-1
+T15	DNA 773 782	BSAP gene
+T16	DNA 928 937	Pax genes
+T17	DNA 1019 1028	BSAP gene
+T18	protein 1111 1115	BSAP
+T19	cell_type 1139 1152	B lymphocytes
+T20	protein 1245 1265	transcription factor
+T21	protein 1266 1270	BSAP

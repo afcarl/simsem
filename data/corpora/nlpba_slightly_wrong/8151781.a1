@@ -1,0 +1,30 @@
+T1	RNA 112 152	encephalomyocarditis virus ( EMCV ) mRNA
+T2	DNA 188 212	5 ' nontranslated region
+T3	RNA 220 229	EMCV mRNA
+T4	DNA 306 324	cis-acting element
+T5	DNA 336 365	internal ribosomal entry site
+T6	DNA 368 372	IRES
+T7	DNA 377 390	IRES elements
+T8	RNA 447 465	picornavirus mRNAs
+T9	RNA 475 489	cellular mRNAs
+T10	protein 553 573	trans-acting factors
+T11	RNA 598 602	mRNA
+T12	protein 611 628	ribosomal complex
+T13	protein 636 653	cellular proteins
+T14	protein 656 659	p52
+T15	protein 662 665	p57
+T16	protein 668 671	p70
+T17	protein 674 677	p72
+T18	protein 684 688	p100
+T19	DNA 711 715	IRES
+T20	DNA 736 740	IRES
+T21	protein 771 774	p57
+T22	DNA 792 796	IRES
+T23	protein 838 841	p57
+T24	protein 900 936	polypyrimidine tract-binding protein
+T25	DNA 995 1014	EMCV IRES fragments
+T26	DNA 1106 1129	consensus binding sites
+T27	protein 1134 1137	p52
+T28	protein 1140 1143	p57
+T29	protein 1146 1149	p70
+T30	protein 1156 1160	p100

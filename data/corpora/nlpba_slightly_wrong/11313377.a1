@@ -1,0 +1,41 @@
+T1	protein 19 28	TNF-alpha
+T2	protein 96 104	IFN-beta
+T3	cell_type 117 138	human dendritic cells
+T4	cell_type 142 153	tumor cells
+T5	protein 156 165	TNF-alpha
+T6	cell_type 274 285	tumor cells
+T7	cell_type 294 306	normal cells
+T8	cell_type 309 324	Dendritic cells
+T9	cell_type 327 330	DCs
+T10	cell_type 435 446	tumor cells
+T11	cell_type 476 502	human CD34 ( + ) stem cell
+T12	cell_type 512 515	DCs
+T13	cell_type 518 525	CD34DCs
+T14	cell_type 532 557	human CD14 ( + ) monocyte
+T15	cell_type 567 570	DCs
+T16	cell_type 573 578	MoDCs
+T17	cell_type 637 648	tumor cells
+T18	cell_type 716 723	CD34DCs
+T19	cell_type 773 799	freshly isolated monocytes
+T20	cell_type 892 908	immature CD34DCs
+T21	cell_type 912 917	MoDCs
+T22	protein 949 957	IFN-beta
+T23	protein 983 991	IFN-beta
+T24	cell_type 1032 1039	CD34DCs
+T25	cell_type 1043 1048	MoDCs
+T26	cell_type 1073 1084	tumor cells
+T27	protein 1155 1163	IFN-beta
+T28	cell_type 1176 1179	DCs
+T29	cell_type 1235 1238	DCS
+T30	cell_type 1273 1284	tumor cells
+T31	protein 1379 1387	IFN-beta
+T32	cell_type 1400 1403	DCS
+T33	cell_type 1488 1499	tumor cells
+T34	cell_type 1550 1553	DCS
+T35	protein 1585 1593	IFN-beta
+T36	cell_type 1606 1609	DCs
+T37	cell_type 1729 1732	DCs
+T38	cell_type 1767 1778	tumor cells
+T39	cell_type 1816 1819	DCs
+T40	protein 1890 1909	apoptotic tumor Ags
+T41	cell_type 1925 1944	CD8 ( + ) CTL cells

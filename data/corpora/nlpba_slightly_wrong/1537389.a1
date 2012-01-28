@@ -1,0 +1,15 @@
+T1	cell_line 43 60	human B cell line
+T2	cell_type 66 92	IgM-secreting plasma cells
+T3	DNA 108 113	c-fos
+T4	DNA 132 151	protooncogene c-fos
+T5	protein 155 175	interleukin ( IL ) 6
+T6	protein 255 259	IL 6
+T7	RNA 305 321	c-fos sense mRNA
+T8	DNA 456 461	c-fos
+T9	protein 486 490	IL 6
+T10	protein 500 503	IgM
+T11	cell_line 518 531	SKW 6.4 cells
+T12	DNA 658 663	c-fos
+T13	protein 679 683	IL 6
+T14	cell_line 712 725	SKW 6.4 cells
+T15	cell_line 731 750	IgM-secreting cells

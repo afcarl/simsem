@@ -1,0 +1,32 @@
+T1	DNA 34 75	macrophage colony-stimulating factor gene
+T2	protein 79 83	IL-2
+T3	protein 126 170	macrophage colony-stimulating factor protein
+T4	cell_type 174 183	monocytes
+T5	protein 215 235	transcription factor
+T6	protein 236 246	NF-kappa B
+T7	cell_type 249 281	Human peripheral blood monocytes
+T8	cell_type 284 286	Mo
+T9	protein 347 351	IL-2
+T10	protein 380 397	IL-2R alpha-chain
+T11	protein 437 441	IL-2
+T12	protein 475 485	human IL-2
+T13	DNA 549 578	macrophage CSF ( M-CSF ) gene
+T14	cell_type 582 584	Mo
+T15	RNA 614 624	M-CSF mRNA
+T16	protein 661 674	M-CSF protein
+T17	protein 718 722	IL-2
+T18	cell_line 776 798	monocyte-type colonies
+T19	protein 817 836	anti-M-CSF antibody
+T20	DNA 873 883	M-CSF gene
+T21	protein 887 891	IL-2
+T22	protein 940 960	transcription factor
+T23	protein 961 971	NF-kappa B
+T24	DNA 1045 1055	M-CSF gene
+T25	DNA 1077 1136	heterologous promoter ( herpes thymidine kinase ) construct
+T26	DNA 1152 1181	NF-kappa B consensus sequence
+T27	protein 1201 1211	NF-kappa B
+T28	protein 1226 1271	IL-2-induced monocyte-derived nuclear protein
+T29	protein 1374 1378	IL-2
+T30	protein 1406 1411	M-CSF
+T31	cell_type 1415 1437	human blood-derived Mo
+T32	protein 1478 1488	NF-kappa B

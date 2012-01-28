@@ -1,0 +1,30 @@
+T1	protein 4 22	c-Jun delta-domain
+T2	DNA 32 55	neuroendocrine promoter
+T3	protein 165 170	c-Jun
+T4	protein 188 218	27-amino acid regulatory motif
+T5	protein 233 245	delta-domain
+T6	protein 268 273	v-Jun
+T7	protein 306 311	c-Jun
+T8	DNA 341 372	rat prolactin ( rPRL ) promoter
+T9	protein 400 413	oncogenic Ras
+T10	protein 518 523	c-Jun
+T11	protein 568 573	c-Jun
+T12	DNA 608 640	rPRL footprint II repressor site
+T13	protein 683 701	c-Jun delta-domain
+T14	DNA 764 775	cis-element
+T15	DNA 778 790	trans-factor
+T16	protein 832 837	c-Jun
+T17	protein 843 868	transcriptional activator
+T18	DNA 876 889	rPRL promoter
+T19	cell_line 895 918	HeLa nonpituitary cells
+T20	protein 921 926	c-Jun
+T21	DNA 947 960	rPRL promoter
+T22	DNA 983 1007	GHF-1/Pit-1 binding site
+T23	DNA 1010 1021	footprint I
+T24	protein 1044 1049	GHF-1
+T25	protein 1074 1079	GHF-1
+T26	protein 1105 1110	c-Jun
+T27	protein 1119 1133	c-Fos proteins
+T28	protein 1229 1247	c-Jun delta-domain
+T29	protein 1327 1332	c-Jun
+T30	protein 1381 1399	delta-domain motif

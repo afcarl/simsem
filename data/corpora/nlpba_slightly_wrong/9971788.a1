@@ -1,0 +1,41 @@
+T1	cell_type 58 68	thymocytes
+T2	protein 78 87	NF-kappaB
+T3	cell_type 124 147	thymic epithelial cells
+T4	cell_type 211 221	thymocytes
+T5	cell_type 238 261	thymic epithelial cells
+T6	cell_type 264 267	TEC
+T7	cell_type 369 379	thymocytes
+T8	protein 604 617	Rel/NF-kappaB
+T9	protein 618 639	transcription factors
+T10	cell_type 733 743	thymocytes
+T11	cell_type 760 763	TEC
+T12	DNA 793 805	kappaB sites
+T13	protein 870 889	NF-kappaB complexes
+T14	cell_type 932 942	thymocytes
+T15	cell_type 1042 1045	TEC
+T16	protein 1077 1096	heterodimer p50-p65
+T17	protein 1099 1108	NF-kappaB
+T18	DNA 1179 1199	long terminal repeat
+T19	DNA 1202 1205	LTR
+T20	cell_type 1232 1242	thymocytes
+T21	DNA 1272 1275	LTR
+T22	protein 1291 1312	IkappaBalpha molecule
+T23	DNA 1340 1343	LTR
+T24	protein 1391 1411	Rel/NF-kappaB family
+T25	cell_type 1415 1425	thymocytes
+T26	protein 1448 1469	tumor necrosis factor
+T27	protein 1472 1475	TNF
+T28	protein 1501 1514	interleukin-1
+T29	protein 1517 1521	IL-1
+T30	protein 1565 1574	NF-kappaB
+T31	DNA 1602 1605	LTR
+T32	protein 1632 1636	IL-7
+T33	cell_type 1700 1703	TEC
+T34	protein 1734 1743	NF-kappaB
+T35	protein 1767 1770	TNF
+T36	protein 1774 1778	IL-1
+T37	protein 1817 1826	NF-kappaB
+T38	cell_type 1888 1898	thymocytes
+T39	protein 2007 2010	TNF
+T40	protein 2013 2017	IL-1
+T41	protein 2024 2028	IL-7

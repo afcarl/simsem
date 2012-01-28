@@ -1,0 +1,24 @@
+T1	DNA 21 39	interleukin-8 gene
+T2	cell_type 54 77	human endothelial cells
+T3	cell_type 234 238	PMNs
+T4	cell_type 288 311	human endothelial cells
+T5	cell_type 314 317	ECs
+T6	protein 397 401	IL-8
+T7	cell_type 499 503	PMNs
+T8	protein 529 533	IL-8
+T9	protein 550 554	IL-8
+T10	cell_type 566 569	ECs
+T11	RNA 623 632	IL-8 mRNA
+T12	protein 695 699	IL-8
+T13	cell_type 788 791	ECs
+T14	RNA 830 834	mRNA
+T15	protein 839 871	macrophage chemotactic protein-1
+T16	protein 896 917	chemokine superfamily
+T17	protein 921 946	proinflammatory cytokines
+T18	DNA 949 958	IL-8 gene
+T19	cell_type 1057 1068	hypoxic ECs
+T20	protein 1195 1207	IL-8 antigen
+T21	protein 1374 1389	myeloperoxidase
+T22	protein 1473 1478	IP-10
+T23	protein 1507 1523	chemokine family
+T24	protein 1535 1539	IL-8

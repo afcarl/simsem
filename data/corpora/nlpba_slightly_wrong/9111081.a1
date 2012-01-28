@@ -1,0 +1,52 @@
+T1	protein 0 25	Human neutrophil elastase
+T2	protein 56 73	platelet integrin
+T3	protein 74 87	alphaIIbbeta3
+T4	protein 112 129	carboxyl terminus
+T5	protein 137 165	alphaIIb subunit heavy chain
+T6	protein 226 245	Neutrophil elastase
+T7	protein 248 250	NE
+T8	protein 257 268	cathepsin G
+T9	protein 277 295	serine proteinases
+T10	cell_type 333 362	polymorphonuclear neutrophils
+T11	protein 403 405	NE
+T12	cell_type 434 449	human platelets
+T13	protein 534 545	cathepsin G
+T14	protein 561 572	cathepsin G
+T15	protein 816 844	platelet fibrinogen receptor
+T16	protein 851 873	alphaIIbbeta3 integrin
+T17	protein 917 925	integrin
+T18	protein 1047 1049	NE
+T19	protein 1070 1081	cathepsin G
+T20	protein 1154 1174	exogenous fibrinogen
+T21	protein 1209 1211	NE
+T22	protein 1261 1266	PAC-1
+T23	protein 1271 1275	AP-5
+T24	protein 1282 1303	monoclonal antibodies
+T25	protein 1365 1378	alphaIIbbeta3
+T26	protein 1532 1534	NE
+T27	protein 1552 1563	cathepsin G
+T28	protein 1589 1594	PAC-1
+T29	cell_type 1648 1668	nontreated platelets
+T30	cell_type 1744 1776	cathepsin G-stimulated platelets
+T31	protein 1924 1926	NE
+T32	protein 1944 1955	cathepsin G
+T33	protein 2027 2038	cathepsin G
+T34	protein 2080 2095	phospholipase C
+T35	protein 2096 2113	/protein kinase C
+T36	protein 2247 2249	NE
+T37	protein 2261 2274	alphaIIbbeta3
+T38	protein 2314 2325	cathepsin G
+T39	protein 2408 2416	integrin
+T40	protein 2433 2435	NE
+T41	protein 2515 2532	carboxyl terminus
+T42	protein 2540 2568	alphaIIb subunit heavy chain
+T43	protein 2571 2580	alphaIIbH
+T44	protein 2639 2664	monoclonal antibody PMI-1
+T45	protein 2743 2758	cleavage domain
+T46	protein 2762 2771	alphaIIbH
+T47	protein 2858 2860	NE
+T48	cell_type 2864 2886	ATP-depleted platelets
+T49	cell_line 2890 2917	Chinese hamster ovary cells
+T50	protein 2929 2960	human recombinant alphaIIbbeta3
+T51	protein 3004 3012	integrin
+T52	protein 3103 3112	alphaIIbH

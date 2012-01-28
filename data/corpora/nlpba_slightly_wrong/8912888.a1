@@ -1,0 +1,19 @@
+T1	cell_type 0 31	Naive ( CD45RA+ ) T lymphocytes
+T2	cell_type 92 116	memory ( CD45RO+ ) cells
+T3	cell_type 239 252	T lymphocytes
+T4	protein 276 280	IL-2
+T5	protein 289 297	receptor
+T6	protein 403 423	transcription factor
+T7	protein 424 433	NF-kappaB
+T8	cell_type 465 495	naive and memory T lymphocytes
+T9	cell_type 555 572	CD45RA+ ( naive )
+T10	cell_type 577 609	CD45RO+ ( memory ) T lymphocytes
+T11	protein 647 656	NF-kappaB
+T12	cell_type 695 706	naive cells
+T13	cell_type 715 727	memory cells
+T14	protein 802 819	nuclear NF-kappaB
+T15	protein 832 835	p50
+T16	protein 840 853	RelA proteins
+T17	protein 1101 1108	IkappaB
+T18	protein 1196 1209	IkappaB alpha
+T19	cell_type 1241 1248	T cells

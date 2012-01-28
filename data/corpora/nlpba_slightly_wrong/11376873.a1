@@ -1,0 +1,41 @@
+T1	protein 0 32	Transforming growth factor-beta1
+T2	cell_type 95 137	megakaryoblastic and erythroleukemic cells
+T3	protein 152 166	Thrombopoietin
+T4	protein 169 172	TPO
+T5	protein 179 216	transforming growth factor-beta ( 1 )
+T6	protein 219 233	TGF-beta ( 1 )
+T7	cell_type 333 352	hematopoietic cells
+T8	protein 376 390	TGF-beta ( 1 )
+T9	protein 416 419	TPO
+T10	cell_type 452 471	hematopoietic cells
+T11	protein 516 519	TPO
+T12	protein 622 625	TPO
+T13	protein 643 652	TGF-beta1
+T14	protein 827 830	TPO
+T15	cell_line 861 872	Mo-7e cells
+T16	protein 927 936	TGF-beta1
+T17	protein 1013 1016	TPO
+T18	protein 1019 1022	TPO
+T19	protein 1094 1126	mitogen-activated protein kinase
+T20	protein 1129 1133	MAPK
+T21	protein 1192 1235	MAPK extracellular signal-regulated kinases
+T22	protein 1238 1241	ERK
+T23	protein 1244 1248	ERK1
+T24	protein 1253 1257	ERK2
+T25	protein 1288 1302	Janus kinase-2
+T26	protein 1330 1333	TPO
+T27	protein 1397 1406	TGF-beta1
+T28	protein 1419 1422	TPO
+T29	protein 1435 1439	ERK1
+T30	protein 1442 1446	ERK2
+T31	cell_line 1476 1495	Mo-7e and HEL cells
+T32	protein 1622 1631	TGF-beta1
+T33	protein 1644 1655	phosphatase
+T34	protein 1667 1672	STAT3
+T35	protein 1695 1698	TPO
+T36	protein 1701 1706	STAT3
+T37	protein 1740 1749	TGF-beta1
+T38	protein 1806 1815	TGF-beta1
+T39	protein 1826 1829	TPO
+T40	protein 1900 1903	TPO
+T41	protein 1978 2002	MAPK ERK1/ERK2 and STAT5

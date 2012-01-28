@@ -1,0 +1,22 @@
+T1	protein 27 32	NF-kB
+T2	cell_type 36 52	human thymocytes
+T3	protein 55 60	NF-kB
+T4	protein 66 108	eukaryotic transcription regulatory factor
+T5	cell_type 114 121	T cells
+T6	cell_line 126 138	T cell lines
+T7	protein 141 146	NF-kB
+T8	protein 161 190	cytoplasmic proteic inhibitor
+T9	protein 197 200	IkB
+T10	cell_type 216 223	T cells
+T11	protein 260 269	cytokines
+T12	protein 272 281	TNF alpha
+T13	protein 292 297	NF-kB
+T14	DNA 353 381	NF-kB dependent T cell genes
+T15	protein 419 424	NF-kB
+T16	cell_type 428 459	human T cell thymic progenitors
+T17	protein 514 519	NF-kB
+T18	cell_type 534 544	thymocytes
+T19	cell_type 567 574	T cells
+T20	cell_type 618 628	thymocytes
+T21	protein 636 662	constitutively active form
+T22	protein 666 671	NF-kB

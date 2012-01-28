@@ -1,0 +1,28 @@
+T1	DNA 43 96	granulocyte-macrophage colony-stimulating factor gene
+T2	protein 127 175	Granulocyte-macrophage colony-stimulating factor
+T3	protein 178 184	GM-CSF
+T4	protein 320 326	GM-CSF
+T5	protein 521 530	NF-kappaB
+T6	DNA 560 575	GM-CSF promoter
+T7	DNA 658 671	reporter gene
+T8	cell_type 717 724	T cells
+T9	DNA 803 822	regulatory sequence
+T10	protein 854 860	GM-CSF
+T11	DNA 934 952	purine-rich region
+T12	DNA 960 984	GM-CSF proximal promoter
+T13	DNA 1006 1020	kappaB element
+T14	protein 1053 1060	DNase I
+T15	DNA 1150 1176	double-stranded DNA target
+T16	protein 1212 1254	recombinant and nuclear NF-kappaB proteins
+T17	DNA 1270 1284	GM-CSF element
+T18	protein 1331 1369	human T-cell lymphotrophic virus-1 Tax
+T19	protein 1393 1403	luciferase
+T20	DNA 1453 1468	GM-CSF promoter
+T21	cell_line 1472 1486	Jurkat T cells
+T22	RNA 1551 1562	GM-CSF mRNA
+T23	cell_line 1595 1609	Jurkat T cells
+T24	RNA 1629 1647	interleukin 3 mRNA
+T25	DNA 1696 1710	kappaB element
+T26	DNA 1718 1733	GM-CSF promoter
+T27	DNA 1807 1818	GM-CSF gene
+T28	DNA 1901 1912	GM-CSF gene

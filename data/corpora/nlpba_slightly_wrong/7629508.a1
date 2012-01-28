@@ -1,0 +1,41 @@
+T1	protein 24 51	transcription factor Oct-2A
+T2	protein 60 87	high mobility group protein
+T3	protein 88 91	I/Y
+T4	DNA 95 107	HLA-DRA gene
+T5	DNA 125 171	class II major histocompatibility complex gene
+T6	DNA 172 179	HLA-DRA
+T7	cell_type 196 203	B cells
+T8	cell_type 216 229	T lymphocytes
+T9	cell_type 239 263	antigen-presenting cells
+T10	DNA 280 292	HLA-DRA gene
+T11	protein 347 363	interferon-gamma
+T12	protein 366 375	IFN-gamma
+T13	protein 402 447	lymphoid-specific transcription factor Oct-2A
+T14	DNA 473 485	HLA-DRA gene
+T15	cell_line 500 530	class II-positive B cell lines
+T16	protein 546 573	high mobility group protein
+T17	protein 576 579	HMG
+T18	protein 582 585	I/Y
+T19	DNA 621 633	DRA promoter
+T20	DNA 650 669	Oct-2A binding site
+T21	protein 688 695	HMG I/Y
+T22	protein 700 705	Oct-2
+T23	cell_line 709 719	cell lines
+T24	protein 728 733	Oct-2
+T25	DNA 760 772	HLA-DRA gene
+T26	protein 835 838	I/Y
+T27	protein 850 856	Oct-2A
+T28	DNA 872 888	HLA-DRA promoter
+T29	protein 898 904	Oct-2A
+T30	protein 909 916	HMG I/Y
+T31	DNA 943 950	HLA-DRA
+T32	cell_type 965 972	B cells
+T33	protein 989 995	Oct-2A
+T34	protein 1019 1028	IFN-gamma
+T35	DNA 1046 1058	HLA-DRA gene
+T36	cell_line 1062 1072	HeLa cells
+T37	DNA 1079 1096	antisense HMG I/Y
+T38	protein 1179 1200	transcription factors
+T39	DNA 1234 1241	HLA-DRA
+T40	protein 1264 1271	HMG I/Y
+T41	protein 1343 1352	IFN-gamma

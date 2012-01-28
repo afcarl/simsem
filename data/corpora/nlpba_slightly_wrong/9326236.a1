@@ -1,0 +1,40 @@
+T1	protein 0 13	Interleukin-7
+T2	DNA 30 48	interleukin-2-gene
+T3	cell_type 63 92	activated human T lymphocytes
+T4	cell_type 188 205	activated T cells
+T5	protein 210 229	activator protein-1
+T6	protein 283 321	stromal-derived cytokine interleukin-7
+T7	protein 324 328	IL-7
+T8	DNA 338 347	IL-2-gene
+T9	cell_type 362 385	activated T lymphocytes
+T10	protein 402 406	IL-2
+T11	protein 433 454	transcription factors
+T12	DNA 471 480	IL-2-gene
+T13	protein 494 509	T-cell receptor
+T14	protein 510 522	( TCR ) /CD3
+T15	cell_type 581 598	activated T cells
+T16	protein 601 605	NFAT
+T17	protein 610 629	activator protein-1
+T18	protein 632 636	AP-1
+T19	protein 645 666	nuclear factor kappaB
+T20	protein 669 677	NFkappaB
+T21	protein 694 717	CD28 responsive complex
+T22	protein 720 726	CD28RC
+T23	protein 761 765	CD28
+T24	cell_line 792 844	phytohemagglutinin/anti-CD28 activated T lymphocytes
+T25	protein 850 854	IL-7
+T26	protein 883 887	IL-2
+T27	DNA 955 964	IL-2-gene
+T28	protein 1038 1042	IL-7
+T29	protein 1134 1138	IL-7
+T30	protein 1202 1206	NFAT
+T31	protein 1220 1224	AP-1
+T32	protein 1273 1281	NFkappaB
+T33	protein 1286 1292	CD28RC
+T34	protein 1362 1366	IL-7
+T35	protein 1395 1399	AP-1
+T36	protein 1461 1465	AP-1
+T37	protein 1481 1493	NFAT complex
+T38	protein 1517 1521	IL-7
+T39	protein 1578 1598	fos and jun proteins
+T40	protein 1608 1612	AP-1

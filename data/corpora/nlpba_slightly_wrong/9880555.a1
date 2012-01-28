@@ -1,0 +1,28 @@
+T1	DNA 24 44	human elk-1 promoter
+T2	DNA 67 95	downstream intronic sequence
+T3	DNA 100 110	elk-1 gene
+T4	cell_type 125 134	monocytes
+T5	DNA 157 177	human elk-1 promoter
+T6	DNA 194 220	transcriptional start site
+T7	cell_line 234 269	elk-1-specific genomic phage clones
+T8	DNA 295 328	upstream and downstream sequences
+T9	DNA 333 348	TATA-like motif
+T10	DNA 392 418	transcriptional start site
+T11	DNA 444 457	DNA fragments
+T12	DNA 473 485	TATA element
+T13	DNA 514 551	DNase I-hypersensitive chromatin site
+T14	DNA 554 558	HS 1
+T15	DNA 587 595	TATA box
+T16	DNA 624 634	TATA motif
+T17	DNA 652 657	elk-1
+T18	DNA 725 733	TATA box
+T19	DNA 762 767	elk-1
+T20	cell_type 939 948	monocytes
+T21	protein 1015 1020	Elk-1
+T22	DNA 1087 1092	elk-1
+T23	DNA 1227 1244	intronic sequence
+T24	RNA 1287 1297	Egr-1 mRNA
+T25	DNA 1377 1382	elk-1
+T26	protein 1412 1417	Egr-1
+T27	DNA 1453 1458	elk-1
+T28	cell_type 1492 1501	monocytes

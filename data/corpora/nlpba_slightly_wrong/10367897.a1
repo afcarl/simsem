@@ -1,0 +1,28 @@
+T1	protein 0 8	CBP/p300
+T2	protein 20 23	Raf
+T3	protein 26 29	Rac
+T4	protein 86 92	NF-ATc
+T5	protein 120 126	NF-ATc
+T6	protein 152 172	transcription factor
+T7	cell_type 203 216	T lymphocytes
+T8	cell_type 221 235	cardiomyocytes
+T9	protein 260 289	transcriptional co-activators
+T10	protein 290 298	CBP/p300
+T11	protein 339 382	inducible N-terminal transactivation domain
+T12	protein 386 392	NF-ATc
+T13	protein 395 400	TAD-A
+T14	protein 418 451	N terminal transactivation domain
+T15	protein 455 460	c-Jun
+T16	protein 463 468	TAD-A
+T17	protein 564 572	CBP/p300
+T18	protein 607 612	c-Raf
+T19	protein 617 620	Rac
+T20	protein 649 657	CBP/p300
+T21	protein 680 685	TAD-A
+T22	protein 727 735	CBP/p300
+T23	protein 812 815	CBP
+T24	protein 863 876	wild-type CBP
+T25	cell_type 880 887	T cells
+T26	protein 903 911	CBP/p300
+T27	protein 965 970	NF-AT
+T28	cell_type 999 1006	T cells

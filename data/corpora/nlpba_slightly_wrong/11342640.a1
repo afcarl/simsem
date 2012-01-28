@@ -1,0 +1,31 @@
+T1	protein 21 40	activator protein-1
+T2	DNA 69 93	human 2B4 ( CD244 ) gene
+T3	cell_type 97 105	NK cells
+T4	protein 112 141	cell surface glycoprotein 2B4
+T5	protein 144 149	CD244
+T6	protein 159 173	Ig superfamily
+T7	cell_type 207 209	NK
+T8	cell_type 214 226	T lymphocyte
+T9	protein 267 271	CD48
+T10	protein 279 308	high affinity counterreceptor
+T11	protein 313 316	2B4
+T12	protein 347 365	cytoplasmic domain
+T13	protein 369 372	2B4
+T14	protein 389 429	src homology 2 domain-containing protein
+T15	protein 433 492	signaling lymphocyte activation molecule-associated protein
+T16	DNA 666 693	human 2B4 ( h2B4 ) promoter
+T17	DNA 771 780	h2B4 gene
+T18	DNA 829 848	h2B4 genomic clones
+T19	DNA 871 894	5 ' untranslated region
+T20	DNA 910 927	promoter elements
+T21	DNA 962 971	AP-1 site
+T22	cell_line 1050 1058	YT cells
+T23	cell_line 1063 1081	human NK cell line
+T24	protein 1095 1098	Abs
+T25	protein 1120 1135	protein factors
+T26	protein 1143 1154	AP-1 family
+T27	protein 1193 1203	Jun family
+T28	DNA 1242 1251	h2B4 gene
+T29	DNA 1270 1279	AP-1 site
+T30	protein 1402 1406	AP-1
+T31	DNA 1448 1457	h2B4 gene

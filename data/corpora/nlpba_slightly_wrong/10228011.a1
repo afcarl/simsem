@@ -1,0 +1,30 @@
+T1	protein 0 11	HLA class I
+T2	DNA 63 71	cyclin E
+T3	protein 127 130	E2F
+T4	protein 256 271	HLA class I Ags
+T5	protein 352 373	HLA class I molecules
+T6	cell_type 406 424	aortic endothelial
+T7	cell_type 436 455	smooth muscle cells
+T8	protein 487 498	HLA class I
+T9	protein 577 587	Rb protein
+T10	cell_line 595 613	T cell line Jurkat
+T11	cell_type 625 655	human aortic endothelial cells
+T12	protein 658 669	HLA class I
+T13	protein 696 698	Rb
+T14	protein 732 748	neutralizing Abs
+T15	protein 752 782	basic fibroblast growth factor
+T16	protein 785 789	bFGF
+T17	protein 816 829	FGF receptors
+T18	protein 875 896	HLA class I molecules
+T19	DNA 905 913	cyclin E
+T20	cell_type 956 983	quiescent endothelial cells
+T21	protein 1030 1032	Rb
+T22	DNA 1080 1112	dominant-negative cdk2 construct
+T23	protein 1123 1134	HLA class I
+T24	protein 1161 1163	Rb
+T25	DNA 1180 1222	dominant-negative cdk4 and cdk6 constructs
+T26	protein 1278 1304	cyclin D-associated kinase
+T27	protein 1319 1330	HLA class I
+T28	protein 1358 1383	cyclin E-dependent kinase
+T29	protein 1402 1404	Rb
+T30	protein 1431 1434	E2F

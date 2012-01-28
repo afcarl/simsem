@@ -1,0 +1,38 @@
+T1	DNA 55 73	human Fas promoter
+T2	protein 83 100	NF-kappaB p50-p65
+T3	protein 115 118	Fas
+T4	protein 121 125	CD95
+T5	protein 132 142	Fas ligand
+T6	protein 145 150	CD95L
+T7	protein 280 283	Fas
+T8	protein 333 337	FasL
+T9	protein 573 576	Fas
+T10	cell_line 683 701	Jurkat T-cell line
+T11	protein 791 806	T-cell receptor
+T12	cell_line 829 849	resting Jurkat cells
+T13	protein 858 861	Fas
+T14	RNA 864 872	Fas mRNA
+T15	DNA 943 970	sequential deletion mutants
+T16	DNA 978 996	human fas promoter
+T17	DNA 1048 1062	47-bp sequence
+T18	DNA 1065 1087	positions -306 to -260
+T19	DNA 1216 1251	unrecognized composite binding site
+T20	protein 1265 1268	Sp1
+T21	protein 1273 1282	NF-kappaB
+T22	protein 1283 1304	transcription factors
+T23	DNA 1308 1330	positions -295 to -286
+T24	protein 1453 1456	Sp1
+T25	protein 1514 1544	p50-p65 NF-kappaB heterodimers
+T26	protein 1568 1571	Sp1
+T27	protein 1576 1585	NF-kappaB
+T28	protein 1705 1708	Sp1
+T29	protein 1725 1728	p50
+T30	DNA 1766 1786	kappaB-Sp1 composite
+T31	DNA 1795 1821	P/I-inducible fas promoter
+T32	protein 1863 1866	Sp1
+T33	DNA 1881 1893	-295 to -286
+T34	DNA 1901 1952	thymidine kinase promoter-driven reporter construct
+T35	DNA 1957 1983	native promoter constructs
+T36	cell_line 1987 1999	Jurkat cells
+T37	protein 2015 2028	IkappaB-alpha
+T38	DNA 2100 2118	kappaB-Sp1 element

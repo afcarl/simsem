@@ -1,0 +1,21 @@
+T1	cell_type 0 21	Leukocyte populations
+T2	protein 24 41	hormone receptors
+T3	cell_type 135 152	trophoblast cells
+T4	cell_type 525 569	BCL-2+ , CD56+ , CD3+ , CD8+ and CD68+ cells
+T5	protein 592 635	oestrogen ( ER ) and progesterone receptors
+T6	protein 638 640	PR
+T7	cell_type 731 746	apoptotic cells
+T8	cell_type 767 777	CD3+ cells
+T9	cell_type 788 809	immunocompetent cells
+T10	cell_type 857 861	CD3+
+T11	cell_type 872 876	CD8+
+T12	cell_type 903 914	CD68+ cells
+T13	cell_type 917 928	CD56+ cells
+T14	cell_type 1054 1064	CD3+ cells
+T15	cell_type 1102 1113	CD56+ cells
+T16	cell_type 1125 1136	CD68+ cells
+T17	cell_type 1152 1157	BCL2+
+T18	cell_type 1161 1171	CD3+ cells
+T19	protein 1240 1245	BCL-2
+T20	protein 1350 1352	PR
+T21	cell_type 1361 1382	apoptotic cell bodies

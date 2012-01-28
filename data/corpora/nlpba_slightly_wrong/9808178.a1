@@ -1,0 +1,32 @@
+T1	protein 29 60	IL-1 receptor-associated kinase
+T2	protein 64 72	NFkappaB
+T3	protein 86 90	IL-2
+T4	cell_line 146 168	murine T cell line EL4
+T5	protein 209 248	IL-1 receptor-associated protein kinase
+T6	protein 251 255	IRAK
+T7	protein 265 286	IL-1 receptor complex
+T8	protein 331 335	IL-1
+T9	cell_line 395 421	murine T cell line EL4 6.1
+T10	protein 437 453	human ( h ) IRAK
+T11	protein 493 497	IL-1
+T12	protein 528 533	hIRAK
+T13	protein 543 547	IL-1
+T14	protein 578 607	transcription factor NFkappaB
+T15	protein 637 643	N-IRAK
+T16	protein 669 673	IL-1
+T17	protein 685 693	NFkappaB
+T18	protein 737 742	hIRAK
+T19	protein 777 785	NFkappaB
+T20	protein 814 818	IL-2
+T21	protein 855 859	IL-1
+T22	cell_line 896 914	parental cell line
+T23	protein 942 946	IL-1
+T24	protein 956 960	IL-2
+T25	protein 1046 1050	IRAK
+T26	protein 1069 1077	NFkappaB
+T27	cell_line 1107 1116	EL4 cells
+T28	protein 1173 1177	IL-1
+T29	protein 1201 1241	stress-activated protein ( SAP ) kinases
+T30	protein 1272 1276	IRAK
+T31	protein 1342 1346	IL-1
+T32	protein 1370 1381	SAP kinases

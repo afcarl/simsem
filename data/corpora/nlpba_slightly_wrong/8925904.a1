@@ -1,0 +1,18 @@
+T1	DNA 34 56	androgen receptor gene
+T2	cell_line 84 141	androgen insensitive human prostatic carcinoma cell lines
+T3	cell_line 144 148	PC-3
+T4	cell_line 153 159	DU-145
+T5	DNA 221 250	androgen receptor ( AR ) gene
+T6	DNA 260 281	cAMP response element
+T7	DNA 284 287	CRE
+T8	DNA 305 320	promoter region
+T9	RNA 386 393	AR mRNA
+T10	cell_line 413 418	LNCaP
+T11	cell_line 437 441	PC-3
+T12	cell_line 445 462	DU-145 cell lines
+T13	protein 504 523	CRE binding protein
+T14	protein 526 530	CREB
+T15	protein 586 592	AR-CRE
+T16	protein 649 653	CREB
+T17	DNA 680 687	AR gene
+T18	cell_line 750 776	PC-3 and DU-145 cell lines

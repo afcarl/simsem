@@ -1,0 +1,25 @@
+T1	protein 0 4	AP-1
+T2	cell_type 18 34	mature monocytes
+T3	cell_type 39 49	astrocytes
+T4	DNA 84 99	HTLV-I promoter
+T5	DNA 108 120	21 bp repeat
+T6	protein 156 177	transcription factors
+T7	DNA 199 269	human T cell lymphotropic virus type I ( HTLV-I ) long terminal repeat
+T8	DNA 272 275	LTR
+T9	DNA 596 617	21 bp repeat elements
+T10	cell_line 661 671	cell lines
+T11	cell_type 675 733	lymphocytic , monocytic , neuronal , and glial cell origin
+T12	protein 776 792	cellular factors
+T13	DNA 806 819	21 bp repeats
+T14	protein 830 838	ATF/CREB
+T15	protein 843 860	Sp family members
+T16	DNA 881 894	21 bp repeats
+T17	protein 903 924	DNA-protein complexes
+T18	protein 980 999	DNA-protein complex
+T19	DNA 1039 1051	21 bp repeat
+T20	cell_line 1110 1141	U-373 MG glioblastoma cell line
+T21	cell_line 1149 1181	THP-1 mature monocytic cell line
+T22	protein 1274 1293	DNA-protein complex
+T23	protein 1314 1318	AP-1
+T24	protein 1332 1335	Fos
+T25	protein 1340 1343	Jun

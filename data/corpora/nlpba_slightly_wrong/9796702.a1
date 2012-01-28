@@ -1,0 +1,57 @@
+T1	protein 0 6	p21ras
+T2	protein 17 22	Rac-1
+T3	protein 31 65	phosphatidyl inositol 3 kinase/PKB
+T4	cell_type 99 112	T lymphocytes
+T5	protein 115 121	p21ras
+T6	protein 142 165	T cell antigen receptor
+T7	protein 168 171	TCR
+T8	protein 229 241	T lymphocyte
+T9	protein 282 316	guanine nucleotide binding protein
+T10	cell_type 320 327	T cells
+T11	protein 348 371	serine/threonine kinase
+T12	protein 372 377	Raf-1
+T13	protein 386 404	Ras-related GTPase
+T14	protein 405 410	Rac-1
+T15	cell_type 416 427	fibroblasts
+T16	DNA 460 472	Ras oncogene
+T17	protein 476 505	Phosphatidylinositol 3-kinase
+T18	protein 508 523	PtdIns 3-kinase
+T19	protein 547 559	lipid kinase
+T20	protein 587 592	Rac-1
+T21	protein 627 633	p21ras
+T22	protein 670 701	serine/threonine kinase Akt/PKB
+T23	protein 716 731	PtdIns 3-kinase
+T24	protein 735 738	Ras
+T25	cell_type 752 759	T cells
+T26	protein 834 849	PtdIns 3-kinase
+T27	protein 866 871	Rac-1
+T28	protein 963 970	Akt/PKB
+T29	cell_type 1013 1026	T lymphocytes
+T30	protein 1051 1054	Ras
+T31	protein 1070 1075	Rac-1
+T32	protein 1140 1154	AP-1 complexes
+T33	protein 1157 1172	PtdIns 3-kinase
+T34	protein 1195 1201	p21ras
+T35	protein 1217 1220	Rac
+T36	protein 1243 1247	AP-1
+T37	protein 1296 1299	TCR
+T38	protein 1303 1306	Ras
+T39	protein 1321 1325	AP-1
+T40	protein 1342 1357	PtdIns 3-kinase
+T41	protein 1360 1363	PKB
+T42	protein 1410 1433	T cell antigen receptor
+T43	protein 1436 1451	PtdIns 3-kinase
+T44	protein 1502 1505	TCR
+T45	protein 1531 1537	p21ras
+T46	protein 1567 1574	Akt/PKB
+T47	cell_type 1587 1593	T cell
+T48	protein 1601 1604	Ras
+T49	protein 1627 1634	Akt/PKB
+T50	protein 1665 1668	TCR
+T51	protein 1708 1723	PtdIns 3-kinase
+T52	protein 1728 1735	Akt/PKB
+T53	protein 1754 1776	Ras effector molecules
+T54	protein 1779 1782	Ras
+T55	protein 1796 1801	Rac-1
+T56	protein 1849 1872	T cell antigen receptor
+T57	protein 1899 1914	PtdIns 3-kinase

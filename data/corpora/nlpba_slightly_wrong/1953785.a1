@@ -1,0 +1,11 @@
+T1	protein 14 32	interleukin-1 beta
+T2	cell_type 66 81	human monocytes
+T3	protein 185 203	interleukin-1 beta
+T4	cell_type 218 233	monocytic cells
+T5	RNA 344 367	interleukin-1 beta mRNA
+T6	cell_type 491 506	human monocytes
+T7	protein 712 730	interleukin-1 beta
+T8	RNA 975 998	interleukin-1 beta mRNA
+T9	RNA 1088 1104	PMA-induced mRNA
+T10	protein 1187 1203	protein kinase C
+T11	RNA 1304 1316	induced mRNA

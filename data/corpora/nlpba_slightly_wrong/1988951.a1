@@ -1,0 +1,26 @@
+T1	cell_line 26 43	B-cell population
+T2	DNA 78 119	human interferon regulatory factor 1 gene
+T3	protein 141 152	Interferons
+T4	protein 155 159	IFNs
+T5	protein 185 203	antiviral proteins
+T6	protein 276 280	IFNs
+T7	cell_type 307 313	normal
+T8	cell_type 318 340	transformed cell types
+T9	protein 358 372	nuclear factor
+T10	protein 375 380	IRF-1
+T11	protein 383 413	interferon regulatory factor 1
+T12	DNA 433 443	type I IFN
+T13	DNA 453 481	IFN-inducible gene promoters
+T14	protein 522 527	IRF-1
+T15	protein 551 554	IFN
+T16	DNA 615 625	IRF-1 gene
+T17	protein 644 647	IFN
+T18	DNA 764 780	human IRF-1 gene
+T19	DNA 795 836	human immunoglobulin heavy-chain enhancer
+T20	cell_type 943 956	B lymphocytes
+T21	cell_type 959 966	B cells
+T22	cell_type 999 1016	bone marrow cells
+T23	cell_type 1123 1140	B-cell population
+T24	cell_line 1153 1181	transgenic bone marrow cells
+T25	cell_line 1200 1237	bone marrow-derived stromal cell line
+T26	cell_type 1258 1264	B-cell

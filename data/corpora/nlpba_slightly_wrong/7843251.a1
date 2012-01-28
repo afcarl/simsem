@@ -1,0 +1,23 @@
+T1	protein 0 16	Protein kinase C
+T2	DNA 49 55	p21ras
+T3	cell_type 59 76	activated T cells
+T4	protein 140 156	protein kinase C
+T5	protein 159 162	PKC
+T6	DNA 181 187	p21ras
+T7	DNA 204 231	interleukin-2 ( IL-2 ) gene
+T8	protein 271 274	PKC
+T9	protein 281 289	effector
+T10	DNA 293 299	p21ras
+T11	cell_type 303 310	T cells
+T12	protein 364 367	PKC
+T13	protein 479 482	PKC
+T14	DNA 504 510	p21ras
+T15	protein 531 536	NF-AT
+T16	protein 541 545	AP-1
+T17	protein 596 600	IL-2
+T18	cell_line 604 624	human Jurkat T cells
+T19	protein 671 681	NF-kappa B
+T20	DNA 750 756	p21ras
+T21	protein 792 795	PKC
+T22	protein 834 837	ras
+T23	protein 911 915	IL-2

@@ -1,0 +1,17 @@
+T1	protein 22 27	Stat1
+T2	protein 81 107	adenoviral E1A oncoprotein
+T3	DNA 111 137	host immune-response genes
+T4	protein 178 220	p300/CBP-type transcriptional coactivators
+T5	protein 241 273	endogenous transcription factors
+T6	protein 282 348	signal transducer and activator of transcription ( STAT ) proteins
+T7	protein 390 393	E1A
+T8	protein 414 422	p300/CBP
+T9	protein 456 461	Stat1
+T10	protein 468 512	E1A N-terminal and Stat1 C-terminal residues
+T11	protein 543 548	Stat1
+T12	cell_type 636 653	natural host cell
+T13	protein 719 722	E1A
+T14	protein 780 788	IFNgamma
+T15	protein 871 879	p300/CBP
+T16	protein 890 895	Stat1
+T17	protein 903 930	basal transcription complex

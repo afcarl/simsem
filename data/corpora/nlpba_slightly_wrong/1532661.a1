@@ -1,0 +1,39 @@
+T1	DNA 60 84	human interleukin 4 gene
+T2	DNA 160 171	DNA segment
+T3	DNA 238 269	human interleukin ( IL ) 4 gene
+T4	cell_line 273 285	Jurkat cells
+T5	DNA 292 307	human IL-4 gene
+T6	DNA 348 353	exons
+T7	DNA 364 371	introns
+T8	DNA 376 394	cis-acting element
+T9	DNA 397 407	P sequence
+T10	DNA 425 444	5 ' upstream region
+T11	DNA 461 473	DNA segments
+T12	DNA 520 535	human IL-4 gene
+T13	DNA 571 586	fusion promoter
+T14	DNA 612 675	granulocyte/macrophage colony-stimulating factor basic promoter
+T15	DNA 687 712	60 base pairs of sequence
+T16	DNA 731 739	cap site
+T17	DNA 747 806	mouse granulocyte/macrophage colony-stimulating factor gene
+T18	DNA 834 855	5 ' upstream sequence
+T19	DNA 863 872	IL-4 gene
+T20	DNA 879 889	P sequence
+T21	DNA 948 972	transcription start site
+T22	DNA 980 995	human IL-4 gene
+T23	DNA 1108 1118	P sequence
+T24	protein 1173 1188	binding protein
+T25	DNA 1214 1224	P sequence
+T26	DNA 1232 1241	IL-4 gene
+T27	protein 1304 1312	NF ( P )
+T28	protein 1317 1336	DNA binding protein
+T29	DNA 1370 1380	P sequence
+T30	DNA 1390 1400	P sequence
+T31	protein 1497 1505	NF ( P )
+T32	protein 1624 1628	IL-4
+T33	DNA 1654 1664	P sequence
+T34	DNA 1698 1719	5 ' upstream sequence
+T35	DNA 1727 1736	IL-2 gene
+T36	DNA 1780 1789	IL-4 gene
+T37	DNA 1819 1828	IL-2 gene
+T38	protein 1867 1875	proteins
+T39	DNA 1886 1905	IL-2 and IL-4 genes

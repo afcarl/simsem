@@ -1,0 +1,41 @@
+T1	cell_type 34 56	mononuclear phagocytes
+T2	protein 60 86	leukemia inhibitory factor
+T3	protein 124 150	leukemia inhibitory factor
+T4	protein 153 156	LIF
+T5	cell_type 214 236	mononuclear phagocytes
+T6	cell_type 239 242	MNP
+T7	protein 247 250	LIF
+T8	protein 288 299	p24 antigen
+T9	cell_line 318 364	chronically infected promonocytic cell line U1
+T10	protein 406 409	LIF
+T11	protein 434 447	interleukin 1
+T12	protein 450 454	IL-1
+T13	protein 459 463	IL-6
+T14	protein 470 491	tumor necrosis factor
+T15	protein 494 497	TNF
+T16	protein 619 622	LIF
+T17	RNA 643 651	HIV mRNA
+T18	protein 672 706	DNA binding protein nuclear factor
+T19	protein 707 717	( NF ) -kB
+T20	protein 789 798	cytokines
+T21	protein 815 818	LIF
+T22	RNA 852 860	HIV mRNA
+T23	protein 948 973	DNA binding protein NF-kB
+T24	protein 999 1007	cytokine
+T25	protein 1042 1047	NF-kB
+T26	cell_line 1070 1091	unstimulated U1 cells
+T27	cell_line 1111 1127	parent cell line
+T28	cell_line 1128 1132	U937
+T29	protein 1154 1157	LIF
+T30	protein 1168 1173	NF-kB
+T31	protein 1198 1203	NF-kB
+T32	protein 1227 1236	cytokines
+T33	protein 1378 1399	nitric oxide synthase
+T34	protein 1412 1415	LIF
+T35	protein 1443 1446	LIF
+T36	protein 1479 1488	cytokines
+T37	protein 1559 1569	antibodies
+T38	protein 1573 1577	IL-1
+T39	protein 1580 1583	TNF
+T40	protein 1589 1593	IL-6
+T41	protein 1619 1622	LIF

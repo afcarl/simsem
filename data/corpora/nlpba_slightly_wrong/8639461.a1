@@ -1,0 +1,12 @@
+T1	cell_line 205 235	CD4+ infected T-lymphoid cells
+T2	cell_type 429 443	lymphoid cells
+T3	cell_type 754 772	thymic lymphocytes
+T4	cell_type 785 815	chronically HIV-infected cells
+T5	protein 877 900	Glucocorticoid receptor
+T6	protein 985 1007	receptor binding sites
+T7	cell_line 1039 1069	chronically HIV-infected cells
+T8	cell_line 1077 1094	lymphoid CEM line
+T9	protein 1192 1205	binding sites
+T10	cell_type 1373 1391	HIV-infected cells
+T11	protein 1441 1464	glucocorticoid receptor
+T12	cell_type 1595 1622	infected CD4+ T-lymphocytes

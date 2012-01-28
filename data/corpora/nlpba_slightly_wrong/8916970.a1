@@ -1,0 +1,50 @@
+T1	cell_type 14 39	CD1+RelB+ dendritic cells
+T2	cell_type 44 131	tartrate-resistant acid phosphatase-positive osteoclast-like multinucleated giant cells
+T3	cell_type 137 152	human monocytes
+T4	protein 181 229	granulocyte-macrophage colony-stimulating factor
+T5	protein 232 238	GM-CSF
+T6	protein 245 281	macrophage colony-stimulating factor
+T7	protein 284 289	M-CSF
+T8	cell_type 325 340	human monocytes
+T9	cell_type 383 394	macrophages
+T10	protein 426 429	CSF
+T11	protein 450 459	cytokines
+T12	protein 506 515	cytokines
+T13	cell_type 552 561	monocytes
+T14	protein 565 569	CSFs
+T15	cell_type 610 640	CD14+ adherent human monocytes
+T16	cell_type 664 689	CD1+relB+ dendritic cells
+T17	cell_type 692 694	DC
+T18	protein 719 725	GM-CSF
+T19	protein 731 744	interleukin-4
+T20	protein 747 751	IL-4
+T21	cell_type 787 884	tartrate-resistant acid phosphatase ( TRAP ) -positive osteoclast-like multinucleated giant cells
+T22	cell_type 887 890	MGC
+T23	protein 915 920	M-CSF
+T24	protein 926 930	IL-4
+T25	cell_line 947 966	monocyte-derived DC
+T26	cell_line 976 1007	terminally differentiated cells
+T27	cell_type 1038 1049	macrophages
+T28	protein 1065 1070	M-CSF
+T29	protein 1073 1100	Tumor necrosis factor-alpha
+T30	protein 1103 1112	TNF-alpha
+T31	cell_type 1162 1164	DC
+T32	protein 1205 1219	M-CSF receptor
+T33	RNA 1222 1231	cfms mRNA
+T34	cell_type 1275 1286	macrophages
+T35	protein 1304 1308	IL-4
+T36	protein 1311 1327	interferon-gamma
+T37	protein 1330 1339	IFN-gamma
+T38	cell_type 1395 1404	monocytes
+T39	protein 1416 1425	IFN-gamma
+T40	protein 1452 1456	IL-4
+T41	cell_type 1476 1478	DC
+T42	cell_type 1483 1486	MGC
+T43	protein 1508 1514	GM-CSF
+T44	protein 1517 1521	IL-4
+T45	protein 1526 1531	M-CSF
+T46	protein 1534 1538	IL-4
+T47	cell_type 1679 1694	human monocytes
+T48	cell_type 1774 1785	macrophages
+T49	cell_type 1798 1809	CD1+relB+DC
+T50	cell_type 1814 1831	TRAP-positive MGC

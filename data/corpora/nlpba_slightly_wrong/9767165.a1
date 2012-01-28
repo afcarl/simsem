@@ -1,0 +1,11 @@
+T1	DNA 0 8	musculin
+T2	DNA 13 68	murine basic helix-loop-helix transcription factor gene
+T3	protein 150 158	musculin
+T4	protein 188 199	bHLH family
+T5	protein 203 224	transcription factors
+T6	protein 266 277	human ABF-1
+T7	cell_type 312 319	B cells
+T8	protein 329 353	epicardin/capsulin/Pod-1
+T9	cell_type 378 397	branchial myoblasts
+T10	protein 481 489	musculin
+T11	cell_type 542 575	embryonic skeletal muscle lineage

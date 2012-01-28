@@ -1,0 +1,10 @@
+T1	cell_line 61 90	promyelocyte cell line OM10.1
+T2	cell_line 237 243	OM10.1
+T3	cell_line 248 270	promyelocyte cell line
+T4	protein 573 582	cytokines
+T5	protein 635 658	anti-TNF-alpha antibody
+T6	protein 697 706	TNF-alpha
+T7	protein 808 817	TNF-alpha
+T8	protein 1009 1012	Tat
+T9	cell_line 1200 1225	heat shock-treated OM10.1
+T10	protein 1367 1370	PKC

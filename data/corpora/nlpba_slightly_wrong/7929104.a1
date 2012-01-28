@@ -1,0 +1,38 @@
+T1	protein 14 48	interleukin-2 receptor alpha chain
+T2	protein 64 86	nuclear factor.kappa B
+T3	protein 101 117	protein kinase C
+T4	cell_type 121 134	T lymphocytes
+T5	protein 155 182	tumor necrosis factor alpha
+T6	protein 203 237	interleukin-2 receptor alpha chain
+T7	protein 240 251	IL-2R alpha
+T8	protein 269 283	nuclear factor
+T9	protein 305 321	protein kinase C
+T10	protein 324 327	PKC
+T11	cell_type 333 348	resting T cells
+T12	cell_type 389 404	resting T cells
+T13	protein 460 471	IL-2R alpha
+T14	protein 494 504	NF.kappa B
+T15	protein 555 558	p65
+T16	protein 563 568	c-Rel
+T17	protein 569 579	NF.kappa B
+T18	DNA 651 667	kappa B sequence
+T19	DNA 675 695	IL-2R alpha promoter
+T20	protein 706 713	p50.p65
+T21	protein 720 729	p50.c-Rel
+T22	protein 841 868	tumor necrosis factor alpha
+T23	protein 871 880	TNF alpha
+T24	protein 922 969	neutralizing anti-TNF alpha monoclonal antibody
+T25	protein 1016 1025	TNF alpha
+T26	protein 1048 1051	PKC
+T27	protein 1073 1084	IL-2R alpha
+T28	protein 1089 1099	NF.kappa B
+T29	protein 1136 1145	TNF alpha
+T30	protein 1149 1153	IL-2
+T31	protein 1196 1207	IL-2R alpha
+T32	protein 1230 1239	TNF alpha
+T33	protein 1261 1271	NF.kappa B
+T34	cell_type 1318 1333	resting T cells
+T35	protein 1336 1339	PKC
+T36	protein 1414 1423	TNF alpha
+T37	protein 1497 1508	IL-2R alpha
+T38	protein 1518 1528	NF.kappa B

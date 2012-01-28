@@ -1,0 +1,30 @@
+T1	protein 27 43	glycoprotein-350
+T2	protein 55 59	IL-6
+T3	cell_type 63 82	human B-lymphocytes
+T4	protein 87 91	CD21
+T5	protein 118 127	NF-kappaB
+T6	cell_type 416 429	B-lymphocytes
+T7	cell_type 457 473	epithelial cells
+T8	protein 489 497	CD21/CR2
+T9	cell_type 517 524	B cells
+T10	protein 574 577	CR2
+T11	protein 590 621	major envelope glycoprotein-350
+T12	protein 624 629	gp350
+T13	protein 769 778	cytokines
+T14	protein 818 835	recombinant gp350
+T15	protein 838 844	rgp350
+T16	RNA 866 875	IL-6 mRNA
+T17	cell_type 889 896	B cells
+T18	protein 1032 1038	rgp350
+T19	RNA 1083 1092	IL-6 mRNA
+T20	protein 1165 1171	rgp350
+T21	protein 1205 1210	gp350
+T22	protein 1238 1268	NF-kappaB transcription factor
+T23	protein 1311 1320	NF-kappaB
+T24	DNA 1347 1367	CAT reporter plasmid
+T25	protein 1452 1457	gp350
+T26	protein 1652 1685	herpesvirus envelope glycoprotein
+T27	protein 1689 1692	CR2
+T28	cell_type 1696 1709	human B cells
+T29	protein 1743 1773	NF-kappaB transcription factor
+T30	cell_type 1835 1846	lymphocytes

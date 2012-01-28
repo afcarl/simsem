@@ -1,0 +1,35 @@
+T1	DNA 67 97	kB-like proto-enhancer element
+T2	DNA 107 129	interleukin 2 promoter
+T3	DNA 148 173	T cell-specific enhancers
+T4	DNA 177 222	murine and human Interleukin 2 ( Il-2 ) genes
+T5	DNA 235 251	kB-like sequence
+T6	DNA 270 305	essential cis-acting enhancer motif
+T7	DNA 354 358	TCEd
+T8	DNA 361 382	distal T cell element
+T9	DNA 406 428	proto-enhancer element
+T10	cell_line 432 452	E14 T lymphoma cells
+T11	cell_line 466 476	HeLa cells
+T12	cell_line 504 528	Il-2 secreting El4 cells
+T13	protein 546 561	protein factors
+T14	DNA 570 578	TCEd DNA
+T15	protein 630 635	TCF-1
+T16	protein 638 653	T cell factor 1
+T17	protein 715 720	TCF-1
+T18	protein 816 833	50 kD polypeptide
+T19	protein 837 842	NF-kB
+T20	protein 845 859	Purified NF-kB
+T21	DNA 888 892	TCEd
+T22	protein 899 904	TCF-1
+T23	protein 925 930	NF-kB
+T24	DNA 934 938	TCEd
+T25	DNA 967 971	TCEd
+T26	DNA 977 1006	'perfect ' NF-kB binding site
+T27	protein 1037 1042	NF-kB
+T28	DNA 1046 1054	TCEd DNA
+T29	DNA 1114 1138	'converted ' TCEd motifs
+T30	cell_line 1142 1152	HeLa cells
+T31	DNA 1225 1242	GGGATTTCACC motif
+T32	cell_line 1321 1330	El4 cells
+T33	cell_line 1335 1345	HeLa cells
+T34	DNA 1419 1423	TCEd
+T35	DNA 1492 1501	Il-2 gene

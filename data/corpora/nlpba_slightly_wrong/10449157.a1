@@ -1,0 +1,46 @@
+T1	cell_type 0 35	Myb-transformed hematopoietic cells
+T2	cell_type 81 96	dendritic cells
+T3	cell_type 101 112	macrophages
+T4	cell_type 171 195	antigen-presenting cells
+T5	protein 210 219	receptors
+T6	cell_type 238 264	thymus-derived lymphocytes
+T7	cell_type 353 392	mononuclear phagocyte/neutrophil series
+T8	cell_type 407 422	dendritic cells
+T9	cell_type 425 427	DC
+T10	cell_type 458 493	GM-CSF-responsive bone marrow cells
+T11	cell_type 583 617	GM-CSF-responsive progenitor cells
+T12	cell_type 647 657	DC lineage
+T13	cell_line 753 781	GM-CSF-responsive cell lines
+T14	cell_line 858 875	cloned cell lines
+T15	DNA 957 962	c-myb
+T16	DNA 988 1012	autoregulatory sequences
+T17	cell_line 1041 1075	myb-transformed hemopoi-etic cells
+T18	cell_line 1078 1082	MTHC
+T19	cell_line 1227 1231	MTHC
+T20	protein 1251 1260	TNF-alpha
+T21	protein 1265 1269	IL-4
+T22	cell_type 1336 1347	macrophages
+T23	cell_line 1364 1374	MTHC lines
+T24	protein 1390 1399	TNF-alpha
+T25	protein 1420 1429	IFN-gamma
+T26	cell_type 1457 1459	DC
+T27	cell_type 1481 1483	DC
+T28	cell_line 1582 1594	T cell lines
+T29	cell_type 1638 1649	macrophages
+T30	cell_type 1654 1656	DC
+T31	cell_type 1694 1727	GM-CSF-responsive progenitor cell
+T32	cell_line 1748 1759	MTHC system
+T33	cell_type 1832 1834	DC
+T34	cell_type 1839 1858	macrophage pathways
+T35	DNA 1911 1916	cDNAs
+T36	DNA 1934 1959	macrophage-specific cDNAs
+T37	protein 1993 2031	cytoskeletal and cell-surface proteins
+T38	cell_type 2046 2048	DC
+T39	DNA 2059 2064	cDNAs
+T40	DNA 2083 2136	signaling , chemokine , and IFN-gamma-inducible genes
+T41	cell_line 2165 2169	MTHC
+T42	cell_type 2209 2211	DC
+T43	cell_type 2216 2227	macrophages
+T44	cell_type 2247 2249	DC
+T45	cell_type 2254 2265	macrophages
+T46	cell_type 2312 2334	antigen handling cells

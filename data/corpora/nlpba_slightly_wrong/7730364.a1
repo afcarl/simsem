@@ -1,0 +1,38 @@
+T1	protein 24 69	protein kinase C-alpha , -epsilon , and -zeta
+T2	cell_type 93 100	T cells
+T3	protein 130 146	protein kinase C
+T4	protein 149 152	PKC
+T5	protein 193 197	PKCs
+T6	protein 293 305	PKC isotypes
+T7	protein 352 383	PKC-alpha , -epsilon , or -zeta
+T8	cell_type 411 418	T cells
+T9	protein 475 481	p21ras
+T10	protein 562 588	constitutively active PKCs
+T11	protein 644 650	p21ras
+T12	protein 676 687	PKC-epsilon
+T13	protein 713 722	PKC-alpha
+T14	protein 731 736	-zeta
+T15	protein 756 777	transcription factors
+T16	protein 778 782	AP-1
+T17	protein 795 822	factor of activated T cells
+T18	protein 825 832	NF-AT-1
+T19	protein 852 863	PKC-epsilon
+T20	protein 893 900	NF-AT-1
+T21	protein 905 909	AP-1
+T22	protein 953 984	constitutively activated p21ras
+T23	protein 987 998	PKC-epsilon
+T24	protein 1009 1018	PKC-alpha
+T25	protein 1033 1039	p21ras
+T26	protein 1061 1066	NF-KB
+T27	protein 1114 1118	CD69
+T28	protein 1139 1161	activated PKC isotypes
+T29	protein 1211 1214	Src
+T30	protein 1219 1225	p21ras
+T31	protein 1246 1250	CD69
+T32	protein 1321 1333	PKC isotypes
+T33	cell_type 1337 1344	T cells
+T34	protein 1392 1405	activated Ras
+T35	protein 1410 1421	PKC mutants
+T36	protein 1435 1444	PKC-alpha
+T37	protein 1447 1453	p21ras
+T38	protein 1460 1471	PKC-epsilon

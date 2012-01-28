@@ -1,0 +1,25 @@
+T1	DNA 0 13	Clone pAT 133
+T2	DNA 80 107	growth factor-induced genes
+T3	protein 130 149	zinc-finger domains
+T4	DNA 216 229	clone pAT 133
+T5	DNA 348 360	pAT 133 gene
+T6	protein 391 394	FOS
+T7	cell_type 415 428	human T cells
+T8	cell_type 436 447	fibroblasts
+T9	protein 524 552	tandem zinc-finger sequences
+T10	protein 565 580	Cys2-Xaa12-His2
+T11	protein 588 606	zinc-finger region
+T12	protein 755 776	transcription factors
+T13	protein 777 789	pAT 225/EGR1
+T14	protein 798 806	591/EGR2
+T15	protein 834 853	zinc-finger domains
+T16	protein 860 880	amino acid sequences
+T17	DNA 963 975	pAT 133 gene
+T18	protein 986 1006	transcription factor
+T19	DNA 1087 1113	zinc-finger-encoding genes
+T20	cell_type 1172 1193	resting T lymphocytes
+T21	cell_type 1201 1220	resting fibroblasts
+T22	RNA 1362 1395	human histiocytic U937 cells mRNA
+T23	RNA 1452 1456	mRNA
+T24	protein 1460 1472	pAT 225/EGR1
+T25	protein 1564 1572	591/EGR2

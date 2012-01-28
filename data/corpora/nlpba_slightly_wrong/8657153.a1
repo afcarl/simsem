@@ -1,0 +1,20 @@
+T1	DNA 30 64	RNA polymerase III-dependent genes
+T2	protein 72 118	human T-cell leukemia virus type 1 tax protein
+T3	protein 125 172	human T-cell leukemia virus-encoded tax protein
+T4	DNA 203 227	viral and cellular genes
+T5	protein 243 260	RNA polymerase II
+T6	DNA 281 290	chromatin
+T7	cell_line 322 385	human T-cell leukemia virus type 1-infected human T lymphocytes
+T8	DNA 452 461	chromatin
+T9	cell_type 479 503	uninfected T lymphocytes
+T10	protein 510 527	viral protein Tax
+T11	DNA 576 589	class II gene
+T12	protein 609 621	purified Tax
+T13	protein 811 846	class III gene transcription factor
+T14	protein 847 853	TFIIIB
+T15	protein 881 884	Tax
+T16	protein 924 927	Tax
+T17	protein 969 992	active TFIIIB molecules
+T18	protein 1019 1022	Tax
+T19	DNA 1034 1067	RNA polymerase III-dependent gene
+T20	protein 1121 1153	transcription initiation complex

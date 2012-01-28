@@ -1,0 +1,26 @@
+T1	cell_line 53 79	human B lymphoma cell line
+T2	cell_line 82 86	B104
+T3	protein 92 120	anti-MHC class II antibodies
+T4	cell_line 180 206	human B lymphoma cell line
+T5	cell_line 209 213	B104
+T6	protein 219 247	anti-MHC class II antibodies
+T7	protein 250 252	Ab
+T8	protein 283 294	anti-IgM Ab
+T9	protein 333 353	anti-MHC class II Ab
+T10	protein 356 360	L227
+T11	protein 365 369	2.06
+T12	cell_line 396 406	B104 cells
+T13	protein 418 422	2.06
+T14	protein 433 437	L227
+T15	protein 481 503	goat anti-mouse IgG Ab
+T16	protein 506 509	GAM
+T17	protein 533 537	L227
+T18	RNA 744 754	Egr-1 mRNA
+T19	protein 765 769	2.06
+T20	protein 775 778	GAM
+T21	cell_line 907 916	B104 cell
+T22	protein 935 955	anti-MHC class II Ab
+T23	cell_line 1158 1167	B104 cell
+T24	protein 1185 1196	anti-IgM Ab
+T25	protein 1321 1343	MHC class II molecules
+T26	protein 1470 1473	IgM

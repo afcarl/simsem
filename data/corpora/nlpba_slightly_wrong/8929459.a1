@@ -1,0 +1,11 @@
+T1	DNA 50 53	CRE
+T2	DNA 58 71	AP-2 elements
+T3	cell_type 75 94	human T lymphocytes
+T4	protein 391 412	transcription factors
+T5	DNA 469 489	cAMP-regulated genes
+T6	cell_type 579 598	human T lymphocytes
+T7	DNA 646 649	CRE
+T8	DNA 654 658	AP-2
+T9	DNA 669 688	AP-1 , DNA elements
+T10	DNA 1012 1028	CRE-CAT plasmide
+T11	DNA 1077 1100	CRE-containing promoter

@@ -1,0 +1,16 @@
+T1	DNA 58 67	enhancers
+T2	cell_type 92 98	T-cell
+T3	DNA 373 390	sequence elements
+T4	DNA 400 421	long terminal repeats
+T5	DNA 424 428	LTRs
+T6	DNA 479 498	regulatory elements
+T7	DNA 506 515	HIV-2 LTR
+T8	DNA 522 531	HIV-2 LTR
+T9	DNA 557 566	enhancers
+T10	DNA 582 591	enhancers
+T11	DNA 624 638	HIV-1 enhancer
+T12	DNA 646 654	enhancer
+T13	DNA 671 705	T-cell activation response element
+T14	DNA 739 754	second enhancer
+T15	DNA 843 851	enhancer
+T16	protein 871 895	nuclear binding proteins

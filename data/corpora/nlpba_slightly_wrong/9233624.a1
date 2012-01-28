@@ -1,0 +1,33 @@
+T1	DNA 52 74	proximal CD19 promoter
+T2	DNA 105 127	SP1/Egr-1 binding site
+T3	DNA 156 163	PyG box
+T4	protein 166 170	CD19
+T5	DNA 279 300	B cell-specific genes
+T6	protein 411 415	CD19
+T7	DNA 481 494	CD19 promoter
+T8	DNA 637 664	region between -85 and -200
+T9	cell_type 720 734	lymphoid cells
+T10	DNA 816 871	B cell lineage-specific activator protein ( BSAP ) site
+T11	DNA 878 900	low affinity BSAP site
+T12	DNA 905 919	SP1/Egr-1 site
+T13	DNA 931 942	CD19 GC box
+T14	DNA 975 981	AT box
+T15	DNA 986 993	PyG box
+T16	cell_line 1025 1040	pre-B cell line
+T17	protein 1054 1058	CD19
+T18	protein 1080 1085	Egr-1
+T19	protein 1171 1176	Egr-1
+T20	DNA 1192 1203	CD19 GC box
+T21	DNA 1247 1263	PyG and AT boxes
+T22	DNA 1283 1289	AT box
+T23	DNA 1300 1310	BSAP sites
+T24	protein 1326 1330	CD19
+T25	DNA 1331 1349	reporter construct
+T26	DNA 1385 1391	GC box
+T27	DNA 1420 1427	PyG box
+T28	protein 1463 1467	BSAP
+T29	DNA 1493 1517	CD19 promoter constructs
+T30	cell_type 1521 1528	B cells
+T31	cell_type 1532 1543	non-B cells
+T32	DNA 1587 1603	PyG and GC boxes
+T33	DNA 1638 1651	CD19 promoter

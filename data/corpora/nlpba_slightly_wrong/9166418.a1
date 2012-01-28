@@ -1,0 +1,29 @@
+T1	DNA 33 88	major histocompatibility complex ( MHC ) class II genes
+T2	protein 112 135	class II transactivator
+T3	protein 164 205	major histocompatibility complex class II
+T4	protein 264 287	class II transactivator
+T5	protein 290 295	CIITA
+T6	DNA 365 385	human class II genes
+T7	DNA 388 410	HLA-DR , -DQ , and -DP
+T8	cell_line 450 476	B-lymphoblastoid cell line
+T9	cell_line 479 487	clone 13
+T10	protein 515 520	HLADQ
+T11	DNA 539 545	HLA-DR
+T12	DNA 550 556	HLA-DP
+T13	DNA 655 677	clone 13 CIITA alleles
+T14	DNA 707 713	HLA-DQ
+T15	protein 801 806	CIITA
+T16	DNA 823 829	HLA-DQ
+T17	DNA 885 896	CIITA cDNAs
+T18	cell_line 961 969	clone 13
+T19	DNA 999 1005	HLA-DQ
+T20	cell_line 1017 1042	CIITA-deficient cell line
+T21	cell_line 1045 1052	RJ2.2.5
+T22	protein 1072 1077	CIITA
+T23	cell_line 1103 1111	clone 13
+T24	cell_line 1173 1181	clone 13
+T25	cell_line 1186 1193	RJ2.2.5
+T26	DNA 1221 1227	HLA-DQ
+T27	DNA 1253 1269	RJ2.2.5 DQB gene
+T28	protein 1332 1375	HLA-DQ isotype-specific trans-acting factor
+T29	protein 1411 1416	CIITA

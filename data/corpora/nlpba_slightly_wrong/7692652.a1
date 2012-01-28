@@ -1,0 +1,20 @@
+T1	protein 213 228	T-cell receptor
+T2	cell_type 268 282	helper T cells
+T3	protein 489 493	IL-2
+T4	protein 512 522	calmodulin
+T5	protein 525 536	calcineurin
+T6	protein 545 580	nuclear factor of activated T cells
+T7	protein 583 588	NF-AT
+T8	protein 615 625	calmodulin
+T9	protein 654 664	calmodulin
+T10	protein 668 679	calcineurin
+T11	protein 696 707	calcineurin
+T12	protein 744 772	cytoplasmic subunit of NF-AT
+T13	protein 852 887	competent transcriptional activator
+T14	protein 906 909	Jun
+T15	protein 1124 1143	cytosolic receptors
+T16	protein 1151 1164	immunophilins
+T17	protein 1221 1256	peptidyl prolyl cis-trans isomerase
+T18	protein 1300 1327	immunophilin-drug complexes
+T19	protein 1356 1367	phosphatase
+T20	protein 1380 1391	calcineurin

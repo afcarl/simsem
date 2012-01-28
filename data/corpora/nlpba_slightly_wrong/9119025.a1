@@ -1,0 +1,17 @@
+T1	DNA 35 55	long terminal repeat
+T2	DNA 102 114	kappaB motif
+T3	cell_type 146 174	peripheral blood lymphocytes
+T4	cell_line 179 229	transfected human colonic carcinoma cell line HT29
+T5	DNA 261 282	long terminal repeats
+T6	DNA 285 288	LTR
+T7	DNA 325 334	HIV-1 LTR
+T8	protein 385 420	virus-encoded and cellular proteins
+T9	DNA 461 479	lacZ reporter gene
+T10	DNA 538 547	HIV-1 LTR
+T11	DNA 580 606	kappaB regulatory elements
+T12	DNA 622 631	U3 region
+T13	DNA 675 684	HIV-1 LTR
+T14	protein 742 797	nuclear factor kappaB ( NF-kappaB ) p50/p65 heterodimer
+T15	protein 870 879	NF-kappaB
+T16	protein 1005 1036	cellular inhibitor kappaB alpha
+T17	protein 1039 1048	NF-kappaB

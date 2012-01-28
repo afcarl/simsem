@@ -1,0 +1,12 @@
+T1	cell_type 107 123	immunizing cells
+T2	cell_type 225 229	APCs
+T3	protein 233 267	heat shock protein glycoprotein 96
+T4	cell_type 349 372	dying or infected cells
+T5	cell_line 422 446	TAP-deficient cell lines
+T6	protein 500 503	Ags
+T7	protein 510 559	human adenovirus type 5 early regions E1A and E1B
+T8	cell_type 640 665	E1A- or E1B-specific CTLs
+T9	cell_type 849 862	TAP1-/- cells
+T10	cell_type 888 926	cross-prime E1A- and E1B-specific CTLs
+T11	protein 1018 1051	peptide/glycoprotein 96 complexes
+T12	cell_type 1172 1188	immunizing cells

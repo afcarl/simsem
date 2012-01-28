@@ -1,0 +1,16 @@
+T1	protein 0 48	Peroxisome proliferator activator receptor-gamma
+T2	cell_type 153 168	B-lineage cells
+T3	protein 257 320	peroxisome proliferator activator receptor-gamma ( PPAR-gamma )
+T4	cell_type 324 339	B-lineage cells
+T5	cell_type 342 362	Normal mouse B cells
+T6	cell_type 380 396	B lymphoma cells
+T7	RNA 505 520	PPAR-gamma mRNA
+T8	protein 558 583	67-kDa PPAR-gamma protein
+T9	cell_type 730 758	normal and malignant B cells
+T10	cell_type 995 1010	B-lineage cells
+T11	cell_type 1085 1100	B-lineage cells
+T12	protein 1118 1128	PPAR-gamma
+T13	cell_type 1390 1401	lymphocytes
+T14	cell_type 1478 1489	B lymphomas
+T15	cell_type 1781 1794	B lymphocytes
+T16	cell_type 2056 2071	B-lineage cells

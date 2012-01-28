@@ -1,0 +1,26 @@
+T1	protein 36 68	GATA-2/estrogen receptor chimera
+T2	protein 139 151	GATA factors
+T3	protein 168 203	transcriptional regulatory proteins
+T4	protein 257 276	DNA-binding domains
+T5	protein 303 314	GATA factor
+T6	protein 342 355	GATA proteins
+T7	protein 390 406	DNA-binding site
+T8	protein 495 507	GATA factors
+T9	protein 551 557	GATA-1
+T10	protein 560 566	GATA-2
+T11	protein 573 579	GATA-3
+T12	protein 631 653	hormone-binding domain
+T13	protein 661 684	human estrogen receptor
+T14	protein 687 689	ER
+T15	protein 700 724	GATA/ER chimeric factors
+T16	protein 742 785	hormone-inducible trans-activating proteins
+T17	cell_type 849 870	primary erythroblasts
+T18	cell_line 874 927	conditionally transformed erythroid progenitors cells
+T19	protein 940 949	GATA-2/ER
+T20	protein 1140 1149	GATA-2/ER
+T21	protein 1193 1199	GATA-2
+T22	cell_line 1259 1280	erythroid progenitors
+T23	protein 1299 1305	Gal/ER
+T24	protein 1309 1318	GATA-3/ER
+T25	protein 1393 1420	GATA-2 transcription factor
+T26	cell_type 1487 1519	early erythroid progenitor cells

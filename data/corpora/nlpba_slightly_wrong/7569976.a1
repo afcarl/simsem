@@ -1,0 +1,12 @@
+T1	protein 53 63	NF-kappa B
+T2	protein 94 103	I kappa B
+T3	protein 265 274	cytokines
+T4	protein 290 312	cell surface molecules
+T5	protein 468 490	nuclear factor kappa B
+T6	protein 493 503	NF-kappa B
+T7	cell_line 529 543	cultured cells
+T8	protein 594 603	I kappa B
+T9	protein 653 663	NF-kappa B
+T10	protein 667 697	inactive cytoplasmic complexes
+T11	protein 708 718	NF-kappa B
+T12	DNA 734 756	immunoregulatory genes

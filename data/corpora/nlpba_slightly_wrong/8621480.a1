@@ -1,0 +1,14 @@
+T1	protein 24 58	Ca2+-modulating cyclophilin ligand
+T2	protein 113 147	Ca2+-modulating cyclophilin ligand
+T3	protein 150 154	CAML
+T4	protein 187 216	cyclophilin B-binding protein
+T5	cell_type 241 248	T cells
+T6	protein 306 327	transcription factors
+T7	DNA 426 435	CAML gene
+T8	cell_line 439 453	Jurkat T cells
+T9	protein 476 480	CAML
+T10	protein 484 518	putative membrane-spanning domains
+T11	protein 614 641	hydrophobic C-terminal tail
+T12	protein 645 649	CAML
+T13	protein 699 728	N-terminal hydrophilic domain
+T14	protein 776 795	novel protein motif

@@ -1,0 +1,24 @@
+T1	protein 24 54	interferon regulatory factor-1
+T2	cell_type 74 87	myeloid cells
+T3	cell_line 262 271	APL cells
+T4	cell_type 277 296	mature granulocytes
+T5	cell_line 443 456	NB4 cell line
+T6	cell_line 609 618	APL cells
+T7	protein 629 666	interferon ( IFN ) regulatory factors
+T8	protein 669 674	IRF-1
+T9	protein 679 684	IRF-2
+T10	protein 697 724	IFN-inducible gene products
+T11	DNA 852 862	IRF-1 gene
+T12	protein 902 907	IRF-2
+T13	protein 912 944	2'-5 ' oligoadenylate synthetase
+T14	DNA 1039 1049	IRF-1 gene
+T15	cell_line 1064 1069	HL-60
+T16	cell_line 1072 1076	U937
+T17	cell_line 1083 1094	THP-1 cells
+T18	DNA 1179 1189	IRF-1 gene
+T19	protein 1224 1233	IFN-gamma
+T20	cell_line 1237 1246	NB4 cells
+T21	DNA 1431 1441	IRF-1 gene
+T22	protein 1486 1491	IRF-1
+T23	protein 1687 1691	IFNs
+T24	cell_line 1695 1717	myeloid leukemia cells

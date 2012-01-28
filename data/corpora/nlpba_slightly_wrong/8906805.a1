@@ -1,0 +1,39 @@
+T1	protein 8 13	IL-12
+T2	cell_line 27 60	human allergen-specific Th2 cells
+T3	protein 63 68	IL-12
+T4	cell_type 93 104	CD4+ T cell
+T5	protein 152 161	IFN-gamma
+T6	cell_line 176 190	naive Th cells
+T7	protein 251 256	IL-12
+T8	protein 330 339	IFN-gamma
+T9	cell_line 354 370	memory Th2 cells
+T10	cell_line 387 423	allergen-specific CD4+ T cell clones
+T11	cell_line 426 429	TCC
+T12	protein 510 518	cytokine
+T13	cell_line 566 569	TCC
+T14	protein 605 613	cytokine
+T15	protein 646 655	IFN-gamma
+T16	protein 690 695	IL-12
+T17	cell_line 709 712	TCC
+T18	protein 722 731	IFN-gamma
+T19	protein 757 762	IL-12
+T20	protein 776 781	IL-12
+T21	protein 811 820	IFN-gamma
+T22	protein 838 843	IL-12
+T23	cell_line 869 879	Th2 clones
+T24	protein 921 926	IL-12
+T25	protein 955 960	STAT4
+T26	protein 963 1013	signal transducer and activator of transcription-4
+T27	protein 1020 1040	transcription factor
+T28	protein 1071 1076	IL-12
+T29	protein 1104 1109	IL-12
+T30	protein 1160 1186	STAT4-containing complexes
+T31	cell_line 1210 1220	Th2 clones
+T32	cell_line 1227 1230	TCC
+T33	protein 1261 1294	low-affinity IL-12R beta1 subunit
+T34	protein 1384 1392	cytokine
+T35	protein 1420 1425	IL-12
+T36	protein 1474 1483	IFN-gamma
+T37	cell_line 1517 1545	IL-12-nonresponsive Th cells
+T38	protein 1646 1651	IL-12
+T39	cell_line 1736 1744	Th cells

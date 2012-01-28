@@ -1,0 +1,20 @@
+T1	protein 39 58	zinc finger domains
+T2	protein 66 85	v-erb A oncoprotein
+T3	DNA 92 108	v-erb A oncogene
+T4	DNA 187 201	host cell gene
+T5	protein 213 237	thyroid hormone receptor
+T6	DNA 269 285	v-erb A oncogene
+T7	protein 353 377	thyroid hormone receptor
+T8	protein 402 424	retinoic acid receptor
+T9	protein 431 446	v-erb A protein
+T10	protein 499 517	DNA-binding domain
+T11	protein 538 545	c-erb A
+T12	protein 607 614	v-erb A
+T13	cell_type 631 646	neoplastic cell
+T14	protein 843 850	c-erb A
+T15	protein 927 942	v-erb A protein
+T16	protein 983 994	position 61
+T17	protein 1026 1031	D-box
+T18	protein 1039 1054	v-erb A protein
+T19	protein 1169 1180	position 61
+T20	protein 1305 1312	v-erb A

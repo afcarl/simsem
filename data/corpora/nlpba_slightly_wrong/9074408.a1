@@ -1,0 +1,26 @@
+T1	protein 16 27	E2F complex
+T2	cell_type 31 63	human primary haemopoietic cells
+T3	cell_type 71 81	AML blasts
+T4	protein 91 96	E2F-4
+T5	protein 99 103	DP-1
+T6	protein 108 112	p130
+T7	protein 119 129	E2F family
+T8	protein 133 154	transcription factors
+T9	DNA 310 319	oncogenes
+T10	DNA 323 346	tumour suppressor genes
+T11	cell_type 391 423	human primary haemopoietic cells
+T12	cell_type 428 466	acute myeloid leukaemia ( AML ) blasts
+T13	protein 621 624	E2F
+T14	cell_type 702 734	human primary haemopoietic cells
+T15	protein 886 909	E2F-DNA binding complex
+T16	cell_type 926 933	T cells
+T17	cell_type 936 943	B cells
+T18	cell_type 948 957	monocytes
+T19	protein 985 990	E2F-4
+T20	protein 993 997	DP-1
+T21	protein 1002 1006	p130
+T22	cell_type 1029 1057	quiescent haemopoietic cells
+T23	protein 1145 1148	E2F
+T24	protein 1203 1221	E2F-4/p130 complex
+T25	protein 1268 1271	FAB
+T26	protein 1311 1314	E2F

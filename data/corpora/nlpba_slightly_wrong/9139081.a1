@@ -1,0 +1,17 @@
+T1	DNA 13 27	adenovirus DNA
+T2	cell_type 31 65	peripheral blood mononuclear cells
+T3	cell_type 218 229	Lymphocytes
+T4	DNA 368 382	adenovirus DNA
+T5	cell_type 417 451	peripheral blood mononuclear cells
+T6	cell_type 454 458	PBMC
+T7	DNA 583 597	adenovirus DNA
+T8	DNA 612 626	nested primers
+T9	DNA 671 701	adenovirus E1A and hexon genes
+T10	DNA 708 729	E1A and hexon primers
+T11	DNA 867 891	adenovirus type 2 genome
+T12	cell_type 953 957	PBMC
+T13	DNA 1061 1075	adenovirus DNA
+T14	cell_type 1114 1118	PBMC
+T15	DNA 1201 1215	adenovirus DNA
+T16	cell_type 1275 1279	PBMC
+T17	cell_type 1370 1374	PBMC

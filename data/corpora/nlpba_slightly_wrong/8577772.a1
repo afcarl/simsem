@@ -1,0 +1,38 @@
+T1	cell_line 8 30	anergized CD4+ T cells
+T2	protein 58 68	NF-kappa B
+T3	protein 69 90	transcription factors
+T4	cell_type 161 174	T lymphocytes
+T5	protein 283 313	T-cell-activating superantigen
+T6	protein 314 342	staphylococcal enterotoxin A
+T7	protein 345 348	SEA
+T8	protein 433 436	SEA
+T9	cell_type 461 473	CD4+ T cells
+T10	protein 493 552	T-cell receptor ( TCR ) variable region beta-chain families
+T11	protein 612 616	IL-2
+T12	protein 658 661	SEA
+T13	cell_type 668 679	CD4+ T-cell
+T14	cell_type 722 729	T cells
+T15	protein 771 775	IL-2
+T16	protein 831 835	AP-1
+T17	protein 838 848	NF-kappa B
+T18	protein 851 856	NF-AT
+T19	protein 863 900	octamer binding transcription factors
+T20	protein 955 959	IL-2
+T21	protein 1002 1006	AP-1
+T22	protein 1011 1021	NF-kappa B
+T23	protein 1052 1057	NF-AT
+T24	cell_line 1074 1107	SEA-activated CD4+ spleen T cells
+T25	cell_type 1187 1204	activated T cells
+T26	cell_type 1221 1241	anergic CD4+ T cells
+T27	protein 1279 1283	AP-1
+T28	protein 1288 1322	Fos/Jun-containing NF-AT complexes
+T29	protein 1360 1370	NF-kappa B
+T30	protein 1375 1395	Oct binding proteins
+T31	protein 1402 1405	SEA
+T32	protein 1438 1456	NF-kappa B complex
+T33	protein 1496 1516	p50-p65 heterodimers
+T34	cell_type 1520 1542	activated CD4+ T cells
+T35	protein 1613 1626	p50 homodimer
+T36	protein 1650 1671	transcription factors
+T37	protein 1719 1723	IL-2
+T38	cell_type 1727 1742	anergic T cells

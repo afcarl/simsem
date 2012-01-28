@@ -1,0 +1,26 @@
+T1	protein 49 63	STAT5 proteins
+T2	protein 67 71	IL-5
+T3	protein 76 82	GM-CSF
+T4	cell_line 137 173	human CD34+ hematopoietic stem cells
+T5	protein 176 189	Interleukin-5
+T6	protein 192 196	IL-5
+T7	protein 203 251	granulocyte macrophage-colony stimulating factor
+T8	protein 254 260	GM-CSF
+T9	protein 277 286	cytokines
+T10	cell_type 347 363	myeloid lineages
+T11	protein 370 373	JAK
+T12	protein 374 379	/STAT
+T13	protein 483 492	cytokines
+T14	protein 541 550	cytokines
+T15	protein 577 597	80 kDa STAT5 isoform
+T16	cell_line 754 790	human CD34+ hematopoietic stem cells
+T17	cell_type 806 817	eosinophils
+T18	protein 946 960	STAT5B protein
+T19	protein 983 987	IL-5
+T20	cell_type 990 1008	eosinophil lineage
+T21	protein 1015 1021	GM-CSF
+T22	cell_type 1024 1042	neutrophil lineage
+T23	protein 1161 1181	80 kDa STAT5 isoform
+T24	protein 1210 1243	heterodimer DNA-binding complexes
+T25	protein 1278 1292	STAT5 proteins
+T26	protein 1346 1351	STAT5

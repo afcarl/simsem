@@ -1,0 +1,36 @@
+T1	protein 0 4	IL-2
+T2	protein 9 13	IL-7
+T3	protein 43 57	STAT5 isoforms
+T4	cell_type 61 98	human peripheral blood T lymphoblasts
+T5	protein 152 173	interleukin ( IL ) -2
+T6	protein 178 182	IL-7
+T7	protein 190 199	cytokines
+T8	protein 243 311	signal transducers and activators of transcription ( STAT ) proteins
+T9	protein 366 371	STAT5
+T10	protein 374 380	STAT5A
+T11	protein 385 391	STAT5B
+T12	cell_type 434 471	human peripheral blood T lymphoblasts
+T13	protein 479 488	cytokines
+T14	protein 509 515	STAT5A
+T15	protein 520 526	STAT5B
+T16	DNA 574 610	interferon-gamma activation sequence
+T17	DNA 613 616	GAS
+T18	cell_line 699 726	IL-2- or IL-7-treated cells
+T19	cell_line 780 792	IL-7-treated
+T20	cell_line 808 826	IL-2-treated cells
+T21	protein 829 833	IL-2
+T22	protein 838 842	IL-7
+T23	protein 914 920	STAT5A
+T24	protein 925 931	STAT5B
+T25	protein 967 972	STATs
+T26	DNA 979 1002	immobilized GAS element
+T27	protein 1010 1014	IL-2
+T28	protein 1019 1023	IL-7
+T29	protein 1055 1061	STAT5A
+T30	protein 1062 1069	/STAT5B
+T31	protein 1142 1147	STAT3
+T32	protein 1158 1170	STAT5 isomer
+T33	protein 1197 1201	IL-2
+T34	protein 1206 1210	IL-7
+T35	protein 1230 1247	STAT heterodimers
+T36	DNA 1353 1358	genes

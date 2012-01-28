@@ -1,0 +1,30 @@
+T1	protein 15 21	HLA-DR
+T2	cell_type 36 58	mononuclear phagocytes
+T3	protein 145 175	immature class II heterodimers
+T4	protein 178 190	MHC class II
+T5	cell_type 218 229	macrophages
+T6	protein 273 282	IFN-gamma
+T7	protein 319 337	class II molecules
+T8	cell_line 341 352	THP-1 cells
+T9	protein 469 480	HLA-DRalpha
+T10	protein 483 493	HLA-DRbeta
+T11	protein 500 523	invariant ( Ii ) chains
+T12	cell_type 543 569	control and infected cells
+T13	protein 682 700	class II molecules
+T14	protein 739 756	endoglycosidase H
+T15	protein 944 962	class II molecules
+T16	protein 1048 1066	class II molecules
+T17	cell_type 1070 1084	infected cells
+T18	protein 1124 1163	lysosomal-associated membrane protein-1
+T19	cell_type 1219 1232	control cells
+T20	protein 1235 1253	class II molecules
+T21	cell_type 1257 1271	infected cells
+T22	protein 1298 1313	endocytosed BSA
+T23	protein 1404 1416	MHC class II
+T24	protein 1515 1551	SDS-stable class II alphabeta dimers
+T25	protein 1581 1589	Ii chain
+T26	protein 1613 1628	class II dimers
+T27	protein 1636 1648	MHC class II
+T28	cell_type 1705 1720	-infected cells
+T29	protein 1790 1808	class II molecules
+T30	protein 1905 1927	MHC class II molecules

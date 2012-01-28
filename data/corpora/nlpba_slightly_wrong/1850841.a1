@@ -1,0 +1,30 @@
+T1	protein 13 49	Epstein-Barr virus nuclear antigen 2
+T2	DNA 53 67	viral promoter
+T3	cell_type 169 188	human B lymphocytes
+T4	protein 191 216	six viral nuclear antigen
+T5	protein 219 224	EBNAs
+T6	RNA 246 270	long primary transcripts
+T7	RNA 283 303	alternative splicing
+T8	RNA 308 343	alternative polyadenylylation sites
+T9	DNA 389 398	promoters
+T10	DNA 401 403	Cp
+T11	cell_type 529 550	primary B lymphocytes
+T12	DNA 577 579	Cp
+T13	protein 686 692	EBNA 2
+T14	DNA 720 722	Cp
+T15	cell_type 732 753	primary B lymphocytes
+T16	DNA 797 799	Cp
+T17	DNA 823 846	-429 to -245 base pairs
+T18	DNA 859 861	Cp
+T19	DNA 879 881	Cp
+T20	cell_type 894 907	B lymphocytes
+T21	DNA 937 970	upstream and downstream sequences
+T22	DNA 1005 1030	EBNA 2-dependent enhancer
+T23	protein 1044 1051	DNase I
+T24	cell_type 1095 1114	B and T lymphocytes
+T25	DNA 1126 1151	B-cell-specific footprint
+T26	DNA 1173 1198	EBNA 2-dependent enhancer
+T27	DNA 1235 1249	viral promoter
+T28	protein 1347 1353	EBNA 2
+T29	DNA 1382 1384	Cp
+T30	DNA 1397 1422	EBNA 2-dependent enhancer

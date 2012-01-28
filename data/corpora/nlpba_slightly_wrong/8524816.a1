@@ -1,0 +1,42 @@
+T1	protein 14 19	NF-AT
+T2	protein 48 58	NF-kappa B
+T3	cell_type 110 131	T helper cell subsets
+T4	cell_line 159 171	CD4+ T cells
+T5	protein 196 206	lymphokine
+T6	protein 220 233	interleukin 2
+T7	protein 236 240	IL-2
+T8	cell_line 273 302	T helper type 1 ( TH1 ) cells
+T9	protein 368 372	IL-4
+T10	cell_line 391 400	TH2 cells
+T11	protein 450 477	Ca ( 2+ ) -dependent factor
+T12	protein 478 484	NF-ATp
+T13	DNA 547 563	lymphokine genes
+T14	protein 582 585	IL2
+T15	protein 642 658	protein kinase C
+T16	protein 709 718	human IL4
+T17	protein 791 807	protein kinase C
+T18	cell_line 823 837	Jurkat T cells
+T19	protein 896 902	NF-ATp
+T20	protein 907 917	NF-kappa B
+T21	DNA 925 935	P sequence
+T22	DNA 957 971	69 bp upstream
+T23	DNA 979 1012	IL4 transcription initiation site
+T24	DNA 1015 1033	Human IL4 promoter
+T25	cell_line 1078 1090	Jurkat cells
+T26	protein 1111 1141	NF-kappa B-activating cytokine
+T27	protein 1142 1169	tumor necrosis factor alpha
+T28	cell_line 1188 1213	RelA-overexpressing cells
+T29	protein 1230 1246	protein kinase C
+T30	protein 1262 1266	RelA
+T31	DNA 1316 1334	human IL4 promoter
+T32	DNA 1348 1364	mouse P sequence
+T33	DNA 1378 1398	higher-affinity site
+T34	protein 1403 1409	NF-ATp
+T35	DNA 1416 1435	lower-affinity site
+T36	protein 1440 1444	RelA
+T37	protein 1486 1512	transcriptional activators
+T38	protein 1515 1519	RelA
+T39	protein 1524 1530	NF-ATp
+T40	protein 1567 1583	protein kinase C
+T41	protein 1599 1602	IL4
+T42	cell_line 1668 1676	TH cells

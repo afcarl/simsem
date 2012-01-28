@@ -1,0 +1,17 @@
+T1	protein 101 106	IL-10
+T2	protein 133 136	JNK
+T3	cell_type 180 204	antigen-specific T cells
+T4	protein 336 344	cytokine
+T5	cell_line 462 547	tetanus toxoid ( TT ) - and myelin basic protein ( MBP ) -specific human T cell lines
+T6	cell_line 554 577	TT-selected T cell line
+T7	cell_line 692 708	TT-selected line
+T8	protein 792 801	IFN-gamma
+T9	protein 830 834	IL-4
+T10	protein 839 844	IL-10
+T11	protein 937 940	JNK
+T12	cell_line 975 992	anergized T cells
+T13	protein 999 1002	MBP
+T14	protein 1171 1176	IL-10
+T15	cell_line 1192 1204	T cell lines
+T16	cell_type 1317 1341	antigen-presenting cells
+T17	protein 1370 1402	mitogen-activated protein kinase

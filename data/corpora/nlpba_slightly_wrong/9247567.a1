@@ -1,0 +1,30 @@
+T1	protein 59 69	NF-kappa B
+T2	protein 120 131	NF-kappa B1
+T3	cell_type 135 142	T cells
+T4	protein 149 169	transcription factor
+T5	protein 170 180	NF-kappa B
+T6	DNA 216 234	cytokine promoters
+T7	cell_type 260 273	T lymphocytes
+T8	DNA 420 460	NF-kappa B-controlled cytokine promoters
+T9	cell_line 475 504	human Jurkat T leukemia cells
+T10	cell_type 518 555	human and mouse primary T lymphocytes
+T11	protein 645 657	Rel proteins
+T12	protein 658 663	c-Rel
+T13	protein 666 674	RelA/p65
+T14	protein 679 694	NF-kappa B1/p50
+T15	protein 731 735	RelB
+T16	protein 802 814	Rel proteins
+T17	protein 859 890	cytosolic NF-kappa B inhibitors
+T18	protein 891 906	I kappa B alpha
+T19	protein 911 925	I kappa B beta
+T20	protein 994 1015	NF-kappa B1 precursor
+T21	protein 1016 1020	p105
+T22	protein 1024 1027	p50
+T23	protein 1084 1088	p105
+T24	protein 1091 1106	I kappa B gamma
+T25	protein 1134 1138	p105
+T26	protein 1153 1163	mature p50
+T27	protein 1268 1283	I kappa B alpha
+T28	protein 1288 1302	I kappa B beta
+T29	protein 1343 1359	NF-kappa B1/p105
+T30	protein 1363 1366	p50

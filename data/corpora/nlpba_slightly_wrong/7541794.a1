@@ -1,0 +1,40 @@
+T1	protein 47 55	cytokine
+T2	cell_type 77 92	monocytic cells
+T3	protein 129 148	Syk tyrosine kinase
+T4	protein 165 193	cytoplasmic tyrosine kinases
+T5	protein 252 261	integrins
+T6	cell_line 271 302	human monocytic cell line THP-1
+T7	protein 312 320	integrin
+T8	protein 349 360	fibronectin
+T9	protein 398 408	antibodies
+T10	protein 494 515	65-75 and 120-125 kDa
+T11	protein 532 540	integrin
+T12	protein 588 591	p50
+T13	protein 596 608	p65 subunits
+T14	protein 616 647	NF-kappa B transcription factor
+T15	DNA 669 682	reporter gene
+T16	DNA 695 703	promoter
+T17	DNA 715 731	NF-kappa B sites
+T18	RNA 761 766	mRNAs
+T19	DNA 771 792	immediate-early genes
+T20	protein 809 844	cytokine interleukin ( IL ) -1 beta
+T21	protein 916 924	integrin
+T22	protein 977 986	IL-1 beta
+T23	protein 1137 1145	paxillin
+T24	protein 1148 1156	pp125FAK
+T25	protein 1167 1208	SH2 domain containing tyrosine kinase Syk
+T26	protein 1225 1233	integrin
+T27	protein 1248 1258	antibodies
+T28	protein 1295 1298	Syk
+T29	protein 1310 1313	FAK
+T30	protein 1317 1325	paxillin
+T31	cell_type 1331 1345	adhering cells
+T32	protein 1421 1424	FAK
+T33	protein 1429 1437	paxillin
+T34	protein 1449 1452	Syk
+T35	protein 1461 1470	IL-1 beta
+T36	protein 1542 1545	Syk
+T37	protein 1598 1606	integrin
+T38	cell_type 1628 1643	monocytic cells
+T39	protein 1671 1681	NF-kappa B
+T40	protein 1709 1717	cytokine

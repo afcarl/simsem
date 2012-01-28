@@ -1,0 +1,35 @@
+T1	protein 17 39	nuclear factor-kappa B
+T2	DNA 52 60	germline
+T3	cell_line 90 124	human Burkitt lymphoma B cell line
+T4	protein 127 149	Nuclear factor-kappa B
+T5	protein 152 162	NF-kappa B
+T6	protein 235 245	NF-kappa B
+T7	DNA 277 285	germline
+T8	protein 367 380	interleukin-4
+T9	protein 383 387	IL-4
+T10	protein 393 422	anti-CD40 monoclonal antibody
+T11	protein 425 428	mAb
+T12	protein 447 457	NF-kappa B
+T13	DNA 485 493	germline
+T14	cell_line 523 557	human Burkitt lymphoma B cell line
+T15	cell_line 560 565	DND39
+T16	protein 573 577	IL-4
+T17	protein 588 596	CD40 mAb
+T18	protein 619 648	phosphatidylinositol 3-kinase
+T19	protein 651 661	PI3-kinase
+T20	protein 701 717	protein kinase C
+T21	protein 746 756	NF-kappa B
+T22	protein 843 853	PI3-kinase
+T23	protein 933 943	NF-kappa B
+T24	protein 965 969	IL-4
+T25	protein 972 985	anti-CD40 mAb
+T26	DNA 1049 1057	germline
+T27	protein 1141 1145	IL-4
+T28	protein 1150 1163	anti-CD40 mAb
+T29	protein 1194 1198	IL-4
+T30	protein 1235 1239	IL-4
+T31	protein 1256 1260	CD40
+T32	protein 1268 1278	NF-kappa B
+T33	protein 1332 1342	PI3-kinase
+T34	protein 1368 1378	NF-kappa B
+T35	DNA 1426 1434	germline

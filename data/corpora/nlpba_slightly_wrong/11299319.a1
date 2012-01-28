@@ -1,0 +1,18 @@
+T1	protein 32 67	myelin oligodendrocyte glycoprotein
+T2	protein 223 243	transcription factor
+T3	protein 244 266	nuclear factor-kappa B
+T4	protein 269 278	NF-kappaB
+T5	protein 574 609	myelin oligodendrocyte glycoprotein
+T6	protein 612 625	MOG ( 35-55 )
+T7	cell_type 922 931	leukocyte
+T8	protein 1037 1040	CD4
+T9	protein 1045 1049	CD25
+T10	cell_type 1065 1072	T-cells
+T11	protein 1125 1141	interferon gamma
+T12	protein 1144 1152	IFNgamma
+T13	protein 1170 1183	MOG ( 35-55 )
+T14	protein 1342 1348	RANTES
+T15	protein 1351 1414	regulated on activation of normal T-cell expressed and secreted
+T16	protein 1480 1501	nitric oxide synthase
+T17	protein 1528 1548	transcription factor
+T18	protein 1549 1558	NF-kappaB

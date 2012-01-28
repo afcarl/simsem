@@ -1,0 +1,14 @@
+T1	protein 25 36	Ca2+-ATPase
+T2	cell_type 100 109	platelets
+T3	protein 287 349	sarco ( endo ) plasmic reticulum ( SER ) Ca2+-ATPase ( SERCA )
+T4	cell_type 353 362	platelets
+T5	protein 430 448	serum lipoproteins
+T6	protein 643 648	SERCA
+T7	protein 805 810	SERCA
+T8	protein 832 861	Ras-related protein ( Rap ) 1
+T9	protein 1060 1065	SERCA
+T10	protein 1102 1106	Rapl
+T11	protein 1304 1322	serum lipoproteins
+T12	protein 1368 1373	SERCA
+T13	cell_type 1414 1423	platelets
+T14	protein 1565 1583	serum lipoproteins

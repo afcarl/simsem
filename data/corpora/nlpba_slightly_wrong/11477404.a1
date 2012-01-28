@@ -1,0 +1,18 @@
+T1	cell_type 42 71	CD4 ( + ) CD8 ( + ) thymocyte
+T2	protein 102 129	trans-acting T cell factors
+T3	protein 132 136	TCFs
+T4	protein 142 168	lymphoid enhancer factor 1
+T5	protein 171 176	LEF-1
+T6	protein 358 388	beta-catenin -- binding domain
+T7	protein 392 397	TCF-1
+T8	cell_type 461 514	CD4 ( + ) CD8 ( + ) double-positive ( DP ) thymocytes
+T9	protein 575 580	TCF-1
+T10	protein 630 652	anti-apoptotic protein
+T11	protein 653 664	Bcl-x ( L )
+T12	cell_type 706 716	thymocytes
+T13	DNA 733 748	Bcl-2 transgene
+T14	cell_type 757 786	TCF-1-deficient DP thymocytes
+T15	protein 811 816	TCF-1
+T16	cell_type 892 908	immature T cells
+T17	protein 951 987	T cell receptor ( TCR ) alpha chains
+T18	protein 1000 1003	TCR

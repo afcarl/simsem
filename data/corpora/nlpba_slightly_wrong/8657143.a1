@@ -1,0 +1,46 @@
+T1	DNA 4 40	myeloid-cell-specific c-fes promoter
+T2	protein 57 60	Sp1
+T3	protein 63 67	PU.1
+T4	protein 82 102	transcription factor
+T5	DNA 132 166	c-fps/fes ( c-fes ) proto-oncogene
+T6	cell_type 216 229	myeloid cells
+T7	cell_type 232 243	macrophages
+T8	cell_type 248 259	neutrophils
+T9	cell_type 312 325	myeloid cells
+T10	cell_type 330 356	vascular endothelial cells
+T11	DNA 387 432	13-kilobase-pair ( kb ) human c-fes transgene
+T12	DNA 544 560	human c-fes gene
+T13	DNA 638 646	plasmids
+T14	DNA 668 695	c-fes 5'-flanking sequences
+T15	cell_type 760 773	myeloid cells
+T16	DNA 808 831	13-kb human c-fes locus
+T17	DNA 842 870	positive cis-acting elements
+T18	DNA 929 950	3'-flanking sequences
+T19	protein 1020 1044	myeloid nuclear proteins
+T20	DNA 1047 1059	-408 to -386
+T21	DNA 1062 1074	-293 to -254
+T22	DNA 1077 1087	-76 to -65
+T23	DNA 1094 1103	-34 to +3
+T24	DNA 1239 1245	151 bp
+T25	DNA 1249 1270	5'-flanking sequences
+T26	DNA 1380 1393	151-bp region
+T27	DNA 1403 1432	nuclear protein binding sites
+T28	protein 1437 1440	Sp1
+T29	protein 1443 1447	PU.1
+T30	protein 1457 1462	Elf-1
+T31	protein 1471 1483	novel factor
+T32	DNA 1540 1556	PU.1/Elf-1 sites
+T33	protein 1615 1619	PU.1
+T34	protein 1620 1626	/Elf-1
+T35	DNA 1639 1647	3 ' site
+T36	DNA 1650 1657	FP4-3 '
+T37	DNA 1686 1700	c-fes promoter
+T38	protein 1836 1840	PU.1
+T39	protein 1851 1856	Elf-1
+T40	DNA 1881 1895	c-fes promoter
+T41	cell_line 1899 1920	nonmyeloid cell lines
+T42	DNA 1944 1960	human c-fes gene
+T43	DNA 1979 2009	myeloid-cell-specific promoter
+T44	protein 2031 2034	Sp1
+T45	protein 2037 2041	PU.1
+T46	protein 2056 2076	transcription factor

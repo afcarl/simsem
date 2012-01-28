@@ -1,0 +1,20 @@
+T1	cell_type 148 206	mature peripheral blood-derived myeloid and lymphoid cells
+T2	cell_type 211 247	bone marrow haemopoietic progenitors
+T3	cell_type 337 356	ringed sideroblasts
+T4	DNA 507 519	X-chromosome
+T5	cell_type 632 717	highly purified immature CD34+ 38- and committed CD34+ 38+ marrow-derived progenitors
+T6	cell_type 724 746	CD16+ 14- granulocytes
+T7	cell_type 749 764	CD14+ monocytes
+T8	cell_type 767 797	CD3+ T and CD19+ B lymphocytes
+T9	cell_type 1036 1048	granulocytes
+T10	cell_type 1053 1062	monocytes
+T11	cell_type 1102 1124	CD34+ progenitor cells
+T12	cell_type 1141 1159	CD3+ T lymphocytes
+T13	DNA 1211 1223	X-chromosome
+T14	cell_type 1249 1262	CD19+ B cells
+T15	cell_type 1291 1303	CD3+ T cells
+T16	cell_type 1355 1396	monoclonal B and polyclonal T lymphocytes
+T17	cell_type 1443 1453	progenitor
+T18	cell_type 1468 1499	myeloid and B-lymphoid lineages
+T19	cell_type 1675 1695	mature myeloid cells
+T20	cell_type 1713 1741	committed marrow progenitors

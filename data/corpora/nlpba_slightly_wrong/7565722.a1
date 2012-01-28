@@ -1,0 +1,34 @@
+T1	DNA 21 46	single c-Myb binding site
+T2	DNA 52 79	thymic locus control region
+T3	DNA 82 103	Locus control regions
+T4	DNA 106 110	LCRs
+T5	DNA 140 152	cis elements
+T6	protein 182 221	cell-type-specific trans-acting factors
+T7	protein 226 236	2.3-kb LCR
+T8	DNA 244 295	human adenosine deaminase ( ADA ) gene first intron
+T9	cell_type 327 337	thymocytes
+T10	DNA 357 379	200-bp enhancer domain
+T11	DNA 451 460	chromatin
+T12	DNA 505 513	enhancer
+T13	DNA 525 542	28-bp core region
+T14	DNA 575 587	cis elements
+T15	DNA 643 661	c-Myb binding site
+T16	cell_line 672 709	transiently cotransfected human cells
+T17	cell_line 721 753	chromatin-integrated yeast cells
+T18	protein 756 761	c-Myb
+T19	DNA 771 805	transactivated reporter constructs
+T20	DNA 821 847	polymerized core sequences
+T21	protein 850 863	c-Myb protein
+T22	cell_type 888 902	T lymphoblasts
+T23	DNA 916 924	enhancer
+T24	DNA 1058 1063	c-myb
+T25	DNA 1088 1097	mouse ADA
+T26	DNA 1102 1115	human ADA LCR
+T27	DNA 1171 1181	c-Myb site
+T28	protein 1200 1210	2.3-kb LCR
+T29	DNA 1270 1273	LCR
+T30	cell_line 1286 1307	transgenic thymocytes
+T31	DNA 1334 1350	complex enhancer
+T32	DNA 1355 1358	LCR
+T33	protein 1361 1366	c-Myb
+T34	DNA 1394 1417	thymocyte-specific gene

@@ -1,0 +1,13 @@
+T1	protein 14 36	nuclear factor kappa B
+T2	cell_type 40 66	human lymphoblastoid cells
+T3	protein 100 122	Nuclear factor kappa B
+T4	protein 125 135	NF-kappa B
+T5	protein 143 175	pleiotropic transcription factor
+T6	protein 362 372	NF-kappa B
+T7	cell_line 376 409	human KG-1 myeloid leukemia cells
+T8	cell_type 414 448	human B-lymphocyte precursor cells
+T9	protein 653 663	NF-kappa B
+T10	cell_line 667 714	EBV-transformed 244B human lymphoblastoid cells
+T11	protein 898 908	NF-kappa B
+T12	protein 1107 1117	NF-kappa B
+T13	protein 1180 1211	p50 and p65 NF-kappa B subunits

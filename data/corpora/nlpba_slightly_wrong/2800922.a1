@@ -1,0 +1,18 @@
+T1	protein 57 80	glucocorticoid receptor
+T2	cell_type 92 119	peripheral blood leukocytes
+T3	cell_type 351 395	peripheral blood polymorphonuclear leukocyte
+T4	cell_type 416 443	peripheral blood lymphocyte
+T5	cell_type 613 641	polymorphonuclear leukocytes
+T6	cell_type 670 681	lymphocytes
+T7	protein 749 772	glucocorticoid receptor
+T8	protein 815 838	glucocorticoid receptor
+T9	cell_type 850 878	polymorphonuclear leukocytes
+T10	cell_type 930 941	lymphocytes
+T11	cell_type 1053 1081	polymorphonuclear leukocytes
+T12	protein 1086 1109	glucocorticoid receptor
+T13	cell_type 1121 1149	polymorphonuclear leukocytes
+T14	cell_type 1224 1235	lymphocytes
+T15	protein 1240 1263	glucocorticoid receptor
+T16	cell_type 1275 1286	lymphocytes
+T17	protein 1434 1457	glucocorticoid receptor
+T18	cell_type 1469 1496	peripheral blood leukocytes

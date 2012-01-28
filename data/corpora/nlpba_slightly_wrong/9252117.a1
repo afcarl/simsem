@@ -1,0 +1,23 @@
+T1	protein 0 3	EBF
+T2	protein 8 11	E47
+T3	DNA 52 105	endogenous immunoglobulin surrogate light chain genes
+T4	protein 108 127	Early B cell factor
+T5	protein 130 133	EBF
+T6	protein 140 143	E47
+T7	DNA 315 332	transfected cDNAs
+T8	protein 342 345	EBF
+T9	protein 373 376	E47
+T10	cell_line 411 445	immature hematopoietic Ba/F3 cells
+T11	protein 491 494	EBF
+T12	protein 499 502	E47
+T13	DNA 538 591	endogenous immunoglobulin surrogate light chain genes
+T14	DNA 594 601	lambda5
+T15	DNA 606 611	VpreB
+T16	DNA 628 653	pre-B cell-specific genes
+T17	DNA 702 727	EBF and E47 binding sites
+T18	DNA 751 783	lambda5 promoter/enhancer region
+T19	DNA 802 809	lambda5
+T20	protein 847 868	transcription factors
+T21	protein 912 915	EBF
+T22	protein 920 923	E47
+T23	cell_type 1012 1026	B cell lineage

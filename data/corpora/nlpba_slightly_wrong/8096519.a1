@@ -1,0 +1,25 @@
+T1	protein 4 28	Sp1 transcription factor
+T2	DNA 39 53	CD11b promoter
+T3	DNA 113 138	myeloid-specific promoter
+T4	protein 154 176	myeloid integrin CD11b
+T5	cell_type 220 238	mature macrophages
+T6	cell_type 241 250	monocytes
+T7	cell_type 253 264	neutrophils
+T8	cell_type 271 291	natural killer cells
+T9	DNA 397 411	CD11b promoter
+T10	DNA 447 462	5'-flanking DNA
+T11	DNA 521 534	reporter gene
+T12	DNA 653 673	92-bp CD11b promoter
+T13	DNA 733 747	CD11b promoter
+T14	protein 796 816	transcription factor
+T15	protein 817 820	Sp1
+T16	DNA 856 864	Sp1 site
+T17	cell_line 882 904	myeloid ( U937 ) cells
+T18	cell_line 914 947	cervical carcinoma ( HeLa ) cells
+T19	protein 979 999	transcription factor
+T20	DNA 1015 1029	CD11b promoter
+T21	DNA 1064 1072	Sp1 site
+T22	protein 1116 1139	myeloid-specific factor
+T23	protein 1142 1146	PU.1
+T24	protein 1175 1178	Sp1
+T25	cell_line 1277 1282	CD11b

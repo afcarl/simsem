@@ -1,0 +1,25 @@
+T1	cell_type 42 48	T-cell
+T2	protein 99 128	protein tyrosine phosphatases
+T3	cell_type 251 264	T-lymphocytes
+T4	protein 290 319	protein tyrosine phosphatases
+T5	protein 322 329	PTPases
+T6	protein 399 405	PTPase
+T7	cell_line 483 513	Jurkat human leukaemic T-cells
+T8	protein 554 570	tyrosine kinases
+T9	protein 571 574	lck
+T10	protein 579 582	fyn
+T11	protein 669 686	cellular proteins
+T12	protein 697 720	phospholipase C gamma 1
+T13	protein 875 886	CD45 PTPase
+T14	cell_line 911 934	CD45-deficient variants
+T15	cell_line 938 950	Jurkat cells
+T16	cell_line 960 981	CD45-negative variant
+T17	DNA 1173 1183	c-fos gene
+T18	RNA 1208 1212	mRNA
+T19	cell_type 1251 1263	T-lymphocyte
+T20	cell_type 1425 1431	T-cell
+T21	protein 1432 1448	antigen receptor
+T22	protein 1519 1551	Pervanadate activated NF-kappa B
+T23	protein 1610 1630	transcription factor
+T24	protein 1655 1662	PTPases
+T25	cell_type 1748 1760	T-lymphocyte

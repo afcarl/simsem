@@ -1,0 +1,26 @@
+T1	cell_type 81 109	peritoneal mesothelial cells
+T2	cell_type 342 364	Peritoneal macrophages
+T3	protein 427 461	monocyte chemoattractant protein-1
+T4	protein 464 469	MCP-1
+T5	cell_type 511 520	monocytes
+T6	protein 614 619	MCP-1
+T7	cell_type 670 704	human peritoneal mesothelial cells
+T8	cell_type 717 734	Mesothelial cells
+T9	protein 829 834	MCP-1
+T10	protein 1088 1109	transcription factors
+T11	protein 1110 1129	activator protein-1
+T12	protein 1132 1136	AP-1
+T13	protein 1143 1164	nuclear factor-kappaB
+T14	protein 1167 1176	NF-kappaB
+T15	RNA 1269 1279	MCP-1 mRNA
+T16	protein 1330 1343	MCP-1 protein
+T17	cell_type 1542 1551	monocytes
+T18	protein 1579 1598	anti-MCP-1 antibody
+T19	protein 1642 1646	AP-1
+T20	protein 1711 1720	NF-kappaB
+T21	protein 1750 1754	AP-1
+T22	RNA 1802 1812	MCP-1 mRNA
+T23	RNA 1978 1988	MCP-1 mRNA
+T24	protein 2074 2078	AP-1
+T25	protein 2147 2152	MCP-1
+T26	protein 2196 2200	AP-1

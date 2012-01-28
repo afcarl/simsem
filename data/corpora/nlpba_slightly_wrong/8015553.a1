@@ -1,0 +1,41 @@
+T1	DNA 0 33	Nonpituitary human prolactin gene
+T2	protein 66 71	Pit-1
+T3	cell_type 105 116	lymphocytes
+T4	DNA 163 186	human PRL ( hPRL ) gene
+T5	cell_type 298 319	hematopoietic lineage
+T6	DNA 338 358	alternative promoter
+T7	DNA 390 417	6 kilobases ( kb ) upstream
+T8	DNA 425 454	pituitary-specific start site
+T9	DNA 548 556	PRL gene
+T10	DNA 599 619	3 kb 5'-flanking DNA
+T11	DNA 636 671	decidual/lymphoid ( dPRL ) promoter
+T12	DNA 719 733	binding motifs
+T13	protein 738 743	Pit-1
+T14	DNA 754 764	half-sites
+T15	protein 769 792	glucocorticoid receptor
+T16	protein 817 819	PR
+T17	protein 870 875	Pit-1
+T18	protein 883 885	PR
+T19	protein 899 925	transcriptional regulators
+T20	protein 938 956	POU domain protein
+T21	protein 957 962	Pit-1
+T22	protein 1004 1007	PRL
+T23	DNA 1150 1158	PRL gene
+T24	cell_type 1228 1239	lymphocytes
+T25	protein 1270 1275	Pit-1
+T26	DNA 1313 1351	dPRL promoter/reporter gene constructs
+T27	DNA 1361 1381	3 kb 5'-flanking DNA
+T28	protein 1425 1427	PR
+T29	DNA 1482 1495	dPRL promoter
+T30	DNA 1547 1560	dPRL promoter
+T31	cell_type 1564 1609	PRL-secreting and nonsecreting lymphoid cells
+T32	DNA 1630 1653	3 kb 5'-flanking region
+T33	DNA 1661 1674	dPRL promoter
+T34	cell_type 1737 1748	lymphocytes
+T35	DNA 1859 1867	PRL gene
+T36	DNA 1996 2009	dPRL promoter
+T37	cell_type 2026 2051	endometrial stromal cells
+T38	protein 2071 2074	PRL
+T39	cell_type 2129 2172	non-PRL-secreting endometrial stromal cells
+T40	DNA 2193 2206	dPRL promoter
+T41	DNA 2437 2445	PRL gene

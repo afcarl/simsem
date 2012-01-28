@@ -1,0 +1,17 @@
+T1	protein 22 54	active transcription factor CREB
+T2	protein 57 94	cAMP response element binding protein
+T3	cell_type 99 114	Mammalian cells
+T4	protein 145 170	transcription factor CREB
+T5	protein 173 210	cAMP response element binding protein
+T6	RNA 277 297	CREB gene transcript
+T7	protein 329 364	14-amino acid serine-rich insertion
+T8	protein 387 400	CREB isoforms
+T9	protein 421 434	CREB isoforms
+T10	cell_type 452 467	many cell types
+T11	DNA 541 571	cAMP response element in vitro
+T12	protein 619 632	CREB proteins
+T13	DNA 720 751	heterologous DNA-binding domain
+T14	protein 835 839	CREB
+T15	protein 867 880	CREB isoforms
+T16	protein 954 971	regulatory domain
+T17	protein 1000 1013	CREB proteins

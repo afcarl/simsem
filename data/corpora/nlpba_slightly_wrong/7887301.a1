@@ -1,0 +1,28 @@
+T1	protein 32 38	NF-ATc
+T2	protein 43 49	NF-ATp
+T3	protein 82 87	NF-AT
+T4	cell_type 153 160	T cells
+T5	protein 270 286	antigen receptor
+T6	protein 318 347	calcium-dependent phosphatase
+T7	protein 348 359	calcineurin
+T8	protein 415 434	cytosolic component
+T9	protein 438 444	NF-ATc
+T10	protein 465 476	calcineurin
+T11	protein 503 509	NF-ATc
+T12	protein 589 602	immunophilins
+T13	protein 627 633	NF-ATc
+T14	protein 649 655	NF-ATn
+T15	protein 667 697	active transcriptional complex
+T16	protein 700 706	NF-ATn
+T17	protein 802 806	AP-1
+T18	protein 832 838	NF-ATc
+T19	protein 906 917	calcineurin
+T20	protein 920 926	NF-ATc
+T21	protein 980 991	calcineurin
+T22	protein 1046 1052	NF-ATc
+T23	protein 1070 1088	cytoplasmic anchor
+T24	protein 1135 1146	calcineurin
+T25	protein 1179 1185	NF-ATc
+T26	protein 1197 1203	NF-ATp
+T27	protein 1220 1226	NF-ATc
+T28	protein 1269 1275	NF-ATp

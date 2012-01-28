@@ -1,0 +1,6 @@
+T1	protein 0 24	Glucocorticoid receptors
+T2	protein 76 99	glucocorticoid receptor
+T3	protein 619 643	glucocorticoid receptors
+T4	cell_line 901 925	high receptor cell lines
+T5	cell_line 1111 1134	low-receptor cell lines
+T6	cell_line 1204 1222	low-receptor lines

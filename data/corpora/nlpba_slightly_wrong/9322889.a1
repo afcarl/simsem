@@ -1,0 +1,39 @@
+T1	protein 4 30	A-myb transcription factor
+T2	cell_type 34 63	neoplastic and normal B cells
+T3	protein 70 80	myb family
+T4	protein 84 105	transcription factors
+T5	DNA 223 237	v-myb oncogene
+T6	cell_type 330 350	haematopoietic cells
+T7	DNA 393 398	c-myb
+T8	cell_type 478 498	haematopoietic cells
+T9	protein 638 643	A-myb
+T10	protein 648 653	B-myb
+T11	DNA 690 695	c-myb
+T12	protein 730 748	DNA binding domain
+T13	protein 766 784	regulatory domains
+T14	protein 814 835	transcription factors
+T15	protein 838 843	B-myb
+T16	DNA 928 933	c-myb
+T17	protein 997 1003	family
+T18	protein 1006 1011	A-myb
+T19	protein 1105 1125	transcription factor
+T20	protein 1128 1133	A-myb
+T21	cell_type 1169 1189	normal B lymphocytes
+T22	cell_type 1340 1375	immature haematopoietic populations
+T23	cell_type 1396 1413	bone marrow cells
+T24	cell_type 1416 1429	T lymphocytes
+T25	cell_type 1432 1444	granulocytes
+T26	cell_type 1447 1456	monocytes
+T27	protein 1533 1538	A-myb
+T28	cell_type 1578 1591	normal B cell
+T29	protein 1610 1615	A-myb
+T30	cell_type 1668 1686	neoplastic B cells
+T31	protein 1749 1754	A-myb
+T32	DNA 2001 2013	A-myb genome
+T33	DNA 2057 2067	c-myc gene
+T34	DNA 2071 2083	chromosome 8
+T35	protein 2153 2158	A-myb
+T36	protein 2250 2255	A-myb
+T37	DNA 2260 2265	c-myc
+T38	cell_type 2299 2307	BL cells
+T39	protein 2333 2338	A-myb

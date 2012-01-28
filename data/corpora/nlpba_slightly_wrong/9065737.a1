@@ -1,0 +1,22 @@
+T1	protein 18 38	transcription factor
+T2	protein 39 48	NF-kappaB
+T3	cell_line 52 92	lipopolysaccharide-stimulated U937 cells
+T4	protein 189 218	monocyte/macrophage receptors
+T5	protein 252 274	inflammatory cytokines
+T6	protein 277 297	Transcription factor
+T7	protein 298 307	NF-kappaB
+T8	protein 369 394	proinflammatory cytokines
+T9	protein 451 460	NF-kappaB
+T10	cell_line 473 495	promonocytic cell line
+T11	cell_line 498 502	U937
+T12	protein 564 577	IkappaB-alpha
+T13	protein 619 643	p105 and p100 inhibitors
+T14	protein 718 727	NF-kappaB
+T15	cell_line 742 752	U937 cells
+T16	protein 901 910	NF-kappaB
+T17	protein 1113 1129	phospholipase A2
+T18	protein 1134 1148	5-lipoxygenase
+T19	protein 1183 1192	NF-kappaB
+T20	protein 1226 1249	acidic sphingomyelinase
+T21	protein 1328 1337	NF-kappaB
+T22	cell_line 1352 1362	U937 cells

@@ -1,0 +1,23 @@
+T1	protein 0 14	Angiotensin II
+T2	protein 29 65	proinflammatory transcription factor
+T3	protein 66 87	nuclear factor-kappaB
+T4	cell_type 91 106	human monocytes
+T5	protein 113 118	renin
+T6	protein 307 328	nuclear factor-kappaB
+T7	protein 331 340	NF-kappaB
+T8	protein 454 476	angiotensin ( ANG ) II
+T9	protein 480 489	NF-kappaB
+T10	cell_type 504 519	monocytic cells
+T11	protein 611 617	ANG II
+T12	protein 625 633	TNFalpha
+T13	protein 663 672	NF-kappaB
+T14	cell_type 676 699	human mononuclear cells
+T15	protein 765 771	ANG II
+T16	protein 860 866	ANG II
+T17	protein 876 885	NF-kappaB
+T18	protein 968 974	ANG II
+T19	protein 986 995	NF-kappaB
+T20	cell_type 1010 1025	human monocytes
+T21	cell_type 1039 1050	lymphocytes
+T22	protein 1149 1155	ANG II
+T23	cell_type 1193 1208	human monocytes

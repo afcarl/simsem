@@ -1,0 +1,41 @@
+T1	protein 21 34	interleukin-2
+T2	cell_type 114 130	neonatal T cells
+T3	cell_type 149 165	neonatal T cells
+T4	protein 177 190	interleukin-2
+T5	protein 193 197	IL-2
+T6	protein 247 251	IL-2
+T7	cell_type 275 301	neonatal and adult T cells
+T8	protein 400 408	anti-CD3
+T9	protein 420 429	anti-CD28
+T10	protein 477 481	IL-2
+T11	protein 543 571	anti-CD3 monoclonal antibody
+T12	protein 574 577	mAb
+T13	protein 586 590	IL-2
+T14	cell_type 604 618	neonatal cells
+T15	cell_type 640 651	adult cells
+T16	protein 676 680	IL-2
+T17	protein 725 738	anti-CD28 mAb
+T18	cell_line 742 767	anti-CD3-stimulated cells
+T19	protein 787 791	IL-2
+T20	protein 838 842	IL-2
+T21	cell_type 846 862	neonatal T cells
+T22	cell_type 900 913	adult T cells
+T23	protein 990 1000	NF-kappa B
+T24	protein 1015 1035	transcription factor
+T25	protein 1054 1058	IL-2
+T26	cell_type 1118 1144	neonatal and adult T cells
+T27	protein 1291 1301	NF-kappa B
+T28	cell_type 1432 1448	neonatal T cells
+T29	protein 1449 1459	NF-kappa B
+T30	protein 1495 1503	anti-CD3
+T31	cell_type 1539 1552	adult T cells
+T32	protein 1580 1593	anti-CD28 mAb
+T33	protein 1617 1627	NF-kappa B
+T34	protein 1777 1781	IL-2
+T35	protein 1827 1831	IL-2
+T36	cell_type 1846 1862	neonatal T cells
+T37	protein 1879 1887	anti-CD3
+T38	protein 1892 1900	anti-CD3
+T39	protein 1903 1912	anti-CD28
+T40	protein 1998 2009	-NF-kappa B
+T41	cell_type 2032 2048	neonatal T cells

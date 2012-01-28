@@ -1,0 +1,55 @@
+T1	protein 13 19	ICAM-1
+T2	protein 24 29	LFA-3
+T3	protein 33 37	Tax1
+T4	protein 112 118	ICAM-1
+T5	protein 122 127	LFA-1
+T6	cell_line 131 163	adult-T-cell-leukemia cell lines
+T7	protein 224 235	HTLV-I TaxI
+T8	protein 260 266	ICAM-I
+T9	protein 271 276	LFA-3
+T10	cell_type 280 293	human T cells
+T11	protein 358 364	ICAM-I
+T12	protein 369 374	LFA-I
+T13	cell_line 378 400	ATL-derived cell lines
+T14	protein 416 420	TaxI
+T15	cell_line 426 450	human T-cell line Jurkat
+T16	DNA 464 473	TaxI gene
+T17	DNA 484 508	metallothionein promoter
+T18	RNA 529 533	mRNA
+T19	protein 560 566	ICAM-I
+T20	protein 585 590	LFA-3
+T21	protein 594 598	TaxI
+T22	DNA 709 724	ICAM-I promoter
+T23	protein 728 732	TaxI
+T24	DNA 775 797	CAT reporter construct
+T25	DNA 807 822	ICAM-I promoter
+T26	DNA 829 836	plasmid
+T27	protein 848 852	TaxI
+T28	protein 891 897	ICAM-I
+T29	protein 901 906	LFA-I
+T30	cell_line 910 926	4 ATL cell lines
+T31	RNA 947 958	ICAM-I mRNA
+T32	cell_line 976 980	MT-I
+T33	DNA 1023 1035	CAT reporter
+T34	DNA 1045 1060	ICAM-I promoter
+T35	cell_line 1077 1081	MT-I
+T36	cell_line 1116 1120	MT-I
+T37	protein 1144 1153	IFN-gamma
+T38	protein 1179 1185	ICAM-I
+T39	protein 1209 1231	transcriptional factor
+T40	DNA 1266 1277	ICAM-I gene
+T41	cell_line 1298 1302	MT-I
+T42	cell_line 1341 1355	ATL cell lines
+T43	cell_line 1358 1364	TL-OmI
+T44	cell_line 1367 1371	H582
+T45	cell_line 1374 1380	HuT102
+T46	RNA 1409 1413	mRNA
+T47	protein 1422 1438	LFA-I beta chain
+T48	protein 1441 1445	CD18
+T49	cell_line 1450 1454	H582
+T50	cell_line 1459 1465	HuT102
+T51	RNA 1493 1525	LFA-I alpha chain ( CDIIa ) mRNA
+T52	DNA 1566 1583	CAT reporter gene
+T53	DNA 1593 1606	CD18 promoter
+T54	protein 1670 1692	transcriptional factor
+T55	protein 1713 1717	CD18

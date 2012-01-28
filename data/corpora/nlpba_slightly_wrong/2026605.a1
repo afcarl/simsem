@@ -1,0 +1,25 @@
+T1	DNA 34 53	platelet GPIIb gene
+T2	cell_type 157 181	hematopoietic progenitor
+T3	cell_type 216 238	megakaryocytic lineage
+T4	cell_line 263 279	primary cultures
+T5	cell_line 283 303	human megakaryocytes
+T6	DNA 512 543	glycoprotein IIb ( GPIIb ) gene
+T7	DNA 546 551	GPIIb
+T8	protein 558 571	alpha subunit
+T9	protein 579 610	platelet cytoadhesin GPIIb-IIIa
+T10	cell_line 628 642	megakaryocytes
+T11	protein 730 736	GPIIIa
+T12	DNA 793 811	5'-flanking region
+T13	DNA 819 829	GPIIb gene
+T14	protein 882 909	DNA-binding nuclear factors
+T15	DNA 938 949	-643 to +33
+T16	DNA 1014 1022	CAT gene
+T17	protein 1171 1178	DNAse I
+T18	DNA 1269 1299	nuclear factor E1-binding site
+T19	DNA 1351 1362	CCAAT motif
+T20	cell_line 1464 1484	megakaryocytic cells
+T21	cell_type 1489 1505	nonrelated cells
+T22	cell_line 1631 1651	megakaryocytic cells
+T23	DNA 1761 1769	promoter
+T24	protein 1823 1862	megakaryocyte-specific nuclear proteins
+T25	protein 1873 1903	positive transcription factors

@@ -1,0 +1,38 @@
+T1	protein 24 27	IFN
+T2	cell_type 64 84	natural killer cells
+T3	cell_type 100 112	target cells
+T4	protein 146 149	IFN
+T5	protein 216 219	IFN
+T6	protein 247 250	IFN
+T7	protein 321 324	IFN
+T8	protein 507 510	IFN
+T9	protein 520 536	cellular protein
+T10	protein 604 607	IFN
+T11	DNA 704 727	Ad early region 1A gene
+T12	DNA 730 733	E1A
+T13	cell_line 806 835	IFN-gamma-treated human cells
+T14	DNA 857 860	E1A
+T15	DNA 911 923	Ad5 E1A gene
+T16	protein 926 929	IFN
+T17	protein 1035 1038	E1B
+T18	protein 1041 1044	p55
+T19	protein 1058 1063	hexon
+T20	protein 1066 1077	Ad proteins
+T21	cell_line 1095 1129	E1A-negative , parental cell lines
+T22	protein 1132 1135	IFN
+T23	cell_line 1160 1186	E1A-transfected epithelial
+T24	cell_line 1191 1214	fibroblastic cell lines
+T25	DNA 1252 1260	E1A gene
+T26	DNA 1316 1319	E1A
+T27	protein 1346 1349	IFN
+T28	DNA 1382 1385	E1A
+T29	DNA 1542 1545	E1A
+T30	protein 1556 1559	IFN
+T31	cell_line 1585 1616	Ad12 E1A-transfected cell lines
+T32	DNA 1652 1673	E1A-conserved regions
+T33	protein 1702 1705	IFN
+T34	protein 1744 1761	E1A gene products
+T35	protein 1772 1775	IFN
+T36	DNA 1816 1819	E1A
+T37	protein 1837 1840	IFN
+T38	cell_line 1937 1963	Ad-transformed human cells

@@ -1,0 +1,37 @@
+T1	cell_line 8 49	growth-factor-dependent myeloid cell line
+T2	cell_type 63 86	mouse bone marrow cells
+T3	protein 179 221	human colony-stimulating factor-1 receptor
+T4	protein 224 230	CSF-1R
+T5	protein 254 259	CSF-1
+T6	cell_line 288 312	mouse myeloid cell lines
+T7	protein 354 360	CSF-1R
+T8	protein 375 380	CSF-1
+T9	protein 404 410	CSF-1R
+T10	cell_type 418 435	bone marrow cells
+T11	protein 508 521	membrane form
+T12	protein 525 536	human CSF-1
+T13	cell_line 539 549	2M-1 cells
+T14	cell_type 615 628	stromal cells
+T15	protein 662 667	CSF-1
+T16	cell_line 702 725	hematopoietic cell line
+T17	cell_line 735 740	47.10
+T18	cell_line 874 885	47.10 cells
+T19	protein 923 956	anti-CSF-1R monoclonal antibodies
+T20	cell_line 1022 1033	47.10 cells
+T21	cell_type 1038 1067	immature myelomonocytic cells
+T22	protein 1107 1140	myeloid transcription factor PU.1
+T23	protein 1155 1192	erythroid transcription factor GATA-1
+T24	cell_line 1211 1222	47.10 cells
+T25	cell_line 1231 1242	47.10 cells
+T26	cell_line 1331 1353	lineage-positive cells
+T27	cell_line 1373 1383	2M-1 cells
+T28	cell_line 1405 1416	47.10 cells
+T29	protein 1474 1522	granulocyte/macrophage colony-stimulating factor
+T30	protein 1539 1552	interleukin-3
+T31	protein 1577 1582	CSF-1
+T32	cell_line 1638 1649	47.10 cells
+T33	cell_type 1702 1718	mature monocytes
+T34	cell_type 1723 1735	granulocytes
+T35	cell_line 1821 1836	HPP-47.10 cells
+T36	cell_line 1887 1915	continuous myeloid cell line
+T37	cell_line 1975 2014	bone marrow progenitor cell compartment

@@ -1,0 +1,30 @@
+T1	protein 0 4	CD28
+T2	protein 50 64	IL-12 receptor
+T3	protein 84 103	janus kinases/STAT4
+T4	protein 118 123	IL-12
+T5	cell_type 139 160	TCR-triggered T cells
+T6	cell_type 181 196	resting T cells
+T7	protein 397 400	TCR
+T8	cell_type 412 427	resting T cells
+T9	protein 439 444	IL-12
+T10	cell_type 467 474	T cells
+T11	protein 508 520	anti-CD3 mAb
+T12	protein 581 595	IL-12 receptor
+T13	protein 598 604	IL-12R
+T14	cell_type 645 652	T cells
+T15	protein 672 680	anti-CD3
+T16	protein 716 722	IL-12R
+T17	protein 830 835	IL-12
+T18	cell_type 879 886	T cells
+T19	cell_type 901 931	anti-CD28-costimulated T cells
+T20	cell_type 934 941	T cells
+T21	protein 974 983	anti-CD28
+T22	protein 1014 1027	Janus kinases
+T23	protein 1030 1033	JAK
+T24	protein 1036 1045	JAK2/TYK2
+T25	protein 1050 1055	STAT4
+T26	protein 1103 1108	IL-12
+T27	cell_type 1207 1239	anti-CD28-uncostimulated T cells
+T28	protein 1327 1333	IL-12R
+T29	protein 1376 1386	JAKs/STAT4
+T30	protein 1401 1406	IL-12

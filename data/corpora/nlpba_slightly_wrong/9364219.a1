@@ -1,0 +1,12 @@
+T1	protein 67 89	-HLA class II molecule
+T2	protein 129 154	unidentified superantigen
+T3	protein 347 383	CD-associated HLA class II molecules
+T4	protein 479 501	HLA class II molecules
+T5	protein 516 538	peptide-binding groove
+T6	cell_type 598 645	gamma delta T cell receptor-bearing lymphocytes
+T7	cell_type 669 688	gamma delta T cells
+T8	protein 744 761	ingested proteins
+T9	protein 1037 1043	HLA-DR
+T10	DNA 1066 1094	primary restriction elements
+T11	DNA 1235 1241	HLA-DQ
+T12	protein 1371 1402	bacterial or viral superantigen

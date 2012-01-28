@@ -1,0 +1,27 @@
+T1	cell_type 167 178	lymphocytes
+T2	protein 209 214	actin
+T3	DNA 504 507	vav
+T4	DNA 510 513	vav
+T5	protein 544 578	guanine-nucleotide exchange factor
+T6	protein 587 597	GTPase Rac
+T7	cell_type 610 621	Lymphocytes
+T8	DNA 627 630	vav
+T9	cell_type 742 756	vav-/- T cells
+T10	protein 919 940	Jun N-terminal kinase
+T11	protein 944 967	stress-activated kinase
+T12	protein 970 973	JNK
+T13	protein 977 981	SAPK
+T14	protein 988 1020	mitogen-activated protein kinase
+T15	protein 1023 1027	MAPK
+T16	protein 1055 1075	transcription factor
+T17	DNA 1076 1099	NF-ATc1 and egr-1 genes
+T18	protein 1170 1188	cytoplasmic NF-ATc
+T19	cell_type 1261 1273	vav-/- cells
+T20	protein 1308 1319	calcineurin
+T21	cell_type 1335 1346	lymphocytes
+T22	cell_type 1584 1596	vav-/- cells
+T23	protein 1654 1657	Vav
+T24	protein 1661 1664	Rac
+T25	protein 1704 1715	calcineurin
+T26	protein 1802 1805	Vav
+T27	cell_type 1839 1850	lymphocytes

@@ -1,0 +1,40 @@
+T1	protein 30 43	interleukin-6
+T2	protein 51 88	class A macrophage scavenger receptor
+T3	cell_type 92 103	macrophages
+T4	cell_type 117 143	human peripheral monocytes
+T5	cell_line 152 177	THP-1 monocytic cell line
+T6	protein 198 243	class A macrophage scavenger receptor ( MSR )
+T7	protein 273 314	modified low density lipoproteins ( LDL )
+T8	cell_type 318 329	macrophages
+T9	cell_type 369 391	lipid-laden foam cells
+T10	protein 476 501	proinflammatory cytokines
+T11	protein 506 520	growth factors
+T12	protein 555 558	MSR
+T13	protein 648 651	MSR
+T14	protein 777 799	interleukin-6 ( IL-6 )
+T15	protein 805 821	immunoregulatory
+T16	protein 824 847	multipotential cytokine
+T17	protein 897 900	MSR
+T18	cell_type 904 915	macrophages
+T19	protein 936 940	IL-6
+T20	cell_type 943 954	macrophages
+T21	cell_type 968 988	peripheral monocytes
+T22	cell_line 993 1070	phorbol 12-myristate 13-acetate ( PMA ) -differentiated THP-1 monocytic cells
+T23	protein 1129 1132	MSR
+T24	protein 1142 1156	acetylated LDL
+T25	protein 1222 1225	MSR
+T26	RNA 1238 1242	mRNA
+T27	DNA 1257 1269	MSR promoter
+T28	cell_line 1282 1293	THP-1 cells
+T29	DNA 1314 1350	MSR promoter-reporter gene construct
+T30	DNA 1390 1402	MSR promoter
+T31	protein 1406 1410	IL-6
+T32	cell_line 1420 1425	THP-1
+T33	cell_type 1426 1437	macrophages
+T34	protein 1525 1545	transcription factor
+T35	DNA 1553 1583	MSR promoter AP-1/ets elements
+T36	protein 1587 1591	IL-6
+T37	protein 1628 1632	IL-6
+T38	protein 1663 1674	class A MSR
+T39	cell_type 1693 1704	macrophages
+T40	protein 1764 1772	cytokine

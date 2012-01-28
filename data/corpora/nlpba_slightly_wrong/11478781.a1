@@ -1,0 +1,24 @@
+T1	protein 0 7	Caspase
+T2	protein 56 60	IL-2
+T3	protein 96 107	Calcineurin
+T4	protein 112 190	Ca ( 2+ ) /calmodulin-dependent Ser/Thr phosphatase ( protein phosphatase 2B )
+T5	protein 298 302	IL-2
+T6	cell_line 324 332	Jurkat T
+T7	protein 450 474	60-kDa catalytic subunit
+T8	protein 478 491	calcineurin A
+T9	protein 494 498	Cn A
+T10	protein 528 534	45-kDa
+T11	cell_line 622 634	Jurkat cells
+T12	protein 686 694	caspases
+T13	protein 727 745	effector caspase-3
+T14	protein 766 770	Cn A
+T15	protein 916 920	Cn A
+T16	protein 962 973	calcineurin
+T17	protein 1001 1010	caspase-3
+T18	protein 1013 1027	Truncated Cn A
+T19	cell_line 1155 1167	Jurkat cells
+T20	protein 1191 1202	calcineurin
+T21	protein 1213 1218	NFATc
+T22	protein 1223 1243	transcription factor
+T23	DNA 1291 1300	IL-2 gene
+T24	protein 1409 1413	Cn A

@@ -1,0 +1,29 @@
+T1	cell_type 0 32	NF-kappaB-mediated up-regulation
+T2	protein 36 41	Bcl-x
+T3	protein 46 54	Bfl-1/A1
+T4	protein 71 75	CD40
+T5	cell_type 98 111	B lymphocytes
+T6	protein 128 132	CD40
+T7	cell_type 205 212	B cells
+T8	protein 253 257	CD40
+T9	protein 335 340	Bcl-x
+T10	protein 351 388	CD40-regulated antiapoptotic molecule
+T11	protein 415 437	antiapoptotic molecule
+T12	protein 440 448	A1/Bfl-1
+T13	DNA 456 475	CD40-inducible gene
+T14	protein 496 505	NF-kappaB
+T15	protein 566 575	NF-kappaB
+T16	protein 586 590	CD40
+T17	protein 626 631	Bfl-1
+T18	protein 636 641	Bcl-x
+T19	protein 683 687	CD40
+T20	protein 698 701	Fas
+T21	DNA 735 759	upstream promoter region
+T22	protein 763 768	Bcl-x
+T23	DNA 783 809	NF-kappaB-binding sequence
+T24	protein 831 840	NF-kappaB
+T25	cell_type 933 956	Bcl-x protected B cells
+T26	protein 1003 1012	NF-kappaB
+T27	protein 1057 1061	CD40
+T28	protein 1103 1112	NF-kappaB
+T29	protein 1141 1161	Bcl-2 family members

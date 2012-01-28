@@ -1,0 +1,35 @@
+T1	protein 30 34	AP-1
+T2	protein 39 49	NF-kappa B
+T3	cell_type 85 92	T cells
+T4	DNA 131 144	IL-2 promoter
+T5	cell_type 154 160	T-cell
+T6	protein 192 195	TCR
+T7	protein 204 227	auxiliary receptor CD28
+T8	protein 238 259	transcription factors
+T9	protein 275 279	IL-2
+T10	protein 318 335	AP-1-like factors
+T11	protein 340 350	NF-kappa B
+T12	protein 493 505	AP-1 protein
+T13	protein 506 511	c-Jun
+T14	protein 561 582	cytoplasmic inhibitor
+T15	protein 585 594	I kappa B
+T16	protein 602 612	NF-kappa B
+T17	cell_type 778 795	activated T cells
+T18	protein 986 990	TPCK
+T19	protein 1019 1028	I kappa B
+T20	protein 1064 1074	NF-kappa B
+T21	protein 1114 1117	JNK
+T22	protein 1124 1134	MAP kinase
+T23	protein 1174 1196	transactivation domain
+T24	protein 1200 1205	c-Jun
+T25	protein 1419 1440	transcription factors
+T26	protein 1443 1447	AP-1
+T27	protein 1452 1462	NF-kappa B
+T28	protein 1505 1508	TCR
+T29	protein 1513 1517	CD28
+T30	protein 1589 1598	I kappa B
+T31	protein 1619 1629	NF-kappa B
+T32	protein 1663 1666	JNK
+T33	protein 1682 1687	c-Jun
+T34	protein 1798 1802	AP-1
+T35	protein 1805 1815	NF-kappa B

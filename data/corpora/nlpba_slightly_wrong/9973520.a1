@@ -1,0 +1,23 @@
+T1	protein 17 21	CD44
+T2	cell_type 25 50	rheumatoid synovial cells
+T3	protein 64 70	VCAM-1
+T4	protein 475 481	VCAM-1
+T5	protein 510 516	VCAM-1
+T6	cell_type 571 596	rheumatoid synovial cells
+T7	protein 614 618	CD44
+T8	protein 642 646	CD44
+T9	protein 682 688	VCAM-1
+T10	protein 746 754	IL-1beta
+T11	protein 835 841	VCAM-1
+T12	protein 848 852	CD44
+T13	protein 907 915	integrin
+T14	cell_type 948 965	RA synovial cells
+T15	cell_type 969 976	T cells
+T16	protein 999 1003	CD44
+T17	cell_type 1064 1081	RA synovial cells
+T18	protein 1126 1130	CD44
+T19	protein 1149 1155	VCAM-1
+T20	protein 1171 1177	VCAM-1
+T21	cell_type 1200 1207	T cells
+T22	cell_type 1250 1257	T cells
+T23	cell_type 1262 1276	synovial cells

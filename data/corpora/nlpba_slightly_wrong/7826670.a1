@@ -1,0 +1,8 @@
+T1	cell_type 43 64	lymphocyte stem cells
+T2	cell_type 69 87	extrathymic T-cell
+T3	cell_type 261 290	extrathymic T-cell precursors
+T4	cell_type 388 398	thymocytes
+T5	DNA 415 435	bcl-2 proto-oncogene
+T6	protein 506 509	AhR
+T7	cell_type 650 680	extrathymic T-cell populations
+T8	protein 725 748	V beta T-cell receptors

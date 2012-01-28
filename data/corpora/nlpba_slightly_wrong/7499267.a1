@@ -1,0 +1,31 @@
+T1	protein 143 173	interferon regulatory factor-1
+T2	protein 176 186	NF kappa B
+T3	protein 193 196	Sp1
+T4	protein 197 218	transcription factors
+T5	protein 289 305	interferon-gamma
+T6	protein 308 317	IFN-gamma
+T7	protein 322 349	tumor necrosis factor-alpha
+T8	protein 352 361	TNF-alpha
+T9	DNA 367 400	human interleukin-6 ( IL-6 ) gene
+T10	cell_type 404 425	THP-1 monocytic cells
+T11	DNA 533 546	IL-6 promoter
+T12	protein 602 611	IFN-gamma
+T13	protein 619 628	TNF-alpha
+T14	DNA 798 813	minimal element
+T15	protein 834 843	TNF-alpha
+T16	protein 935 944	IFN-gamma
+T17	protein 949 958	TNF-alpha
+T18	DNA 982 1005	distal element upstream
+T19	protein 1039 1048	IFN-gamma
+T20	protein 1092 1102	NF kappa B
+T21	protein 1121 1141	p50/p65 heterodimers
+T22	DNA 1173 1182	IL-6 gene
+T23	protein 1186 1195	IFN-gamma
+T24	protein 1200 1209	TNF-alpha
+T25	cell_type 1215 1230	monocytic cells
+T26	protein 1266 1271	IRF-1
+T27	protein 1276 1301	NF kappa B p65 homodimers
+T28	DNA 1357 1387	retinoblastoma control element
+T29	DNA 1403 1416	IL-6 promoter
+T30	protein 1462 1485	constitutive Sp1 factor
+T31	protein 1558 1567	IFN-gamma

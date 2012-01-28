@@ -1,0 +1,38 @@
+T1	cell_type 14 41	primary human T-lymphocytes
+T2	protein 50 82	CD2 plus CD28 adhesion molecules
+T3	protein 123 133	NF-kappa B
+T4	cell_type 151 180	highly purified human T-cells
+T5	protein 185 216	CD2 and CD28 adhesion molecules
+T6	protein 289 302	interleukin 2
+T7	protein 305 309	IL-2
+T8	cell_type 351 360	monocytes
+T9	cell_type 364 379	accessory cells
+T10	protein 395 399	IL-2
+T11	DNA 470 516	IL-2 receptor alpha chain ( IL-2R alpha ) gene
+T12	DNA 604 620	IL-2R alpha gene
+T13	protein 693 703	NF-kappa B
+T14	DNA 711 729	consensus sequence
+T15	DNA 737 757	5'-regulatory region
+T16	DNA 765 781	IL-2R alpha gene
+T17	DNA 865 881	IL-2R alpha gene
+T18	protein 904 914	NF-kappa B
+T19	protein 941 952	IL-2R alpha
+T20	protein 1018 1021	CD2
+T21	protein 1024 1028	CD28
+T22	protein 1084 1102	KBF1/p50 homodimer
+T23	protein 1133 1159	kappa B-specific complexes
+T24	protein 1179 1189	NF-kappa B
+T25	protein 1190 1209	p50-p65 heterodimer
+T26	protein 1223 1238	c-Rel homodimer
+T27	protein 1242 1263	c-Rel-p65 heterodimer
+T28	protein 1414 1417	CD2
+T29	protein 1420 1424	CD28
+T30	protein 1564 1582	adhesion molecules
+T31	protein 1726 1736	NF-kappa B
+T32	cell_type 1740 1753	T-lymphocytes
+T33	protein 1771 1775	IL-2
+T34	protein 1788 1799	IL-2R alpha
+T35	protein 1891 1901	NF-kappa B
+T36	cell_type 1953 1980	human primary T-lymphocytes
+T37	protein 1985 1988	CD2
+T38	protein 1991 1995	CD28

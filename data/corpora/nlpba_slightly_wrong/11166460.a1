@@ -1,0 +1,33 @@
+T1	protein 65 70	STAT1
+T2	cell_type 74 81	T cells
+T3	cell_type 90 98	NK cells
+T4	cell_type 113 126	T lymphocytes
+T5	protein 171 180	cytokines
+T6	protein 233 251	cytokine receptors
+T7	protein 280 313	STAT family transcription factors
+T8	protein 346 368	cell-surface molecules
+T9	protein 379 382	CD2
+T10	cell_type 479 486	T cells
+T11	protein 495 498	CD2
+T12	protein 524 532	cytokine
+T13	protein 570 596	STAT transcription factors
+T14	cell_type 623 630	T cells
+T15	protein 649 668	anti-CD2 antibodies
+T16	protein 698 713	CD2 ligand CD58
+T17	protein 746 772	STAT transcription factors
+T18	protein 813 816	CD2
+T19	cell_type 820 841	primary T lymphocytes
+T20	protein 925 930	STAT1
+T21	protein 963 972	cytokines
+T22	protein 993 998	STAT1
+T23	protein 1059 1070	Jak kinases
+T24	protein 1125 1134	cytokines
+T25	DNA 1282 1286	IRF1
+T26	DNA 1291 1296	c-fos
+T27	cell_type 1518 1525	T cells
+T28	protein 1546 1549	CD2
+T29	cell_type 1553 1561	NK cells
+T30	cell_type 1626 1633	T cells
+T31	protein 1642 1664	cell-surface molecules
+T32	protein 1673 1676	CD2
+T33	protein 1700 1726	STAT transcription factors

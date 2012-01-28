@@ -1,0 +1,26 @@
+T1	DNA 24 36	NFAT/octamer
+T2	DNA 41 66	HMG I ( Y ) binding sites
+T3	DNA 130 155	immediate upstream region
+T4	DNA 193 227	murine interleukin 4 ( Il-4 ) gene
+T5	DNA 264 288	transcriptional enhancer
+T6	cell_type 294 310	T lymphoma cells
+T7	DNA 333 355	Il-4 promoter/enhancer
+T8	protein 422 438	protein kinase A
+T9	DNA 511 533	Il-4 promoter/enhancer
+T10	cell_type 567 583	B lymphoma cells
+T11	cell_type 588 598	HeLa cells
+T12	DNA 668 690	Il-4 promoter/enhancer
+T13	protein 706 722	nuclear proteins
+T14	cell_type 728 754	lymphoid and myeloid cells
+T15	DNA 855 868	Il-2 promoter
+T16	protein 926 991	inducible and cyclosporin A-sensitive transcription factor NFAT-1
+T17	DNA 1007 1024	Il-4 NFAT-1 sites
+T18	protein 1069 1084	Octamer factors
+T19	DNA 1115 1143	AT-rich protein-binding site
+T20	protein 1192 1219	high mobility group protein
+T21	protein 1220 1229	HMG I ( Y
+T22	protein 1257 1263	NFAT-1
+T23	protein 1268 1283	Octamer factors
+T24	DNA 1312 1325	Il-4 promoter
+T25	protein 1442 1446	Il-4
+T26	cell_type 1464 1485	resting T lymphocytes

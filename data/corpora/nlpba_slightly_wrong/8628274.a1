@@ -1,0 +1,38 @@
+T1	protein 16 27	IkappaBbeta
+T2	protein 35 46	tax protein
+T3	protein 139 148	NF-kappaB
+T4	cell_type 154 175	resting T lymphocytes
+T5	protein 182 202	transcription factor
+T6	protein 203 212	NF-kappaB
+T7	protein 282 298	I kappa B family
+T8	protein 325 337	IkappaBalpha
+T9	protein 342 353	IkappaBbeta
+T10	protein 390 402	IkappaBalpha
+T11	protein 467 481	26S proteasome
+T12	protein 526 535	NF-kappaB
+T13	protein 624 633	NF-kappaB
+T14	protein 686 710	Tax transforming protein
+T15	protein 798 801	Tax
+T16	protein 810 822	IkappaBalpha
+T17	protein 899 912	viral protein
+T18	protein 956 965	NF-kappaB
+T19	protein 1044 1056	IkappaBalpha
+T20	protein 1059 1062	Tax
+T21	protein 1090 1101	IkappaBbeta
+T22	protein 1143 1155	IkappaBalpha
+T23	protein 1158 1161	Tax
+T24	protein 1185 1196	IkappaBbeta
+T25	cell_line 1200 1225	transfected T lymphocytes
+T26	protein 1302 1313	IkappaBbeta
+T27	protein 1356 1373	N-terminal region
+T28	protein 1415 1418	Tax
+T29	protein 1423 1435	IkappaBalpha
+T30	protein 1440 1451	IkappaBbeta
+T31	protein 1475 1478	Tax
+T32	protein 1502 1511	NF-kappaB
+T33	DNA 1543 1560	IkappaBalpha gene
+T34	protein 1578 1589	IkappaBbeta
+T35	cell_type 1641 1670	HTLV-1-infected T lymphocytes
+T36	protein 1693 1704	IkappaBbeta
+T37	protein 1770 1779	NF-kappaB
+T38	cell_line 1783 1803	Tax-expressing cells

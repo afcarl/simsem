@@ -1,0 +1,40 @@
+T1	DNA 4 45	Epstein-Barr virus ( EBV ) BMRF1 promoter
+T2	protein 50 63	early antigen
+T3	protein 66 70	EA-D
+T4	protein 93 112	EBV transactivators
+T5	protein 115 120	BRLF1
+T6	protein 125 130	BZLF1
+T7	protein 165 215	Epstein-Barr virus early antigen diffuse component
+T8	protein 218 222	EA-D
+T9	DNA 255 264	virus DNA
+T10	DNA 382 390	promoter
+T11	DNA 393 398	BMRF1
+T12	protein 468 505	immediate-early viral transactivators
+T13	protein 508 513	BZLF1
+T14	protein 516 517	Z
+T15	protein 524 529	BRLF1
+T16	protein 532 533	R
+T17	cell_type 581 595	lymphoid cells
+T18	cell_type 600 616	epithelial cells
+T19	cell_type 622 636	lymphoid cells
+T20	protein 639 640	Z
+T21	protein 644 645	R
+T22	DNA 685 698	EA-D promoter
+T23	protein 723 738	transactivators
+T24	cell_type 789 805	epithelial cells
+T25	protein 812 828	Z transactivator
+T26	DNA 871 884	EA-D promoter
+T27	protein 901 902	R
+T28	protein 907 908	Z
+T29	protein 946 947	Z
+T30	DNA 1013 1026	EA-D promoter
+T31	cell_type 1048 1064	epithelial cells
+T32	DNA 1079 1096	AP-1 binding site
+T33	protein 1124 1125	Z
+T34	cell_type 1203 1217	lymphoid cells
+T35	DNA 1229 1247	upstream sequences
+T36	protein 1288 1291	Z/R
+T37	protein 1314 1323	AP-1 site
+T38	DNA 1365 1388	EA-D ( BMRF1 ) promoter
+T39	protein 1403 1404	Z
+T40	protein 1409 1410	R

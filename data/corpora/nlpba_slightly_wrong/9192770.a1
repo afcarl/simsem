@@ -1,0 +1,51 @@
+T1	protein 0 14	Interleukin-10
+T2	DNA 49 87	intercellular adhesion molecule-1 gene
+T3	cell_type 105 120	human monocytes
+T4	protein 123 137	Interleukin-10
+T5	protein 140 145	IL-10
+T6	protein 160 188	monocyte regulatory cytokine
+T7	protein 222 247	proinflammatory mediators
+T8	protein 305 310	IL-10
+T9	protein 339 372	intercellular adhesion molecule-1
+T10	protein 375 381	ICAM-1
+T11	cell_type 407 429	normal human monocytes
+T12	protein 445 461	interferon-gamma
+T13	protein 464 473	IFN-gamma
+T14	protein 478 483	IL-10
+T15	protein 498 507	IFN-gamma
+T16	protein 517 523	ICAM-1
+T17	protein 590 609	anti-IL-10 antibody
+T18	protein 624 656	isotype-matched control antibody
+T19	protein 694 699	IL-10
+T20	RNA 728 739	ICAM-1 mRNA
+T21	cell_line 743 773	IFN-gamma-stimulated monocytes
+T22	protein 776 781	IL-10
+T23	RNA 796 820	ICAM-1 steady-state mRNA
+T24	protein 920 925	IL-10
+T25	protein 948 957	IFN-gamma
+T26	DNA 988 999	ICAM-1 gene
+T27	protein 1041 1046	IL-10
+T28	RNA 1078 1110	IFN-gamma-induced ICAM-1 message
+T29	protein 1120 1125	IL-10
+T30	protein 1135 1144	IFN-gamma
+T31	protein 1154 1160	ICAM-1
+T32	cell_type 1175 1184	monocytes
+T33	DNA 1246 1272	IFN-gamma-responsive genes
+T34	protein 1337 1348	STAT-1alpha
+T35	protein 1351 1406	signal transducer and activator of transcription-1alpha
+T36	protein 1421 1426	IL-10
+T37	protein 1442 1451	IFN-gamma
+T38	protein 1489 1500	STAT-1alpha
+T39	protein 1510 1521	STAT-1alpha
+T40	DNA 1537 1563	IFN-gamma response element
+T41	DNA 1566 1569	IRE
+T42	DNA 1579 1594	ICAM-1 promoter
+T43	protein 1607 1612	IL-10
+T44	protein 1623 1632	IFN-gamma
+T45	protein 1666 1675	NF-kappaB
+T46	DNA 1688 1775	tumor necrosis factor alpha ( TNF-alpha ) -responsive NF-kappaB/C-EBP composite element
+T47	DNA 1783 1798	ICAM-1 promoter
+T48	protein 1826 1831	IL-10
+T49	protein 1841 1850	IFN-gamma
+T50	DNA 1881 1892	ICAM-1 gene
+T51	protein 1936 1945	NF-kappaB

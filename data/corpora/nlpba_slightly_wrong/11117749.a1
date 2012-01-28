@@ -1,0 +1,32 @@
+T1	cell_type 0 6	T-cell
+T2	protein 83 88	RANKL
+T3	protein 93 102	IFN-gamma
+T4	cell_type 163 169	T-cell
+T5	protein 184 189	RANKL
+T6	protein 192 250	receptor activator of nuclear factor ( NF ) -kappaB ligand
+T7	protein 271 300	tumour-necrosis factor family
+T8	cell_type 437 454	activated T cells
+T9	protein 515 520	RANKL
+T10	cell_type 557 563	T-cell
+T11	protein 578 603	interferon ( IFN ) -gamma
+T12	protein 667 672	RANKL
+T13	protein 700 709	IFN-gamma
+T14	protein 743 763	RANK adapter protein
+T15	protein 766 771	TRAF6
+T16	protein 774 825	tumour necrosis factor receptor-associated factor 6
+T17	protein 872 877	RANKL
+T18	protein 905 925	transcription factor
+T19	protein 926 935	NF-kappaB
+T20	protein 940 943	JNK
+T21	protein 1013 1018	TRAF6
+T22	cell_type 1022 1037	precursor cells
+T23	protein 1061 1066	TRAF6
+T24	protein 1098 1107	IFN-gamma
+T25	protein 1187 1192	TRAF6
+T26	protein 1250 1255	RANKL
+T27	protein 1262 1271	IFN-gamma
+T28	protein 1382 1404	tumour necrosis factor
+T29	protein 1409 1421	IFN families
+T30	protein 1425 1434	cytokines
+T31	protein 1451 1460	IFN-gamma
+T32	cell_type 1494 1500	T-cell

@@ -1,0 +1,26 @@
+T1	protein 8 52	B-cell lineage-specific transcription factor
+T2	protein 119 155	B-cell-specific transcription factor
+T3	protein 158 162	BSAP
+T4	protein 185 202	mammalian homolog
+T5	protein 210 228	sea urchin protein
+T6	protein 229 233	TSAP
+T7	DNA 261 270	promoters
+T8	DNA 279 329	tissue-specific late histone H2A-2 and H2B-2 genes
+T9	protein 418 435	mammalian protein
+T10	protein 436 440	BSAP
+T11	DNA 461 485	sea urchin binding sites
+T12	protein 521 525	TSAP
+T13	protein 584 588	BSAP
+T14	cell_type 808 846	terminally differentiated plasma cells
+T15	protein 860 864	BSAP
+T16	protein 878 914	B-cell-specific transcription factor
+T17	DNA 922 931	wild-type
+T18	DNA 942 966	mutant TSAP-binding site
+T19	cell_line 1003 1022	transfected B cells
+T20	DNA 1029 1054	upstream promoter element
+T21	DNA 1100 1126	high-affinity binding site
+T22	protein 1131 1135	BSAP
+T23	DNA 1145 1163	regulatory regions
+T24	DNA 1167 1233	immunoglobulin and class II major histocompatibility ( MHC ) genes
+T25	protein 1252 1256	BSAP
+T26	DNA 1294 1319	B-lymphoid-specific genes

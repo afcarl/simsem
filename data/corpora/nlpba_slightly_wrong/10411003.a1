@@ -1,0 +1,27 @@
+T1	protein 22 36	interleukin-11
+T2	protein 89 103	interleukin-11
+T3	protein 106 111	IL-11
+T4	protein 135 153	IgG immune complex
+T5	RNA 191 201	IL-11 mRNA
+T6	protein 312 317	IL-11
+T7	cell_type 406 417	neutrophils
+T8	protein 448 455	albumin
+T9	protein 501 506	IL-11
+T10	protein 536 545	NF-kappaB
+T11	protein 585 612	tumor necrosis factor alpha
+T12	protein 615 624	TNF-alpha
+T13	protein 702 722	lung vascular ICAM-1
+T14	protein 748 753	IL-11
+T15	protein 794 808	CXC chemokines
+T16	protein 811 844	macrophage inflammatory protein-2
+T17	protein 847 852	MIP-2
+T18	protein 859 904	cytokine-inducible neutrophil chemoattractant
+T19	protein 907 911	CINC
+T20	protein 932 937	IL-11
+T21	protein 959 969	chemokines
+T22	protein 1016 1021	IL-11
+T23	protein 1049 1054	IL-11
+T24	protein 1060 1079	regulatory cytokine
+T25	protein 1214 1223	NF-kappaB
+T26	protein 1262 1271	TNF-alpha
+T27	protein 1303 1323	lung vascular ICAM-1

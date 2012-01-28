@@ -1,0 +1,22 @@
+T1	DNA 58 114	human immunodeficiency virus type 1 long terminal repeat
+T2	protein 117 125	cytokine
+T3	protein 143 152	NF-kappaB
+T4	DNA 229 289	human immunodeficiency virus ( HIV ) -1 long terminal repeat
+T5	DNA 292 295	LTR
+T6	cell_line 305 324	Jurkat T lymphocyte
+T7	cell_line 329 356	THP-1 macrophage cell lines
+T8	DNA 377 380	LTR
+T9	cell_line 384 396	Jurkat cells
+T10	protein 448 456	catalase
+T11	protein 506 517	THP-1 cells
+T12	protein 576 584	catalase
+T13	protein 704 725	tumor necrosis factor
+T14	protein 736 747	interleukin
+T15	protein 779 788	NF-kappaB
+T16	protein 792 803	THP-1 cells
+T17	protein 818 839	tumor necrosis factor
+T18	cell_type 860 875	human monocytes
+T19	DNA 1107 1116	HIV-1 LTR
+T20	protein 1119 1127	cytokine
+T21	protein 1145 1154	NF-kappaB
+T22	cell_type 1167 1185	macrophage lineage

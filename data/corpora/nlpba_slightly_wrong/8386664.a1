@@ -1,0 +1,32 @@
+T1	cell_line 0 36	Human CD3-CD16+ natural killer cells
+T2	protein 49 84	hGATA-3 T cell transcription factor
+T3	protein 105 132	2.3-kb TcR delta transcript
+T4	protein 165 206	T cell receptor ( TcR ) delta transcripts
+T5	cell_line 220 235	CD3-CD16+ cells
+T6	protein 290 325	hGATA-3 T cell transcription factor
+T7	DNA 334 374	recombination-activating gene ( RAG ) -1
+T8	protein 386 407	TcR delta transcripts
+T9	DNA 438 452	TcR delta gene
+T10	cell_line 475 539	polyclonal and clonal CD3-CD16+ natural killer ( NK ) cell lines
+T11	protein 559 580	TcR delta transcripts
+T12	RNA 626 640	TcR delta mRNA
+T13	cell_line 669 699	TcR gamma/delta+ T lymphocytes
+T14	DNA 845 859	TcR delta gene
+T15	DNA 943 958	814 bp upstream
+T16	DNA 968 985	J delta 1 segment
+T17	DNA 1025 1042	J delta 1 segment
+T18	DNA 1108 1125	J delta 1 segment
+T19	DNA 1151 1158	C delta
+T20	DNA 1279 1298	fourth C delta exon
+T21	DNA 1375 1386	2.3-kb cDNA
+T22	protein 1407 1414	hGATA-3
+T23	protein 1419 1441	T cell-specific factor
+T24	DNA 1505 1520	TcR delta locus
+T25	cell_line 1567 1585	NK cell population
+T26	cell_line 1651 1660	NK clones
+T27	RNA 1706 1727	hGATA-3-specific mRNA
+T28	protein 1746 1753	hGATA-3
+T29	DNA 1808 1822	TcR delta gene
+T30	cell_type 1837 1845	NK cells
+T31	DNA 1882 1892	RAG-1 gene
+T32	cell_line 1918 1931	NK cell lines

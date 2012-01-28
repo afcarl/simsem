@@ -1,0 +1,22 @@
+T1	protein 11 55	erythroid and non-erythroid nuclear proteins
+T2	DNA 63 71	silencer
+T3	DNA 79 113	human epsilon-globin-encoding gene
+T4	DNA 193 218	hemoglobin-encoding genes
+T5	DNA 265 270	genes
+T6	cell_type 274 285	human cells
+T7	DNA 356 387	transcriptional control element
+T8	DNA 413 421	silencer
+T9	DNA 437 452	-392 to -177 bp
+T10	DNA 469 477	cap site
+T11	DNA 485 519	human epsilon-globin-encoding gene
+T12	DNA 609 617	silencer
+T13	cell_line 654 664	HeLa cells
+T14	cell_line 682 714	K562 human erythroleukemia cells
+T15	DNA 723 739	deletion mutants
+T16	DNA 927 942	-294 to -251 bp
+T17	protein 991 997	DNaseI
+T18	cell_line 1152 1156	HeLa
+T19	cell_line 1161 1171	K562 cells
+T20	cell_line 1276 1286	HeLa cells
+T21	DNA 1367 1395	epsilon-globin-encoding gene
+T22	cell_type 1399 1432	erythroid and non-erythroid cells

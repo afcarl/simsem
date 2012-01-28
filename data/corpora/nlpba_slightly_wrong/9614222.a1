@@ -1,0 +1,45 @@
+T1	protein 0 20	beta-Amyloid fibrils
+T2	protein 39 71	mitogen-activated protein kinase
+T3	cell_type 84 93	microglia
+T4	cell_line 98 112	THP1 monocytes
+T5	protein 233 253	acute phase proteins
+T6	protein 277 292	Fibrillar forms
+T7	protein 296 308	beta-amyloid
+T8	protein 311 316	Abeta
+T9	cell_type 500 509	microglia
+T10	protein 566 571	Abeta
+T11	cell_type 657 678	primary rat microglia
+T12	cell_line 683 703	human THP1 monocytes
+T13	protein 707 722	fibrillar Abeta
+T14	protein 738 753	tyrosine kinase
+T15	protein 846 899	mitogen-activated protein kinase ( MAPK ) superfamily
+T16	protein 902 907	Abeta
+T17	protein 955 994	extracellular signal-regulated kinase 1
+T18	protein 997 1001	ERK1
+T19	protein 1008 1012	ERK2
+T20	cell_type 1016 1025	microglia
+T21	protein 1030 1034	ERK2
+T22	cell_line 1038 1052	THP1 monocytes
+T23	protein 1064 1082	superfamily member
+T24	protein 1085 1093	p38 MAPK
+T25	protein 1139 1157	Scavenger receptor
+T26	protein 1162 1205	receptor for advanced glycated end products
+T27	protein 1208 1212	RAGE
+T28	protein 1242 1245	ERK
+T29	protein 1250 1258	p38 MAPK
+T30	protein 1356 1375	scavenger receptors
+T31	protein 1380 1384	RAGE
+T32	protein 1438 1470	stress-activated protein kinases
+T33	protein 1473 1478	SAPKs
+T34	protein 1529 1534	Abeta
+T35	protein 1607 1621	MAPKAP kinases
+T36	protein 1632 1636	RSK1
+T37	protein 1641 1645	RSK2
+T38	protein 1659 1680	transcription factors
+T39	cell_type 1695 1704	microglia
+T40	cell_line 1709 1723	THP1 monocytes
+T41	protein 1727 1732	Abeta
+T42	protein 1763 1767	RSK1
+T43	protein 1772 1776	RSK2
+T44	protein 1800 1837	cAMP response element-binding protein
+T45	protein 1876 1881	Abeta

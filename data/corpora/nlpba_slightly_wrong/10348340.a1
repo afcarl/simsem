@@ -1,0 +1,33 @@
+T1	protein 0 46	Human T-cell leukemia virus type 1 Tax protein
+T2	DNA 73 94	STAT1 and STAT5 genes
+T3	cell_type 98 105	T-cells
+T4	protein 108 157	Human T-cell leukemia virus type 1 ( HTLV-1 ) Tax
+T5	cell_type 176 183	T-cells
+T6	protein 203 224	interleukin ( IL ) -2
+T7	protein 236 240	STAT
+T8	protein 256 277	transcription factors
+T9	protein 397 402	STATs
+T10	cell_type 428 435	T-cells
+T11	cell_line 448 479	HTLV-1-transformed T-cell lines
+T12	RNA 508 535	STAT1 , STAT3 and STAT5 RNA
+T13	cell_type 554 576	virus-negative T cells
+T14	protein 597 602	STAT1
+T15	protein 607 612	STAT5
+T16	cell_line 618 635	human T-cell line
+T17	protein 651 654	Tax
+T18	protein 657 661	IL-2
+T19	protein 698 703	STAT3
+T20	protein 708 713	STAT5
+T21	protein 802 806	IL-2
+T22	protein 842 847	STAT3
+T23	protein 852 857	STAT5
+T24	RNA 878 907	STAT1 , STAT3 and STAT5 mRNAs
+T25	protein 931 945	T-cell mitogen
+T26	cell_type 956 996	human peripheral blood mononuclear cells
+T27	protein 1041 1046	STAT1
+T28	protein 1051 1056	STAT5
+T29	protein 1060 1063	Tax
+T30	protein 1073 1081	cytokine
+T31	cell_type 1119 1126	T-cells
+T32	protein 1168 1172	IL-2
+T33	cell_type 1208 1215	T-cells

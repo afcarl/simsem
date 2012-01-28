@@ -1,0 +1,15 @@
+T1	protein 13 63	transcriptionally active human TATA binding factor
+T2	protein 66 90	Transcription factor IID
+T3	protein 93 98	TFIID
+T4	DNA 114 139	TATA box promoter element
+T5	DNA 177 193	eukaryotic genes
+T6	protein 209 226	RNA polymerase II
+T7	DNA 229 246	Complementary DNA
+T8	DNA 249 253	cDNA
+T9	protein 267 286	human TFIID protein
+T10	protein 309 332	human TFIID polypeptide
+T11	protein 400 433	carboxyl-terminal 181 amino acids
+T12	protein 441 460	human TFIID protein
+T13	protein 491 496	TFIID
+T14	protein 541 555	amino terminus
+T15	protein 627 643	X-Thr-Pro repeat

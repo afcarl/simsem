@@ -1,0 +1,17 @@
+T1	protein 4 14	C-terminus
+T2	protein 22 38	B cell activator
+T3	protein 39 44	Oct-2
+T4	protein 61 78	activation domain
+T5	protein 90 95	Oct-1
+T6	protein 100 105	Oct-2
+T7	protein 116 142	transcriptional activators
+T8	DNA 309 327	lacZ reporter gene
+T9	protein 338 343	Oct-2
+T10	protein 362 385	Oct-2 C-terminal domain
+T11	protein 398 403	Oct-1
+T12	protein 406 412	Oct1.2
+T13	protein 420 452	nonactivating DNA-binding domain
+T14	protein 458 462	GAL4
+T15	protein 573 583	C-terminus
+T16	protein 587 592	Oct-2
+T17	DNA 651 672	DNA-binding fragments

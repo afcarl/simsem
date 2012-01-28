@@ -1,0 +1,29 @@
+T1	protein 17 28	AP-1 family
+T2	protein 47 82	nuclear factor of activated T cells
+T3	protein 85 120	Nuclear factor of activated T cells
+T4	protein 123 128	NF-AT
+T5	protein 136 161	transcriptional activator
+T6	protein 191 195	IL-2
+T7	protein 239 244	NF-AT
+T8	DNA 277 286	-285/-254
+T9	DNA 294 316	IL-2 regulatory region
+T10	protein 338 343	NF-AT
+T11	cell_type 422 429	T cells
+T12	protein 435 447	AP-1 protein
+T13	protein 470 491	NF-AT protein complex
+T14	DNA 535 544	AP-1 site
+T15	protein 565 570	NF-AT
+T16	protein 591 596	NF-AT
+T17	protein 620 640	immobilized anti-Jun
+T18	protein 645 653	anti-Fos
+T19	protein 676 681	NF-AT
+T20	cell_type 725 742	activated T cells
+T21	protein 800 819	Jun/Fos heterodimer
+T22	protein 822 826	AP-1
+T23	protein 836 841	NF-AT
+T24	DNA 861 875	NF-AT sequence
+T25	protein 913 920	Jun/Fos
+T26	DNA 928 941	AP-1 sequence
+T27	protein 963 967	AP-1
+T28	protein 983 988	NF-AT
+T29	protein 1018 1023	NF-AT

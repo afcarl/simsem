@@ -1,0 +1,23 @@
+T1	DNA 2 17	conserved motif
+T2	DNA 25 34	promoters
+T3	protein 46 55	cytokines
+T4	cell_line 69 95	human Th2-type lymphocytes
+T5	DNA 129 144	conserved motif
+T6	DNA 152 161	promoters
+T7	protein 173 199	T-cell-expressed cytokines
+T8	protein 202 239	human interleukin-2 , -4 , -5 and -13
+T9	protein 244 308	human and mouse granulocyte/macrophage-colony stimulating factor
+T10	protein 311 317	GM-CSF
+T11	DNA 338 351	core sequence
+T12	DNA 403 424	palindromic sequences
+T13	protein 497 517	trans-acting factors
+T14	DNA 549 569	human GM-CSF element
+T15	DNA 622 635	reporter gene
+T16	cell_line 643 660	human T cell line
+T17	cell_line 661 670	Jurkat J6
+T18	DNA 973 978	genes
+T19	DNA 985 999	core sequences
+T20	DNA 1110 1117	element
+T21	DNA 1146 1177	T-cell-expressed cytokine genes
+T22	protein 1237 1246	cytokines
+T23	cell_type 1250 1264	T helper cells

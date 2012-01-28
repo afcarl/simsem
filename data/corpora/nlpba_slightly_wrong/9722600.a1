@@ -1,0 +1,30 @@
+T1	protein 14 17	E2F
+T2	protein 45 91	human T-cell leukemia virus type I Tax protein
+T3	cell_line 97 132	p16 ( INK4A ) -negative T-cell line
+T4	protein 331 342	Tax protein
+T5	protein 446 462	tumor suppressor
+T6	protein 463 476	p16 ( INK4A )
+T7	protein 494 497	Tax
+T8	protein 561 564	E2F
+T9	protein 682 685	Tax
+T10	protein 704 707	E2F
+T11	protein 749 762	p16 ( INK4A )
+T12	protein 779 782	Tax
+T13	protein 807 812	E2F-1
+T14	protein 813 833	transcription factor
+T15	cell_line 837 848	CEM T-cells
+T16	protein 876 889	p16 ( INK4A )
+T17	protein 920 923	E2F
+T18	DNA 1002 1019	E2F binding sites
+T19	DNA 1079 1096	E2F-binding sites
+T20	protein 1113 1116	Tax
+T21	DNA 1158 1168	E2F-1 gene
+T22	protein 1184 1187	Tax
+T23	protein 1225 1228	ATF
+T24	DNA 1233 1262	NF-kappaB-dependent promoters
+T25	DNA 1277 1299	5 ' truncation mutants
+T26	DNA 1307 1321	E2F-1 promoter
+T27	protein 1341 1344	Tax
+T28	DNA 1387 1396	E2F1 gene
+T29	DNA 1431 1447	ATF binding site
+T30	DNA 1463 1477	E2F-1 promoter

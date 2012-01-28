@@ -1,0 +1,32 @@
+T1	RNA 24 59	c-fos , c-jun , and NF kappa B mRNA
+T2	cell_type 66 93	nucleated fetal blood cells
+T3	protein 115 120	c-fos
+T4	protein 125 130	c-jun
+T5	protein 136 144	anti-CD3
+T6	cell_type 159 189	Fetal and neonatal lymphocytes
+T7	protein 233 241	cytokine
+T8	protein 286 310	T-cell antigen receptors
+T9	protein 314 321	lectins
+T10	protein 536 571	transcriptional regulatory elements
+T11	protein 613 634	reverse transcriptase
+T12	protein 743 764	transcription factors
+T13	protein 799 804	c-jun
+T14	protein 807 812	c-fos
+T15	protein 819 829	NF kappa B
+T16	protein 832 843	p50 subunit
+T17	RNA 868 873	mRNAs
+T18	cell_type 933 950	fetal blood cells
+T19	cell_type 1021 1061	term infant cord blood mononuclear cells
+T20	protein 1067 1097	anti-CD3 monoclonal antibodies
+T21	protein 1132 1137	c-jun
+T22	RNA 1148 1153	mRNAs
+T23	protein 1208 1212	IL-2
+T24	cell_line 1216 1264	anti-CD3-stimulated cord blood mononuclear cells
+T25	cell_type 1297 1310	control cells
+T26	cell_type 1342 1369	fetal nucleated blood cells
+T27	protein 1413 1421	cytokine
+T28	RNA 1492 1497	mRNAs
+T29	protein 1531 1539	anti-CD3
+T30	cell_type 1649 1666	fetal blood cells
+T31	protein 1721 1742	transcription factors
+T32	DNA 1750 1763	IL-2 promoter

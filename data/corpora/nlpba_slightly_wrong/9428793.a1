@@ -1,0 +1,27 @@
+T1	DNA 48 67	G0/G1 switch gene 2
+T2	DNA 70 74	G0S2
+T3	cell_line 80 118	cultured human blood mononuclear cells
+T4	protein 203 248	calcium- and calmodulin-dependent phosphatase
+T5	protein 249 260	calcineurin
+T6	DNA 297 309	target genes
+T7	protein 328 400	NFAT ( nuclear factor of activated T cells ) transcription factor family
+T8	DNA 415 427	target genes
+T9	protein 449 462	interleukin-2
+T10	protein 465 468	IL2
+T11	protein 475 483	cytokine
+T12	protein 560 563	IL2
+T13	DNA 633 652	NFAT-sensitive gene
+T14	DNA 675 698	human G0/G1 switch gene
+T15	DNA 701 705	G0S2
+T16	DNA 722 740	NFAT-binding sites
+T17	DNA 748 757	5 ' flank
+T18	protein 772 808	small basic potential phosphoprotein
+T19	DNA 918 922	G0S2
+T20	cell_line 951 983	cultured blood mononuclear cells
+T21	RNA 1032 1041	G0S2 mRNA
+T22	DNA 1131 1140	G0S genes
+T23	RNA 1302 1311	G0S2 mRNA
+T24	DNA 1537 1541	G0S2
+T25	DNA 1699 1703	G0S2
+T26	DNA 1772 1776	G0S2
+T27	cell_type 1917 1928	lymphocytes

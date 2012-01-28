@@ -1,0 +1,18 @@
+T1	protein 66 77	interleukin
+T2	protein 86 97	interleukin
+T3	protein 139 153	Interleukin-12
+T4	protein 156 161	IL-12
+T5	cell_type 203 236	uncommitted T helper ( TH ) cells
+T6	protein 308 313	IL-10
+T7	protein 655 660	IL-12
+T8	protein 663 666	p70
+T9	protein 673 678	IL-10
+T10	protein 796 801	IL-12
+T11	protein 910 915	IL-10
+T12	protein 968 973	IL-12
+T13	protein 1164 1169	IL-12
+T14	protein 1324 1329	IL-10
+T15	protein 1371 1376	IL-12
+T16	protein 1380 1385	IL-10
+T17	protein 1514 1538	beta-adrenergic receptor
+T18	protein 1807 1819	TH2 cytokine

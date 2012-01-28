@@ -1,0 +1,16 @@
+T1	protein 0 24	Glucocorticoid receptors
+T2	cell_line 54 86	human clonal monocytic cell line
+T3	cell_line 89 94	CM-SM
+T4	cell_line 97 102	CM-SM
+T5	cell_line 108 119	clonal line
+T6	cell_type 123 161	human precursor mononuclear phagocytes
+T7	cell_type 175 185	macrophage
+T8	cell_line 573 578	CM-SM
+T9	cell_line 673 678	CM-SM
+T10	cell_line 1220 1235	cell population
+T11	cell_line 1290 1305	untreated cells
+T12	cell_line 1308 1325	DEX-treated cells
+T13	cell_type 1514 1524	macrophage
+T14	protein 1584 1601	lysosomal enzymes
+T15	protein 1604 1623	Fc and C3 receptors
+T16	cell_type 1810 1820	macrophage

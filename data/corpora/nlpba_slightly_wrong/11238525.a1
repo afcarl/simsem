@@ -1,0 +1,43 @@
+T1	protein 15 36	nuclear factor-kappaB
+T2	protein 56 72	inhibitor kappaB
+T3	protein 315 336	nuclear factor kappaB
+T4	protein 339 347	NFkappaB
+T5	cell_type 353 378	mononuclear cells ( MNC )
+T6	protein 406 427	intranuclear NFkappaB
+T7	protein 436 453	cellular NFkappaB
+T8	protein 456 490	inhibitor kappaB ( IkappaB ) alpha
+T9	protein 542 562	p47 ( phox ) subunit
+T10	protein 592 643	nicotinamide adenine dinucleotide phosphate oxidase
+T11	cell_type 649 652	MNC
+T12	protein 655 698	Plasma tumor necrosis factor ( TNF ) -alpha
+T13	protein 701 742	soluble intercellular adhesion molecule-1
+T14	protein 745 752	sICAM-1
+T15	protein 757 801	monocyte chemoattractant protein-1 ( MCP-1 )
+T16	protein 804 842	plasminogen activator inhibitor type 1
+T17	protein 845 850	PAI-1
+T18	protein 855 881	C-reactive protein ( CRP )
+T19	protein 888 910	interleukin ( IL ) -10
+T20	protein 913 938	antiinflammatory cytokine
+T21	protein 1039 1084	proinflammatory transcription factor NFkappaB
+T22	cell_type 1244 1247	MNC
+T23	protein 1283 1304	intranuclear NFkappaB
+T24	protein 1313 1330	cellular NFkappaB
+T25	protein 1333 1345	IkappaBalpha
+T26	protein 1352 1372	p47 ( phox ) subunit
+T27	protein 1455 1463	TNFalpha
+T28	protein 1466 1471	sICAM
+T29	protein 1474 1479	MCP-1
+T30	protein 1482 1487	PAI-1
+T31	protein 1490 1493	CRP
+T32	protein 1500 1505	IL-10
+T33	protein 1741 1762	intranuclear NFkappaB
+T34	protein 1771 1788	cellular NFkappaB
+T35	protein 1795 1815	p47 ( phox ) subunit
+T36	protein 1847 1859	IkappaBalpha
+T37	cell_type 1950 1953	MNC
+T38	protein 2032 2041	TNF-alpha
+T39	protein 2044 2051	sICAM-1
+T40	protein 2054 2059	MCP-1
+T41	protein 2066 2071	PAI-1
+T42	protein 2125 2130	IL-10
+T43	protein 2179 2189	plasma CRP

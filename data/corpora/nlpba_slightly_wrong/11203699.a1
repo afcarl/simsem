@@ -1,0 +1,30 @@
+T1	DNA 29 47	stem cell promoter
+T2	DNA 56 77	murine CBFalpha2 gene
+T3	cell_type 113 138	natural killer and T cell
+T4	protein 157 189	Runt family transcription factor
+T5	protein 190 199	CBFalpha2
+T6	protein 202 206	AML1
+T7	protein 209 220	PEBP2alphaB
+T8	protein 226 231	Runx1
+T9	cell_type 249 273	hematopoietic stem cells
+T10	cell_type 306 321	T-lineage cells
+T11	cell_type 327 340	human T cells
+T12	protein 341 350	CBFalpha2
+T13	DNA 381 399	different promoter
+T14	DNA 402 417	distal promoter
+T15	cell_type 428 441	myeloid cells
+T16	DNA 444 461	proximal promoter
+T17	DNA 588 618	coding and noncoding sequences
+T18	DNA 626 640	distal 5 ' end
+T19	DNA 674 700	human and the murine genes
+T20	DNA 711 726	distal promoter
+T21	cell_type 806 830	hematopoietic stem cells
+T22	cell_type 845 852	T cells
+T23	DNA 1027 1052	distal N-terminal isoform
+T24	DNA 1085 1101	regulatory sites
+T25	DNA 1113 1125	target genes
+T26	DNA 1174 1201	proximal N-terminal isoform
+T27	DNA 1212 1231	full-length isoform
+T28	cell_line 1251 1268	myeloid cell line
+T29	DNA 1315 1331	proximal isoform
+T30	cell_type 1468 1479	neutrophils

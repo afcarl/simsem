@@ -1,0 +1,22 @@
+T1	RNA 60 90	PML/RAR alpha or AML1/ETO mRNA
+T2	cell_type 118 153	possible T and natural killer cells
+T3	protein 277 290	PML/RAR alpha
+T4	protein 294 302	AML1/ETO
+T5	cell_type 341 359	lymphocyte subsets
+T6	RNA 649 673	PML/RAR alpha transcript
+T7	RNA 709 728	AML1/ETO transcript
+T8	cell_type 748 768	T lymphocyte subsets
+T9	cell_type 773 781	NK cells
+T10	protein 1163 1166	CD4
+T11	protein 1171 1174	CD8
+T12	protein 1181 1185	CD56
+T13	cell_type 1199 1205	T-cell
+T14	cell_type 1210 1224	natural killer
+T15	cell_type 1227 1231	T/NK
+T16	protein 1335 1338	CD8
+T17	protein 1341 1345	CD28
+T18	cell_type 1406 1418	T/NK subsets
+T19	cell_type 1573 1611	CD4+ , CD8+ and CD56+ cell populations
+T20	cell_type 1772 1789	T/NK-cell subsets
+T21	cell_type 1892 1901	T/NK-cell
+T22	cell_type 2083 2093	T/NK cells

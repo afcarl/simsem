@@ -1,0 +1,19 @@
+T1	protein 50 54	CD40
+T2	DNA 128 152	hepatitis B virus genome
+T3	protein 193 197	CD40
+T4	cell_type 220 231	lymphocytes
+T5	cell_type 258 267	monocytes
+T6	DNA 343 357	SP II promoter
+T7	RNA 361 369	HBV mRNA
+T8	DNA 393 399	X gene
+T9	cell_type 509 545	T and , to a lesser extent , B cells
+T10	protein 583 587	CD40
+T11	cell_line 591 615	T and B cell co-cultures
+T12	DNA 790 796	X gene
+T13	protein 829 841	CD40 antigen
+T14	cell_line 891 901	CD40 cells
+T15	cell_line 916 942	resting B-cell preparation
+T16	cell_type 1109 1118	monocytes
+T17	cell_type 1282 1299	human lymphocytes
+T18	cell_type 1342 1349	T cells
+T19	protein 1361 1373	CD40 antigen

@@ -1,0 +1,34 @@
+T1	protein 0 25	Transcription factor AP-2
+T2	DNA 68 78	HTLV-I LTR
+T3	DNA 104 123	regulatory elements
+T4	DNA 133 153	21 base pair repeats
+T5	protein 215 237	transactivator protein
+T6	protein 238 241	tax
+T7	DNA 275 288	21 bp repeats
+T8	protein 379 382	tax
+T9	DNA 400 406	A site
+T10	DNA 414 426	21 bp repeat
+T11	DNA 473 486	binding sites
+T12	protein 495 520	transcription factor AP-2
+T13	RNA 544 553	AP-2 mRNA
+T14	cell_type 569 582	T-lymphocytes
+T15	cell_type 651 664	T-lymphocytes
+T16	DNA 691 706	consensus motif
+T17	protein 711 715	AP-2
+T18	protein 757 761	AP-2
+T19	DNA 787 797	HTLV-I LTR
+T20	DNA 827 836	AP-2 cDNA
+T21	protein 953 978	bacterially produced AP-2
+T22	DNA 1034 1047	21 bp repeats
+T23	DNA 1075 1088	core sequence
+T24	protein 1128 1132	AP-2
+T25	protein 1184 1199	CREB/ATF family
+T26	DNA 1206 1231	adjacent regulatory motif
+T27	DNA 1239 1251	21 bp repeat
+T28	DNA 1273 1298	AP-2 expression construct
+T29	cell_type 1304 1317	T-lymphocytes
+T30	DNA 1353 1363	HTLV-I LTR
+T31	DNA 1379 1392	21 bp repeats
+T32	protein 1426 1430	AP-2
+T33	DNA 1465 1497	AP-2 consensus binding sequences
+T34	DNA 1505 1518	21 bp repeats

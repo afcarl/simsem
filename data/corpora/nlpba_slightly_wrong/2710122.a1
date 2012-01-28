@@ -1,0 +1,15 @@
+T1	DNA 65 84	functional elements
+T2	DNA 92 127	immunoglobulin heavy-chain promoter
+T3	DNA 130 162	Immunoglobulin heavy-chain genes
+T4	DNA 175 202	conserved sequence elements
+T5	DNA 337 366	normal cell-specific promoter
+T6	protein 423 490	ubiquitous and lymphoid-cell-specific octamer transcription factors
+T7	protein 493 498	OTF-1
+T8	protein 503 508	OTF-2
+T9	DNA 569 596	conserved sequence elements
+T10	protein 614 646	homo- or heterodimeric complexes
+T11	DNA 793 808	octamer element
+T12	protein 844 847	OTF
+T13	DNA 869 886	heptamer sequence
+T14	DNA 985 1003	2 or 14 base pairs
+T15	protein 1153 1157	OTFs

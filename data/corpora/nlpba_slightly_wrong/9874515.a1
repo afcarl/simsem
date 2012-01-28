@@ -1,0 +1,19 @@
+T1	protein 28 43	cellular factor
+T2	DNA 69 83	HIV-1 promoter
+T3	cell_line 109 146	non-irradiated transfected cell lines
+T4	DNA 290 303	reporter gene
+T5	protein 331 351	extracellular factor
+T6	cell_line 370 417	X-ray-treated human colonic carcinoma cell line
+T7	cell_line 420 424	HT29
+T8	DNA 446 466	long terminal repeat
+T9	DNA 469 472	LTR
+T10	cell_line 487 512	non-irradiated HT29 cells
+T11	cell_line 576 605	stably transfected cell lines
+T12	DNA 639 648	HIV-1 LTR
+T13	protein 675 701	kappaB regulatory elements
+T14	cell_type 811 831	non-irradiated cells
+T15	cell_line 842 861	X-ray-treated cells
+T16	cell_line 897 916	irradiated cultures
+T17	DNA 1010 1019	HIV-1 LTR
+T18	cell_line 1057 1067	cell lines
+T19	protein 1200 1214	growth factors

@@ -1,0 +1,30 @@
+T1	protein 20 56	myeloid-specific zinc finger protein
+T2	protein 59 64	MZF-2
+T3	protein 140 161	transcription factors
+T4	protein 164 197	Human myeloid zinc finger protein
+T5	protein 200 205	MZF-1
+T6	protein 254 269	13 zinc fingers
+T7	cell_type 332 357	neutrophilic granulocytes
+T8	DNA 398 420	murine and human cDNAs
+T9	protein 450 461	MZF protein
+T10	protein 464 469	MZF-2
+T11	protein 474 505	Murine and human MZF-2 proteins
+T12	protein 607 622	C-terminal half
+T13	protein 626 637	human MZF-2
+T14	protein 653 672	zinc finger domains
+T15	protein 713 724	human MZF-1
+T16	protein 739 754	N-terminal half
+T17	protein 758 763	MZF-2
+T18	protein 817 822	MZF-1
+T19	DNA 851 856	exons
+T20	RNA 859 869	MZF-2 mRNA
+T21	cell_type 946 966	neutrophilic lineage
+T22	protein 991 996	G-CSF
+T23	RNA 1013 1034	MZF-1 and MZF-2 mRNAs
+T24	DNA 1095 1125	transcription initiation sites
+T25	protein 1141 1156	N-terminal half
+T26	protein 1160 1165	MZF-2
+T27	protein 1205 1224	leucine-rich domain
+T28	protein 1232 1235	LeR
+T29	protein 1243 1256	acidic domain
+T30	protein 1295 1300	MZF-2

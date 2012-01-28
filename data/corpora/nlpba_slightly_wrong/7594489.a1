@@ -1,0 +1,52 @@
+T1	protein 14 34	complement receptors
+T2	protein 35 38	CR1
+T3	protein 41 45	CD35
+T4	protein 52 55	CR3
+T5	protein 58 68	CD11b/CD18
+T6	protein 104 114	NF-kappa B
+T7	protein 117 124	p50/p65
+T8	cell_type 130 145	human monocytes
+T9	cell_type 180 208	HIV-infected monocytic cells
+T10	cell_type 211 231	Monocyte/macrophages
+T11	protein 387 396	cytokines
+T12	protein 405 414	TNF-alpha
+T13	protein 448 457	TNF-alpha
+T14	protein 526 549	DNA-binding heterodimer
+T15	protein 550 560	NF-kappa B
+T16	protein 563 570	p50/p65
+T17	DNA 617 641	HIV-long terminal repeat
+T18	protein 694 714	complement receptors
+T19	protein 715 718	CR1
+T20	protein 721 725	CD35
+T21	protein 732 735	CR3
+T22	protein 738 748	CD11b/CD18
+T23	cell_line 781 815	HIV-infected human monocytic cells
+T24	cell_line 818 838	Monocytic cell lines
+T25	protein 954 976	F ( ab ' ) 2 fragments
+T26	protein 980 999	monoclonal anti-CR1
+T27	protein 1003 1015	anti-CR3 Abs
+T28	protein 1024 1036	C3 fragments
+T29	protein 1054 1057	CR1
+T30	protein 1061 1064	CR3
+T31	protein 1147 1153	p24 Ag
+T32	cell_line 1157 1170	cell cultures
+T33	cell_line 1211 1227	control cultures
+T34	protein 1289 1292	CR1
+T35	protein 1296 1299	CR3
+T36	protein 1337 1347	NF-kappa B
+T37	protein 1348 1355	p50/p65
+T38	cell_type 1359 1373	infected cells
+T39	protein 1393 1403	NF-kappa B
+T40	protein 1404 1411	p50/p65
+T41	protein 1455 1458	CR1
+T42	protein 1462 1465	CR3
+T43	cell_type 1469 1506	uninfected peripheral blood monocytes
+T44	protein 1634 1645	rhTNF-alpha
+T45	protein 1648 1657	TNF-alpha
+T46	protein 1695 1705	NF-kappa B
+T47	protein 1706 1713	p50/p65
+T48	protein 1739 1759	complement receptors
+T49	cell_type 1851 1869	infected monocytes
+T50	protein 1908 1938	complement-opsonized particles
+T51	protein 1994 2005	C3 receptor
+T52	protein 2045 2063	NF-kappa B complex

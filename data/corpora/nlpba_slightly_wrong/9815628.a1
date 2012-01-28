@@ -1,0 +1,16 @@
+T1	protein 29 55	c-fos-positive lymphocytes
+T2	DNA 182 187	C-fos
+T3	DNA 223 244	immediate early genes
+T4	DNA 349 354	c-fos
+T5	DNA 496 501	c-fos
+T6	DNA 643 648	c-fos
+T7	protein 1219 1232	streptoavidin
+T8	protein 1233 1251	-biotin peroxidase
+T9	cell_type 1509 1539	tumor-infiltrating lymphocytes
+T10	protein 1587 1613	c-fos-positive lymphocytes
+T11	protein 1932 1958	c-fos-positive lymphocytes
+T12	protein 2251 2277	c-fos-positive lymphocytes
+T13	protein 2453 2458	c-fos
+T14	cell_type 2466 2496	tumor-infiltrating lymphocytes
+T15	cell_type 2553 2574	activated lymphocytes
+T16	cell_type 2614 2626	cancer cells

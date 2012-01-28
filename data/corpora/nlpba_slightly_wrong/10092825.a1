@@ -1,0 +1,24 @@
+T1	cell_type 54 74	apoptotic leukocytes
+T2	cell_type 143 154	neutrophils
+T3	cell_type 165 175	leukocytes
+T4	cell_type 386 420	human monocyte-derived macrophages
+T5	cell_type 615 636	apoptotic neutrophils
+T6	cell_type 707 728	apoptotic neutrophils
+T7	protein 759 782	glucocorticoid receptor
+T8	cell_type 865 887	opsonized erythrocytes
+T9	cell_type 1013 1024	eosinophils
+T10	cell_line 1029 1043	Jurkat T cells
+T11	cell_type 1063 1084	apoptotic neutrophils
+T12	cell_type 1100 1110	phagocytes
+T13	cell_type 1113 1145	human glomerular mesangial cells
+T14	cell_line 1150 1162	murine M phi
+T15	cell_type 1295 1316	apoptotic neutrophils
+T16	protein 1352 1362	chemokines
+T17	protein 1363 1367	IL-8
+T18	protein 1372 1406	monocyte chemoattractant protein-1
+T19	cell_line 1486 1523	maturing human monocyte-derived M phi
+T20	cell_line 1558 1563	M phi
+T21	cell_type 1574 1589	apoptotic cells
+T22	cell_line 1676 1681	M phi
+T23	cell_type 1744 1764	apoptotic leukocytes
+T24	cell_type 1768 1778	phagocytes

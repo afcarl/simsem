@@ -1,0 +1,23 @@
+T1	protein 18 43	helix-loop-helix proteins
+T2	protein 46 49	E2A
+T3	protein 54 57	Id3
+T4	protein 67 70	Ras
+T5	protein 73 76	ERK
+T6	protein 77 81	MAPK
+T7	protein 106 138	mitogen-activated protein kinase
+T8	protein 141 145	MAPK
+T9	cell_type 256 277	developing thymocytes
+T10	protein 284 324	basic helix-loop-helix ( bHLH ) proteins
+T11	protein 325 328	E12
+T12	protein 333 336	E47
+T13	protein 344 365	inhibitor HLH protein
+T14	protein 368 371	Id3
+T15	protein 438 441	E2A
+T16	cell_type 468 495	primary immature thymocytes
+T17	RNA 614 629	Id3 transcripts
+T18	protein 674 677	TCR
+T19	protein 799 802	ERK
+T20	protein 805 809	MAPK
+T21	protein 859 862	ERK
+T22	protein 863 867	MAPK
+T23	protein 880 892	HLH proteins

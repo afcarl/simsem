@@ -1,0 +1,39 @@
+T1	protein 58 69	collagenase
+T2	protein 85 96	collagenase
+T3	protein 99 104	MMP-1
+T4	protein 111 128	metalloproteinase
+T5	cell_type 141 172	resident and inflammatory cells
+T6	protein 217 240	type I collagen fibrils
+T7	protein 314 332	fibrillar collagen
+T8	protein 380 391	collagenase
+T9	protein 509 520	collagenase
+T10	cell_type 535 546	macrophages
+T11	cell_type 566 576	fibroblast
+T12	protein 577 588	collagenase
+T13	protein 638 649	collagenase
+T14	DNA 752 771	cis-acting elements
+T15	DNA 779 799	collagenase promoter
+T16	cell_line 827 882	human ( U937 ) and murine ( J774 ) monocytic cell lines
+T17	DNA 938 960	5 ' -flanking sequence
+T18	DNA 968 988	collagenase promoter
+T19	DNA 1161 1202	polyoma enhancer A-binding protein-3 site
+T20	DNA 1205 1215	-83 to -91
+T21	DNA 1222 1235	TTCA sequence
+T22	DNA 1238 1250	-102 to -105
+T23	cell_type 1261 1276	monocytic cells
+T24	cell_type 1281 1292	fibroblasts
+T25	DNA 1314 1347	activator protein-1 [ AP-1 ] site
+T26	DNA 1351 1354	-72
+T27	DNA 1365 1379	basal promoter
+T28	DNA 1444 1463	NF-kappaB-like site
+T29	cell_type 1525 1546	zymosan-treated cells
+T30	protein 1561 1565	AP-1
+T31	protein 1634 1648	AP-1 complexes
+T32	DNA 1688 1713	jun and fos gene families
+T33	protein 1777 1781	AP-1
+T34	protein 1792 1813	nuclear factor-kappaB
+T35	protein 1842 1853	collagenase
+T36	cell_type 1871 1891	macrophagelike cells
+T37	protein 1953 1964	collagenase
+T38	cell_type 1978 1993	monocytic cells
+T39	DNA 2066 2093	upstream promoter sequences

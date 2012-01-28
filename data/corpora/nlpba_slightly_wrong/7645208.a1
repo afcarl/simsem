@@ -1,0 +1,39 @@
+T1	DNA 87 90	LTR
+T2	protein 95 108	tat mutations
+T3	cell_type 112 154	primary and long-term human lymphoid cells
+T4	protein 157 160	Tat
+T5	protein 177 195	regulatory protein
+T6	DNA 275 283	tat gene
+T7	cell_type 328 341	human T cells
+T8	protein 382 385	Tat
+T9	protein 398 414	elongation block
+T10	DNA 439 463	HIV long terminal repeat
+T11	DNA 466 469	LTR
+T12	cell_type 586 599	human T cells
+T13	protein 605 608	Tat
+T14	protein 641 644	Tat
+T15	protein 751 762	tat mutants
+T16	protein 779 797	stop codon mutants
+T17	protein 806 821	deletion mutant
+T18	DNA 828 866	replication-competent HIV-1 constructs
+T19	DNA 876 900	wild-type or mutant LTRs
+T20	DNA 927 962	NF-kappa B and/or Sp1 binding sites
+T21	DNA 1010 1024	wild-type LTRs
+T22	cell_line 1042 1052	HeLa cells
+T23	cell_line 1083 1093	HeLa cells
+T24	cell_type 1113 1141	peripheral blood lymphocytes
+T25	cell_type 1146 1157	macrophages
+T26	protein 1201 1212	Tat mutants
+T27	DNA 1224 1238	wild-type LTRs
+T28	protein 1275 1299	LTR-modified Tat mutants
+T29	RNA 1319 1328	viral RNA
+T30	protein 1396 1407	tat mutants
+T31	DNA 1421 1434	modified LTRs
+T32	protein 1481 1505	LTR-modified tat mutants
+T33	cell_line 1529 1548	lymphoid cell lines
+T34	protein 1648 1664	elongation block
+T35	protein 1667 1670	Tat
+T36	RNA 1725 1752	full-length HIV transcripts
+T37	DNA 1812 1825	viral genomes
+T38	protein 1933 1936	Tat
+T39	protein 2062 2065	Tat

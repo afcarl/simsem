@@ -1,0 +1,19 @@
+T1	DNA 30 40	HTLV-I LTR
+T2	cell_type 66 79	human T cells
+T3	protein 90 111	HTLV-I viral proteins
+T4	DNA 118 127	promoters
+T5	DNA 135 163	adenovirus 2 major late gene
+T6	DNA 170 192	mouse beta-globin gene
+T7	DNA 199 227	mouse immunoglobulin VH gene
+T8	DNA 236 239	LTR
+T9	cell_line 376 380	HeLa
+T10	cell_line 383 387	CESS
+T11	cell_line 390 438	Epstein-Barr virus-transformed human B cell line
+T12	cell_line 443 447	MT-1
+T13	cell_line 450 483	HTLV-I-infected human T cell line
+T14	cell_line 524 528	MT-2
+T15	cell_line 531 564	HTLV-I-infected human T cell line
+T16	protein 575 589	viral proteins
+T17	DNA 594 597	LTR
+T18	cell_line 648 652	MT-2
+T19	DNA 848 858	HTLV-I LTR

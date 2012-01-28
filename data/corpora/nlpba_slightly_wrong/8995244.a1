@@ -1,0 +1,28 @@
+T1	protein 8 28	transcription factor
+T2	protein 57 86	vacuolar H+-ATPase B2 subunit
+T3	DNA 95 105	AP-2 sites
+T4	protein 213 231	vacuolar H+-ATPase
+T5	protein 234 242	V-ATPase
+T6	protein 332 342	B2 subunit
+T7	protein 350 358	V-ATPase
+T8	DNA 415 437	5'-untranslated region
+T9	DNA 445 452	B2 gene
+T10	DNA 475 498	consensus binding sites
+T11	protein 507 528	transcription factors
+T12	protein 529 533	AP-2
+T13	protein 538 541	Sp1
+T14	DNA 614 636	AP-2 binding sequences
+T15	DNA 688 699	B2 promoter
+T16	protein 752 756	AP-2
+T17	cell_line 784 789	THP-1
+T18	DNA 841 852	B2 promoter
+T19	protein 884 898	nuclear factor
+T20	cell_line 904 909	THP-1
+T21	cell_line 914 925	U-937 cells
+T22	DNA 963 985	AP-2 response elements
+T23	DNA 997 1008	B2 promoter
+T24	protein 1035 1050	AP-2 antibodies
+T25	DNA 1063 1075	DNA sequence
+T26	protein 1119 1123	AP-2
+T27	protein 1162 1192	AP-2-like transcription factor
+T28	protein 1212 1230	V-ATPase B subunit

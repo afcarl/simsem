@@ -1,0 +1,42 @@
+T1	DNA 4 21	peri-kappa B site
+T2	DNA 31 75	human immunodeficiency virus type 2 enhancer
+T3	cell_type 90 99	monocytes
+T4	cell_type 111 118	T cells
+T5	DNA 454 478	enhancer/promoter region
+T6	DNA 563 577	HIV-1 enhancer
+T7	protein 650 670	transcription factor
+T8	protein 671 681	NF-kappa B
+T9	DNA 698 711	kappa B sites
+T10	DNA 719 745	HIV-1 long terminal repeat
+T11	DNA 766 780	HIV-2 enhancer
+T12	cell_type 784 793	monocytes
+T13	cell_type 798 805	T cells
+T14	DNA 827 846	cis-acting elements
+T15	DNA 858 870	kappa B site
+T16	DNA 877 902	purine-rich binding sites
+T17	DNA 905 909	PuB1
+T18	DNA 914 918	PuB2
+T19	DNA 927 936	pets site
+T20	DNA 970 988	cis-acting element
+T21	DNA 1000 1014	HIV-2 enhancer
+T22	DNA 1045 1057	kappa B site
+T23	DNA 1071 1083	peri-kappa B
+T24	DNA 1239 1253	HIV-2 enhancer
+T25	cell_line 1290 1299	monocytic
+T26	cell_line 1308 1320	T-cell lines
+T27	DNA 1359 1381	HIV-2 enhancer element
+T28	DNA 1443 1459	enhancer element
+T29	protein 1505 1519	nuclear factor
+T30	cell_type 1536 1562	peripheral blood monocytes
+T31	cell_type 1567 1574	T cells
+T32	DNA 1585 1602	peri-kappa B site
+T33	cell_type 1705 1714	monocytes
+T34	cell_type 1722 1729	T cells
+T35	DNA 1767 1783	enhancer element
+T36	cell_type 1823 1832	monocytes
+T37	cell_type 1837 1844	T cells
+T38	DNA 1940 1957	peri-kappa B site
+T39	cell_type 1969 1978	monocytes
+T40	protein 2105 2124	peri-kappa B factor
+T41	cell_type 2180 2189	monocytes
+T42	cell_type 2194 2201	T cells

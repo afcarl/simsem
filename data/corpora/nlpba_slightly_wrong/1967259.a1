@@ -1,0 +1,32 @@
+T1	protein 0 30	Anti-Ro ( SSA ) autoantibodies
+T2	DNA 51 77	T cell receptor beta genes
+T3	protein 241 255	autoantibodies
+T4	protein 279 300	HLA class II antigens
+T5	protein 305 319	autoantibodies
+T6	protein 327 345	ribonucleoproteins
+T7	protein 346 356	Ro ( SSA )
+T8	protein 361 371	La ( SSB )
+T9	protein 419 441	HLA class II molecules
+T10	protein 461 477	T cell receptors
+T11	protein 480 484	TCRs
+T12	DNA 512 520	TCR gene
+T13	protein 555 581	anti-Ro ( SSA ) antibodies
+T14	DNA 594 635	restriction fragment length polymorphisms
+T15	DNA 638 643	RFLPs
+T16	DNA 679 707	TCR constant region C beta 1
+T17	DNA 729 742	C beta 2 gene
+T18	DNA 839 853	TCR beta locus
+T19	DNA 861 870	RFLP pair
+T20	protein 903 913	Ro ( SSA )
+T21	protein 942 952	Ro ( SSA )
+T22	protein 980 990	La ( SSB )
+T23	protein 991 1002	precipitins
+T24	protein 1048 1059	precipitins
+T25	DNA 1161 1166	RFLPs
+T26	DNA 1245 1254	TCR genes
+T27	protein 1304 1330	anti-Ro ( SSA ) antibodies
+T28	DNA 1373 1378	RFLPs
+T29	protein 1383 1404	HLA class II antigens
+T30	protein 1442 1452	Ro ( SSA )
+T31	DNA 1538 1548	loci occur
+T32	protein 1564 1574	Ro ( SSA )

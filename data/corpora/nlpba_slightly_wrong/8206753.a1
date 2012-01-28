@@ -1,0 +1,37 @@
+T1	cell_type 248 254	T cell
+T2	protein 273 295	interleukin-2 receptor
+T3	protein 298 303	IL-2R
+T4	protein 356 360	IL-2
+T5	cell_type 370 376	T cell
+T6	protein 493 504	IL-2R alpha
+T7	protein 507 510	Tac
+T8	protein 513 516	p55
+T9	protein 519 523	CD25
+T10	DNA 530 548	beta ( p75 ) genes
+T11	cell_type 552 569	activated T cells
+T12	cell_type 593 600	T cells
+T13	protein 626 644	phytohemagglutinin
+T14	protein 647 652	PHA-p
+T15	protein 769 780	IL-2R alpha
+T16	protein 805 815	IL-2R beta
+T17	cell_type 848 855	T cells
+T18	protein 924 935	IL-2R alpha
+T19	protein 940 950	IL-2R beta
+T20	protein 1008 1030	recombinant human IL-2
+T21	protein 1033 1039	rhIL-2
+T22	protein 1107 1118	IL-2R alpha
+T23	protein 1126 1136	IL-2R beta
+T24	cell_type 1184 1210	mitogen-stimulated T cells
+T25	protein 1261 1272	IL-2R alpha
+T26	DNA 1339 1354	IL-2R beta gene
+T27	protein 1411 1422	IL-2R alpha
+T28	protein 1528 1538	NF-kappa B
+T29	protein 1545 1565	transcription factor
+T30	protein 1582 1593	IL-2R alpha
+T31	cell_type 1660 1666	T cell
+T32	RNA 1671 1686	NF-kappa B mRNA
+T33	protein 1785 1801	nuclear proteins
+T34	DNA 1828 1844	NF-kappa B sites
+T35	cell_type 1848 1865	activated T cells
+T36	cell_type 1918 1924	T cell
+T37	protein 1948 1953	IL-2R

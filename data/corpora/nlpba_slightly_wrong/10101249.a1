@@ -1,0 +1,13 @@
+T1	protein 0 18	Vitamin D receptor
+T2	DNA 19 41	3'-untranslated region
+T3	DNA 132 163	vitamin D receptor ( VDR ) gene
+T4	protein 333 344	VDR protein
+T5	protein 537 540	VDR
+T6	DNA 541 547	3'-UTR
+T7	DNA 720 737	sequence variants
+T8	DNA 889 919	message-destabilizing elements
+T9	DNA 946 952	3'-UTR
+T10	RNA 960 983	vitamin D receptor mRNA
+T11	DNA 1008 1018	VDR 3'-UTR
+T12	DNA 1068 1106	heterologous beta-globin reporter gene
+T13	DNA 1191 1201	VDR 3'-UTR

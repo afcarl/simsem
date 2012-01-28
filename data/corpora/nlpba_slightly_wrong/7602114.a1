@@ -1,0 +1,38 @@
+T1	protein 22 25	Jak
+T2	protein 26 33	-STAT 1
+T3	protein 55 59	IL-5
+T4	cell_type 63 74	eosinophils
+T5	protein 118 122	IL-5
+T6	cell_type 126 137	eosinophils
+T7	protein 238 241	Jak
+T8	protein 242 247	-STAT
+T9	protein 263 267	IL-5
+T10	cell_type 300 311	Eosinophils
+T11	protein 403 407	IL-5
+T12	protein 429 434	Jak 2
+T13	protein 551 556	Jak 2
+T14	protein 599 624	immunoprecipitated kinase
+T15	protein 627 632	Jak 2
+T16	cell_type 700 711	eosinophils
+T17	protein 717 721	IL-5
+T18	protein 738 762	immunoprecipitated Jak 2
+T19	cell_line 777 798	IL-5-stimulated cells
+T20	protein 831 836	Jak 2
+T21	protein 881 894	IL-5 receptor
+T22	protein 938 944	kinase
+T23	protein 969 990	nuclear factor STAT-1
+T24	protein 993 996	p91
+T25	protein 1097 1103	STAT-1
+T26	protein 1149 1153	IL-5
+T27	protein 1184 1190	STAT-1
+T28	protein 1268 1272	IL-5
+T29	DNA 1312 1337	gamma-activating sequence
+T30	protein 1362 1376	anti-STAT-1 Ab
+T31	protein 1435 1439	IL-5
+T32	protein 1454 1459	Jak 2
+T33	protein 1460 1467	-STAT 1
+T34	cell_type 1489 1500	eosinophils
+T35	protein 1525 1530	Jak 2
+T36	protein 1531 1538	-STAT 1
+T37	DNA 1584 1604	IL-5-inducible genes
+T38	cell_type 1608 1619	eosinophils

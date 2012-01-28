@@ -1,0 +1,16 @@
+T1	protein 27 60	interleukin-12 receptor component
+T2	cell_type 64 86	human T helper 1 cells
+T3	protein 89 103	Interleukin-12
+T4	protein 106 111	IL-12
+T5	protein 118 140	heterodimeric cytokine
+T6	protein 230 255	interferon ( IFN ) -gamma
+T7	cell_type 292 336	IFN-gamma-producing T helper 1 ( Th1 ) cells
+T8	protein 361 401	IL-12 receptor ( IL-12R ) beta 2 subunit
+T9	protein 422 462	binding and signal transducing component
+T10	protein 470 476	IL-12R
+T11	cell_line 495 523	human Th1 but not Th2 clones
+T12	cell_type 565 582	human naive cells
+T13	protein 623 628	IL-12
+T14	protein 633 667	type I but not type II interferons
+T15	protein 693 712	IL-12R beta 2 chain
+T16	protein 835 856	IL-12R beta 2 subunit

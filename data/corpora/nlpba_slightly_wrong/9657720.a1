@@ -1,0 +1,11 @@
+T1	protein 31 68	granulocyte-colony-stimulating factor
+T2	protein 149 186	granulocyte-colony-stimulating factor
+T3	protein 189 194	G-CSF
+T4	cell_type 273 287	cultured cells
+T5	protein 295 300	G-CSF
+T6	protein 349 376	multiple signaling proteins
+T7	cell_type 392 424	primary murine bone marrow cells
+T8	cell_type 433 454	granulocytic colonies
+T9	cell_type 483 510	peripheral blood neutrophil
+T10	protein 560 581	murine G-CSF receptor
+T11	protein 664 693	oligomerizing receptor chains

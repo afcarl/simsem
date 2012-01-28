@@ -1,0 +1,22 @@
+T1	protein 0 11	ras protein
+T2	protein 38 61	T-cell antigen receptor
+T3	cell_line 89 106	Jurkat cell model
+T4	DNA 131 177	interleukin-2 promoter/reporter gene construct
+T5	protein 195 211	antigen receptor
+T6	protein 244 254	lymphokine
+T7	protein 255 268	interleukin-1
+T8	protein 342 358	protein kinase C
+T9	protein 361 364	PKC
+T10	protein 515 518	PKC
+T11	protein 580 593	interleukin-1
+T12	protein 606 609	ras
+T13	protein 655 658	PKC
+T14	protein 692 719	T-cell transcription factor
+T15	protein 720 725	NF-AT
+T16	protein 730 760	dominant inhibitory ras mutant
+T17	protein 825 828	ras
+T18	protein 854 870	antigen receptor
+T19	protein 913 916	PKC
+T20	protein 940 943	ras
+T21	protein 998 1001	ras
+T22	protein 1014 1017	PKC

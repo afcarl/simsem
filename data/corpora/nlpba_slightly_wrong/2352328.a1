@@ -1,0 +1,52 @@
+T1	protein 0 36	Epstein-Barr virus nuclear antigen 2
+T2	protein 52 75	latent membrane protein
+T3	protein 76 80	LMP1
+T4	protein 149 193	Epstein-Barr virus ( EBV ) nuclear antigen 2
+T5	protein 196 202	EBNA-2
+T6	protein 208 222	leader protein
+T7	protein 225 232	EBNA-LP
+T8	protein 261 298	EBV latent infection membrane protein
+T9	protein 299 303	LMP1
+T10	protein 384 390	EBNA-2
+T11	DNA 408 466	simian virus 40 or Moloney murine leukemia virus promoters
+T12	protein 489 493	LMP1
+T13	cell_line 508 549	P3HR-1-infected Burkitt 's lymphoma cells
+T14	cell_line 558 564	P3HR-1
+T15	cell_line 568 583	Daudi cell line
+T16	protein 624 631	EBNA-LP
+T17	protein 655 659	LMP1
+T18	protein 708 714	EBNA-2
+T19	protein 725 729	LMP1
+T20	protein 751 755	LMP1
+T21	cell_line 770 775	Daudi
+T22	cell_line 780 801	P3HR-1-infected cells
+T23	RNA 824 828	mRNA
+T24	protein 841 847	EBNA-2
+T25	cell_line 862 873	Daudi cells
+T26	RNA 884 893	LMP1 mRNA
+T27	DNA 912 921	EBV genes
+T28	protein 940 946	EBNA-2
+T29	protein 966 970	LMP1
+T30	DNA 995 1032	recombinant EBNA-2 expression vectors
+T31	DNA 1045 1063	LMP1 DNA fragments
+T32	protein 1073 1077	LMP1
+T33	cell_line 1096 1130	EBV-negative B-lymphoma cell lines
+T34	cell_line 1131 1135	BJAB
+T35	cell_line 1138 1145	Louckes
+T36	cell_line 1152 1156	BL30
+T37	DNA 1168 1193	EBNA-2-responsive element
+T38	DNA 1215 1235	-512 to +40 LMP1 DNA
+T39	DNA 1263 1310	chloramphenicol acetyltransferase reporter gene
+T40	DNA 1356 1380	EBNA-2 expression vector
+T41	protein 1405 1411	EBNA-2
+T42	protein 1427 1431	LMP1
+T43	protein 1447 1464	EBV type 1 EBNA-2
+T44	protein 1500 1506	EBNA-2
+T45	protein 1580 1584	LMP1
+T46	DNA 1597 1644	transformation-competent EBNA-2 deletion mutant
+T47	protein 1663 1667	LMP1
+T48	protein 1670 1674	LMP1
+T49	protein 1756 1762	EBNA-2
+T50	protein 1812 1818	EBNA-2
+T51	protein 1838 1842	LMP1
+T52	protein 1878 1884	EBNA-2

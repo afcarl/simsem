@@ -1,0 +1,17 @@
+T1	DNA 108 133	HIV-2 transactivator gene
+T2	DNA 314 342	transactivator ( IE-2 ) gene
+T3	DNA 483 497	HIV-2 tat gene
+T4	cell_type 552 574	human CD4+ lymphocytes
+T5	DNA 597 612	HIV-1 tat genes
+T6	protein 617 634	T-cell activators
+T7	DNA 687 705	CMV transactivator
+T8	DNA 730 739	HIV-2 tat
+T9	protein 743 760	T-cell activators
+T10	DNA 861 880	CMV transactivators
+T11	DNA 1002 1020	CMV transactivator
+T12	RNA 1097 1108	transcripts
+T13	protein 1159 1174	transactivators
+T14	DNA 1211 1237	HIV-2 long terminal repeat
+T15	DNA 1240 1243	LTR
+T16	cell_type 1312 1334	human CD4+ lymphocytes
+T17	DNA 1388 1410	HIV-2 enhancer element

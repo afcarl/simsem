@@ -1,0 +1,37 @@
+T1	DNA 26 60	endogenous Ig heavy chain enhancer
+T2	cell_type 69 80	lymphocytes
+T3	protein 86 126	ubiquitously active transcription factor
+T4	DNA 133 157	transcriptional enhancer
+T5	DNA 193 235	immunoglobulin heavy chain constant region
+T6	DNA 292 312	immunoglobulin genes
+T7	DNA 326 335	enhancers
+T8	DNA 342 365	Ig heavy chain enhancer
+T9	DNA 389 404	sequence motifs
+T10	protein 415 445	specific transcription factors
+T11	DNA 453 465	binding site
+T12	DNA 509 517	enhancer
+T13	DNA 621 655	Ig heavy chain enhancer components
+T14	DNA 697 714	sequence elements
+T15	DNA 759 776	E3 enhancer motif
+T16	protein 795 826	ubiquitous transcription factor
+T17	cell_type 869 876	B cells
+T18	cell_type 881 892	non-B cells
+T19	DNA 1027 1052	transfected reporter gene
+T20	DNA 1102 1136	endogenous Ig heavy chain enhancer
+T21	cell_type 1140 1158	non-lymphoid cells
+T22	protein 1262 1269	NF-muE3
+T23	cell_type 1288 1295	B cells
+T24	cell_type 1307 1318	non-B cells
+T25	cell_type 1472 1485	B lymphocytes
+T26	protein 1494 1515	cell-specific factors
+T27	protein 1524 1530	Oct-2A
+T28	protein 1535 1541	Oct-2B
+T29	protein 1598 1616	ubiquitous factors
+T30	protein 1625 1635	NF-kappa B
+T31	cell_type 1670 1677	B cells
+T32	protein 1741 1768	ubiquitously active factors
+T33	DNA 1809 1826	E3 sequence motif
+T34	DNA 1937 1971	endogenous Ig heavy chain enhancer
+T35	cell_type 1975 1986	non-B cells
+T36	DNA 2021 2030	chromatin
+T37	DNA 2048 2068	Ig heavy chain locus

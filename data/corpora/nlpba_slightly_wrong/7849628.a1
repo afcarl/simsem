@@ -1,0 +1,36 @@
+T1	cell_line 107 117	K562 cells
+T2	DNA 154 164	c-myb gene
+T3	cell_line 197 206	K562 cell
+T4	protein 218 223	hemin
+T5	protein 226 228	Hm
+T6	protein 235 249	erythropoietin
+T7	protein 252 255	Epo
+T8	DNA 275 294	recombinant plasmid
+T9	RNA 314 331	antisense myb RNA
+T10	protein 391 393	Hm
+T11	cell_line 396 406	K562 cells
+T12	RNA 432 442	c-myb mRNA
+T13	protein 482 492	hemoglobin
+T14	protein 495 497	Hb
+T15	RNA 516 533	antisense myb RNA
+T16	RNA 556 566	c-myb mRNA
+T17	cell_line 591 612	Hb-synthesizing cells
+T18	protein 656 659	Epo
+T19	RNA 662 672	c-myb mRNA
+T20	cell_line 694 704	K562 cells
+T21	protein 717 719	Hb
+T22	RNA 734 751	antisense myb RNA
+T23	RNA 813 823	c-myb mRNA
+T24	protein 841 843	Hm
+T25	RNA 908 918	c-myb mRNA
+T26	RNA 930 947	antisense myb RNA
+T27	protein 970 972	Hm
+T28	RNA 1014 1024	c-myb mRNA
+T29	cell_line 1028 1038	K562 cells
+T30	protein 1089 1092	Epo
+T31	RNA 1109 1120	GATA-1 mRNA
+T32	protein 1148 1150	Hm
+T33	protein 1199 1202	Epo
+T34	protein 1252 1254	Hm
+T35	protein 1310 1313	Epo
+T36	cell_line 1342 1352	K562 cells

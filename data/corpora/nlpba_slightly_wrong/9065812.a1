@@ -1,0 +1,11 @@
+T1	DNA 46 72	upstream regulatory region
+T2	DNA 80 102	estrogen receptor gene
+T3	cell_line 109 144	ER-negative breast cancer cell line
+T4	protein 179 196	estrogen receptor
+T5	protein 199 201	ER
+T6	protein 406 408	ER
+T7	DNA 409 435	upstream regulatory region
+T8	cell_line 445 462	ER-positive MCF-7
+T9	cell_line 471 518	ER-negative MDA-MB-231 breast cancer cell lines
+T10	protein 587 589	ER
+T11	protein 770 773	CAT

@@ -1,0 +1,19 @@
+T1	cell_type 35 71	activated cord and adult lymphocytes
+T2	cell_type 346 414	in-vitro-stimulated normal adult peripheral blood lymphocyte samples
+T3	cell_type 441 459	Lymphocyte samples
+T4	protein 490 516	mitogen phytohemagglutinin
+T5	protein 519 522	PHA
+T6	protein 552 560	alphaCD3
+T7	protein 700 703	PHA
+T8	protein 708 716	alphaCD3
+T9	RNA 884 889	c-fos
+T10	RNA 934 984	c-jun ( 123+/-9 and 185+/-38 % , p = 0.0291 ) mRNA
+T11	protein 1038 1046	alphaCD3
+T12	DNA 1131 1136	c-fos
+T13	DNA 1141 1146	c-jun
+T14	protein 1191 1194	PHA
+T15	cell_type 1215 1230	cord lymphocyte
+T16	protein 1317 1320	PHA
+T17	DNA 1335 1340	c-fos
+T18	DNA 1356 1361	c-jun
+T19	cell_type 1401 1416	cord lymphocyte

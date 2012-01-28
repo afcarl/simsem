@@ -1,0 +1,28 @@
+T1	cell_type 49 85	naive and memory human T lymphocytes
+T2	protein 120 141	polyclonal antibodies
+T3	protein 159 202	activator protein-1 transcriptional complex
+T4	protein 270 289	activator protein-1
+T5	protein 402 421	activator protein-1
+T6	DNA 469 478	IL-2 gene
+T7	cell_type 513 549	naive and memory human T lymphocytes
+T8	cell_type 620 659	purified peripheral blood T lymphocytes
+T9	cell_type 693 707	adherent cells
+T10	cell_type 710 749	peripheral blood human T ( PB-T ) cells
+T11	protein 876 883	Ig FITC
+T12	protein 1118 1122	IL-2
+T13	cell_type 1175 1204	CD28/CD3-costimulated T cells
+T14	protein 1228 1232	IL-2
+T15	cell_type 1261 1265	CD4+
+T16	cell_type 1268 1272	CD4-
+T17	cell_type 1275 1282	CD45RO+
+T18	cell_type 1289 1296	CD45RO-
+T19	protein 1301 1305	IL-2
+T20	cell_type 1362 1372	PB-T cells
+T21	cell_type 1429 1453	CD45RO+ and CD4+ subsets
+T22	protein 1463 1467	IL-2
+T23	cell_type 1490 1500	PB-T cells
+T24	protein 1555 1585	c-Fos and c-Jun family members
+T25	protein 1663 1667	IL-2
+T26	protein 1900 1905	c-Fos
+T27	protein 1910 1915	c-Jun
+T28	DNA 1953 1962	IL-2 gene

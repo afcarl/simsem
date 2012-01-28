@@ -1,0 +1,40 @@
+T1	protein 0 13	Interleukin 4
+T2	protein 61 91	transcription ( Stat ) protein
+T3	DNA 116 162	interferon-gamma activation site-like sequence
+T4	DNA 179 193	I epsilon exon
+T5	cell_line 199 216	human B cell line
+T6	protein 251 265	Janus kinase 3
+T7	protein 270 288	interleukin-4 Stat
+T8	RNA 291 314	Germ line C transcripts
+T9	protein 333 337	IL-4
+T10	cell_line 345 362	human B cell line
+T11	cell_line 365 369	BL-2
+T12	DNA 384 435	IFN-gamma activation site-like DNA sequence element
+T13	DNA 460 474	I epsilon exon
+T14	protein 527 531	IL-4
+T15	cell_line 589 599	BL-2 cells
+T16	protein 629 637	IL-4 NAF
+T17	protein 640 679	IL-4-induced nuclear-activating factors
+T18	protein 706 729	tyrosine phosphoprotein
+T19	protein 788 792	IL-4
+T20	protein 848 913	signal transducer and activator of transcription ( Stat ) protein
+T21	protein 938 965	antibodies to Stat proteins
+T22	protein 1020 1043	antibodies to IL-4 Stat
+T23	protein 1060 1065	Stat6
+T24	protein 1076 1086	antibodies
+T25	protein 1096 1109	Stat proteins
+T26	protein 1148 1164	IL-4 NAF complex
+T27	protein 1203 1215	Stat protein
+T28	protein 1218 1222	IL-4
+T29	protein 1238 1252	Janus kinase 3
+T30	protein 1255 1259	JAK3
+T31	cell_line 1274 1284	BL-2 cells
+T32	protein 1305 1309	JAK3
+T33	protein 1315 1324	IL-4 Stat
+T34	cell_line 1330 1341	COS-7 cells
+T35	DNA 1398 1437	IFN-gamma activation site-like sequence
+T36	protein 1458 1466	IL-4 NAF
+T37	protein 1533 1541	IL-4 NAF
+T38	protein 1545 1554	IL-4 Stat
+T39	protein 1579 1583	JAK3
+T40	protein 1599 1603	IL-4

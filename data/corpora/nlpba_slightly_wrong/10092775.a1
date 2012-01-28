@@ -1,0 +1,38 @@
+T1	cell_type 58 74	CD34+ progenitor
+T2	cell_type 194 229	pluripotent hemopoietic progenitors
+T3	cell_type 233 248	dendritic cells
+T4	cell_type 251 253	DC
+T5	protein 310 326	protein kinase C
+T6	protein 329 332	PKC
+T7	cell_line 423 471	primary human CD34+ hemopoietic progenitor cells
+T8	cell_line 474 477	HPC
+T9	cell_type 483 492	mature DC
+T10	cell_line 579 582	HPC
+T11	protein 650 653	PKC
+T12	cell_line 744 753	CD34+ HPC
+T13	cell_type 759 761	DC
+T14	cell_line 855 885	CD34+ myelomonocytic cell line
+T15	cell_line 886 889	KG1
+T16	protein 946 972	granulocyte-macrophage CSF
+T17	protein 978 987	TNF-alpha
+T18	protein 1052 1061	TNF-alpha
+T19	cell_type 1145 1147	DC
+T20	cell_line 1167 1191	KG1 dendritic-like cells
+T21	cell_type 1213 1235	loosely adherent cells
+T22	protein 1268 1271	MHC
+T23	protein 1276 1279	MHC
+T24	protein 1302 1306	CD14
+T25	protein 1337 1341	RelB
+T26	cell_type 1346 1348	DC
+T27	cell_type 1383 1385	DC
+T28	cell_type 1478 1493	resting T cells
+T29	cell_line 1510 1513	KG1
+T30	cell_line 1521 1550	PMA-unresponsive subline KG1a
+T31	protein 1588 1609	TNF receptors 1 and 2
+T32	protein 1612 1658	PKC isoforms alpha , beta I , beta II , and mu
+T33	protein 1665 1669	RelB
+T34	cell_type 1732 1734	DC
+T35	cell_line 1837 1840	KG1
+T36	cell_line 1855 1870	human CD34+ HPC
+T37	cell_type 1874 1876	DC
+T38	cell_type 1979 1981	DC

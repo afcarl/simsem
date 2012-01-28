@@ -1,0 +1,71 @@
+T1	protein 37 40	p50
+T2	protein 43 46	p52
+T3	protein 53 57	RelB
+T4	cell_type 70 91	human accessory cells
+T5	protein 129 152	Rel/NF-kappa B proteins
+T6	protein 155 158	p50
+T7	protein 161 164	p52
+T8	protein 167 170	p65
+T9	protein 173 178	c-Rel
+T10	protein 185 189	RelB
+T11	protein 215 236	transcription factors
+T12	protein 358 362	RelB
+T13	cell_type 385 400	dendritic cells
+T14	cell_type 403 405	DC
+T15	protein 431 434	p50
+T16	cell_type 457 483	follicular dendritic cells
+T17	cell_type 486 489	FDC
+T18	protein 509 519	NF-kappa B
+T19	cell_type 550 568	mature macrophages
+T20	protein 615 638	Rel/NF-kappa B proteins
+T21	protein 648 663	nuclear factors
+T22	cell_type 680 695	accessory cells
+T23	protein 785 808	Rel/NF-kappa B proteins
+T24	cell_type 812 827	accessory cells
+T25	protein 1005 1008	p65
+T26	protein 1013 1018	c-Rel
+T27	cell_type 1067 1078	lymphocytes
+T28	protein 1106 1109	p50
+T29	protein 1112 1115	p52
+T30	protein 1122 1126	RelB
+T31	cell_type 1155 1158	FDC
+T32	cell_line 1203 1214	CD68+ cells
+T33	protein 1235 1238	p50
+T34	protein 1241 1244	p52
+T35	protein 1251 1255	RelB
+T36	cell_line 1284 1297	HLA-DR+ cells
+T37	protein 1351 1354	p52
+T38	protein 1359 1363	RelB
+T39	cell_line 1400 1405	CD1a+
+T40	cell_line 1410 1421	CD68+ cells
+T41	protein 1453 1456	p50
+T42	cell_line 1475 1496	CD68- and CD1a- cells
+T43	protein 1518 1521	p50
+T44	protein 1544 1548	CD38
+T45	protein 1551 1555	CD20
+T46	protein 1560 1571	CD2 markers
+T47	protein 1644 1647	p50
+T48	protein 1650 1653	p52
+T49	protein 1658 1662	RelB
+T50	cell_type 1681 1696	accessory cells
+T51	cell_type 1734 1737	FDC
+T52	cell_type 1750 1752	DC
+T53	cell_type 1807 1828	scavenger macrophages
+T54	cell_type 1834 1836	GC
+T55	protein 1870 1873	p52
+T56	protein 1878 1882	RelB
+T57	cell_type 1893 1904	macrophages
+T58	cell_type 1960 1967	T cells
+T59	protein 1991 1994	p52
+T60	protein 1999 2003	RelB
+T61	protein 2036 2039	p52
+T62	protein 2044 2048	RelB
+T63	cell_line 2079 2084	CD1a+
+T64	cell_line 2087 2092	CD68+
+T65	cell_type 2109 2112	APC
+T66	protein 2123 2126	p50
+T67	cell_type 2144 2149	CD1a-
+T68	cell_type 2154 2163	CD68- APC
+T69	protein 2192 2195	p50
+T70	protein 2198 2201	p52
+T71	protein 2206 2210	RelB

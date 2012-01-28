@@ -1,0 +1,8 @@
+T1	protein 108 117	NF-kappaB
+T2	protein 136 145	NF-kappaB
+T3	protein 157 167	chemokines
+T4	protein 301 310	NF-kappaB
+T5	protein 363 376	IkappaB-alpha
+T6	protein 900 913	IkappaB-alpha
+T7	protein 932 941	NF-kappaB
+T8	cell_type 1407 1430	lung lavage neutrophils

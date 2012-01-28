@@ -1,0 +1,26 @@
+T1	cell_type 14 35	human monocytic cells
+T2	protein 39 95	Treponema pallidum and Borrelia burgdorferi lipoproteins
+T3	protein 230 240	NF-kappa B
+T4	protein 277 289	lipoproteins
+T5	protein 619 654	purified native B. burgdorferi OspA
+T6	protein 680 684	OspA
+T7	protein 687 691	OspB
+T8	protein 702 726	T. pallidum lipoproteins
+T9	protein 729 734	Tpp47
+T10	protein 739 744	Tpp17
+T11	protein 759 769	NF-kappa B
+T12	cell_type 787 815	THP-1 human monocytoid cells
+T13	protein 831 835	OspA
+T14	cell_line 957 987	70Z/3-derived pre-B-cell lines
+T15	protein 1017 1027	human CD14
+T16	protein 1034 1046	LPS receptor
+T17	protein 1086 1096	human CD14
+T18	protein 1139 1143	OspA
+T19	protein 1147 1171	spirochetal lipopeptides
+T20	protein 1199 1209	NF-kappa B
+T21	protein 1228 1252	surface immunoglobulin M
+T22	protein 1316 1340	T. pallidum lipoproteins
+T23	protein 1367 1377	NF-kappa B
+T24	protein 1382 1390	cytokine
+T25	cell_type 1405 1414	monocytes
+T26	protein 1785 1809	spirochetal lipoproteins

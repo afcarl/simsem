@@ -1,0 +1,18 @@
+T1	protein 38 64	retinoid receptor RXRalpha
+T2	cell_type 79 98	human T lymphocytes
+T3	RNA 135 152	5.4-kilobase mRNA
+T4	cell_type 216 256	human peripheral blood mononuclear cells
+T5	cell_type 259 264	PBMCs
+T6	RNA 408 415	5 ' end
+T7	RNA 424 427	RNA
+T8	RNA 431 468	human retinoid receptor RXRalpha mRNA
+T9	DNA 515 528	3.6 kilobases
+T10	RNA 564 571	3 ' end
+T11	RNA 575 588	RXRalpha mRNA
+T12	cell_type 659 664	PBMCs
+T13	protein 696 704	RXRalpha
+T14	RNA 782 795	RXRalpha mRNA
+T15	protein 1000 1008	RXRalpha
+T16	RNA 1150 1163	RXRalpha mRNA
+T17	protein 1308 1316	RXRalpha
+T18	protein 1426 1434	RXRalpha

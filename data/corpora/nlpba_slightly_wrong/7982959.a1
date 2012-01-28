@@ -1,0 +1,27 @@
+T1	protein 12 17	NFATp
+T2	DNA 21 77	cyclosporin A-sensitive tumor necrosis factor-alpha gene
+T3	DNA 98 144	tumor necrosis factor-alpha ( TNF alpha ) gene
+T4	cell_type 185 192	T cells
+T5	RNA 292 306	TNF alpha mRNA
+T6	cell_type 338 345	T cells
+T7	protein 384 395	calcineurin
+T8	DNA 482 498	promoter element
+T9	DNA 501 508	kappa 3
+T10	DNA 594 608	TNF alpha gene
+T11	cell_type 622 629	T cells
+T12	protein 663 685	kappa 3 binding factor
+T13	protein 695 700	NFATp
+T14	protein 705 746	cyclosporin-sensitive DNA-binding protein
+T15	DNA 760 778	interleukin-2 gene
+T16	protein 795 800	NFATp
+T17	DNA 831 846	kappa 3 element
+T18	protein 893 896	TNF
+T19	DNA 940 955	kappa 3 element
+T20	DNA 996 1015	NFATp-binding sites
+T21	DNA 1046 1084	cyclosporin-sensitive promoter element
+T22	cell_type 1088 1095	T cells
+T23	protein 1129 1134	NFATp
+T24	protein 1156 1161	NFATp
+T25	protein 1204 1217	interleukin-2
+T26	DNA 1222 1237	TNF alpha genes
+T27	DNA 1328 1342	cytokine genes

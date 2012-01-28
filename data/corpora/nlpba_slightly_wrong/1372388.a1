@@ -1,0 +1,36 @@
+T1	protein 2 39	lymphoid cell-specific nuclear factor
+T2	protein 51 70	c-Rel-like proteins
+T3	DNA 101 137	interleukin-6 kappa B-related motifs
+T4	cell_type 172 186	lymphoid cells
+T5	protein 193 216	proto-oncoprotein c-Rel
+T6	protein 236 286	nuclear factor kappa B transcription factor family
+T7	protein 308 311	p50
+T8	protein 316 328	p65 subunits
+T9	protein 332 354	nuclear factor kappa B
+T10	protein 375 380	c-Rel
+T11	DNA 390 403	kappa B sites
+T12	protein 407 417	homodimers
+T13	protein 429 441	heterodimers
+T14	protein 447 450	p50
+T15	protein 459 469	homodimers
+T16	protein 474 486	heterodimers
+T17	DNA 554 568	kappa B motifs
+T18	protein 591 606	c-Rel homodimer
+T19	protein 631 644	interleukin-6
+T20	protein 647 651	IL-6
+T21	DNA 658 687	beta interferon kappa B sites
+T22	protein 723 726	p50
+T23	protein 759 796	lymphoid cell-specific nuclear factor
+T24	protein 819 824	c-Rel
+T25	protein 833 845	p50 epitopes
+T26	protein 869 899	IL-6 kappa B binding factor II
+T27	protein 925 940	c-Rel homodimer
+T28	DNA 979 1014	IL-6 kappa B-related kappa B motifs
+T29	DNA 1064 1082	IL-6 kappa B motif
+T30	DNA 1105 1150	IL-1/tumor necrosis factor-responsive element
+T31	cell_type 1154 1171	nonlymphoid cells
+T32	cell_type 1216 1230	lymphoid cells
+T33	cell_line 1241 1259	Jurkat T-cell line
+T34	protein 1292 1322	IL-6 kappa B binding factor II
+T35	DNA 1361 1396	IL-6 kappa B-related kappa B motifs
+T36	cell_type 1400 1414	lymphoid cells

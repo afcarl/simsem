@@ -1,0 +1,29 @@
+T1	protein 0 29	Epstein-Barr virus SM protein
+T2	cell_line 169 174	B95-8
+T3	cell_line 179 190	Akata cells
+T4	protein 197 207	SM protein
+T5	protein 245 250	BSLF2
+T6	protein 254 259	BMLF1
+T7	protein 296 298	SM
+T8	protein 304 318	phosphoprotein
+T9	cell_type 326 341	-infected cells
+T10	protein 382 398	casein kinase II
+T11	protein 401 405	CKII
+T12	protein 435 445	SM protein
+T13	protein 464 482	C terminal section
+T14	protein 486 488	SM
+T15	protein 506 534	genome positional homologues
+T16	protein 576 596	consensus CKII sites
+T17	protein 606 615	N termini
+T18	protein 623 637	EBV SM protein
+T19	protein 644 686	herpes simplex virus ( HSV ) ICP27 protein
+T20	protein 695 752	herpesvirus saimiri ( HVS ) open reading frame 57 protein
+T21	DNA 788 807	consensus CKII site
+T22	protein 866 868	SM
+T23	protein 872 876	CKII
+T24	protein 915 929	BMLF1 proteins
+T25	protein 957 959	SM
+T26	DNA 1010 1032	CAT reporter construct
+T27	RNA 1061 1081	cytoplasmic CAT mRNA
+T28	protein 1103 1107	CKII
+T29	protein 1116 1118	SM

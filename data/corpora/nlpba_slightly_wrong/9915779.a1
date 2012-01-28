@@ -1,0 +1,30 @@
+T1	cell_line 95 121	cultured endothelial cells
+T2	protein 126 147	nuclear factor-kappaB
+T3	cell_line 180 218	human umbilical vein endothelial cells
+T4	cell_line 221 227	HUVECs
+T5	cell_type 318 321	PMN
+T6	cell_line 336 342	HUVECs
+T7	cell_line 447 453	HUVECs
+T8	cell_line 525 531	HUVECs
+T9	protein 562 583	nuclear factor kappaB
+T10	protein 586 595	NF-kappaB
+T11	protein 655 664	NF-kappaB
+T12	protein 678 688	proteasome
+T13	DNA 764 790	NF-kappaB binding sequence
+T14	cell_line 886 892	HUVECs
+T15	cell_line 968 974	HUVECs
+T16	protein 1075 1086	NO synthase
+T17	protein 1089 1092	NOS
+T18	cell_line 1216 1222	HUVECs
+T19	protein 1245 1256	NOS protein
+T20	protein 1272 1275	NOS
+T21	cell_type 1311 1328	nontolerant cells
+T22	protein 1376 1396	GTP-cyclohydrolase I
+T23	protein 1468 1471	NOS
+T24	cell_line 1539 1557	A/R-tolerant cells
+T25	cell_line 1729 1735	HUVECs
+T26	cell_line 1749 1768	A/R-tolerant HUVECs
+T27	protein 1785 1788	NOS
+T28	protein 2004 2013	NF-kappaB
+T29	cell_type 2068 2071	PMN
+T30	protein 2126 2144	GTP-cyclohydrolase

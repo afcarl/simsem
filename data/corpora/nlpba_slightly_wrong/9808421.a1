@@ -1,0 +1,18 @@
+T1	protein 13 40	oestrogen receptor variants
+T2	cell_type 85 119	peripheral blood mononuclear cells
+T3	protein 273 289	nuclear receptor
+T4	protein 292 294	ER
+T5	protein 324 326	ER
+T6	protein 424 426	ER
+T7	protein 755 757	ER
+T8	cell_type 870 904	peripheral blood mononuclear cells
+T9	protein 976 978	ER
+T10	protein 1115 1127	wild-type ER
+T11	protein 1132 1147	variant species
+T12	protein 1176 1178	ER
+T13	DNA 1197 1214	exons 2 , 5 and 7
+T14	DNA 1231 1237	exon 5
+T15	cell_type 1268 1302	peripheral blood mononuclear cells
+T16	DNA 1340 1353	exons 2 and 7
+T17	protein 1466 1468	ER
+T18	protein 1599 1601	ER

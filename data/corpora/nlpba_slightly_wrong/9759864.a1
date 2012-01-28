@@ -1,0 +1,40 @@
+T1	protein 0 40	Carboxyl-terminal 15-amino acid sequence
+T2	protein 44 50	NFATx1
+T3	cell_type 148 155	T cells
+T4	protein 158 162	NFAT
+T5	DNA 221 243	immunoregulatory genes
+T6	protein 263 268	NFATx
+T7	protein 307 318	NFAT family
+T8	protein 322 343	transcription factors
+T9	cell_type 394 421	peripheral blood leukocytes
+T10	protein 442 447	NFATx
+T11	protein 450 456	NFATx1
+T12	protein 519 540	carboxyl-terminal end
+T13	protein 544 550	NFATx1
+T14	cell_line 608 622	Jurkat T cells
+T15	protein 671 694	GAL4 DNA binding domain
+T16	DNA 750 771	GAL4 DNA binding site
+T17	protein 795 833	15-amino acid transactivation sequence
+T18	protein 855 875	NFAT family proteins
+T19	protein 919 944	carboxyl-terminal regions
+T20	protein 952 963	NFAT family
+T21	protein 1034 1039	NFATx
+T22	protein 1053 1059	NFATx2
+T23	protein 1062 1068	NFATx3
+T24	protein 1075 1081	NFATx4
+T25	protein 1183 1197	NFATx isoforms
+T26	cell_line 1247 1261	Jurkat T cells
+T27	protein 1264 1270	NFATx1
+T28	cell_type 1316 1342	peripheral blood leukocyte
+T29	protein 1391 1397	NFATx2
+T30	cell_line 1403 1415	Jurkat cells
+T31	DNA 1441 1450	NFAT site
+T32	DNA 1458 1471	IL-2 promoter
+T33	protein 1497 1503	NFATx1
+T34	protein 1523 1529	NFATx2
+T35	protein 1564 1586	15-amino acid sequence
+T36	protein 1590 1596	NFATx1
+T37	protein 1602 1632	major transactivation sequence
+T38	protein 1668 1674	NFATx1
+T39	cell_type 1678 1685	T cells
+T40	protein 1709 1713	NFAT

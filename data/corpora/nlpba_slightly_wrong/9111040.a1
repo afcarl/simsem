@@ -1,0 +1,30 @@
+T1	protein 19 25	NOTCH1
+T2	DNA 45 65	primary binding site
+T3	protein 70 80	RBP-Jkappa
+T4	protein 84 114	nuclear localization sequences
+T5	protein 152 162	RBP-Jkappa
+T6	protein 215 244	NOTCH1 transmembrane receptor
+T7	protein 284 290	NOTCH1
+T8	protein 445 451	NOTCH1
+T9	protein 532 552	extracellular domain
+T10	protein 555 561	DeltaE
+T11	protein 590 610	intracellular domain
+T12	protein 613 616	ICN
+T13	protein 695 705	RBP-Jkappa
+T14	protein 776 807	transcription factor RBP-Jkappa
+T15	cell_line 834 867	human and murine T-ALL cell lines
+T16	protein 929 952	RBP-Jkappa-binding site
+T17	protein 964 992	NOTCH1 ankyrin repeat region
+T18	protein 1000 1020	intracellular domain
+T19	protein 1058 1081	RBP-Jkappa-binding site
+T20	protein 1106 1126	intracellular domain
+T21	protein 1205 1215	RBP-Jkappa
+T22	protein 1291 1294	ICN
+T23	protein 1331 1337	DeltaE
+T24	protein 1551 1581	nuclear localization sequences
+T25	protein 1657 1678	membrane-bound DeltaE
+T26	protein 1731 1752	membrane-bound DeltaE
+T27	protein 1802 1818	intranuclear ICN
+T28	protein 1857 1863	NOTCH1
+T29	protein 1945 1955	RBP-Jkappa
+T30	DNA 1959 1973	promoter sites

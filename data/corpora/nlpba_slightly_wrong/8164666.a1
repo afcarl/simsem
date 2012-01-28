@@ -1,0 +1,31 @@
+T1	protein 44 64	transcription factor
+T2	protein 65 71	GATA-1
+T3	cell_type 75 106	differentiating erythroid cells
+T4	protein 113 145	zinc finger transcription factor
+T5	protein 146 152	GATA-1
+T6	cell_type 196 246	erythroid , megakaryocyte , and mast cell lineages
+T7	protein 249 255	GATA-1
+T8	DNA 265 288	WGATAR consensus motifs
+T9	DNA 296 314	regulatory regions
+T10	DNA 332 361	erythroid cell-specific genes
+T11	cell_line 378 392	cultured cells
+T12	protein 450 456	GATA-1
+T13	DNA 483 494	globin gene
+T14	DNA 569 580	GATA-1 gene
+T15	cell_type 584 604	embryonic stem cells
+T16	DNA 722 734	GATA element
+T17	DNA 742 757	distal promoter
+T18	protein 797 803	GATA-1
+T19	protein 839 845	GATA-1
+T20	protein 877 895	regulatory factors
+T21	protein 1018 1035	erythroid factors
+T22	DNA 1052 1063	GATA-1 gene
+T23	cell_type 1107 1123	proerythroblasts
+T24	cell_type 1128 1150	mature erythroid cells
+T25	protein 1230 1236	GATA-1
+T26	cell_type 1309 1324	erythroid cells
+T27	cell_line 1339 1374	GATA-1 -mutant embryonic stem cells
+T28	DNA 1418 1430	globin genes
+T29	cell_type 1434 1457	erythroid heterokaryons
+T30	protein 1497 1503	GATA-1
+T31	DNA 1524 1535	globin gene

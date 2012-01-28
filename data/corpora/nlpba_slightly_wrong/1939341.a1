@@ -1,0 +1,26 @@
+T1	DNA 117 122	c-fos
+T2	DNA 127 132	c-jun
+T3	DNA 135 139	AP-1
+T4	cell_type 190 218	human myeloid leukemia cells
+T5	DNA 349 385	c-jun and c-fos early response genes
+T6	cell_line 521 541	U-937 leukemia cells
+T7	cell_type 609 628	monocytic phenotype
+T8	RNA 680 724	lamin A , lamin C , and vimentin transcripts
+T9	DNA 824 829	c-jun
+T10	DNA 834 845	c-fos genes
+T11	cell_type 849 871	myeloid leukemia cells
+T12	protein 889 905	protein kinase C
+T13	protein 908 911	PKC
+T14	protein 990 993	PKC
+T15	protein 1076 1082	enzyme
+T16	DNA 1256 1261	c-jun
+T17	protein 1266 1271	c-fos
+T18	DNA 1521 1545	c-jun promoter fragments
+T19	DNA 1560 1606	chloramphenicol acetyltransferase ( CAT ) gene
+T20	protein 1622 1625	CAT
+T21	cell_line 1686 1709	TPA-treated U-937 cells
+T22	DNA 1764 1772	promoter
+T23	DNA 1791 1808	AP-1 binding site
+T24	protein 1829 1832	CAT
+T25	DNA 1965 1970	c-jun
+T26	DNA 2041 2050	AP-1 site

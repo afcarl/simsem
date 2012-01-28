@@ -1,0 +1,35 @@
+T1	protein 0 5	LMP-1
+T2	protein 16 26	NF-kappa B
+T3	protein 44 79	inhibitory molecule I kappa B alpha
+T4	protein 82 87	LMP-1
+T5	protein 93 128	Epstein-Barr virus membrane protein
+T6	cell_type 234 245	lymphocytes
+T7	cell_type 250 268	rodent fibroblasts
+T8	protein 271 276	LMP-1
+T9	DNA 303 307	bcl2
+T10	DNA 313 321	oncogene
+T11	protein 477 482	LMP-1
+T12	protein 548 553	LMP-1
+T13	protein 637 658	transcription factors
+T14	DNA 701 716	oncogenic genes
+T15	protein 719 729	NF-kappa B
+T16	protein 734 754	transcription factor
+T17	DNA 785 790	genes
+T18	protein 874 879	LMP-1
+T19	protein 980 990	NF-kappa B
+T20	cell_type 1042 1058	B-lymphoid cells
+T21	protein 1092 1097	LMP-1
+T22	protein 1100 1115	I kappa B alpha
+T23	cell_line 1143 1167	LMP-1-expressing B cells
+T24	protein 1195 1210	I kappa B alpha
+T25	protein 1279 1289	NF-kappa B
+T26	DNA 1357 1383	NF-kappa B-dependent-genes
+T27	protein 1411 1415	p105
+T28	protein 1420 1435	I kappa B alpha
+T29	DNA 1438 1442	MAD3
+T30	protein 1475 1480	LMP-1
+T31	protein 1491 1501	NF-kappa B
+T32	cell_line 1505 1517	B-cell lines
+T33	protein 1531 1546	I kappa B alpha
+T34	protein 1593 1598	LMP-1
+T35	protein 1647 1662	I kappa B alpha

@@ -1,0 +1,38 @@
+T1	cell_type 56 73	human neutrophils
+T2	protein 86 112	platelet activating factor
+T3	protein 117 121	FMLP
+T4	cell_type 139 156	human neutrophils
+T5	protein 162 178	chemoattractants
+T6	protein 179 183	FMLP
+T7	protein 187 213	platelet activating factor
+T8	protein 216 219	PAF
+T9	protein 408 411	PAF
+T10	protein 415 419	FMLP
+T11	protein 481 532	mitogen-activated protein kinase ( MAPk ) homologue
+T12	protein 533 556	38-kD murine MAP kinase
+T13	protein 571 589	HOG-1 ( p38 ) MAPk
+T14	protein 600 604	FMLP
+T15	protein 609 612	PAF
+T16	protein 623 646	c-jun NH2-terminal MAPk
+T17	protein 649 653	JNKs
+T18	protein 687 691	FMLP
+T19	protein 700 703	PAF
+T20	protein 730 749	p42/44 ( ERK ) MAPk
+T21	protein 768 772	FMLP
+T22	protein 777 810	PAF activated MAP kinase kinase-3
+T23	protein 813 817	MKK3
+T24	protein 843 851	p38 MAPk
+T25	protein 859 882	MAP ERK kinase kinase-1
+T26	protein 885 890	MEKK1
+T27	protein 897 900	Raf
+T28	protein 927 931	FMLP
+T29	protein 951 954	PAF
+T30	protein 957 972	Pertussis toxin
+T31	protein 981 985	FMLP
+T32	protein 1013 1032	p42/44 ( ERK ) MAPk
+T33	protein 1059 1067	p38 MAPk
+T34	protein 1081 1089	p38 MAPk
+T35	protein 1168 1172	FMLP
+T36	protein 1224 1227	PAF
+T37	protein 1231 1235	FMLP
+T38	protein 1317 1333	chemoattractants

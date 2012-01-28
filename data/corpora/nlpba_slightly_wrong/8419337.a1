@@ -1,0 +1,33 @@
+T1	DNA 15 28	Alu sequences
+T2	protein 85 96	gamma chain
+T3	protein 100 102	Fc
+T4	protein 107 123	T cell receptors
+T5	protein 130 156	Fc epsilon RI-gamma chains
+T6	cell_type 187 206	hematopoietic cells
+T7	protein 285 311	high affinity IgE receptor
+T8	cell_type 315 325	mast cells
+T9	cell_type 328 337	basophils
+T10	cell_type 340 356	Langerhans cells
+T11	protein 431 434	IgG
+T12	protein 437 451	Fc gamma RIIIA
+T13	protein 455 459	CD16
+T14	cell_type 473 485	killer cells
+T15	cell_type 490 501	macrophages
+T16	protein 520 543	T cell antigen receptor
+T17	cell_type 558 565	T cells
+T18	protein 632 643	gamma chain
+T19	DNA 666 687	2.5-kilobase sequence
+T20	DNA 756 764	promoter
+T21	cell_type 777 807	cells of hematopoietic lineage
+T22	DNA 851 859	promoter
+T23	cell_type 911 930	hematopoietic cells
+T24	protein 1010 1021	gamma chain
+T25	cell_type 1204 1213	basophils
+T26	cell_type 1218 1225	T cells
+T27	protein 1262 1277	nuclear factors
+T28	cell_type 1312 1321	basophils
+T29	cell_type 1326 1333	T cells
+T30	cell_type 1370 1379	basophils
+T31	cell_type 1405 1412	T cells
+T32	DNA 1427 1437	Alu repeat
+T33	DNA 1458 1481	Alu consensus sequences

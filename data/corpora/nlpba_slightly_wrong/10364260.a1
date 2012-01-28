@@ -1,0 +1,32 @@
+T1	cell_type 0 26	Human alveolar macrophages
+T2	protein 53 58	REF-1
+T3	protein 63 67	AP-1
+T4	cell_type 118 144	human alveolar macrophages
+T5	cell_type 177 191	precursor cell
+T6	cell_type 198 212	blood monocyte
+T7	cell_type 215 223	monocyte
+T8	cell_type 327 353	human alveolar macrophages
+T9	protein 369 373	AP-1
+T10	cell_type 552 572	alveolar macrophages
+T11	protein 588 592	AP-1
+T12	protein 683 703	FOS and JUN proteins
+T13	protein 721 725	AP-1
+T14	protein 805 820	nuclear protein
+T15	protein 823 828	REF-1
+T16	protein 847 851	AP-1
+T17	protein 896 899	FOS
+T18	protein 904 916	JUN proteins
+T19	cell_type 924 944	alveolar macrophages
+T20	cell_type 959 968	monocytes
+T21	cell_type 1013 1022	monocytes
+T22	cell_type 1028 1048	macrophage-like cell
+T23	protein 1082 1087	REF-1
+T24	protein 1112 1117	REF-1
+T25	cell_type 1123 1142	activated monocytes
+T26	protein 1216 1220	AP-1
+T27	cell_type 1305 1314	monocytes
+T28	cell_type 1320 1340	alveolar macrophages
+T29	protein 1370 1375	REF-1
+T30	protein 1380 1384	AP-1
+T31	cell_type 1485 1505	alveolar macrophages
+T32	cell_type 1520 1529	monocytes

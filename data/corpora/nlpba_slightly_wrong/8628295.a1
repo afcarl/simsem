@@ -1,0 +1,37 @@
+T1	protein 8 12	EGR1
+T2	protein 49 53	CD44
+T3	DNA 91 111	immediate-early gene
+T4	DNA 112 117	egr-1
+T5	protein 128 148	transcription factor
+T6	protein 151 155	EGR1
+T7	protein 169 192	B-cell antigen receptor
+T8	protein 195 198	BCR
+T9	DNA 291 303	target genes
+T10	protein 345 384	lymphocyte homing and migration protein
+T11	protein 385 389	CD44
+T12	protein 405 409	EGR1
+T13	cell_type 424 431	B cells
+T14	protein 434 437	BCR
+T15	RNA 460 469	CD44 mRNA
+T16	cell_line 528 578	EGR1-expressing but not in nonexpressing subclones
+T17	cell_line 586 597	B-cell line
+T18	cell_line 598 606	WEHI-231
+T19	DNA 621 626	egr-1
+T20	protein 671 683	EGR1 protein
+T21	protein 692 696	CD44
+T22	cell_line 756 780	EGR1-expressing subclone
+T23	protein 792 796	EGR1
+T24	DNA 845 864	human CD44 promoter
+T25	DNA 887 953	CD44 promoter-chloramphenicol acetyltransferase reporter construct
+T26	DNA 962 985	egr-1 expression vector
+T27	DNA 1070 1093	empty expression vector
+T28	DNA 1100 1118	EGR1 binding motif
+T29	protein 1182 1186	CD44
+T30	DNA 1187 1248	promoter-chloramphenicol acetyltransferase reporter construct
+T31	cell_type 1252 1280	nontransformed B lymphocytes
+T32	DNA 1324 1346	EGR1 expression vector
+T33	cell_line 1352 1363	B-cell line
+T34	protein 1389 1393	EGR1
+T35	protein 1421 1424	BCR
+T36	protein 1462 1466	CD44
+T37	protein 1512 1515	BCR

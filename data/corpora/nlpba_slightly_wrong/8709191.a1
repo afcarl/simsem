@@ -1,0 +1,52 @@
+T1	DNA 0 4	oriP
+T2	DNA 22 31	EBNA gene
+T3	cell_line 53 110	Epstein-Barr virus-immortalized lymphoblastoid cell lines
+T4	cell_type 159 172	B lymphocytes
+T5	protein 188 210	viral nuclear antigens
+T6	protein 213 218	EBNAs
+T7	DNA 251 260	promoters
+T8	DNA 263 265	Cp
+T9	DNA 269 271	Wp
+T10	DNA 333 335	Wp
+T11	DNA 382 384	Cp
+T12	DNA 454 456	Cp
+T13	DNA 548 567	EBNA gene promoters
+T14	cell_line 583 630	in vitro immortalized lymphoblastoid cell lines
+T15	cell_line 633 637	LCLs
+T16	DNA 665 669	oriP
+T17	DNA 789 791	Cp
+T18	DNA 795 797	Wp
+T19	cell_line 801 805	LCLs
+T20	cell_line 827 857	Burkitt 's lymphoma cell lines
+T21	DNA 876 900	EBNA2-dependent enhancer
+T22	DNA 921 923	Cp
+T23	DNA 972 974	Cp
+T24	cell_line 991 995	LCLs
+T25	DNA 1055 1057	Cp
+T26	DNA 1074 1098	EBNA2-dependent enhancer
+T27	DNA 1137 1139	Cp
+T28	DNA 1217 1228	CCAAT boxes
+T29	DNA 1233 1251	proximal CCAAT box
+T30	DNA 1263 1276	bp -61 to -65
+T31	DNA 1290 1299	CCAAT box
+T32	DNA 1314 1326	-253 to -257
+T33	DNA 1341 1343	Cp
+T34	DNA 1381 1393	cis elements
+T35	DNA 1412 1414	Cp
+T36	DNA 1485 1494	CCAAT box
+T37	DNA 1524 1540	distal CCAAT box
+T38	DNA 1564 1582	proximal CCAAT box
+T39	DNA 1668 1679	ca. bp -850
+T40	DNA 1692 1694	Cp
+T41	DNA 1786 1788	Cp
+T42	DNA 1823 1825	Wp
+T43	DNA 1868 1870	Wp
+T44	DNA 1917 1919	Cp
+T45	DNA 1944 1948	oriP
+T46	DNA 1957 1981	EBNA2-dependent enhancer
+T47	DNA 2004 2016	cis elements
+T48	DNA 2040 2042	Cp
+T49	cell_line 2055 2058	LCL
+T50	DNA 2073 2082	EBNA gene
+T51	protein 2125 2131	EBNA 1
+T52	protein 2136 2142	EBNA 2

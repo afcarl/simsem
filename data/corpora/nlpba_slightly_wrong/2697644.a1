@@ -1,0 +1,17 @@
+T1	protein 14 49	T-cell specific DNA-binding factors
+T2	DNA 71 82	3'-silencer
+T3	DNA 90 112	CD4+ T-cell gene Rpt-1
+T4	DNA 149 171	CD4+ T-cell gene Rpt-1
+T5	protein 202 216	T-lymphocyte 1
+T6	DNA 246 262	silencer element
+T7	DNA 277 294	heterologous gene
+T8	cell_type 317 334	CD4+ T-cell lines
+T9	cell_type 346 352	B-cell
+T10	cell_type 356 379	non-lymphoid cell lines
+T11	DNA 393 401	silencer
+T12	protein 466 494	silencer-DNA-protein complex
+T13	cell_type 541 547	T-cell
+T14	DNA 628 633	HIV-1
+T15	DNA 647 663	silencer element
+T16	protein 698 717	DNA-binding factors
+T17	DNA 782 814	transcriptional silencer element

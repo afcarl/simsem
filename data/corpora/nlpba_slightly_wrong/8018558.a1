@@ -1,0 +1,29 @@
+T1	DNA 14 42	early growth response 1 gene
+T2	protein 61 68	pp90rsk
+T3	DNA 186 224	early growth response 1 ( EGR-1 ) gene
+T4	cell_line 272 300	U-937 myeloid leukemia cells
+T5	cell_line 322 333	U-937 cells
+T6	protein 406 439	serine/threonine protein kinase C
+T7	DNA 492 526	EGR-1 promoter-reporter constructs
+T8	DNA 533 547	EGR-1 promoter
+T9	DNA 602 631	5'-most distal CArG sequences
+T10	DNA 709 714	EGR-1
+T11	cell_line 734 766	TPA-resistant U-937 cell variant
+T12	cell_line 780 783	TUR
+T13	cell_line 804 809	U-937
+T14	cell_line 814 823	TUR cells
+T15	protein 860 906	serine/threonine protein phosphatases 1 and 2A
+T16	DNA 972 977	EGR-1
+T17	DNA 1004 1024	5'-most CArG element
+T18	DNA 1139 1144	EGR-1
+T19	protein 1187 1236	40S ribosomal protein S6 serine/threonine kinases
+T20	protein 1239 1246	pp70S6K
+T21	protein 1251 1258	pp90rsk
+T22	protein 1361 1368	pp70S6K
+T23	protein 1472 1479	pp70S6K
+T24	DNA 1523 1528	EGR-1
+T25	protein 1568 1575	pp90rsk
+T26	protein 1630 1640	S6 protein
+T27	protein 1674 1680	kinase
+T28	cell_line 1684 1723	TPA-treated U-937 , and not TUR , cells
+T29	protein 1802 1809	pp90rsk

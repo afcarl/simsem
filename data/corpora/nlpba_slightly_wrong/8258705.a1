@@ -1,0 +1,31 @@
+T1	protein 37 47	NF-kappa B
+T2	cell_type 83 98	human monocytes
+T3	DNA 105 123	human TNF promoter
+T4	DNA 148 200	nuclear factor-kappa B ( NF-kappa B ) -binding sites
+T5	cell_line 278 296	unstimulated cells
+T6	cell_line 304 329	human monocytic cell line
+T7	cell_line 332 342	Mono Mac 6
+T8	protein 357 381	specific binding protein
+T9	protein 384 394	complex II
+T10	protein 417 443	constitutive p50 homodimer
+T11	cell_line 461 477	Mono Mac 6 cells
+T12	protein 501 511	complex II
+T13	protein 565 574	complex I
+T14	protein 600 618	p50/65 heterodimer
+T15	cell_type 634 650	Mono Mac 6 cells
+T16	protein 722 743	LPS-induced complex I
+T17	protein 778 788	complex II
+T18	protein 843 858	nuclear factors
+T19	DNA 907 925	human TNF promoter
+T20	protein 1039 1066	LPS-induced TNF transcripts
+T21	protein 1078 1089	TNF protein
+T22	protein 1246 1256	NF-kappa B
+T23	protein 1315 1326	TNF protein
+T24	protein 1435 1450	TNF transcripts
+T25	protein 1457 1468	TNF protein
+T26	cell_type 1541 1571	LPS-stimulated blood monocytes
+T27	protein 1601 1611	NF-kappa B
+T28	protein 1666 1681	TNF transcripts
+T29	protein 1801 1812	TNF protein
+T30	protein 1923 1933	NF-kappa B
+T31	cell_type 1984 1999	human monocytes

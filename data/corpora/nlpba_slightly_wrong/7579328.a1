@@ -1,0 +1,62 @@
+T1	DNA 4 28	myeloid zinc finger gene
+T2	DNA 31 36	MZF-1
+T3	DNA 53 66	CD34 promoter
+T4	DNA 78 83	MZF-1
+T5	DNA 89 110	C2H2 zinc finger gene
+T6	protein 122 156	putative transcriptional regulator
+T7	DNA 190 195	MZF-1
+T8	protein 216 233	C2H2 zinc fingers
+T9	protein 256 275	DNA binding domains
+T10	protein 287 299	zinc fingers
+T11	protein 323 339	carboxy-terminus
+T12	DNA 386 412	DNA consensus binding site
+T13	protein 435 454	DNA binding domains
+T14	DNA 508 513	MZF-1
+T15	DNA 532 537	MZF-1
+T16	protein 569 587	DNA binding domain
+T17	protein 595 620	yeast transactivator GAL4
+T18	DNA 672 728	chloramphenicol acetyl transferase ( CAT ) reporter gene
+T19	DNA 746 771	thymidine kinase promoter
+T20	DNA 783 805	GAL4 DNA binding sites
+T21	cell_line 811 818	NIH 3T3
+T22	cell_line 821 824	293
+T23	cell_line 827 831	K562
+T24	cell_line 838 855	Jurkat cell lines
+T25	DNA 858 863	MZF-1
+T26	DNA 874 891	CAT reporter gene
+T27	protein 907 911	GAL4
+T28	cell_line 933 960	nonhematopoietic cell lines
+T29	cell_line 961 968	NIH 3T3
+T30	cell_line 973 976	293
+T31	DNA 993 998	MZF-1
+T32	DNA 1009 1026	CAT reporter gene
+T33	cell_line 1045 1069	hematopoietic cell lines
+T34	cell_line 1070 1074	K562
+T35	cell_line 1079 1085	Jurkat
+T36	DNA 1092 1111	MZF-1 binding sites
+T37	DNA 1131 1140	promoters
+T38	DNA 1152 1157	genes
+T39	DNA 1215 1228	CD34 promoter
+T40	DNA 1231 1236	MZF-1
+T41	DNA 1272 1305	physiologically relevant promoter
+T42	cell_line 1327 1340	hematopoietic
+T43	cell_line 1345 1372	nonhematopoietic cell lines
+T44	protein 1375 1400	Recombinant MZF-1 protein
+T45	DNA 1427 1450	consensus binding sites
+T46	DNA 1458 1471	CD34 promoter
+T47	DNA 1499 1504	MZF-1
+T48	DNA 1552 1580	luciferase reporter plasmids
+T49	DNA 1598 1611	CD34 promoter
+T50	cell_line 1622 1667	nonhematopoietic and hematopoietic cell lines
+T51	protein 1695 1713	DNA binding domain
+T52	DNA 1716 1721	MZF-1
+T53	DNA 1732 1745	reporter gene
+T54	cell_line 1760 1787	nonhematopoietic cell lines
+T55	cell_line 1816 1840	hematopoietic cell lines
+T56	protein 1857 1861	CD34
+T57	cell_line 1876 1900	hematopoietic cell lines
+T58	DNA 1940 1959	MZF-1 binding sites
+T59	DNA 2003 2016	CD34 promoter
+T60	DNA 2020 2025	MZF-1
+T61	DNA 2103 2108	MZF-1
+T62	DNA 2138 2143	MZF-1

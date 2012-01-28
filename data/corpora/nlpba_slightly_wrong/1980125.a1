@@ -1,0 +1,11 @@
+T1	protein 106 133	hematopoietic growth factor
+T2	cell_type 145 156	tumor cells
+T3	DNA 426 448	c-erbB2 gene sequences
+T4	DNA 489 494	Int-2
+T5	DNA 523 528	c-myc
+T6	DNA 662 669	c-erbB2
+T7	protein 741 762	progesterone receptor
+T8	protein 765 767	PR
+T9	DNA 1060 1067	c-erbB2
+T10	DNA 1214 1222	oncogene
+T11	protein 1503 1511	cytokine

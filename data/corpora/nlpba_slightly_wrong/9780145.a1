@@ -1,0 +1,25 @@
+T1	DNA 35 54	IL-5 and IL-4 genes
+T2	protein 58 85	transcription factor GATA-3
+T3	protein 92 101	cytokines
+T4	protein 102 106	IL-4
+T5	protein 111 115	IL-5
+T6	cell_line 151 160	Th2 cells
+T7	DNA 271 276	genes
+T8	protein 313 340	transcription factor GATA-3
+T9	cell_line 357 378	Th2 but not Th1 cells
+T10	DNA 416 429	IL-5 promoter
+T11	protein 476 482	GATA-3
+T12	protein 532 536	IL-4
+T13	DNA 547 565	Th2 cytokine genes
+T14	protein 610 616	GATA-3
+T15	protein 640 644	IL-5
+T16	protein 653 657	IL-4
+T17	cell_line 686 695	Th2 cells
+T18	protein 708 714	GATA-3
+T19	protein 728 732	IL-5
+T20	protein 741 745	IL-4
+T21	DNA 785 794	IL-5 gene
+T22	protein 809 815	GATA-3
+T23	protein 850 856	GATA-3
+T24	DNA 872 883	GATA repeat
+T25	DNA 891 904	IL-5 promoter

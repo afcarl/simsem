@@ -1,0 +1,28 @@
+T1	protein 37 57	Jak tyrosine kinases
+T2	protein 61 118	human T cell leukemia virus type 1 ( HTLV-1 ) tax protein
+T3	cell_line 122 145	virus-transformed cells
+T4	protein 213 234	viral encoded protein
+T5	protein 235 238	tax
+T6	protein 329 332	tax
+T7	protein 370 373	tax
+T8	cell_type 385 402	mouse fibroblasts
+T9	cell_type 411 421	thymocytes
+T10	protein 453 456	tax
+T11	protein 529 543	130-kD protein
+T12	protein 570 573	tax
+T13	cell_line 574 603	transformed fibroblast B line
+T14	cell_line 611 650	HTLV-1 transformed human lymphoid lines
+T15	cell_type 664 674	thymocytes
+T16	protein 790 820	Jak kinase specific antibodies
+T17	protein 842 846	Jak2
+T18	protein 854 857	tax
+T19	cell_line 870 898	mouse fibroblastic cell line
+T20	protein 903 907	Jak3
+T21	cell_line 911 948	HTLV-1 transformed human T cell lines
+T22	protein 970 974	Jak2
+T23	cell_line 978 999	tax transformed cells
+T24	cell_line 1106 1121	Balb/c3T3 cells
+T25	cell_line 1151 1157	B line
+T26	protein 1277 1305	IL-6 neutralizing antibodies
+T27	protein 1340 1351	Jak kinases
+T28	cell_type 1388 1417	HTLV-1 infected human T cells

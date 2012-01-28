@@ -1,0 +1,24 @@
+T1	protein 11 14	TPA
+T2	protein 17 29	bryostatin 1
+T3	protein 53 57	PO-B
+T4	protein 60 64	AP-1
+T5	protein 71 75	AP-2
+T6	protein 119 123	PO-B
+T7	protein 158 191	transcriptional regulatory factor
+T8	DNA 199 233	pro-opiomelanocortin ( POMC ) gene
+T9	cell_type 415 449	HL-60 promyelocytic leukemia cells
+T10	protein 478 482	PO-B
+T11	cell_line 546 584	promyelomonocytic leukemic HL-60 cells
+T12	cell_type 592 615	macrophage-like lineage
+T13	protein 661 665	PO-B
+T14	cell_line 681 692	HL-60 cells
+T15	cell_type 744 764	granulocytic lineage
+T16	protein 989 1009	transcription factor
+T17	protein 1085 1105	transcription factor
+T18	protein 1108 1112	AP-1
+T19	protein 1294 1314	transcription factor
+T20	protein 1315 1319	AP-2
+T21	protein 1344 1347	TPA
+T22	protein 1482 1486	PO-B
+T23	protein 1630 1651	transcription factors
+T24	protein 1662 1666	AP-1

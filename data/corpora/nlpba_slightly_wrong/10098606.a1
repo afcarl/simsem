@@ -1,0 +1,33 @@
+T1	protein 47 107	human pterin carbinolamine dehydratase/dimerization cofactor
+T2	protein 111 115	HNF1
+T3	protein 118 172	Pterin carbinolamine dehydratase/dimerization cofactor
+T4	protein 176 180	HNF1
+T5	protein 183 191	PCD/DCoH
+T6	protein 199 220	dual-function protein
+T7	protein 253 264	dehydratase
+T8	protein 288 307	tetrahydrobiopterin
+T9	protein 327 359	aromatic amino acid hydroxylases
+T10	protein 397 418	dimerization cofactor
+T11	protein 422 426	HNF1
+T12	protein 473 477	HNF1
+T13	protein 593 601	PCD/DCoH
+T14	cell_line 893 903	HeLa cells
+T15	protein 917 921	HNF1
+T16	cell_type 948 959	fibroblasts
+T17	protein 983 1002	tetrahydrobiopterin
+T18	protein 1023 1037	human PCD/DCoH
+T19	cell_type 1055 1071	nonhepatic cells
+T20	cell_type 1194 1207	keratinocytes
+T21	cell_type 1212 1223	fibroblasts
+T22	protein 1230 1254	hepatic PCD/DCoH protein
+T23	cell_type 1293 1329	normal human epidermal keratinocytes
+T24	cell_type 1334 1352	dermal fibroblasts
+T25	DNA 1370 1401	5 ' and 3 ' untranslated region
+T26	DNA 1404 1407	UTR
+T27	protein 1413 1440	human keratinocyte PCD/DCoH
+T28	DNA 1476 1509	GC-rich 5 ' untranslated sequence
+T29	protein 1529 1543	liver PCD/DCoH
+T30	DNA 1617 1624	5 ' UTR
+T31	protein 1708 1722	human PCD/DCoH
+T32	protein 1758 1777	tetrahydrobiopterin
+T33	protein 1796 1800	HNF1

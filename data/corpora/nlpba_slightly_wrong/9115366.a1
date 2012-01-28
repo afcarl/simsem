@@ -1,0 +1,17 @@
+T1	protein 36 62	dominant negative effector
+T2	protein 90 95	Oct-2
+T3	protein 153 174	transcription factors
+T4	cell_type 234 250	eukaryotic cells
+T5	protein 328 333	Oct-2
+T6	DNA 475 494	modified lac operon
+T7	DNA 500 513	reporter gene
+T8	DNA 562 578	octamer sequence
+T9	protein 581 586	Oct-2
+T10	cell_line 780 797	human T-cell line
+T11	protein 807 812	Oct-2
+T12	protein 944 972	putative zinc finger protein
+T13	protein 996 1014	beta-galactosidase
+T14	protein 1031 1036	Oct-2
+T15	DNA 1191 1204	octamer probe
+T16	protein 1209 1214	Oct-2
+T17	protein 1286 1291	Oct-2

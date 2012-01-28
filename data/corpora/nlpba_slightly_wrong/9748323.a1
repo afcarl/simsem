@@ -1,0 +1,31 @@
+T1	protein 23 44	transcription factors
+T2	cell_type 48 59	neutrophils
+T3	protein 79 95	interferon-gamma
+T4	protein 102 108	GM-CSF
+T5	protein 153 173	endogenous proteases
+T6	cell_type 182 193	neutrophils
+T7	DNA 244 264	early-response genes
+T8	protein 296 305	cytokines
+T9	protein 308 318	chemokines
+T10	protein 364 367	IgG
+T11	protein 370 379	FcgammaRI
+T12	cell_type 461 472	neutrophils
+T13	protein 524 545	transcription factors
+T14	protein 571 580	NF-kappaB
+T15	protein 585 598	STAT families
+T16	protein 647 668	transcription factors
+T17	cell_type 763 774	neutrophils
+T18	protein 1005 1018	NF-kappaB/Rel
+T19	protein 1023 1036	STAT proteins
+T20	cell_type 1139 1150	neutrophils
+T21	protein 1161 1169	TNFalpha
+T22	protein 1179 1188	NF-kappaB
+T23	protein 1240 1255	p50/RelA dimers
+T24	protein 1267 1275	IFNgamma
+T25	protein 1300 1316	STAT1 homodimers
+T26	DNA 1324 1348	IFNgamma response region
+T27	DNA 1356 1374	FcgammaRI promoter
+T28	protein 1431 1437	GM-CSF
+T29	protein 1468 1473	STAT5
+T30	cell_type 1634 1645	neutrophils
+T31	protein 1760 1780	endogenous proteases

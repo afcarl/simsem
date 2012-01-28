@@ -1,0 +1,33 @@
+T1	protein 90 109	immunophilin FKBP51
+T2	protein 222 246	glucocorticoid receptors
+T3	protein 249 252	GRs
+T4	protein 323 325	GR
+T5	protein 387 405	squirrel monkey GR
+T6	cell_type 542 569	squirrel monkey lymphocytes
+T7	cell_type 572 575	SML
+T8	protein 722 738	GR heterocomplex
+T9	cell_type 742 745	SML
+T10	cell_type 750 767	human lymphocytes
+T11	cell_type 770 772	HL
+T12	protein 795 814	immunophilin FKBP51
+T13	cell_type 837 840	SML
+T14	protein 862 868	FKBP52
+T15	cell_type 872 875	SML
+T16	protein 931 944	immunophilins
+T17	protein 1054 1060	FKBP51
+T18	protein 1065 1071	FKBP52
+T19	protein 1182 1188	FKBP51
+T20	protein 1222 1228	FKBP51
+T21	protein 1232 1263	heat shock protein 90 complexes
+T22	cell_type 1267 1270	SML
+T23	cell_type 1290 1293	SML
+T24	cell_line 1298 1308	L929 cells
+T25	protein 1386 1392	FKBP51
+T26	protein 1398 1416	GR heterocomplexes
+T27	cell_type 1433 1436	SML
+T28	cell_line 1492 1501	COS cells
+T29	protein 1529 1535	FKBP51
+T30	cell_type 1561 1564	SML
+T31	protein 1612 1618	FKBP51
+T32	protein 1624 1642	GR heterocomplexes
+T33	protein 1695 1701	FKBP51

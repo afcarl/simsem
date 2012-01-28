@@ -1,0 +1,12 @@
+T1	RNA 52 66	unspliced mRNA
+T2	protein 118 121	Rex
+T3	protein 128 158	post-transcriptional regulator
+T4	RNA 249 277	unspliced viral gag-pol mRNA
+T5	protein 280 283	Rex
+T6	protein 289 303	phosphoprotein
+T7	protein 456 459	Rex
+T8	cell_line 585 618	HTLV-I infected human T-cell line
+T9	RNA 669 691	unspliced gag-pol mRNA
+T10	protein 721 732	Gag protein
+T11	protein 806 809	Rex
+T12	protein 947 950	Rex

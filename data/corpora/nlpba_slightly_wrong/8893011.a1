@@ -1,0 +1,16 @@
+T1	protein 19 24	NF-AT
+T2	cell_type 367 378	lymphocytes
+T3	protein 450 461	calcineurin
+T4	protein 466 509	Ca2+-activated serine/threonine phosphatase
+T5	protein 546 551	NF-AT
+T6	protein 552 573	transcription factors
+T7	protein 688 693	NF-AT
+T8	protein 694 715	transcription factors
+T9	DNA 787 792	genes
+T10	cell_type 806 816	lymphocyte
+T11	protein 918 923	NF-AT
+T12	protein 934 983	Jun , Fos , NF-kappaB , Oct or Ets family members
+T13	DNA 998 1020	interleukin-2 enhancer
+T14	cell_line 1024 1044	Jurkat T lymphocytes
+T15	protein 1192 1197	NF-AT
+T16	protein 1208 1229	transcription factors

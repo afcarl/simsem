@@ -1,0 +1,37 @@
+T1	DNA 14 25	GM-CSF gene
+T2	protein 43 62	core-binding factor
+T3	DNA 65 76	GM-CSF gene
+T4	cell_type 91 98	T cells
+T5	protein 123 144	transcription factors
+T6	protein 145 167	nuclear factor-kappa B
+T7	protein 170 174	AP-1
+T8	protein 177 181	NFAT
+T9	DNA 223 257	human GM-CSF promoter and enhancer
+T10	protein 291 310	core-binding factor
+T11	protein 313 316	CBF
+T12	DNA 341 350	CBF sites
+T13	DNA 397 419	essential core regions
+T14	DNA 550 578	closely linked binding sites
+T15	protein 583 586	CBF
+T16	protein 589 593	AP-1
+T17	protein 600 605	NFATp
+T18	DNA 612 636	GM-CSF promoter CBF site
+T19	DNA 657 671	51 bp upstream
+T20	DNA 679 703	transcription start site
+T21	DNA 724 741	YY-1 binding site
+T22	DNA 746 759	2-bp mutation
+T23	protein 771 774	CBF
+T24	DNA 840 872	69-bp proximal promoter fragment
+T25	DNA 879 915	627-bp full-length promoter fragment
+T26	DNA 946 963	proximal promoter
+T27	protein 987 990	CBF
+T28	DNA 1010 1019	YY-1 site
+T29	DNA 1095 1118	AML1 and CBF beta genes
+T30	protein 1131 1134	CBF
+T31	DNA 1230 1245	proto-oncogenes
+T32	protein 1290 1296	GM-CSF
+T33	protein 1318 1327	cytokines
+T34	protein 1364 1367	CBF
+T35	cell_type 1435 1452	hemopoietic cells
+T36	DNA 1459 1471	GM-CSF locus
+T37	protein 1508 1513	genes

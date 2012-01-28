@@ -1,0 +1,36 @@
+T1	protein 30 61	Ets and NF-kappaB/NFAT proteins
+T2	DNA 124 161	human immunodeficiency virus enhancer
+T3	cell_type 165 172	T cells
+T4	DNA 179 214	transcriptional regulatory elements
+T5	DNA 223 245	inducible T-cell genes
+T6	DNA 266 291	overlapping binding sites
+T7	protein 300 331	Ets and NF-kappaB/NFAT families
+T8	protein 335 356	transcription factors
+T9	DNA 400 436	NF-kappaB/NFAT and Ets binding sites
+T10	DNA 456 481	transcriptional enhancers
+T11	DNA 584 613	nuclear protein binding sites
+T12	protein 814 845	Ets and NF-kappaB/NFAT proteins
+T13	protein 1019 1050	Ets and NF-kappaB/NFAT proteins
+T14	cell_type 1072 1102	activated normal human T cells
+T15	DNA 1141 1151	Ets domain
+T16	protein 1155 1167	Ets proteins
+T17	protein 1225 1248	NF-kappaB/NFAT proteins
+T18	protein 1269 1272	Ets
+T19	protein 1275 1284	NF-kappaB
+T20	protein 1287 1291	NFAT
+T21	DNA 1329 1346	DNA binding sites
+T22	DNA 1526 1539	binding sites
+T23	protein 1544 1547	Ets
+T24	protein 1552 1570	NF-kappaB proteins
+T25	protein 1603 1616	NF-kappaB p50
+T26	protein 1659 1671	Ets proteins
+T27	DNA 1715 1740	HIV-1 and HIV-2 enhancers
+T28	protein 1744 1753	NF-kappaB
+T29	protein 1756 1759	p50
+T30	protein 1762 1765	p65
+T31	protein 1772 1777	Ets-1
+T32	protein 1825 1828	Ets
+T33	protein 1833 1851	NF-kappaB proteins
+T34	DNA 1904 1929	HIV-1 and HIV-2 enhancers
+T35	protein 2032 2063	Ets and NF-kappaB/NFAT proteins
+T36	DNA 2120 2132	T-cell genes

@@ -1,0 +1,44 @@
+T1	protein 14 29	HLA-DR antigens
+T2	protein 55 82	tumor necrosis factor alpha
+T3	cell_type 94 101	B cells
+T4	protein 150 171	HLA class II antigens
+T5	protein 179 223	anti-HLA-DR monoclonal antibody ( mAb ) L243
+T6	protein 294 321	tumor necrosis factor alpha
+T7	protein 324 333	TNF-alpha
+T8	cell_type 343 372	non-Hodgkin 's lymphoma cells
+T9	cell_line 373 377	Ri-I
+T10	cell_line 380 384	Ci-I
+T11	cell_line 391 395	Sc-I
+T12	cell_line 479 505	Burkitt lymphoma cell Raji
+T13	protein 540 549	TNF-alpha
+T14	cell_type 565 585	pre-B leukemia cells
+T15	cell_line 586 592	Nalm-6
+T16	cell_line 597 602	BV173
+T17	protein 605 614	TNF-alpha
+T18	RNA 722 736	TNF-alpha mRNA
+T19	protein 778 786	mAb L243
+T20	protein 798 807	TNF-alpha
+T21	protein 836 858	nuclear factor kappa B
+T22	protein 861 871	NF-kappa B
+T23	protein 900 904	AP-1
+T24	protein 954 969	HLA-DR antigens
+T25	protein 989 1032	antihuman TNF-alpha-neutralizing antibodies
+T26	protein 1052 1062	NF-kappa B
+T27	protein 1067 1071	AP-1
+T28	protein 1097 1106	TNF-alpha
+T29	cell_line 1160 1164	Ri-I
+T30	cell_line 1167 1171	Ci-I
+T31	cell_line 1174 1178	Sc-I
+T32	cell_line 1185 1195	Raji cells
+T33	protein 1207 1215	mAb L243
+T34	cell_type 1261 1268	B cells
+T35	cell_type 1346 1353	B cells
+T36	protein 1365 1374	TNF-alpha
+T37	protein 1395 1410	HLA-DR antigens
+T38	protein 1480 1489	TNF-alpha
+T39	protein 1585 1613	cell surface HLA-DR antigens
+T40	protein 1631 1640	TNF-alpha
+T41	protein 1679 1689	NF-kappa B
+T42	protein 1694 1698	AP-1
+T43	protein 1764 1773	TNF-alpha
+T44	cell_type 1785 1792	B cells

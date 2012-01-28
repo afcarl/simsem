@@ -1,0 +1,49 @@
+T1	DNA 27 36	IL-6 gene
+T2	protein 69 73	IL-4
+T3	protein 78 83	IL-10
+T4	cell_line 87 113	human monocytic cell lines
+T5	protein 116 120	IL-4
+T6	protein 125 130	IL-10
+T7	protein 143 151	cytokine
+T8	cell_type 186 207	monocytes/macrophages
+T9	DNA 331 340	IL-6 gene
+T10	protein 355 359	IL-4
+T11	protein 364 369	IL-10
+T12	protein 383 387	IL-6
+T13	RNA 421 430	IL-6 mRNA
+T14	protein 433 437	IL-6
+T15	protein 486 495	NF-kappaB
+T16	protein 500 507	NF-IL-6
+T17	RNA 514 523	IL-6 mRNA
+T18	cell_line 537 563	human monocytic cell lines
+T19	cell_line 566 571	THP-1
+T20	cell_line 576 580	U937
+T21	protein 643 647	IL-4
+T22	protein 651 656	IL-10
+T23	protein 664 668	IL-4
+T24	protein 673 678	IL-10
+T25	protein 700 704	IL-6
+T26	RNA 738 747	IL-6 mRNA
+T27	cell_line 756 776	monocytic cell lines
+T28	protein 790 823	chloramphenicol acetyltransferase
+T29	DNA 875 925	chloramphenicol acetyltransferase reporter plasmid
+T30	DNA 941 959	IL-6 gene promoter
+T31	protein 962 966	IL-4
+T32	protein 977 982	IL-10
+T33	protein 1129 1133	IL-4
+T34	protein 1144 1149	IL-10
+T35	protein 1170 1179	NF-kappaB
+T36	protein 1200 1204	IL-4
+T37	protein 1209 1214	IL-10
+T38	protein 1234 1238	IL-6
+T39	protein 1270 1275	IL-10
+T40	RNA 1304 1313	IL-6 mRNA
+T41	protein 1369 1373	IL-4
+T42	DNA 1411 1420	IL-6 gene
+T43	protein 1434 1443	NF-kappaB
+T44	protein 1469 1474	IL-10
+T45	RNA 1491 1500	IL-6 mRNA
+T46	protein 1602 1606	IL-4
+T47	protein 1611 1616	IL-10
+T48	protein 1625 1629	IL-6
+T49	cell_line 1668 1694	human monocytic cell lines

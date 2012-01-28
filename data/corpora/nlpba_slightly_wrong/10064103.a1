@@ -1,0 +1,18 @@
+T1	cell_type 0 34	Peripheral blood mononuclear cells
+T2	protein 117 164	oxidative-stress sensitive transcription factor
+T3	protein 165 174	NF-kappaB
+T4	protein 258 267	NF-kappaB
+T5	protein 384 393	NF-kappaB
+T6	protein 572 581	NF-kappaB
+T7	cell_type 604 647	isolated peripheral blood mononuclear cells
+T8	protein 771 780	NF-kappaB
+T9	protein 894 906	NF-kappaBp65
+T10	protein 951 960	NF-kappaB
+T11	protein 1043 1057	thrombomodulin
+T12	protein 1383 1392	NF-kappaB
+T13	cell_type 1421 1464	isolated peripheral blood mononuclear cells
+T14	protein 1509 1529	transcription factor
+T15	protein 1530 1539	NF-kappaB
+T16	cell_type 1551 1594	isolated peripheral blood mononuclear cells
+T17	protein 1683 1692	NF-kappaB
+T18	protein 1804 1813	NF-kappaB

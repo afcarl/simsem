@@ -1,0 +1,34 @@
+T1	protein 17 39	nuclear factor-kappa B
+T2	cell_line 78 112	stimulated human endothelial cells
+T3	protein 145 178	vascular cell adhesion molecule-1
+T4	protein 181 187	VCAM-1
+T5	protein 194 204	E-selectin
+T6	protein 208 235	tumor necrosis factor-alpha
+T7	protein 238 241	TNF
+T8	protein 279 299	transcription factor
+T9	protein 300 322	nuclear factor-kappa B
+T10	protein 325 335	NF-kappa B
+T11	protein 388 398	NF-kappa B
+T12	protein 457 466	I kappa B
+T13	cell_line 554 592	human umbilical vein endothelial cells
+T14	cell_line 595 601	HUVECs
+T15	protein 689 692	TNF
+T16	protein 702 712	NF-kappa B
+T17	protein 798 804	VCAM-1
+T18	protein 809 819	E-selectin
+T19	protein 842 845	TNF
+T20	protein 927 960	intercellular adhesion molecule-1
+T21	protein 963 969	ICAM-1
+T22	protein 1022 1028	VCAM-1
+T23	RNA 1094 1105	VCAM-1 mRNA
+T24	protein 1109 1112	TNF
+T25	cell_line 1157 1171	U937 monocytes
+T26	cell_line 1175 1196	TNF-stimulated HUVECs
+T27	protein 1251 1257	VCAM-1
+T28	protein 1262 1272	E-selectin
+T29	protein 1351 1365	cyclooxygenase
+T30	protein 1467 1477	NF-kappa B
+T31	protein 1506 1512	VCAM-1
+T32	protein 1517 1527	E-selectin
+T33	cell_type 1566 1583	endothelial cells
+T34	protein 1598 1601	TNF

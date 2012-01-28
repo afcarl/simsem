@@ -1,0 +1,69 @@
+T1	protein 14 18	JAK3
+T2	protein 29 33	JAK1
+T3	protein 52 56	IL-2
+T4	protein 84 89	STAT5
+T5	protein 107 127	COOH-terminal region
+T6	protein 135 159	IL-2 receptor beta-chain
+T7	protein 174 183	cytokines
+T8	protein 188 202	growth factors
+T9	protein 211 214	JAK
+T10	protein 215 220	-STAT
+T11	protein 285 318	homodimerizing cytokine receptors
+T12	protein 360 363	JAK
+T13	protein 372 396	growth hormone receptors
+T14	protein 409 442	multicomponent cytokine receptors
+T15	protein 516 527	JAK kinases
+T16	protein 536 556	interferon receptors
+T17	protein 608 612	JAK3
+T18	protein 616 644	interleukin-2 receptor-gamma
+T19	protein 647 658	IL-2R gamma
+T20	protein 665 669	JAK1
+T21	protein 673 683	IL-2R beta
+T22	protein 734 738	JAK1
+T23	protein 743 747	JAK3
+T24	protein 758 762	IL-2
+T25	protein 862 866	IL-2
+T26	protein 919 923	JAK1
+T27	protein 928 932	JAK3
+T28	protein 957 961	IL-2
+T29	protein 973 977	JAK3
+T30	protein 1016 1020	JAK1
+T31	cell_type 1024 1043	human T lymphocytes
+T32	cell_line 1052 1064	YT cell line
+T33	protein 1181 1185	JAK3
+T34	protein 1224 1228	JAK3
+T35	protein 1260 1264	JAK3
+T36	protein 1278 1301	IL-2 receptor complexes
+T37	protein 1323 1339	human IL-2R beta
+T38	cell_line 1364 1382	murine BA/F3 cells
+T39	protein 1392 1396	IL-2
+T40	protein 1424 1428	JAK3
+T41	protein 1490 1494	JAK1
+T42	protein 1497 1501	JAK2
+T43	protein 1505 1509	TYK2
+T44	protein 1538 1551	IL-2 receptor
+T45	protein 1623 1627	JAK1
+T46	protein 1632 1636	JAK3
+T47	protein 1647 1651	IL-2
+T48	protein 1683 1693	IL-2R beta
+T49	protein 1698 1709	IL-2R gamma
+T50	protein 1728 1752	membrane-proximal region
+T51	protein 1762 1772	IL-2R beta
+T52	protein 1775 1788	Asn240-Leu335
+T53	protein 1808 1812	JAK3
+T54	protein 1844 1848	JAK3
+T55	protein 1870 1893	IL-2 receptor complexes
+T56	protein 1949 1953	JAK3
+T57	protein 1969 1985	receptor complex
+T58	protein 2001 2011	IL-2R beta
+T59	protein 2016 2027	IL-2R gamma
+T60	protein 2041 2046	STAT5
+T61	protein 2079 2104	STAT transcription factor
+T62	protein 2113 2117	IL-2
+T63	cell_type 2121 2134	human T cells
+T64	protein 2165 2185	COOH-terminal region
+T65	protein 2189 2199	IL-2R beta
+T66	protein 2202 2215	Ser386-Val525
+T67	protein 2226 2231	STAT5
+T68	protein 2280 2291	IL-2R gamma
+T69	protein 2295 2299	JAK3

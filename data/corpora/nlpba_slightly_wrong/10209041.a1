@@ -1,0 +1,42 @@
+T1	protein 0 4	GrpL
+T2	protein 9 13	Grb2
+T3	protein 23 38	adaptor protein
+T4	protein 56 62	SLP-76
+T5	protein 75 109	nuclear factor of activated T cell
+T6	protein 155 178	T cell antigen receptor
+T7	protein 181 184	TCR
+T8	protein 228 260	SH2 domain-containing protein 76
+T9	protein 263 269	SLP-76
+T10	protein 291 325	guanine nucleotide exchange factor
+T11	protein 326 329	Vav
+T12	protein 346 379	nuclear factor of activated cells
+T13	protein 382 387	NF-AT
+T14	cell_type 434 440	T cell
+T15	protein 509 535	Grb2-like adaptor molecule
+T16	protein 550 593	Grb2-related protein of the lymphoid system
+T17	protein 596 600	GrpL
+T18	protein 619 623	GrpL
+T19	protein 694 698	Grb2
+T20	protein 711 730	proline-rich region
+T21	protein 733 737	GrpL
+T22	protein 771 777	SLP-76
+T23	protein 791 795	Sos1
+T24	protein 799 803	Sos2
+T25	cell_line 809 820	Jurkat cell
+T26	protein 845 849	Grb2
+T27	protein 883 887	Sos1
+T28	protein 892 896	Sos2
+T29	protein 910 916	SLP-76
+T30	protein 930 965	tyrosine-phosphorylated LAT/pp36/38
+T31	cell_type 1001 1028	anti-CD3 stimulated T cells
+T32	protein 1045 1049	Grb2
+T33	protein 1058 1062	GrpL
+T34	protein 1128 1132	GrpL
+T35	protein 1137 1141	Grb2
+T36	cell_type 1145 1152	T cells
+T37	protein 1180 1199	GrpL-SLP-76 complex
+T38	protein 1231 1235	GrpL
+T39	protein 1268 1274	SLP-76
+T40	protein 1286 1291	NF-AT
+T41	cell_line 1306 1312	Jurkat
+T42	cell_type 1313 1320	T cells

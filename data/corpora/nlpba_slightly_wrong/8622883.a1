@@ -1,0 +1,38 @@
+T1	protein 12 15	p16
+T2	protein 23 53	E2F-dependent thymidine kinase
+T3	DNA 98 124	MTS1 tumor suppressor gene
+T4	DNA 128 143	chromosome 9p21
+T5	protein 160 163	p16
+T6	protein 183 214	cyclin-dependent-kinase-4 and 6
+T7	protein 276 298	retinoblastoma protein
+T8	protein 302 334	cyclin-dependent kinases 4 and 6
+T9	protein 369 389	transcription factor
+T10	protein 390 393	E2F
+T11	DNA 442 465	S phase regulated genes
+T12	protein 476 492	thymidine kinase
+T13	protein 514 517	p16
+T14	DNA 600 621	tumor suppressor gene
+T15	protein 637 640	E2F
+T16	protein 699 715	thymidine kinase
+T17	cell_line 719 773	phytohemagglutinin-stimulated normal human lymphocytes
+T18	cell_line 785 843	p16-negative human acute lymphoblastic leukemia cell lines
+T19	cell_line 846 852	MOLT-4
+T20	cell_line 857 860	CEM
+T21	cell_type 875 893	normal lymphocytes
+T22	cell_line 896 916	MOLT-4 and CEM cells
+T23	protein 963 979	thymidine kinase
+T24	protein 1027 1033	enzyme
+T25	RNA 1047 1068	thymidine kinase mRNA
+T26	protein 1106 1109	p16
+T27	cell_line 1205 1225	MOLT-4 and CEM cells
+T28	protein 1268 1290	retinoblastoma protein
+T29	cell_line 1319 1338	leukemia cell lines
+T30	protein 1367 1370	p16
+T31	protein 1410 1426	thymidine kinase
+T32	protein 1490 1512	retinoblastoma protein
+T33	protein 1534 1537	E2F
+T34	DNA 1564 1589	thymidine kinase promoter
+T35	protein 1620 1623	p16
+T36	protein 1674 1680	enzyme
+T37	protein 1699 1702	E2F
+T38	protein 1728 1750	retinoblastoma protein

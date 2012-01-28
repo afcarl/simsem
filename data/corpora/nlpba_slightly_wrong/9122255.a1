@@ -1,0 +1,43 @@
+T1	protein 0 41	Neuronal ( type I ) nitric oxide synthase
+T2	protein 52 73	nuclear factor kappaB
+T3	protein 87 132	immunologic ( type II ) nitric oxide synthase
+T4	protein 264 292	NO synthase ( NOS ) isoforms
+T5	protein 295 307	neuronal NOS
+T6	protein 310 314	nNOS
+T7	protein 319 334	endothelial NOS
+T8	protein 341 356	immunologic NOS
+T9	protein 359 363	iNOS
+T10	protein 381 385	nNOS
+T11	cell_type 441 445	glia
+T12	protein 464 468	nNOS
+T13	cell_type 472 476	glia
+T14	protein 490 510	transcription factor
+T15	protein 511 532	nuclear factor kappaB
+T16	protein 535 544	NF kappaB
+T17	protein 579 588	NF kappaB
+T18	protein 658 667	NF kappaB
+T19	cell_line 809 821	Jurkat cells
+T20	cell_line 832 857	T-cell lymphoma cell line
+T21	protein 860 887	tumor necrosis factor-alpha
+T22	protein 890 899	TNF-alpha
+T23	protein 910 919	NF kappaB
+T24	cell_line 986 998	Jurkat cells
+T25	protein 1022 1049	tumor necrosis factor-alpha
+T26	protein 1059 1068	NF kappaB
+T27	cell_type 1083 1093	astrocytes
+T28	protein 1124 1133	NF kappaB
+T29	cell_type 1148 1158	astrocytes
+T30	cell_type 1257 1267	astrocytes
+T31	protein 1303 1329	NF kappaB-dependent enzyme
+T32	protein 1332 1336	iNOS
+T33	protein 1407 1416	NF kappaB
+T34	protein 1419 1428	NF kappaB
+T35	cell_type 1443 1447	glia
+T36	protein 1466 1470	nNOS
+T37	cell_type 1515 1525	astrocytes
+T38	protein 1570 1574	nNOS
+T39	cell_type 1578 1588	astrocytes
+T40	protein 1599 1608	NF kappaB
+T41	protein 1622 1626	iNOS
+T42	protein 1681 1685	nNOS
+T43	DNA 1736 1761	NF kappaB-regulated genes

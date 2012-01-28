@@ -1,0 +1,22 @@
+T1	DNA 24 33	CD48 gene
+T2	cell_type 86 130	Epstein-Barr virus-immortalized B-cell lines
+T3	DNA 157 172	NF-kappa B site
+T4	cell_type 224 239	resting B cells
+T5	protein 334 338	CD48
+T6	cell_type 373 397	normal activated B cells
+T7	DNA 445 461	enhancer element
+T8	DNA 469 478	CD48 gene
+T9	cell_line 546 586	EBV-positive B-lymphoblastoid cell lines
+T10	cell_line 648 673	EBV-negative B-cell lines
+T11	cell_type 734 758	lymphoblastoid phenotype
+T12	protein 764 774	NF-kappa B
+T13	protein 949 972	nuclear protein complex
+T14	protein 1013 1024	NF-kappa B1
+T15	protein 1027 1030	p50
+T16	protein 1065 1102	EBV-encoded latent membrane protein 1
+T17	protein 1146 1150	CD48
+T18	DNA 1151 1166	NF-kappa B site
+T19	DNA 1179 1193	intact element
+T20	protein 1216 1241	latent membrane protein 1
+T21	protein 1264 1278	NF-kappa B/Rel
+T22	cell_type 1378 1393	resting B cells

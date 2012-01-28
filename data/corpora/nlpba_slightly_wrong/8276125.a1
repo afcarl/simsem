@@ -1,0 +1,12 @@
+T1	protein 0 18	Vitamin D receptor
+T2	cell_type 35 64	human blood mononuclear cells
+T3	protein 89 107	Vitamin D receptor
+T4	cell_type 149 189	human peripheral blood mononuclear cells
+T5	cell_type 192 196	PBMC
+T6	cell_type 412 425	resting cells
+T7	cell_type 521 530	monocytes
+T8	protein 559 577	phytohemagglutinin
+T9	cell_type 580 588	patients
+T10	protein 790 793	VDR
+T11	cell_type 1069 1073	PBMC
+T12	protein 1111 1114	VDR

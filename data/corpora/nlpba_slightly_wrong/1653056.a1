@@ -1,0 +1,40 @@
+T1	protein 0 10	NF-kappa B
+T2	protein 25 52	tumor necrosis factor alpha
+T3	cell_line 60 78	Jurkat T cell line
+T4	protein 97 113	protein kinase A
+T5	protein 116 132	protein kinase C
+T6	protein 139 167	Ca ( 2+ ) -regulated kinases
+T7	protein 170 180	NF-kappa B
+T8	protein 186 215	DNA-binding regulatory factor
+T9	DNA 279 321	human immunodeficiency virus ( HIV ) genes
+T10	cell_type 327 334	T cells
+T11	protein 337 347	NF-kappa B
+T12	protein 420 447	tumor necrosis factor alpha
+T13	protein 450 459	TNF alpha
+T14	protein 534 544	NF-kappa B
+T15	protein 559 568	TNF alpha
+T16	cell_line 574 591	human T cell line
+T17	cell_line 594 600	Jurkat
+T18	cell_line 620 624	JCT6
+T19	protein 662 665	PKA
+T20	protein 747 756	TNF alpha
+T21	protein 779 789	NF-kappa B
+T22	protein 857 866	TNF alpha
+T23	protein 944 947	PKC
+T24	protein 977 986	TNF alpha
+T25	protein 1010 1019	TNF alpha
+T26	protein 1151 1161	NF-kappa B
+T27	cell_line 1165 1177	Jurkat cells
+T28	protein 1187 1196	TNF alpha
+T29	protein 1206 1216	NF-kappa B
+T30	protein 1274 1298	signal-mediating kinases
+T31	protein 1307 1323	protein kinase C
+T32	protein 1326 1329	PKC
+T33	protein 1334 1350	protein kinase A
+T34	protein 1356 1384	Ca ( 2+ ) -regulated kinases
+T35	protein 1453 1463	NF-kappa B
+T36	protein 1483 1492	TNF alpha
+T37	protein 1497 1500	PKC
+T38	protein 1533 1543	NF-kappa B
+T39	protein 1544 1554	/I kappa B
+T40	protein 1590 1600	NF-kappa B

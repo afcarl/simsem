@@ -1,0 +1,20 @@
+T1	cell_line 14 25	lymphocytes
+T2	protein 31 81	progesterone receptor-specific monoclonal antibody
+T3	cell_type 136 157	pregnancy lymphocytes
+T4	cell_type 168 192	nonpregnancy lymphocytes
+T5	protein 204 254	progesterone receptor-specific monoclonal antibody
+T6	protein 255 259	mPRI
+T7	protein 271 277	avidin
+T8	protein 278 296	-biotin peroxidase
+T9	cell_type 391 412	pregnancy lymphocytes
+T10	cell_type 471 495	nonpregnancy lymphocytes
+T11	cell_line 570 589	CD8+ and CD4+ cells
+T12	cell_line 649 659	CD8+ cells
+T13	cell_line 699 734	progesterone receptor-bearing cells
+T14	cell_line 756 766	CD4+ cells
+T15	cell_line 835 846	lymphocytes
+T16	cell_line 852 876	nonpregnancy lymphocytes
+T17	protein 885 888	PHA
+T18	cell_type 989 1014	receptor-containing cells
+T19	cell_line 1079 1090	lymphocytes
+T20	protein 1099 1130	progesterone binding structures

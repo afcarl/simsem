@@ -1,0 +1,6 @@
+T1	cell_type 36 50	lymphoid cells
+T2	cell_type 84 98	lymphoid cells
+T3	cell_type 249 260	lymphocytes
+T4	DNA 396 405	chromatin
+T5	protein 422 435	endonucleases
+T6	DNA 526 535	oncogenes

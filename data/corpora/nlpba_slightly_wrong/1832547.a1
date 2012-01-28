@@ -1,0 +1,10 @@
+T1	protein 36 56	serum immunoglobulin
+T2	cell_type 134 172	immunoglobulin ( Ig ) -secreting cells
+T3	cell_line 176 232	pokeweed mitogen ( PWM ) -stimulated lymphocyte cultures
+T4	cell_type 235 246	Lymphocytes
+T5	cell_type 329 347	Ig-secreting cells
+T6	protein 354 357	PWM
+T7	protein 440 460	serum immunoglobulin
+T8	protein 463 466	IgA
+T9	protein 469 472	IgM
+T10	protein 475 478	IgG

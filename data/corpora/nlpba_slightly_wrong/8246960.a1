@@ -1,0 +1,27 @@
+T1	DNA 4 80	granulocyte-macrophage colony-stimulating factor promoter cis-acting element
+T2	DNA 81 85	CLE0
+T3	cell_type 116 123	T cells
+T4	protein 164 167	AP1
+T5	protein 172 176	NFAT
+T6	DNA 197 261	granulocyte-macrophage colony-stimulating factor ( GM-CSF ) gene
+T7	protein 431 446	T-cell receptor
+T8	DNA 501 514	bp -95 to +27
+T9	DNA 522 543	mouse GM-CSF promoter
+T10	DNA 571 585	reporter genes
+T11	cell_line 593 617	human Jurkat T-cell line
+T12	DNA 687 705	cis-acting element
+T13	DNA 708 728	positions -54 to -40
+T14	DNA 748 752	CLE0
+T15	DNA 850 854	CLE0
+T16	DNA 883 906	deleted or mutated CLE0
+T17	DNA 994 998	CLE0
+T18	protein 1154 1175	CLE0-binding proteins
+T19	protein 1233 1239	GM-CSF
+T20	protein 1267 1282	binding factors
+T21	protein 1358 1382	transcription factor AP1
+T22	protein 1414 1441	T-cell-specific factor NFAT
+T23	DNA 1561 1579	CLE0-like elements
+T24	DNA 1587 1596	promoters
+T25	DNA 1600 1662	interleukin-3 ( IL-3 ) , IL-4 , IL-5 , GM-CSF , and NFAT sites
+T26	DNA 1670 1683	IL-2 promoter
+T27	cell_type 1835 1841	T-cell

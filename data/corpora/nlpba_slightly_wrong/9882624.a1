@@ -1,0 +1,27 @@
+T1	protein 16 40	low-density lipoproteins
+T2	protein 70 83	interleukin 2
+T3	protein 88 109	nuclear factor kappaB
+T4	cell_type 128 151	activated T-lymphocytes
+T5	protein 271 295	low-density lipoproteins
+T6	protein 298 304	oxLDLs
+T7	protein 415 421	oxLDLs
+T8	protein 439 469	interleukin ( IL ) -2-receptor
+T9	protein 602 608	oxLDLs
+T10	protein 639 643	IL-2
+T11	protein 683 704	nuclear factor kappaB
+T12	protein 707 716	NF-kappaB
+T13	protein 760 766	oxLDLs
+T14	cell_type 819 831	lymphoblasts
+T15	cell_type 916 927	lymphocytes
+T16	protein 931 950	phytohaemagglutinin
+T17	protein 989 993	IL-2
+T18	protein 1025 1028	CD3
+T19	protein 1123 1132	NF-kappaB
+T20	protein 1145 1151	oxLDLs
+T21	protein 1173 1199	activation-induced p65/p50
+T22	protein 1200 1209	NF-kappaB
+T23	protein 1296 1305	p50 dimer
+T24	protein 1392 1419	cytosolic inhibitor protein
+T25	protein 1420 1433	IkappaB-alpha
+T26	protein 1517 1523	oxLDLs
+T27	cell_type 1565 1577	T-lymphocyte

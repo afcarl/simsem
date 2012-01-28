@@ -1,0 +1,13 @@
+T1	DNA 37 54	IL-1beta promoter
+T2	cell_line 69 89	macrophage cell line
+T3	DNA 447 482	interleukin-1beta ( IL-1beta ) gene
+T4	cell_line 488 513	model monocytic cell line
+T5	cell_line 516 535	hER + IL-1beta-CAT+
+T6	protein 581 604	human estrogen receptor
+T7	DNA 614 631	IL-1beta promoter
+T8	DNA 655 672	CAT reporter gene
+T9	DNA 732 749	IL-1beta promoter
+T10	DNA 840 857	IL-1beta promoter
+T11	protein 866 869	CAT
+T12	DNA 1807 1824	IL-1beta promoter
+T13	DNA 2272 2281	IL-1 gene

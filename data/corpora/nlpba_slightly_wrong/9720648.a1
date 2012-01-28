@@ -1,0 +1,23 @@
+T1	protein 0 21	Nuclear factor-kappaB
+T2	cell_type 35 69	CD45RO+ and CD45RA+ T cell subsets
+T3	cell_type 113 136	memory to naive T cells
+T4	protein 249 270	nuclear factor-kappaB
+T5	protein 273 281	NFkappaB
+T6	cell_type 297 352	memory ( CD45RO+ ) and naive ( CD45RA+ ) T cell subsets
+T7	cell_type 433 447	memory T cells
+T8	protein 505 514	TNF-alpha
+T9	protein 538 546	NFkappaB
+T10	protein 573 582	TNF-alpha
+T11	protein 615 623	NFkappaB
+T12	cell_type 632 663	memory and naive T cell subsets
+T13	protein 727 735	NFkappaB
+T14	cell_type 780 787	T cells
+T15	protein 865 878	IkappaB alpha
+T16	protein 904 913	TNF-alpha
+T17	protein 939 952	IkappaB alpha
+T18	cell_type 961 985	memory and naive T cells
+T19	protein 1086 1094	NFkappaB
+T20	protein 1153 1169	nuclear NFkappaB
+T21	protein 1212 1216	IL-2
+T22	protein 1241 1249	anti-CD3
+T23	cell_type 1281 1313	memory and naive T cells subsets

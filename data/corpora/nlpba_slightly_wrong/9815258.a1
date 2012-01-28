@@ -1,0 +1,25 @@
+T1	protein 23 56	interleukin 2 receptor beta chain
+T2	protein 57 108	( IL-2Rbeta ) /IL-4Ralpha cytokine receptor chimera
+T3	protein 159 174	T cell receptor
+T4	protein 177 180	TCR
+T5	protein 195 206	coreceptors
+T6	cell_type 225 253	antigen-presenting cell type
+T7	cell_type 334 354	type 2 T lymphocytes
+T8	cell_type 357 360	Th2
+T9	cell_type 363 366	Tc2
+T10	protein 382 404	uncommitted precursors
+T11	cell_type 483 497	type 2 T cells
+T12	protein 593 619	chimeric cytokine receptor
+T13	protein 626 700	mouse interleukin 2 receptor beta chain [ IL-2Rbeta ] extracellular domain
+T14	protein 714 730	cytoplasmic tail
+T15	protein 734 744	IL-4Ralpha
+T16	cell_type 766 784	T lymphoid lineage
+T17	DNA 795 816	proximal lck promoter
+T18	protein 843 847	IL-4
+T19	protein 881 885	IL-2
+T20	protein 939 943	IL-4
+T21	protein 946 950	IL-5
+T22	protein 957 973	immunoglobulin E
+T23	protein 1001 1004	TCR
+T24	protein 1097 1101	IL-4
+T25	protein 1131 1148	chimeric receptor

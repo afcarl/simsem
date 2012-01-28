@@ -1,0 +1,9 @@
+T1	protein 80 88	elastase
+T2	protein 131 140	proteases
+T3	protein 521 545	serum amylase and lipase
+T4	protein 616 633	nuclear factor KB
+T5	protein 636 641	NF-KB
+T6	cell_type 811 838	activated human neutrophils
+T7	protein 1030 1043	plasma lipase
+T8	protein 1048 1055	amylase
+T9	cell_type 1146 1163	human neutrophils

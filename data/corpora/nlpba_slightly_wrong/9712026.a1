@@ -1,0 +1,39 @@
+T1	protein 2 6	CD28
+T2	DNA 48 61	cytokine gene
+T3	protein 109 112	TCR
+T4	cell_type 141 162	resting human T cells
+T5	protein 172 196	CD28-specific mAb BW 828
+T6	protein 223 231	cytokine
+T7	protein 274 277	TCR
+T8	protein 399 402	TCR
+T9	cell_type 425 432	T cells
+T10	protein 477 481	CD28
+T11	cell_type 587 594	T cells
+T12	protein 602 624	stimulatory mAb BW 828
+T13	protein 655 682	nonstimulating CD28 mAb 9.3
+T14	cell_type 700 707	T cells
+T15	protein 713 719	BW 828
+T16	protein 813 828	protein kinases
+T17	protein 829 840	p56 ( lck )
+T18	protein 845 852	c-Raf-1
+T19	protein 901 922	transcription factors
+T20	protein 923 933	NF-kappa B
+T21	protein 936 941	NF-AT
+T22	protein 972 976	CD28
+T23	DNA 1001 1014	IL-2 promoter
+T24	cell_type 1052 1059	T cells
+T25	protein 1065 1072	mAb 9.3
+T26	protein 1147 1158	p56 ( lck )
+T27	protein 1163 1170	c-Raf-1
+T28	protein 1213 1234	transcription factors
+T29	DNA 1242 1255	IL-2 promoter
+T30	protein 1303 1309	BW 828
+T31	protein 1314 1317	9.3
+T32	cell_type 1409 1426	activated T cells
+T33	cell_type 1431 1443	Jurkat cells
+T34	protein 1446 1457	p56 ( lck )
+T35	protein 1486 1515	phosphatidylinositol 3-kinase
+T36	protein 1521 1525	CD28
+T37	protein 1572 1576	CD28
+T38	protein 1656 1660	CD28
+T39	cell_type 1699 1706	T cells

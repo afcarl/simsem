@@ -1,0 +1,42 @@
+T1	protein 0 15	I kappa B/MAD-3
+T2	protein 57 71	NF-kappa B p65
+T3	protein 89 111	transactivation domain
+T4	protein 123 137	NF-kappa B p65
+T5	protein 183 222	NF-kappa B transcription factor complex
+T6	protein 242 262	DNA binding subunits
+T7	protein 265 279	NF-kappa B p65
+T8	protein 284 298	NF-kappa B p50
+T9	protein 369 391	v-rel oncogene product
+T10	protein 398 420	NF-kappa B p65 subunit
+T11	protein 546 556	NF-kappa B
+T12	protein 592 606	NF-kappa B p50
+T13	protein 732 741	I kappa B
+T14	protein 827 837	NF-kappa B
+T15	protein 842 857	I kappa B/MAD-3
+T16	protein 872 900	human NF-kappa B p65 mutants
+T17	protein 959 968	I kappa B
+T18	protein 996 1005	I kappa B
+T19	protein 1041 1061	transcription factor
+T20	protein 1125 1147	NF-kappa B p65 mutants
+T21	protein 1177 1192	I kappa B/MAD-3
+T22	protein 1213 1227	NF-kappa B p65
+T23	DNA 1287 1339	human immunodeficiency virus type 1 kappa B enhancer
+T24	cell_type 1343 1362	human T lymphocytes
+T25	protein 1384 1399	I kappa B/MAD-3
+T26	protein 1403 1417	NF-kappa B p65
+T27	protein 1444 1458	NF-kappa B p65
+T28	protein 1579 1598	Rel homology domain
+T29	protein 1602 1616	NF-kappa B p65
+T30	protein 1648 1663	I kappa B/MAD-3
+T31	protein 1685 1695	C-terminus
+T32	protein 1699 1713	NF-kappa B p65
+T33	protein 1799 1808	I kappa B
+T34	protein 1833 1847	NF-kappa B p65
+T35	protein 1946 1968	transactivation domain
+T36	protein 1972 1986	NF-kappa B p65
+T37	protein 2075 2090	I kappa B/MAD-3
+T38	protein 2150 2165	I kappa B/MAD-3
+T39	protein 2184 2198	NF-kappa B p50
+T40	protein 2262 2276	NF-kappa B p50
+T41	protein 2402 2419	C-terminal domain
+T42	protein 2458 2472	NF-kappa B p65

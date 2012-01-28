@@ -1,0 +1,12 @@
+T1	protein 43 53	NF-kappa B
+T2	cell_type 68 81	human T cells
+T3	DNA 201 236	long terminal repeat ( LTR ) region
+T4	DNA 240 256	HIV proviral DNA
+T5	protein 284 306	nuclear factor kappa B
+T6	protein 309 319	NF-kappa B
+T7	protein 333 358	transcriptional activator
+T8	protein 513 523	NF-kappa B
+T9	protein 645 655	NF-kappa B
+T10	cell_line 774 788	Jurkat T cells
+T11	protein 925 935	NF-kappa B
+T12	protein 958 985	tumor necrosis factor-alpha

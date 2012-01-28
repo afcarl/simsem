@@ -1,0 +1,27 @@
+T1	protein 42 82	matrix attachment region binding protein
+T2	protein 91 117	NF-muNR enhancer repressor
+T3	protein 151 177	immunoglobulin heavy chain
+T4	protein 195 221	immunoglobulin heavy chain
+T5	protein 224 227	IgH
+T6	protein 386 495	nuclear factor-mu negative regulator ( NF-muNR ) enhancer repressor overlap nuclear matrix attachment regions
+T7	protein 498 502	MARs
+T8	DNA 513 521	enhancer
+T9	DNA 587 595	enhancer
+T10	protein 760 764	MARs
+T11	DNA 768 780	IgH enhancer
+T12	protein 821 840	MAR-binding protein
+T13	protein 843 850	MAR-BP1
+T14	protein 930 934	MARs
+T15	DNA 955 967	IgH enhancer
+T16	protein 979 986	MAR-BP1
+T17	protein 1001 1015	33-kDa protein
+T18	cell_line 1105 1124	lymphoid cell lines
+T19	protein 1242 1249	NF-muNR
+T20	protein 1291 1298	MAR-BP1
+T21	DNA 1333 1345	IgH enhancer
+T22	protein 1397 1404	MAR-BP1
+T23	protein 1430 1437	NF-muNR
+T24	protein 1548 1565	NF-muNR repressor
+T25	DNA 1573 1585	IgH enhancer
+T26	protein 1664 1671	MAR-BP1
+T27	DNA 1672 1681	/enhancer

@@ -1,0 +1,21 @@
+T1	DNA 2 17	novel SP-1 site
+T2	DNA 25 58	human interleukin-1 beta promoter
+T3	cell_type 108 121	keratinocytes
+T4	protein 187 204	interleukin-1beta
+T5	protein 207 215	IL-1beta
+T6	DNA 377 400	human IL-1beta promoter
+T7	cell_type 534 547	keratinocytes
+T8	DNA 604 626	43-mer oligonucleotide
+T9	DNA 668 686	cis-acting element
+T10	DNA 746 802	transcription factor consensus sequence oligonucleotides
+T11	protein 829 854	transcription factor SP-1
+T12	DNA 910 928	regulatory element
+T13	DNA 962 985	SP-1 consensus sequence
+T14	DNA 1020 1037	TCCCCTCCCCT motif
+T15	protein 1131 1153	low-mobility complexes
+T16	protein 1248 1256	IL-1beta
+T17	protein 1325 1352	tumor necrosis factor-alpha
+T18	DNA 1369 1378	SP-1 site
+T19	DNA 1435 1444	SP-1 site
+T20	DNA 1452 1475	human IL-1beta promoter
+T21	cell_type 1542 1555	keratinocytes

@@ -1,0 +1,14 @@
+T1	protein 0 5	c-Rel
+T2	cell_type 378 385	T cells
+T3	protein 405 410	c-Rel
+T4	protein 473 497	NF-kappaB family members
+T5	protein 554 559	NF-AT
+T6	protein 607 612	c-Rel
+T7	protein 685 706	transcription factors
+T8	RNA 709 718	IL-2 mRNA
+T9	RNA 760 786	IL-2R ( alpha ) chain mRNA
+T10	protein 846 851	c-Rel
+T11	protein 858 878	IL-2 promoter factor
+T12	cell_type 1003 1010	T cells
+T13	protein 1013 1018	c-Rel
+T14	cell_type 1054 1061	B cells

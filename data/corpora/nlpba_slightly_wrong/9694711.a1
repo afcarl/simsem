@@ -1,0 +1,51 @@
+T1	protein 0 5	Bcl-3
+T2	protein 58 106	granulocyte-macrophage colony-stimulating factor
+T3	protein 111 125	erythropoietin
+T4	cell_type 129 169	proliferating human erythroid precursors
+T5	protein 172 177	Bcl-3
+T6	DNA 183 197	proto-oncogene
+T7	DNA 226 253	translocation t ( 14 ; 19 )
+T8	protein 375 389	IkappaB family
+T9	protein 436 441	Bcl-3
+T10	cell_line 546 556	TF-1 cells
+T11	cell_line 562 587	erythroleukemia cell line
+T12	protein 590 638	granulocyte-macrophage colony-stimulating factor
+T13	protein 641 647	GM-CSF
+T14	protein 654 668	erythropoietin
+T15	protein 671 674	Epo
+T16	protein 694 699	Bcl-3
+T17	protein 798 803	Bcl-3
+T18	cell_type 841 915	early burst-forming unit-erythroid ( BFU-E ) -derived erythroid precursors
+T19	protein 995 1000	Bcl-3
+T20	cell_type 1058 1077	hematopoietic cells
+T21	protein 1080 1085	Bcl-3
+T22	protein 1112 1118	GM-CSF
+T23	protein 1123 1126	Epo
+T24	protein 1169 1174	Bcl-3
+T25	cell_line 1197 1207	TF-1 cells
+T26	protein 1213 1219	GM-CSF
+T27	protein 1223 1226	Epo
+T28	protein 1258 1263	Bcl-3
+T29	protein 1310 1315	Bcl-3
+T30	cell_line 1319 1329	TF-1 cells
+T31	protein 1371 1399	NF-kappaB factors p50 or p52
+T32	DNA 1440 1527	human immunodeficiency virus-type 1 ( HIV-1 ) kappaB-TATA-luceriferase reporter plasmid
+T33	protein 1549 1554	Bcl-3
+T34	DNA 1597 1620	kappaB-containing genes
+T35	cell_type 1624 1639	erythroid cells
+T36	protein 1659 1665	GM-CSF
+T37	RNA 1675 1685	c-myb mRNA
+T38	protein 1714 1719	Bcl-3
+T39	cell_line 1743 1753	TF-1 cells
+T40	DNA 1765 1780	kappaB enhancer
+T41	DNA 1788 1802	c-myb promoter
+T42	protein 1817 1831	NF-kappaB2/p52
+T43	protein 1874 1880	GM-CSF
+T44	protein 1927 1932	Bcl-3
+T45	protein 1938 1941	p52
+T46	protein 1945 1948	p50
+T47	cell_line 1952 1962	TF-1 cells
+T48	DNA 2003 2050	c-myb kappaB-TATA-luceriferase reporter plasmid
+T49	protein 2081 2086	Bcl-3
+T50	DNA 2148 2171	kappaB-containing genes
+T51	DNA 2210 2215	c-myb

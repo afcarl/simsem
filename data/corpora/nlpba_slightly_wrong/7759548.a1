@@ -1,0 +1,32 @@
+T1	DNA 28 47	regulatory elements
+T2	DNA 59 81	5'-untranslated region
+T3	DNA 89 114	human A gamma-globin gene
+T4	DNA 141 163	stage selector element
+T5	DNA 179 209	proximal gamma-globin promoter
+T6	DNA 214 237	hypersensitivity site 2
+T7	DNA 245 265	locus control region
+T8	DNA 315 335	beta-globin promoter
+T9	DNA 410 426	SSE-like element
+T10	DNA 434 456	5'-untranslated region
+T11	DNA 464 474	gamma-gene
+T12	DNA 529 538	beta-gene
+T13	cell_line 588 613	fetal erythroid cell line
+T14	cell_line 616 620	K562
+T15	DNA 646 659	core enhancer
+T16	DNA 663 686	hypersensitivity site 2
+T17	DNA 724 747	proximal gamma-promoter
+T18	DNA 770 773	SSE
+T19	DNA 799 819	linked beta-promoter
+T20	DNA 865 898	gamma-gene 5'-untranslated region
+T21	DNA 901 904	UTR
+T22	DNA 930 943	beta-promoter
+T23	DNA 978 992	gamma-promoter
+T24	DNA 1154 1160	5'-UTR
+T25	DNA 1229 1251	nucleotides +13 to +15
+T26	protein 1333 1369	fetal and erythroid-specific protein
+T27	DNA 1402 1408	5'-UTR
+T28	DNA 1433 1448	GATA-like sites
+T29	protein 1520 1550	erythroid transcription factor
+T30	protein 1551 1557	GATA-1
+T31	DNA 1592 1598	5'-UTR
+T32	DNA 1606 1616	gamma-gene

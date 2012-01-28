@@ -1,0 +1,37 @@
+T1	protein 24 40	protein kinase C
+T2	protein 55 66	fibronectin
+T3	DNA 76 97	interleukin-beta gene
+T4	cell_type 149 170	human monocytic cells
+T5	cell_type 173 194	Human monocytic cells
+T6	protein 203 220	interleukin-1beta
+T7	protein 223 231	IL-1beta
+T8	protein 259 292	extracellular matrix glycoprotein
+T9	protein 295 306	fibronectin
+T10	protein 309 311	FN
+T11	protein 316 332	Protein kinase C
+T12	protein 335 338	PKC
+T13	protein 434 437	PKC
+T14	protein 463 465	FN
+T15	protein 475 483	IL-1beta
+T16	protein 566 569	PKC
+T17	protein 628 630	FN
+T18	protein 640 648	IL-1beta
+T19	protein 701 717	IL-1beta protein
+T20	cell_type 736 770	peripheral blood mononuclear cells
+T21	protein 782 784	FN
+T22	protein 900 916	IL-1beta protein
+T23	cell_line 1077 1106	human U937 promonocytic cells
+T24	DNA 1147 1176	full-length IL-1beta promoter
+T25	DNA 1192 1216	luciferase reporter gene
+T26	protein 1414 1454	transcription factor activator protein-1
+T27	protein 1457 1461	AP-1
+T28	protein 1498 1500	FN
+T29	protein 1514 1522	IL-1beta
+T30	DNA 1583 1596	IL-1beta gene
+T31	protein 1641 1645	AP-1
+T32	DNA 1770 1783	IL-1beta gene
+T33	protein 1874 1877	PKC
+T34	protein 1897 1900	PKC
+T35	protein 1918 1920	FN
+T36	protein 1930 1938	IL-1beta
+T37	protein 2011 2019	IL-1beta

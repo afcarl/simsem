@@ -1,0 +1,24 @@
+T1	RNA 76 98	Androgen receptor mRNA
+T2	protein 129 180	androgen- and antiandrogen-bound receptor complexes
+T3	protein 233 240	trypsin
+T4	protein 266 297	androgen-bound receptor protein
+T5	protein 312 349	29-kDa proteolysis-resisting fragment
+T6	protein 394 409	35-kDa fragment
+T7	protein 446 467	ligand binding domain
+T8	protein 478 493	35-kDa fragment
+T9	protein 512 524	hinge region
+T10	protein 597 622	mutated androgen receptor
+T11	cell_line 625 643	LNCaP cell variant
+T12	protein 648 655	trypsin
+T13	protein 669 704	antiandrogen-bound mutated receptor
+T14	protein 724 739	29-kDa fragment
+T15	protein 834 859	steroid hormone receptors
+T16	protein 909 921	hinge region
+T17	protein 926 936	C-terminus
+T18	protein 944 961	androgen receptor
+T19	protein 1071 1085	C-terminal end
+T20	protein 1093 1114	ligand binding domain
+T21	protein 1148 1156	protease
+T22	protein 1194 1206	hinge region
+T23	protein 1219 1233	androgen-bound
+T24	protein 1239 1276	antiandrogen-bound receptor complexes

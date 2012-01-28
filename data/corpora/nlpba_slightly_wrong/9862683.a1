@@ -1,0 +1,27 @@
+T1	protein 12 17	Stat4
+T2	protein 75 86	type I IFNs
+T3	protein 89 100	Type I IFNs
+T4	protein 103 117	IFN-alpha/beta
+T5	protein 137 142	IL-12
+T6	cell_type 237 245	Th cells
+T7	protein 266 280	IFN-alpha/beta
+T8	cell_type 297 310	human T cells
+T9	protein 361 366	IL-12
+T10	protein 396 405	IFN-alpha
+T11	protein 425 430	IL-12
+T12	protein 516 530	IFN-alpha/beta
+T13	protein 540 545	Stat4
+T14	cell_type 589 597	Th cells
+T15	protein 607 612	IL-12
+T16	cell_type 634 643	Th1 cells
+T17	protein 646 660	IFN-alpha/beta
+T18	protein 674 679	Stat4
+T19	cell_type 692 701	human Th1
+T20	cell_type 716 725	Th2 cells
+T21	cell_line 755 770	human Th2 lines
+T22	protein 801 810	IFN-alpha
+T23	protein 845 854	IFN-gamma
+T24	protein 898 903	Stat4
+T25	cell_type 952 965	naive T cells
+T26	cell_type 981 990	Th1 cells
+T27	cell_type 1043 1058	human Th2 cells

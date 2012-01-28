@@ -1,0 +1,19 @@
+T1	cell_type 33 67	peripheral blood mononuclear cells
+T2	cell_type 291 325	peripheral blood mononuclear cells
+T3	cell_type 328 333	PBMCs
+T4	protein 378 397	phytohaemagglutinin
+T5	protein 400 403	PHA
+T6	protein 489 492	PHA
+T7	cell_type 519 524	PBMCs
+T8	protein 717 720	PHA
+T9	cell_type 747 752	PBMCs
+T10	protein 879 882	PHA
+T11	cell_type 909 914	PBMCs
+T12	protein 1241 1244	PHA
+T13	cell_type 1271 1276	PBMCs
+T14	cell_type 1627 1632	PBMCs
+T15	protein 1665 1668	PHA
+T16	cell_type 1845 1850	PBMCs
+T17	protein 1879 1882	PHA
+T18	protein 2025 2028	PHA
+T19	cell_type 2055 2060	PBMCs

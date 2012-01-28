@@ -1,0 +1,22 @@
+T1	protein 0 41	Nuclear Rel-A and c-Rel protein complexes
+T2	cell_type 80 96	human thymocytes
+T3	protein 99 150	Nuclear factor-kappa B ( NF-kappa B ) /Rel proteins
+T4	protein 165 191	transcriptional regulators
+T5	DNA 204 218	cellular genes
+T6	protein 425 435	NF-kappa B
+T7	cell_type 478 494	human thymocytes
+T8	protein 587 606	NF-kappa B proteins
+T9	protein 654 685	p50/p65 and p50/c-Rel complexes
+T10	protein 759 771	specific Abs
+T11	protein 797 824	nuclear NF-kappa B proteins
+T12	cell_type 833 843	thymocytes
+T13	cell_type 848 866	nonthymocyte cells
+T14	protein 923 932	p50/c-Rel
+T15	cell_type 936 956	medullary thymocytes
+T16	protein 967 974	p50/p65
+T17	protein 1079 1082	p65
+T18	cell_type 1119 1129	thymocytes
+T19	cell_type 1201 1233	CD4- and CD8-positive thymocytes
+T20	protein 1268 1291	p65 and c-Rel complexes
+T21	protein 1354 1364	NF-kappa B
+T22	cell_type 1437 1444	T cells

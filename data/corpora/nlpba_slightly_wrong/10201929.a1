@@ -1,0 +1,17 @@
+T1	protein 54 58	AP-1
+T2	cell_line 77 99	NKL human NK cell line
+T3	cell_line 302 321	human NKL cell line
+T4	protein 359 397	very early activator protein ( AP ) -1
+T5	DNA 398 424	transcription factor genes
+T6	DNA 433 437	JunB
+T7	DNA 440 444	FosB
+T8	DNA 449 454	c-Fos
+T9	protein 497 517	Jun-Fos heterodimers
+T10	protein 637 698	immunoglobulin-like transcript-2/leukocyte Ig-like receptor 1
+T11	cell_type 702 711	NKL cells
+T12	protein 716 723	HLA-B27
+T13	cell_type 727 739	target cells
+T14	protein 1005 1030	AP-1 transcription factor
+T15	protein 1120 1148	NK cell inhibitory receptors
+T16	protein 1153 1174	MHC class I molecules
+T17	protein 1212 1216	AP-1

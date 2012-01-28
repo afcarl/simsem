@@ -1,0 +1,37 @@
+T1	protein 70 93	glucocorticoid receptor
+T2	cell_type 126 143	endothelial cells
+T3	protein 162 203	endothelial-leukocyte adhesion molecule 1
+T4	protein 208 241	intercellular adhesion molecule 1
+T5	cell_type 455 477	circulating leukocytes
+T6	protein 519 537	adhesive molecules
+T7	cell_type 542 552	leukocytes
+T8	protein 562 603	endothelial-leukocyte adhesion molecule 1
+T9	protein 606 612	ELAM-1
+T10	protein 619 652	intercellular adhesion molecule 1
+T11	protein 655 661	ICAM-1
+T12	protein 778 796	adhesion molecules
+T13	cell_type 801 812	neutrophils
+T14	cell_type 815 843	polymorphonuclear leukocytes
+T15	cell_type 865 882	endothelial cells
+T16	cell_type 998 1026	polymorphonuclear leukocytes
+T17	cell_type 1054 1071	endothelial cells
+T18	cell_type 1120 1137	endothelial cells
+T19	protein 1259 1275	steroid receptor
+T20	protein 1514 1538	corticosteroid receptors
+T21	protein 1541 1571	human glucocorticoid receptors
+T22	protein 1574 1578	hGRs
+T23	protein 1716 1719	hGR
+T24	protein 1765 1768	hGR
+T25	cell_type 1864 1881	endothelial cells
+T26	cell_type 1920 1937	endothelial cells
+T27	protein 1994 2000	ELAM-1
+T28	protein 2058 2084	membrane-associated ELAM-1
+T29	protein 2089 2095	ICAM-1
+T30	protein 2244 2250	ELAM-1
+T31	protein 2269 2275	ELAM-1
+T32	protein 2280 2286	ICAM-1
+T33	protein 2518 2524	ELAM-1
+T34	protein 2529 2535	ICAM-1
+T35	protein 2662 2680	adhesion molecules
+T36	protein 2741 2750	endotoxin
+T37	protein 2841 2864	glucocorticoid receptor

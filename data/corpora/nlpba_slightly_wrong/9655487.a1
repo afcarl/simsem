@@ -1,0 +1,12 @@
+T1	cell_type 90 114	antibody-secreting cells
+T2	protein 178 182	CD40
+T3	protein 270 274	CD40
+T4	protein 525 550	transcriptional regulator
+T5	protein 551 558	BLIMP-1
+T6	protein 619 623	CD40
+T7	protein 667 675	mitogens
+T8	protein 679 688	cytokines
+T9	protein 751 755	CD40
+T10	protein 758 762	gp39
+T11	cell_type 845 852	B cells
+T12	cell_type 882 905	gp39-expressing T cells

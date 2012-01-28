@@ -1,0 +1,24 @@
+T1	protein 30 43	interleukin 3
+T2	protein 46 49	IL3
+T3	cell_type 55 82	primary human T lymphocytes
+T4	protein 93 127	AP-1- and octamer-binding proteins
+T5	protein 142 145	IL3
+T6	protein 239 252	interleukin 3
+T7	protein 255 258	IL3
+T8	cell_type 280 307	primary human T lymphocytes
+T9	protein 368 386	phytohemagglutinin
+T10	cell_type 496 517	primary T lymphocytes
+T11	protein 630 635	c-Jun
+T12	protein 638 643	c-Fos
+T13	protein 650 674	octamer-binding proteins
+T14	DNA 730 738	IL3 gene
+T15	DNA 808 832	IL3 5'-flanking sequence
+T16	DNA 875 887	-107 and -59
+T17	DNA 895 907	IL3 promoter
+T18	DNA 928 955	AP-2 and Sp1 binding motifs
+T19	protein 1008 1011	IL3
+T20	protein 1047 1050	CD2
+T21	protein 1075 1093	phytohemagglutinin
+T22	protein 1158 1161	IL3
+T23	protein 1310 1313	IL3
+T24	cell_type 1333 1352	human T lymphocytes

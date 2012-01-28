@@ -1,0 +1,24 @@
+T1	DNA 25 46	TSG101 and FHIT genes
+T2	DNA 193 199	TSG101
+T3	DNA 225 235	mouse gene
+T4	DNA 238 244	tsg101
+T5	cell_type 310 330	human breast tumours
+T6	DNA 345 351	TSG101
+T7	cell_type 452 476	EBV-immortalised B-cells
+T8	DNA 519 525	TSG101
+T9	RNA 539 554	RNA transcripts
+T10	DNA 807 828	splice site sequences
+T11	DNA 979 1010	putative tumour suppressor gene
+T12	DNA 1011 1015	FHIT
+T13	DNA 1030 1034	FHIT
+T14	RNA 1057 1068	RNA samples
+T15	RNA 1092 1108	FHIT transcripts
+T16	DNA 1187 1193	TSG101
+T17	DNA 1196 1200	FHIT
+T18	cell_type 1258 1293	normal peripheral blood lymphocytes
+T19	DNA 1302 1308	TSG101
+T20	DNA 1313 1317	FHIT
+T21	cell_type 1419 1438	'aged ' lymphocytes
+T22	RNA 1565 1602	truncated TSG101 and FHIT transcripts
+T23	DNA 1799 1805	TSG101
+T24	DNA 1810 1814	FHIT

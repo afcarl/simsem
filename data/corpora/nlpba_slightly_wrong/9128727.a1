@@ -1,0 +1,39 @@
+T1	protein 50 61	Erk2 kinase
+T2	cell_line 76 100	Lck-negative JCaM1 cells
+T3	protein 104 107	Syk
+T4	protein 126 150	protein-tyrosine kinases
+T5	protein 151 154	Syk
+T6	protein 159 162	Zap
+T7	protein 264 287	T cell antigen receptor
+T8	protein 341 344	Syk
+T9	protein 370 387	Src family kinase
+T10	protein 388 391	Lck
+T11	protein 415 418	Zap
+T12	protein 459 462	Syk
+T13	cell_line 470 494	Lck-negative JCaM1 cells
+T14	protein 507 542	T cell antigen receptor/CD3 complex
+T15	protein 580 612	mitogen-activated protein kinase
+T16	protein 615 619	MAPK
+T17	protein 650 685	nuclear factor of activated T cells
+T18	protein 721 724	Zap
+T19	protein 735 759	protein-tyrosine kinases
+T20	protein 863 866	Syk
+T21	protein 906 909	Zap
+T22	protein 924 927	Syk
+T23	protein 938 961	T cell antigen receptor
+T24	protein 971 975	MAPK
+T25	protein 1079 1082	Syk
+T26	protein 1103 1107	MAPK
+T27	protein 1152 1155	Syk
+T28	protein 1168 1192	autophosphorylation site
+T29	protein 1218 1240	Src homology 2 domains
+T30	protein 1267 1321	inhibitory N17-mutated dominant-negative Ras construct
+T31	protein 1336 1344	F mutant
+T32	protein 1348 1351	Syk
+T33	protein 1397 1414	phospholipase Cy1
+T34	protein 1419 1422	Vav
+T35	protein 1449 1462	wild-type Syk
+T36	protein 1490 1493	Syk
+T37	protein 1511 1514	Zap
+T38	protein 1548 1571	T cell antigen receptor
+T39	protein 1589 1592	Lck

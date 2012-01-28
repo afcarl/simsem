@@ -1,0 +1,14 @@
+T1	cell_line 13 23	HL60 cells
+T2	cell_type 135 146	neutrophils
+T3	cell_type 150 159	monocytes
+T4	cell_line 246 268	serum-grown HL60 cells
+T5	cell_type 335 345	neutrophil
+T6	cell_type 471 480	monocytes
+T7	cell_line 516 543	serum-free grown HL60 cells
+T8	cell_type 720 728	monocyte
+T9	cell_line 903 913	HL60 cells
+T10	cell_line 958 985	serum-free grown HL60 cells
+T11	cell_line 1218 1228	HL60 cells
+T12	cell_line 1651 1661	HL60 cells
+T13	cell_line 1822 1831	HL60 cell
+T14	cell_line 2026 2036	HL60 cells

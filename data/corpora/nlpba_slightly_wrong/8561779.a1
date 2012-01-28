@@ -1,0 +1,22 @@
+T1	protein 14 19	NF-AT
+T2	protein 78 89	calcineurin
+T3	protein 146 181	calcineurin catalytic ( A ) subunit
+T4	protein 213 238	calmodulin-binding domain
+T5	protein 241 262	autoinhibitory domain
+T6	protein 312 336	regulatory ( B ) subunit
+T7	protein 391 402	calcineurin
+T8	DNA 461 504	`` B-subunit knock-out '' ( BKO ) construct
+T9	DNA 516 529	reporter gene
+T10	protein 549 554	NF-AT
+T11	DNA 569 585	promoter element
+T12	DNA 590 616	interleukin ( IL ) -2 gene
+T13	protein 652 671	epitope-labeled BKO
+T14	protein 727 747	endogenous B subunit
+T15	cell_line 751 763	Jurkat cells
+T16	protein 845 854	B subunit
+T17	protein 891 896	NF-AT
+T18	DNA 918 937	co-transfecting BKO
+T19	protein 994 1003	B subunit
+T20	protein 1149 1160	calcineurin
+T21	protein 1229 1255	catalytically active dimer
+T22	protein 1259 1287	calcineurin A and B subunits

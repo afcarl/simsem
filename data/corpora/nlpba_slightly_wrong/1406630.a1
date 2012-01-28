@@ -1,0 +1,26 @@
+T1	protein 86 96	NF-kappa B
+T2	protein 167 170	p50
+T3	protein 175 187	p65 subunits
+T4	protein 195 234	NF-kappa B transcription factor complex
+T5	DNA 388 408	proto-oncogene c-rel
+T6	protein 475 478	p50
+T7	protein 482 485	p65
+T8	protein 695 698	p50
+T9	protein 701 704	p65
+T10	protein 711 725	c-Rel proteins
+T11	protein 919 951	homodimeric Rel-related proteins
+T12	protein 1117 1120	p65
+T13	protein 1194 1208	p50 homodimers
+T14	DNA 1267 1300	p50- and c-Rel-selected sequences
+T15	protein 1472 1504	heterodimeric NF-kappa B complex
+T16	DNA 1560 1591	selective kappa B binding sites
+T17	DNA 1631 1683	chloramphenicol acetyltransferase reporter construct
+T18	DNA 1690 1718	p65 -and p50-selected motifs
+T19	protein 1758 1761	p65
+T20	protein 1766 1772	p50/65
+T21	protein 1777 1793	chimeric protein
+T22	protein 1803 1825	p50 DNA binding domain
+T23	protein 1830 1851	p65 activation domain
+T24	protein 1961 1971	NF-kappa B
+T25	protein 2051 2083	heterodimeric NF-kappa B complex
+T26	protein 2223 2243	rel-related proteins

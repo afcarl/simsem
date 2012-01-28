@@ -1,0 +1,52 @@
+T1	protein 2 16	nuclear factor
+T2	protein 17 23	NF-GM2
+T3	DNA 46 63	regulatory region
+T4	DNA 71 82	GM-CSF gene
+T5	cell_line 171 204	T-cell leukemia line Jurkat cells
+T6	protein 223 233	NF-kappa B
+T7	cell_type 250 257	T cells
+T8	protein 271 277	lectin
+T9	protein 415 426	lymphokines
+T10	protein 439 487	granulocyte-macrophage colony-stimulating factor
+T11	protein 490 496	GM-CSF
+T12	DNA 545 560	upstream region
+T13	DNA 568 589	mouse GM-CSF promoter
+T14	DNA 611 622	-95 and -73
+T15	DNA 720 738	DNA-binding motifs
+T16	DNA 741 744	GM2
+T17	DNA 749 755	GC-box
+T18	DNA 762 774	GM2 sequence
+T19	protein 810 833	inducible factor NF-GM2
+T20	protein 860 880	constitutive factors
+T21	protein 881 883	A1
+T22	protein 886 888	A2
+T23	protein 895 896	B
+T24	protein 929 935	GM-CSF
+T25	protein 975 998	inducible factor NF-GM2
+T26	cell_line 1038 1050	Jurkat cells
+T27	protein 1112 1118	NF-GM2
+T28	protein 1136 1139	p50
+T29	protein 1155 1158	p65
+T30	protein 1223 1229	GM-CSF
+T31	DNA 1234 1279	immunoglobulin kappa ( GGAAAGTCCC ) enhancers
+T32	protein 1311 1314	p50
+T33	protein 1332 1351	protein-DNA complex
+T34	protein 1375 1378	p50
+T35	protein 1410 1413	p65
+T36	protein 1426 1440	NF-GM2 complex
+T37	protein 1457 1460	p65
+T38	protein 1497 1516	protein-DNA complex
+T39	protein 1555 1569	NF-GM2 complex
+T40	protein 1607 1611	KBF1
+T41	protein 1627 1652	50 kDa NF-kappa B protein
+T42	protein 1672 1675	p50
+T43	protein 1679 1685	NF-GM2
+T44	protein 1708 1726	NF-GM2 polypeptide
+T45	protein 1778 1792	50 kDa subunit
+T46	protein 1796 1806	NF-kappa B
+T47	protein 1822 1828	NF-GM2
+T48	DNA 1871 1887	kappa B enhancer
+T49	DNA 1942 1957	GM-CSF promoter
+T50	DNA 2038 2049	GM-CSF gene
+T51	DNA 2062 2081	GM2/GC-box sequence
+T52	DNA 2127 2143	kappa B enhancer

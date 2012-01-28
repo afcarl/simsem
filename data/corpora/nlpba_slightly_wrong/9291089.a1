@@ -1,0 +1,15 @@
+T1	cell_type 83 94	blood cells
+T2	cell_type 102 118	common stem cell
+T3	DNA 248 274	transcription factor genes
+T4	DNA 309 331	chromosome breakpoints
+T5	protein 380 401	transcription factors
+T6	cell_type 502 537	granulocytic and monocytic lineages
+T7	protein 540 561	transcription factors
+T8	DNA 607 620	AML1/CBF beta
+T9	DNA 623 628	C/EBP
+T10	DNA 631 634	Ets
+T11	DNA 637 642	c-Myb
+T12	DNA 645 648	HOX
+T13	DNA 655 660	MZF-1
+T14	cell_type 713 726	myeloid cells
+T15	DNA 798 820	myeloid-specific genes

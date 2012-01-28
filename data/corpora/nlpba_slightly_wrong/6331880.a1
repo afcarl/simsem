@@ -1,0 +1,20 @@
+T1	protein 18 57	human leukemic glucocorticoid receptors
+T2	protein 86 131	anti-human glucocorticoid receptor antibodies
+T3	protein 158 197	human lymphoid glucocorticoid receptors
+T4	protein 334 358	glucocorticoid receptors
+T5	cell_line 366 398	human B-lymphoblastoid cell line
+T6	cell_line 399 403	IM-9
+T7	cell_line 412 443	human T-cell leukemic cell line
+T8	cell_line 444 450	CEM-C7
+T9	protein 533 612	[ 3H ] triamcinolone acetonide [ ( 3H ] TA ) -glucocorticoid receptor complexes
+T10	protein 692 737	anti-human glucocorticoid receptor antibodies
+T11	protein 776 813	[ 3H ] TA-receptor-antibody complexes
+T12	protein 817 826	Protein A
+T13	protein 926 954	[ 3H ] TA-receptor complexes
+T14	protein 1035 1063	[ 3H ] TA-receptor complexes
+T15	protein 1093 1103	antibodies
+T16	protein 1134 1174	murine S49 cell glucocorticoid receptors
+T17	cell_line 2064 2107	glucocorticoid receptor-deficient cell line
+T18	cell_line 2108 2114	ICR-27
+T19	protein 2175 2220	anti-human glucocorticoid receptor antibodies
+T20	protein 2279 2318	human lymphoid glucocorticoid receptors

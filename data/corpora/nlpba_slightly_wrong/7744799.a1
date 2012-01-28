@@ -1,0 +1,32 @@
+T1	protein 0 14	Erythropoietin
+T2	DNA 47 60	TAL1/SCL gene
+T3	protein 88 104	protein products
+T4	DNA 125 145	TAL1 ( or SCL ) gene
+T5	protein 331 347	protein products
+T6	protein 373 401	basic-helix-loop-helix motif
+T7	protein 438 459	transcription factors
+T8	DNA 477 506	canonical DNA sequence CANNTG
+T9	protein 510 530	protein heterodimers
+T10	protein 533 537	TAL1
+T11	cell_type 552 567	erythroid cells
+T12	cell_line 583 626	chemical-induced erythroleukemia cell lines
+T13	protein 774 809	glycoprotein hormone erythropoietin
+T14	protein 812 815	Epo
+T15	DNA 878 887	TAL1 gene
+T16	protein 896 912	protein products
+T17	protein 930 933	Epo
+T18	cell_type 937 958	splenic erythroblasts
+T19	protein 1041 1044	Epo
+T20	RNA 1089 1098	TAL1 mRNA
+T21	RNA 1166 1171	mRNAs
+T22	protein 1177 1180	Epo
+T23	protein 1192 1196	TAL1
+T24	RNA 1309 1313	mRNA
+T25	protein 1393 1396	Epo
+T26	protein 1425 1445	nuclear TAL1 protein
+T27	protein 1476 1479	Epo
+T28	protein 1547 1551	TAL1
+T29	cell_line 1561 1595	Friend virus-induced erythroblasts
+T30	protein 1625 1628	Epo
+T31	protein 1678 1699	transcription factors
+T32	cell_type 1735 1756	diverse cell lineages

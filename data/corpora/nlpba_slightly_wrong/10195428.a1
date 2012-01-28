@@ -1,0 +1,30 @@
+T1	protein 4 40	Epstein-Barr virus nuclear antigen 2
+T2	protein 43 48	EBNA2
+T3	cell_type 76 88	B lymphocyte
+T4	protein 132 149	type I interferon
+T5	cell_line 153 183	Burkitt 's lymphoma cell lines
+T6	protein 186 222	Epstein-Barr virus nuclear antigen 2
+T7	protein 225 230	EBNA2
+T8	protein 320 338	type I interferons
+T9	protein 341 355	IFN-alpha/beta
+T10	protein 416 421	EBNA2
+T11	protein 444 447	IFN
+T12	cell_line 460 490	Burkitt 's lymphoma cell lines
+T13	protein 507 512	EBNA2
+T14	DNA 585 605	IFN-stimulated genes
+T15	DNA 608 612	ISGs
+T16	DNA 650 659	promoters
+T17	DNA 671 709	interferon-stimulated response element
+T18	DNA 712 716	ISRE
+T19	DNA 726 758	gamma interferon activation site
+T20	DNA 761 764	GAS
+T21	DNA 841 845	ISGs
+T22	protein 863 868	EBNA2
+T23	protein 1008 1013	EBNA2
+T24	DNA 1063 1086	RBP-Jkappa binding site
+T25	protein 1127 1132	EBNA2
+T26	protein 1144 1149	EBNA2
+T27	DNA 1194 1211	IFN-beta promoter
+T28	cell_line 1224 1262	EBV-negative Burkitt 's lymphoma cells
+T29	DNA 1287 1296	EBV genes
+T30	protein 1336 1344	IFN-beta

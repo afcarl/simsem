@@ -1,0 +1,60 @@
+T1	DNA 33 58	overlapping binding sites
+T2	protein 67 88	serum response factor
+T3	protein 93 107	ELK-1 proteins
+T4	DNA 175 230	primate cytomegalovirus major immediate-early promoters
+T5	cell_type 247 259	T-lymphocyte
+T6	cell_type 346 377	lymphoid and myeloid cell types
+T7	cell_type 402 428	differentiated macrophages
+T8	DNA 469 495	major immediate-early gene
+T9	DNA 498 501	MIE
+T10	cell_line 598 631	monocyte-like U-937 cell cultures
+T11	DNA 782 813	multicopy basal enhancer motifs
+T12	DNA 830 842	MIE enhancer
+T13	DNA 877 904	cyclic AMP response element
+T14	DNA 907 910	CRE
+T15	DNA 941 984	serum response factor ( SRF ) binding sites
+T16	DNA 1004 1007	SNE
+T17	DNA 1010 1035	SRF/NFkappaB-like element
+T18	DNA 1066 1080	NFkappaB sites
+T19	cell_type 1163 1188	monocyte and T-cell types
+T20	DNA 1195 1209	SCMV SNE sites
+T21	protein 1276 1279	SRF
+T22	protein 1282 1294	Rel/NFkappaB
+T23	protein 1297 1300	ETS
+T24	protein 1307 1338	YY1 class transcription factors
+T25	protein 1369 1405	serum or tumor necrosis factor alpha
+T26	DNA 1475 1485	SNE motifs
+T27	DNA 1509 1512	SEE
+T28	DNA 1515 1530	SRF/ETS element
+T29	DNA 1552 1589	HCMV and chimpanzee CMV MIE enhancers
+T30	DNA 1668 1710	multimerized wild-type and mutant elements
+T31	DNA 1733 1741	SCMV MIE
+T32	DNA 1745 1785	simian virus 40 minimal promoter regions
+T33	cell_line 1793 1798	U-937
+T34	cell_line 1801 1806	K-562
+T35	cell_line 1809 1814	HL-60
+T36	cell_line 1817 1822	THP-1
+T37	cell_line 1829 1846	Jurkat cell lines
+T38	DNA 1866 1880	NFkappaB sites
+T39	DNA 1895 1898	SNE
+T40	DNA 1907 1916	SEE motif
+T41	DNA 2012 2024	CMV elements
+T42	DNA 2085 2101	SRF binding site
+T43	DNA 2143 2161	ETS binding motifs
+T44	protein 2225 2243	tripartite complex
+T45	protein 2273 2276	SRF
+T46	protein 2281 2295	ELK-1 proteins
+T47	protein 2303 2318	protein complex
+T48	cell_line 2387 2391	Raji
+T49	cell_line 2394 2396	HF
+T50	cell_line 2399 2409	BALB/c 3T3
+T51	cell_line 2415 2426	HL-60 cells
+T52	protein 2526 2559	chloramphenicol acetyltransferase
+T53	DNA 2586 2600	tandem repeats
+T54	DNA 2608 2611	SNE
+T55	cell_line 2699 2726	DNA-transfected U-937 cells
+T56	protein 2790 2806	protein kinase C
+T57	DNA 2926 2947	core SRF binding site
+T58	DNA 2984 3021	c-Fos promoter serum response element
+T59	DNA 3077 3095	SRF and ETS motifs
+T60	DNA 3141 3150	SCMV SNEs

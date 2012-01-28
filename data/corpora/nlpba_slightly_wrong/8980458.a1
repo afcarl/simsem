@@ -1,0 +1,16 @@
+T1	protein 64 73	cytokines
+T2	cell_type 77 88	eosinophils
+T3	cell_type 118 129	eosinophils
+T4	protein 133 142	cytokines
+T5	protein 151 155	IL-5
+T6	protein 160 166	GM-CSF
+T7	protein 368 377	cytokines
+T8	cell_type 381 392	eosinophils
+T9	protein 399 403	IL-3
+T10	protein 406 410	IL-5
+T11	protein 415 431	GM-CSF receptors
+T12	protein 440 464	common signal transducer
+T13	protein 483 506	intrinsic kinase domain
+T14	protein 564 573	cytokines
+T15	protein 776 814	IL-3/IL-5/GM-CSF receptor beta-subunit
+T16	cell_type 818 829	eosinophils

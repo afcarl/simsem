@@ -1,0 +1,23 @@
+T1	protein 4 15	p65 subunit
+T2	protein 19 29	NF-kappa B
+T3	protein 40 49	I kappa B
+T4	protein 100 110	NF-kappa B
+T5	protein 113 120	p50/p65
+T6	protein 180 189	I kappa B
+T7	protein 205 214	I kappa B
+T8	protein 227 237	NF-kappa B
+T9	protein 280 283	p65
+T10	protein 305 314	I kappa B
+T11	cell_type 331 359	carcinoma and lymphoid cells
+T12	RNA 433 447	I kappa B mRNA
+T13	protein 464 473	p65 delta
+T14	protein 541 550	I kappa B
+T15	protein 587 590	p65
+T16	protein 607 610	p50
+T17	protein 637 646	p65 delta
+T18	protein 687 696	I kappa B
+T19	protein 708 711	p65
+T20	protein 725 735	NF-kappa B
+T21	protein 762 765	p65
+T22	protein 770 779	I kappa B
+T23	protein 833 843	NF-kappa B

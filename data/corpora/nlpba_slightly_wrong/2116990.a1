@@ -1,0 +1,23 @@
+T1	DNA 0 25	Tandem AP-1-binding sites
+T2	DNA 37 78	human beta-globin dominant control region
+T3	DNA 94 112	inducible enhancer
+T4	cell_type 116 131	erythroid cells
+T5	DNA 176 193	18-bp DNA segment
+T6	DNA 219 244	human epsilon-globin gene
+T7	DNA 256 272	dominant control
+T8	DNA 276 299	locus-activating region
+T9	DNA 307 315	enhancer
+T10	cell_line 332 364	K562 human erythroleukemia cells
+T11	DNA 385 406	gamma-globin promoter
+T12	protein 407 418	/luciferase
+T13	DNA 455 477	enhancerless construct
+T14	DNA 484 492	enhancer
+T15	DNA 505 530	tandem AP-1-binding sites
+T16	protein 680 709	high molecular weight complex
+T17	DNA 717 725	enhancer
+T18	DNA 777 787	AP-1 sites
+T19	DNA 816 824	enhancer
+T20	DNA 853 861	enhancer
+T21	DNA 897 908	globin gene
+T22	DNA 1055 1075	jun and fos families
+T23	DNA 1079 1110	tandem AP-1 consensus sequences

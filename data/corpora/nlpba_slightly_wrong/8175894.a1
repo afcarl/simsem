@@ -1,0 +1,47 @@
+T1	protein 0 16	Interferon alpha
+T2	protein 55 105	human myeloid cell nuclear differentiation antigen
+T3	cell_type 109 125	late stage cells
+T4	cell_type 133 142	monocytic
+T5	cell_type 155 175	granulocytic lineage
+T6	protein 182 232	human myeloid cell nuclear differentiation antigen
+T7	protein 235 239	MNDA
+T8	cell_type 286 301	myeloid lineage
+T9	cell_type 317 333	myeloblast cells
+T10	cell_type 409 433	promyelocyte stage cells
+T11	cell_type 452 469	later stage cells
+T12	cell_type 480 506	peripheral blood monocytes
+T13	cell_type 511 523	granulocytes
+T14	cell_line 530 563	human myeloid leukemia cell lines
+T15	cell_line 566 571	HL-60
+T16	cell_line 574 578	U937
+T17	cell_line 585 590	THP-1
+T18	protein 647 651	MNDA
+T19	RNA 678 687	MNDA mRNA
+T20	cell_type 691 708	primary monocytes
+T21	protein 774 790	interferon alpha
+T22	protein 807 823	interferon alpha
+T23	RNA 831 840	MNDA mRNA
+T24	cell_line 865 875	cell lines
+T25	cell_line 876 881	HL-60
+T26	cell_line 884 888	U937
+T27	cell_line 895 900	THP-1
+T28	RNA 907 916	MNDA mRNA
+T29	cell_type 926 946	primary granulocytes
+T30	protein 977 993	interferon alpha
+T31	protein 1021 1037	interferon gamma
+T32	protein 1040 1049	endotoxin
+T33	protein 1052 1074	poly ( I ) .poly ( C )
+T34	protein 1081 1085	FMLP
+T35	RNA 1092 1101	MNDA mRNA
+T36	cell_line 1115 1133	myeloid cell lines
+T37	cell_line 1218 1236	myeloid cell lines
+T38	RNA 1328 1337	MNDA mRNA
+T39	RNA 1368 1372	mRNA
+T40	protein 1412 1428	interferon alpha
+T41	RNA 1473 1482	MNDA mRNA
+T42	RNA 1601 1610	MNDA mRNA
+T43	RNA 1639 1648	MNDA mRNA
+T44	protein 1691 1707	interferon alpha
+T45	RNA 1723 1732	MNDA mRNA
+T46	cell_line 1758 1776	myeloid cell lines
+T47	cell_type 1821 1838	primary monocytes

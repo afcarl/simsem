@@ -1,0 +1,25 @@
+T1	protein 16 25	RXR alpha
+T2	cell_type 55 74	human T lymphocytes
+T3	cell_type 227 280	human immature peripheral blood T ( PBT ) lymphocytes
+T4	protein 312 337	retinoid X receptor alpha
+T5	protein 340 348	RXRalpha
+T6	cell_type 452 488	cycling human mature PBT lymphocytes
+T7	cell_line 495 527	T lymphocyte leukemia cell lines
+T8	protein 566 574	RXRalpha
+T9	protein 642 650	RXRalpha
+T10	cell_line 909 921	Jurkat cells
+T11	protein 975 983	RXRalpha
+T12	protein 1164 1187	c-Jun N-terminal kinase
+T13	protein 1190 1193	JNK
+T14	protein 1200 1237	extracellular signal-regulated kinase
+T15	protein 1240 1243	ERK
+T16	protein 1348 1371	MAP/ERK kinase kinase 1
+T17	protein 1374 1379	MEKK1
+T18	protein 1431 1454	dominant negative MEKK1
+T19	protein 1515 1518	JNK
+T20	protein 1583 1609	constitutively active MEK1
+T21	protein 1628 1631	ERK
+T22	protein 1721 1724	JNK
+T23	protein 1751 1754	ERK
+T24	protein 1875 1883	RXRalpha
+T25	cell_type 1920 1953	resting and cycling T lymphocytes

@@ -1,0 +1,52 @@
+T1	cell_line 17 35	human CD4+ T cells
+T2	protein 41 46	LFA-3
+T3	protein 51 53	B7
+T4	protein 90 100	NF-kappa B
+T5	protein 101 122	transcription factors
+T6	cell_line 167 185	human CD4+ T cells
+T7	cell_line 208 255	Chinese hamster ovary ( CHO ) -DR transfectants
+T8	protein 276 278	B7
+T9	protein 282 287	LFA-3
+T10	protein 309 317	cytokine
+T11	protein 353 355	B7
+T12	protein 366 371	LFA-3
+T13	protein 396 400	IL-2
+T14	cell_line 438 450	CD4+ T cells
+T15	protein 473 477	IL-2
+T16	protein 510 525	CHO-DR/B7/LFA-3
+T17	protein 563 565	B7
+T18	protein 570 575	LFA-3
+T19	cell_line 659 671	CD4+ T cells
+T20	protein 677 683	CHO-DR
+T21	protein 765 775	NF-kappa B
+T22	protein 816 837	AP-1 binding proteins
+T23	protein 863 868	LFA-3
+T24	protein 896 900	AP-1
+T25	protein 939 949	NF-kappa B
+T26	protein 958 960	B7
+T27	protein 997 1001	AP-1
+T28	protein 1029 1056	NF-kappa B binding proteins
+T29	cell_line 1063 1098	CHO-DR/B7/LFA-3 triple transfectant
+T30	protein 1129 1133	AP-1
+T31	protein 1138 1148	NF-kappa B
+T32	protein 1149 1165	binding proteins
+T33	cell_line 1184 1204	double transfectants
+T34	protein 1220 1242	Oct-1 binding proteins
+T35	protein 1316 1334	NF-kappa B complex
+T36	cell_line 1338 1363	costimulated CD4+ T cells
+T37	protein 1391 1394	p50
+T38	protein 1420 1423	p65
+T39	protein 1449 1463	c-Rel proteins
+T40	protein 1470 1491	AP-1 binding proteins
+T41	protein 1502 1507	c-Jun
+T42	protein 1510 1515	Jun-D
+T43	protein 1522 1527	Fra-1
+T44	protein 1554 1559	Jun-B
+T45	protein 1564 1569	c-Fos
+T46	protein 1613 1615	B7
+T47	protein 1620 1625	LFA-3
+T48	protein 1659 1663	AP-1
+T49	protein 1668 1678	NF-kappa B
+T50	protein 1738 1740	B7
+T51	protein 1745 1750	LFA-3
+T52	protein 1768 1772	IL-2

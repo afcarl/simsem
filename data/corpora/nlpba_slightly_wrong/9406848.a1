@@ -1,0 +1,21 @@
+T1	protein 0 5	C/EBP
+T2	DNA 20 71	human corticotropin-releasing hormone gene promoter
+T3	DNA 223 267	corticotropin releasing hormone ( CRH ) gene
+T4	DNA 308 331	human CRH gene promoter
+T5	DNA 380 392	CAT reporter
+T6	protein 492 512	transcription factor
+T7	DNA 554 583	3070 bp CRH promoter fragment
+T8	cell_line 614 639	lymphoblastoid cell lines
+T9	protein 681 702	transcription factors
+T10	protein 703 712	C/EBPbeta
+T11	protein 715 721	NF-IL6
+T12	protein 747 757	C/EBPdelta
+T13	protein 760 770	NF-IL6beta
+T14	protein 785 788	CRH
+T15	protein 878 891	NF-IL6 mutant
+T16	protein 965 970	C/EBP
+T17	protein 1025 1028	CRH
+T18	protein 1125 1135	NF-IL6beta
+T19	protein 1191 1212	transcription factors
+T20	protein 1229 1237	cytokine
+T21	DNA 1271 1283	CRH promoter

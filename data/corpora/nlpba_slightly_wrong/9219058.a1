@@ -1,0 +1,21 @@
+T1	protein 34 67	intercellular adhesion molecule-1
+T2	cell_type 125 152	adult T-cell leukemia cells
+T3	protein 197 230	intercellular adhesion molecule-1
+T4	protein 233 239	ICAM-1
+T5	cell_type 245 280	adult T cell leukemia ( ATL ) cells
+T6	cell_type 309 325	T-lymphoid cells
+T7	protein 404 410	ICAM-1
+T8	RNA 481 493	ICAM-1 mRNAs
+T9	RNA 637 648	ICAM-1 mRNA
+T10	cell_line 663 672	ATL cells
+T11	cell_type 709 725	T-lymphoid cells
+T12	cell_line 738 751	ILT-mat cells
+T13	cell_line 756 774	ATL16T ( - ) cells
+T14	cell_line 796 805	ATL cells
+T15	protein 834 840	ICAM-1
+T16	RNA 856 867	ICAM-1 mRNA
+T17	cell_line 959 966	ILT-mat
+T18	cell_line 971 989	ATL16T ( - ) cells
+T19	cell_line 1049 1058	ATL cells
+T20	cell_type 1147 1153	T cell
+T21	protein 1240 1256	ICAM-1 molecules

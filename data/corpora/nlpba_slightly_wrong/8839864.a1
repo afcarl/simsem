@@ -1,0 +1,24 @@
+T1	DNA 84 98	chromosome 20q
+T2	DNA 162 175	chromosome 20
+T3	DNA 319 332	20q deletions
+T4	cell_type 501 533	normal hematopoietic progenitors
+T5	DNA 596 609	20q deletions
+T6	cell_type 613 649	peripheral blood ( PB ) granulocytes
+T7	DNA 664 687	commonly deleted region
+T8	DNA 1102 1115	chromosome 20
+T9	DNA 1128 1150	microsatellite markers
+T10	DNA 1237 1252	granulocyte DNA
+T11	DNA 1343 1369	granulocyte and T-cell DNA
+T12	DNA 1432 1435	20q
+T13	DNA 1532 1546	distal markers
+T14	cell_type 1657 1672	PB granulocytes
+T15	cell_type 1731 1750	normal granulocytes
+T16	cell_line 1772 1787	malignant clone
+T17	protein 1806 1829	human androgen receptor
+T18	cell_type 1953 1965	granulocytes
+T19	cell_type 2008 2020	granulocytes
+T20	cell_type 2105 2117	granulocytes
+T21	cell_type 2122 2129	T cells
+T22	cell_line 2294 2324	normal polyclonal granulocytes
+T23	DNA 2374 2388	chromosome 20q
+T24	DNA 2461 2471	chromosome

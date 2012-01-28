@@ -1,0 +1,28 @@
+T1	protein 0 5	NF-X2
+T2	DNA 24 34	DRA X2-box
+T3	protein 38 57	activator protein 1
+T4	protein 82 87	c-Jun
+T5	protein 90 111	Human class II MHC Ag
+T6	protein 128 154	cell surface glycoproteins
+T7	cell_type 201 214	B lymphocytes
+T8	cell_type 219 242	thymic epithelial cells
+T9	protein 300 309	IFN-gamma
+T10	DNA 394 408	class II genes
+T11	DNA 418 430	DRA promoter
+T12	DNA 446 474	cis-acting regulatory motifs
+T13	DNA 482 488	X2-box
+T14	protein 498 515	nuclear factor X2
+T15	protein 518 523	NF-X2
+T16	DNA 594 616	full-length cDNA clone
+T17	protein 626 631	NF-X2
+T18	DNA 639 649	cDNA clone
+T19	DNA 677 681	cDNA
+T20	protein 708 727	human c-Jun protein
+T21	protein 750 755	c-Fos
+T22	protein 766 821	heterodimeric activator protein-1 transcription complex
+T23	protein 832 856	c-Fos/c-Jun heterodimers
+T24	cell_line 873 880	B cells
+T25	DNA 909 915	X2-box
+T26	cell_line 919 947	class II nonexpressing cells
+T27	protein 957 981	c-Fos/c-Jun heterodimers
+T28	DNA 1020 1028	DRA gene

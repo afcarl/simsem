@@ -1,0 +1,25 @@
+T1	protein 56 60	STAT
+T2	protein 130 134	IL-6
+T3	protein 199 202	Ags
+T4	protein 208 211	TCR
+T5	protein 367 398	transcription ( STAT ) proteins
+T6	protein 412 415	TCR
+T7	cell_type 440 447	T cells
+T8	cell_type 472 511	purified human peripheral blood T cells
+T9	protein 514 535	nuclear STAT proteins
+T10	protein 602 614	anti-CD3 Abs
+T11	protein 623 636	STAT proteins
+T12	DNA 664 692	IFN-gamma-activated sequence
+T13	DNA 695 698	GAS
+T14	protein 820 833	anti-STAT Abs
+T15	protein 864 870	STAT-3
+T16	protein 918 929	STAT family
+T17	protein 949 953	STAT
+T18	protein 1097 1113	secondary factor
+T19	cell_type 1140 1147	T cells
+T20	protein 1153 1179	neutralizing anti-IL-6 Abs
+T21	protein 1230 1243	STAT proteins
+T22	protein 1269 1273	IL-6
+T23	protein 1315 1318	TCR
+T24	protein 1365 1369	IL-6
+T25	protein 1418 1431	STAT proteins

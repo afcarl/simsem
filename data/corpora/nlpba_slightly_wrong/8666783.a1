@@ -1,0 +1,31 @@
+T1	protein 36 65	IFN-gamma receptor beta-chain
+T2	protein 93 102	IFN-gamma
+T3	cell_type 106 136	human peripheral blood T cells
+T4	protein 139 148	IFN-gamma
+T5	cell_type 203 210	T cells
+T6	cell_type 331 338	T cells
+T7	protein 368 378	IFN- gamma
+T8	protein 426 428	Ag
+T9	cell_type 459 489	human peripheral blood T cells
+T10	protein 522 525	TCR
+T11	protein 544 548	IL-2
+T12	protein 569 578	IFN-gamma
+T13	protein 622 633	jak kinases
+T14	protein 642 662	transcription factor
+T15	protein 665 680	STAT1 ( alpha )
+T16	protein 805 816	beta- chain
+T17	protein 845 863	IFN-gamma receptor
+T18	protein 901 931	IFN-gamma receptor alpha-chain
+T19	protein 963 973	beta-chain
+T20	protein 1003 1006	TCR
+T21	cell_type 1035 1048	T cell blasts
+T22	protein 1088 1097	IFN-gamma
+T23	cell_type 1151 1158	T cells
+T24	protein 1176 1185	IFN-gamma
+T25	protein 1230 1239	IFN-gamma
+T26	protein 1252 1262	beta-chain
+T27	cell_type 1280 1287	T cells
+T28	protein 1310 1313	TCR
+T29	protein 1333 1337	IL-2
+T30	protein 1387 1390	TCR
+T31	protein 1429 1438	IFN-gamma

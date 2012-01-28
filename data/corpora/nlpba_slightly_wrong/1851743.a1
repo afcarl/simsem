@@ -1,0 +1,33 @@
+T1	protein 14 34	protein phosphatases
+T2	protein 59 62	AP1
+T3	cell_type 66 79	human T cells
+T4	protein 105 125	protein phosphatases
+T5	cell_line 149 161	Jurkat cells
+T6	protein 211 237	type 1 and 2A phosphatases
+T7	protein 295 298	AP1
+T8	protein 390 393	AP1
+T9	protein 487 490	AP1
+T10	DNA 565 583	jun and fos family
+T11	DNA 587 602	proto-oncogenes
+T12	protein 642 660	phytohemagglutinin
+T13	protein 695 698	AP1
+T14	RNA 794 810	mRNA transcripts
+T15	DNA 818 847	jun family of proto-oncogenes
+T16	DNA 858 863	c-jun
+T17	DNA 866 870	junD
+T18	DNA 877 881	junB
+T19	DNA 909 919	fos family
+T20	DNA 930 935	c-fos
+T21	DNA 940 945	fra-1
+T22	DNA 1005 1020	jun gene family
+T23	cell_line 1024 1036	Jurkat cells
+T24	protein 1081 1084	AP1
+T25	RNA 1133 1143	c-jun mRNA
+T26	DNA 1178 1203	c-jun promoter constructs
+T27	DNA 1277 1282	c-jun
+T28	protein 1316 1319	AP1
+T29	protein 1350 1379	protein phosphatases 1 and 2A
+T30	protein 1382 1385	PP1
+T31	protein 1390 1394	PP2A
+T32	protein 1474 1494	transcription factor
+T33	protein 1495 1498	AP1

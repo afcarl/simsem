@@ -1,0 +1,67 @@
+T1	protein 35 46	tax protein
+T2	DNA 79 88	AP-1 site
+T3	cell_type 125 132	T cells
+T4	protein 181 192	Tax protein
+T5	protein 249 274	transcription factor AP-1
+T6	protein 285 290	c-Jun
+T7	protein 293 297	JunD
+T8	protein 300 305	c-Fos
+T9	protein 312 317	Fra-1
+T10	cell_type 354 361	T cells
+T11	protein 392 395	Tax
+T12	DNA 421 439	AP-1-binding sites
+T13	DNA 442 451	AP-1 site
+T14	cell_type 457 464	T cells
+T15	protein 510 513	Tax
+T16	DNA 544 559	luciferase gene
+T17	DNA 590 599	AP-1 site
+T18	cell_line 607 631	human Jurkat T-cell line
+T19	protein 634 637	Tax
+T20	DNA 666 690	viral and cellular genes
+T21	DNA 727 764	cAMP-responsive ( CRE ) -like element
+T22	DNA 771 785	kappaB element
+T23	protein 792 803	Tax mutants
+T24	protein 864 870	Tax703
+T25	DNA 900 914	kappaB element
+T26	protein 950 956	TaxM22
+T27	protein 992 998	Tax703
+T28	protein 1003 1006	Tax
+T29	protein 1017 1023	TaxM22
+T30	cell_line 1053 1070	mouse T-cell line
+T31	protein 1153 1166	wild-type Tax
+T32	protein 1169 1175	Tax703
+T33	protein 1180 1186	TaxM22
+T34	DNA 1213 1222	AP-1 site
+T35	cell_line 1230 1241	T-cell line
+T36	protein 1251 1254	Tax
+T37	DNA 1277 1286	AP-1 site
+T38	DNA 1325 1352	kappaB or CRE-like elements
+T39	DNA 1381 1390	AP-1 site
+T40	protein 1496 1499	Tax
+T41	DNA 1538 1547	AP-1 site
+T42	protein 1568 1574	Tax703
+T43	DNA 1642 1651	AP-1 site
+T44	protein 1703 1706	Tax
+T45	protein 1713 1728	binding complex
+T46	protein 1740 1743	Tax
+T47	protein 1764 1768	JunD
+T48	protein 1773 1778	Fra-2
+T49	protein 1787 1800	AP-1 proteins
+T50	DNA 1861 1870	AP-1 site
+T51	cell_line 1874 1886	Jurkat cells
+T52	protein 1890 1894	JunD
+T53	protein 1902 1907	Fra-2
+T54	protein 1919 1924	c-Jun
+T55	protein 1927 1931	JunB
+T56	protein 1938 1943	c-Fos
+T57	protein 2018 2021	Tax
+T58	RNA 2048 2057	AP-1 mRNA
+T59	protein 2061 2064	Tax
+T60	DNA 2116 2125	AP-1 site
+T61	protein 2129 2132	Tax
+T62	protein 2160 2163	Tax
+T63	DNA 2195 2209	cellular genes
+T64	DNA 2215 2225	AP-1 sites
+T65	protein 2266 2279	AP-1 proteins
+T66	cell_type 2283 2290	T cells
+T67	DNA 2328 2356	CRE-like and kappaB elements

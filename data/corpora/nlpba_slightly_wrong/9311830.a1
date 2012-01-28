@@ -1,0 +1,31 @@
+T1	protein 15 20	BHRF1
+T2	cell_type 210 221	transformed
+T3	cell_type 225 245	virus-infected cells
+T4	protein 410 415	BHRF1
+T5	protein 421 473	Epstein-Barr virus ( EBV ) early-lytic-cycle protein
+T6	protein 499 504	Bcl-2
+T7	protein 513 535	anti-apoptosis protein
+T8	protein 552 557	BHRF1
+T9	cell_line 561 574	MCF-Fas cells
+T10	protein 625 642	anti-Fas antibody
+T11	protein 686 691	BHRF1
+T12	cell_type 797 830	lymphokine-activated killer cells
+T13	protein 848 853	BHRF1
+T14	cell_line 865 878	MCF-Fas cells
+T15	protein 946 951	Bcl-2
+T16	protein 956 962	Bcl-xL
+T17	protein 1003 1008	BHRF1
+T18	protein 1027 1032	Bcl-2
+T19	protein 1037 1043	Bcl-xL
+T20	protein 1153 1179	cytosolic phospholipase A2
+T21	protein 1184 1199	caspase-3/CPP32
+T22	protein 1247 1283	NF-kappaB-like transcription factors
+T23	protein 1309 1314	BHRF1
+T24	cell_type 1318 1347	EBV-infected epithelial cells
+T25	protein 1510 1515	BHRF1
+T26	protein 1520 1525	Bcl-2
+T27	cell_line 1531 1542	B-cell line
+T28	cell_line 1545 1549	BJAB
+T29	cell_type 1648 1667	serum-starved cells
+T30	protein 1700 1705	BHRF1
+T31	protein 1742 1747	Bcl-2

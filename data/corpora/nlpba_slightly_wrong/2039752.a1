@@ -1,0 +1,28 @@
+T1	RNA 33 83	glucocorticoid receptor messenger ribonucleic acid
+T2	cell_line 87 96	wild-type
+T3	cell_line 101 153	dexamethasone-resistant human leukemic ( CEM ) cells
+T4	cell_line 250 259	wild-type
+T5	cell_line 271 310	dexamethasone ( dex ) -resistant clones
+T6	cell_line 318 346	human leukemic cell line CEM
+T7	cell_line 429 448	wild-type CEM cells
+T8	cell_line 462 525	dex-resistant , glucocorticoid receptor ( GR ) -defective clone
+T9	cell_line 526 537	ICR-27 TK-3
+T10	RNA 552 559	GR mRNA
+T11	cell_line 609 628	dex-resistant cells
+T12	protein 659 661	GR
+T13	cell_line 690 710	dex-resistant clones
+T14	RNA 783 790	GR mRNA
+T15	RNA 838 845	GR mRNA
+T16	cell_line 853 866	normal CEM-C7
+T17	cell_line 896 916	dex-resistant clones
+T18	cell_line 932 952	dex-resistant clones
+T19	cell_type 1003 1015	normal cells
+T20	RNA 1032 1039	GR mRNA
+T21	RNA 1072 1079	GR mRNA
+T22	RNA 1170 1177	GR mRNA
+T23	cell_line 1206 1225	dex-resistant cells
+T24	RNA 1260 1267	GR mRNA
+T25	cell_line 1327 1361	normal and dex-resistant CEM cells
+T26	cell_line 1444 1463	dex-resistant cells
+T27	cell_line 1485 1505	dex-resistant clones
+T28	cell_line 1552 1564	normal cells

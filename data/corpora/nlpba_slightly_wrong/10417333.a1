@@ -1,0 +1,32 @@
+T1	protein 101 106	STAT3
+T2	protein 156 175	chemotactic factors
+T3	protein 180 189	cytokines
+T4	protein 192 197	STAT3
+T5	protein 200 250	signal transducer and activator of transcription 3
+T6	protein 369 378	cytokines
+T7	protein 382 396	growth factors
+T8	protein 439 465	cytoplasmic serine kinases
+T9	protein 485 490	STAT3
+T10	protein 598 603	STAT3
+T11	cell_type 636 653	human neutrophils
+T12	protein 670 689	chemotactic factors
+T13	protein 755 764	cytokines
+T14	protein 767 815	granulocyte/macrophage colony-stimulating factor
+T15	protein 818 824	GM-CSF
+T16	protein 831 868	granulocyte colony-stimulating factor
+T17	protein 871 876	G-CSF
+T18	protein 888 904	protein kinase C
+T19	protein 1019 1050	signal-regulated protein kinase
+T20	protein 1053 1056	ERK
+T21	protein 1110 1115	STAT3
+T22	protein 1127 1146	chemotactic factors
+T23	protein 1187 1196	cytokines
+T24	protein 1238 1244	GM-CSF
+T25	protein 1371 1376	G-CSF
+T26	protein 1513 1532	STAT3 serine kinase
+T27	protein 1656 1700	p38 mitogen-activated protein ( MAP ) kinase
+T28	cell_type 1782 1793	neutrophils
+T29	protein 1874 1879	STAT3
+T30	protein 1921 1924	ERK
+T31	protein 1992 2005	serine kinase
+T32	protein 2038 2047	cytokines

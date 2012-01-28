@@ -1,0 +1,45 @@
+T1	protein 0 26	MIP1 alpha nuclear protein
+T2	protein 29 32	MNP
+T3	protein 45 65	transcription factor
+T4	DNA 140 162	human MIP-1 alpha gene
+T5	protein 165 211	Murine macrophage inflammatory protein 1 alpha
+T6	protein 214 225	MIP-1 alpha
+T7	protein 236 252	human equivalent
+T8	protein 255 260	GOS19
+T9	protein 263 267	LD78
+T10	protein 273 278	AT464
+T11	protein 300 311	-C-C family
+T12	protein 315 346	low-molecular-weight chemokines
+T13	cell_type 363 380	activated T cells
+T14	cell_type 385 396	macrophages
+T15	protein 404 436	marrow-derived MIP-1 alpha/GOS19
+T16	cell_type 446 480	primitive hematopoietic stem cells
+T17	cell_type 538 547	stem cell
+T18	cell_type 621 638	mature cell types
+T19	protein 730 741	MIP-1 alpha
+T20	protein 742 748	/GOS19
+T21	cell_line 783 797	Jurkat T cells
+T22	protein 826 847	transcription factors
+T23	protein 854 866	ICK-1 family
+T24	DNA 880 894	GOS19 promoter
+T25	protein 910 916	ICK-1A
+T26	protein 932 957	strong negative regulator
+T27	cell_line 1041 1061	macrophage cell line
+T28	cell_line 1062 1066	U937
+T29	cell_line 1093 1105	Jurkat cells
+T30	DNA 1139 1157	ICK-1 binding site
+T31	cell_line 1197 1207	U937 cells
+T32	DNA 1248 1260	binding site
+T33	DNA 1267 1307	MIP-1 alpha nuclear protein ( MNP ) site
+T34	DNA 1329 1339	ICK-1 site
+T35	cell_line 1379 1397	various cell lines
+T36	DNA 1418 1426	MNP site
+T37	protein 1453 1489	fast-migrating protein-DNA complexes
+T38	DNA 1563 1571	MNP site
+T39	DNA 1626 1642	GOS19.1 promoter
+T40	cell_line 1646 1656	U937 cells
+T41	cell_line 1697 1709	Jurkat cells
+T42	protein 1732 1743	MNP protein
+T43	DNA 1765 1773	MNP site
+T44	protein 1794 1814	transcription factor
+T45	cell_type 1834 1853	hematopoietic cells

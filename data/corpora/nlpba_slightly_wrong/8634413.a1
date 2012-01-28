@@ -1,0 +1,19 @@
+T1	protein 13 34	transcription factors
+T2	cell_type 67 89	peripheral blood cells
+T3	protein 169 178	cytokines
+T4	protein 214 225	JAK kinases
+T5	protein 234 301	signal transducers and activators of transcription ( STAT ) factors
+T6	protein 417 429	STAT factors
+T7	cell_type 433 455	peripheral blood cells
+T8	DNA 532 568	beta-casein and IRF-1 gene promoters
+T9	protein 598 611	STAT proteins
+T10	cell_type 637 657	acute leukemia cells
+T11	protein 693 708	protein complex
+T12	DNA 773 793	IRF-1 gene promoters
+T13	protein 1073 1083	antibodies
+T14	protein 1116 1129	STAT proteins
+T15	protein 1168 1200	STAT5- and STAT1-related factors
+T16	protein 1226 1270	STAT1- , STAT3- , and STAT5-related proteins
+T17	protein 1358 1367	cytokines
+T18	protein 1379 1395	nuclear proteins
+T19	protein 1532 1545	STAT proteins

@@ -1,0 +1,29 @@
+T1	DNA 34 63	ecto-5'-nucleotidase promoter
+T2	DNA 78 104	camp response element site
+T3	DNA 136 162	upstream regulatory region
+T4	DNA 186 196	5 ' region
+T5	DNA 204 251	ecto-5'-nucleotidase ( low K ( m ) 5'-NT ) gene
+T6	DNA 275 304	969-base pair ( bp ) fragment
+T7	DNA 343 360	CAT reporter gene
+T8	RNA 400 426	endogenous ecto-5'-NT mRNA
+T9	DNA 454 496	768-bp upstream negative regulatory region
+T10	DNA 604 645	244-bp deoxycytidine kinase core promoter
+T11	protein 648 655	DNase I
+T12	DNA 714 778	Sp1 , Sp1/AP-2 , and cAMP response element ( CRE ) binding sites
+T13	DNA 822 878	Sp1 , NRE-2a , TCF-1/LEF-1 , and Sp1/NF-AT binding sites
+T14	DNA 886 912	upstream regulatory region
+T15	DNA 927 935	CRE site
+T16	DNA 992 1018	upstream regulatory region
+T17	cell_line 1022 1028	Jurkat
+T18	cell_line 1040 1050	HeLa cells
+T19	DNA 1069 1082	Sp1/AP-2 site
+T20	DNA 1205 1213	CRE site
+T21	protein 1230 1235	ATF-1
+T22	protein 1240 1245	ATF-2
+T23	cell_line 1249 1261	Jurkat cells
+T24	DNA 1354 1379	969-bp promoter fragments
+T25	DNA 1434 1442	CRE site
+T26	DNA 1479 1512	tissue-specific regulatory region
+T27	DNA 1524 1548	ecto-5'-NT core promoter
+T28	DNA 1592 1600	CRE site
+T29	DNA 1612 1626	basal promoter

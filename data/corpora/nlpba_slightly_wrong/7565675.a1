@@ -1,0 +1,36 @@
+T1	protein 30 52	two heat shock factors
+T2	protein 55 59	HSF1
+T3	protein 64 68	HSF3
+T4	cell_line 90 118	avian erythroblast cell line
+T5	cell_line 119 122	HD6
+T6	DNA 151 196	heat shock transcription factor ( HSF ) genes
+T7	protein 216 228	novel factor
+T8	protein 231 235	HSF3
+T9	protein 270 274	HSF1
+T10	protein 279 283	HSF2
+T11	protein 354 358	HSFs
+T12	protein 372 376	HSF3
+T13	protein 412 416	HSF1
+T14	protein 421 425	HSF2
+T15	protein 478 482	HSF3
+T16	cell_line 518 544	erythroblast cell line HD6
+T17	cell_line 551 576	lymphoblast cell line MSB
+T18	cell_line 583 601	embryo fibroblasts
+T19	protein 711 715	HSF3
+T20	cell_line 740 749	HD6 cells
+T21	protein 791 812	non-DNA-binding dimer
+T22	protein 818 836	DNA-binding trimer
+T23	protein 875 879	HSF1
+T24	protein 905 918	inert monomer
+T25	protein 924 942	DNA-binding trimer
+T26	protein 958 962	HSF3
+T27	protein 1017 1021	HSF1
+T28	protein 1038 1042	HSF1
+T29	protein 1086 1090	HSF3
+T30	protein 1141 1166	transcriptional activator
+T31	protein 1212 1242	transiently overexpressed HSF3
+T32	DNA 1263 1311	heat shock element-containing reporter construct
+T33	protein 1362 1388	chimeric GAL4-HSF3 protein
+T34	DNA 1394 1417	GAL4 reporter construct
+T35	protein 1446 1450	HSF3
+T36	cell_type 1478 1489	avian cells

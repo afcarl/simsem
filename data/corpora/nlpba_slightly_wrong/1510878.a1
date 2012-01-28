@@ -1,0 +1,15 @@
+T1	protein 41 46	c-Fos
+T2	protein 51 56	c-Jun
+T3	protein 175 180	c-Fos
+T4	protein 185 190	c-Jun
+T5	protein 304 309	c-Fos
+T6	protein 314 319	c-Jun
+T7	protein 562 567	c-Fos
+T8	protein 572 577	c-Jun
+T9	protein 686 691	c-Jun
+T10	protein 810 815	c-Fos
+T11	protein 820 825	c-Jun
+T12	cell_line 1208 1220	Jurkat cells
+T13	protein 1425 1430	c-Fos
+T14	protein 1435 1440	c-Jun
+T15	cell_line 1501 1513	Jurkat cells

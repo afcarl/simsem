@@ -1,0 +1,21 @@
+T1	protein 26 44	vitamin D receptor
+T2	cell_line 109 137	M2-type leukemic blast cells
+T3	cell_type 159 193	acute myeloid leukemia blast cells
+T4	cell_line 295 315	M0/M1 leukemic cells
+T5	cell_line 370 387	M3 leukemic cells
+T6	cell_line 491 514	M2 leukemic blast cells
+T7	cell_type 666 688	M2-type leukemic cells
+T8	cell_line 802 816	M2 blast cells
+T9	cell_line 831 845	Kasumi-1 cells
+T10	cell_line 851 891	acute myeloid leukemia M2-type cell line
+T11	protein 988 999	VD receptor
+T12	protein 1002 1005	VDR
+T13	protein 1049 1052	VDR
+T14	cell_line 1092 1106	Kasumi-1 cells
+T15	protein 1151 1170	retinoid X receptor
+T16	DNA 1184 1221	DR3-type vitamin D-responsive element
+T17	DNA 1261 1313	vitamin D-responsive element-regulated reporter gene
+T18	DNA 1349 1368	VD-responsive genes
+T19	cell_line 1402 1416	Kasumi-1 cells
+T20	protein 1593 1596	VDR
+T21	cell_line 1655 1671	M2 leukemic cell

@@ -1,0 +1,42 @@
+T1	protein 36 84	granulocyte-macrophage colony-stimulating factor
+T2	protein 106 139	AML1-related transcription factor
+T3	protein 142 147	PEBP2
+T4	DNA 154 227	granulocyte-macrophage colony-stimulating factor ( GM-CSF ) gene promoter
+T5	protein 266 336	polyomavirus enhancer binding-protein 2 ( PEBP2 ) transcription factor
+T6	protein 357 380	alpha and beta subunits
+T7	DNA 414 421	alpha A
+T8	DNA 426 433	alpha B
+T9	protein 449 462	alpha subunit
+T10	DNA 465 472	alpha B
+T11	DNA 480 495	mouse homologue
+T12	DNA 499 514	human AML1 gene
+T13	protein 608 616	alpha A1
+T14	protein 622 642	alpha A-gene product
+T15	protein 649 657	alpha B1
+T16	protein 662 670	alpha B2
+T17	protein 677 700	alpha B-encoded isomers
+T18	DNA 728 743	GM-CSF promoter
+T19	protein 746 760	PEBP2 alpha A1
+T20	protein 763 771	alpha B1
+T21	protein 778 795	alpha B2 proteins
+T22	DNA 806 816	PEBP2 site
+T23	DNA 828 849	mouse GM-CSF promoter
+T24	protein 852 866	PEBP2 alpha A1
+T25	protein 871 879	alpha B1
+T26	DNA 911 950	GM-CSF promoter-driven reporter plasmid
+T27	cell_line 954 1058	unstimulated and 12-O-tetradecanoylphorbol 13-acetate/phytohemagglutinin-stimulated human Jurkat T cells
+T28	protein 1115 1123	alpha B2
+T29	protein 1142 1150	alpha B1
+T30	protein 1155 1163	alpha B2
+T31	protein 1225 1233	alpha B1
+T32	protein 1234 1243	/alpha B2
+T33	protein 1282 1308	PEBP2 site-binding protein
+T34	protein 1339 1368	antimouse alpha A1 antibodies
+T35	protein 1428 1441	PEBP2 alpha A
+T36	DNA 1444 1451	alpha B
+T37	DNA 1454 1458	AML1
+T38	DNA 1467 1477	beta genes
+T39	cell_line 1481 1493	Jurkat cells
+T40	protein 1567 1572	PEBP2
+T41	protein 1580 1586	GM-CSF
+T42	protein 1688 1702	PEBP2 isoforms

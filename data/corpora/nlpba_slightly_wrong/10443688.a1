@@ -1,0 +1,41 @@
+T1	protein 0 27	Tumor necrosis factor alpha
+T2	protein 44 58	interleukin-10
+T3	cell_type 90 105	human monocytes
+T4	protein 153 176	glucocorticoid receptor
+T5	protein 392 419	tumor necrosis factor alpha
+T6	protein 422 430	TNFalpha
+T7	protein 435 459	proinflammatory cytokine
+T8	protein 466 488	interleukin ( IL ) -10
+T9	protein 494 520	anti-inflammatory cytokine
+T10	cell_type 569 584	human monocytes
+T11	cell_type 585 597	/macrophages
+T12	protein 673 681	TNFalpha
+T13	cell_line 723 763	LPS-stimulated whole-blood cell cultures
+T14	protein 874 882	TNFalpha
+T15	protein 886 891	IL-10
+T16	protein 926 930	IL-6
+T17	protein 1037 1050	IL-1 receptor
+T18	cell_line 1079 1109	human monocytic cell line U937
+T19	cell_line 1186 1227	TNFalpha- and IL-10-pretreated U937 cells
+T20	protein 1259 1282	glucocorticoid receptor
+T21	protein 1363 1371	TNFalpha
+T22	protein 1376 1381	IL-10
+T23	protein 1416 1424	TNFalpha
+T24	protein 1469 1474	IL-10
+T25	protein 1642 1647	IL-10
+T26	protein 1692 1700	TNFalpha
+T27	protein 1723 1728	IL-10
+T28	protein 1781 1785	IL-6
+T29	cell_type 1799 1824	whole-blood cell cultures
+T30	protein 1862 1866	IL-1
+T31	protein 1935 1943	TNFalpha
+T32	protein 1976 1981	IL-10
+T33	protein 2186 2194	TNFalpha
+T34	protein 2199 2204	IL-10
+T35	cell_type 2218 2233	human monocytes
+T36	protein 2339 2347	TNFalpha
+T37	protein 2351 2356	IL-10
+T38	protein 2372 2380	TNFalpha
+T39	protein 2412 2417	IL-10
+T40	protein 2494 2517	glucocorticoid receptor
+T41	protein 2650 2658	cytokine

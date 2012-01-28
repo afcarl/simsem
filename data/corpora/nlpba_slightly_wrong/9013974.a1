@@ -1,0 +1,18 @@
+T1	protein 39 48	TNF-alpha
+T2	protein 63 84	nuclear factor-kappaB
+T3	cell_type 102 147	lipopolysaccharide-stimulated human monocytes
+T4	cell_line 333 357	THP-1 promonocytic cells
+T5	protein 475 484	TNF-alpha
+T6	protein 610 619	TNF-alpha
+T7	protein 698 710	anti-hGH mAb
+T8	cell_type 770 792	normal human monocytes
+T9	cell_type 797 825	monocyte-derived macrophages
+T10	protein 842 851	TNF-alpha
+T11	cell_line 866 893	THP-1-hGH-transfected cells
+T12	protein 987 996	TNF-alpha
+T13	protein 1085 1094	TNF-alpha
+T14	cell_line 1108 1138	LPS-stimulated THP-1-hGH cells
+T15	protein 1198 1219	nuclear factor-kappaB
+T16	protein 1264 1273	TNF-alpha
+T17	cell_type 1288 1297	monocytes
+T18	protein 1341 1350	TNF-alpha

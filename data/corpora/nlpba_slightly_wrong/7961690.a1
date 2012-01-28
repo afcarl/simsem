@@ -1,0 +1,36 @@
+T1	protein 0 14	Erythropoietin
+T2	protein 39 49	hemoglobin
+T3	cell_line 65 93	cytokine-dependent cell line
+T4	cell_line 94 99	M-TAT
+T5	cell_line 102 107	M-TAT
+T6	cell_line 113 141	cytokine-dependent cell line
+T7	cell_type 188 225	erythroid and megakaryocytic lineages
+T8	cell_line 240 251	M-TAT cells
+T9	protein 305 319	erythropoietin
+T10	protein 322 325	EPO
+T11	protein 330 378	granulocyte-macrophage colony-stimulating factor
+T12	protein 381 387	GM-CSF
+T13	protein 395 411	stem cell factor
+T14	protein 414 417	SCF
+T15	cell_line 466 512	M-TAT/EPO , M-TAT/GM-CSF , and M-TAT/SCF cells
+T16	protein 530 540	Hemoglobin
+T17	protein 559 571	gamma-globin
+T18	RNA 576 621	erythroid delta-aminolevulinate synthase mRNA
+T19	cell_line 658 673	M-TAT/EPO cells
+T20	cell_line 682 700	M-TAT/GM-CSF cells
+T21	protein 725 733	cytokine
+T22	protein 752 758	GM-CSF
+T23	protein 762 765	EPO
+T24	protein 768 778	hemoglobin
+T25	cell_line 792 810	M-TAT/GM-CSF cells
+T26	RNA 863 874	GATA-1 mRNA
+T27	protein 917 923	GM-CSF
+T28	cell_line 931 953	M-TAT/EPO cell culture
+T29	protein 1015 1018	EPO
+T30	protein 1041 1044	EPO
+T31	protein 1099 1105	GM-CSF
+T32	cell_line 1140 1151	M-TAT cells
+T33	protein 1167 1170	EPO
+T34	protein 1189 1195	GM-CSF
+T35	protein 1240 1243	EPO
+T36	cell_type 1312 1337	erythroid progenitor cell

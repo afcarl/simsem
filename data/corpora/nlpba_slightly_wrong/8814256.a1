@@ -1,0 +1,47 @@
+T1	protein 65 100	nuclear factor of activated T cells
+T2	cell_type 104 117	T lymphocytes
+T3	cell_type 141 169	Peripheral blood lymphocytes
+T4	cell_type 172 175	PBL
+T5	cell_line 182 207	alloreactive T cell lines
+T6	cell_type 453 460	T cells
+T7	protein 523 536	interleukin-2
+T8	protein 539 543	IL-2
+T9	cell_type 577 584	T cells
+T10	protein 612 621	cytokines
+T11	protein 622 626	IL-2
+T12	protein 629 645	interferon-gamma
+T13	protein 648 657	IFN-gamma
+T14	protein 662 666	IL-4
+T15	protein 671 698	tumor necrosis factor-alpha
+T16	protein 701 710	TNF-alpha
+T17	protein 729 737	cytokine
+T18	protein 785 789	IL-2
+T19	cell_type 828 852	antigen-presenting cells
+T20	cell_type 855 858	APC
+T21	RNA 874 878	mRNA
+T22	protein 883 887	IL-2
+T23	protein 892 901	IFN-gamma
+T24	protein 958 999	activation-dependent cell surface markers
+T25	protein 1000 1004	CD25
+T26	protein 1009 1013	CD69
+T27	cell_type 1102 1109	T cells
+T28	protein 1156 1177	transcription factors
+T29	DNA 1190 1203	cytokine gene
+T30	protein 1295 1299	AP-1
+T31	protein 1302 1305	Oct
+T32	protein 1308 1312	CREB
+T33	protein 1315 1318	SP1
+T34	protein 1321 1331	NF-kappa B
+T35	protein 1340 1375	nuclear factor of activated T cells
+T36	protein 1378 1383	NF-AT
+T37	DNA 1406 1423	response elements
+T38	DNA 1431 1439	promoter
+T39	DNA 1447 1456	IL-2 gene
+T40	protein 1467 1471	AP-1
+T41	protein 1487 1490	Oct
+T42	protein 1493 1497	CREB
+T43	protein 1502 1505	SP1
+T44	protein 1579 1584	NF-AT
+T45	protein 1592 1596	IL-2
+T46	protein 1727 1732	NF-AT
+T47	protein 1785 1793	cytokine

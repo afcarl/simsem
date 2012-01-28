@@ -1,0 +1,19 @@
+T1	DNA 4 20	human TCF-1 gene
+T2	protein 31 58	nuclear DNA-binding protein
+T3	cell_line 81 124	normal and neoplastic T-lineage lymphocytes
+T4	DNA 131 141	TCF-1 gene
+T5	protein 152 181	putative transcription factor
+T6	DNA 242 258	T-cell enhancers
+T7	RNA 261 271	TCF-1 mRNA
+T8	cell_line 354 380	human and mouse cell lines
+T9	protein 509 528	monoclonal antibody
+T10	protein 576 595	human TCF-1 protein
+T11	protein 616 629	TCF-1 protein
+T12	cell_line 653 676	cell lines of T lineage
+T13	protein 800 813	TCF-1 protein
+T14	cell_line 857 869	CD3+ T cells
+T15	protein 1025 1030	TCF-1
+T16	cell_type 1084 1103	T-cell malignancies
+T17	cell_type 1182 1203	hematologic neoplasms
+T18	protein 1262 1267	TCF-1
+T19	protein 1391 1396	TCF-1

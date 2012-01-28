@@ -1,0 +1,14 @@
+T1	protein 0 14	Thrombopoietin
+T2	protein 34 48	Thrombopoietin
+T3	protein 51 54	TPO
+T4	cell_type 318 348	hematopoietic progenitor cells
+T5	cell_type 361 371	stem cells
+T6	protein 374 377	TPO
+T7	protein 455 458	TPO
+T8	protein 527 539	Mpl receptor
+T9	protein 588 600	Mpl receptor
+T10	protein 620 654	hematopoietin receptor superfamily
+T11	protein 804 808	JAK2
+T12	protein 809 815	/STAT5
+T13	protein 898 902	MAPK
+T14	protein 979 982	TPO

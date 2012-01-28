@@ -1,0 +1,18 @@
+T1	cell_type 28 39	lymphocytes
+T2	cell_type 291 312	normal lymphoid cells
+T3	cell_type 459 483	malignant lymphoid cells
+T4	protein 550 572	intracellular receptor
+T5	protein 590 618	steroid receptor superfamily
+T6	protein 625 648	glucocorticoid receptor
+T7	protein 651 653	GR
+T8	protein 679 681	GR
+T9	protein 783 804	transcription factors
+T10	cell_type 832 843	lymphocytes
+T11	protein 981 983	GR
+T12	protein 986 995	I kappa B
+T13	protein 998 1003	c-jun
+T14	protein 1023 1039	survival factors
+T15	protein 1042 1046	AP-1
+T16	protein 1049 1054	c-Myc
+T17	protein 1158 1163	Nur77
+T18	protein 1168 1170	GR

@@ -1,0 +1,24 @@
+T1	protein 15 24	NF-kappaB
+T2	cell_type 39 53	normal T cells
+T3	cell_type 110 123	T lymphocytes
+T4	protein 232 252	transcription factor
+T5	protein 255 264	NF-kappaB
+T6	protein 298 307	NF-kappaB
+T7	cell_type 323 330	T cells
+T8	protein 445 454	NF-kappaB
+T9	cell_type 470 484	normal T cells
+T10	cell_type 513 520	T cells
+T11	protein 538 544	kappaB
+T12	cell_type 566 573	T cells
+T13	cell_type 629 636	T cells
+T14	protein 707 721	RelA/NFkappaB1
+T15	protein 773 779	kappaB
+T16	protein 850 862	IkappaBalpha
+T17	cell_type 935 942	T cells
+T18	protein 1009 1013	RelA
+T19	protein 1018 1028	NF-kappaB1
+T20	protein 1105 1138	RelA/NF-kappaB1 binding complexes
+T21	cell_type 1185 1199	normal T cells
+T22	protein 1231 1240	NF-kappaB
+T23	cell_type 1272 1279	T cells
+T24	protein 1318 1327	NF-kappaB

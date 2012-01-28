@@ -1,0 +1,47 @@
+T1	protein 7 28	GATA-binding proteins
+T2	protein 36 42	GATA-4
+T3	DNA 69 93	human IL-5 gene promoter
+T4	cell_type 97 117	IL-5 producing cells
+T5	protein 132 162	multiple GATA-binding proteins
+T6	protein 165 178	Interleukin-5
+T7	protein 181 185	IL-5
+T8	cell_type 203 216	T lymphocytes
+T9	cell_type 292 308	progenitor cells
+T10	cell_line 317 330	ATL-16T cells
+T11	RNA 345 354	IL-5 mRNA
+T12	DNA 398 422	human IL-5 gene promoter
+T13	DNA 440 449	IL-5 gene
+T14	DNA 471 490	cis-acting sequence
+T15	DNA 504 522	core binding motif
+T16	protein 552 580	GATA-binding family proteins
+T17	protein 685 697	human GATA-4
+T18	protein 700 707	hGATA-4
+T19	protein 724 731	hGATA-4
+T20	DNA 763 776	-70 GATA site
+T21	DNA 788 817	IL-5 proximal promoter region
+T22	DNA 897 924	positive regulatory element
+T23	protein 973 980	hGATA-4
+T24	DNA 1030 1043	IL-5 promoter
+T25	DNA 1084 1102	regulatory element
+T26	DNA 1110 1114	CLE0
+T27	DNA 1146 1159	-70 GATA site
+T28	cell_line 1186 1199	ATL-16T cells
+T29	RNA 1208 1212	mRNA
+T30	protein 1222 1243	GATA-binding proteins
+T31	protein 1246 1253	hGATA-2
+T32	protein 1256 1263	hGATA-3
+T33	protein 1268 1275	hGATA-4
+T34	DNA 1326 1363	consensus ( A/T ) GATA ( G/ A ) motif
+T35	protein 1429 1435	GATA-4
+T36	protein 1448 1468	GATA-binding protein
+T37	protein 1489 1508	DNA-protein complex
+T38	DNA 1518 1531	-70 GATA site
+T39	cell_line 1592 1601	COS cells
+T40	protein 1613 1634	GATA-binding proteins
+T41	protein 1647 1653	GATA-4
+T42	DNA 1694 1707	-70 GATA site
+T43	protein 1724 1745	GATA-binding proteins
+T44	protein 1812 1818	GATA-4
+T45	protein 1897 1903	GATA-4
+T46	DNA 1945 1954	IL-5 gene
+T47	protein 2003 2024	GATA-binding proteins

@@ -1,0 +1,42 @@
+T1	DNA 8 21	chromosome 20
+T2	DNA 232 241	short arm
+T3	DNA 245 266	Chromosome ( Chr ) 20
+T4	cell_type 369 389	lymphoblastoid cells
+T5	DNA 446 465	short arm of Chr 20
+T6	DNA 485 500	p11.23 to p12.3
+T7	cell_line 506 541	rodent thermosensitive mutant cells
+T8	cell_line 544 553	CHOtsH1-1
+T9	protein 566 591	in-leucyl-tRNA synthetase
+T10	cell_line 608 627	somatic cell hybrid
+T11	DNA 658 664	Chr 20
+T12	cell_line 698 701	NR2
+T13	DNA 806 812	Chr 20
+T14	DNA 815 820	D20S5
+T15	DNA 823 829	D20S41
+T16	DNA 832 838	D20S42
+T17	DNA 841 847	D20S56
+T18	DNA 850 856	D20S57
+T19	DNA 859 865	D20S58
+T20	DNA 868 887	adenosine deaminase
+T21	protein 890 893	ADA
+T22	DNA 902 915	Prion protein
+T23	protein 918 922	PRIP
+T24	DNA 970 974	RFLP
+T25	DNA 996 1020	genomic anonymous probes
+T26	DNA 1023 1028	D20S5
+T27	DNA 1031 1037	cD3H12
+T28	DNA 1040 1046	D20S17
+T29	DNA 1049 1055	D20S18
+T30	DNA 1112 1127	total human DNA
+T31	DNA 1132 1137	D20Z1
+T32	DNA 1167 1190	human Chr 20 centromere
+T33	cell_line 1209 1219	NR2 hybrid
+T34	DNA 1248 1263	candidate genes
+T35	DNA 1274 1303	hepatic nuclear factor 3 beta
+T36	DNA 1306 1315	HNF3 beta
+T37	DNA 1320 1332	paired box 1
+T38	DNA 1335 1339	PAX1
+T39	DNA 1348 1358	cystatin C
+T40	DNA 1361 1365	CST3
+T41	cell_line 1429 1439	NR2 hybrid
+T42	DNA 1685 1699	cDNA libraries

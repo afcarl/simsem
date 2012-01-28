@@ -1,0 +1,28 @@
+T1	protein 0 26	Platelet-activating factor
+T2	DNA 132 140	oncogene
+T3	cell_line 157 174	human B cell line
+T4	protein 177 203	Platelet-activating factor
+T5	protein 282 308	platelet-activating factor
+T6	cell_type 337 348	neutrophils
+T7	cell_type 351 360	monocytes
+T8	cell_type 367 376	platelets
+T9	protein 431 457	platelet-activating factor
+T10	cell_type 461 474	B lymphocytes
+T11	cell_line 491 524	EBV-transformed human B cell line
+T12	cell_line 525 531	SKW6.4
+T13	protein 554 580	platelet-activating factor
+T14	protein 880 911	lyso-platelet-activating factor
+T15	protein 1027 1053	platelet-activating factor
+T16	protein 1173 1199	platelet-activating factor
+T17	protein 1261 1287	platelet-activating factor
+T18	cell_type 1299 1306	B cells
+T19	protein 1320 1346	platelet-activating factor
+T20	protein 1439 1465	platelet-activating factor
+T21	DNA 1511 1534	nuclear proto-oncogenes
+T22	DNA 1535 1540	c-fos
+T23	DNA 1545 1550	c-jun
+T24	protein 1701 1715	5-lipoxygenase
+T25	protein 1735 1761	platelet-activating factor
+T26	protein 1826 1842	phospholipase A2
+T27	protein 1858 1884	platelet-activating factor
+T28	cell_line 1941 1957	pure B cell line

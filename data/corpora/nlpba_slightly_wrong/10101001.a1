@@ -1,0 +1,23 @@
+T1	cell_type 18 38	alveolar macrophages
+T2	protein 71 80	NF-kappaB
+T3	protein 146 179	immunoglobulin G immune complexes
+T4	protein 203 212	cytokines
+T5	protein 217 227	chemokines
+T6	protein 257 277	transcription factor
+T7	protein 278 307	nuclear factor ( NF ) -kappaB
+T8	cell_type 364 384	alveolar macrophages
+T9	cell_type 466 486	alveolar macrophages
+T10	cell_type 636 656	alveolar macrophages
+T11	protein 684 698	lung NF-kappaB
+T12	protein 774 801	tumor necrosis factor-alpha
+T13	protein 804 813	TNF-alpha
+T14	protein 824 837	CXC chemokine
+T15	protein 840 873	macrophage inflammatory protein-2
+T16	protein 939 970	lung vascular adhesion molecule
+T17	protein 973 1006	intercellular adhesion molecule-1
+T18	protein 1211 1220	TNF-alpha
+T19	protein 1271 1280	NF-kappaB
+T20	protein 1394 1403	NF-kappaB
+T21	cell_type 1414 1434	alveolar macrophages
+T22	protein 1465 1474	TNF-alpha
+T23	protein 1489 1498	NF-kappaB

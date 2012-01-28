@@ -1,0 +1,23 @@
+T1	protein 12 34	nuclear factor-kappa B
+T2	DNA 38 51	cytokine gene
+T3	protein 65 86	Transcription factors
+T4	protein 91 111	DNA-binding proteins
+T5	protein 144 166	Nuclear factor-kappa B
+T6	protein 169 179	NF-kappa B
+T7	protein 196 216	transcription factor
+T8	protein 248 257	cytokines
+T9	protein 427 437	NF-kappa B
+T10	protein 475 494	inhibitory proteins
+T11	protein 497 506	I kappa B
+T12	protein 524 534	NF-kappa B
+T13	cell_type 555 589	immune/inflammatory effector cells
+T14	protein 592 602	NF-kappa B
+T15	protein 686 695	I kappa B
+T16	protein 708 718	NF-kappa B
+T17	DNA 763 786	specific promoter sites
+T18	protein 840 850	NF-kappa B
+T19	protein 996 1006	NF-kappa B
+T20	protein 1045 1055	NF-kappa B
+T21	protein 1210 1220	NF-kappa B
+T22	protein 1318 1327	endotoxin
+T23	protein 1402 1412	NF-kappa B

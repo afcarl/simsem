@@ -1,0 +1,28 @@
+T1	cell_type 61 80	human T lymphocytes
+T2	DNA 217 231	specific genes
+T3	protein 320 333	interleukin-2
+T4	protein 336 340	IL-2
+T5	cell_type 502 544	primary human peripheral blood lymphocytes
+T6	protein 621 625	IL-2
+T7	DNA 630 675	metallothionein enhancer and promoter regions
+T8	protein 680 701	transcription factors
+T9	protein 702 706	AP-1
+T10	protein 709 718	NF-kappaB
+T11	protein 725 730	NF-AT
+T12	protein 748 781	chloramphenicol acetyltransferase
+T13	protein 784 787	CAT
+T14	RNA 870 916	c-fos , c-jun , c-myc , junB , and fra-1 mRNAs
+T15	cell_type 944 972	peripheral blood lymphocytes
+T16	protein 1067 1070	CAT
+T17	cell_type 1123 1131	plasmids
+T18	protein 1154 1158	IL-2
+T19	DNA 1162 1186	metallothionein enhancer
+T20	protein 1213 1234	transcription factors
+T21	protein 1244 1248	AP-1
+T22	cell_type 1275 1315	stimulated purified T helper lymphocytes
+T23	cell_type 1357 1375	drug-free controls
+T24	RNA 1433 1460	immediate-early transcripts
+T25	protein 1472 1476	IL-2
+T26	protein 1481 1496	metallothionein
+T27	protein 1534 1538	AP-1
+T28	cell_type 1557 1576	primary lymphocytes

@@ -1,0 +1,30 @@
+T1	DNA 18 38	immediate-early gene
+T2	cell_type 52 63	lymphocytes
+T3	protein 91 100	p21Ha-ras
+T4	DNA 120 157	immediate-early ( IE ) response genes
+T5	DNA 168 173	egr-1
+T6	DNA 176 181	c-fos
+T7	DNA 188 193	c-jun
+T8	cell_type 235 248	T lymphocytes
+T9	protein 323 339	protein kinase C
+T10	protein 342 345	PKC
+T11	protein 373 389	tyrosine kinases
+T12	protein 392 403	p21 ( ras )
+T13	protein 408 441	guanine nucleotide binding factor
+T14	protein 488 491	PKC
+T15	protein 507 510	PKC
+T16	protein 554 565	p21 ( ras )
+T17	protein 682 687	NF-AT
+T18	DNA 733 741	IE genes
+T19	cell_line 776 788	Jurkat cells
+T20	protein 820 831	p21 ( ras )
+T21	protein 898 909	p21 ( ras )
+T22	DNA 948 956	IE genes
+T23	DNA 1017 1024	IE gene
+T24	protein 1112 1123	calcineurin
+T25	protein 1204 1215	p21 ( ras )
+T26	protein 1259 1279	transcription factor
+T27	protein 1280 1284	AP-1
+T28	DNA 1325 1334	IL-2 gene
+T29	protein 1398 1409	p2l ( ras )
+T30	cell_type 1537 1544	T cells

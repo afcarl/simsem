@@ -1,0 +1,36 @@
+T1	DNA 26 53	positive regulatory element
+T2	DNA 73 95	human zeta-globin gene
+T3	DNA 118 138	zeta-globin promoter
+T4	DNA 169 209	zeta-globin promoter deletion constructs
+T5	protein 219 229	luciferase
+T6	cell_line 244 295	transiently transfected human erythroleukemia cells
+T7	DNA 302 311	promoters
+T8	DNA 330 339	enhancers
+T9	DNA 350 359	enhancers
+T10	DNA 377 409	beta-globin locus control region
+T11	DNA 418 445	alpha-globin HS-40 enhancer
+T12	cell_line 470 480	K562 cells
+T13	protein 497 508	zeta-globin
+T14	DNA 565 605	-557 and -417 zeta-luciferase constructs
+T15	DNA 614 641	alpha-luciferase constructs
+T16	DNA 650 659	enhancers
+T17	DNA 667 695	alpha-globin locus enhancers
+T18	cell_line 750 761	OCIM1 cells
+T19	protein 785 796	zeta-globin
+T20	DNA 803 824	zeta-globin promoters
+T21	DNA 860 882	alpha-globin promoters
+T22	DNA 890 921	sequences from -417 to -207 5 '
+T23	RNA 929 954	zeta-globin mRNA cap site
+T24	DNA 988 1008	zeta-globin promoter
+T25	cell_line 1030 1040	K562 cells
+T26	DNA 1079 1105	zeta-luciferase constructs
+T27	DNA 1219 1230	GATA-1 site
+T28	DNA 1295 1305	CCACC site
+T29	DNA 1387 1403	-230 GATA-1 site
+T30	protein 1438 1444	GATA-1
+T31	DNA 1495 1518	positive-acting element
+T32	DNA 1537 1557	-417 and -207 bp 5 '
+T33	DNA 1565 1590	zeta-globin mRNA cap site
+T34	cell_line 1642 1652	K562 cells
+T35	protein 1677 1683	GATA-1
+T36	protein 1688 1714	additional unknown factors

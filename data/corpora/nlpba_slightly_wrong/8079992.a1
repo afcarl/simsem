@@ -1,0 +1,30 @@
+T1	DNA 37 60	tiny ring X chromosomes
+T2	DNA 99 110	chromosomes
+T3	DNA 364 374	XIST locus
+T4	DNA 384 407	tiny ring X chromosomes
+T5	DNA 452 456	XIST
+T6	DNA 515 527	X chromosome
+T7	cell_type 531 551	female somatic cells
+T8	cell_type 556 569	spermatogonia
+T9	DNA 643 654	chromosomes
+T10	DNA 735 748	X chromosomes
+T11	DNA 757 761	XIST
+T12	DNA 848 861	X chromosomes
+T13	protein 878 886	antibody
+T14	protein 927 937	histone H4
+T15	DNA 946 975	transcribed chromatin domains
+T16	DNA 1065 1088	XISTE- ring chromosomes
+T17	DNA 1110 1115	genes
+T18	DNA 1147 1157	inactive X
+T19	DNA 1183 1194	chromosomes
+T20	cell_line 1209 1221	hybrid cells
+T21	DNA 1232 1236	TIMP
+T22	DNA 1239 1243	ZXDA
+T23	DNA 1250 1259	ZXDB loci
+T24	DNA 1267 1285	proximal short arm
+T25	DNA 1292 1294	AR
+T26	DNA 1299 1309	PHKA1 loci
+T27	DNA 1356 1378	tiny ring X chromosome
+T28	DNA 1387 1395	XIST DNA
+T29	DNA 1413 1428	ring chromosome
+T30	DNA 1438 1446	XIST DNA

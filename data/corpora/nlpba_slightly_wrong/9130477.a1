@@ -1,0 +1,24 @@
+T1	DNA 28 36	germline
+T2	protein 61 94	B-cell-specific activator protein
+T3	protein 97 117	Germline transcripts
+T4	DNA 132 141	promoters
+T5	DNA 158 186	immunoglobulin switch region
+T6	protein 291 300	cytokines
+T7	DNA 343 360	germline promoter
+T8	DNA 371 384	binding sites
+T9	protein 389 422	B-cell-specific activator protein
+T10	protein 425 429	BSAP
+T11	DNA 486 525	immunoglobulin heavy chain gene cluster
+T12	protein 528 532	BSAP
+T13	DNA 572 580	germline
+T14	protein 643 647	BSAP
+T15	DNA 710 727	germline promoter
+T16	cell_type 731 744	human B cells
+T17	protein 771 775	BSAP
+T18	protein 797 801	IL-4
+T19	protein 827 831	CD40
+T20	DNA 872 880	germline
+T21	protein 897 901	BSAP
+T22	protein 922 943	transcription factors
+T23	DNA 966 974	germline
+T24	protein 1097 1100	IgE

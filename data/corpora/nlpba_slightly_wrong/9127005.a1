@@ -1,0 +1,46 @@
+T1	protein 22 54	mitogen-activated protein kinase
+T2	protein 66 95	terminal complement complexes
+T3	protein 99 108	G protein
+T4	protein 133 162	terminal complement complexes
+T5	protein 165 168	TCC
+T6	protein 171 176	C5b-7
+T7	protein 179 184	C5b-8
+T8	protein 191 196	C5b-9
+T9	protein 322 331	G protein
+T10	protein 345 348	TCC
+T11	protein 413 421	cytokine
+T12	DNA 434 448	proto-oncogene
+T13	protein 514 517	TCC
+T14	protein 526 529	Ras
+T15	protein 532 537	Raf-1
+T16	protein 544 591	extracellular signal-regulated kinase ( ERK ) 1
+T17	protein 652 657	C5b-9
+T18	protein 660 673	GTP-bound Ras
+T19	protein 677 706	anti-C5b-9 immunoprecipitates
+T20	protein 747 760	GTP-bound Ras
+T21	protein 764 791	anti-Ras immunoprecipitates
+T22	protein 830 835	C5b-9
+T23	protein 840 845	C5b-7
+T24	protein 856 860	C5b6
+T25	protein 873 878	Raf-1
+T26	protein 960 964	ERK1
+T27	protein 998 1003	C5b-9
+T28	protein 1020 1025	C5b-7
+T29	protein 1047 1051	C5b6
+T30	protein 1072 1104	mitogen-activated protein kinase
+T31	protein 1107 1111	MAPK
+T32	protein 1125 1128	TCC
+T33	protein 1203 1222	activator protein 1
+T34	protein 1225 1229	AP-1
+T35	protein 1314 1319	C5b-9
+T36	protein 1360 1369	G protein
+T37	protein 1391 1395	MAPK
+T38	protein 1407 1410	TCC
+T39	protein 1442 1447	Raf-1
+T40	protein 1452 1456	ERK1
+T41	protein 1534 1549	pertussis toxin
+T42	cell_line 1633 1643	JY25 cells
+T43	protein 1659 1664	Raf-1
+T44	protein 1669 1673	ERK1
+T45	protein 1800 1804	MAPK
+T46	protein 1816 1819	TCC

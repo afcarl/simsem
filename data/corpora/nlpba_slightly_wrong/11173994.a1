@@ -1,0 +1,29 @@
+T1	cell_type 24 53	posthypoxic endothelial cells
+T2	protein 197 207	NF kappa B
+T3	protein 231 248	adhesion molecule
+T4	cell_type 263 280	endothelial cells
+T5	protein 410 420	NF kappa B
+T6	protein 506 509	p65
+T7	protein 723 726	p65
+T8	protein 733 743	E-selectin
+T9	protein 804 827	protein tyrosine kinase
+T10	protein 830 833	PTK
+T11	protein 838 866	protein tyrosine phosphatase
+T12	protein 869 875	PTPase
+T13	protein 885 901	protein kinase C
+T14	protein 904 907	PKC
+T15	protein 1053 1056	p65
+T16	protein 1120 1130	NF kappa B
+T17	protein 1175 1196	activated p65 subunit
+T18	protein 1213 1216	PKC
+T19	protein 1225 1240	I kappa B alpha
+T20	protein 1257 1260	p65
+T21	cell_type 1319 1336	endothelial cells
+T22	protein 1428 1431	PTK
+T23	protein 1551 1554	PKC
+T24	protein 1558 1561	PTK
+T25	protein 1575 1578	PTK
+T26	protein 1952 1955	PKC
+T27	protein 1960 1963	PTK
+T28	protein 1999 2009	NF kappa B
+T29	protein 2029 2039	NF kappa B

@@ -1,0 +1,28 @@
+T1	protein 22 73	hematopoietic transcription factors PU.1 and GATA-1
+T2	cell_type 101 116	erythroid cells
+T3	protein 248 252	PU.1
+T4	protein 258 312	hematopoietic-specific Ets family transcription factor
+T5	cell_type 354 383	lymphoid and myeloid lineages
+T6	protein 386 390	PU.1
+T7	protein 410 421	oncoprotein
+T8	cell_line 597 632	mouse erythroleukemia ( MEL ) cells
+T9	protein 668 672	PU.1
+T10	protein 691 695	PU.1
+T11	protein 777 781	PU.1
+T12	protein 839 843	PU.1
+T13	protein 868 874	GATA-1
+T14	protein 879 911	zinc finger transcription factor
+T15	protein 973 977	PU.1
+T16	protein 982 988	GATA-1
+T17	protein 1005 1024	DNA-binding domains
+T18	protein 1044 1048	PU.1
+T19	protein 1059 1065	GATA-1
+T20	protein 1114 1125	DNA binding
+T21	protein 1130 1153	transactivation domains
+T22	protein 1157 1161	PU.1
+T23	cell_line 1260 1269	MEL cells
+T24	protein 1312 1316	PU.1
+T25	protein 1442 1448	GATA-1
+T26	cell_line 1457 1466	MEL cells
+T27	protein 1559 1563	PU.1
+T28	protein 1647 1668	transcription factors

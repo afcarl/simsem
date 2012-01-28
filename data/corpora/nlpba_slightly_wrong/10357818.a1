@@ -1,0 +1,27 @@
+T1	protein 0 25	Latent membrane protein 1
+T2	protein 63 67	JAK3
+T3	protein 82 95	STAT proteins
+T4	protein 98 123	Latent membrane protein 1
+T5	protein 126 130	LMP1
+T6	protein 145 175	permanently activated receptor
+T7	protein 183 234	tumor necrosis factor ( TNF ) -receptor superfamily
+T8	protein 368 372	LMP1
+T9	protein 438 447	NF-kappaB
+T10	protein 452 456	AP-1
+T11	protein 465 494	C-terminal activating regions
+T12	protein 552 573	proline rich sequence
+T13	protein 613 617	LMP1
+T14	protein 621 631	C-terminus
+T15	protein 666 680	Janus kinase 3
+T16	protein 683 687	JAK3
+T17	protein 711 715	LMP1
+T18	protein 720 724	JAK3
+T19	protein 785 789	JAK3
+T20	protein 841 861	NGF-R : LMP1 chimera
+T21	protein 906 932	STAT transcription factors
+T22	protein 989 993	LMP1
+T23	protein 994 1004	C-terminus
+T24	protein 1022 1025	JAK
+T25	protein 1026 1031	/STAT
+T26	protein 1060 1091	viral integral membrane protein
+T27	cell_type 1095 1102	B cells

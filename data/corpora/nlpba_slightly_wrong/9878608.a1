@@ -1,0 +1,8 @@
+T1	protein 101 122	ORF 50 transactivator
+T2	protein 142 155	EBV R protein
+T3	cell_type 384 397	B lymphocytes
+T4	cell_type 417 434	mononuclear cells
+T5	DNA 633 643	viral gene
+T6	DNA 646 652	ORF 50
+T7	DNA 717 742	delayed-early viral genes
+T8	cell_type 810 835	latently infected B cells

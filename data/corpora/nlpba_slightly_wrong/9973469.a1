@@ -1,0 +1,28 @@
+T1	protein 0 10	Fas ligand
+T2	cell_type 24 38	human NK cells
+T3	protein 71 98	calcineurin-nuclear factors
+T4	protein 139 149	Fas ligand
+T5	protein 152 156	FasL
+T6	protein 462 474	FasL protein
+T7	RNA 479 483	mRNA
+T8	cell_type 487 505	activated NK cells
+T9	protein 547 551	CD16
+T10	cell_type 555 581	IL-2-preactivated NK cells
+T11	protein 660 664	FasL
+T12	protein 683 687	CD16
+T13	protein 697 701	FasL
+T14	protein 923 927	FasL
+T15	protein 965 969	CD16
+T16	protein 1020 1024	FasL
+T17	cell_type 1038 1046	NK cells
+T18	protein 1088 1092	CD16
+T19	protein 1127 1150	NF of activated T cells
+T20	protein 1153 1157	NFAT
+T21	protein 1210 1214	NFAT
+T22	protein 1359 1363	NFAT
+T23	protein 1526 1547	threonine phosphatase
+T24	protein 1563 1567	NFAT
+T25	protein 1623 1634	calcineurin
+T26	protein 1639 1643	NFAT
+T27	protein 1705 1709	FasL
+T28	cell_type 1723 1741	activated NK cells

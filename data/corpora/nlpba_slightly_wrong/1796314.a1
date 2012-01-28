@@ -1,0 +1,15 @@
+T1	protein 23 30	insulin
+T2	protein 34 57	glucocorticoid receptor
+T3	cell_type 61 88	human peripheral leukocytes
+T4	protein 116 123	insulin
+T5	protein 157 180	glucocorticoid receptor
+T6	protein 183 185	GR
+T7	cell_type 191 207	human leukocytes
+T8	protein 228 253	unoccupied receptor sites
+T9	protein 381 388	insulin
+T10	protein 666 673	insulin
+T11	protein 848 855	insulin
+T12	protein 1123 1130	insulin
+T13	protein 1138 1140	GR
+T14	protein 1219 1221	GR
+T15	protein 1249 1256	insulin

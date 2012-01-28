@@ -1,0 +1,27 @@
+T1	protein 0 22	Nuclear factor kappa B
+T2	cell_type 64 77	T lymphocytes
+T3	cell_type 98 111	T lymphocytes
+T4	RNA 202 220	proenkephalin mRNA
+T5	DNA 371 373	B2
+T6	DNA 400 416	kappa B sequence
+T7	protein 455 475	transcription factor
+T8	protein 476 506	nuclear factor ( NF ) -kappa B
+T9	cell_type 523 536	T lymphocytes
+T10	protein 548 558	NF-kappa B
+T11	DNA 589 591	B2
+T12	DNA 634 656	proenkephalin promoter
+T13	DNA 676 678	B2
+T14	protein 739 748	homodimer
+T15	protein 755 759	p50s
+T16	protein 769 788	DNA-binding subunit
+T17	protein 792 802	NF-kappa B
+T18	DNA 813 815	B2
+T19	protein 870 884	heterotetramer
+T20	protein 891 895	p65s
+T21	protein 905 909	p50s
+T22	DNA 994 1016	proenkephalin promoter
+T23	protein 1032 1042	NF-kappa B
+T24	protein 1058 1068	NF-kappa B
+T25	DNA 1130 1132	B2
+T26	protein 1171 1193	T-cell-specific factor
+T27	protein 1216 1226	NF-kappa B

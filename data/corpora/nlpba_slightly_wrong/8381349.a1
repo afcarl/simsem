@@ -1,0 +1,30 @@
+T1	protein 4 40	Epstein-Barr virus nuclear antigen 2
+T2	DNA 59 87	EBNA2 responsive cis-element
+T3	DNA 95 127	terminal protein 1 gene promoter
+T4	protein 134 166	Epstein-Barr virus protein EBNA2
+T5	protein 177 202	transcriptional activator
+T6	DNA 206 230	cellular and viral genes
+T7	cell_type 282 303	human primary B-cells
+T8	protein 343 348	EBNA2
+T9	protein 385 409	latent membrane antigens
+T10	protein 410 413	LMP
+T11	protein 416 419	TP1
+T12	protein 424 427	TP2
+T13	DNA 434 442	promoter
+T14	DNA 450 458	TP1 gene
+T15	protein 524 529	EBNA2
+T16	DNA 572 606	EBNA2 dependent cis-acting element
+T17	DNA 617 654	TP1 promoter-reporter gene constructs
+T18	DNA 706 729	EBNA2 expression vector
+T19	cell_line 751 773	B-cell line BL41-P3HR1
+T20	DNA 805 834	81 bp EBNA2 responsive region
+T21	DNA 873 891	TP1 RNA start site
+T22	protein 953 958	EBNA2
+T23	DNA 990 1011	heterologous promoter
+T24	protein 1076 1097	protein-DNA complexes
+T25	DNA 1127 1151	EBNA2 responsive element
+T26	protein 1232 1237	EBNA2
+T27	protein 1301 1306	EBNA2
+T28	protein 1352 1357	EBNA2
+T29	protein 1438 1443	EBNA2
+T30	DNA 1462 1490	EBNA2 responsive cis-element

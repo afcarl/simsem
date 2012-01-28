@@ -1,0 +1,20 @@
+T1	protein 0 21	Transcription factors
+T2	cell_type 183 196	T lymphocytes
+T3	cell_type 530 564	human peripheral blood lymphocytes
+T4	DNA 1044 1053	IL-2 gene
+T5	DNA 1121 1131	early gene
+T6	protein 1197 1218	transcription factors
+T7	protein 1219 1223	AP-1
+T8	protein 1226 1236	NF-kappa B
+T9	protein 1239 1244	NF-AT
+T10	protein 1249 1253	Oct1
+T11	protein 1307 1311	IL-2
+T12	RNA 1373 1382	IL-2 mRNA
+T13	protein 1400 1404	IL-2
+T14	protein 1516 1536	transcription factor
+T15	protein 1581 1585	AP-1
+T16	protein 1590 1600	NF-kappa B
+T17	cell_type 1616 1640	mitogen-stimulated cells
+T18	protein 1893 1912	regulatory proteins
+T19	protein 1923 1944	transcription factors
+T20	cell_type 2118 2131	T lymphocytes

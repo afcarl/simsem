@@ -1,0 +1,29 @@
+T1	protein 47 50	HSF
+T2	protein 69 77	NFkappaB
+T3	cell_type 81 96	human monocytes
+T4	protein 110 118	TNFalpha
+T5	cell_type 206 217	macrophages
+T6	protein 274 283	cytokines
+T7	protein 296 331	tumor necrosis factor ( TNF ) alpha
+T8	protein 362 396	heat shock ( HS ) /stress proteins
+T9	protein 399 402	HSP
+T10	protein 432 437	Hsp70
+T11	protein 462 467	Hsp70
+T12	protein 522 545	HS transcription factor
+T13	protein 548 551	HSF
+T14	protein 554 557	HSF
+T15	protein 595 603	NFkappaB
+T16	protein 653 661	NFkappaB
+T17	cell_line 664 674	U937 cells
+T18	cell_type 679 711	human peripheral blood monocytes
+T19	protein 770 791	transcription factors
+T20	protein 812 817	Hsp70
+T21	protein 833 841	TNFalpha
+T22	protein 893 896	HSF
+T23	protein 925 930	Hsp70
+T24	protein 964 972	NFkappaB
+T25	protein 994 1002	TNFalpha
+T26	protein 1025 1041	cytokine profile
+T27	protein 1079 1082	HSF
+T28	protein 1085 1090	Hsp70
+T29	protein 1115 1123	NFkappaB

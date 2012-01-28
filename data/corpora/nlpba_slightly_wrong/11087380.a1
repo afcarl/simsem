@@ -1,0 +1,25 @@
+T1	protein 0 29	hsp70 interacting protein Hip
+T2	protein 46 69	glucocorticoid receptor
+T3	protein 148 153	BAG-1
+T4	protein 219 272	glucocorticoid receptor ( GR ) .hsp90 heterocomplexes
+T5	protein 281 298	purified proteins
+T6	protein 428 433	hsp90
+T7	protein 438 443	hsp70
+T8	protein 511 514	Hop
+T9	protein 517 522	hsp40
+T10	protein 525 528	p23
+T11	protein 689 711	hsp70 co-chaperone Hip
+T12	protein 734 764	receptor.hsp90 heterocomplexes
+T13	protein 831 834	Hip
+T14	protein 945 948	Hip
+T15	protein 1004 1007	Hip
+T16	protein 1188 1191	Hip
+T17	protein 1238 1262	GR.hsp90 heterocomplexes
+T18	protein 1320 1323	Hip
+T19	protein 1363 1387	hsp70 co-chaperone BAG-1
+T20	protein 1412 1415	Hip
+T21	protein 1421 1426	BAG-1
+T22	protein 1435 1440	BAG-1
+T23	cell_line 1482 1491	COS cells
+T24	protein 1511 1514	Hip
+T25	protein 1618 1623	BAG-1

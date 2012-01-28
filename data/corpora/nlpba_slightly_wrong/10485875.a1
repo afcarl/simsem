@@ -1,0 +1,37 @@
+T1	protein 14 36	protein phosphatase 2A
+T2	protein 138 143	STAT3
+T3	protein 146 196	Signal transducers and activators of transcription
+T4	protein 199 204	STATs
+T5	protein 270 278	cytokine
+T6	protein 283 296	growth factor
+T7	protein 312 334	cell surface receptors
+T8	protein 337 342	STATs
+T9	protein 403 424	transcription factors
+T10	protein 481 486	STATs
+T11	protein 525 529	STAT
+T12	protein 591 620	serine/threonine phosphatases
+T13	protein 624 629	STAT3
+T14	cell_line 643 688	human antigen-specific CD4 ( + ) T cell lines
+T15	cell_line 693 724	cutaneous T cell lymphoma lines
+T16	protein 765 770	STAT3
+T17	protein 802 822	protein phosphatases
+T18	protein 825 828	PPs
+T19	protein 831 839	PP1/PP2A
+T20	protein 842 853	calyculin A
+T21	protein 889 894	STAT3
+T22	protein 951 956	STAT3
+T23	protein 1035 1040	STAT3
+T24	protein 1204 1207	PP1
+T25	protein 1226 1230	PP2B
+T26	protein 1347 1358	calyculin A
+T27	protein 1368 1373	STAT3
+T28	protein 1414 1438	serine/threonine kinases
+T29	protein 1449 1521	mitogen-activated protein kinase-1 extracellular-regulated kinase-kinase
+T30	protein 1524 1560	mitogen-activated protein p38 kinase
+T31	protein 1567 1596	phosphatidylinositol 3-kinase
+T32	protein 1650 1654	PP2A
+T33	protein 1697 1702	STAT3
+T34	cell_type 1751 1758	T cells
+T35	protein 1811 1816	STAT3
+T36	protein 1855 1885	staurosporine-sensitive kinase
+T37	protein 1896 1900	PP2A

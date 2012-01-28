@@ -1,0 +1,32 @@
+T1	DNA 27 40	IL-2 promoter
+T2	cell_line 48 70	CD4-CD8- T lymphocytes
+T3	protein 111 167	novel nuclear factor of activated T cells-binding factor
+T4	cell_line 191 249	MRL-Ipr/Ipr ( Ipr ) peripheral CD4-CD8- ( CD4-8- ) T cells
+T5	protein 312 316	IL-2
+T6	protein 332 335	TCR
+T7	protein 402 405	TCR
+T8	protein 563 569	p59fyn
+T9	protein 574 582	CD3 zeta
+T10	cell_type 649 656	T cells
+T11	DNA 746 755	IL-2 gene
+T12	DNA 812 837	IL-2 gene promoter region
+T13	cell_line 873 891	Ipr CD4-8- T cells
+T14	cell_type 905 925	normal T lymphocytes
+T15	protein 952 962	NF-kappa B
+T16	protein 965 984	p50-p65 heterodimer
+T17	protein 993 1021	AP-1 transcriptional factors
+T18	cell_line 1070 1088	Ipr CD4-8- T cells
+T19	protein 1224 1259	nuclear factor of activated T cells
+T20	protein 1262 1267	NF-AT
+T21	cell_line 1303 1321	Ipr CD4-8- T cells
+T22	protein 1359 1372	NF-AT complex
+T23	cell_type 1431 1438	T cells
+T24	cell_line 1477 1495	Ipr CD4-8- T cells
+T25	DNA 1560 1570	NF-AT site
+T26	cell_type 1631 1651	normal T lymphocytes
+T27	protein 1717 1737	NF-AT-binding factor
+T28	cell_type 1774 1781	T cells
+T29	cell_line 1815 1833	Ipr CD4-8- T cells
+T30	DNA 1867 1877	NF-AT site
+T31	protein 1937 1941	IL-2
+T32	cell_line 1958 1976	Ipr CD4-8- T cells

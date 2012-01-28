@@ -1,0 +1,22 @@
+T1	protein 21 53	S-adenosylhomocysteine hydrolase
+T2	protein 86 95	NF-kappaB
+T3	protein 123 132	NF-kappaB
+T4	protein 175 187	IkappaBalpha
+T5	protein 294 326	S-adenosylhomocysteine hydrolase
+T6	protein 390 417	tumor necrosis factor-alpha
+T7	protein 422 439	interleukin-1beta
+T8	cell_line 443 475	mouse macrophage RAW 264.7 cells
+T9	protein 531 552	nuclear factor-kappaB
+T10	protein 555 564	NF-kappaB
+T11	protein 625 634	NF-kappaB
+T12	protein 660 663	p65
+T13	protein 666 671	Rel-A
+T14	protein 796 805	NF-kappaB
+T15	protein 941 953	IkappaBalpha
+T16	protein 964 975	IkappaBbeta
+T17	protein 1030 1039	NF-kappaB
+T18	cell_line 1105 1120	RAW 264.7 cells
+T19	protein 1140 1152	IkappaBalpha
+T20	protein 1183 1205	IkappaB kinase complex
+T21	protein 1363 1372	NF-kappaB
+T22	protein 1491 1500	NF-kappaB

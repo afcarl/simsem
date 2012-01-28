@@ -1,0 +1,16 @@
+T1	DNA 47 60	IL-2 promoter
+T2	protein 82 134	okadaic acid-sensitive serine/threonine phosphatases
+T3	DNA 155 164	IL-2 gene
+T4	cell_type 188 195	T cells
+T5	protein 223 226	TCR
+T6	protein 253 272	accessory receptors
+T7	protein 303 346	okadaic acid-sensitive Ser/Thr phosphatases
+T8	DNA 559 568	IL-2 gene
+T9	cell_type 579 619	activated peripheral blood T lymphocytes
+T10	cell_line 624 658	activated tumorigenic T cell lines
+T11	protein 661 665	IL-2
+T12	protein 745 766	transcription factors
+T13	DNA 781 794	IL-2 promoter
+T14	protein 852 887	okadaic acid-sensitive phosphatases
+T15	protein 919 929	NF-kappa B
+T16	protein 936 968	NF of activated T cells proteins

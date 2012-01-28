@@ -1,0 +1,40 @@
+T1	protein 0 20	Transcription factor
+T2	RNA 38 46	U2 snRNA
+T3	cell_type 76 92	B lymphoid cells
+T4	DNA 120 165	U2 small nuclear RNA ( snRNA ) -encoding gene
+T5	cell_line 169 179	HeLa cells
+T6	DNA 191 214	distal enhancer element
+T7	DNA 242 255	octamer motif
+T8	DNA 258 261	Oct
+T9	DNA 274 292	Sp 1-binding sites
+T10	protein 308 328	transcription factor
+T11	cell_type 344 351	B-cells
+T12	DNA 364 389	U2 enhancer constructions
+T13	cell_line 416 434	lymphoid cell line
+T14	cell_line 437 442	BJA-B
+T15	cell_type 513 520	B-cells
+T16	DNA 567 570	Oct
+T17	DNA 588 605	Sp 1-binding site
+T18	DNA 628 646	Sp 1-binding sites
+T19	DNA 656 664	enhancer
+T20	cell_line 722 733	BJA-B cells
+T21	DNA 763 783	octamer-binding site
+T22	DNA 883 886	Oct
+T23	RNA 944 952	U2 snRNA
+T24	cell_line 975 985	HeLa cells
+T25	cell_line 1030 1041	BJA-B cells
+T26	protein 1051 1056	OTF-2
+T27	protein 1088 1110	octamer-binding factor
+T28	protein 1187 1207	transcription factor
+T29	protein 1210 1215	OTF-1
+T30	protein 1226 1262	B-cell-specific transcription factor
+T31	protein 1265 1270	OTF-2
+T32	RNA 1286 1294	U2 snRNA
+T33	DNA 1422 1425	Oct
+T34	DNA 1443 1460	Sp 1-binding site
+T35	cell_line 1464 1475	BJA-B cells
+T36	cell_line 1502 1512	HeLa cells
+T37	DNA 1571 1575	OTFs
+T38	RNA 1606 1614	U2 snRNA
+T39	DNA 1648 1668	octamer-binding site
+T40	DNA 1688 1705	Sp 1-binding site

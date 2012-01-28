@@ -1,0 +1,25 @@
+T1	protein 0 32	USF-related transcription factor
+T2	protein 35 42	HIV-TF1
+T3	protein 110 130	transcription factor
+T4	protein 131 138	HIV-TF1
+T5	DNA 171 185	60 bp upstream
+T6	cell_type 272 285	human B cells
+T7	protein 288 295	HIV-TF1
+T8	protein 344 351	HIV-TF1
+T9	DNA 359 383	HIV long terminal repeat
+T10	DNA 386 389	LTR
+T11	DNA 425 437	HIV promoter
+T12	DNA 453 473	HIV-TF1-binding site
+T13	DNA 477 484	HIV LTR
+T14	protein 523 550	upstream stimulatory factor
+T15	protein 553 556	USF
+T16	DNA 566 596	adenovirus major late promoter
+T17	protein 625 632	HIV-TF1
+T18	protein 648 655	HIV-TF1
+T19	protein 689 692	USF
+T20	protein 733 740	HIV-TF1
+T21	protein 744 755	phosphatase
+T22	protein 834 841	HIV-TF1
+T23	DNA 892 912	HIV-TF1-binding site
+T24	DNA 976 988	HIV promoter
+T25	protein 1026 1033	HIV-TF1

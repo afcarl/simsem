@@ -1,0 +1,28 @@
+T1	protein 18 27	NF-kappaB
+T2	cell_type 63 80	human neutrophils
+T3	cell_type 83 104	Activated neutrophils
+T4	protein 196 205	cytokines
+T5	protein 210 220	chemokines
+T6	cell_type 364 375	neutrophils
+T7	protein 448 469	transcription factors
+T8	protein 480 489	NF-kappaB
+T9	protein 553 575	NF-kappaB/Rel proteins
+T10	cell_type 593 610	human neutrophils
+T11	protein 696 709	p50 NFkappaB1
+T12	protein 712 720	p65 RelA
+T13	protein 730 735	c-Rel
+T14	cell_type 751 762	neutrophils
+T15	protein 798 815	protein complexes
+T16	protein 846 871	cytoplasmic IkappaB-alpha
+T17	protein 993 1020	tumor necrosis factor-alpha
+T18	protein 1023 1032	TNF-alpha
+T19	protein 1086 1095	cytokines
+T20	protein 1100 1110	chemokines
+T21	protein 1128 1150	NF-kappaB/Rel proteins
+T22	protein 1225 1234	NF-kappaB
+T23	protein 1390 1403	IkappaB-alpha
+T24	cell_type 1418 1444	Proinflammatory neutrophil
+T25	RNA 1487 1517	IkappaB-alpha mRNA transcripts
+T26	protein 1557 1578	IkappaB-alpha protein
+T27	protein 1643 1652	NF-kappaB
+T28	cell_type 1813 1831	neutrophil biology

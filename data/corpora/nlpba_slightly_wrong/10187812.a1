@@ -1,0 +1,32 @@
+T1	protein 0 5	Spi-C
+T2	protein 16 27	Ets protein
+T3	protein 99 110	Ets protein
+T4	DNA 159 171	cDNA library
+T5	cell_line 182 233	lipopolysaccharide-stimulated mouse splenic B cells
+T6	DNA 246 279	SP6 kappa promoter kappaY element
+T7	protein 302 313	Ets protein
+T8	protein 342 346	PU.1
+T9	protein 351 356	Spi-B
+T10	DNA 368 390	DNA binding Ets domain
+T11	protein 415 420	Spi-C
+T12	protein 433 438	Spi-C
+T13	protein 481 499	Ets protein family
+T14	protein 536 541	Spi-B
+T15	protein 546 550	PU.1
+T16	protein 558 565	helix 1
+T17	protein 573 583	Ets domain
+T18	protein 586 591	Spi-C
+T19	DNA 609 625	single-copy gene
+T20	DNA 645 658	chromosome 10
+T21	DNA 661 669	region C
+T22	protein 672 677	Spi-C
+T23	protein 711 715	PU.1
+T24	DNA 830 858	kappaY element reporter gene
+T25	cell_line 883 893	HeLa cells
+T26	RNA 896 905	Spi-C RNA
+T27	cell_type 923 943	mature B lymphocytes
+T28	cell_type 967 978	macrophages
+T29	cell_line 995 1027	pre-B cell and plasma cell lines
+T30	protein 1033 1038	Spi-C
+T31	protein 1067 1072	Spi-C
+T32	protein 1084 1103	regulatory molecule

@@ -1,0 +1,15 @@
+T1	protein 13 23	NF-kappa B
+T2	cell_type 124 151	monocyte-macrophage lineage
+T3	cell_line 247 266	monocyte cell lines
+T4	protein 296 324	tumour necrosis factor alpha
+T5	protein 327 336	TNF alpha
+T6	protein 372 394	nuclear factor kappa B
+T7	protein 397 407	NF-kappa B
+T8	DNA 491 539	HIV long terminal repeat reporter gene construct
+T9	protein 601 611	NF-kappa B
+T10	cell_line 637 658	promonocyte cell line
+T11	protein 691 701	NF-kappa B
+T12	protein 786 795	TNF alpha
+T13	cell_line 820 839	monocyte cell lines
+T14	protein 861 870	TNF alpha
+T15	cell_type 1125 1136	macrophages

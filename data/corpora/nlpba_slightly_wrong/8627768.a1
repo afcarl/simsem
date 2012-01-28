@@ -1,0 +1,23 @@
+T1	DNA 27 71	human immunodeficiency virus type 1 enhancer
+T2	protein 75 85	NF-kappa B
+T3	cell_type 132 141	monocytes
+T4	DNA 185 211	kappaB-responsive elements
+T5	DNA 219 273	human immunodeficiency virus type 1 ( HIV-1 ) enhancer
+T6	cell_type 379 396	monocytic lineage
+T7	protein 516 525	NF-kappaB
+T8	protein 607 638	exogenous tumor necrosis factor
+T9	protein 690 699	NF-kappaB
+T10	DNA 725 756	endogenous long terminal repeat
+T11	protein 825 834	NF-kappaB
+T12	cell_line 888 919	chronically infected U937 cells
+T13	protein 1105 1114	NF-kappaB
+T14	cell_line 1209 1219	U937 cells
+T15	DNA 1284 1310	kappaB-responsive elements
+T16	DNA 1319 1340	long terminal repeats
+T17	cell_line 1503 1517	U937 monocytes
+T18	DNA 1574 1588	viral enhancer
+T19	protein 1592 1626	NF-kappaB ( p50/p65 ) heterodimers
+T20	cell_type 1695 1704	monocytes
+T21	protein 1779 1794	HIV Tat protein
+T22	protein 1849 1858	NF-kappaB
+T23	cell_type 1947 1964	monocytic lineage

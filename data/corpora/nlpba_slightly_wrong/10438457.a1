@@ -1,0 +1,38 @@
+T1	protein 0 16	Protein kinase C
+T2	protein 21 32	calcineurin
+T3	protein 55 69	IkappaB kinase
+T4	protein 74 83	NF-kappaB
+T5	cell_type 87 100	T lymphocytes
+T6	protein 134 143	NF-kappaB
+T7	protein 151 182	ubiquitous transcription factor
+T8	protein 255 270	T cell receptor
+T9	protein 273 276	TCR
+T10	protein 331 340	NF-kappaB
+T11	protein 404 416	IkappaBalpha
+T12	cell_line 428 434	Jurkat
+T13	cell_type 439 466	primary human T lymphocytes
+T14	protein 549 552	TCR
+T15	protein 586 602	protein kinase C
+T16	protein 605 608	PKC
+T17	protein 615 626	calcineurin
+T18	protein 674 709	IkappaBalpha kinase ( IKK ) complex
+T19	protein 729 757	putative IkappaBalpha kinase
+T20	protein 760 771	p90 ( rsk )
+T21	protein 803 814	IKK complex
+T22	protein 825 836	p90 ( rsk )
+T23	protein 889 901	IkappaBalpha
+T24	protein 935 938	PKC
+T25	protein 943 954	calcineurin
+T26	protein 1053 1064	IKK complex
+T27	protein 1069 1081	IkappaBalpha
+T28	protein 1153 1171	IKKalpha and -beta
+T29	protein 1195 1202	IKKbeta
+T30	protein 1221 1224	PKC
+T31	protein 1229 1240	calcineurin
+T32	protein 1282 1285	TCR
+T33	protein 1286 1290	/CD3
+T34	protein 1324 1327	PKC
+T35	protein 1332 1343	calcineurin
+T36	protein 1393 1404	IKK complex
+T37	protein 1409 1418	NF-kappaB
+T38	cell_type 1422 1435	T lymphocytes

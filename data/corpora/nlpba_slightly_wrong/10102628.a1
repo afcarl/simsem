@@ -1,0 +1,22 @@
+T1	protein 14 26	IkappaBalpha
+T2	cell_type 45 81	human peripheral blood T lymphocytes
+T3	protein 139 162	I ( kappa ) B ( alpha )
+T4	protein 206 228	Rel/NF-kappaB proteins
+T5	cell_type 236 243	cytosol
+T6	protein 256 279	I ( kappa ) B ( alpha )
+T7	protein 433 464	nuclear I ( kappa ) B ( alpha )
+T8	cell_type 540 576	human peripheral blood T lymphocytes
+T9	cell_type 579 582	PBL
+T10	protein 630 653	I ( kappa ) B ( alpha )
+T11	cell_type 657 660	PBL
+T12	protein 778 801	I ( kappa ) B ( alpha )
+T13	protein 914 937	I ( kappa ) B ( alpha )
+T14	protein 979 1002	I ( kappa ) B ( alpha )
+T15	protein 1100 1131	nuclear I ( kappa ) B ( alpha )
+T16	protein 1148 1157	NF-kappaB
+T17	protein 1224 1235	IkappaBbeta
+T18	protein 1344 1367	I ( kappa ) B ( alpha )
+T19	protein 1372 1381	NF-kappaB
+T20	cell_type 1437 1460	PMA-activated human PBL
+T21	protein 1463 1486	I ( kappa ) B ( alpha )
+T22	protein 1562 1571	NF-kappaB

@@ -1,0 +1,38 @@
+T1	DNA 61 128	major histocompatibility complex class II transactivator constructs
+T2	protein 182 205	class II transactivator
+T3	protein 208 213	CIITA
+T4	protein 221 258	bi- or multifunctional domain protein
+T5	protein 274 299	transcriptional activator
+T6	DNA 347 365	MHC class II genes
+T7	DNA 427 443	human CIITA gene
+T8	protein 479 509	amino terminal 151 amino acids
+T9	protein 561 573	HLA class II
+T10	protein 587 616	Porcine MHC class II antigens
+T11	cell_type 672 690	human CD4+ T cells
+T12	DNA 886 902	CIITA constructs
+T13	protein 931 943	MHC class II
+T14	cell_line 995 1033	porcine vascular endothelial cell line
+T15	cell_line 1034 1038	PIEC
+T16	DNA 1052 1068	CIITA constructs
+T17	protein 1085 1091	SLA-DR
+T18	protein 1096 1102	SLA-DQ
+T19	protein 1116 1152	recombinant porcine interferon-gamma
+T20	cell_line 1186 1209	porcine B-cell line L23
+T21	DNA 1227 1243	CIITA constructs
+T22	cell_type 1389 1407	human CD4+ T cells
+T23	cell_line 1486 1495	PIEC line
+T24	DNA 1519 1535	CIITA constructs
+T25	protein 1569 1575	SLA-DR
+T26	protein 1580 1586	SLA-DQ
+T27	protein 1651 1662	human CIITA
+T28	DNA 1680 1710	mutated human CIITA constructs
+T29	cell_line 1750 1761	PIEC clones
+T30	protein 1843 1849	SLA-DR
+T31	protein 1854 1860	SLA-DQ
+T32	RNA 1905 1917	SLA-DRA mRNA
+T33	cell_line 1971 1994	porcine B-cell line L23
+T34	cell_line 2116 2155	interferon-gamma-stimulated PIEC clones
+T35	protein 2178 2191	mutated CIITA
+T36	cell_type 2231 2255	human CD4+ T lymphocytes
+T37	DNA 2271 2301	Mutated human CIITA constructs
+T38	protein 2336 2348	MHC class II

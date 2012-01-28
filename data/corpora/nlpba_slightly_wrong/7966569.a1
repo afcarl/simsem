@@ -1,0 +1,23 @@
+T1	protein 27 49	nuclear factor kappa B
+T2	DNA 367 393	viral long terminal repeat
+T3	DNA 396 399	LTR
+T4	DNA 479 482	LTR
+T5	DNA 529 559	luciferase reporter constructs
+T6	cell_line 599 613	cultured cells
+T7	DNA 690 693	LTR
+T8	DNA 765 768	LTR
+T9	DNA 814 818	LTRs
+T10	DNA 856 873	22-bp duplication
+T11	DNA 908 950	nuclear factor kappa B ( NF kappa B ) site
+T12	DNA 995 999	LTRs
+T13	protein 1089 1116	tumor necrosis factor alpha
+T14	DNA 1143 1151	plasmids
+T15	protein 1163 1173	NF kappa B
+T16	DNA 1352 1378	22-bp sequence duplication
+T17	DNA 1387 1402	NF kappa B site
+T18	DNA 1493 1496	LTR
+T19	DNA 1518 1521	LTR
+T20	cell_line 1611 1625	cultured cells
+T21	DNA 1646 1649	LTR
+T22	cell_line 1772 1823	quiescent simian peripheral blood mononuclear cells
+T23	DNA 1880 1883	LTR

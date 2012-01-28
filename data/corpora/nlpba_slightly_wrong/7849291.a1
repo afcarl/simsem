@@ -1,0 +1,24 @@
+T1	protein 45 58	tissue factor
+T2	protein 88 101	Tissue factor
+T3	protein 104 106	TF
+T4	cell_type 132 159	monocyte/macrophage lineage
+T5	protein 223 229	fibrin
+T6	protein 439 460	transcription factors
+T7	protein 473 495	nuclear factor kappa B
+T8	protein 500 504	AP-1
+T9	protein 582 584	TF
+T10	cell_type 612 641	murine peritoneal macrophages
+T11	cell_type 646 661	human monocytes
+T12	protein 951 953	TF
+T13	cell_type 1072 1087	human monocytes
+T14	protein 1105 1121	anti-TF antibody
+T15	protein 1220 1230	TF antigen
+T16	protein 1348 1373	47-kD mature glycoprotein
+T17	cell_line 1377 1394	LPS-treated cells
+T18	protein 1564 1566	TF
+T19	protein 1717 1735	translated protein
+T20	protein 1768 1789	tumor necrosis factor
+T21	cell_type 1917 1932	human monocytes
+T22	protein 1985 1987	TF
+T23	cell_type 2067 2075	monocyte
+T24	cell_type 2076 2087	/macrophage

@@ -1,0 +1,20 @@
+T1	cell_type 29 57	peripheral-blood lymphocytes
+T2	protein 104 128	glucocorticoid-receptors
+T3	cell_type 387 421	peripheral-blood mononuclear cells
+T4	cell_type 424 428	PBMC
+T5	cell_type 435 439	PBMC
+T6	cell_type 565 569	PBMC
+T7	protein 742 746	GC-R
+T8	cell_type 772 776	PBMC
+T9	protein 1074 1078	GC-R
+T10	cell_type 1104 1108	PBMC
+T11	protein 1284 1291	mitogen
+T12	protein 1434 1441	mitogen
+T13	cell_type 1512 1516	PBMC
+T14	cell_type 1635 1639	PBMC
+T15	protein 1796 1803	mitogen
+T16	protein 1930 1934	GC-R
+T17	cell_type 2007 2011	PBMC
+T18	protein 2032 2036	GC-R
+T19	protein 2060 2067	mitogen
+T20	protein 2174 2178	GC-R

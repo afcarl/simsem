@@ -1,0 +1,19 @@
+T1	protein 8 30	T-cell trans-activator
+T2	DNA 49 80	phorbol ester-inducible element
+T3	DNA 88 110	interleukin-2 promoter
+T4	DNA 117 153	interleukin 2 ( IL-2 ) gene promoter
+T5	protein 179 239	cell-type-specific and ubiquitous transcriptional regulators
+T6	protein 319 323	IL-2
+T7	cell_type 339 345	T-cell
+T8	protein 479 526	novel T-cell-specific transcriptional activator
+T9	protein 527 532	TCF-1
+T10	protein 539 554	T-Cell Factor-1
+T11	DNA 578 610	T-cell-specific response element
+T12	DNA 613 616	TCE
+T13	DNA 638 651	IL-2 promoter
+T14	DNA 667 670	TCE
+T15	DNA 699 724	consensus NF kappa B site
+T16	protein 758 763	TCF-1
+T17	protein 781 791	NF kappa B
+T18	protein 809 819	NF kappa B
+T19	protein 822 827	TCF-1

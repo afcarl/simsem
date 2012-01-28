@@ -1,0 +1,16 @@
+T1	protein 86 156	hepatocyte nuclear factor-3alpha , -3beta , -3gamma , -4gamma , and -6
+T2	protein 203 229	hepatocyte nuclear factors
+T3	protein 230 240	HNF-1alpha
+T4	protein 245 255	HNF-4alpha
+T5	protein 338 374	liver-enriched transcription factors
+T6	protein 833 881	HNF-3alpha , -3beta , -3gamma , -4gamma , and -6
+T7	cell_type 899 920	pancreatic beta-cells
+T8	DNA 976 1014	simple tandem repeat DNA polymorphisms
+T9	protein 1037 1047	HNF-3alpha
+T10	protein 1050 1056	-3beta
+T11	protein 1059 1066	-3gamma
+T12	protein 1069 1076	-4gamma
+T13	protein 1083 1085	-6
+T14	protein 1105 1110	HNF-6
+T15	DNA 1114 1130	chromosome bands
+T16	DNA 1131 1143	15q21.1-21.2

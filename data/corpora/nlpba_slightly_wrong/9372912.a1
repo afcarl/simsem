@@ -1,0 +1,23 @@
+T1	protein 14 17	Id3
+T2	protein 92 145	basic helix-loop-helix ( bHLH ) transcription factors
+T3	protein 279 304	Id family of HLH proteins
+T4	protein 313 329	bHLH antagonists
+T5	protein 423 435	bHLH targets
+T6	protein 439 460	inactive heterodimers
+T7	DNA 497 532	gene regulatory ( E box ) sequences
+T8	protein 654 657	Id2
+T9	protein 776 779	Id2
+T10	protein 794 814	E-box-dependent bHLH
+T11	protein 999 1002	Id3
+T12	protein 1029 1032	Id3
+T13	protein 1053 1073	E-box-dependent bHLH
+T14	DNA 1142 1155	reporter gene
+T15	protein 1203 1216	wild-type Id3
+T16	protein 1222 1237	Id3 Asp5 mutant
+T17	cell_line 1317 1340	transfected fibroblasts
+T18	protein 1354 1369	Id3 Ala5 mutant
+T19	protein 1455 1476	wild-type Id3 protein
+T20	protein 1630 1633	Id3
+T21	protein 1659 1663	bHLH
+T22	protein 1726 1729	Id3
+T23	protein 1818 1822	bHLH

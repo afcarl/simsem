@@ -1,0 +1,29 @@
+T1	protein 4 22	DNA binding domain
+T2	protein 30 35	A-MYB
+T3	protein 36 56	transcription factor
+T4	protein 120 150	B cell 110-kDa nuclear protein
+T5	protein 240 245	A-MYB
+T6	protein 246 266	transcription factor
+T7	cell_type 320 333	mature B cell
+T8	cell_line 413 438	Burkitt 's lymphoma cells
+T9	protein 560 565	A-MYB
+T10	cell_line 596 621	human lymphoid cell lines
+T11	protein 665 670	A-MYB
+T12	cell_line 710 722	B cell lines
+T13	cell_type 744 751	T cells
+T14	cell_line 777 796	responder cell line
+T15	cell_line 805 833	Burkitt 's cell line Namalwa
+T16	protein 852 857	A-MYB
+T17	cell_type 861 878	B and not T cells
+T18	DNA 935 949	c-MYC promoter
+T19	protein 993 1011	functional domains
+T20	cell_type 1176 1183	B cells
+T21	protein 1200 1205	A-MYB
+T22	protein 1273 1299	N-terminal 218 amino acids
+T23	protein 1315 1333	DNA binding domain
+T24	protein 1348 1363	110-kDa protein
+T25	cell_line 1409 1435	B , but not T , cell lines
+T26	protein 1468 1491	A-MYB N-terminal domain
+T27	protein 1519 1534	110-kDa protein
+T28	protein 1567 1595	B cell-specific co-activator
+T29	protein 1599 1604	A-MYB

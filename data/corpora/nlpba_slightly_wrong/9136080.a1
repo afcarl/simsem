@@ -1,0 +1,40 @@
+T1	DNA 39 98	human myeloid cell nuclear differentiation antigen promoter
+T2	protein 126 129	Sp1
+T3	protein 141 146	c-Myb
+T4	protein 150 154	PU.1
+T5	protein 207 252	human myeloid nuclear differentiation antigen
+T6	protein 255 259	MNDA
+T7	cell_type 291 305	maturing cells
+T8	cell_type 343 352	monocytes
+T9	cell_type 357 369	granulocytes
+T10	protein 465 469	MNDA
+T11	DNA 541 552	1-kb region
+T12	DNA 579 600	5 ' flanking sequence
+T13	cell_type 699 715	expressing cells
+T14	cell_type 731 741	null cells
+T15	DNA 784 797	1-kb fragment
+T16	protein 840 844	MNDA
+T17	cell_type 845 862	-expressing cells
+T18	cell_type 868 888	non-expressing cells
+T19	DNA 972 990	consensus elements
+T20	DNA 1054 1073	PU.1 consensus site
+T21	DNA 1089 1113	transcription start site
+T22	DNA 1131 1142	c-Myb sites
+T23	DNA 1221 1237	deletion mutants
+T24	DNA 1304 1314	-73 to -16
+T25	DNA 1353 1364	c-Myb sites
+T26	DNA 1390 1416	core Sp1 consensus element
+T27	DNA 1419 1425	GC box
+T28	DNA 1477 1490	1-kb fragment
+T29	DNA 1509 1518	PU.1 site
+T30	DNA 1617 1628	Sp1 element
+T31	DNA 1633 1657	transcription start site
+T32	DNA 1672 1681	PU.1 site
+T33	DNA 1730 1751	Sp1 consensus element
+T34	protein 1836 1839	Sp1
+T35	DNA 1874 1888	consensus site
+T36	DNA 1895 1903	Sp1 site
+T37	DNA 1929 1956	DNase I hypersensitive site
+T38	DNA 2003 2012	chromatin
+T39	DNA 2051 2059	Sp1 site
+T40	DNA 2115 2151	myelomonocytic lineage specific gene

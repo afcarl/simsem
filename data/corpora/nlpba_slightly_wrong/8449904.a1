@@ -1,0 +1,26 @@
+T1	DNA 34 77	pyruvate kinase erythroid-specific promoter
+T2	protein 80 103	Mammal pyruvate kinases
+T3	DNA 135 141	L gene
+T4	protein 155 164	erythroid
+T5	protein 167 171	R-PK
+T6	protein 181 206	hepatic ( L-PK ) isozymes
+T7	DNA 237 246	promoters
+T8	DNA 287 317	cis- and trans-acting elements
+T9	DNA 366 391	L gene erythroid promoter
+T10	DNA 396 413	R-PK DNA fragment
+T11	DNA 457 465	cap site
+T12	DNA 501 514	reporter gene
+T13	DNA 550 566	minimal promoter
+T14	protein 705 721	CCACC/Sp1 family
+T15	protein 765 788	erythroid factor GATA-1
+T16	DNA 808 825	GATA binding site
+T17	DNA 857 875	TFIID binding site
+T18	protein 895 900	TFIID
+T19	DNA 942 959	GATA binding site
+T20	DNA 975 993	TFIID binding site
+T21	protein 1105 1114	CCACC/Sp1
+T22	DNA 1119 1137	GATA binding sites
+T23	protein 1197 1201	R-PK
+T24	DNA 1202 1218	minimal promoter
+T25	DNA 1333 1346	R-PK promoter
+T26	cell_line 1350 1360	HeLa cells

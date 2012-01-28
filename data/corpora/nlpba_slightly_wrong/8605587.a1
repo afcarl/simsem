@@ -1,0 +1,35 @@
+T1	protein 0 39	Soluble tumor necrosis factor receptors
+T2	cell_type 124 141	infected U1 cells
+T3	protein 144 209	Recombinant human tumor necrosis factor ( TNF ) binding protein-1
+T4	protein 212 221	r-h TBP-1
+T5	protein 228 274	recombinant human soluble dimeric TNF receptor
+T6	protein 277 290	rhu TNFR : Fc
+T7	protein 346 349	TNF
+T8	cell_type 516 552	HIV-1-infected promonocytic U1 cells
+T9	protein 558 567	r-h-TBP-1
+T10	protein 571 584	rhu TNFR : Fc
+T11	protein 605 622	HIV-1 p24 antigen
+T12	protein 744 755	p24 antigen
+T13	cell_line 770 795	T-lymphocytic ACH-2 cells
+T14	protein 810 818	r-hTBP-1
+T15	protein 833 846	rhu TNFR : Fc
+T16	protein 849 857	r-hTBP-1
+T17	protein 862 875	rhu TNFR : Fc
+T18	protein 891 902	p24 antigen
+T19	cell_line 918 926	U1 cells
+T20	protein 968 1015	phytohemagglutinin ( PHA ) -induced supernatant
+T21	protein 1018 1066	granulocyte-macrophage colony-stimulating factor
+T22	protein 1069 1082	interleukin-6
+T23	protein 1089 1092	TNF
+T24	protein 1107 1115	r-hTBP-1
+T25	cell_line 1119 1127	U1 cells
+T26	protein 1194 1205	p24 antigen
+T27	cell_line 1227 1235	U1 cells
+T28	protein 1299 1315	endogenous TBP-1
+T29	protein 1403 1411	r-hTBP-1
+T30	protein 1497 1505	r-hTBP-1
+T31	protein 1510 1523	rhu TNFR : Fc
+T32	protein 1549 1580	nuclear factor ( NK ) - kappa B
+T33	cell_line 1605 1613	U1 cells
+T34	protein 1755 1766	NK- kappa B
+T35	cell_type 1803 1820	infected U1 cells

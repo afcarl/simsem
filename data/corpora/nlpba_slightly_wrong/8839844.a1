@@ -1,0 +1,26 @@
+T1	protein 0 2	E3
+T2	protein 7 40	hematopoietic-specific transcript
+T3	protein 67 95	retinoic acid receptor alpha
+T4	protein 155 183	retinoic acid receptor alpha
+T5	protein 186 195	RAR alpha
+T6	DNA 297 309	cDNA library
+T7	cell_line 338 378	RA-inducible MPRO promyelocyte cell line
+T8	DNA 391 412	immediate-early genes
+T9	protein 465 467	E3
+T10	protein 617 631	E3 transcripts
+T11	cell_line 653 663	HL60 cells
+T12	cell_line 680 701	RA-resistant subclone
+T13	cell_line 704 709	HL60R
+T14	DNA 735 749	RAR alpha gene
+T15	cell_line 767 778	HL60R cells
+T16	DNA 825 839	RAR alpha gene
+T17	protein 875 877	E3
+T18	protein 892 906	E3 transcripts
+T19	cell_type 926 971	myeloid , B-lymphoid , and erythroid lineages
+T20	cell_type 984 1006	nonhematopoietic cells
+T21	cell_type 1163 1176	myeloid cells
+T22	DNA 1190 1201	E3 promoter
+T23	DNA 1219 1259	bipartite retinoic acid response element
+T24	protein 1354 1356	E3
+T25	DNA 1362 1389	hematopoietic-specific gene
+T26	protein 1436 1445	RAR alpha

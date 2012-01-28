@@ -1,0 +1,12 @@
+T1	DNA 12 22	BCL-6 gene
+T2	cell_type 33 40	B cells
+T3	DNA 84 92	Ig genes
+T4	DNA 95 122	Immunoglobulin ( Ig ) genes
+T5	cell_type 143 156	B lymphocytes
+T6	cell_type 184 198	memory B cells
+T7	DNA 260 276	non-Ig promoters
+T8	cell_type 361 368	B cells
+T9	DNA 459 507	c-MYC , S14 , or alpha-fetoprotein ( AFP ) genes
+T10	protein 514 519	BCL-6
+T11	cell_type 564 578	memory B cells
+T12	DNA 647 655	Ig genes

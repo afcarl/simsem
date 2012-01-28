@@ -1,0 +1,30 @@
+T1	cell_type 0 36	Central nervous system-derived cells
+T2	DNA 161 164	TAR
+T3	protein 197 200	Tat
+T4	protein 207 218	Tat protein
+T5	DNA 293 313	long terminal repeat
+T6	DNA 423 444	transcription element
+T7	DNA 445 448	TAR
+T8	cell_type 451 473	astrocytic glial cells
+T9	DNA 482 485	TAR
+T10	protein 575 578	Tat
+T11	DNA 609 623	viral enhancer
+T12	protein 691 711	transcription factor
+T13	protein 737 747	NF-kappa B
+T14	cell_type 789 802	T lymphocytes
+T15	protein 805 808	Tat
+T16	DNA 841 855	kappa B domain
+T17	DNA 894 897	TAR
+T18	cell_type 923 933	astrocytes
+T19	protein 984 1016	kappa B-specific binding factors
+T20	cell_type 1028 1050	human glial astrocytes
+T21	protein 1081 1091	NF-kappa B
+T22	protein 1171 1174	Tat
+T23	protein 1212 1222	NF-kappa B
+T24	cell_line 1228 1242	Jurkat T cells
+T25	protein 1300 1341	astrocyte-derived kappa B-binding factors
+T26	DNA 1372 1398	HIV-1 long terminal repeat
+T27	DNA 1444 1458	kappa B domain
+T28	DNA 1472 1475	TAR
+T29	protein 1662 1701	central nervous system-enriched kappa B
+T30	protein 1702 1722	transcription factor

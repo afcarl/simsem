@@ -1,0 +1,36 @@
+T1	cell_type 14 26	T lymphocyte
+T2	protein 115 129	protein kinase
+T3	protein 145 180	extracellular signal-related kinase
+T4	protein 185 208	c-Jun N-terminal kinase
+T5	protein 275 278	TCR
+T6	protein 285 305	co-receptor molecule
+T7	protein 316 320	CD28
+T8	protein 450 467	adenylate cyclase
+T9	protein 472 503	cAMP-dependent protein kinase A
+T10	protein 506 509	PKA
+T11	protein 532 549	adenylate cyclase
+T12	protein 583 591	anti-CD3
+T13	protein 610 613	Lck
+T14	protein 675 678	TCR
+T15	protein 746 749	PKC
+T16	protein 765 768	Lck
+T17	protein 786 789	PKC
+T18	protein 974 977	PKC
+T19	DNA 1006 1011	c-jun
+T20	cell_type 1073 1080	T cells
+T21	cell_type 1192 1199	T cells
+T22	protein 1245 1262	adenylate cyclase
+T23	protein 1266 1269	PKA
+T24	protein 1350 1387	extracellular signal-regulated kinase
+T25	protein 1390 1393	ERK
+T26	protein 1400 1423	c-Jun N-terminal kinase
+T27	protein 1434 1437	PKC
+T28	cell_line 1475 1495	PKC-depleted T cells
+T29	protein 1532 1540	anti-CD3
+T30	protein 1550 1553	ERK
+T31	protein 1568 1571	PKC
+T32	protein 1635 1638	ERK
+T33	protein 1843 1866	c-Jun N-terminal kinase
+T34	protein 1942 1945	PKA
+T35	protein 2070 2073	TCR
+T36	protein 2082 2108	CD28 co-receptor molecules

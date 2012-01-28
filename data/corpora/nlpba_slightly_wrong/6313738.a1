@@ -1,0 +1,10 @@
+T1	protein 0 32	Specific high-affinity receptors
+T2	cell_type 67 107	human peripheral blood mononuclear cells
+T3	cell_type 122 131	monocytes
+T4	cell_type 149 162	T lymphocytes
+T5	cell_type 186 218	Human peripheral blood monocytes
+T6	cell_type 325 369	Resting human peripheral blood T lymphocytes
+T7	protein 409 436	1 , 25- ( OH ) 2D3 receptor
+T8	protein 461 479	phytohemagglutinin
+T9	cell_type 484 491	T cells
+T10	cell_type 593 616	activated T lymphocytes

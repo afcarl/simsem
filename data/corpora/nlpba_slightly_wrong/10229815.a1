@@ -1,0 +1,27 @@
+T1	protein 0 6	CTLA-4
+T2	protein 70 76	CTLA-4
+T3	protein 91 95	mAbs
+T4	protein 113 117	CD28
+T5	protein 129 133	IL-2
+T6	protein 239 245	CTLA-4
+T7	cell_type 297 309	CD4+ T cells
+T8	protein 335 341	CTLA-4
+T9	protein 366 370	CD28
+T10	RNA 380 389	IL-2 mRNA
+T11	protein 417 421	IL-2
+T12	protein 494 499	NF-AT
+T13	protein 539 545	CTLA-4
+T14	protein 584 588	CD28
+T15	RNA 616 625	IL-2 mRNA
+T16	protein 638 644	CTLA-4
+T17	protein 733 742	cyclin D3
+T18	protein 745 768	cyclin-dependent kinase
+T19	protein 769 778	( cdk ) 4
+T20	protein 785 789	cdk6
+T21	cell_type 799 806	T cells
+T22	protein 828 841	anti-CD3/CD28
+T23	protein 851 859	anti-CD3
+T24	protein 896 902	CTLA-4
+T25	protein 964 968	IL-2
+T26	protein 1003 1007	IL-2
+T27	protein 1075 1079	CD28

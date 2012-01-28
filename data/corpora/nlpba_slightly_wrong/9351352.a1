@@ -1,0 +1,23 @@
+T1	protein 17 49	monocytic nuclear factor-kappa B
+T2	protein 62 85	low-density lipoprotein
+T3	protein 88 152	Nuclear factor-kappa B ( NF-kappa B ) /Rel transcription factors
+T4	protein 235 245	NF-kappa B
+T5	protein 344 356	oxidized LDL
+T6	protein 359 364	oxLDL
+T7	protein 374 384	NF-kappa B
+T8	cell_line 401 422	THP-1 monocytic cells
+T9	cell_type 434 452	adherent monocytes
+T10	protein 526 549	oxLDL activated p50/p65
+T11	protein 561 578	NF-kappa B dimers
+T12	DNA 613 629	target gene IL-8
+T13	protein 651 661	NF-kappa B
+T14	protein 750 760	proteasome
+T15	protein 781 786	oxLDL
+T16	protein 796 806	NF-kappa B
+T17	protein 861 876	I kappa B-alpha
+T18	protein 997 1002	oxLDL
+T19	protein 1057 1072	I kappa B-alpha
+T20	protein 1112 1122	NF-kappa B
+T21	DNA 1156 1212	tumor necrosis factor-alpha and interleukin-1 beta genes
+T22	protein 1267 1272	oxLDL
+T23	protein 1353 1367	NF-kappa B/Rel

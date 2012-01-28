@@ -1,0 +1,20 @@
+T1	RNA 15 26	transcripts
+T2	protein 85 104	autoantigen La/SS-B
+T3	DNA 112 124	cDNA library
+T4	DNA 175 187	cDNA library
+T5	cell_type 223 234	lymphocytes
+T6	DNA 299 311	cDNA library
+T7	protein 391 418	nuclear autoantigen La/SS-B
+T8	RNA 452 459	La mRNA
+T9	RNA 504 511	La mRNA
+T10	DNA 538 544	exon 1
+T11	DNA 592 605	exons 1 and 2
+T12	DNA 622 640	alternative 5'-end
+T13	DNA 658 664	intron
+T14	DNA 700 725	alternative promoter site
+T15	DNA 752 758	intron
+T16	DNA 777 783	exon 1
+T17	RNA 824 843	alternative La mRNA
+T18	protein 956 976	transcription factor
+T19	DNA 1005 1023	NF-kappa B element
+T20	protein 1117 1144	nuclear autoantigen La/SS-B

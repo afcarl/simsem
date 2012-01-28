@@ -1,0 +1,12 @@
+T1	protein 0 24	Glucocorticoid receptors
+T2	protein 100 123	glucocorticoid receptor
+T3	protein 208 232	glucocorticoid receptors
+T4	cell_type 240 254	leukemic cells
+T5	cell_type 283 294	lymphocytes
+T6	cell_type 326 344	normal lymphocytes
+T7	cell_type 413 419	blasts
+T8	protein 479 492	binding sites
+T9	cell_type 671 682	lymphocytes
+T10	cell_type 1039 1053	leukemic cells
+T11	protein 1113 1136	glucocorticoid receptor
+T12	protein 1258 1281	glucocorticoid receptor

@@ -1,0 +1,42 @@
+T1	protein 5 10	Stat3
+T2	protein 27 32	Stat3
+T3	protein 46 50	BCL2
+T4	protein 84 97	interleukin-6
+T5	cell_line 120 131	1A9-M cells
+T6	cell_line 157 194	bone marrow-derived stromal cell line
+T7	cell_line 197 203	BMS2.4
+T8	protein 215 230	soluble factors
+T9	cell_line 278 302	hematopoietic cell lines
+T10	protein 484 497	interleukin-6
+T11	protein 500 504	IL-6
+T12	cell_line 549 572	pre-B-cell variant line
+T13	cell_line 575 580	1A9-M
+T14	protein 594 598	IL-6
+T15	cell_line 651 662	1A9-M cells
+T16	protein 687 691	IL-6
+T17	protein 720 724	BCL2
+T18	cell_line 728 739	1A9-M cells
+T19	protein 864 868	IL-6
+T20	cell_line 909 936	IL-6-stimulated 1A9-M cells
+T21	protein 951 1001	signal transducer and activator of transcription 3
+T22	protein 1004 1009	Stat3
+T23	protein 1077 1082	Stat1
+T24	protein 1086 1091	Stat5
+T25	protein 1112 1116	BCL2
+T26	protein 1121 1126	Stat3
+T27	protein 1130 1134	IL-6
+T28	cell_line 1202 1213	1A9-M cells
+T29	protein 1225 1235	human BCL2
+T30	protein 1267 1272	Stat3
+T31	protein 1290 1294	IL-6
+T32	protein 1391 1395	BCL2
+T33	protein 1400 1431	dominant-negative form of Stat3
+T34	protein 1499 1503	IL-6
+T35	protein 1527 1532	Stat3
+T36	protein 1558 1562	IL-6
+T37	DNA 1594 1603	BCL2 gene
+T38	protein 1632 1637	Stat3
+T39	protein 1655 1659	IL-6
+T40	protein 1764 1768	BCL2
+T41	protein 1804 1809	Stat3
+T42	DNA 1872 1881	BCL2 gene

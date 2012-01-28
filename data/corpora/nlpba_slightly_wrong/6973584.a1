@@ -1,0 +1,11 @@
+T1	protein 0 24	Glucocorticoid receptors
+T2	cell_line 60 126	peanut-positive and peanut-negative human thymocyte subpopulations
+T3	cell_type 179 189	thymocytes
+T4	protein 323 346	glucocorticoid receptor
+T5	cell_type 438 463	unagglutinated thymocytes
+T6	protein 863 886	glucocorticoid receptor
+T7	cell_line 899 938	peanut-negative thymocyte subpopulation
+T8	cell_line 963 978	peanut-positive
+T9	cell_line 1171 1193	peanut-negative subset
+T10	cell_line 1280 1295	peanut-positive
+T11	protein 1437 1460	glucocorticoid receptor

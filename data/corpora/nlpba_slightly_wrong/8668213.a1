@@ -1,0 +1,29 @@
+T1	protein 12 17	NFAT1
+T2	cell_type 59 66	T cells
+T3	DNA 105 119	cytokine genes
+T4	protein 122 143	Transcription factors
+T5	protein 151 162	NFAT family
+T6	DNA 203 217	cytokine genes
+T7	protein 306 326	transcription factor
+T8	protein 327 332	NFAT1
+T9	protein 353 358	NFATp
+T10	cell_type 408 432	murine and human T cells
+T11	cell_line 453 467	Jurkat T cells
+T12	protein 482 487	NFAT1
+T13	protein 524 556	calmodulin-dependent phosphatase
+T14	protein 557 568	calcineurin
+T15	protein 687 692	NFAT1
+T16	cell_line 696 710	Jurkat T cells
+T17	protein 860 871	calcineurin
+T18	protein 953 958	NFAT1
+T19	cell_type 989 1020	transiently transfected T cells
+T20	cell_line 1133 1142	COS cells
+T21	protein 1155 1160	NFAT1
+T22	cell_line 1326 1335	COS cells
+T23	protein 1401 1406	NFAT1
+T24	protein 1440 1453	interleukin-2
+T25	protein 1472 1499	tumor necrosis factor alpha
+T26	DNA 1506 1564	granulocyte-macrophage colony-stimulating factor promoters
+T27	cell_type 1568 1575	T cells
+T28	protein 1594 1599	NFAT1
+T29	DNA 1656 1661	genes

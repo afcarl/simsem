@@ -1,0 +1,40 @@
+T1	protein 14 50	oestrogen and progesterone receptors
+T2	cell_type 54 64	mast cells
+T3	cell_type 81 92	lymphocytes
+T4	cell_type 95 106	macrophages
+T5	cell_type 116 128	immune cells
+T6	cell_type 292 304	immune cells
+T7	protein 479 498	oestrogen receptors
+T8	protein 501 503	ER
+T9	protein 510 532	progesterone receptors
+T10	protein 535 537	PR
+T11	protein 660 662	ER
+T12	protein 666 668	PR
+T13	cell_type 821 846	CD4+ ( T helper/inducer )
+T14	cell_type 849 878	CD8+ ( cytotoxic/suppressor )
+T15	cell_type 881 886	CD68+
+T16	cell_type 889 900	macrophages
+T17	cell_type 905 915	mast cells
+T18	cell_type 918 929	eosinophils
+T19	cell_type 934 945	neutrophils
+T20	protein 990 1011	monoclonal antibodies
+T21	cell_type 1061 1071	mast cells
+T22	protein 1092 1094	ER
+T23	protein 1120 1156	polyclonal and monoclonal antibodies
+T24	cell_type 1206 1217	ER positive
+T25	cell_type 1233 1250	PR positive cells
+T26	protein 1271 1273	ER
+T27	protein 1276 1278	PR
+T28	cell_type 1364 1374	mast cells
+T29	protein 1403 1405	ER
+T30	protein 1434 1436	PR
+T31	cell_type 1459 1469	mast cells
+T32	protein 1500 1502	ER
+T33	protein 1505 1507	PR
+T34	cell_type 1535 1545	Mast cells
+T35	cell_type 1562 1573	lymphocytes
+T36	cell_type 1576 1587	macrophages
+T37	cell_type 1599 1611	immune cells
+T38	protein 1622 1624	ER
+T39	protein 1627 1629	PR
+T40	cell_type 1664 1689	ER/PR positive mast cells

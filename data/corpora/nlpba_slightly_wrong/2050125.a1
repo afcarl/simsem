@@ -1,0 +1,34 @@
+T1	protein 0 42	Human erythroid 5-aminolevulinate synthase
+T2	DNA 45 53	promoter
+T3	DNA 88 111	iron-responsive element
+T4	RNA 119 123	mRNA
+T5	protein 126 152	5-Aminolevulinate synthase
+T6	protein 155 159	ALAS
+T7	protein 194 198	heme
+T8	DNA 222 233	cDNA clones
+T9	protein 242 270	human erythroid ALAS isozyme
+T10	protein 341 373	erythroid ALAS precursor protein
+T11	protein 460 493	human housekeeping ALAS precursor
+T12	protein 576 602	housekeeping ALAS isozymes
+T13	protein 691 699	isozymes
+T14	protein 741 768	N-terminal signal sequences
+T15	protein 816 837	C-terminal two-thirds
+T16	DNA 877 895	immediate promoter
+T17	DNA 903 928	human erythroid ALAS gene
+T18	DNA 955 993	erythroid-specific cis-acting elements
+T19	DNA 1011 1017	GATA-1
+T20	DNA 1025 1043	NF-E2 binding site
+T21	RNA 1049 1086	iron-responsive element ( IRE ) motif
+T22	RNA 1144 1169	human erythroid ALAS mRNA
+T23	RNA 1198 1220	housekeeping ALAS mRNA
+T24	RNA 1273 1282	IRE motif
+T25	protein 1292 1313	protein - RNA complex
+T26	cell_line 1343 1359	human K562 cells
+T27	RNA 1404 1419	IRE transcripts
+T28	RNA 1425 1463	ferritin or transferrin receptor mRNAs
+T29	DNA 1486 1494	ALAS IRE
+T30	DNA 1534 1537	IRE
+T31	protein 1566 1587	protein - RNA complex
+T32	RNA 1621 1630	IRE motif
+T33	RNA 1638 1647	ALAS mRNA
+T34	RNA 1696 1700	mRNA

@@ -1,0 +1,16 @@
+T1	protein 45 69	helix-loop-helix protein
+T2	protein 72 76	Id-3
+T3	protein 145 170	helix-loop-helix proteins
+T4	protein 226 251	helix-loop-helix proteins
+T5	protein 349 363	17 kDa variant
+T6	protein 371 382	14 kDa Id-3
+T7	protein 398 403	Id-3L
+T8	protein 446 476	60 amino acid carboxy-terminus
+T9	DNA 510 523	coding intron
+T10	RNA 602 625	1.1 kb Id-3L transcript
+T11	RNA 656 679	0.95 kb Id-3 transcript
+T12	protein 742 755	Id-3L protein
+T13	protein 806 810	Id-3
+T14	protein 929 953	helix-loop-helix protein
+T15	protein 956 959	E47
+T16	DNA 968 994	E box recognition sequence

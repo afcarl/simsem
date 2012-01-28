@@ -1,0 +1,21 @@
+T1	RNA 16 53	beta 1 triiodothyronine receptor mRNA
+T2	protein 171 196	nuclear receptor proteins
+T3	protein 203 250	thyroid hormone receptors ( TR ) alpha and beta
+T4	protein 309 311	TR
+T5	protein 449 451	TR
+T6	protein 518 528	hTR beta 1
+T7	cell_type 659 693	peripheral blood mononuclear cells
+T8	RNA 698 713	hTR beta 1 mRNA
+T9	RNA 805 820	hTR beta 1 mRNA
+T10	cell_type 847 858	lymphocytes
+T11	RNA 909 929	Human TR beta 1 mRNA
+T12	cell_type 940 951	lymphocytes
+T13	RNA 1160 1175	hTR beta 1 mRNA
+T14	RNA 1319 1334	hTR beta 1 mRNA
+T15	RNA 1472 1487	hTR beta 1 mRNA
+T16	RNA 1581 1596	hTR beta 1 mRNA
+T17	RNA 1651 1655	mRNA
+T18	cell_type 1675 1697	mononuclear blood cell
+T19	cell_type 1701 1710	thyrocyte
+T20	protein 1733 1743	hTR beta 1
+T21	RNA 1873 1888	hTR beta 1 mRNA

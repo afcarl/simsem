@@ -1,0 +1,22 @@
+T1	protein 57 67	La ( SSB )
+T2	protein 152 170	IgG autoantibodies
+T3	protein 178 188	La ( SSB )
+T4	protein 313 318	U1RNP
+T5	protein 461 476	autoantigen SSB
+T6	protein 607 631	purified recombinant SSB
+T7	protein 634 638	rSSB
+T8	protein 756 768	autoantigens
+T9	protein 771 777	PBC.M2
+T10	protein 780 785	Sc170
+T11	protein 792 795	GAD
+T12	protein 914 949	anti-Class II monoclonal antibodies
+T13	protein 1123 1127	rSSB
+T14	cell_line 1155 1171	anti-SSB T cells
+T15	protein 1297 1303	HLA-DR
+T16	protein 1331 1334	SSB
+T17	protein 1411 1418	HLA-DR3
+T18	protein 1462 1469	HLA-DR3
+T19	protein 1475 1478	SSB
+T20	cell_line 1517 1549	Anti-La ( SSB ) specific T cells
+T21	cell_line 1643 1654	SSB T cells
+T22	cell_type 1710 1732	immunoregulatory cells

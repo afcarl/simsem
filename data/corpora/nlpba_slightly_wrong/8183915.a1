@@ -1,0 +1,41 @@
+T1	RNA 24 39	RNA transcripts
+T2	DNA 55 82	murine p105 NF-kappa B gene
+T3	protein 93 117	I kappa B gamma isoforms
+T4	protein 179 213	105-kDa protein ( p105 ) precursor
+T5	protein 221 224	p50
+T6	protein 257 267	NF-kappa B
+T7	protein 283 304	p70 I kappa B protein
+T8	protein 307 322	I kappa B gamma
+T9	protein 351 377	C-terminal 607 amino acids
+T10	protein 381 385	p105
+T11	protein 441 465	I kappa B gamma isoforms
+T12	protein 506 509	p70
+T13	protein 516 530	63-kDa isoform
+T14	protein 540 557	I kappa B gamma-1
+T15	protein 601 617	ankyrin repeat 7
+T16	protein 632 656	35-amino acid C terminus
+T17	DNA 671 696	alternative reading frame
+T18	DNA 704 713	p105 gene
+T19	protein 718 732	55-kDa isoform
+T20	protein 735 752	I kappa B gamma-2
+T21	protein 765 791	190 C-terminal amino acids
+T22	protein 795 798	p70
+T23	protein 799 814	I kappa B gamma
+T24	protein 832 835	p70
+T25	protein 836 851	I kappa B gamma
+T26	protein 865 884	cytoplasmic protein
+T27	protein 887 904	I kappa B gamma-1
+T28	protein 958 975	I kappa B gamma-2
+T29	protein 1007 1031	I kappa B gamma isoforms
+T30	protein 1089 1112	Rel/NF-kappa B proteins
+T31	protein 1121 1124	p70
+T32	protein 1125 1140	I kappa B gamma
+T33	protein 1225 1242	I kappa B gamma-1
+T34	protein 1247 1264	I kappa B gamma-2
+T35	protein 1282 1285	p50
+T36	protein 1350 1367	I kappa B gamma-1
+T37	protein 1372 1389	I kappa B gamma-2
+T38	DNA 1395 1416	protein kinase A site
+T39	protein 1449 1452	p70
+T40	protein 1453 1468	I kappa B gamma
+T41	protein 1552 1576	I kappa B gamma isoforms

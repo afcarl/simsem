@@ -1,0 +1,26 @@
+T1	protein 13 19	Mn SOD
+T2	cell_type 23 38	human monocytes
+T3	protein 47 68	inflammatory cytokine
+T4	protein 85 101	mutant endotoxin
+T5	protein 104 113	Endotoxin
+T6	protein 134 166	monocyte Mn superoxide dismutase
+T7	protein 169 172	SOD
+T8	protein 208 214	Zn SOD
+T9	protein 217 225	catalase
+T10	protein 231 253	glutathione peroxidase
+T11	protein 369 375	Mn SOD
+T12	protein 695 731	human monocyte nuclear factor-kappaB
+T13	RNA 753 764	Mn SOD mRNA
+T14	protein 884 911	tumor necrosis factor-alpha
+T15	protein 916 954	macrophage inflammatory protein-1alpha
+T16	cell_type 958 967	monocytes
+T17	protein 1036 1068	mitogen-activated protein kinase
+T18	protein 1179 1200	inflammatory cytokine
+T19	cell_type 1215 1230	human monocytes
+T20	protein 1271 1277	Mn SOD
+T21	protein 1284 1293	endotoxin
+T22	protein 1317 1323	Mn SOD
+T23	protein 1341 1350	cytokines
+T24	protein 1458 1474	mutant endotoxin
+T25	protein 1485 1512	tumor necrosis factor-alpha
+T26	protein 1581 1613	mitogen-activated protein kinase

@@ -1,0 +1,32 @@
+T1	protein 21 62	I kappa B alpha-associated protein kinase
+T2	cell_line 68 93	human monocytic cell line
+T3	protein 119 140	phosphorylation sites
+T4	protein 144 159	I kappa B alpha
+T5	protein 162 184	Nuclear factor kappa B
+T6	protein 187 197	NF-kappa B
+T7	protein 272 281	I kappa B
+T8	protein 341 356	I kappa B alpha
+T9	protein 544 554	NF-kappa B
+T10	protein 592 607	I kappa B alpha
+T11	protein 663 669	kinase
+T12	cell_line 696 736	LPS-stimulated human monocytic cell line
+T13	cell_line 739 744	THP-1
+T14	protein 790 805	I kappa B alpha
+T15	protein 849 864	I kappa B alpha
+T16	protein 865 878	-bound kinase
+T17	cell_line 891 902	THP-1 cells
+T18	protein 928 937	I kappa B
+T19	protein 1017 1038	phosphorylation sites
+T20	protein 1052 1058	kinase
+T21	protein 1090 1114	C-terminal acidic domain
+T22	protein 1118 1133	I kappa B alpha
+T23	protein 1195 1219	C-terminal acidic domain
+T24	protein 1223 1238	I kappa B alpha
+T25	protein 1265 1275	NF-kappa B
+T26	protein 1338 1353	I kappa B alpha
+T27	cell_line 1382 1393	THP-1 cells
+T28	protein 1429 1441	bound kinase
+T29	protein 1525 1542	C-terminal region
+T30	protein 1546 1561	I kappa B alpha
+T31	protein 1597 1607	NF-kappa B
+T32	protein 1610 1633	I kappa B alpha complex

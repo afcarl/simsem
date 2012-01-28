@@ -1,0 +1,35 @@
+T1	cell_line 49 93	human interleukin-2-dependent T lymphoblasts
+T2	protein 109 124	T-cell receptor
+T3	cell_type 127 134	T cells
+T4	cell_type 315 360	human peripheral blood-derived T lymphoblasts
+T5	protein 377 396	anti-CD3 antibodies
+T6	protein 400 421	Lens culinaris lectin
+T7	protein 424 427	LCL
+T8	cell_type 432 439	T cells
+T9	cell_type 459 493	peripheral blood mononuclear cells
+T10	cell_type 496 500	PBMC
+T11	protein 532 551	anti-CD3 antibodies
+T12	protein 584 597	interleukin-2
+T13	protein 600 604	IL-2
+T14	cell_type 631 638	T cells
+T15	protein 664 668	IL-2
+T16	protein 671 687	interferon-gamma
+T17	protein 690 699	IFN-gamma
+T18	protein 706 734	tumour necrosis factor-alpha
+T19	protein 737 746	TNF-alpha
+T20	RNA 767 793	IL-4 and IL-10 transcripts
+T21	DNA 812 821	IL-6 gene
+T22	cell_type 851 871	LCL-stimulated cells
+T23	protein 951 955	IL-2
+T24	protein 958 963	IL-10
+T25	protein 968 977	IFN-gamma
+T26	RNA 1070 1084	TNF-alpha mRNA
+T27	DNA 1178 1187	IL-2 gene
+T28	DNA 1259 1296	IL-10 , IFN-gamma and TNF-alpha genes
+T29	protein 1361 1376	T-cell receptor
+T30	DNA 1429 1469	c-jun , c-fos and NFATc1 ( NFATc ) genes
+T31	protein 1562 1571	cytokines
+T32	cell_type 1587 1609	IL-2-dependent T cells
+T33	protein 1629 1633	IL-2
+T34	protein 1636 1645	IFN-gamma
+T35	protein 1650 1659	TNF-alpha

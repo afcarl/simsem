@@ -1,0 +1,35 @@
+T1	protein 0 37	Granulocyte colony-stimulating factor
+T2	protein 50 64	72-kDa isoform
+T3	protein 68 73	STAT3
+T4	cell_type 77 94	human neutrophils
+T5	protein 97 134	Granulocyte colony-stimulating factor
+T6	protein 137 142	G-CSF
+T7	protein 178 183	STATs
+T8	protein 313 318	G-CSF
+T9	protein 340 358	Stat3-like protein
+T10	cell_type 362 402	immature and mature normal myeloid cells
+T11	protein 405 410	StatG
+T12	protein 413 418	StatG
+T13	cell_type 422 457	normal immature human myeloid cells
+T14	cell_type 466 495	adult CD34+ bone marrow cells
+T15	protein 514 523	Stat3beta
+T16	protein 592 597	StatG
+T17	cell_type 601 634	mature normal human myeloid cells
+T18	cell_type 643 686	polymorphonuclear neutrophilic granulocytes
+T19	cell_type 689 692	PMN
+T20	protein 729 742	major protein
+T21	cell_type 758 761	PMN
+T22	protein 775 780	G-CSF
+T23	DNA 793 830	high-affinity serum-inducible element
+T24	DNA 833 837	hSIE
+T25	protein 845 859	72-kDa protein
+T26	protein 883 908	Stat3 monoclonal antibody
+T27	protein 936 946	Stat3gamma
+T28	protein 949 959	Stat3gamma
+T29	protein 976 986	Stat3alpha
+T30	protein 1024 1049	carboxyl-terminal portion
+T31	protein 1053 1063	Stat3alpha
+T32	protein 1089 1099	Stat3alpha
+T33	protein 1186 1196	Stat3gamma
+T34	protein 1252 1262	Stat3alpha
+T35	DNA 1267 1286	Stat3 binding sites

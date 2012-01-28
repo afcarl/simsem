@@ -1,0 +1,42 @@
+T1	protein 0 4	CD27
+T2	protein 32 35	IgE
+T3	cell_type 82 96	memory B cells
+T4	cell_type 102 114	plasma cells
+T5	protein 134 137	IgE
+T6	cell_type 151 158	B cells
+T7	protein 193 202	cytokines
+T8	protein 275 279	CD27
+T9	protein 308 311	IgE
+T10	cell_line 378 393	B cell cultures
+T11	protein 408 411	IgE
+T12	protein 457 461	IL-4
+T13	protein 467 480	anti-CD40 mAb
+T14	protein 483 492	anti-CD40
+T15	cell_line 511 529	CD70 transfectants
+T16	protein 579 594	anti-CD70 mAb .
+T17	cell_type 595 608	CD27+ B cells
+T18	protein 636 639	IgE
+T19	protein 737 740	IgE
+T20	protein 743 747	CD27
+T21	cell_type 775 781	B cell
+T22	protein 815 819	IL-4
+T23	protein 823 827	IL-4
+T24	protein 833 842	anti-CD40
+T25	cell_type 924 937	CD27+ B cells
+T26	cell_type 956 969	CD27- B cells
+T27	protein 996 999	IgE
+T28	protein 1017 1021	CD27
+T29	RNA 1081 1109	germline epsilon transcripts
+T30	cell_line 1211 1226	B cell cultures
+T31	cell_type 1268 1280	plasma cells
+T32	protein 1300 1304	IL-4
+T33	protein 1309 1313	CD40
+T34	protein 1336 1340	CD27
+T35	protein 1388 1433	positive regulatory domain I-binding factor-1
+T36	protein 1494 1498	CD27
+T37	cell_type 1502 1509	B cells
+T38	protein 1518 1521	IgE
+T39	protein 1554 1558	IL-4
+T40	protein 1563 1567	CD40
+T41	cell_type 1611 1623	plasma cells
+T42	protein 1649 1694	positive regulatory domain I-binding factor-1

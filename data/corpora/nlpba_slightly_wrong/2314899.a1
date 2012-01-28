@@ -1,0 +1,28 @@
+T1	protein 0 3	Tax
+T2	protein 37 53	cellular factors
+T3	DNA 57 81	Tax-response element DNA
+T4	DNA 98 152	human T-cell leukemia virus type I ( HTLV-I ) promoter
+T5	DNA 242 245	TRE
+T6	DNA 248 268	Tax-response element
+T7	protein 297 335	virally encoded transactivator protein
+T8	protein 336 339	Tax
+T9	protein 380 396	nuclear proteins
+T10	cell_line 423 481	HTLV-I immortalized Tax-expressing human T-lymphocyte line
+T11	DNA 536 543	TRE-DNA
+T12	protein 583 594	Tax-protein
+T13	protein 804 820	nuclear proteins
+T14	DNA 899 915	TRE-DNA fragment
+T15	protein 927 951	TRE-DNA binding proteins
+T16	protein 1107 1120	50 kD protein
+T17	DNA 1212 1219	TRE-DNA
+T18	DNA 1275 1278	TRE
+T19	protein 1324 1357	32 , 36 to 42 and 110 kD proteins
+T20	protein 1381 1393	50 kD factor
+T21	DNA 1497 1518	cAMP-response element
+T22	DNA 1519 1522	CRE
+T23	DNA 1551 1572	21 base-pair sequence
+T24	DNA 1621 1624	TRE
+T25	protein 1730 1767	cAMP response element binding protein
+T26	protein 1770 1774	CREB
+T27	protein 1796 1819	protein-TRE-DNA complex
+T28	protein 1841 1844	Tax

@@ -1,0 +1,41 @@
+T1	protein 23 26	E2F
+T2	cell_type 30 51	primary human T cells
+T3	protein 60 79	novel E2F complexes
+T4	protein 121 124	E2F
+T5	protein 131 151	transcription factor
+T6	protein 152 155	E2F
+T7	DNA 193 198	genes
+T8	DNA 240 245	c-myc
+T9	DNA 254 282	dihydrofolate reductase gene
+T10	protein 299 302	E2F
+T11	protein 340 357	cellular proteins
+T12	protein 374 396	retinoblastoma protein
+T13	protein 399 401	Rb
+T14	protein 410 428	Rb-related protein
+T15	protein 429 433	p107
+T16	protein 436 444	cyclin A
+T17	protein 451 455	cdk2
+T18	protein 494 497	E2F
+T19	cell_type 568 575	T cells
+T20	protein 584 587	E2F
+T21	cell_type 645 652	T cells
+T22	protein 731 734	E2F
+T23	protein 817 820	E2F
+T24	protein 850 853	E2F
+T25	cell_type 874 881	T cells
+T26	protein 1029 1032	E2F
+T27	protein 1044 1053	Complex X
+T28	DNA 1126 1148	E1A conserved region 2
+T29	protein 1161 1162	X
+T30	protein 1216 1218	Rb
+T31	protein 1222 1226	p107
+T32	protein 1263 1282	E1A-binding protein
+T33	protein 1294 1296	Rb
+T34	protein 1300 1304	p107
+T35	protein 1328 1347	novel E2F complexes
+T36	protein 1391 1394	E2F
+T37	protein 1544 1547	E2F
+T38	protein 1600 1620	S-phase p107 complex
+T39	protein 1648 1650	Rb
+T40	protein 1691 1694	E2F
+T41	protein 1741 1761	DNA-binding proteins

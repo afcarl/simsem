@@ -1,0 +1,30 @@
+T1	DNA 14 33	immunoglobulin gene
+T2	cell_type 48 55	B cells
+T3	cell_line 73 83	HeLa cells
+T4	protein 126 157	essential transcription factors
+T5	cell_type 258 298	immunoglobulin ( Ig ) expressing B cells
+T6	cell_type 314 325	non-B cells
+T7	cell_line 464 474	HeLa cells
+T8	cell_type 487 516	diploid or tetraploid B cells
+T9	cell_line 519 524	Daudi
+T10	DNA 577 597	B cell-encoded genes
+T11	DNA 675 697	B cell-expressed genes
+T12	DNA 817 824	Ig gene
+T13	protein 887 908	transcription factors
+T14	DNA 932 939	Ig gene
+T15	protein 962 983	transcription factors
+T16	DNA 1066 1071	Oct-2
+T17	DNA 1074 1079	OBF-1
+T18	protein 1082 1086	PU.1
+T19	protein 1138 1148	NF-kappa B
+T20	DNA 1151 1154	E47
+T21	cell_line 1172 1198	Daudi x HeLa heterokaryons
+T22	protein 1266 1303	B cell-specific transcription factors
+T23	DNA 1316 1323	Ig gene
+T24	DNA 1340 1345	Oct-2
+T25	protein 1350 1360	NF-kappa B
+T26	cell_line 1430 1440	HeLa cells
+T27	protein 1467 1505	B cell-expressed transcription factors
+T28	DNA 1592 1599	Ig gene
+T29	DNA 1717 1725	Ig genes
+T30	cell_line 1815 1829	HeLa phenotype

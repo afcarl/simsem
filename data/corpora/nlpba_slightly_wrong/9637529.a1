@@ -1,0 +1,36 @@
+T1	protein 0 4	IL-4
+T2	cell_type 68 85	human eosinophils
+T3	protein 88 92	TGFs
+T4	cell_type 189 200	eosinophils
+T5	protein 260 269	TGF-alpha
+T6	protein 274 283	TGF-beta1
+T7	cell_type 286 297	Eosinophils
+T8	protein 358 362	TGFs
+T9	protein 465 485	TGF-alpha and -beta1
+T10	cell_type 489 500	eosinophils
+T11	cell_type 503 514	Eosinophils
+T12	protein 616 620	IL-3
+T13	protein 623 627	IL-4
+T14	protein 634 638	IL-5
+T15	protein 772 781	TGF-alpha
+T16	protein 786 795	TGF-beta1
+T17	protein 802 805	TGF
+T18	protein 825 829	IL-3
+T19	protein 832 836	IL-4
+T20	protein 843 847	IL-5
+T21	RNA 875 889	TGF-beta1 mRNA
+T22	cell_type 916 927	eosinophils
+T23	protein 960 969	TGF-alpha
+T24	cell_type 984 995	eosinophils
+T25	protein 1016 1020	IL-3
+T26	protein 1025 1029	IL-5
+T27	protein 1056 1060	IL-4
+T28	protein 1094 1098	IL-4
+T29	protein 1134 1158	IL-4 signaling molecules
+T30	cell_type 1174 1191	human eosinophils
+T31	protein 1215 1219	IL-4
+T32	protein 1266 1275	TGF-alpha
+T33	protein 1280 1289	TGF-beta1
+T34	protein 1304 1308	IL-4
+T35	protein 1356 1359	TGF
+T36	cell_type 1391 1402	eosinophils

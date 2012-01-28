@@ -1,0 +1,21 @@
+T1	protein 10 39	v-abl protein tyrosine kinase
+T2	DNA 47 78	immunoglobulin light-chain gene
+T3	cell_type 95 109	Lymphoid cells
+T4	protein 237 251	immunoglobulin
+T5	DNA 310 327	heavy-chain locus
+T6	DNA 342 359	light chain genes
+T7	protein 388 401	v-abl protein
+T8	DNA 472 498	light-chain gene structure
+T9	cell_line 515 526	pre-B cells
+T10	DNA 681 697	human BCL-2 gene
+T11	protein 744 773	v-abl protein tyrosine kinase
+T12	DNA 815 849	kappa and lambda light-chain genes
+T13	RNA 922 942	RAG-1 and RAG-2 RNAs
+T14	protein 1044 1073	v-abl protein tyrosine kinase
+T15	protein 1157 1170	v-abl protein
+T16	protein 1203 1217	NF-kappa B/rel
+T17	DNA 1251 1272	kappa intron enhancer
+T18	protein 1316 1329	v-abl protein
+T19	DNA 1359 1375	light-chain gene
+T20	cell_type 1455 1461	B-cell
+T21	DNA 1547 1555	RAG gene

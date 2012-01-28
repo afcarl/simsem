@@ -1,0 +1,30 @@
+T1	protein 61 81	oncogene product Tax
+T2	protein 126 153	trans-activator protein Tax
+T3	protein 367 370	Tax
+T4	cell_line 443 474	human T-cell line Kit 225 cells
+T5	protein 513 516	Tax
+T6	protein 593 596	Tax
+T7	protein 676 679	Tax
+T8	cell_line 685 706	resting Kit 225 cells
+T9	protein 796 821	cyclin dependent kinase 2
+T10	protein 824 828	CDK2
+T11	protein 835 839	CDK4
+T12	protein 865 883	Rb family proteins
+T13	protein 908 911	E2F
+T14	protein 961 964	Tax
+T15	protein 998 1029	cell cycle regulatory molecules
+T16	protein 1040 1049	cyclin D2
+T17	protein 1052 1060	cyclin E
+T18	protein 1063 1067	E2F1
+T19	protein 1070 1074	CDK2
+T20	protein 1077 1081	CDK4
+T21	protein 1086 1090	CDK6
+T22	protein 1097 1100	Tax
+T23	protein 1123 1141	CDK inhibitors p19
+T24	protein 1144 1149	INK4d
+T25	protein 1156 1168	p27 ( Kip1 )
+T26	protein 1192 1195	Tax
+T27	protein 1229 1232	Tax
+T28	protein 1328 1331	Tax
+T29	protein 1376 1407	cell cycle regulatory molecules
+T30	protein 1411 1414	Tax

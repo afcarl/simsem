@@ -1,0 +1,13 @@
+T1	protein 34 70	1 , 25-dihydroxyvitamin D3 receptors
+T2	cell_type 74 102	peripheral mononuclear cells
+T3	cell_type 204 232	peripheral mononuclear cells
+T4	cell_type 399 410	lymphocytes
+T5	protein 483 490	lectins
+T6	cell_type 571 582	lymphocytes
+T7	cell_type 795 829	peripheral blood mononuclear cells
+T8	cell_type 949 967	normal lymphocytes
+T9	cell_type 1016 1027	lymphocytes
+T10	protein 1031 1049	phytohemagglutinin
+T11	cell_type 1120 1131	lymphocytes
+T12	protein 1564 1593	specific functional receptors
+T13	cell_type 1660 1677	mononuclear cells

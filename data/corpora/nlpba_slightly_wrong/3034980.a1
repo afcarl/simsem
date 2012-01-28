@@ -1,0 +1,15 @@
+T1	protein 0 48	Granulocyte-macrophage colony-stimulating factor
+T2	cell_type 134 168	human peripheral blood lymphocytes
+T3	RNA 349 362	messenger RNA
+T4	protein 383 409	multilineage growth factor
+T5	protein 410 458	granulocyte-macrophage colony-stimulating factor
+T6	protein 461 467	GM-CSF
+T7	protein 490 496	GM-CSF
+T8	cell_type 524 568	normal human mitogen-activated T lymphocytes
+T9	cell_line 573 659	T lymphocytes from a line ( S-LB1 ) transformed with human T cell lymphotropic virus 1
+T10	cell_line 700 736	HTLV-1 transformed T lymphocyte line
+T11	cell_line 739 745	Ab-VDR
+T12	protein 834 870	1 , 25 ( OH ) 2D3 cellular receptors
+T13	protein 936 942	GM-CSF
+T14	protein 1002 1015	interleukin 2
+T15	protein 1060 1096	cellular 1 , 25 ( OH ) 2D3 receptors

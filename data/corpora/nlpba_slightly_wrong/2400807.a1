@@ -1,0 +1,12 @@
+T1	protein 19 35	nuclear proteins
+T2	cell_type 143 185	chronic myelogenous leukemia ( CML ) cells
+T3	protein 278 294	nuclear proteins
+T4	cell_type 382 391	CML cells
+T5	protein 395 404	IFN-alpha
+T6	protein 434 458	CML cytoplasmic proteins
+T7	protein 468 497	nuclear protein-DNA complexes
+T8	protein 543 552	IFN-alpha
+T9	protein 592 595	IFN
+T10	protein 647 676	nuclear protein-DNA complexes
+T11	protein 717 726	IFN-alpha
+T12	protein 814 830	nuclear proteins

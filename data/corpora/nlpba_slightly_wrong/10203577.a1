@@ -1,0 +1,43 @@
+T1	cell_type 51 73	human endothelial cell
+T2	protein 102 121	heat shock proteins
+T3	protein 270 291	heat shock protein 60
+T4	protein 294 299	Hsp60
+T5	cell_line 324 346	Hsp60-specific T cells
+T6	cell_type 361 378	endothelial cells
+T7	cell_type 381 383	EC
+T8	protein 413 418	Hsp60
+T9	protein 431 449	adhesion molecules
+T10	cell_type 488 490	EC
+T11	cell_type 905 907	EC
+T12	protein 1114 1132	adhesion molecules
+T13	protein 1135 1169	monocyte chemoattractant protein-1
+T14	protein 1172 1177	MCP-1
+T15	protein 1186 1191	Hsp60
+T16	cell_type 1195 1233	human umbilical vein endothelial cells
+T17	cell_type 1236 1242	HUVECs
+T18	protein 1322 1343	transcription factors
+T19	protein 1344 1365	nuclear factor kappaB
+T20	protein 1368 1377	NF-kappaB
+T21	protein 1384 1403	heat shock factor-1
+T22	protein 1406 1411	HSF-1
+T23	protein 1634 1657	influenza virus antigen
+T24	protein 1741 1768	tumor necrosis factor-alpha
+T25	protein 1771 1780	TNF-alpha
+T26	cell_type 1824 1830	HUVECs
+T27	protein 1929 1938	NF-kappaB
+T28	cell_type 1951 1953	EC
+T29	protein 1996 2001	Hsp60
+T30	protein 2090 2095	Hsp70
+T31	cell_type 2110 2116	HUVECs
+T32	protein 2151 2156	HSF-1
+T33	protein 2358 2375	adhesion molecule
+T34	protein 2426 2431	Hsp60
+T35	cell_type 2435 2441	HUVECs
+T36	cell_type 2604 2622	sensitized T cells
+T37	cell_type 2635 2637	EC
+T38	protein 2748 2753	Hsp60
+T39	protein 2800 2817	adhesion molecule
+T40	cell_type 2832 2834	EC
+T41	protein 2871 2876	MCP-1
+T42	cell_type 2938 2947	monocytes
+T43	cell_type 2990 2992	EC

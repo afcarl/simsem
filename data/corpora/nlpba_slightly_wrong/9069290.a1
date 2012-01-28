@@ -1,0 +1,19 @@
+T1	protein 18 38	transcription factor
+T2	protein 39 44	MEF2C
+T3	protein 52 66	MAP kinase p38
+T4	protein 397 407	MAP kinase
+T5	protein 410 414	MAPK
+T6	protein 451 459	MAPK p38
+T7	protein 595 620	proinflammatory molecules
+T8	protein 662 665	p38
+T9	protein 737 740	p38
+T10	protein 809 812	p38
+T11	protein 841 881	myocyte-enhancer factor 2 ( MEF2 ) group
+T12	protein 885 906	transcription factors
+T13	cell_type 926 941	monocytic cells
+T14	protein 990 995	MEF2C
+T15	protein 1004 1007	p38
+T16	protein 1056 1061	MEF2C
+T17	DNA 1086 1096	c-jun gene
+T18	protein 1135 1138	p38
+T19	protein 1213 1226	c-Jun protein

@@ -1,0 +1,48 @@
+T1	protein 0 43	Monoclonal anti-endothelial cell antibodies
+T2	protein 153 196	monoclonal anti-endothelial cell antibodies
+T3	protein 199 204	mAECA
+T4	cell_line 284 322	human umbilical vein endothelial cells
+T5	cell_line 325 330	HUVEC
+T6	protein 409 414	mAECA
+T7	cell_type 434 462	peripheral blood lymphocytes
+T8	cell_line 561 577	macrovascular EC
+T9	cell_line 580 585	HUVEC
+T10	cell_line 592 608	microvascular EC
+T11	cell_line 611 652	human bone marrow EC immortalized by SV40
+T12	protein 759 780	monoclonal antibodies
+T13	protein 783 788	mAECA
+T14	protein 850 864	total IgG-AECA
+T15	protein 922 927	mAECA
+T16	cell_type 931 946	human aortic EC
+T17	protein 1009 1022	interleukin-6
+T18	protein 1025 1029	IL-6
+T19	cell_line 1128 1140	activated EC
+T20	cell_line 1178 1197	monocytic cell line
+T21	cell_line 1200 1204	U937
+T22	protein 1238 1271	vascular cell adhesion molecule 1
+T23	protein 1314 1324	E-selectin
+T24	cell_line 1365 1369	mAEC
+T25	protein 1434 1455	nuclear factor kappaB
+T26	protein 1458 1467	NF-kappaB
+T27	protein 1489 1498	NF-kappaB
+T28	protein 1569 1574	mAECA
+T29	protein 1665 1668	IgG
+T30	cell_line 1717 1722	HUVEC
+T31	protein 1729 1734	mAECA
+T32	cell_line 1767 1783	macrovascular EC
+T33	protein 1847 1852	mAECA
+T34	protein 1863 1879	normal human IgG
+T35	protein 1932 1937	mAECA
+T36	cell_line 1938 1950	activated EC
+T37	protein 1977 1981	IL-6
+T38	protein 2008 2013	mAECA
+T39	protein 2039 2057	adhesion molecules
+T40	cell_type 2084 2104	U937 monocytic cells
+T41	cell_type 2108 2110	EC
+T42	protein 2133 2138	mAECA
+T43	protein 2183 2213	NF-kappaB transcription factor
+T44	protein 2255 2259	AECA
+T45	cell_type 2283 2285	EC
+T46	protein 2329 2346	adhesion molecule
+T47	protein 2374 2383	NF-kappaB
+T48	cell_type 2411 2420	monocytes

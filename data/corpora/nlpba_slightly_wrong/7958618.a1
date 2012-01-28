@@ -1,0 +1,18 @@
+T1	cell_type 276 287	lymphocytes
+T2	cell_type 320 327	T cells
+T3	protein 385 405	transcription factor
+T4	protein 406 416	NF kappa B
+T5	protein 480 490	NF kappa B
+T6	protein 540 551	thioredoxin
+T7	protein 554 557	TRX
+T8	protein 569 592	protein tyrosine kinase
+T9	protein 604 610	p56lck
+T10	protein 615 621	p59fyn
+T11	protein 723 746	redox-regulated enzymes
+T12	protein 775 785	NF kappa B
+T13	protein 828 851	T cell antigen receptor
+T14	protein 859 862	CD4
+T15	protein 867 880	CD8 molecules
+T16	protein 896 920	IL-2 receptor beta-chain
+T17	cell_type 945 961	cytotoxic T cell
+T18	protein 976 980	IL-2

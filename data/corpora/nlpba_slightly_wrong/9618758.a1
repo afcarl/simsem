@@ -1,0 +1,13 @@
+T1	protein 0 7	HMG box
+T2	protein 19 40	transcription factors
+T3	cell_type 44 54	lymphocyte
+T4	DNA 99 133	mammalian sex-determining gene Sry
+T5	protein 192 199	HMG box
+T6	protein 204 225	transcription factors
+T7	cell_type 316 326	lymphocyte
+T8	protein 353 369	HMG box proteins
+T9	protein 393 398	Sox-4
+T10	protein 458 469	TCF-1/LEF-1
+T11	protein 523 539	TCF/LEF proteins
+T12	protein 882 889	TCF/LEF
+T13	protein 984 1000	HMG box proteins

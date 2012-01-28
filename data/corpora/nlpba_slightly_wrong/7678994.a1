@@ -1,0 +1,31 @@
+T1	protein 14 19	tal-1
+T2	protein 24 45	GATA-binding proteins
+T3	protein 75 80	Tal-1
+T4	DNA 170 180	Tal-1 gene
+T5	protein 200 220	transcription factor
+T6	protein 228 257	basic helix-loop-helix domain
+T7	cell_type 304 323	hematopoietic cells
+T8	protein 357 362	tal-1
+T9	cell_type 377 411	purified human hematopoietic cells
+T10	protein 441 473	reverse transcriptase polymerase
+T11	protein 535 540	tal-1
+T12	cell_type 609 632	basophilic granulocytes
+T13	DNA 679 696	tal-1 1A promoter
+T14	DNA 728 746	GATA-binding sites
+T15	DNA 798 809	GATA-1 gene
+T16	cell_type 867 930	erythroid , megakaryocytic , and mastocytic/basophilic lineages
+T17	protein 944 950	GATA-1
+T18	cell_type 980 999	hematopoietic cells
+T19	DNA 1016 1038	GATA-1 and tal-1 genes
+T20	cell_type 1201 1229	immature hematopoietic cells
+T21	DNA 1232 1254	tal-1 and GATA-1 genes
+T22	cell_type 1274 1301	committed progenitors cells
+T23	cell_line 1304 1321	CD34+/CD38 ( 2+ )
+T24	cell_type 1370 1385	primitive cells
+T25	cell_line 1388 1406	CD34 ( 2+ ) /CD38-
+T26	protein 1425 1431	GATA-2
+T27	cell_type 1462 1508	most primitive and committed progenitors cells
+T28	protein 1519 1525	GATA-3
+T29	protein 1615 1621	GATA-1
+T30	protein 1653 1658	tal-1
+T31	cell_type 1693 1747	erythroid , megakaryocytic , and basosophilic lineages

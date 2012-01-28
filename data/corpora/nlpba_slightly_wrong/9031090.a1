@@ -1,0 +1,31 @@
+T1	protein 0 14	Nuclear NF-ATp
+T2	cell_type 32 52	unstimulated B cells
+T3	cell_type 75 88	B lymphocytes
+T4	protein 239 260	transcription factors
+T5	cell_type 303 317	lymphoid cells
+T6	protein 334 355	transcription factors
+T7	protein 375 390	Octamer factors
+T8	protein 391 396	Oct-1
+T9	protein 401 406	Oct-2
+T10	protein 424 442	AP-1 factor family
+T11	protein 445 458	NF-AT factors
+T12	protein 475 481	NF-ATp
+T13	protein 503 519	Rel/NF-kB family
+T14	protein 577 583	NF-ATp
+T15	protein 620 633	NF-AT factors
+T16	cell_type 653 674	nonstimulated B cells
+T17	cell_type 712 723	B-CLL cells
+T18	cell_type 729 752	'normal ' B lymphocytes
+T19	protein 854 869	factor proteins
+T20	protein 887 891	JunD
+T21	protein 894 899	c-Fos
+T22	protein 904 908	FosB
+T23	protein 1010 1015	c-Jun
+T24	protein 1018 1026	RelA/p65
+T25	protein 1031 1036	c-Rel
+T26	cell_type 1078 1089	B-CLL cells
+T27	protein 1141 1162	transcription factors
+T28	protein 1222 1235	factor family
+T29	protein 1447 1452	NF-AT
+T30	protein 1455 1460	NF-kB
+T31	protein 1465 1485	AP-1 factor families

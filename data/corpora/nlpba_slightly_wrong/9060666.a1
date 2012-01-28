@@ -1,0 +1,21 @@
+T1	protein 37 49	basic domain
+T2	protein 57 89	Epstein-Barr virus ZEBRA protein
+T3	protein 176 189	ZEBRA protein
+T4	protein 304 309	ZEBRA
+T5	protein 328 339	bZIP family
+T6	protein 343 363	DNA-binding proteins
+T7	DNA 433 460	viral lytic cycle promoters
+T8	protein 499 504	ZEBRA
+T9	protein 693 698	ZEBRA
+T10	protein 701 712	Z ( S186A )
+T11	protein 928 946	DNA-binding domain
+T12	DNA 987 1006	ZEBRA-binding sites
+T13	DNA 1064 1090	ZEBRA-responsive promoters
+T14	cell_line 1122 1145	EBV-infected cell lines
+T15	protein 1201 1214	ZEBRA protein
+T16	protein 1320 1338	DNA-binding domain
+T17	protein 1342 1347	ZEBRA
+T18	protein 1416 1429	ZEBRA protein
+T19	protein 1605 1618	ZEBRA protein
+T20	DNA 1697 1718	lytic viral promoters
+T21	DNA 1724 1751	chromatinized viral episome

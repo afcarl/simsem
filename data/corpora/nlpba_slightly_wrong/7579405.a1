@@ -1,0 +1,35 @@
+T1	DNA 35 50	L-selectin gene
+T2	cell_type 60 74	leukemic cells
+T3	protein 130 172	human T-cell lymphotropic virus type 1 Tax
+T4	protein 175 185	L-selectin
+T5	DNA 357 372	L-selectin gene
+T6	cell_type 459 472	leukemic cell
+T7	RNA 544 559	L-selectin mRNA
+T8	cell_type 569 583	leukemic cells
+T9	DNA 663 682	L-selectin promoter
+T10	protein 686 739	human T-cell lymphotropic virus type 1 ( HTLV-1 ) Tax
+T11	protein 753 789	viral transcriptional transactivator
+T12	protein 819 829	L-selectin
+T13	cell_line 853 862	ATL cells
+T14	protein 880 899	activation antigens
+T15	cell_line 937 946	ATL cells
+T16	RNA 966 981	L-selectin mRNA
+T17	RNA 1113 1128	L-selectin mRNA
+T18	cell_type 1149 1163	leukemic cells
+T19	cell_line 1226 1241	rat T-cell line
+T20	protein 1261 1271	L-selectin
+T21	protein 1327 1330	Tax
+T22	cell_line 1345 1355	JPX9 cells
+T23	RNA 1400 1404	mRNA
+T24	protein 1455 1488	Chloramphenicol acetyltransferase
+T25	protein 1491 1494	CAT
+T26	DNA 1581 1600	L-selectin promoter
+T27	protein 1604 1607	Tax
+T28	protein 1646 1656	L-selectin
+T29	cell_line 1931 1940	ATL cells
+T30	DNA 1972 1987	L-selectin gene
+T31	protein 2025 2028	Tax
+T32	protein 2053 2063	L-selectin
+T33	protein 2080 2102	inflammatory cytokines
+T34	cell_line 2108 2117	ATL cells
+T35	cell_line 2142 2151	ATL cells

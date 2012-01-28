@@ -1,0 +1,26 @@
+T1	protein 13 25	relA ( p65 )
+T2	protein 30 53	I kappa B alpha subunit
+T3	cell_type 91 123	human peripheral blood monocytes
+T4	cell_type 127 138	macrophages
+T5	protein 197 236	nuclear factor ( NF ) -kappa B subunits
+T6	cell_type 240 272	human peripheral blood monocytes
+T7	cell_type 280 308	monocyte-derived macrophages
+T8	cell_type 311 315	MDMs
+T9	protein 368 382	p50 homodimers
+T10	protein 473 502	p50/RelA ( p65 ) heterodimers
+T11	cell_type 548 552	MDMs
+T12	cell_type 635 644	monocytes
+T13	cell_type 649 653	MDMs
+T14	protein 674 694	RelA ( p65 ) subunit
+T15	cell_type 720 729	monocytes
+T16	cell_type 768 772	MDMs
+T17	RNA 787 804	RelA ( p65 ) mRNA
+T18	RNA 836 853	RelA ( p65 ) mRNA
+T19	cell_type 882 886	MDMs
+T20	cell_type 903 912	monocytes
+T21	cell_type 918 922	MDMs
+T22	protein 944 959	I kappa B alpha
+T23	protein 1032 1047	I kappa B alpha
+T24	protein 1159 1188	p50/RelA ( p65 ) heterodimers
+T25	protein 1270 1285	I kappa B alpha
+T26	protein 1364 1390	p50/RelA ( p65 ) complexes

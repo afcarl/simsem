@@ -1,0 +1,32 @@
+T1	protein 66 98	lymphoid-specific nuclear factor
+T2	cell_type 102 119	activated T cells
+T3	protein 122 127	NF-AT
+T4	protein 144 183	lymphoid-specific transcription complex
+T5	protein 186 191	NF-AT
+T6	cell_type 234 241	T cells
+T7	protein 281 317	T cell restricted cytoplasmic factor
+T8	protein 335 345	ubiquitous
+T9	protein 346 363	nuclear component
+T10	protein 407 423	antigen receptor
+T11	protein 471 482	AP1 factors
+T12	protein 504 524	murine NF-AT complex
+T13	protein 583 594	human NF-AT
+T14	protein 608 656	phorbol ester-inducible transcription factor AP1
+T15	protein 659 666	Jun/Fos
+T16	protein 701 719	AP1 family members
+T17	protein 755 758	Fos
+T18	protein 768 773	NF-AT
+T19	DNA 826 846	binding site for AP1
+T20	protein 884 887	Fos
+T21	protein 913 918	Fra-1
+T22	protein 1014 1019	NF-AT
+T23	protein 1102 1106	cJun
+T24	protein 1110 1114	JunD
+T25	protein 1125 1129	JunB
+T26	protein 1207 1236	Jun- and Fos-related proteins
+T27	protein 1259 1264	NF-AT
+T28	protein 1337 1342	NF-AT
+T29	protein 1391 1417	semi-purified AP1 proteins
+T30	cell_type 1442 1455	T lymphocytes
+T31	protein 1525 1529	JunB
+T32	protein 1576 1601	NF-AT DNA binding complex

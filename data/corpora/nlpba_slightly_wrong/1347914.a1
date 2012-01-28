@@ -1,0 +1,21 @@
+T1	protein 85 108	retinoic acid receptors
+T2	DNA 133 148	v-erbA oncogene
+T3	DNA 162 177	v-erbA oncogene
+T4	protein 205 235	thyroid hormone receptor alpha
+T5	protein 238 253	c-erbA/TR-alpha
+T6	DNA 347 364	erythrocyte genes
+T7	DNA 403 424	proto-oncogene c-erbA
+T8	protein 485 515	thyroid hormone receptor alpha
+T9	protein 518 533	c-erbA/TR-alpha
+T10	protein 560 588	retinoic acid receptor alpha
+T11	protein 591 600	RAR-alpha
+T12	cell_type 754 782	normal erythroid progenitors
+T13	DNA 841 865	tyrosine kinase oncogene
+T14	cell_type 892 906	immature cells
+T15	cell_type 952 964	mature cells
+T16	protein 1230 1245	human RAR-alpha
+T17	cell_line 1249 1280	receptor-negative erythroblasts
+T18	cell_type 1349 1367	unresponsive cells
+T19	protein 1392 1401	RAR-alpha
+T20	protein 1469 1494	exogenous c-erbA/TR-alpha
+T21	cell_type 1498 1511	erythroblasts

@@ -1,0 +1,14 @@
+T1	protein 20 46	early lytic cycle proteins
+T2	cell_type 330 353	latently infected cells
+T3	protein 785 800	latent antigens
+T4	protein 917 941	immediate early proteins
+T5	protein 942 947	BZLF1
+T6	protein 952 957	BRLF1
+T7	protein 975 980	BMLF1
+T8	protein 983 988	BMRF1
+T9	protein 995 1000	BALF2
+T10	protein 1014 1028	early proteins
+T11	cell_type 1129 1133	CTLs
+T12	DNA 1222 1235	HLA-C alleles
+T13	protein 1345 1379	immediate early and early proteins
+T14	protein 1622 1656	immediate early and early proteins

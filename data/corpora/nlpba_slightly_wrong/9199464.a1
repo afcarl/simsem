@@ -1,0 +1,37 @@
+T1	protein 0 35	Anti-Ehrlichia chaffeensis antibody
+T2	RNA 81 110	proinflammatory cytokine mRNA
+T3	cell_type 125 140	human monocytes
+T4	protein 172 185	IkappaB-alpha
+T5	protein 204 213	NF-kappaB
+T6	cell_type 292 301	monocytes
+T7	cell_type 306 317	macrophages
+T8	cell_type 439 454	human monocytes
+T9	protein 499 516	interleukin-1beta
+T10	protein 519 527	IL-1beta
+T11	protein 532 536	IL-8
+T12	DNA 543 554	IL-10 genes
+T13	RNA 590 646	tumor necrosis factor alpha ( TNF-alpha ) and IL-6 mRNAs
+T14	protein 679 707	anti-E. chaffeensis antibody
+T15	protein 759 790	major proinflammatory cytokines
+T16	cell_type 794 809	human monocytes
+T17	cell_line 825 856	Human monocytic cell line THP-1
+T18	RNA 982 996	cytokine mRNAs
+T19	protein 1055 1083	Anti-E. chaffeensis antibody
+T20	protein 1156 1164	IL-1beta
+T21	cell_line 1168 1179	THP-1 cells
+T22	RNA 1200 1224	TNF-alpha and IL-6 mRNAs
+T23	protein 1267 1275	IL-1beta
+T24	protein 1278 1287	TNF-alpha
+T25	protein 1294 1298	IL-6
+T26	protein 1431 1467	anti-E. chaffeensis immunoglobulin G
+T27	RNA 1595 1608	IL-1beta mRNA
+T28	protein 1644 1658	immune complex
+T29	protein 1666 1683	Fc gamma receptor
+T30	protein 1700 1709	TNF-alpha
+T31	RNA 1714 1723	IL-6 mRNA
+T32	RNA 1748 1761	IL-1beta mRNA
+T33	protein 1814 1827	IkappaB-alpha
+T34	protein 1846 1855	NF-kappaB
+T35	cell_line 1877 1888	THP-1 cells
+T36	protein 1987 2015	anti-E. chaffeensis antibody
+T37	protein 2060 2091	major proinflammatory cytokines

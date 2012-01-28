@@ -1,0 +1,22 @@
+T1	DNA 0 12	HIV enhancer
+T2	protein 37 47	NF-kappa B
+T3	cell_type 74 83	monocytes
+T4	cell_type 182 195	T lymphocytes
+T5	cell_type 200 211	macrophages
+T6	cell_type 217 224	T cells
+T7	cell_type 290 303	T lymphocytes
+T8	DNA 354 366	HIV enhancer
+T9	protein 397 407	NF-kappa B
+T10	protein 412 444	potent transcriptional activator
+T11	DNA 452 464	HIV enhancer
+T12	cell_type 494 505	macrophages
+T13	protein 525 537	HIV proteins
+T14	cell_type 642 653	macrophages
+T15	protein 681 691	NF-kappa B
+T16	cell_line 719 743	U937 monocytic cell line
+T17	protein 832 850	nuclear NF-kappa B
+T18	protein 924 938	nuclear factor
+T19	protein 997 1007	NF-kappa B
+T20	DNA 1034 1046	HIV enhancer
+T21	protein 1100 1122	tumour necrosis factor
+T22	cell_type 1246 1255	monocytes

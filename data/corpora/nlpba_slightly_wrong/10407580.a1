@@ -1,0 +1,17 @@
+T1	cell_type 22 34	granulocytes
+T2	cell_type 39 52	T lymphocytes
+T3	DNA 89 95	HUMARA
+T4	DNA 134 146	X-chromosome
+T5	DNA 252 280	human androgen receptor gene
+T6	DNA 283 289	HUMARA
+T7	cell_type 553 564	blood cells
+T8	DNA 619 631	X-chromosome
+T9	DNA 699 705	HUMARA
+T10	cell_type 762 774	granulocytes
+T11	cell_line 779 786	T cells
+T12	DNA 913 927	HUMARA alleles
+T13	cell_type 972 984	granuloctyes
+T14	cell_line 992 999	T cells
+T15	cell_type 1099 1111	granulocytes
+T16	cell_line 1116 1123	T cells
+T17	cell_line 1227 1234	T cells

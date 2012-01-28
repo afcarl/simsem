@@ -1,0 +1,44 @@
+T1	cell_line 65 103	myeloid-committed eosinophil cell line
+T2	cell_line 106 108	YJ
+T3	cell_line 153 177	human leukemia cell line
+T4	cell_line 222 224	YJ
+T5	cell_type 252 274	peripheral blood cells
+T6	cell_line 431 439	YJ cells
+T7	protein 523 543	Cell surface markers
+T8	cell_line 551 559	YJ cells
+T9	protein 578 582	CD33
+T10	protein 605 609	CD34
+T11	protein 612 616	CD16
+T12	protein 621 625	CD23
+T13	cell_line 664 672	YJ cells
+T14	RNA 767 772	mRNAs
+T15	protein 777 815	eosinophil-associated granule proteins
+T16	protein 818 845	eosinophil cationic protein
+T17	protein 848 851	ECP
+T18	protein 856 885	eosinophil-derived neurotoxin
+T19	protein 888 891	EDN
+T20	protein 896 917	eosinophil peroxidase
+T21	protein 920 923	EPO
+T22	protein 932 951	major basic protein
+T23	protein 954 957	MBP
+T24	protein 974 1012	Charcot-Leyden crystal ( CLC ) protein
+T25	cell_line 1019 1027	YJ cells
+T26	cell_line 1174 1182	YJ cells
+T27	protein 1293 1297	CD14
+T28	RNA 1342 1352	Egr-1 mRNA
+T29	cell_line 1369 1377	YJ cells
+T30	cell_type 1414 1432	neutrophil lineage
+T31	cell_line 1486 1494	YJ cells
+T32	cell_type 1549 1563	metamyelocytes
+T33	cell_type 1568 1584	band neutrophils
+T34	cell_line 1615 1660	nitroblue tetrazolium ( NBT ) -positive cells
+T35	RNA 1675 1688	gp91phox mRNA
+T36	cell_line 1713 1725	YJ cell line
+T37	cell_type 1804 1838	monocytic or neutrophilic lineages
+T38	protein 1909 1930	transcription factors
+T39	protein 2033 2038	Egr-1
+T40	protein 2125 2134	C/EBPbeta
+T41	RNA 2139 2149	MZF-1 mRNA
+T42	cell_line 2199 2211	YJ cell line
+T43	cell_type 2307 2317	eosinophil
+T44	cell_type 2321 2353	monocytic or neutrophil lineages

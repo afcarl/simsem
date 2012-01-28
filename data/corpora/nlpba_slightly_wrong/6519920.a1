@@ -1,0 +1,10 @@
+T1	cell_type 42 84	normal and leukaemic peripheral leucocytes
+T2	cell_type 155 170	leukaemic cells
+T3	cell_line 173 176	CML
+T4	cell_line 179 182	CLL
+T5	cell_line 185 188	AML
+T6	cell_line 191 194	ALL
+T7	cell_type 356 371	leukaemic cells
+T8	protein 489 501	theophylline
+T9	cell_line 870 873	CML
+T10	cell_line 899 938	AML , CLL and ALL peripheral leucocytes

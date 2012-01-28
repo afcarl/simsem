@@ -1,0 +1,20 @@
+T1	protein 96 106	NF-kappa B
+T2	protein 107 128	transcription factors
+T3	protein 434 467	intercellular adhesion molecule-1
+T4	protein 470 476	ICAM-1
+T5	protein 482 500	adhesion molecules
+T6	cell_line 626 644	monocytic ( U937 )
+T7	cell_line 651 690	bronchial epithelial ( H292 ) cell-line
+T8	protein 743 749	ICAM-1
+T9	DNA 790 811	human ICAM-1 promoter
+T10	protein 884 912	tumour necrosis factor-alpha
+T11	protein 915 924	TNF-alpha
+T12	protein 938 944	ICAM-1
+T13	DNA 982 1027	nuclear factor ( NF-kappa B ) target sequence
+T14	DNA 1048 1084	glucocorticoid recognition sequences
+T15	DNA 1105 1120	promoter region
+T16	DNA 1187 1219	multimerized NF-kappa B sequence
+T17	protein 1241 1250	TNF-alpha
+T18	cell_line 1272 1281	293 cells
+T19	protein 1331 1354	glucocorticoid receptor
+T20	protein 1359 1389	nuclear factor-kappa B factors

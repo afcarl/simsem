@@ -1,0 +1,23 @@
+T1	protein 24 53	CD40-specific single-chain Fv
+T2	protein 75 91	variable regions
+T3	protein 95 104	mAb G28-5
+T4	protein 109 124	single-chain Fv
+T5	protein 127 130	sFv
+T6	protein 156 172	variable regions
+T7	protein 194 203	mAb G28-5
+T8	protein 225 229	CD40
+T9	protein 309 318	G28-5 sFv
+T10	protein 332 344	CD40 agonist
+T11	protein 370 374	CD40
+T12	protein 417 424	CD40-Ig
+T13	protein 439 448	G28-5 sFv
+T14	protein 480 489	G28-5 IgG
+T15	protein 516 520	CD40
+T16	cell_type 534 541	B cells
+T17	protein 558 567	G28-5 IgG
+T18	protein 596 605	G28-5 sFv
+T19	protein 616 620	CD40
+T20	protein 655 669	natural ligand
+T21	protein 672 695	gp39-CD8 fusion protein
+T22	protein 778 790	binding site
+T23	protein 794 799	G28-5

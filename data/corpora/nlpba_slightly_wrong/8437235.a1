@@ -1,0 +1,21 @@
+T1	DNA 101 120	-201 to -130 region
+T2	DNA 128 148	long terminal repeat
+T3	protein 195 228	chloramphenicol acetyltransferase
+T4	DNA 229 242	reporter gene
+T5	DNA 316 329	-201 and -130
+T6	DNA 418 438	long terminal repeat
+T7	DNA 441 444	LTR
+T8	DNA 476 479	LTR
+T9	cell_line 510 521	T-cell line
+T10	DNA 740 753	-201 to - 184
+T11	DNA 756 768	-183 to -166
+T12	DNA 771 783	-165 to -148
+T13	DNA 790 802	-148 to -130
+T14	cell_line 865 885	transfected RD cells
+T15	cell_line 891 904	CEMx174 cells
+T16	DNA 943 954	-93 and -76
+T17	DNA 967 978	-75 and -58
+T18	DNA 1017 1078	nuclear factor kappa B ( NF-kappa B ) - and Sp1-binding sites
+T19	protein 1943 1953	NF-kappa B
+T20	DNA 1958 1975	SP1-binding sites
+T21	DNA 2013 2026	-201 and -130

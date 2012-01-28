@@ -1,0 +1,21 @@
+T1	DNA 230 245	lymphocyte gene
+T2	protein 275 286	phosphatase
+T3	protein 299 310	calcineurin
+T4	protein 313 315	CN
+T5	protein 372 374	CN
+T6	cell_type 387 409	circulating leukocytes
+T7	protein 438 440	CN
+T8	cell_type 455 479	primary human leukocytes
+T9	protein 529 531	CN
+T10	cell_line 612 634	CsA-treated leukocytes
+T11	protein 696 698	CN
+T12	protein 802 845	nuclear factor of activated T cell proteins
+T13	DNA 886 921	transfected reporter gene construct
+T14	protein 967 976	IFN-gamma
+T15	protein 1018 1020	CN
+T16	protein 1111 1120	IFN-gamma
+T17	cell_line 1139 1175	allogeneic mixed lymphocyte cultures
+T18	protein 1217 1219	CN
+T19	cell_type 1268 1295	primary human T lymphocytes
+T20	protein 1322 1324	CN
+T21	DNA 1418 1433	lymphocyte gene

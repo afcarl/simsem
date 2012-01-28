@@ -1,0 +1,41 @@
+T1	protein 4 39	Epstein-Barr virus oncogene product
+T2	protein 40 65	latent membrane protein 1
+T3	protein 235 260	latent membrane protein 1
+T4	protein 263 267	LMP1
+T5	cell_type 309 322	B lymphocytes
+T6	cell_line 328 353	lymphoblastoid cell lines
+T7	protein 403 407	LMP1
+T8	protein 413 446	constitutively activated receptor
+T9	protein 502 536	carboxyl-terminal cytoplasmic tail
+T10	protein 543 571	transformation effector site
+T11	protein 574 578	TES1
+T12	protein 602 631	membrane proximal 45 residues
+T13	protein 681 730	tumor necrosis factor receptor-associated factors
+T14	protein 746 750	TES1
+T15	cell_type 819 830	lymphocytes
+T16	cell_type 842 862	lymphoblastoid cells
+T17	protein 911 923	155 residues
+T18	protein 931 935	TES1
+T19	cell_line 952 972	long-term cell lines
+T20	protein 1039 1051	carboxyl end
+T21	protein 1059 1075	cytoplasmic tail
+T22	protein 1170 1198	transformation effector site
+T23	protein 1201 1205	TES2
+T24	protein 1245 1270	TES2 interacting proteins
+T25	protein 1287 1349	tumor necrosis factor receptor-associated death domain protein
+T26	protein 1352 1357	TRADD
+T27	protein 1362 1367	TRADD
+T28	protein 1410 1424	wild-type TES2
+T29	protein 1438 1461	isoleucine-mutated TES2
+T30	protein 1464 1469	TRADD
+T31	protein 1486 1500	wild-type LMP1
+T32	protein 1533 1537	LMP1
+T33	protein 1563 1568	TRADD
+T34	protein 1600 1604	LMP1
+T35	cell_line 1608 1629	EBV-transformed cells
+T36	protein 1657 1662	TRADD
+T37	protein 1667 1671	TES2
+T38	protein 1708 1717	NF-kappaB
+T39	protein 1759 1763	LMP1
+T40	protein 1777 1782	TRADD
+T41	protein 1856 1865	NF-kappaB

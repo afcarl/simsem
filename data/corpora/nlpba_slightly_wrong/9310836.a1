@@ -1,0 +1,48 @@
+T1	DNA 5 20	P-like elements
+T2	DNA 67 82	mouse IL-4 gene
+T3	protein 118 153	nuclear factor of activated T cells
+T4	protein 158 193	activator protein-1 family proteins
+T5	DNA 225 235	P sequence
+T6	DNA 250 268	regulatory element
+T7	DNA 276 295	human IL-4 promoter
+T8	DNA 305 324	mouse IL-4 promoter
+T9	DNA 375 385	P sequence
+T10	DNA 397 427	conserved lymphokine element 0
+T11	DNA 430 434	CLE0
+T12	DNA 439 440	P
+T13	DNA 443 445	P2
+T14	DNA 448 450	P3
+T15	DNA 455 457	P4
+T16	DNA 494 509	P-like elements
+T17	protein 520 535	binding factors
+T18	DNA 543 558	native promoter
+T19	cell_line 660 670	EL-4 cells
+T20	DNA 680 713	IL-4 promoter-reporter constructs
+T21	DNA 723 746	mutated P-like elements
+T22	DNA 764 779	P-like elements
+T23	DNA 782 786	CLE0
+T24	DNA 789 790	P
+T25	DNA 793 795	P2
+T26	DNA 800 802	P4
+T27	DNA 813 815	P3
+T28	DNA 862 875	IL-4 promoter
+T29	DNA 946 950	CLE0
+T30	DNA 953 954	P
+T31	DNA 957 959	P2
+T32	DNA 964 966	P4
+T33	DNA 1014 1016	P3
+T34	DNA 1097 1098	P
+T35	DNA 1102 1104	P2
+T36	protein 1123 1183	nuclear factor of activated T cells ( NFAT ) family proteins
+T37	protein 1206 1249	Activator protein ( AP ) -1 family proteins
+T38	DNA 1266 1270	CLE0
+T39	DNA 1277 1279	P2
+T40	DNA 1284 1286	P4
+T41	protein 1289 1306	NFAT/AP-1 complex
+T42	DNA 1324 1325	P
+T43	DNA 1330 1332	P2
+T44	DNA 1370 1385	P-like elements
+T45	protein 1395 1432	element-specific and common complexes
+T46	DNA 1461 1470	P element
+T47	DNA 1485 1498	SV40 promoter
+T48	protein 1629 1661	P-like element-binding complexes

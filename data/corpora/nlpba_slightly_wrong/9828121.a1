@@ -1,0 +1,33 @@
+T1	DNA 4 14	human gene
+T2	protein 28 61	lectin-type oxidized LDL receptor
+T3	protein 64 68	OLR1
+T4	protein 96 123	natural killer gene complex
+T5	protein 159 164	LOX-1
+T6	protein 171 191	endothelial receptor
+T7	protein 196 228	oxidized low-density lipoprotein
+T8	protein 275 280	LOX-1
+T9	protein 311 334	C-type lectin receptors
+T10	cell_type 348 368	natural killer cells
+T11	DNA 426 442	human LOX-1 gene
+T12	protein 445 470	HGMW-approved symbol OLR1
+T13	protein 497 502	LOX-1
+T14	protein 525 554	natural killer cell receptors
+T15	DNA 663 679	human LOX-1 gene
+T16	protein 698 725	natural killer gene complex
+T17	DNA 729 749	chromosome 12p12-p13
+T18	protein 775 804	natural killer cell receptors
+T19	protein 855 860	LOX-1
+T20	protein 891 920	natural killer cell receptors
+T21	protein 923 928	LOX-1
+T22	cell_type 979 990	lymphocytes
+T23	DNA 995 1011	1753-bp fragment
+T24	DNA 1019 1038	5 ' flanking region
+T25	DNA 1046 1056	LOX-1 gene
+T26	DNA 1115 1128	binding sites
+T27	protein 1141 1162	transcription factors
+T28	protein 1179 1190	STAT family
+T29	protein 1195 1201	NF-IL6
+T30	protein 1226 1231	LOX-1
+T31	protein 1259 1268	cytokines
+T32	DNA 1306 1322	human LOX-1 gene
+T33	protein 1346 1373	natural killer gene complex

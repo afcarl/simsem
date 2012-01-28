@@ -1,0 +1,23 @@
+T1	DNA 14 19	c-fos
+T2	DNA 22 27	c-jun
+T3	DNA 32 37	jun B
+T4	DNA 120 159	c-fos , c-jun and jun B proto-oncogenes
+T5	cell_line 175 240	phytohemagglutinin ( PHA ) activated peripheral blood lymphocytes
+T6	cell_type 243 246	PBL
+T7	RNA 287 292	mRNAs
+T8	DNA 297 302	c-fos
+T9	DNA 307 312	c-jun
+T10	RNA 410 431	c-fos and jun B mRNAs
+T11	RNA 486 496	c-jun mRNA
+T12	cell_line 520 537	PHA-activated PBL
+T13	RNA 627 637	c-jun mRNA
+T14	cell_type 751 754	PBL
+T15	protein 795 798	PHA
+T16	cell_type 845 852	T cells
+T17	protein 944 952	anti-CD2
+T18	cell_line 1015 1050	anti-CD2-activated purified T cells
+T19	DNA 1132 1147	proto-oncogenes
+T20	protein 1221 1225	IL-2
+T21	cell_line 1277 1294	PHA-activated PBL
+T22	RNA 1356 1366	c-jun mRNA
+T23	RNA 1407 1417	c-jun mRNA

@@ -1,0 +1,56 @@
+T1	protein 35 38	Tax
+T2	protein 52 61	NF-kappaB
+T3	protein 89 109	IkappaB kinase alpha
+T4	protein 112 120	IKKalpha
+T5	protein 127 134	IKKbeta
+T6	protein 135 151	cellular kinases
+T7	protein 154 157	Tax
+T8	protein 175 202	40-kDa transforming protein
+T9	protein 321 341	NF-kappaB/Rel family
+T10	protein 345 366	transcription factors
+T11	protein 393 396	Tax
+T12	protein 463 476	IkappaB alpha
+T13	protein 516 525	NF-kappaB
+T14	protein 568 571	Tax
+T15	protein 606 622	cellular kinases
+T16	protein 623 643	IkappaB kinase alpha
+T17	protein 646 654	IKKalpha
+T18	protein 661 668	IKKbeta
+T19	protein 700 713	IkappaB alpha
+T20	protein 774 801	tumor necrosis factor alpha
+T21	protein 804 813	TNF-alpha
+T22	protein 820 833	interleukin-1
+T23	protein 836 840	IL-1
+T24	protein 883 886	Tax
+T25	protein 894 897	M22
+T26	protein 922 931	NF-kappaB
+T27	protein 959 967	IKKalpha
+T28	protein 971 978	IKKbeta
+T29	cell_line 1059 1106	HTLV-1-infected and Tax-expressing T-cell lines
+T30	protein 1153 1161	IKKalpha
+T31	protein 1166 1173	IKKbeta
+T32	cell_line 1186 1213	human Jurkat T or 293 cells
+T33	protein 1228 1237	NF-kappaB
+T34	DNA 1249 1262	reporter gene
+T35	protein 1285 1288	Tax
+T36	protein 1305 1328	kinase-deficient mutant
+T37	protein 1332 1335	NIK
+T38	protein 1338 1363	NF-kappaB-inducing kinase
+T39	protein 1460 1468	IKKalpha
+T40	protein 1473 1480	IKKbeta
+T41	protein 1501 1504	Tax
+T42	protein 1518 1527	NF-kappaB
+T43	DNA 1540 1573	plasma membrane-proximal elements
+T44	protein 1583 1607	proinflammatory cytokine
+T45	protein 1684 1708	TRAF2 and TRAF6 adaptors
+T46	protein 1757 1774	cytoplasmic tails
+T47	protein 1782 1791	TNF-alpha
+T48	protein 1796 1800	IL-1
+T49	protein 1843 1846	Tax
+T50	protein 1860 1869	NF-kappaB
+T51	protein 1921 1924	Tax
+T52	protein 1955 1979	proinflammatory cytokine
+T53	protein 2022 2031	NF-kappaB
+T54	protein 2098 2107	NF-kappaB
+T55	protein 2122 2125	Tax
+T56	cell_type 2187 2200	human T cells

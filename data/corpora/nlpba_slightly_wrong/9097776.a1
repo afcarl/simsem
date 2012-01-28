@@ -1,0 +1,13 @@
+T1	protein 0 8	Estrogen
+T2	protein 13 35	progesterone receptors
+T3	protein 363 371	estrogen
+T4	protein 376 398	progesterone receptors
+T5	protein 408 429	monoclonal antibodies
+T6	protein 684 706	progesterone receptors
+T7	protein 751 759	estrogen
+T8	protein 764 786	progesterone receptors
+T9	protein 792 819	eosinophil cationic protein
+T10	cell_type 854 868	positive cells
+T11	cell_type 874 885	eosinophils
+T12	protein 934 943	receptors
+T13	cell_type 976 987	eosinophils

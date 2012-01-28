@@ -1,0 +1,36 @@
+T1	protein 0 16	Protein kinase C
+T2	protein 27 30	Fas
+T3	protein 33 43	CD95/APO-1
+T4	protein 59 62	Fas
+T5	protein 65 75	CD95/APO-1
+T6	protein 83 104	transmembrane protein
+T7	protein 112 152	TNF/neuron growth factor receptor family
+T8	protein 167 170	Fas
+T9	protein 174 186	specific Abs
+T10	protein 190 200	Fas ligand
+T11	protein 203 219	FasL/CD95 ligand
+T12	protein 354 357	Fas
+T13	protein 420 423	Fas
+T14	cell_line 483 512	murine T cell hybridoma model
+T15	cell_line 513 517	A1.1
+T16	protein 542 558	protein kinase C
+T17	protein 561 564	PKC
+T18	protein 609 612	Fas
+T19	protein 658 661	PKC
+T20	protein 720 723	TCR
+T21	protein 761 764	Fas
+T22	protein 780 783	PKC
+T23	protein 795 798	Fas
+T24	cell_line 839 872	murine and human tumor cell lines
+T25	protein 1054 1070	TCR-induced FasL
+T26	protein 1079 1082	Fas
+T27	protein 1103 1106	Fas
+T28	DNA 1207 1226	Fas-regulatory gene
+T29	DNA 1229 1235	TDAG51
+T30	protein 1285 1288	PKC
+T31	protein 1291 1294	PKC
+T32	protein 1319 1322	Fas
+T33	DNA 1364 1370	TDAG51
+T34	protein 1380 1383	Fas
+T35	protein 1417 1420	PKC
+T36	DNA 1429 1435	TDAG51

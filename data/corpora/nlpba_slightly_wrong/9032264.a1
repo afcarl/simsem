@@ -1,0 +1,51 @@
+T1	protein 15 83	novel human myeloid-cell-specific C/EBP-epsilon transcription factor
+T2	protein 86 119	Chicken NF-M transcription factor
+T3	protein 149 154	c-Myb
+T4	protein 158 163	v-Myb
+T5	DNA 211 238	myeloid-cell-specific genes
+T6	cell_type 242 265	heterologous cell types
+T7	cell_type 276 297	embryonic fibroblasts
+T8	protein 373 420	CCAAT/enhancer-binding protein ( C/EBP ) family
+T9	protein 424 450	transcriptional regulators
+T10	protein 485 497	chicken NF-M
+T11	protein 500 510	C/EBP-beta
+T12	protein 513 519	NF-IL6
+T13	DNA 538 549	NF-IL6 gene
+T14	cell_type 788 799	human cells
+T15	DNA 892 911	DNA-binding domains
+T16	protein 948 960	C/EBP family
+T17	protein 964 990	transcriptional regulators
+T18	DNA 1010 1026	novel human gene
+T19	DNA 1052 1069	C/EBP gene family
+T20	protein 1107 1111	CRP1
+T21	protein 1114 1127	C/EBP-epsilon
+T22	DNA 1132 1143	1.2-kb cDNA
+T23	DNA 1165 1184	human C/EBP-epsilon
+T24	DNA 1203 1259	promyelocyte-late myeloblast-derived lambda gt11 library
+T25	DNA 1342 1347	exons
+T26	RNA 1456 1474	C/EBP-epsilon mRNA
+T27	DNA 1499 1523	transcription start site
+T28	DNA 1561 1572	start codon
+T29	DNA 1690 1700	TATAAA box
+T30	DNA 1721 1742	purine-rich stretches
+T31	protein 1786 1796	Ets family
+T32	protein 1800 1826	transcriptional regulators
+T33	cell_line 1951 1999	promyelocyte and late-myeloblast-like cell lines
+T34	protein 2053 2089	rabbit anti-C/EBP-epsilon antibodies
+T35	protein 2109 2127	N-terminal portion
+T36	protein 2131 2144	C/EBP-epsilon
+T37	protein 2147 2167	amino acids 1 to 115
+T38	protein 2182 2195	C/EBP-epsilon
+T39	protein 2201 2230	32-kDa nuclear phosphoprotein
+T40	protein 2243 2256	C/EBP-epsilon
+T41	DNA 2306 2358	double-stranded DNA containing consensus C/EBP sites
+T42	protein 2383 2396	C/EBP-epsilon
+T43	DNA 2453 2503	chloramphenicol acetyltransferase reporter vectors
+T44	DNA 2515 2578	myeloid-cell-specific c-mim and human myeloperoxidase promoters
+T45	protein 2600 2613	C/EBP-epsilon
+T46	protein 2614 2634	transcription factor
+T47	DNA 2668 2695	myeloid-cell-specific genes
+T48	cell_line 2725 2747	promyelocyte cell line
+T49	cell_line 2750 2753	NB4
+T50	DNA 2763 2795	C/EBP-epsilon expression plasmid
+T51	protein 2849 2862	C/EBP-epsilon

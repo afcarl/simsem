@@ -1,0 +1,20 @@
+T1	cell_line 69 101	cultured human endothelial cells
+T2	cell_type 402 430	stimulated endothelial cells
+T3	cell_type 433 436	ECs
+T4	cell_type 462 465	ECs
+T5	protein 559 563	IL-1
+T6	protein 598 606	thrombin
+T7	protein 810 814	IL-1
+T8	RNA 917 932	E-selectin mRNA
+T9	protein 964 974	E-selectin
+T10	protein 1017 1036	monoclonal antibody
+T11	protein 1040 1050	E-selectin
+T12	protein 1279 1295	Protein kinase C
+T13	protein 1298 1301	PKC
+T14	protein 1402 1405	PKC
+T15	protein 1450 1470	transcription factor
+T16	protein 1471 1481	NF-kappa B
+T17	protein 1533 1543	E-selectin
+T18	cell_line 1558 1560	EC
+T19	protein 1668 1688	transcription factor
+T20	protein 1695 1703	cytokine

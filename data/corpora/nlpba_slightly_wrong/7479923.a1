@@ -1,0 +1,21 @@
+T1	protein 19 37	NF-kappa B protein
+T2	protein 316 338	nuclear factor kappa B
+T3	protein 341 351	NF-kappa B
+T4	cell_line 371 422	ined in in vitro activated normal human lymphocytes
+T5	protein 508 525	50-kDa NF-kappa B
+T6	protein 528 531	p50
+T7	protein 554 558	p105
+T8	protein 774 777	p50
+T9	protein 972 975	p50
+T10	protein 1028 1046	NF-kappa B protein
+T11	protein 1056 1061	c-rel
+T12	protein 1125 1153	specific DNA-protein complex
+T13	protein 1239 1267	NF-kappa B DNA binding motif
+T14	protein 1340 1350	NF-kappa B
+T15	cell_line 1354 1366	Jurkat cells
+T16	DNA 1398 1407	construct
+T17	DNA 1424 1438	tandem repeats
+T18	DNA 1446 1473	NF-kappa B binding sequence
+T19	DNA 1481 1518	immunoglobulin kappa light chain gene
+T20	DNA 1533 1580	chloramphenicol acetyltransferase reporter gene
+T21	protein 1658 1668	NF-kappa B

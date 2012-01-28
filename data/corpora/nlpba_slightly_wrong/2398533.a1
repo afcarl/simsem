@@ -1,0 +1,29 @@
+T1	DNA 34 78	human T-cell leukemia virus type II rex gene
+T2	protein 100 106	p24rex
+T3	DNA 235 278	nonstructural trans-acting regulatory genes
+T4	DNA 281 284	tax
+T5	DNA 289 292	rex
+T6	DNA 310 320	3 ' region
+T7	DNA 328 340	viral genome
+T8	protein 347 363	tax gene product
+T9	protein 366 379	HTLV-I p40tax
+T10	protein 384 398	HTLV-II p37tax
+T11	DNA 441 467	viral long terminal repeat
+T12	DNA 474 482	rex gene
+T13	protein 514 527	p27rex/p21rex
+T14	protein 532 545	p26rex/p24rex
+T15	protein 585 588	Rex
+T16	protein 658 665	gag/pol
+T17	RNA 685 693	env mRNA
+T18	cell_type 714 733	HTLV-infected cells
+T19	DNA 786 794	rex gene
+T20	protein 811 814	Rex
+T21	protein 880 883	Rex
+T22	DNA 953 961	rex gene
+T23	protein 1013 1019	p21rex
+T24	protein 1045 1051	p24rex
+T25	RNA 1104 1116	tax/rex mRNA
+T26	DNA 1230 1238	rex gene
+T27	protein 1242 1245	Rex
+T28	protein 1306 1312	p24rex
+T29	DNA 1439 1447	rex gene

@@ -1,0 +1,15 @@
+T1	cell_type 157 181	antigen presenting cells
+T2	protein 234 251	Class I molecules
+T3	protein 299 317	DNA binding domain
+T4	protein 325 356	Drosophila transcription factor
+T5	protein 359 371	Antennapedia
+T6	protein 378 399	60 amino acid protein
+T7	protein 462 470	antigens
+T8	cell_type 828 832	APCs
+T9	cell_type 879 882	CTL
+T10	cell_line 939 976	ovalbumin expressing tumour cell line
+T11	cell_line 979 987	E.G7-OVA
+T12	cell_type 1059 1063	APCs
+T13	protein 1128 1138	C-terminus
+T14	protein 1142 1152	N-terminus
+T15	cell_type 1284 1288	CTLs

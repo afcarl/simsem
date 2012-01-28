@@ -1,0 +1,37 @@
+T1	protein 11 14	YY1
+T2	protein 19 23	Oct1
+T3	protein 76 80	IL-5
+T4	cell_type 90 97	T cells
+T5	protein 113 117	IL-5
+T6	protein 279 283	IL-5
+T7	protein 340 344	IL-5
+T8	cell_type 377 384	T cells
+T9	DNA 515 544	human IL-5 ( hIL-5 ) promoter
+T10	protein 651 655	IL-5
+T11	cell_type 673 680	T cells
+T12	protein 728 735	DNase I
+T13	DNA 936 959	protein binding regions
+T14	DNA 962 965	BRs
+T15	DNA 987 1010	proximal hIL-5 promoter
+T16	DNA 1052 1055	BRs
+T17	DNA 1083 1097	hIL-5 promoter
+T18	DNA 1132 1135	BR3
+T19	DNA 1140 1143	BR4
+T20	protein 1231 1235	IL-5
+T21	cell_type 1250 1257	T cells
+T22	DNA 1277 1280	BR3
+T23	DNA 1307 1334	negative regulatory element
+T24	DNA 1374 1388	hIL-5 promoter
+T25	protein 1403 1407	Oct1
+T26	protein 1410 1422	octamer-like
+T27	protein 1429 1448	YY1 nuclear factors
+T28	DNA 1525 1537	BR3 sequence
+T29	DNA 1564 1578	hIL-5 promoter
+T30	cell_type 1591 1608	activated T cells
+T31	protein 1640 1644	Oct1
+T32	protein 1647 1650	YY1
+T33	protein 1657 1677	octamer-like factors
+T34	DNA 1693 1709	-90/-79 sequence
+T35	DNA 1721 1743	proximal IL-5 promoter
+T36	protein 1775 1779	IL-5
+T37	cell_type 1797 1804	T cells

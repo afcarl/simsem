@@ -1,0 +1,48 @@
+T1	DNA 4 47	Epstein-Barr virus latency BamHI-Q promoter
+T2	protein 75 80	STATs
+T3	protein 85 88	Zta
+T4	protein 107 110	JAK
+T5	protein 111 116	/STAT
+T6	DNA 145 161	BamHI-Q promoter
+T7	protein 300 339	EBV-encoded nuclear antigen ( EBNA ) -1
+T8	protein 397 402	EBNAs
+T9	protein 429 433	EBNA
+T10	DNA 474 490	BamHI-Q promoter
+T11	DNA 493 495	Qp
+T12	protein 528 531	JAK
+T13	protein 532 537	/STAT
+T14	DNA 567 569	Qp
+T15	DNA 618 633	Qp-CAT reporter
+T16	protein 665 670	JAK-1
+T17	protein 706 714	cytokine
+T18	protein 715 719	IL-6
+T19	DNA 737 739	Qp
+T20	protein 748 814	signal transducer and activator of transcription ( STAT ) proteins
+T21	DNA 909 927	STAT-binding sites
+T22	DNA 936 938	Qp
+T23	protein 957 980	Janus kinase ( JAK ) -1
+T24	protein 1010 1015	STATs
+T25	DNA 1019 1021	Qp
+T26	DNA 1033 1035	Qp
+T27	cell_line 1042 1072	Burkitt 's lymphoma Rael cells
+T28	cell_type 1077 1124	cultured nasopharyngeal carcinoma ( NPC ) cells
+T29	protein 1143 1155	STAT protein
+T30	cell_line 1208 1235	EBV-positive NPC cell lines
+T31	DNA 1262 1264	Qp
+T32	cell_line 1293 1312	NPC cell line HK666
+T33	DNA 1348 1353	BZLF1
+T34	protein 1370 1373	Zta
+T35	DNA 1386 1388	Qp
+T36	protein 1435 1438	Zta
+T37	DNA 1476 1478	Qp
+T38	protein 1499 1502	Zta
+T39	DNA 1511 1513	Qp
+T40	protein 1578 1581	Zta
+T41	protein 1630 1633	Zta
+T42	protein 1651 1654	p53
+T43	protein 1664 1667	p53
+T44	protein 1696 1699	JAK
+T45	protein 1700 1705	/STAT
+T46	DNA 1720 1722	Qp
+T47	protein 1745 1748	JAK
+T48	protein 1749 1754	/STAT

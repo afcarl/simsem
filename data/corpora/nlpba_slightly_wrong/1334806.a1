@@ -1,0 +1,15 @@
+T1	protein 14 42	anti-CD3 monoclonal antibody
+T2	cell_type 252 265	human T cells
+T3	cell_type 420 427	T cells
+T4	protein 436 480	glucocorticoid and beta-adrenergic receptors
+T5	cell_type 738 745	T cells
+T6	cell_type 795 802	T cells
+T7	protein 830 858	anti-CD3 monoclonal antibody
+T8	protein 861 864	mAb
+T9	protein 945 958	anti-CD28 mAb
+T10	cell_type 1125 1132	T cells
+T11	protein 1247 1259	anti-CD3 mAb
+T12	cell_type 1286 1293	T cells
+T13	cell_type 1855 1862	T cells
+T14	protein 1924 1937	anti-CD28 mAb
+T15	cell_type 1941 1972	anti-CD3 mAb-stimulated T cells

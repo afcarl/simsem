@@ -1,0 +1,12 @@
+T1	protein 45 55	G proteins
+T2	cell_type 131 141	human PBMC
+T3	protein 255 290	guanine nucleotide-binding proteins
+T4	protein 293 303	G proteins
+T5	cell_type 377 393	fresh human PBMC
+T6	protein 657 665	Gs alpha
+T7	protein 668 678	Gi alpha 1
+T8	protein 685 691	p21ras
+T9	protein 853 863	NF-kappa B
+T10	cell_type 912 931	permeabilized cells
+T11	protein 1026 1049	45- and 41-kDa proteins
+T12	protein 1088 1098	G proteins

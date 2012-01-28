@@ -1,0 +1,26 @@
+T1	protein 65 69	AP-1
+T2	cell_type 90 105	human monocytes
+T3	protein 180 204	proinflammatory mediator
+T4	DNA 232 263	proto-oncogenes c-jun and c-fos
+T5	protein 311 326	nuclear factors
+T6	DNA 355 367	AP-1 element
+T7	DNA 430 440	c-fos gene
+T8	RNA 493 503	c-jun mRNA
+T9	cell_type 543 575	human peripheral-blood monocytes
+T10	DNA 679 684	c-fos
+T11	RNA 767 777	c-fos mRNA
+T12	DNA 826 831	c-jun
+T13	DNA 905 910	c-fos
+T14	RNA 915 925	c-jun mRNA
+T15	DNA 1088 1098	c-fos gene
+T16	DNA 1114 1124	c-jun gene
+T17	cell_type 1136 1153	Resting monocytes
+T18	protein 1164 1179	nuclear factors
+T19	DNA 1195 1207	AP-1 element
+T20	cell_type 1229 1238	monocytes
+T21	protein 1265 1269	AP-1
+T22	protein 1291 1307	nuclear proteins
+T23	protein 1384 1393	cytokines
+T24	protein 1441 1462	transcription factors
+T25	protein 1471 1475	AP-1
+T26	protein 1485 1508	proto-oncogene products

@@ -1,0 +1,30 @@
+T1	DNA 18 36	interleukin 6 gene
+T2	protein 104 126	nuclear factors NF-IL6
+T3	protein 131 141	NF-kappa B
+T4	protein 353 362	Cytokines
+T5	cell_type 505 527	mononuclear phagocytes
+T6	protein 594 602	cytokine
+T7	protein 603 616	interleukin 6
+T8	protein 619 623	IL-6
+T9	protein 751 768	lipoarabinomannan
+T10	protein 771 774	LAM
+T11	cell_type 882 904	mononuclear phagocytes
+T12	protein 916 920	IL-6
+T13	protein 949 952	LAM
+T14	DNA 985 994	IL-6 gene
+T15	cell_type 1009 1035	peripheral blood monocytes
+T16	protein 1043 1046	LAM
+T17	DNA 1052 1079	LPS-inducible IL-6 promoter
+T18	DNA 1108 1120	DNA fragment
+T19	DNA 1133 1144	-158 to -49
+T20	protein 1172 1205	chloramphenicol acetyltransferase
+T21	protein 1218 1239	nuclear factor NF-IL6
+T22	DNA 1252 1264	-153 to -145
+T23	DNA 1290 1347	nuclear factor NF-kappa B ( positions -72 to -63 ) motifs
+T24	protein 1451 1455	IL-6
+T25	DNA 1654 1667	IL-6 promoter
+T26	protein 1685 1688	LAM
+T27	DNA 1720 1747	NF-IL6 and NF-kappa B sites
+T28	protein 1756 1760	IL-6
+T29	protein 1799 1802	LAM
+T30	DNA 1815 1859	bacterial or mycobacterial response elements

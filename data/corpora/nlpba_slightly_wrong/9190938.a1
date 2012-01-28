@@ -1,0 +1,47 @@
+T1	protein 4 48	IL-4 receptor alpha-chain cytoplasmic domain
+T2	protein 81 86	JAK-1
+T3	protein 91 96	STAT6
+T4	protein 118 122	IL-4
+T5	protein 155 173	common gamma-chain
+T6	protein 176 187	gamma ( c )
+T7	protein 223 228	IL-4R
+T8	protein 249 260	gamma ( c )
+T9	protein 284 288	IL-4
+T10	protein 329 351	surrogate gamma'-chain
+T11	protein 382 399	IL-4R alpha chain
+T12	protein 453 464	gamma ( c )
+T13	protein 520 531	gamma ( c )
+T14	protein 538 555	IL-4R alpha chain
+T15	protein 643 660	chimeric receptor
+T16	protein 676 696	extracellular domain
+T17	protein 700 705	c-kit
+T18	protein 712 745	stem cell factor ( SCF ) receptor
+T19	protein 756 793	cytoplasmic and transmembrane domains
+T20	protein 801 818	IL-4R alpha chain
+T21	protein 869 886	chimeric receptor
+T22	protein 887 902	kit/IL-4R alpha
+T23	protein 908 911	SCF
+T24	protein 938 967	IL-4R alpha-associated kinase
+T25	protein 968 973	JAK-1
+T26	protein 982 1002	transcription factor
+T27	protein 1003 1008	STAT6
+T28	protein 1049 1054	JAK-3
+T29	protein 1079 1090	gamma ( c )
+T30	protein 1111 1114	SCF
+T31	protein 1132 1135	SCF
+T32	protein 1158 1173	kit/IL-4R alpha
+T33	protein 1198 1202	IL-4
+T34	protein 1258 1262	CD23
+T35	RNA 1280 1309	germ-line epsilon transcripts
+T36	cell_line 1319 1336	T cell line CTLL2
+T37	protein 1351 1366	kit/IL-4R alpha
+T38	cell_line 1413 1439	JAK-1-deficient HeLa cells
+T39	protein 1442 1447	STAT6
+T40	protein 1462 1466	IL-4
+T41	protein 1536 1566	IL-4R alpha cytoplasmic domain
+T42	protein 1593 1598	JAK-1
+T43	protein 1603 1608	STAT6
+T44	DNA 1637 1654	IL-4 target genes
+T45	protein 1695 1699	IL-4
+T46	protein 1740 1745	JAK-3
+T47	protein 1750 1761	gamma ( c )

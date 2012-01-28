@@ -1,0 +1,24 @@
+T1	protein 14 34	transcription factor
+T2	protein 35 40	Stat1
+T3	cell_line 53 78	mononuclear cell cultures
+T4	cell_type 83 90	T cells
+T5	cell_type 143 150	T cells
+T6	protein 285 306	transcription factors
+T7	protein 324 388	signal transducer and activator of transcription ( STAT ) family
+T8	cell_line 405 436	PHA-activated mononuclear cells
+T9	cell_line 444 460	purified T cells
+T10	protein 488 504	cell surface CD3
+T11	protein 558 562	STAT
+T12	protein 655 660	Stat1
+T13	protein 665 670	Stat3
+T14	protein 901 909	cytokine
+T15	protein 988 993	Stat1
+T16	protein 1051 1075	IL-2 receptor components
+T17	protein 1098 1123	IL-4 receptor alpha-chain
+T18	protein 1128 1132	CD69
+T19	protein 1164 1205	activator protein 1 transcription factors
+T20	protein 1233 1238	Stat1
+T21	protein 1403 1407	STAT
+T22	protein 1512 1520	cytokine
+T23	protein 1532 1544	Janus kinase
+T24	protein 1545 1550	-STAT

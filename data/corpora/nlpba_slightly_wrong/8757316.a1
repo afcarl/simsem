@@ -1,0 +1,40 @@
+T1	protein 0 38	Alpha 4 beta 1 ( CD49d/CD29 ) integrin
+T2	cell_type 56 69	human T cells
+T3	protein 79 99	transcription factor
+T4	protein 164 172	anti-CD3
+T5	protein 191 214	integrin alpha 4 beta 1
+T6	protein 250 254	IL-2
+T7	protein 269 274	IL-2R
+T8	cell_type 334 358	peripheral blood T cells
+T9	protein 386 390	IL-2
+T10	protein 414 459	recombinant vascular-cell adhesion molecule-1
+T11	protein 487 499	anti-CD3 mAb
+T12	protein 542 563	transcription factors
+T13	protein 564 569	NF-AT
+T14	protein 572 576	AP-1
+T15	protein 583 593	NF-kappa B
+T16	protein 642 656	alpha 4 beta 1
+T17	protein 689 709	transcription factor
+T18	protein 754 775	transcription factors
+T19	protein 833 842	cytokines
+T20	protein 855 859	IL-2
+T21	protein 862 871	TNF-alpha
+T22	protein 874 883	IFN-gamma
+T23	protein 890 916	granulocyte macrophage-CSF
+T24	cell_type 934 958	freshly isolated T cells
+T25	cell_line 964 986	vitro-cultured T cells
+T26	protein 1021 1029	cytokine
+T27	protein 1055 1063	anti-CD3
+T28	protein 1107 1115	anti-CD3
+T29	protein 1172 1176	IL-2
+T30	protein 1213 1221	anti-CD3
+T31	cell_type 1231 1247	freshly isolated
+T32	cell_line 1252 1268	cultured T cells
+T33	protein 1297 1301	OKT3
+T34	protein 1400 1414	alpha 4 beta 1
+T35	protein 1454 1468	alpha 4 beta 1
+T36	protein 1587 1601	alpha 4 beta 1
+T37	cell_type 1605 1629	freshly isolated T cells
+T38	protein 1705 1712	TCR/CD3
+T39	protein 1756 1777	transcription factors
+T40	DNA 1791 1804	cytokine gene

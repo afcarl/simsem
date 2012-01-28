@@ -1,0 +1,33 @@
+T1	protein 46 50	tyk2
+T2	protein 55 59	Jak1
+T3	protein 93 104	STAT1 alpha
+T4	protein 109 124	STAT3 complexes
+T5	cell_type 128 141	human T cells
+T6	cell_type 146 155	monocytes
+T7	protein 158 163	IL-10
+T8	cell_type 172 181	monocytes
+T9	cell_type 186 193	T cells
+T10	cell_type 335 344	monocytes
+T11	cell_type 349 356	T cells
+T12	protein 357 362	IL-10
+T13	protein 406 424	signal transducers
+T14	protein 429 456	activators of transcription
+T15	protein 459 470	STAT1 alpha
+T16	protein 475 480	STAT3
+T17	protein 544 566	homo- and heterodimers
+T18	cell_type 614 623	monocytes
+T19	protein 640 669	IL-10-stimulated STAT protein
+T20	protein 689 695	70 kDa
+T21	protein 722 735	anti-STAT3 Ab
+T22	cell_type 759 766	T cells
+T23	protein 769 774	IL-10
+T24	cell_type 793 800	T cells
+T25	cell_type 805 814	monocytes
+T26	protein 873 877	tyk2
+T27	protein 882 886	Jak1
+T28	protein 897 901	Jak2
+T29	protein 905 909	Jak3
+T30	protein 961 966	IL-10
+T31	cell_type 984 993	monocytes
+T32	cell_type 998 1005	T cells
+T33	protein 1061 1079	STAT protein pairs

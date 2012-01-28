@@ -1,0 +1,24 @@
+T1	DNA 18 56	Runt domain-encoding PEBP2 alpha genes
+T2	cell_type 60 67	T cells
+T3	DNA 100 137	PEBP2 alpha A and PEBP2 alpha B genes
+T4	protein 149 168	DNA-binding subunit
+T5	protein 174 201	murine transcription factor
+T6	protein 204 209	PEBP2
+T7	protein 237 278	T-cell-specific transcriptional regulator
+T8	protein 360 371	Runt domain
+T9	protein 374 387	PEBP2 alpha B
+T10	protein 395 413	murine counterpart
+T11	protein 417 427	human AML1
+T12	DNA 473 516	8 ; 21 and 3 ; 21 chromosome translocations
+T13	protein 730 743	PEBP2 alpha A
+T14	protein 748 772	mouse AML1/PEBP2 alpha B
+T15	cell_type 790 803	T lymphocytes
+T16	cell_type 1038 1104	CD4- CD8- , CD4+ CD8+ , CD4+ CD8- , and CD4- CD8+ cell populations
+T17	cell_type 1162 1169	T cells
+T18	protein 1228 1233	PEBP2
+T19	protein 1239 1275	T-cell-specific transcription factor
+T20	protein 1293 1317	mouse AML1/PEBP2 alpha B
+T21	cell_type 1384 1401	bone marrow cells
+T22	protein 1445 1463	AML1/PEBP2 alpha B
+T23	cell_type 1478 1497	hematopoietic cells
+T24	cell_type 1518 1532	T-cell lineage

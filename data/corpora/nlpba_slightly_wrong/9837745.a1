@@ -1,0 +1,21 @@
+T1	protein 0 14	Interleukin-12
+T2	cell_type 29 36	B cells
+T3	protein 90 112	interleukin ( IL ) -12
+T4	cell_line 145 190	Epstein-Barr ( EBV ) -transformed B cell line
+T5	protein 237 242	IL-12
+T6	protein 341 346	IL-12
+T7	protein 405 410	IL-12
+T8	cell_type 425 432	B cells
+T9	cell_type 475 499	Human peripheral B cells
+T10	protein 619 644	latent membrane protein 1
+T11	protein 647 651	LMP1
+T12	cell_type 669 676	B cells
+T13	RNA 687 703	p40 and p35 mRNA
+T14	DNA 831 853	LMP1 expression vector
+T15	cell_line 861 887	human B lymphoma cell line
+T16	cell_line 890 895	Daudi
+T17	protein 905 908	p40
+T18	protein 925 954	nuclear factor ( NF ) -kappaB
+T19	cell_type 1013 1028	primary B cells
+T20	protein 1046 1051	IL-12
+T21	protein 1083 1087	LMP1

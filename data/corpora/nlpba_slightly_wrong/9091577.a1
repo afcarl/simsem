@@ -1,0 +1,32 @@
+T1	protein 0 50	Signal transducer and activator of transcription-3
+T2	protein 53 58	STAT3
+T3	cell_type 101 124	self-renewing B-1 cells
+T4	cell_type 170 183	B lymphocytes
+T5	protein 201 209	Cytokine
+T6	protein 214 236	growth factor receptor
+T7	protein 310 388	cytosolic signal transducers and activators of transcription ( STAT ) proteins
+T8	DNA 477 504	specific promoter sequences
+T9	protein 507 512	STAT3
+T10	protein 563 566	Abl
+T11	protein 569 572	Src
+T12	cell_type 604 616	normal cells
+T13	cell_type 619 634	B-1 lymphocytes
+T14	cell_type 655 667	CD5+ B cells
+T15	cell_type 805 814	B-1 cells
+T16	cell_type 958 973	B-1 lymphocytes
+T17	protein 997 1020	nuclear activated STAT3
+T18	cell_type 1049 1095	unmanipulated conventional ( B-2 ) lymphocytes
+T19	protein 1112 1117	STAT3
+T20	cell_type 1143 1152	B-2 cells
+T21	protein 1237 1242	STAT3
+T22	protein 1433 1436	sIg
+T23	protein 1441 1454	STAT proteins
+T24	protein 1500 1504	STAT
+T25	protein 1518 1536	cytokine receptors
+T26	cell_type 1594 1603	B-2 cells
+T27	protein 1609 1616	anti-Ig
+T28	protein 1652 1655	CD5
+T29	protein 1692 1697	STAT3
+T30	protein 1723 1728	STAT3
+T31	cell_type 1762 1771	B-1 cells
+T32	protein 1781 1786	STAT3

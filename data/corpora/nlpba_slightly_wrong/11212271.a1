@@ -1,0 +1,11 @@
+T1	cell_type 32 70	human NB4 promyelocytic leukemia cells
+T2	cell_line 404 421	cancer cell lines
+T3	cell_line 703 749	NB4 , a human promyelocytic leukemia cell line
+T4	protein 841 869	PML-RAR alpha fusion protein
+T5	cell_line 944 953	NB4 cells
+T6	cell_line 1193 1202	NB4 cells
+T7	protein 1370 1415	maturation specific cell surface marker CD11c
+T8	protein 1521 1534	PML-RAR alpha
+T9	protein 2020 2047	RAR alpha nuclear receptors
+T10	cell_line 2146 2155	NB4 cells
+T11	cell_type 2236 2249	leukemia cell

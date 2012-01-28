@@ -1,0 +1,10 @@
+T1	cell_type 9 31	cytotoxic T lymphocyte
+T2	protein 48 87	immediate-early trans-activator protein
+T3	protein 90 95	BZLF1
+T4	cell_type 263 290	CD8+ cytotoxic T lymphocyte
+T5	protein 369 435	Epstein-Barr virus ( EBV ) immediate-early trans-activator protein
+T6	protein 438 443	BZLF1
+T7	cell_type 560 594	peripheral blood mononuclear cells
+T8	protein 904 954	EBV-associated , HLA-B8-restricted latent epitopes
+T9	cell_type 1060 1089	BZLF1-specific memory T cells
+T10	cell_type 1133 1157	lytically infected cells

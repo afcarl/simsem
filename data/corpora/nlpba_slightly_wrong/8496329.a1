@@ -1,0 +1,23 @@
+T1	DNA 25 50	thyrotropin receptor gene
+T2	protein 156 205	major histocompatibility complex classes I and II
+T3	DNA 216 255	human TSH receptor ( TSH-R ) cDNA probe
+T4	protein 274 279	TSH-R
+T5	protein 464 469	TSH-R
+T6	protein 559 577	thyroid peroxidase
+T7	protein 605 618	thyroglobulin
+T8	DNA 654 676	nuclear oncogene c-fos
+T9	protein 713 718	c-myc
+T10	protein 731 736	TSH-R
+T11	protein 819 865	major histocompatibility complex class I or II
+T12	protein 868 879	MHC I or II
+T13	protein 933 938	MHC I
+T14	protein 965 971	MHC II
+T15	cell_type 1045 1056	lymphocytes
+T16	cell_type 1059 1072	thyroid cells
+T17	protein 1103 1121	MHC II transcripts
+T18	protein 1124 1140	gamma-Interferon
+T19	cell_type 1291 1300	thyrocyte
+T20	protein 1374 1379	TSH-R
+T21	protein 1382 1400	thyroid peroxidase
+T22	protein 1403 1416	thyroglobulin
+T23	protein 1459 1471	MHC I and II

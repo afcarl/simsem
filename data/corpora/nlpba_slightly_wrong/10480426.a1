@@ -1,0 +1,9 @@
+T1	cell_type 0 10	Neutrophil
+T2	cell_type 54 64	Neutrophil
+T3	protein 159 176	molecular markers
+T4	cell_type 273 283	neutrophil
+T5	protein 421 438	nuclear receptors
+T6	DNA 489 501	target genes
+T7	cell_type 536 546	neutrophil
+T8	protein 649 671	retinoic acid receptor
+T9	cell_type 757 767	neutrophil

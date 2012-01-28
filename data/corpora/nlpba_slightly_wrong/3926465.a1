@@ -1,0 +1,30 @@
+T1	protein 29 66	urokinase-like plasminogen activators
+T2	cell_line 70 97	cultured human lymphoblasts
+T3	cell_line 104 132	human lymphoblast cell lines
+T4	cell_line 135 148	LICR-LON-HMy2
+T5	cell_line 151 161	HMy2 cells
+T6	cell_line 168 181	GM4672A cells
+T7	protein 358 402	urokinase ( UK ) -like plasminogen activator
+T8	protein 405 407	PA
+T9	cell_line 430 452	HMy2 and GM4672A cells
+T10	protein 498 500	PA
+T11	protein 616 618	PA
+T12	protein 753 777	glucocorticoid receptors
+T13	cell_line 780 789	HMy2 cell
+T14	protein 790 792	PA
+T15	cell_line 878 891	GM4672A cells
+T16	cell_line 1002 1019	Dex-treated cells
+T17	protein 1042 1077	glucocorticoid-inducible inhibitors
+T18	protein 1081 1083	UK
+T19	protein 1087 1094	plasmin
+T20	cell_line 1149 1174	Dex-treated GM4672A cells
+T21	cell_line 1265 1278	GM4672A cells
+T22	protein 1302 1337	glucocorticoid-inducible inhibitors
+T23	protein 1408 1418	GM4672A PA
+T24	protein 1430 1465	Glucocorticoid-inducible inhibitors
+T25	cell_line 1469 1479	HMy2 cells
+T26	protein 1567 1578	UK-like PAs
+T27	cell_line 1582 1604	HMy2 and GM4672A cells
+T28	protein 1673 1707	constitutively expressed activator
+T29	protein 1757 1792	glucocorticoid-inducible inhibitors
+T30	cell_line 1822 1835	GM4672A cells

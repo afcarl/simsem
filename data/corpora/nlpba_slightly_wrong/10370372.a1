@@ -1,0 +1,23 @@
+T1	protein 0 10	C/EBP beta
+T2	protein 209 260	nuclear transcription factor C/EBP beta ( NF-IL-6 )
+T3	protein 389 399	C/EBP beta
+T4	protein 515 525	C/EBP beta
+T5	cell_type 569 603	sublining cells of synovial tissue
+T6	protein 1036 1054	nuclear C/EBP beta
+T7	cell_type 1133 1144	macrophages
+T8	cell_type 1149 1177	fibroblast-like synoviocytes
+T9	protein 1204 1214	C/EBP beta
+T10	protein 1233 1243	C/EBP beta
+T11	cell_type 1322 1342	synovial fibroblasts
+T12	protein 1353 1363	C/EBP beta
+T13	cell_type 1385 1472	rheumatoid synovial fluid monocytes/macrophages , but not in lymphocytes or neutrophils
+T14	protein 1523 1533	C/EBP beta
+T15	protein 1568 1578	C/EBP beta
+T16	cell_type 1617 1641	synovial fluid monocytes
+T17	cell_type 1661 1698	normal or rheumatoid peripheral blood
+T18	protein 1751 1761	C/EBP beta
+T19	protein 1968 1978	C/EBP beta
+T20	protein 2010 2020	C/EBP beta
+T21	protein 2095 2105	C/EBP beta
+T22	cell_type 2155 2175	synovial macrophages
+T23	cell_type 2180 2191	fibroblasts

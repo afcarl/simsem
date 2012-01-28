@@ -1,0 +1,33 @@
+T1	protein 13 32	early B cell factor
+T2	protein 35 38	EBF
+T3	DNA 45 69	multiple B lineage genes
+T4	protein 77 120	basic helix-loop-helix transcription factor
+T5	protein 121 124	E12
+T6	protein 131 152	transcription factors
+T7	protein 168 171	E2A
+T8	protein 176 195	early B cell factor
+T9	protein 198 201	EBF
+T10	cell_type 253 266	B lymphocytes
+T11	cell_type 294 309	B lineage cells
+T12	protein 504 507	E2A
+T13	protein 512 515	EBF
+T14	cell_line 612 635	70Z/3 pre-B lymphocytes
+T15	protein 709 712	E2A
+T16	protein 717 720	EBF
+T17	protein 773 776	E2A
+T18	protein 785 788	E12
+T19	cell_line 797 812	macrophage line
+T20	DNA 841 861	many B lineage genes
+T21	protein 874 877	EBF
+T22	protein 880 889	IL7Ralpha
+T23	protein 892 899	lambda5
+T24	protein 940 957	kappa light chain
+T25	protein 997 1000	EBF
+T26	protein 1041 1044	E12
+T27	protein 1103 1106	EBF
+T28	protein 1152 1155	E12
+T29	cell_line 1227 1242	macrophage line
+T30	protein 1245 1248	E12
+T31	protein 1271 1274	EBF
+T32	protein 1294 1315	transcription factors
+T33	DNA 1347 1373	B lineage-associated genes

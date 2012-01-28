@@ -1,0 +1,29 @@
+T1	protein 13 17	p300
+T2	DNA 25 47	interleukin-2 promoter
+T3	protein 79 86	mitogen
+T4	cell_type 124 141	activated T-cells
+T5	protein 203 207	p300
+T6	DNA 215 246	interleukin-2 ( IL-2 ) promoter
+T7	protein 321 325	p300
+T8	protein 329 372	cAMP-responsive element-binding protein-Rel
+T9	protein 391 422	composite CD28 response element
+T10	protein 425 431	CD28RE
+T11	DNA 436 447	TRE element
+T12	DNA 455 468	IL-2 promoter
+T13	DNA 539 549	CD28RE-TRE
+T14	cell_type 581 593	human T-cell
+T15	protein 620 635	oncoprotein Tax
+T16	protein 690 694	p300
+T17	DNA 732 745	IL-2 promoter
+T18	protein 756 779	N-terminal 743 residues
+T19	DNA 863 873	CD28RE-TRE
+T20	DNA 880 893	IL-2 promoter
+T21	DNA 911 920	IL-2 gene
+T22	protein 957 961	p300
+T23	DNA 1052 1064	cis-elements
+T24	DNA 1076 1089	IL-2 promoter
+T25	protein 1129 1133	p300
+T26	DNA 1151 1164	IL-2 promoter
+T27	DNA 1257 1275	CD28RE-TRE element
+T28	DNA 1283 1296	IL-2 promoter
+T29	cell_type 1354 1371	activated T-cells

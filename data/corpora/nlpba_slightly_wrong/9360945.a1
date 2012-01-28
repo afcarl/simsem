@@ -1,0 +1,27 @@
+T1	protein 0 20	Transcription factor
+T2	protein 21 30	NF-kappaB
+T3	DNA 51 61	Oct-2 gene
+T4	cell_type 76 99	precursor B lymphocytes
+T5	protein 106 131	POU transcription factors
+T6	protein 132 137	Oct-1
+T7	protein 142 147	Oct-2
+T8	DNA 173 200	octamer-dependent promoters
+T9	protein 261 281	immunoglobulin genes
+T10	protein 291 296	Oct-1
+T11	protein 354 359	Oct-2
+T12	cell_type 398 411	B lymphocytes
+T13	cell_type 434 451	precursor B cells
+T14	protein 632 637	Oct-2
+T15	protein 689 698	NF-kappaB
+T16	protein 704 725	LPS-responsive member
+T17	protein 733 764	Rel transcription factor family
+T18	protein 816 825	NF-kappaB
+T19	cell_type 847 864	precursor B cells
+T20	protein 894 899	Oct-2
+T21	protein 953 958	Oct-2
+T22	DNA 1053 1063	Oct-2 gene
+T23	protein 1133 1138	Oct-1
+T24	protein 1173 1178	Oct-2
+T25	protein 1188 1197	NF-kappaB
+T26	protein 1274 1303	transcription factor families
+T27	cell_type 1318 1330	B lymphocyte

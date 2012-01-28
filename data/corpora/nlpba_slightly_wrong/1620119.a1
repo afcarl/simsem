@@ -1,0 +1,24 @@
+T1	protein 0 4	Oct2
+T2	DNA 28 52	remote enhancer position
+T3	protein 177 217	lymphocyte-specific transcription factor
+T4	protein 218 222	Oct2
+T5	DNA 252 260	promoter
+T6	protein 291 295	Oct2
+T7	DNA 333 370	multimerized octamer enhancer element
+T8	cell_line 374 384	HeLa cells
+T9	protein 425 438	Oct2 isoforms
+T10	DNA 507 523	octamer enhancer
+T11	cell_type 527 544	nonlymphoid cells
+T12	cell_line 551 562	B-cell line
+T13	protein 596 609	Oct2 isoforms
+T14	cell_type 690 697	B cells
+T15	protein 750 774	B-cell-specific cofactor
+T16	protein 807 815	cofactor
+T17	protein 823 835	Oct2 protein
+T18	protein 839 843	Oct2
+T19	protein 914 937	carboxy-terminal domain
+T20	protein 941 945	Oct2
+T21	protein 1054 1066	Oct1 protein
+T22	protein 1138 1170	glutamine-rich activation domain
+T23	protein 1186 1216	amino-terminal portion of Oct2
+T24	protein 1225 1235	POU domain

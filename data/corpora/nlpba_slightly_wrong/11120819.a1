@@ -1,0 +1,37 @@
+T1	protein 28 50	protein kinase C theta
+T2	protein 93 130	kappa B factor kinase ( IKK ) complex
+T3	protein 191 194	TCR
+T4	protein 199 203	CD28
+T5	protein 234 256	protein kinase C theta
+T6	protein 259 267	PKCtheta
+T7	protein 295 304	NF-kappaB
+T8	cell_type 316 351	primary human CD4 ( + ) lymphocytes
+T9	protein 370 382	PKC isoforms
+T10	cell_type 396 403	T cells
+T11	protein 411 419	PKCtheta
+T12	protein 518 521	TCR
+T13	protein 527 529	Ag
+T14	protein 555 558	TCR
+T15	protein 563 567	CD28
+T16	protein 610 653	multisubunit IkappaB kinase ( IKK ) complex
+T17	cell_type 657 684	primary human T lymphocytes
+T18	protein 808 816	PKCtheta
+T19	protein 854 867	IKK complexes
+T20	cell_type 871 918	CD3/CD28-costimulated primary CD4 ( + ) T cells
+T21	protein 983 991	PKCtheta
+T22	protein 996 1000	IKKs
+T23	cell_type 1077 1092	primary T cells
+T24	protein 1095 1099	IKKs
+T25	protein 1269 1277	PKCtheta
+T26	protein 1282 1287	IKKss
+T27	cell_line 1318 1354	CD3/CD28-costimulated Jurkat T cells
+T28	protein 1387 1411	kinase-inactive PKCtheta
+T29	protein 1422 1429	IKKbeta
+T30	cell_line 1433 1447	Jurkat T cells
+T31	protein 1464 1488	dominant-active PKCtheta
+T32	DNA 1525 1546	CD28 response element
+T33	DNA 1554 1567	IL-2 promoter
+T34	protein 1626 1634	PKCtheta
+T35	protein 1642 1645	TCR
+T36	protein 1650 1654	CD28
+T37	protein 1713 1726	IKK complexes

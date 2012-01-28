@@ -1,0 +1,22 @@
+T1	protein 13 34	transcription factors
+T2	cell_type 38 57	human T lymphocytes
+T3	protein 223 227	IL-2
+T4	cell_line 356 375	ALD-treated T cells
+T5	protein 429 443	protein kinase
+T6	protein 446 449	PKC
+T7	protein 490 509	anti-CD3 antibodies
+T8	protein 631 634	PKC
+T9	protein 665 688	tyrosine protein kinase
+T10	protein 747 770	tyrosine-protein kinase
+T11	RNA 817 826	IL-2 mRNA
+T12	cell_line 830 847	ALD-treated cells
+T13	DNA 921 941	regulatory sequences
+T14	DNA 949 969	IL-2 promoter region
+T15	protein 972 976	NFAT
+T16	protein 979 989	NF kappa B
+T17	protein 996 1000	AP-1
+T18	cell_type 1050 1067	activated T cells
+T19	protein 1088 1092	AP-1
+T20	protein 1130 1133	PKC
+T21	protein 1300 1319	anti-CD3 antibodies
+T22	protein 1430 1451	transcription factors

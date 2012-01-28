@@ -1,0 +1,16 @@
+T1	cell_type 57 70	human T cells
+T2	protein 382 403	interleukin ( IL ) -4
+T3	cell_type 436 490	freshly isolated and mitogen-primed human CD4+ T cells
+T4	protein 526 531	IL-13
+T5	protein 534 550	interferon-gamma
+T6	protein 557 561	IL-2
+T7	protein 589 593	IL-4
+T8	protein 604 608	IL-2
+T9	cell_line 699 713	Jurkat T cells
+T10	cell_type 853 860	T cells
+T11	protein 968 972	IL-4
+T12	protein 1121 1168	salicylate target nuclear factor ( NF ) -kappaB
+T13	DNA 1237 1257	IL-4 promoter region
+T14	DNA 1298 1355	NF of activated T cells- and NF-kappaB-binding P1 element
+T15	protein 1569 1573	IL-4
+T16	cell_type 1620 1632	CD4+ T cells

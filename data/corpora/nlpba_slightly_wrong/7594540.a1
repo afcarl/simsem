@@ -1,0 +1,38 @@
+T1	protein 0 18	Nuclear factor-IL6
+T2	DNA 33 52	human IL-4 promoter
+T3	cell_type 56 63	T cells
+T4	DNA 66 95	Positive regulatory element I
+T5	DNA 98 103	PRE-I
+T6	DNA 118 134	enhancer element
+T7	DNA 167 182	human IL-4 gene
+T8	protein 197 218	transcription factors
+T9	DNA 230 235	PRE-I
+T10	DNA 252 275	cDNA expression library
+T11	cell_line 281 295	Jurkat T cells
+T12	DNA 311 315	cDNA
+T13	protein 325 339	nuclear factor
+T14	protein 340 351	( NF ) -IL6
+T15	protein 368 378	C/EBP beta
+T16	RNA 383 394	NF-IL6 mRNA
+T17	cell_line 408 428	human Jurkat T cells
+T18	cell_line 440 455	mouse Th2 clone
+T19	cell_line 456 459	D10
+T20	cell_line 473 485	Th1 clone 29
+T21	protein 488 495	rNF-IL6
+T22	DNA 552 557	PRE-I
+T23	DNA 560 565	PRE-I
+T24	protein 572 602	multiple DNA-protein complexes
+T25	cell_line 630 642	Jurkat cells
+T26	protein 698 704	NF-IL6
+T27	protein 714 733	anti-C/EBP beta Abs
+T28	protein 754 760	NF-IL6
+T29	DNA 788 836	chloramphenicol acetyl transferase reporter gene
+T30	protein 851 873	PRE-I-thymidine kinase
+T31	DNA 881 900	human IL-4 promoter
+T32	cell_line 922 934	Jurkat cells
+T33	DNA 987 1007	NF-IL6 binding sites
+T34	protein 1042 1056	C/EBP proximal
+T35	protein 1076 1088	C/EBP medial
+T36	protein 1137 1143	NF-IL6
+T37	DNA 1193 1212	human IL-4 promoter
+T38	cell_type 1216 1223	T cells

@@ -1,0 +1,27 @@
+T1	protein 0 20	Activation protein 1
+T2	DNA 62 80	interleukin 2 gene
+T3	protein 84 117	Ca2+/calmodulin kinase type IV/Gr
+T4	protein 124 184	Ca2+/calmodulin-dependent protein kinase ( CaMK ) type IV/Gr
+T5	cell_type 213 226	T lymphocytes
+T6	protein 268 291	T cell antigen receptor
+T7	protein 294 297	TCR
+T8	protein 398 401	TCR
+T9	protein 433 442	CaMKIV/Gr
+T10	protein 455 496	transcription factor activation protein 1
+T11	protein 499 503	AP-1
+T12	protein 531 546	T cell mitogens
+T13	protein 560 578	p21ras oncoprotein
+T14	protein 581 591	CaMKIV/ Gr
+T15	DNA 651 656	c-fos
+T16	DNA 679 685	p21ras
+T17	protein 689 700	calcineurin
+T18	protein 703 707	AP-1
+T19	protein 740 808	nuclear factor of activated T cells ( NFAT ) transcriptional complex
+T20	DNA 833 851	interleukin 2 gene
+T21	cell_type 866 873	T cells
+T22	protein 896 905	CaMKIV/Gr
+T23	protein 963 967	NFAT
+T24	DNA 997 1007	NFAT sites
+T25	cell_type 1016 1023	T cells
+T26	protein 1066 1075	CaMKIV/Gr
+T27	cell_type 1137 1150	T lymphocytes

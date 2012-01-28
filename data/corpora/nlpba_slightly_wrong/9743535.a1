@@ -1,0 +1,20 @@
+T1	protein 16 29	interleukin 6
+T2	protein 34 81	granulocyte colony-stimulating factor receptors
+T3	protein 85 105	transcription factor
+T4	protein 106 142	CCAAT enhancer binding protein alpha
+T5	protein 145 156	C/EBP alpha
+T6	protein 310 331	transcription factors
+T7	RNA 368 429	granulocyte colony-stimulating factor ( G-CSF ) receptor mRNA
+T8	protein 485 521	CCAAT enhancer binding protein alpha
+T9	protein 524 534	C/EBPalpha
+T10	protein 695 705	C/EBPalpha
+T11	protein 736 767	interleukin 6 ( IL-6 ) receptor
+T12	protein 772 808	IL-6-responsive colony-forming units
+T13	protein 811 818	CFU-IL6
+T14	protein 824 834	C/EBPalpha
+T15	protein 929 942	IL-6 receptor
+T16	protein 947 951	IL-6
+T17	protein 985 1000	G-CSF receptors
+T18	cell_type 1126 1166	C/EBPalpha-deficient hematopoietic cells
+T19	DNA 1232 1255	C/EBPalpha target genes
+T20	protein 1378 1388	C/EBPalpha

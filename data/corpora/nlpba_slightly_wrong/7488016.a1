@@ -1,0 +1,22 @@
+T1	protein 18 36	chemokine receptor
+T2	protein 37 46	BLR2/EBI1
+T3	protein 81 117	Epstein-Barr virus nuclear antigen 2
+T4	protein 147 166	chemokine receptors
+T5	protein 187 217	Burkitt 's lymphoma receptor 1
+T6	protein 220 224	BLR1
+T7	cell_type 248 269	activated lymphocytes
+T8	protein 333 361	seven transmembrane receptor
+T9	protein 369 373	BLR2
+T10	protein 445 482	G-protein coupled chemokine receptors
+T11	protein 540 553	receptor EBI1
+T12	RNA 593 602	BLR2 mRNA
+T13	cell_line 633 691	mitogen- and anti-CD3-treated peripheral blood lymphocytes
+T14	RNA 694 712	BLR2-specific mRNA
+T15	cell_line 738 778	Epstein-Barr virus positive B cell lines
+T16	DNA 815 824	BLR2 gene
+T17	cell_line 858 897	Epstein-Barr virus negative BL 41 cells
+T18	protein 934 970	Epstein-Barr virus nuclear antigen 2
+T19	DNA 992 1016	viral and cellular genes
+T20	cell_line 1020 1040	immortalized B cells
+T21	protein 1078 1082	BLR2
+T22	cell_type 1117 1138	activated lymphocytes

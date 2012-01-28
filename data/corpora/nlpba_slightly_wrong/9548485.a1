@@ -1,0 +1,36 @@
+T1	protein 8 51	cyclic AMP response element-binding protein
+T2	protein 80 89	NF-kappaB
+T3	protein 120 129	NF-kappaB
+T4	protein 294 303	NF-kappaB
+T5	cell_type 331 346	human monocytes
+T6	cell_type 351 368	endothelial cells
+T7	protein 413 432	NF-kappaB complexes
+T8	protein 546 562	protein kinase A
+T9	protein 593 602	NF-kappaB
+T10	protein 665 702	cAMP response element-binding protein
+T11	protein 705 709	CREB
+T12	protein 768 771	CBP
+T13	protein 798 819	amino-terminal region
+T14	protein 822 839	amino acids 1-450
+T15	protein 845 848	CBP
+T16	protein 881 905	carboxyl-terminal region
+T17	protein 908 927	amino acids 286-551
+T18	protein 933 942	NF-kappaB
+T19	protein 943 946	p65
+T20	protein 949 953	RelA
+T21	cell_type 1015 1032	endothelial cells
+T22	protein 1069 1072	CBP
+T23	protein 1100 1109	NF-kappaB
+T24	protein 1166 1182	chimeric protein
+T25	protein 1185 1205	GAL4-p65 ( 286-551 )
+T26	protein 1228 1251	GAL4 DNA binding domain
+T27	protein 1265 1289	carboxyl-terminal region
+T28	protein 1293 1296	p65
+T29	protein 1299 1318	amino acids 286-551
+T30	protein 1355 1359	CREB
+T31	protein 1370 1374	GAL4
+T32	protein 1463 1479	protein kinase A
+T33	protein 1497 1506	NF-kappaB
+T34	protein 1540 1544	CREB
+T35	protein 1567 1570	p65
+T36	protein 1595 1598	CBP

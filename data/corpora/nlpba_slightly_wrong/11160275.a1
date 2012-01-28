@@ -1,0 +1,26 @@
+T1	protein 0 14	NF-kappa B/Rel
+T2	cell_type 74 90	T lymphoid cells
+T3	cell_type 120 134	lymphoid cells
+T4	protein 138 142	IL-2
+T5	protein 147 151	IL-4
+T6	protein 275 284	cytokines
+T7	protein 315 335	NF-kappaB/Rel family
+T8	protein 453 462	NF-kappaB
+T9	protein 492 504	IkappaBalpha
+T10	protein 507 525	inhibitory protein
+T11	protein 548 557	NF-kappaB
+T12	protein 610 633	IkappaBalpha ( DeltaN )
+T13	protein 712 716	IL-4
+T14	protein 728 732	IL-2
+T15	cell_type 735 745	Thymocytes
+T16	cell_type 750 757	T cells
+T17	protein 763 786	IkappaBalpha ( DeltaN )
+T18	protein 830 844	IL-2R subunits
+T19	cell_type 857 873	transgenic cells
+T20	protein 938 942	IL-2
+T21	protein 983 987	IL-4
+T22	protein 997 1002	Stat5
+T23	cell_type 1019 1035	T lymphoid cells
+T24	protein 1055 1064	NF-kappaB
+T25	protein 1324 1341	cytokine receptor
+T26	protein 1419 1451	Stat transcription factor family

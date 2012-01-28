@@ -1,0 +1,30 @@
+T1	protein 14 39	HIV-1 regulatory proteins
+T2	DNA 80 93	IL-2 promoter
+T3	protein 97 100	Tat
+T4	protein 251 255	IL-2
+T5	cell_type 268 274	T cell
+T6	protein 302 310	cytokine
+T7	cell_type 358 365	T cells
+T8	cell_type 421 438	activated T cells
+T9	protein 549 556	HIV Tat
+T10	protein 634 637	Tat
+T11	DNA 648 661	IL-2 promoter
+T12	protein 675 678	Tat
+T13	DNA 709 725	distal AP-1 site
+T14	DNA 728 749	position -185 to -177
+T15	DNA 759 772	IL-2 promoter
+T16	cell_type 778 799	nonstimulated T cells
+T17	protein 831 837	NF-IL6
+T18	protein 840 844	JunB
+T19	protein 847 852	c-Fos
+T20	protein 857 862	Fra-1
+T21	DNA 880 900	AP-1 ( IL-2/d ) site
+T22	DNA 915 928	IL-2 promoter
+T23	protein 968 991	heterodimeric activator
+T24	protein 1003 1006	p65
+T25	protein 1011 1016	c-Jun
+T26	DNA 1030 1050	AP-1 ( IL-2/d ) site
+T27	protein 1053 1060	HIV Tat
+T28	protein 1084 1093	NF-kappaB
+T29	DNA 1127 1147	AP-1 ( IL-2/d ) site
+T30	protein 1207 1214	HIV Tat

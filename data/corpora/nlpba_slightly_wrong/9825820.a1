@@ -1,0 +1,48 @@
+T1	protein 0 31	Membrane-associated lymphotoxin
+T2	cell_type 35 55	natural killer cells
+T3	cell_type 66 83	endothelial cells
+T4	protein 91 100	NF-kappaB
+T5	cell_type 247 274	natural killer ( NK ) cells
+T6	cell_type 305 321	endothelial cell
+T7	cell_type 324 326	EC
+T8	cell_type 379 393	human NK cells
+T9	cell_type 411 413	EC
+T10	protein 442 459	adhesion molecule
+T11	protein 475 483	cytokine
+T12	cell_line 524 541	NK cell line NK92
+T13	cell_type 605 607	EC
+T14	cell_type 631 633	EC
+T15	DNA 698 713	luciferase gene
+T16	DNA 731 776	E-selectin or interleukin ( IL ) -8 promoters
+T17	DNA 792 820	NF-kappaB-dependent promoter
+T18	DNA 839 924	dominant-negative mutant tumor necrosis factor receptor I ( TNFRI ) expression vector
+T19	cell_type 1007 1009	EC
+T20	cell_type 1031 1039	NK cells
+T21	cell_type 1043 1068	NK cell membrane extracts
+T22	protein 1111 1121	luciferase
+T23	cell_type 1154 1162	NK cells
+T24	cell_type 1180 1182	EC
+T25	protein 1192 1202	E-selectin
+T26	protein 1205 1209	IL-8
+T27	protein 1216 1225	NF-kappaB
+T28	cell_type 1317 1319	EC
+T29	protein 1357 1366	NF-kappaB
+T30	protein 1369 1372	p50
+T31	protein 1377 1380	p65
+T32	cell_type 1405 1412	NK cell
+T33	protein 1460 1477	Lymphotoxin-alpha
+T34	protein 1480 1487	LTalpha
+T35	protein 1498 1525	tumor necrosis factor-alpha
+T36	protein 1542 1549	LTalpha
+T37	cell_line 1566 1585	NK : EC co-cultures
+T38	protein 1609 1639	dominant-negative mutant TNFRI
+T39	cell_type 1650 1652	EC
+T40	cell_type 1700 1708	NK cells
+T41	protein 1887 1892	TNFRI
+T42	protein 1906 1915	NF-kappaB
+T43	protein 1959 1969	E-selectin
+T44	protein 1974 1978	IL-8
+T45	cell_type 1998 2000	EC
+T46	cell_type 2083 2091	NK cells
+T47	protein 2097 2109	mutant TNFRI
+T48	cell_type 2160 2168	NK cells

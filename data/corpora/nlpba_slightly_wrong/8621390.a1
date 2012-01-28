@@ -1,0 +1,27 @@
+T1	DNA 34 52	interleukin-2 gene
+T2	cell_type 63 93	human peripheral blood T cells
+T3	cell_type 154 173	transformed T cells
+T4	cell_type 215 235	normal human T cells
+T5	DNA 296 327	Interleukin-2 ( IL-2 ) promoter
+T6	DNA 328 342	-reporter gene
+T7	DNA 374 389	endogenous gene
+T8	protein 405 420	T cell receptor
+T9	DNA 466 487	mutagenized promoters
+T10	DNA 509 537	IL-2 cis-regulatory elements
+T11	cell_type 541 555	normal T cells
+T12	DNA 564 582	proximal AP-1 site
+T13	DNA 591 606	NF- kappaB site
+T14	protein 640 658	phytohemagglutinin
+T15	protein 662 679	antibodies to CD3
+T16	protein 723 737	CD2 antibodies
+T17	cell_type 741 764	B7-positive ( B cells )
+T18	cell_type 768 813	B7-negative ( endothelial ) accessory cells ,
+T19	DNA 844 856	cis-elements
+T20	DNA 879 919	nuclear factor of activated T cell sites
+T21	cell_type 947 961	normal T cells
+T22	cell_line 970 984	Jurkat T cells
+T23	protein 1004 1008	IL-2
+T24	cell_line 1047 1063	tumor cell lines
+T25	cell_type 1078 1092	normal T cells
+T26	DNA 1155 1167	cis-elements
+T27	DNA 1175 1188	IL-2 promoter

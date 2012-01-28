@@ -1,0 +1,40 @@
+T1	protein 13 24	Bcl-x ( L )
+T2	protein 39 77	human T-cell leukemia virus type 1 Tax
+T3	protein 86 95	NF-kappaB
+T4	cell_line 99 139	apoptosis-resistant T-cell transfectants
+T5	protein 145 148	Tax
+T6	protein 197 200	Tax
+T7	cell_type 257 264	T cells
+T8	protein 313 316	Tax
+T9	cell_line 331 355	mouse T-cell line CTLL-2
+T10	protein 385 398	interleukin-2
+T11	protein 401 405	IL-2
+T12	protein 456 460	IL-2
+T13	protein 480 484	IL-2
+T14	protein 562 568	bcl-xl
+T15	protein 577 582	bcl-2
+T16	protein 585 591	bcl-xs
+T17	protein 594 597	bak
+T18	protein 600 603	bad
+T19	protein 609 612	bax
+T20	protein 660 664	IL-2
+T21	cell_line 680 692	CTLL-2 cells
+T22	protein 708 711	Tax
+T23	DNA 756 770	bcl-x promoter
+T24	protein 793 806	wild-type Tax
+T25	protein 849 852	Tax
+T26	protein 895 904	NF-kappaB
+T27	protein 937 968	putative NF-kappaB binding site
+T28	DNA 987 1001	bcl-x promoter
+T29	protein 1026 1029	Tax
+T30	DNA 1062 1084	NF-kappaB-like element
+T31	protein 1117 1142	NF-kappaB family proteins
+T32	protein 1168 1171	Tax
+T33	DNA 1204 1218	bcl-x promoter
+T34	protein 1246 1265	mutant IkappaBalpha
+T35	protein 1296 1305	NF-kappaB
+T36	protein 1370 1381	Bcl-x ( L )
+T37	protein 1393 1396	Tax
+T38	protein 1409 1418	NF-kappaB
+T39	cell_line 1473 1485	CTLL-2 cells
+T40	protein 1492 1496	IL-2

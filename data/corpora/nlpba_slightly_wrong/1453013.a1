@@ -1,0 +1,25 @@
+T1	protein 0 3	SCL
+T2	protein 16 66	hemopoietic helix-loop-helix transcription factors
+T3	protein 73 106	helix-loop-helix ( HLH ) proteins
+T4	protein 123 144	transcription factors
+T5	protein 285 288	MYC
+T6	protein 291 294	SCL
+T7	protein 297 302	TAL-2
+T8	protein 305 310	LYL-1
+T9	protein 315 318	E2A
+T10	protein 508 511	SCL
+T11	protein 516 521	LYL-1
+T12	cell_type 548 573	normal T cell populations
+T13	protein 576 579	SCL
+T14	cell_type 596 647	erythroid , megakaryocyte and mast cell populations
+T15	protein 676 682	GATA-1
+T16	protein 687 719	zinc-finger transcription factor
+T17	protein 743 746	SCL
+T18	protein 751 757	GATA-1
+T19	cell_type 843 870	mouse erythroleukemia cells
+T20	cell_line 928 944	human K562 cells
+T21	protein 972 975	SCL
+T22	protein 1039 1045	GATA-1
+T23	protein 1048 1051	SCL
+T24	protein 1118 1121	SCL
+T25	cell_type 1195 1210	erythroid cells

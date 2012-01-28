@@ -1,0 +1,26 @@
+T1	DNA 32 48	human GATA3 gene
+T2	protein 51 56	GATA3
+T3	protein 75 86	GATA family
+T4	cell_type 123 143	T-lymphocyte lineage
+T5	protein 175 190	T-cell receptor
+T6	DNA 226 235	enhancers
+T7	DNA 252 262	GATA3 gene
+T8	DNA 290 300	human gene
+T9	DNA 309 316	5 ' end
+T10	DNA 324 340	mouse GATA3 gene
+T11	DNA 360 376	human GATA3 gene
+T12	DNA 390 395	exons
+T13	protein 436 460	human GATA3 zinc fingers
+T14	DNA 489 494	exons
+T15	protein 526 531	GATA1
+T16	DNA 612 653	human and mouse GATA3 transcription units
+T17	DNA 665 686	major initiation site
+T18	DNA 780 790	CpG island
+T19	DNA 840 849	promoters
+T20	DNA 853 871	housekeeping genes
+T21	DNA 899 911	DNA fragment
+T22	DNA 927 957	human GATA3 transcription unit
+T23	DNA 960 973	3 kb upstream
+T24	DNA 983 998	initiation site
+T25	DNA 1003 1018	4 kb downstream
+T26	DNA 1028 1048	polyadenylation site

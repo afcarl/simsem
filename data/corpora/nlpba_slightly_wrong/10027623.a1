@@ -1,0 +1,20 @@
+T1	cell_type 37 47	leukocytes
+T2	cell_type 340 361	leukocyte populations
+T3	protein 364 388	steroid hormone receptor
+T4	protein 427 432	bcl-2
+T5	protein 607 625	oestrogen receptor
+T6	protein 639 644	bcl-2
+T7	cell_type 676 686	leukocytes
+T8	cell_type 868 883	Apoptotic cells
+T9	protein 1008 1032	steroid hormone receptor
+T10	protein 1071 1076	bcl-2
+T11	cell_type 1209 1225	CD56+ CD16- eGLs
+T12	cell_type 1404 1408	eGLs
+T13	cell_type 1466 1470	eGLs
+T14	cell_type 1590 1622	CD56+ CD16+ natural killer cells
+T15	cell_type 1625 1629	eGLs
+T16	protein 1739 1752	interleukin-2
+T17	cell_type 1788 1792	eGLs
+T18	cell_type 1922 1933	CD+8 T-cell
+T19	protein 1956 1974	oestrogen receptor
+T20	protein 1979 1984	bcl-2

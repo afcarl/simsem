@@ -1,0 +1,24 @@
+T1	protein 21 46	transdominant Rev protein
+T2	cell_type 50 63	human T cells
+T3	protein 157 168	Rev protein
+T4	protein 224 227	Gag
+T5	protein 230 233	Pol
+T6	protein 240 243	Env
+T7	protein 335 338	Rev
+T8	protein 383 386	Rev
+T9	protein 465 491	transdominant Rev proteins
+T10	cell_line 585 606	T leukemia cell lines
+T11	DNA 637 654	retroviral vector
+T12	protein 694 705	Rev protein
+T13	protein 708 711	M10
+T14	cell_line 728 753	M10-expressing cell lines
+T15	cell_line 929 954	M10-expressing CEM clones
+T16	protein 1052 1055	M10
+T17	DNA 1118 1144	kappa B regulatory element
+T18	protein 1148 1151	Tat
+T19	protein 1195 1202	Rev M10
+T20	protein 1234 1247	interleukin 2
+T21	cell_line 1286 1290	EL-4
+T22	cell_line 1295 1307	Jurkat cells
+T23	protein 1371 1396	transdominant Rev protein
+T24	cell_type 1533 1546	T lymphocytes

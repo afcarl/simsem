@@ -1,0 +1,33 @@
+T1	protein 0 9	NF-kappaB
+T2	protein 34 78	Epstein-Barr virus latent membrane protein 1
+T3	protein 107 132	latent membrane protein 1
+T4	protein 135 139	LMP1
+T5	cell_type 219 232	human B cells
+T6	cell_line 274 284	cell lines
+T7	protein 287 291	LMP1
+T8	protein 409 440	cell surface activation markers
+T9	protein 443 447	LMP1
+T10	protein 487 507	transcription factor
+T11	protein 508 517	NF-kappaB
+T12	protein 550 563	TRAF proteins
+T13	protein 587 600	TRADD protein
+T14	protein 673 682	NF-kappaB
+T15	protein 747 753	ICAM-1
+T16	protein 758 762	CD71
+T17	protein 766 770	LMP1
+T18	protein 809 813	LMP1
+T19	DNA 843 883	p50/p65- and c-Rel- responsive promoters
+T20	protein 965 990	inhibitory IkappaB mutant
+T21	protein 993 999	ICAM-1
+T22	protein 1004 1008	CD71
+T23	protein 1042 1046	LMP1
+T24	cell_type 1050 1065	primary B cells
+T25	protein 1096 1112	dominant IkappaB
+T26	protein 1129 1133	LMP1
+T27	cell_type 1165 1180	primary B cells
+T28	protein 1199 1206	IkappaB
+T29	protein 1252 1256	LMP1
+T30	protein 1279 1288	NF-kappaB
+T31	cell_type 1350 1367	activated B cells
+T32	protein 1395 1399	LMP1
+T33	protein 1441 1450	NF-kappaB

@@ -1,0 +1,55 @@
+T1	DNA 0 9	MDS1/EVI1
+T2	protein 19 28	TGF-beta1
+T3	protein 92 126	leukemia-associated fusion protein
+T4	protein 127 141	AML1/MDS1/EVI1
+T5	protein 217 226	TGF-beta1
+T6	DNA 229 238	MDS1/EVI1
+T7	DNA 252 273	chromosome 3 band q26
+T8	protein 286 333	zinc-finger DNA-binding transcription activator
+T9	cell_type 350 376	normal hematopoietic cells
+T10	DNA 419 428	MDS1/EVI1
+T11	cell_type 461 478	myeloid leukemias
+T12	protein 526 535	band 3q26
+T13	protein 615 643	transcription repressor EVI1
+T14	DNA 657 686	the t ( 3 ; 3 ) ( q21 ; q26 )
+T15	DNA 691 711	inv ( 3 ) ( q21q26 )
+T16	DNA 745 775	the t ( 3 ; 21 ) ( q26 ; q22 )
+T17	protein 812 826	AML1/MDS1/EVI1
+T18	protein 862 880	DNA-binding domain
+T19	protein 888 908	transcription factor
+T20	protein 909 913	AML1
+T21	DNA 943 952	MDS1/EVI1
+T22	cell_line 1056 1096	hematopoietic precursor cell line 32Dcl3
+T23	protein 1121 1145	normal protein MDS1/EVI1
+T24	protein 1153 1182	fusion protein AML1/MDS1/EVI1
+T25	cell_line 1256 1268	32Dcl3 cells
+T26	protein 1273 1277	IL-3
+T27	protein 1357 1362	G-CSF
+T28	protein 1394 1403	TGF-beta1
+T29	DNA 1445 1454	MDS1/EVI1
+T30	protein 1512 1517	G-CSF
+T31	protein 1534 1548	AML1/MDS1/EVI1
+T32	cell_line 1664 1676	32Dcl3 cells
+T33	protein 1690 1705	transgenic Evil
+T34	protein 1780 1794	AML1/MDS1/EVI1
+T35	protein 1848 1857	TGF-beta1
+T36	cell_line 1869 1881	32Dcl3 cells
+T37	DNA 1932 1941	MDS1/EVI1
+T38	protein 2044 2053	TGF-beta1
+T39	protein 2113 2117	EVI1
+T40	DNA 2149 2158	MDS1/EVI1
+T41	protein 2163 2177	AML1/MDS1/EVI1
+T42	protein 2206 2211	SMAD3
+T43	protein 2252 2261	TGF-beta1
+T44	protein 2332 2337	G-CSF
+T45	protein 2341 2350	TGF-beta1
+T46	protein 2386 2401	fusion proteins
+T47	DNA 2486 2499	promoter site
+T48	DNA 2531 2540	MDS1/EVI1
+T49	protein 2584 2612	transcription repressor EVI1
+T50	protein 2634 2638	AML1
+T51	protein 2690 2713	differentiation factors
+T52	protein 2842 2856	fusion protein
+T53	protein 2860 2865	G-CSF
+T54	protein 2870 2879	TGF-beta1
+T55	DNA 2992 3008	downstream genes

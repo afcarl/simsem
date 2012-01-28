@@ -1,0 +1,35 @@
+T1	protein 0 5	Grf40
+T2	protein 16 34	Grb2 family member
+T3	protein 94 100	SLP-76
+T4	protein 105 108	LAT
+T5	protein 139 157	Grb2 family member
+T6	protein 166 171	Grf40
+T7	protein 196 213	SH3-SH2-SH3 motif
+T8	protein 230 235	Grf40
+T9	cell_type 254 273	hematopoietic cells
+T10	cell_type 289 296	T cells
+T11	protein 299 304	Grf40
+T12	protein 318 357	SH2 domain-containing leukocyte protein
+T13	protein 369 375	SLP-76
+T14	protein 415 419	Grb2
+T15	protein 437 442	Grf40
+T16	protein 452 484	linker for activation of T cells
+T17	protein 487 490	LAT
+T18	protein 510 520	SH2 domain
+T19	protein 541 556	wild-type Grf40
+T20	cell_line 560 572	Jurkat cells
+T21	DNA 607 654	SLP-76-dependent interleukin ( IL ) -2 promoter
+T22	protein 659 693	nuclear factor of activated T cell
+T23	protein 696 701	NF-AT
+T24	protein 720 735	T cell receptor
+T25	protein 738 741	TCR
+T26	protein 770 808	COOH-terminal SH3-deleted Grf40 mutant
+T27	DNA 845 858	IL-2 promoter
+T28	protein 888 912	SH2-deleted Grf40 mutant
+T29	protein 1033 1056	SH2-deleted Grb2 mutant
+T30	protein 1081 1086	Grf40
+T31	protein 1093 1109	adaptor molecule
+T32	protein 1122 1125	TCR
+T33	protein 1188 1192	Grb2
+T34	protein 1198 1204	SLP-76
+T35	protein 1209 1212	LAT

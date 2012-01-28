@@ -1,0 +1,29 @@
+T1	protein 4 28	transcription factor Sp1
+T2	DNA 62 84	murine GM-CSF promoter
+T3	cell_type 88 95	T cells
+T4	DNA 102 119	cis-acting region
+T5	DNA 122 139	GM-kappa B/GC-box
+T6	DNA 142 155	positions -95
+T7	DNA 160 163	-73
+T8	DNA 179 206	murine GM-CSF gene promoter
+T9	cell_type 334 341	T cells
+T10	protein 344 354	GM-kappa B
+T11	protein 382 392	NF-kappa B
+T12	DNA 399 405	GC-box
+T13	protein 441 443	A1
+T14	protein 446 448	A2
+T15	protein 451 452	B
+T16	protein 455 476	constitutive proteins
+T17	DNA 519 525	GC-box
+T18	DNA 562 586	GM-kappa B/GC-box region
+T19	DNA 652 668	GM-kappa B motif
+T20	DNA 681 687	GC-box
+T21	protein 705 707	A1
+T22	protein 743 767	transcription factor Sp1
+T23	protein 796 799	Sp1
+T24	protein 802 804	A1
+T25	protein 887 893	GM-CSF
+T26	DNA 916 937	human GM-CSF promoter
+T27	DNA 971 977	GC-box
+T28	DNA 1058 1075	upstream enhancer
+T29	DNA 1113 1130	human GM-CSF gene

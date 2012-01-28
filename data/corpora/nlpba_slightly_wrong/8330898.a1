@@ -1,0 +1,21 @@
+T1	protein 0 22	Nuclear factor kappa B
+T2	protein 162 184	nuclear factor kappa B
+T3	protein 187 197	NF-kappa B
+T4	protein 205 235	inducible transcription factor
+T5	protein 245 255	NF-kappa B
+T6	protein 331 349	inhibitory subunit
+T7	protein 359 382	inhibitor of NF-kappa B
+T8	protein 385 394	I kappa B
+T9	protein 549 576	tumor necrosis factor-alpha
+T10	protein 579 582	TNF
+T11	protein 587 600	interleukin-1
+T12	protein 603 607	IL-1
+T13	protein 612 627	T cell mitogens
+T14	protein 697 707	NF-kappa B
+T15	protein 732 742	NF-kappa B
+T16	protein 899 909	NF-kappa B
+T17	protein 990 999	cytokines
+T18	protein 1002 1024	cell surface receptors
+T19	protein 1027 1047	acute phase proteins
+T20	DNA 1052 1065	viral genomes
+T21	protein 1223 1233	NF-kappa B

@@ -1,0 +1,41 @@
+T1	protein 25 29	IL-2
+T2	cell_type 44 57	human T cells
+T3	protein 101 132	nuclear transcriptional factors
+T4	protein 133 137	AP-1
+T5	protein 142 147	NF-AT
+T6	protein 159 182	transcriptional factors
+T7	protein 183 187	AP-1
+T8	protein 230 235	NF-AT
+T9	protein 280 284	IL-2
+T10	protein 331 335	IL-2
+T11	cell_type 360 373	human T cells
+T12	protein 412 447	transcriptional regulatory proteins
+T13	protein 475 479	IL-2
+T14	cell_type 494 501	T cells
+T15	protein 609 612	PHA
+T16	protein 615 618	PHA
+T17	protein 720 724	IL-2
+T18	protein 862 866	IL-2
+T19	cell_type 890 897	T cells
+T20	protein 1102 1106	IL-2
+T21	cell_type 1121 1139	stimulated T cells
+T22	protein 1229 1233	AP-1
+T23	protein 1238 1243	NF-AT
+T24	cell_type 1260 1267	T cells
+T25	protein 1312 1316	IL-2
+T26	protein 1359 1363	AP-1
+T27	protein 1368 1373	NF-AT
+T28	protein 1464 1469	NF-AT
+T29	protein 1531 1546	NF-AT complexes
+T30	protein 1614 1625	c-Fos/c-Jun
+T31	protein 1626 1630	AP-1
+T32	protein 1670 1680	NF kappa B
+T33	cell_type 1697 1704	T cells
+T34	protein 1765 1775	NF kappa B
+T35	protein 1810 1814	IL-2
+T36	protein 1904 1908	AP-1
+T37	protein 1913 1918	NF-AT
+T38	protein 1971 1975	IL-2
+T39	protein 2095 2106	c-Fos/c-Jun
+T40	protein 2107 2111	AP-1
+T41	protein 2157 2162	NF-AT

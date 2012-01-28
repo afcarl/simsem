@@ -1,0 +1,29 @@
+T1	cell_type 19 56	CD4 ( + ) and CD8 ( + ) T lymphocytes
+T2	protein 95 106	Tax mutants
+T3	cell_line 122 148	functional molecular clone
+T4	protein 155 232	human T-cell leukemia virus type 1 ( HTLV-1 ) transcriptional trans-activator
+T5	protein 233 236	Tax
+T6	cell_line 292 313	multiple cell culture
+T7	DNA 393 419	viral long terminal repeat
+T8	DNA 422 425	LTR
+T9	protein 440 535	cyclic AMP response element binding protein/activating transcription factor ( CREB/ATF ) family
+T10	protein 539 560	transcription factors
+T11	protein 563 566	Tax
+T12	DNA 595 622	multiple cellular promoters
+T13	protein 635 644	NF-kappaB
+T14	protein 689 700	Tax mutants
+T15	protein 701 704	M22
+T16	protein 709 712	M47
+T17	protein 786 789	Tax
+T18	DNA 914 922	tax gene
+T19	DNA 930 960	ACH functional molecular clone
+T20	DNA 1001 1018	mutant ACH clones
+T21	cell_type 1077 1102	primary human lymphocytes
+T22	protein 1155 1158	M47
+T23	cell_type 1204 1217	T lymphocytes
+T24	protein 1224 1227	M22
+T25	cell_type 1267 1281	infected cells
+T26	protein 1330 1338	CREB/ATF
+T27	protein 1350 1353	Tax
+T28	cell_type 1396 1403	T cells
+T29	protein 1442 1451	NF-kappaB

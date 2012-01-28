@@ -1,0 +1,8 @@
+T1	DNA 42 62	Y ; 15 translocation
+T2	cell_type 66 94	peripheral blood lymphocytes
+T3	cell_type 147 163	skin fibroblasts
+T4	cell_type 693 729	peripheral blood lymphocyte cultures
+T5	cell_line 932 991	46 , X , -Y , t ( Y ; 15 ) ( q12 ; p13 ) /45 , X cell lines
+T6	cell_line 1166 1199	cultured genital skin fibroblasts
+T7	DNA 1441 1505	SRY ( sex determining region of the Y chromosome ) gene sequence
+T8	cell_line 1560 1576	45 , X cell line

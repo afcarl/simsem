@@ -1,0 +1,21 @@
+T1	cell_line 109 142	human myeloid leukemia cell lines
+T2	cell_type 207 237	monocyte/macrophage-like cells
+T3	protein 256 272	protein kinase C
+T4	cell_line 350 382	THP-1 myeloid leukemia cell line
+T5	DNA 720 725	c-myc
+T6	DNA 745 750	c-myb
+T7	DNA 817 838	beta 2-integrin genes
+T8	DNA 841 846	CD11a
+T9	DNA 851 856	CD11b
+T10	DNA 935 967	src-family tyrosine kinase genes
+T11	DNA 985 988	hck
+T12	RNA 1123 1131	lyn mRNA
+T13	cell_line 1154 1159	HL-60
+T14	DNA 1196 1204	lyn gene
+T15	cell_type 1270 1292	myeloid leukemia cells
+T16	DNA 1318 1331	AP-1 enhancer
+T17	cell_line 1395 1406	THP-1 cells
+T18	DNA 1443 1500	chloramphenicol acetyl transferase ( CAT ) -reporter gene
+T19	DNA 1528 1546	AP-1 binding sites
+T20	protein 1592 1595	CAT
+T21	DNA 1741 1754	AP-1 enhancer

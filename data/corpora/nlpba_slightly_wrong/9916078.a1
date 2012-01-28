@@ -1,0 +1,30 @@
+T1	protein 15 47	mitogen-activated protein kinase
+T2	protein 60 73	interleukin-8
+T3	cell_type 88 103	human monocytes
+T4	cell_type 108 131	polymorphonuclear cells
+T5	protein 170 213	Mycoplasma fermentans membrane lipoproteins
+T6	protein 216 229	Interleukin-8
+T7	protein 232 236	IL-8
+T8	protein 244 253	chemokine
+T9	protein 274 289	alpha-chemokine
+T10	protein 293 306	CXC subfamily
+T11	cell_type 368 377	monocytes
+T12	cell_type 382 405	polymorphonuclear cells
+T13	cell_type 408 411	PMN
+T14	protein 416 420	IL-8
+T15	protein 606 610	IL-8
+T16	protein 653 709	Mycoplasma fermentans lipid-associated membrane proteins
+T17	protein 712 717	LAMPf
+T18	protein 760 764	IL-8
+T19	cell_line 768 798	THP-1 ( human monocyte ) cells
+T20	cell_type 803 806	PMN
+T21	protein 921 926	LAMPf
+T22	protein 1011 1034	protein tyrosine kinase
+T23	protein 1042 1074	mitogen-activated protein kinase
+T24	protein 1158 1162	MEK1
+T25	protein 1167 1173	kinase
+T26	protein 1186 1192	ERK1/2
+T27	protein 1199 1202	p38
+T28	protein 1312 1316	IL-8
+T29	cell_type 1320 1329	monocytes
+T30	cell_type 1334 1337	PMN

@@ -1,0 +1,22 @@
+T1	protein 3 45	interleukin-4-induced transcription factor
+T2	protein 48 57	IL-4 Stat
+T3	protein 60 73	Interleukin-4
+T4	protein 76 80	IL-4
+T5	cell_type 137 150	T lymphocytes
+T6	cell_type 153 162	basophils
+T7	cell_type 169 179	mast cells
+T8	cell_type 238 266	T helper ( Th ) cell subsets
+T9	cell_type 295 306	Th2 lineage
+T10	cell_type 319 322	Th1
+T11	cell_type 344 364	T lymphocyte subsets
+T12	protein 471 475	IL-4
+T13	protein 548 591	tyrosine-phosphorylated DNA binding protein
+T14	protein 760 826	signal transducers and activators of transcription ( Stat ) family
+T15	protein 830 850	DNA binding proteins
+T16	protein 871 880	IL-4 Stat
+T17	protein 974 1015	intracellular domain of the IL-4 receptor
+T18	protein 1057 1065	receptor
+T19	protein 1070 1090	transcription factor
+T20	protein 1102 1111	IL-4 Stat
+T21	protein 1163 1172	IL-4 Stat
+T22	protein 1186 1203	functional domain

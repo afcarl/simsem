@@ -1,0 +1,30 @@
+T1	protein 0 13	Rel/NF-kappaB
+T2	protein 84 91	Jagged1
+T3	protein 107 122	Notch receptors
+T4	protein 125 132	Jagged1
+T5	protein 148 169	DSL family of ligands
+T6	protein 174 189	Notch receptors
+T7	cell_type 252 265	cell lineages
+T8	protein 304 325	transcription factors
+T9	protein 377 384	Jagged1
+T10	DNA 390 419	Rel/NF-kappaB-responsive gene
+T11	protein 427 432	c-Rel
+T12	protein 437 441	RelA
+T13	protein 547 566	jagged1 transcripts
+T14	protein 603 612	NF-kappaB
+T15	protein 678 690	IkappaBalpha
+T16	protein 722 731	NF-kappaB
+T17	protein 761 768	Jagged1
+T18	cell_line 772 804	c-Rel-expressing cell monolayers
+T19	cell_type 842 853	lymphocytes
+T20	protein 869 890	Notch1/TAN-1 receptor
+T21	RNA 1000 1017	HES-1 transcripts
+T22	cell_line 1021 1042	co-cultivated T cells
+T23	RNA 1050 1066	CD23 transcripts
+T24	cell_type 1084 1091	B cells
+T25	protein 1114 1127	Rel/NF-kappaB
+T26	protein 1151 1158	Jagged1
+T27	cell_type 1195 1210	splenic B cells
+T28	protein 1217 1222	c-Rel
+T29	protein 1284 1289	c-Rel
+T30	protein 1412 1419	Jagged1

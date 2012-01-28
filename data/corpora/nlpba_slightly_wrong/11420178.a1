@@ -1,0 +1,25 @@
+T1	protein 0 11	Adipophilin
+T2	cell_type 55 76	human blood monocytes
+T3	protein 79 90	Adipophilin
+T4	cell_type 147 157	adipocytes
+T5	cell_type 196 217	macrophage foam cells
+T6	cell_type 239 271	freshly isolated blood monocytes
+T7	protein 280 291	adipophilin
+T8	protein 315 334	adipophilin protein
+T9	cell_type 350 359	monocytes
+T10	protein 439 450	adipophilin
+T11	protein 548 594	Enzymatically modified low-density lipoprotein
+T12	protein 597 602	E-LDL
+T13	cell_type 642 651	monocytes
+T14	protein 668 679	adipophilin
+T15	protein 748 759	adipophilin
+T16	cell_type 824 833	monocytes
+T17	protein 849 854	E-LDL
+T18	protein 857 868	Adipophilin
+T19	cell_type 1035 1050	blood monocytes
+T20	protein 1081 1129	peroxisome proliferator-activated receptor-gamma
+T21	protein 1132 1141	PPARgamma
+T22	RNA 1170 1186	adipophilin mRNA
+T23	protein 1190 1199	PPARgamma
+T24	protein 1259 1268	PPARgamma
+T25	cell_type 1324 1345	human blood monocytes

@@ -1,0 +1,14 @@
+T1	protein 0 37	Kappa B-specific DNA binding proteins
+T2	DNA 66 90	human interleukin-2 gene
+T3	DNA 138 171	human interleukin-2 ( IL-2 ) gene
+T4	DNA 196 236	IL-2 receptor alpha ( IL-2R alpha ) gene
+T5	protein 323 352	kappa B-like enhancer element
+T6	DNA 369 390	kappa B core sequence
+T7	DNA 409 422	IL-2 promoter
+T8	protein 516 534	transcription unit
+T9	protein 574 600	inducible cellular factors
+T10	protein 609 634	kappa B-specific proteins
+T11	protein 712 728	kappa B enhancer
+T12	DNA 744 764	IL-2R alpha promoter
+T13	protein 797 822	kappa B-specific proteins
+T14	cell_type 935 941	T cell

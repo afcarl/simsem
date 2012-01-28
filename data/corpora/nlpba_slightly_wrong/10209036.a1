@@ -1,0 +1,29 @@
+T1	protein 0 46	SHP2-interacting transmembrane adaptor protein
+T2	protein 49 52	SIT
+T3	protein 65 87	disulfide-linked dimer
+T4	cell_type 125 138	T lymphocytes
+T5	protein 155 206	low molecular weight transmembrane adaptor proteins
+T6	protein 220 283	src homology ( SH ) 2 domain-containing intracellular molecules
+T7	protein 398 401	SIT
+T8	protein 404 450	SHP2 interacting transmembrane adaptor protein
+T9	protein 455 458	SIT
+T10	protein 464 505	disulfide-linked homodimeric glycoprotein
+T11	cell_type 527 538	lymphocytes
+T12	protein 575 578	src
+T13	protein 592 595	syk
+T14	protein 596 620	protein tyrosine kinases
+T15	protein 621 624	SIT
+T16	protein 638 680	SH2 domain-containing tyrosine phosphatase
+T17	protein 681 685	SHP2
+T18	protein 760 763	SIT
+T19	cell_line 767 779	Jurkat cells
+T20	protein 861 896	nuclear factor of activated T cells
+T21	protein 899 904	NF-AT
+T22	protein 999 1014	phospholipase C
+T23	protein 1038 1042	SHP2
+T24	protein 1046 1049	SIT
+T25	protein 1084 1089	NF-AT
+T26	protein 1118 1121	SIT
+T27	protein 1141 1146	NF-AT
+T28	protein 1174 1179	NF-AT
+T29	protein 1230 1234	SHP2

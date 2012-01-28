@@ -1,0 +1,21 @@
+T1	cell_type 31 50	human T lymphocytes
+T2	protein 102 133	NAD ( P ) H : quinone reductase
+T3	cell_type 182 193	lymphocytes
+T4	protein 278 309	NAD ( P ) H : quinone reductase
+T5	protein 312 314	QR
+T6	DNA 381 388	QR gene
+T7	protein 409 429	transcription factor
+T8	protein 430 434	AP-1
+T9	protein 500 504	AP-1
+T10	cell_type 508 527	human T lymphocytes
+T11	cell_type 583 594	lymphocytes
+T12	protein 627 629	QR
+T13	cell_line 632 644	Molt-4 cells
+T14	cell_line 647 649	M4
+T15	cell_line 656 684	human T lymphocyte cell line
+T16	protein 1061 1063	QR
+T17	protein 1245 1247	QR
+T18	cell_type 1276 1289	human T cells
+T19	cell_type 1294 1306	T cell lines
+T20	cell_type 1382 1401	human T lymphocytes
+T21	protein 1450 1452	QR

@@ -1,0 +1,28 @@
+T1	protein 11 23	murine TCF-1
+T2	protein 44 64	transcription factor
+T3	DNA 82 99	functional motifs
+T4	DNA 107 154	CD3-epsilon and T cell receptor alpha enhancers
+T5	protein 157 160	CD3
+T6	cell_line 205 219	T cell lineage
+T7	protein 263 289	human transcription factor
+T8	protein 292 297	TCF-1
+T9	protein 423 428	TCF-1
+T10	cell_type 458 473	T lineage cells
+T11	protein 476 481	TCF-1
+T12	DNA 550 578	mobility group 1 ( HMG ) box
+T13	protein 611 623	murine TCF-1
+T14	protein 703 714	human TCF-1
+T15	protein 717 739	Murine and human TCF-1
+T16	protein 789 823	Recombinant murine and human TCF-1
+T17	DNA 866 886	CD3-epsilon enhancer
+T18	DNA 963 981	murine cDNA clones
+T19	protein 1001 1006	TCF-1
+T20	protein 1075 1080	TCF-1
+T21	DNA 1096 1103	HMG box
+T22	protein 1225 1230	TCF-1
+T23	protein 1329 1334	TCF-1
+T24	DNA 1370 1393	T cell-specific element
+T25	DNA 1401 1445	T cell receptor alpha ( TCR-alpha ) enhancer
+T26	DNA 1528 1563	TCR-alpha and CD3-epsilon enhancers
+T27	protein 1592 1597	TCF-1
+T28	cell_type 1626 1649	mature T cell phenotype

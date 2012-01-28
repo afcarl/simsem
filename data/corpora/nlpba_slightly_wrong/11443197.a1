@@ -1,0 +1,19 @@
+T1	protein 0 21	Nuclear factor-kappaB
+T2	protein 38 54	inhibitor-kappaB
+T3	protein 383 441	proinflammatory transcription factor nuclear factor-kappaB
+T4	protein 450 476	inhibitory protein IkappaB
+T5	cell_type 480 497	mononuclear cells
+T6	cell_type 500 503	MNC
+T7	protein 510 558	plasma soluble intracellular adhesion molecule-1
+T8	protein 561 595	monocyte chemoattractant protein-1
+T9	protein 598 631	plasminogen activator inhibitor-1
+T10	protein 638 656	C-reactive protein
+T11	protein 1051 1072	Nuclear factor-kappaB
+T12	cell_type 1093 1096	MNC
+T13	protein 1385 1426	Plasma monocyte chemoattractant protein-1
+T14	protein 1431 1472	soluble intracellular adhesion molecule-1
+T15	cell_type 1635 1658	polymorphonuclear cells
+T16	cell_type 1663 1666	MNC
+T17	protein 1669 1697	p47 ( phox ) subunit protein
+T18	protein 1711 1744	plasminogen activator inhibitor-1
+T19	protein 1751 1769	C-reactive protein

@@ -1,0 +1,5 @@
+T1	cell_type 99 127	human myeloid leukemia cells
+T2	cell_type 259 287	human myeloid leukemia cells
+T3	cell_line 357 368	HL-60 cells
+T4	cell_line 575 594	HL-60 and NB4 cells
+T5	cell_type 785 799	leukemia cells

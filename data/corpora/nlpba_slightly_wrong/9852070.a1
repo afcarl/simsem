@@ -1,0 +1,36 @@
+T1	protein 28 87	tumor necrosis factor receptor ( TNFR ) -associated factors
+T2	protein 119 137	receptor activator
+T3	protein 141 150	NF-kappaB
+T4	protein 169 185	TNFR superfamily
+T5	protein 188 219	Receptor activator of NF-kappaB
+T6	protein 222 226	RANK
+T7	protein 268 310	tumor necrosis factor receptor superfamily
+T8	cell_type 331 348	activated T cells
+T9	cell_type 353 368	dendritic cells
+T10	protein 375 389	cognate ligand
+T11	protein 392 397	RANKL
+T12	protein 541 545	RANK
+T13	protein 551 632	tumor necrosis factor receptor-associated factors ( TRAFs ) 1 , 2 , 3 , 5 , and 6
+T14	protein 705 709	TRAF
+T15	protein 710 715	/RANK
+T16	protein 746 764	TRAF binding sites
+T17	protein 806 827	RANK cytoplasmic tail
+T18	protein 836 856	TRAF binding domains
+T19	protein 905 909	RANK
+T20	protein 934 943	NF-kappaB
+T21	protein 948 953	c-Jun
+T22	protein 954 973	NH2-terminal kinase
+T23	protein 1037 1055	TRAF binding sites
+T24	protein 1098 1111	TRAF proteins
+T25	protein 1130 1135	TRAF6
+T26	protein 1152 1182	membrane-proximal determinants
+T27	protein 1211 1234	TRAFs 1 , 2 , 3 , and 5
+T28	protein 1247 1289	membrane-proximal TRAF6 interaction domain
+T29	protein 1304 1308	RANK
+T30	protein 1319 1328	NF-kappaB
+T31	protein 1370 1395	c-Jun NH2-terminal kinase
+T32	protein 1436 1466	NH2-terminal truncation mutant
+T33	protein 1470 1475	TRAF6
+T34	protein 1486 1491	RANKL
+T35	protein 1502 1511	NF-kappaB
+T36	protein 1637 1642	TRAF6

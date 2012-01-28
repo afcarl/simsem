@@ -1,0 +1,21 @@
+T1	protein 27 37	NF-kappa B
+T2	protein 150 192	NF-kappa B family of transcription factors
+T3	protein 379 395	NF-kappaB family
+T4	protein 408 421	p65 ( Rel A )
+T5	protein 609 640	active NF-kappa B p65 ( Rel A )
+T6	protein 719 729	NF-kappa B
+T7	cell_line 746 791	cutaneous T cell lymphoma ( CTCL ) cell lines
+T8	protein 964 989	monoclonal mouse antibody
+T9	protein 1025 1038	p65 ( Rel A )
+T10	cell_line 1183 1212	CTCL cell lines HuT-78 and HH
+T11	cell_type 1430 1440	CTCL cells
+T12	protein 1640 1653	p65 ( Rel A )
+T13	cell_line 1771 1785	CTCL cell line
+T14	cell_type 1788 1812	Neoplastic T lymphocytes
+T15	protein 1891 1911	active p65 ( Rel A )
+T16	cell_type 1938 1951	control cells
+T17	cell_line 2134 2149	CTCL cell lines
+T18	protein 2229 2253	NF-kappa B p65 ( Rel A )
+T19	cell_type 2279 2303	neoplastic T lymphocytes
+T20	cell_line 2329 2344	CTCL cell lines
+T21	protein 2523 2533	NF-kappa B

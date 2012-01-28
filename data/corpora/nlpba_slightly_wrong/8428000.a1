@@ -1,0 +1,22 @@
+T1	protein 0 13	Interleukin-3
+T2	cell_type 28 45	activated T cells
+T3	protein 70 92	T-cell-specific factor
+T4	protein 100 123	octamer binding protein
+T5	protein 126 139	Interleukin-3
+T6	protein 142 146	IL-3
+T7	cell_type 177 188	activated T
+T8	cell_type 193 213	natural killer cells
+T9	DNA 411 434	ACT-1-activating region
+T10	protein 442 446	IL-3
+T11	protein 491 513	T-cell-specific factor
+T12	DNA 523 530	5 ' end
+T13	protein 580 584	IL-3
+T14	DNA 638 645	3 ' end
+T15	protein 733 738	Oct-1
+T16	protein 745 792	immunologically related octamer-binding protein
+T17	DNA 855 874	regulatory elements
+T18	DNA 908 918	ACT-1 site
+T19	DNA 947 958	ARRE-1 site
+T20	DNA 966 979	IL-2 promoter
+T21	protein 1055 1059	IL-3
+T22	protein 1064 1068	IL-2

@@ -1,0 +1,25 @@
+T1	cell_type 69 99	CD4 ( + ) CD8 ( + ) thymocytes
+T2	cell_type 149 172	autoreactive thymocytes
+T3	protein 219 249	thymus-expressed self antigens
+T4	cell_type 334 347	DP thymocytes
+T5	cell_type 363 377	mature T cells
+T6	DNA 452 465	TCR transgene
+T7	protein 468 502	dominant negative ras/Mek proteins
+T8	DNA 509 532	reporter gene construct
+T9	DNA 538 570	AP-1 or NF-kappa B binding sites
+T10	protein 630 640	NF-kappa B
+T11	protein 649 653	AP-1
+T12	cell_type 657 670	DP thymocytes
+T13	cell_type 719 733	mature T cells
+T14	protein 772 782	NF-kappa B
+T15	protein 840 847	antigen
+T16	protein 850 854	AP-1
+T17	cell_type 969 982	DP thymocytes
+T18	protein 1058 1093	epsilon isoform of Protein Kinase C
+T19	protein 1096 1099	PKC
+T20	cell_type 1105 1118	DP thymocytes
+T21	cell_type 1148 1165	mature thymocytes
+T22	cell_type 1170 1188	peripheral T cells
+T23	protein 1243 1254	PKC epsilon
+T24	cell_type 1258 1271	DP thymocytes
+T25	protein 1301 1311	NF-kappa B

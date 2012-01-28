@@ -1,0 +1,18 @@
+T1	protein 40 62	nuclear factor-kappa B
+T2	cell_type 83 117	peripheral blood mononuclear cells
+T3	protein 180 239	redox-sensitive transcription factor nuclear factor-kappa B
+T4	protein 242 252	NF-kappa B
+T5	protein 336 346	NF-kappa B
+T6	protein 434 444	NF-kappa B
+T7	protein 682 692	NF-kappa B
+T8	cell_type 724 758	peripheral blood mononuclear cells
+T9	cell_type 761 766	PBMCs
+T10	protein 1024 1034	NF-kappa B
+T11	protein 1078 1088	NF-kappa B
+T12	cell_type 1127 1136	monocytes
+T13	protein 1194 1204	NF-kappa B
+T14	protein 1344 1354	NF-kappa B
+T15	protein 1449 1459	NF-kappa B
+T16	cell_type 1480 1485	PBMCs
+T17	protein 1521 1531	NF-kappa B
+T18	protein 1669 1679	NF-kappa B

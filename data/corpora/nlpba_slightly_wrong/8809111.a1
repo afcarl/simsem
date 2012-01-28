@@ -1,0 +1,22 @@
+T1	DNA 24 88	human myeloid cell nuclear differentiation antigen gene promoter
+T2	protein 91 95	MNDA
+T3	protein 98 142	myeloid cell nuclear differentiation antigen
+T4	protein 151 193	interferon alpha regulated nuclear protein
+T5	cell_type 225 253	human myelomonocytic lineage
+T6	DNA 359 380	5 ' flanking sequence
+T7	DNA 422 461	interferon-stimulated response elements
+T8	DNA 464 468	ISRE
+T9	protein 532 536	MNDA
+T10	DNA 542 577	TATA-less interferon-regulated gene
+T11	DNA 586 598	DNA elements
+T12	DNA 628 637	Myb sites
+T13	DNA 648 651	Ets
+T14	DNA 657 678	Ets related PU.1 site
+T15	DNA 686 694	Sp1 site
+T16	DNA 724 749	transcription start sites
+T17	protein 842 846	MNDA
+T18	DNA 864 885	5 ' flanking sequence
+T19	protein 929 945	interferon alpha
+T20	protein 975 979	MNDA
+T21	DNA 1035 1069	myelomonocytic cell specific genes
+T22	protein 1096 1112	interferon alpha

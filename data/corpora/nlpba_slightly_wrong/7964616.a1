@@ -1,0 +1,40 @@
+T1	protein 27 63	Epstein-Barr virus nuclear antigen 2
+T2	protein 66 72	EBNA-2
+T3	protein 111 165	latent membrane protein gene promoter-binding proteins
+T4	cell_line 169 195	EBNA-2-positive cell lines
+T5	protein 202 246	Epstein-Barr virus ( EBV ) nuclear antigen 2
+T6	protein 249 255	EBNA-2
+T7	cell_type 306 327	human primary B cells
+T8	protein 337 343	EBNA-2
+T9	DNA 360 384	cellular and viral genes
+T10	DNA 390 394	CD23
+T11	DNA 397 402	c-fgr
+T12	protein 405 430	latent membrane protein 1
+T13	protein 433 437	LMP1
+T14	protein 444 462	terminal protein 1
+T15	protein 465 468	TP1
+T16	DNA 497 509	TP1 promoter
+T17	DNA 521 537	BamHI C promoter
+T18	protein 667 680	EBNA-2 type A
+T19	protein 712 718	EBNA-2
+T20	DNA 767 775	LMP gene
+T21	DNA 836 855	cis-acting elements
+T22	DNA 863 875	LMP promoter
+T23	protein 890 896	EBNA-2
+T24	protein 946 952	EBNA-2
+T25	DNA 978 990	LMP promoter
+T26	DNA 1106 1128	LMP promoter fragments
+T27	DNA 1173 1195	protein-binding region
+T28	DNA 1203 1215	LMP promoter
+T29	DNA 1229 1243	42 bp fragment
+T30	DNA 1298 1328	LMP transcriptional start site
+T31	protein 1395 1401	EBNA-2
+T32	protein 1485 1491	EBNA-2
+T33	protein 1506 1512	EBNA-2
+T34	protein 1631 1638	EBNA-2A
+T35	DNA 1646 1658	TP1 promoter
+T36	protein 1766 1795	LMP promoter-binding proteins
+T37	cell_type 1832 1852	EBNA-2-positive cell
+T38	cell_line 1944 1965	EBNA-2-positive cells
+T39	protein 1987 2005	specific complexes
+T40	DNA 2019 2031	LMP promoter

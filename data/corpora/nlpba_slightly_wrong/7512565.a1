@@ -1,0 +1,41 @@
+T1	protein 0 3	Sp1
+T2	protein 66 76	human CD14
+T3	protein 79 83	CD14
+T4	protein 89 110	membrane glycoprotein
+T5	cell_type 137 146	monocytes
+T6	cell_type 151 162	macrophages
+T7	cell_type 228 236	monocyte
+T8	DNA 273 282	CD14 gene
+T9	DNA 300 315	human CD14 gene
+T10	DNA 342 377	EcoRI digested chromosome 5 library
+T11	DNA 382 408	5.5-kilobase genomic clone
+T12	DNA 435 455	CD14 coding sequence
+T13	DNA 460 497	4.2 kilobases of 5'-upstream sequence
+T14	DNA 504 548	major and one minor transcription start site
+T15	DNA 565 603	101 and 130 base pairs ( bp ) upstream
+T16	DNA 630 659	protein translation start ATG
+T17	DNA 664 676	DNA fragment
+T18	DNA 688 715	128 bp of upstream sequence
+T19	cell_line 772 805	CD14 positive monocytic cell line
+T20	cell_line 806 816	Mono Mac 6
+T21	cell_line 836 859	nonmonocytic cell lines
+T22	cell_line 860 864	HeLa
+T23	cell_line 869 872	REX
+T24	DNA 896 908	DNA fragment
+T25	protein 923 939	nuclear proteins
+T26	cell_type 954 969	monocytic cells
+T27	protein 976 979	Sp1
+T28	protein 980 1000	transcription factor
+T29	DNA 1041 1054	CD14 promoter
+T30	DNA 1073 1095	major Sp1 binding site
+T31	DNA 1098 1105	-110 bp
+T32	protein 1235 1238	Sp1
+T33	protein 1298 1302	CD14
+T34	cell_type 1306 1321	monocytic cells
+T35	protein 1324 1328	CD14
+T36	protein 1329 1332	Sp1
+T37	protein 1381 1400	105-kDa Sp1 species
+T38	cell_type 1449 1458	monocytic
+T39	cell_type 1464 1483	non-monocytic cells
+T40	protein 1518 1521	Sp1
+T41	protein 1570 1573	Sp1

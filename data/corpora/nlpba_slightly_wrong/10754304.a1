@@ -1,0 +1,27 @@
+T1	protein 0 5	LIGHT
+T2	protein 10 27	TNF-like molecule
+T3	cell_type 84 98	dendritic cell
+T4	protein 138 143	LIGHT
+T5	protein 183 198	TNF superfamily
+T6	protein 219 245	herpesvirus entry mediator
+T7	protein 250 275	lymphotoxin beta receptor
+T8	cell_type 291 298	T cells
+T9	cell_type 303 316	stromal cells
+T10	protein 355 360	LIGHT
+T11	cell_type 389 413	immature dendritic cells
+T12	cell_type 416 419	DCs
+T13	cell_type 437 448	human PBMCs
+T14	protein 465 470	LIGHT
+T15	cell_type 492 495	DCs
+T16	cell_type 525 530	PBMCs
+T17	protein 590 595	LIGHT
+T18	protein 603 620	soluble receptors
+T19	protein 623 651	lymphotoxin beta receptor-Ig
+T20	protein 655 662	HVEM-Ig
+T21	cell_type 691 693	DC
+T22	protein 769 774	LIGHT
+T23	protein 906 915	IFN-gamma
+T24	protein 926 930	IL-4
+T25	protein 999 1004	LIGHT
+T26	protein 1010 1032	costimulatory molecule
+T27	cell_type 1045 1047	DC

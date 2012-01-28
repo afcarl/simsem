@@ -1,0 +1,53 @@
+T1	protein 0 4	PU.1
+T2	protein 7 12	Spi-1
+T3	protein 19 30	C/EBP alpha
+T4	DNA 58 126	granulocyte-macrophage colony-stimulating factor receptor alpha gene
+T5	protein 129 152	Growth factor receptors
+T6	protein 348 369	transcription factors
+T7	DNA 403 482	granulocyte-macrophage colony-stimulating factor ( GM-CSF ) receptor alpha gene
+T8	DNA 516 552	human GM-CSF receptor alpha promoter
+T9	DNA 561 574	reporter gene
+T10	cell_type 616 636	myelomonocytic cells
+T11	DNA 731 761	GM-CSF receptor alpha promoter
+T12	DNA 868 887	reporter constructs
+T13	protein 919 946	B cell transcription factor
+T14	protein 947 951	PU.1
+T15	DNA 1022 1032	CCAAT site
+T16	DNA 1057 1066	PU.1 site
+T17	DNA 1148 1178	GM-CSF receptor alpha promoter
+T18	protein 1190 1201	C/EBP alpha
+T19	protein 1215 1245	CCAAT/enhancer-binding protein
+T20	protein 1248 1253	C/EBP
+T21	cell_line 1305 1315	U937 cells
+T22	DNA 1348 1357	PU.1 site
+T23	DNA 1365 1375	C/EBP site
+T24	DNA 1463 1493	GM-CSF receptor alpha promoter
+T25	cell_type 1506 1526	myelomonocytic cells
+T26	protein 1601 1605	PU.1
+T27	protein 1665 1670	PU-SF
+T28	protein 1690 1711	GM-CSF receptor alpha
+T29	DNA 1721 1730	PU.1 site
+T30	protein 1796 1800	PU.1
+T31	DNA 1806 1831	myeloid PU.1 binding site
+T32	DNA 1909 1930	B cell enhancer sites
+T33	protein 1964 1968	PU.1
+T34	cell_type 1994 2015	nonmyeloid cell types
+T35	protein 2037 2041	PU.1
+T36	cell_type 2054 2061	T cells
+T37	cell_type 2066 2082	epithelial cells
+T38	cell_type 2098 2113	erythroid cells
+T39	protein 2154 2167	PU-SF complex
+T40	protein 2177 2181	PU.1
+T41	DNA 2209 2226	myeloid promoters
+T42	DNA 2266 2275	PU.1 site
+T43	protein 2329 2333	PU.1
+T44	cell_type 2337 2353	nonmyeloid cells
+T45	DNA 2371 2401	GM-CSF receptor alpha promoter
+T46	protein 2420 2441	amino-terminal region
+T47	protein 2445 2449	PU.1
+T48	protein 2483 2488	PU-SF
+T49	protein 2577 2590	PU-SF complex
+T50	DNA 2643 2673	GM-CSF receptor alpha promoter
+T51	protein 2706 2717	C/EBP alpha
+T52	DNA 2738 2768	GM-CSF receptor alpha promoter
+T53	cell_type 2772 2788	nonmyeloid cells

@@ -1,0 +1,28 @@
+T1	protein 13 23	NF-kappa B
+T2	protein 89 104	I kappa B alpha
+T3	protein 123 144	Transcription factors
+T4	protein 162 179	NF-kappa B family
+T5	protein 198 227	inhibitory I kappa B proteins
+T6	protein 237 252	I kappa B alpha
+T7	protein 257 271	I kappa B beta
+T8	protein 303 318	I kappa B alpha
+T9	protein 509 527	nuclear NF-kappa B
+T10	RNA 532 537	mRNAs
+T11	protein 595 605	NF-kappa B
+T12	protein 608 618	NF-kappa B
+T13	protein 697 712	I kappa B alpha
+T14	protein 721 732	p50 subunit
+T15	protein 736 746	NF-kappa B
+T16	cell_type 815 834	hematopoietic cells
+T17	cell_line 837 877	I kappa B alpha-/- embryonic fibroblasts
+T18	protein 891 914	constitutive NF-kappa B
+T19	protein 952 962	NF-kappa B
+T20	protein 999 1013	I kappa B beta
+T21	protein 1079 1094	I kappa B alpha
+T22	protein 1148 1158	NF-kappa B
+T23	cell_type 1162 1173	fibroblasts
+T24	protein 1186 1201	I kappa B alpha
+T25	protein 1250 1260	NF-kappa B
+T26	cell_type 1264 1275	fibroblasts
+T27	protein 1335 1344	I kappa B
+T28	protein 1400 1410	NF-kappa B

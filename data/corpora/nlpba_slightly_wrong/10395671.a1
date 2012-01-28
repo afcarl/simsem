@@ -1,0 +1,45 @@
+T1	protein 18 32	Janus kinase 3
+T2	protein 33 40	-STAT5a
+T3	protein 55 59	CD40
+T4	cell_type 74 89	human monocytes
+T5	cell_type 101 116	resting B cells
+T6	protein 119 123	CD40
+T7	protein 124 129	/CD40
+T8	cell_type 193 206	B lymphocytes
+T9	cell_type 209 218	monocytes
+T10	cell_type 225 240	dendritic cells
+T11	protein 308 321	CD40 receptor
+T12	cell_line 350 362	B cell lines
+T13	protein 411 415	CD40
+T14	cell_type 431 440	monocytes
+T15	cell_line 445 470	resting tonsillar B cells
+T16	protein 500 504	CD40
+T17	cell_type 532 547	human monocytes
+T18	cell_type 552 567	resting B cells
+T19	protein 576 580	CD40
+T20	protein 622 631	NF-kappaB
+T21	protein 649 653	AP-1
+T22	protein 656 684	transcription factor complex
+T23	protein 754 773	NF-kappaB complexes
+T24	cell_type 792 801	monocytes
+T25	protein 824 827	p50
+T26	protein 843 860	NF-kappaB complex
+T27	protein 872 876	CD40
+T28	cell_type 896 905	monocytes
+T29	cell_type 910 917	B cells
+T30	protein 928 931	p65
+T31	cell_type 952 959	B cells
+T32	protein 989 1019	Janus kinase 3 tyrosine kinase
+T33	protein 1040 1044	CD40
+T34	cell_type 1063 1072	monocytes
+T35	cell_type 1077 1092	resting B cells
+T36	protein 1095 1109	Janus kinase 3
+T37	cell_line 1157 1181	CD40-activated monocytes
+T38	protein 1213 1219	STAT5a
+T39	cell_type 1311 1324	human B cells
+T40	cell_type 1329 1338	monocytes
+T41	protein 1356 1360	CD40
+T42	protein 1435 1439	CD40
+T43	protein 1486 1490	CD40
+T44	protein 1505 1508	IgM
+T45	protein 1538 1542	CD40

@@ -1,0 +1,45 @@
+T1	DNA 43 73	NF-kappa B regulatory elements
+T2	DNA 77 135	human immunodeficiency virus and beta interferon promoters
+T3	protein 139 160	tumor necrosis factor
+T4	protein 199 220	tumor necrosis factor
+T5	RNA 290 336	Tumor necrosis factor alpha ( TNF-alpha ) mRNA
+T6	cell_line 407 427	monocytic U937 cells
+T7	cell_line 437 476	chronically HIV infected U937 cell line
+T8	cell_line 479 486	U9-IIIB
+T9	RNA 491 504	TNF-alpha RNA
+T10	cell_line 525 535	U937 cells
+T11	cell_line 587 600	U9-IIIB cells
+T12	RNA 689 702	TNF-alpha RNA
+T13	cell_line 706 719	U9-IIIB cells
+T14	cell_line 734 744	U937 cells
+T15	cell_line 763 791	HIV-infected monocytic cells
+T16	protein 818 827	TNF-alpha
+T17	protein 901 910	TNF-alpha
+T18	DNA 981 1032	reporter chloramphenicol acetyltransferase plasmids
+T19	DNA 1043 1062	regulatory elements
+T20	DNA 1072 1096	HIV long terminal repeat
+T21	DNA 1099 1102	LTR
+T22	DNA 1113 1137	beta interferon promoter
+T23	cell_line 1143 1175	U937 and Jurkat T lymphoid cells
+T24	DNA 1212 1228	hybrid promoters
+T25	protein 1232 1241	TNF-alpha
+T26	DNA 1352 1382	NF-kappa B-containing plasmids
+T27	protein 1421 1431	NF-kappa B
+T28	DNA 1475 1499	beta interferon promoter
+T29	protein 1547 1556	TNF-alpha
+T30	DNA 1576 1607	PRDII NF-kappa B-binding domain
+T31	protein 1640 1649	TNF-alpha
+T32	DNA 1689 1696	HIV LTR
+T33	cell_type 1700 1707	T cells
+T34	cell_type 1717 1732	monocytic cells
+T35	protein 1735 1744	TNF-alpha
+T36	DNA 1764 1771	HIV LTR
+T37	protein 1827 1837	NF-kappa B
+T38	protein 1918 1927	TNF-alpha
+T39	RNA 2014 2023	viral RNA
+T40	cell_line 2038 2048	U937 cells
+T41	cell_line 2064 2076	Jurkat cells
+T42	protein 2079 2088	TNF-alpha
+T43	RNA 2173 2182	viral RNA
+T44	cell_type 2214 2221	T cells
+T45	protein 2261 2270	TNF-alpha

@@ -1,0 +1,31 @@
+T1	protein 15 44	NF-kappaB p50/p65 heterodimer
+T2	DNA 66 98	human pro-interleukin-1beta gene
+T3	DNA 124 149	upstream enhancer element
+T4	DNA 205 223	transcription site
+T5	DNA 231 279	human pro-interleukin 1beta ( proIL-1beta ) gene
+T6	DNA 301 332	LPS-responsive enhancer element
+T7	DNA 390 413	between -3134 and -2987
+T8	DNA 453 469	proIL-1beta gene
+T9	cell_line 473 503	LPS-stimulated Raw 264.7 cells
+T10	DNA 583 598	-CAT constructs
+T11	DNA 614 642	serial 5'-deletion mutations
+T12	DNA 786 812	synthetic oligonucleotides
+T13	DNA 930 951	protein binding sites
+T14	protein 1134 1155	transcription factors
+T15	protein 1208 1228	NF-kappaB components
+T16	protein 1229 1232	p50
+T17	protein 1237 1240	p65
+T18	protein 1269 1287	NF-kappaB proteins
+T19	protein 1290 1293	p52
+T20	protein 1296 1301	c-Rel
+T21	protein 1304 1309	Rel B
+T22	protein 1314 1327	AP-1 proteins
+T23	protein 1330 1335	c-Fos
+T24	protein 1338 1343	C-Jun
+T25	protein 1348 1352	CREB
+T26	protein 1356 1365	C/EBPbeta
+T27	protein 1368 1374	NF-IL6
+T28	DNA 1414 1437	NF-kappaB-binding sites
+T29	DNA 1548 1571	NF-kappaB-binding sites
+T30	DNA 1600 1615	-3134 and -3059
+T31	DNA 1653 1669	proIL-1beta gene

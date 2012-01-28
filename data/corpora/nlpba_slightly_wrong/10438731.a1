@@ -1,0 +1,52 @@
+T1	protein 0 9	C/EBPbeta
+T2	protein 14 20	GATA-1
+T3	DNA 62 109	eosinophil granule major basic protein promoter
+T4	protein 128 137	C/EBPbeta
+T5	protein 179 217	Eosinophil granule major basic protein
+T6	protein 220 223	MBP
+T7	cell_type 254 265	eosinophils
+T8	cell_type 270 279	basophils
+T9	cell_type 283 302	hematopoietic cells
+T10	protein 382 388	GATA-1
+T11	protein 424 430	GATA-2
+T12	protein 434 437	MBP
+T13	DNA 483 502	MBP promoter region
+T14	DNA 516 579	C/EBP ( CCAAT/enhancer-binding protein ) consensus binding site
+T15	DNA 612 629	GATA-binding site
+T16	DNA 637 645	MBP gene
+T17	cell_line 655 670	cell line HT93A
+T18	cell_type 726 736	eosinophil
+T19	RNA 799 814	C/EBPalpha mRNA
+T20	protein 923 932	C/EBPbeta
+T21	protein 1041 1050	C/EBPbeta
+T22	DNA 1087 1105	C/EBP-binding site
+T23	DNA 1108 1121	bp -90 to -82
+T24	protein 1131 1134	MBP
+T25	protein 1191 1200	C/EBPbeta
+T26	protein 1205 1211	GATA-1
+T27	DNA 1254 1272	GATA-binding sites
+T28	DNA 1280 1292	MBP promoter
+T29	DNA 1338 1368	C/EBP- and GATA- binding sites
+T30	protein 1391 1400	C/EBPbeta
+T31	protein 1405 1411	GATA-1
+T32	DNA 1430 1442	MBP promoter
+T33	cell_line 1450 1498	C/EBPbeta and GATA-1 negative Jurkat T-cell line
+T34	DNA 1521 1560	C/EBPbeta and GATA-1 expression vectors
+T35	protein 1626 1635	C/EBPbeta
+T36	DNA 1639 1664	GATA-1 expression vectors
+T37	protein 1694 1697	GST
+T38	protein 1770 1776	GATA-1
+T39	protein 1781 1790	C/EBPbeta
+T40	protein 1807 1810	FOG
+T41	protein 1813 1822	riend ATA
+T42	protein 1842 1848	GATA-1
+T43	protein 1876 1897	GATA-binding proteins
+T44	protein 1938 1944	GATA-1
+T45	DNA 1953 1965	MBP promoter
+T46	protein 2044 2050	GATA-1
+T47	protein 2055 2064	C/EBPbeta
+T48	DNA 2099 2107	promoter
+T49	DNA 2114 2154	eosinophil-specific granule protein gene
+T50	protein 2164 2167	FOG
+T51	cell_type 2207 2225	eosinophil lineage
+T52	cell_type 2278 2314	erythroid and megakaryocyte lineages

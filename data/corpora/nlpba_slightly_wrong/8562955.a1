@@ -1,0 +1,29 @@
+T1	protein 0 3	Fas
+T2	protein 35 45	Jun kinase
+T3	protein 74 78	CD45
+T4	protein 83 86	Lck
+T5	cell_type 90 103	human T cells
+T6	protein 130 148	Fas/APO-1 receptor
+T7	protein 312 335	T-cell antigen receptor
+T8	protein 338 341	TCR
+T9	protein 369 372	TCR
+T10	protein 403 432	membrane tyrosine phosphatase
+T11	protein 435 439	CD45
+T12	protein 450 467	Src-family kinase
+T13	protein 470 473	Lck
+T14	protein 553 577	protein tyrosine kinases
+T15	protein 598 601	Fas
+T16	cell_type 668 675	T cells
+T17	protein 696 700	CD45
+T18	protein 704 707	Lck
+T19	cell_line 734 767	CD45- or Lck-deficient cell lines
+T20	protein 811 821	Jun kinase
+T21	protein 824 827	JNK
+T22	protein 1060 1063	JNK
+T23	protein 1145 1148	JNK
+T24	protein 1163 1166	Fas
+T25	protein 1210 1214	CD45
+T26	protein 1219 1222	Lck
+T27	protein 1244 1247	Fas
+T28	protein 1260 1263	JNK
+T29	protein 1358 1361	Fas

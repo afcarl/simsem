@@ -1,0 +1,26 @@
+T1	protein 32 45	tissue factor
+T2	cell_type 244 253	monocytes
+T3	protein 373 386	tissue factor
+T4	protein 389 391	TF
+T5	protein 428 430	TF
+T6	protein 509 511	TF
+T7	protein 621 623	TF
+T8	cell_type 636 670	peripheral blood mononuclear cells
+T9	cell_type 675 712	highly purified monocytes/macrophages
+T10	protein 797 799	TF
+T11	cell_line 827 839	unstimulated
+T12	cell_line 844 870	endotoxin-stimulated cells
+T13	protein 979 981	TF
+T14	protein 1077 1079	TF
+T15	protein 1185 1187	TF
+T16	protein 1310 1326	interferon-gamma
+T17	protein 1330 1347	interleukin-1beta
+T18	RNA 1506 1513	TF mRNA
+T19	protein 1555 1585	NF-kappaB transcription factor
+T20	DNA 1641 1652	TF promotor
+T21	cell_type 1656 1671	human monocytes
+T22	protein 1717 1719	TF
+T23	cell_type 1746 1763	mononuclear cells
+T24	protein 1859 1861	TF
+T25	protein 2040 2042	TF
+T26	protein 2058 2067	NF-kappaB

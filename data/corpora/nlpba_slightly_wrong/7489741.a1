@@ -1,0 +1,21 @@
+T1	protein 0 13	Interleukin-7
+T2	protein 43 48	Jak 1
+T3	protein 51 56	Jak 3
+T4	protein 61 76	STAT 5 proteins
+T5	cell_type 87 94	T cells
+T6	protein 115 145	Janus protein tyrosine kinases
+T7	protein 148 151	Jak
+T8	protein 158 224	STAT ( signal transducer and activator of transcription ) proteins
+T9	protein 298 307	cytokines
+T10	protein 310 314	IL-7
+T11	protein 393 398	Jak 1
+T12	protein 403 408	Jak 3
+T13	protein 495 508	STAT proteins
+T14	protein 515 528	STAT proteins
+T15	protein 541 545	IL-7
+T16	protein 581 585	IL-2
+T17	protein 621 636	STAT 5 isoforms
+T18	protein 672 683	Jak 1 and 3
+T19	protein 690 696	STAT 5
+T20	protein 763 767	IL-7
+T21	protein 844 848	IL-7

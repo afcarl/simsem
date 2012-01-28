@@ -1,0 +1,56 @@
+T1	protein 32 35	HS1
+T2	protein 57 92	nuclear factor of activated T cells
+T3	cell_line 123 137	Jurkat T cells
+T4	protein 171 174	CD3
+T5	protein 207 210	CD2
+T6	protein 215 219	CD28
+T7	protein 222 225	CD3
+T8	protein 228 231	CD2
+T9	protein 238 242	CD28
+T10	cell_type 282 295	T lymphocytes
+T11	protein 399 431	intracellular signaling proteins
+T12	protein 444 447	Vav
+T13	protein 450 453	Cbl
+T14	protein 456 485	p85 phosphoinositide 3-kinase
+T15	protein 496 514	Src family kinases
+T16	protein 515 518	Lck
+T17	protein 523 526	Fyn
+T18	protein 541 544	CD3
+T19	protein 590 593	HS1
+T20	protein 598 664	75-kDa hematopoietic cell-specific intracellular signaling protein
+T21	protein 715 718	HS1
+T22	protein 769 772	CD3
+T23	protein 775 778	CD2
+T24	protein 785 789	CD28
+T25	cell_type 815 822	T cells
+T26	protein 921 924	CD3
+T27	protein 944 957	anti-CD28 mAb
+T28	cell_line 961 970	CHO cells
+T29	protein 986 998	CD28 ligands
+T30	protein 999 1003	CD80
+T31	protein 1007 1011	CD86
+T32	protein 1056 1059	HS1
+T33	cell_line 1063 1077	Jurkat T cells
+T34	protein 1126 1129	HS1
+T35	cell_type 1145 1160	mitogenic pairs
+T36	protein 1164 1177	anti-CD2 mAbs
+T37	protein 1204 1229	transcription factor NFAT
+T38	protein 1232 1267	nuclear factor of activated T cells
+T39	protein 1294 1298	CD28
+T40	protein 1306 1309	CD2
+T41	protein 1331 1334	CD3
+T42	protein 1365 1368	HS1
+T43	protein 1402 1405	CD3
+T44	protein 1415 1418	HSI
+T45	protein 1463 1489	Src family tyrosine kinase
+T46	protein 1490 1493	Lck
+T47	protein 1502 1522	tyrosine phosphatase
+T48	protein 1523 1527	CD45
+T49	protein 1546 1550	MEK1
+T50	protein 1590 1606	protein kinase C
+T51	protein 1636 1639	CD3
+T52	protein 1642 1646	CD28
+T53	protein 1683 1702	signaling molecules
+T54	protein 1779 1782	HSI
+T55	protein 1848 1851	HS1
+T56	protein 1873 1877	NFAT

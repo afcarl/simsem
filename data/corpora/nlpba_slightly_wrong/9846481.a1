@@ -1,0 +1,30 @@
+T1	protein 25 56	Syk kinases-interacting protein
+T2	protein 57 61	3BP2
+T3	protein 65 69	IL-2
+T4	protein 88 115	Syk-family tyrosine kinases
+T5	protein 218 250	Syk kinases-interacting proteins
+T6	protein 253 258	SKIPs
+T7	protein 275 279	3BP2
+T8	protein 285 312	Abl SH3-interacting protein
+T9	protein 335 339	3BP2
+T10	protein 418 457	SH2 domain activated Syk-family kinases
+T11	cell_type 461 476	mammalian cells
+T12	cell_type 492 527	antigen receptor-stimulated T cells
+T13	protein 545 551	Zap-70
+T14	protein 558 573	3BP2 SH2 domain
+T15	protein 599 602	LAT
+T16	protein 605 609	Grb2
+T17	protein 612 621	PLCgamma1
+T18	protein 628 631	Cbl
+T19	protein 674 678	3BP2
+T20	DNA 736 749	IL-2 promoter
+T21	DNA 758 779	NFAT or AP-1 elements
+T22	protein 817 820	SH2
+T23	protein 825 852	pleckstrin-homology domains
+T24	protein 856 860	3BP2
+T25	protein 887 898	Syk kinases
+T26	protein 901 904	Ras
+T27	protein 911 922	calcineurin
+T28	protein 932 936	3BP2
+T29	protein 987 997	Zap-70/Syk
+T30	protein 1003 1035	LAT-containing signaling complex

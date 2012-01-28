@@ -1,0 +1,42 @@
+T1	protein 0 11	Interferons
+T2	protein 24 29	STAT1
+T3	protein 32 37	STAT2
+T4	protein 44 47	IRF
+T5	cell_type 95 135	human peripheral blood mononuclear cells
+T6	cell_type 140 151	macrophages
+T7	protein 154 157	IFN
+T8	protein 194 198	IFNs
+T9	protein 271 274	JAK
+T10	protein 279 283	STAT
+T11	protein 330 339	IFN-alpha
+T12	protein 365 422	IFN-stimulated gene factor 3 transcription factor complex
+T13	protein 433 438	STAT1
+T14	protein 441 446	STAT2
+T15	protein 453 464	p48 protein
+T16	protein 467 476	IFN-gamma
+T17	protein 502 527	homodimeric STAT1 protein
+T18	protein 652 656	IFNs
+T19	protein 699 766	STAT and IFN regulatory factor ( IRF ) family transcription factors
+T20	cell_type 770 807	primary human blood mononuclear cells
+T21	cell_type 812 823	macrophages
+T22	protein 890 899	IFN-alpha
+T23	protein 904 913	IFN-gamma
+T24	protein 947 952	STAT1
+T25	protein 955 960	STAT2
+T26	protein 963 966	p48
+T27	DNA 973 983	IRF-1 gene
+T28	protein 997 1006	IFN-gamma
+T29	DNA 1015 1025	IRF-1 gene
+T30	protein 1056 1065	IFN-alpha
+T31	protein 1211 1215	IFNs
+T32	DNA 1218 1228	IRF-2 gene
+T33	protein 1270 1274	IFNs
+T34	cell_type 1297 1308	macrophages
+T35	protein 1343 1352	IFN-gamma
+T36	protein 1378 1387	IFN-alpha
+T37	protein 1429 1449	transcription factor
+T38	protein 1525 1530	STAT1
+T39	protein 1533 1538	STAT2
+T40	protein 1545 1556	p48 protein
+T41	protein 1604 1613	cytokines
+T42	protein 1630 1651	transcription factors

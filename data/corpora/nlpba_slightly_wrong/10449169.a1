@@ -1,0 +1,23 @@
+T1	cell_type 0 15	Dendritic cells
+T2	protein 153 176	arthrogenic autoantigen
+T3	cell_type 193 205	CD4+ T cells
+T4	protein 254 261	epitope
+T5	protein 273 285	HLA-DR chain
+T6	protein 320 327	HLA-DR4
+T7	protein 332 335	DR1
+T8	cell_type 481 501	autoreactive T cells
+T9	cell_type 572 599	Circulating dendritic cells
+T10	cell_type 602 604	DC
+T11	cell_type 658 691	normal peripheral blood ( PB ) DC
+T12	cell_type 740 755	perivascular DC
+T13	cell_type 792 799	T cells
+T14	cell_type 809 825	B cell follicles
+T15	cell_type 849 862	follicular DC
+T16	cell_type 871 886	perivascular DC
+T17	protein 997 1023	monocyte-derived cytokines
+T18	cell_type 1028 1048	CD40-ligand+ T cells
+T19	cell_type 1063 1065	DC
+T20	cell_type 1122 1141	monocyte-derived DC
+T21	protein 1505 1517	self-antigen
+T22	cell_type 1521 1523	DC
+T23	cell_type 1531 1561	autoantibody-producing B cells

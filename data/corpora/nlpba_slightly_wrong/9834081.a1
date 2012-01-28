@@ -1,0 +1,31 @@
+T1	protein 35 61	TNF- and cytokine-receptor
+T2	DNA 87 98	cis-element
+T3	DNA 106 138	IFN regulatory factor 1 promoter
+T4	protein 141 145	CD40
+T5	cell_type 160 167	B cells
+T6	protein 210 219	cytokines
+T7	protein 329 352	IFN regulatory factor 1
+T8	protein 355 360	IRF-1
+T9	protein 368 388	transcription factor
+T10	protein 409 413	CD40
+T11	protein 417 426	cytokines
+T12	DNA 550 576	IRF-1 gamma-activated site
+T13	DNA 579 582	GAS
+T14	DNA 604 613	IRF-1 GAS
+T15	protein 648 652	CD40
+T16	protein 697 701	CD40
+T17	protein 727 736	TNF-alpha
+T18	protein 775 780	STATs
+T19	protein 784 793	cytokines
+T20	DNA 800 809	IRF-1 GAS
+T21	protein 840 844	CD40
+T22	protein 847 856	TNF-alpha
+T23	protein 875 887	Rel proteins
+T24	protein 903 906	p50
+T25	protein 911 914	p65
+T26	protein 959 964	CD40L
+T27	protein 986 990	IL-4
+T28	protein 994 1003	IFN-gamma
+T29	protein 1045 1063	Rel/STAT complexes
+T30	protein 1090 1095	IRF-1
+T31	protein 1216 1221	IRF-1

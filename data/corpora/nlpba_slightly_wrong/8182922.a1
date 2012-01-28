@@ -1,0 +1,47 @@
+T1	DNA 13 27	proto-oncogene
+T2	protein 32 40	cytokine
+T3	cell_type 78 87	monocytes
+T4	cell_line 96 115	monocytic cell line
+T5	cell_line 116 121	THP-1
+T6	cell_type 304 321	murine thymocytes
+T7	cell_type 325 351	cytolytic effector T-cells
+T8	protein 367 371	IL-6
+T9	cell_type 385 399	adherent cells
+T10	cell_type 447 456	monocytes
+T11	cell_type 459 463	PBMo
+T12	protein 505 514	IL-1 beta
+T13	protein 517 521	IL-6
+T14	protein 526 535	TNF alpha
+T15	RNA 612 640	IL-1 beta and TNF alpha mRNA
+T16	cell_line 658 673	THP-1 cell line
+T17	cell_type 701 714	primary cells
+T18	cell_type 732 736	PBMo
+T19	cell_line 739 744	THP-1
+T20	cell_line 758 803	monocytic/myeloid leukemia-derived cell lines
+T21	protein 846 855	cytokines
+T22	DNA 883 907	IL-1 beta and IL-6 genes
+T23	DNA 916 934	AP-1 binding sites
+T24	DNA 938 957	regulatory elements
+T25	protein 964 968	AP-1
+T26	protein 995 1024	c-jun and c-fos gene products
+T27	cell_line 1030 1041	THP-1 cells
+T28	RNA 1042 1052	c-jun mRNA
+T29	DNA 1116 1121	c-fos
+T30	protein 1183 1187	AP-1
+T31	protein 1198 1206	cytokine
+T32	cell_type 1238 1242	PBMo
+T33	cell_type 1291 1304	primary cells
+T34	RNA 1331 1344	cytokine mRNA
+T35	DNA 1388 1393	c-fos
+T36	DNA 1420 1425	c-jun
+T37	RNA 1457 1467	c-myc mRNA
+T38	cell_line 1504 1515	THP-1 cells
+T39	cell_type 1549 1553	PBMo
+T40	RNA 1601 1614	cytokine mRNA
+T41	DNA 1655 1669	proto-oncogene
+T42	cell_type 1683 1687	PBMo
+T43	cell_line 1692 1703	THP-1 cells
+T44	protein 1853 1857	AP-1
+T45	protein 1866 1879	c-myc protein
+T46	protein 2028 2047	mycoplasma products
+T47	cell_type 2103 2119	eukaryotic cells

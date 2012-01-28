@@ -1,0 +1,32 @@
+T1	protein 0 5	c-Myc
+T2	protein 10 13	E1A
+T3	cell_type 46 64	activated NK cells
+T4	cell_type 129 156	natural killer ( NK ) cells
+T5	cell_type 162 175	foreign cells
+T6	cell_type 193 222	virus-infected or tumor cells
+T7	cell_type 259 267	NK cells
+T8	cell_type 313 339	cytotoxic NK cell granules
+T9	protein 346 358	oncoproteins
+T10	protein 359 364	c-Myc
+T11	protein 369 372	E1A
+T12	cell_type 506 519	foreign cells
+T13	cell_type 522 537	rat fibroblasts
+T14	cell_type 561 590	human IL-2 activated NK cells
+T15	cell_type 610 618	NK cells
+T16	protein 714 719	c-Myc
+T17	protein 723 726	E1A
+T18	cell_type 755 786	oncogene expressing fibroblasts
+T19	cell_type 848 856	NK cells
+T20	cell_type 878 886	NK cells
+T21	cell_type 960 1008	oncogene expressing sensitive target fibroblasts
+T22	protein 1045 1058	wild-type p53
+T23	protein 1087 1116	anti-apoptotic protein EIB19K
+T24	protein 1156 1161	c-Myc
+T25	protein 1166 1169	E1A
+T26	protein 1295 1300	c-Myc
+T27	protein 1305 1308	E1A
+T28	cell_type 1324 1335	fibroblasts
+T29	cell_type 1423 1437	parental cells
+T30	DNA 1463 1472	oncogenes
+T31	cell_type 1589 1597	NK cells
+T32	cell_type 1610 1641	virus-infected and cancer cells

@@ -1,0 +1,18 @@
+T1	protein 28 48	transcription factor
+T2	cell_type 63 85	stimulated lymphocytes
+T3	protein 174 178	IL-2
+T4	cell_type 207 251	Purified quiescent human blood T lymphocytes
+T5	protein 546 567	transcription factors
+T6	protein 570 578	NFkappaB
+T7	protein 581 585	AP-1
+T8	protein 590 594	NFAT
+T9	cell_type 619 630	lymphocytes
+T10	cell_type 676 687	lymphocytes
+T11	protein 842 850	catalase
+T12	cell_type 867 878	lymphocytes
+T13	protein 958 966	catalase
+T14	protein 1027 1047	transcription factor
+T15	cell_type 1143 1160	human lymphocytes
+T16	cell_type 1211 1228	human lymphocytes
+T17	protein 1290 1298	catalase
+T18	protein 1330 1350	transcription factor

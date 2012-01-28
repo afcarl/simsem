@@ -1,0 +1,19 @@
+T1	cell_type 52 87	leukemic large granular lymphocytes
+T2	cell_type 201 242	antigen-activated cytotoxic T lymphocytes
+T3	cell_type 251 265	leukemic cells
+T4	protein 340 343	Fas
+T5	cell_type 360 372	leukemic LGL
+T6	protein 415 430	activated STAT3
+T7	cell_type 446 458	leukemic LGL
+T8	protein 566 570	STAT
+T9	cell_type 727 739	leukemic LGL
+T10	cell_type 770 782	leukemic LGL
+T11	protein 859 885	Bcl-2-family protein Mcl-1
+T12	protein 934 949	Activated STAT3
+T13	DNA 971 990	SIE-related element
+T14	DNA 998 1019	murine mcl-1 promoter
+T15	protein 1118 1123	STAT3
+T16	DNA 1169 1183	mcl-1 promoter
+T17	protein 1249 1254	STAT3
+T18	cell_type 1301 1320	leukemic LGL clones
+T19	protein 1408 1413	STAT3

@@ -1,0 +1,24 @@
+T1	protein 0 5	NF-AT
+T2	protein 30 34	CAML
+T3	protein 62 104	tumor necrosis factor receptor superfamily
+T4	protein 125 160	nuclear factor of activated T cells
+T5	protein 161 181	transcription factor
+T6	protein 184 189	NF-AT
+T7	protein 242 299	CAML ( calcium-modulator and cyclophilin ligand ) protein
+T8	protein 318 323	NF-AT
+T9	cell_line 357 371	Jurkat T cells
+T10	protein 390 432	tumor necrosis factor receptor superfamily
+T11	protein 476 480	CAML
+T12	protein 505 532	lymphocyte-specific protein
+T13	protein 546 550	TACI
+T14	protein 553 596	transmembrane activator and CAML-interactor
+T15	cell_line 619 643	transfected Jurkat cells
+T16	protein 649 673	TACI-specific antibodies
+T17	protein 699 720	transcription factors
+T18	protein 721 726	NF-AT
+T19	protein 729 733	AP-1
+T20	protein 740 748	NFkappaB
+T21	protein 751 755	TACI
+T22	protein 779 784	NF-AT
+T23	protein 815 844	dominant-negative CAML mutant
+T24	protein 864 868	CAML

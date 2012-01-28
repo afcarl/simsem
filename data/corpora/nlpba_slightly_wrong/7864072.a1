@@ -1,0 +1,20 @@
+T1	cell_type 65 105	human peripheral blood mononuclear cells
+T2	protein 231 251	transcription factor
+T3	protein 292 313	transcription factors
+T4	protein 316 335	activator protein-1
+T5	protein 338 342	AP-1
+T6	protein 347 369	nuclear factor kappa B
+T7	protein 372 382	NF kappa B
+T8	protein 391 430	cAMP-responsive element binding protein
+T9	protein 433 437	CREB
+T10	protein 453 477	glucocorticoid receptors
+T11	protein 480 482	GR
+T12	cell_type 501 541	human peripheral blood mononuclear cells
+T13	protein 653 657	AP-1
+T14	protein 714 718	CREB
+T15	DNA 821 852	glucocorticoid response element
+T16	protein 987 995	cytokine
+T17	protein 1089 1091	GR
+T18	protein 1130 1151	transcription factors
+T19	protein 1188 1190	GR
+T20	protein 1225 1266	cytokine-stimulated transcription factors

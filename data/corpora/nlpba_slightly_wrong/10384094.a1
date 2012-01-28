@@ -1,0 +1,32 @@
+T1	protein 33 56	NF of activated T cells
+T2	cell_type 60 71	eosinophils
+T3	protein 88 92	IL-4
+T4	protein 97 101	IL-5
+T5	protein 119 125	NF-AT1
+T6	protein 130 136	NF-AT4
+T7	cell_type 170 189	resting eosinophils
+T8	protein 200 206	NF-AT2
+T9	protein 211 217	NF-AT3
+T10	RNA 250 261	NF-AT1 mRNA
+T11	RNA 266 277	NF-AT4 mRNA
+T12	cell_type 300 319	resting eosinophils
+T13	protein 380 404	Th2-associated cytokines
+T14	protein 405 409	IL-4
+T15	protein 414 418	IL-5
+T16	protein 444 449	NF-AT
+T17	cell_type 486 505	resting eosinophils
+T18	protein 516 522	NF-ATs
+T19	cell_line 547 598	IL-4- , IL-5- , or ionomycin-stimulated eosinophils
+T20	protein 606 612	NF-AT1
+T21	protein 617 623	NF-AT4
+T22	protein 634 640	NF-AT2
+T23	protein 645 651	NF-AT3
+T24	cell_line 691 727	IL-4- or IL-5-stimulated eosinophils
+T25	cell_line 804 819	Th2 lymphocytes
+T26	cell_type 834 845	eosinophils
+T27	protein 865 869	IL-4
+T28	protein 874 878	IL-5
+T29	protein 899 904	NF-AT
+T30	cell_type 908 919	eosinophils
+T31	cell_type 1002 1013	eosinophils
+T32	cell_line 1018 1033	Th2 lymphocytes

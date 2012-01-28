@@ -1,0 +1,31 @@
+T1	DNA 21 25	HB24
+T2	DNA 30 58	diverged human homeobox gene
+T3	DNA 137 159	diverged homeobox gene
+T4	DNA 162 166	HB24
+T5	cell_line 252 266	Jurkat T cells
+T6	DNA 290 311	constitutive promoter
+T7	DNA 338 342	HB24
+T8	RNA 390 399	HB24 mRNA
+T9	cell_type 449 466	activated T cells
+T10	cell_line 589 602	transfectants
+T11	DNA 615 620	c-fos
+T12	DNA 623 628	c-myc
+T13	DNA 631 636	c-myb
+T14	DNA 639 645	HLA-DR
+T15	DNA 648 651	lck
+T16	protein 654 664	NF-kappa B
+T17	DNA 667 680	interleukin-2
+T18	DNA 685 713	interleukin-2 receptor alpha
+T19	DNA 716 727	IL-2R alpha
+T20	protein 744 755	IL-2R alpha
+T21	DNA 796 827	IL-2R alpha promoter constructs
+T22	cell_line 837 855	HB24 transfectants
+T23	cell_line 905 965	phytohemagglutinin- and phorbol ester-activated Jurkat cells
+T24	DNA 994 1006	kappa B site
+T25	DNA 1014 1034	IL-2R alpha promoter
+T26	RNA 1085 1094	HB24 mRNA
+T27	cell_line 1108 1133	Jurkat HB24 transfectants
+T28	cell_line 1165 1183	control cell lines
+T29	DNA 1214 1218	HB24
+T30	cell_line 1256 1273	human T cell line
+T31	protein 1314 1336	transcriptional factor

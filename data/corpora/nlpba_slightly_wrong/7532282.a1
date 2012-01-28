@@ -1,0 +1,28 @@
+T1	protein 38 53	I kappa B alpha
+T2	RNA 136 162	I kappa B alpha/MAD-3 mRNA
+T3	protein 186 207	I kappa B alpha/MAD-3
+T4	DNA 214 234	immediate-early gene
+T5	cell_type 238 253	human monocytes
+T6	protein 437 460	I kappa B alpha protein
+T7	protein 599 622	I kappa B alpha protein
+T8	protein 656 696	NF-kappa B-related transcription factors
+T9	protein 753 763	NF-kappa B
+T10	DNA 777 803	I kappa B alpha/MAD-3 gene
+T11	RNA 888 914	I kappa B alpha/MAD-3 mRNA
+T12	protein 988 998	NF-kappa B
+T13	DNA 1045 1071	I kappa B alpha/MAD-3 gene
+T14	DNA 1139 1169	immediate-early cytokine genes
+T15	DNA 1184 1221	interleukin 1 beta ( IL-1 beta ) gene
+T16	DNA 1296 1322	I kappa B alpha/MAD-3 gene
+T17	RNA 1393 1419	I kappa B alpha/MAD-3 mRNA
+T18	RNA 1457 1461	mRNA
+T19	cell_type 1600 1618	adherent monocytes
+T20	RNA 1643 1657	IL-1 beta mRNA
+T21	RNA 1702 1728	I kappa B alpha/MAD-3 mRNA
+T22	RNA 1814 1850	monocytic I kappa B alpha/MAD-3 mRNA
+T23	cell_type 1876 1894	adherent monocytes
+T24	RNA 1939 1965	I kappa B alpha/MAD-3 mRNA
+T25	DNA 2019 2045	I kappa B alpha/MAD-3 gene
+T26	RNA 2136 2162	I kappa B alpha/MAD-3 mRNA
+T27	DNA 2183 2209	I kappa B alpha/MAD-3 gene
+T28	RNA 2268 2294	I kappa B alpha/MAD-3 mRNA

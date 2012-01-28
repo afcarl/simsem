@@ -1,0 +1,37 @@
+T1	protein 0 5	Bcl-2
+T2	protein 70 111	nuclear factor of activated T lymphocytes
+T3	protein 114 118	NFAT
+T4	protein 130 133	Fas
+T5	protein 157 162	Bcl-2
+T6	protein 297 302	Bcl-2
+T7	protein 390 402	Bcl-2 family
+T8	protein 411 414	Bax
+T9	protein 419 422	Bad
+T10	protein 531 542	microtubule
+T11	protein 568 571	Fas
+T12	protein 572 583	/Fas ligand
+T13	protein 586 590	FasL
+T14	protein 625 629	FasL
+T15	protein 689 694	Bcl-2
+T16	protein 788 792	FasL
+T17	protein 872 877	Bcl-2
+T18	protein 916 920	NFAT
+T19	protein 923 964	nuclear factor of activated T lymphocytes
+T20	protein 969 989	transcription factor
+T21	protein 1003 1014	microtubule
+T22	protein 1124 1128	NFAT
+T23	protein 1162 1166	NFAT
+T24	protein 1195 1199	FasL
+T25	protein 1289 1300	microtubule
+T26	protein 1363 1367	FasL
+T27	protein 1384 1389	Bcl-2
+T28	protein 1439 1450	calcineurin
+T29	protein 1473 1477	NFAT
+T30	protein 1517 1521	FasL
+T31	protein 1550 1555	Bcl-2
+T32	protein 1622 1627	Bcl-2
+T33	protein 1645 1650	Bcl-2
+T34	protein 1664 1675	calcineurin
+T35	protein 1682 1686	NFAT
+T36	protein 1700 1704	FasL
+T37	protein 1748 1753	Bcl-2

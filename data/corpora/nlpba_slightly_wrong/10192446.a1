@@ -1,0 +1,24 @@
+T1	protein 57 71	erythropoietin
+T2	cell_line 115 125	UT-7 cells
+T3	cell_line 317 331	UT-7 cell line
+T4	protein 458 461	Epo
+T5	protein 554 557	Epo
+T6	cell_line 673 683	UT-7 cells
+T7	protein 686 689	Epo
+T8	protein 825 831	GATA-2
+T9	protein 836 841	c-myb
+T10	protein 865 868	Epo
+T11	protein 875 881	GATA-2
+T12	protein 940 943	SCL
+T13	protein 975 978	Epo
+T14	protein 1027 1030	Epo
+T15	protein 1101 1114	glycophorin A
+T16	protein 1117 1120	GPA
+T17	protein 1140 1162	beta- and gamma-globin
+T18	protein 1236 1248	alpha-globin
+T19	protein 1281 1284	Epo
+T20	protein 1294 1305	beta-globin
+T21	cell_line 1429 1439	UT-7 cells
+T22	protein 1470 1518	erythroid-specific aminolaevulinic acid synthase
+T23	protein 1521 1527	ALAS-E
+T24	cell_line 1601 1625	multipotential cell line

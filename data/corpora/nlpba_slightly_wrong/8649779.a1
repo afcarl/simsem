@@ -1,0 +1,27 @@
+T1	protein 14 18	p105
+T2	protein 33 51	NF-kappaB proteins
+T3	cell_line 55 84	transiently transfected cells
+T4	protein 126 135	NF-kappaB
+T5	protein 183 216	NF-kappaB1 p105 precursor protein
+T6	protein 239 250	p50 subunit
+T7	protein 254 263	NF-kappaB
+T8	protein 284 288	p105
+T9	protein 524 528	p105
+T10	cell_type 543 556	human T cells
+T11	protein 602 619	precursor protein
+T12	cell_line 666 676	COS7 cells
+T13	protein 713 717	p105
+T14	protein 850 853	p50
+T15	protein 895 899	p105
+T16	protein 951 954	p50
+T17	protein 964 982	NF-kappaB subunits
+T18	protein 995 999	RelA
+T19	protein 1004 1009	c-Rel
+T20	protein 1042 1046	p105
+T21	protein 1095 1099	p105
+T22	protein 1149 1167	NF-kappaB subunits
+T23	protein 1198 1202	p105
+T24	cell_line 1228 1279	lipopolysaccharide-stimulated human monocytic cells
+T25	protein 1321 1325	p105
+T26	protein 1364 1367	p50
+T27	protein 1456 1460	p105

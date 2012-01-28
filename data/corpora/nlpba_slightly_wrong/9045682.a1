@@ -1,0 +1,34 @@
+T1	protein 0 4	Jak1
+T2	protein 123 128	Stat6
+T3	protein 129 148	signaling molecules
+T4	protein 155 200	Jak1 , Jak2 , Jak3 , and Fes tyrosine kinases
+T5	protein 275 296	interleukin ( IL ) -4
+T6	protein 469 493	intracellular substrates
+T7	cell_line 546 582	mutant Jak1-deficient HeLa cell line
+T8	cell_line 585 589	E1C3
+T9	cell_line 600 636	parental Jak1-expressing counterpart
+T10	cell_line 639 642	1D4
+T11	protein 668 672	Jak1
+T12	protein 792 829	insulin receptor substrate ( IRS ) -1
+T13	protein 834 839	IRS-2
+T14	cell_line 843 846	1D4
+T15	cell_line 858 868	E1C3 cells
+T16	protein 871 875	IL-4
+T17	protein 914 919	Stat6
+T18	cell_line 938 947	1D4 cells
+T19	protein 959 963	IL-4
+T20	protein 973 978	Stat6
+T21	cell_line 1011 1021	E1C3 cells
+T22	protein 1024 1028	IL-4
+T23	protein 1042 1047	Stat6
+T24	cell_line 1085 1088	1D4
+T25	cell_line 1097 1107	E1C3 cells
+T26	DNA 1120 1194	radiolabeled immunoglobulin heavy chain germline epsilon promotor sequence
+T27	DNA 1197 1205	Iepsilon
+T28	protein 1271 1275	Jak1
+T29	cell_line 1290 1300	E1C3 cells
+T30	protein 1325 1329	IL-4
+T31	DNA 1340 1343	IRS
+T32	protein 1348 1353	Stat6
+T33	protein 1417 1421	Jak1
+T34	protein 1532 1536	IL-4

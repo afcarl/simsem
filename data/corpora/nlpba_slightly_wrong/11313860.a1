@@ -1,0 +1,14 @@
+T1	protein 14 18	Mad1
+T2	cell_type 22 29	T cells
+T3	protein 126 130	Mad1
+T4	DNA 196 210	Mad1 transgene
+T5	cell_type 214 229	T lineage cells
+T6	DNA 255 276	proximal lck promoter
+T7	cell_type 381 406	thymocyte sub populations
+T8	cell_type 486 496	thymocytes
+T9	cell_type 668 678	thymocytes
+T10	cell_type 683 698	splenic T cells
+T11	protein 824 858	immobilized anti-CD3/CD28 antibody
+T12	protein 918 932	exogenous IL-2
+T13	protein 990 994	Mad1
+T14	protein 1024 1036	active c-Myc

@@ -1,0 +1,24 @@
+T1	protein 20 30	NF-kappa B
+T2	protein 36 57	serum response factor
+T3	DNA 89 132	interleukin-2 receptor alpha-chain enhancer
+T4	cell_type 149 162	T lymphocytes
+T5	DNA 218 241	NF-kappa B binding site
+T6	DNA 251 290	interleukin-2 receptor alpha-chain gene
+T7	protein 293 304	IL-2R alpha
+T8	cell_type 338 345	T cells
+T9	protein 352 363	IL-2R alpha
+T10	protein 379 389	NF-kappa B
+T11	DNA 433 448	NF-kappa B site
+T12	protein 457 478	Serum response factor
+T13	protein 481 484	SRF
+T14	DNA 519 534	NF-kappa B site
+T15	DNA 542 556	IL-2R enhancer
+T16	cell_type 636 643	T cells
+T17	protein 675 678	SRF
+T18	cell_type 707 714	T cells
+T19	protein 784 787	SRF
+T20	cell_type 791 798	B cells
+T21	DNA 810 824	IL-2R enhancer
+T22	cell_type 859 866	T cells
+T23	protein 903 906	SRF
+T24	cell_type 918 925	T cells

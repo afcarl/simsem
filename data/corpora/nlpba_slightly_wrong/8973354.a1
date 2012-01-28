@@ -1,0 +1,29 @@
+T1	DNA 24 69	murine cyclin-dependent kinase inhibitor gene
+T2	DNA 70 77	p27Kip1
+T3	DNA 84 117	cyclin-dependent kinase inhibitor
+T4	DNA 118 125	p27Kip1
+T5	DNA 189 196	p27Kip1
+T6	protein 241 290	cyclin/cdks ( cyclin-dependent kinase ) complexes
+T7	protein 325 336	cyclin/cdks
+T8	protein 351 354	CAK
+T9	RNA 397 409	p27Kip1 mRNA
+T10	cell_type 425 443	resting Go T-cells
+T11	protein 475 483	anti-CD3
+T12	DNA 527 539	p27Kip1 gene
+T13	DNA 545 563	murine genomic DNA
+T14	DNA 615 622	p27Kip1
+T15	DNA 692 705	5.6 kb of DNA
+T16	DNA 780 810	transcription initiation sites
+T17	DNA 817 832	promoter region
+T18	DNA 842 850	TATA box
+T19	protein 897 920	transcriptional factors
+T20	protein 935 938	Sp1
+T21	protein 941 944	CRE
+T22	protein 947 950	Myb
+T23	protein 955 959	NFkB
+T24	DNA 971 1018	positions -153 , -178 , -286 , -875 , and -1011
+T25	DNA 1085 1092	p27Kip1
+T26	DNA 1132 1150	5'-flanking region
+T27	DNA 1156 1172	nt -1609 to +178
+T28	DNA 1179 1198	-326 to -615 region
+T29	DNA 1209 1237	positive regulatory elements

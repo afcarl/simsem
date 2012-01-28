@@ -1,0 +1,16 @@
+T1	protein 0 36	Epstein-Barr virus nuclear antigen 2
+T2	protein 41 64	latent membrane protein
+T3	protein 93 96	p53
+T4	protein 118 127	NF-kappaB
+T5	cell_type 139 145	B-cell
+T6	protein 329 332	p53
+T7	DNA 423 439	EBV latent genes
+T8	protein 444 447	p53
+T9	protein 450 453	p53
+T10	cell_type 550 571	resting human B cells
+T11	protein 586 589	p53
+T12	protein 621 646	Latent membrane protein 1
+T13	protein 674 695	EBV nuclear antigen 2
+T14	protein 721 724	p53
+T15	protein 754 763	NF-kappaB
+T16	protein 764 784	transcription factor

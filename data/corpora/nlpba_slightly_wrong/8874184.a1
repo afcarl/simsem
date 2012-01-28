@@ -1,0 +1,27 @@
+T1	protein 252 279	hematopoietic growth factor
+T2	protein 282 285	HGF
+T3	cell_type 303 333	hematopoietic progenitor cells
+T4	cell_type 336 340	HPCs
+T5	protein 475 489	erythropoietin
+T6	protein 492 495	Epo
+T7	cell_type 522 549	early erythroid progenitors
+T8	cell_type 552 581	burst-forming units-erythroid
+T9	cell_type 584 589	BFU-E
+T10	protein 657 661	HGFs
+T11	cell_type 664 688	FL monocytic progenitors
+T12	cell_type 691 719	colony-forming unit monocyte
+T13	cell_type 722 727	CFU-M
+T14	cell_line 1025 1041	purified FL HPCs
+T15	cell_line 1155 1199	unicellular and paired daughter cell culture
+T16	cell_type 1445 1462	granulocytic HPCs
+T17	cell_type 1533 1547	primitive HPCs
+T18	cell_line 1550 1599	high-proliferative potential colony-forming cells
+T19	cell_line 1602 1610	HPP-CFCs
+T20	cell_type 1619 1652	putative hematopoietic stem cells
+T21	cell_type 1655 1659	HSCs
+T22	cell_line 1794 1810	HPP-CFC colonies
+T23	cell_type 1878 1881	HSC
+T24	cell_type 1987 1991	HPCs
+T25	DNA 2026 2052	ATRA receptor ( RAR ) gene
+T26	protein 2294 2313	RAR/RXR heterodimer
+T27	cell_line 2335 2353	HSC/ primitive HPC

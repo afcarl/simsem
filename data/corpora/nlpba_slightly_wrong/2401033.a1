@@ -1,0 +1,19 @@
+T1	protein 2 26	Glucocorticoid receptors
+T2	cell_type 30 91	human peripheral mononuclear and polymorphonuclear leucocytes
+T3	protein 179 203	glucocorticoid receptors
+T4	protein 206 209	GCR
+T5	cell_type 215 242	peripheral mixed leucocytes
+T6	cell_type 312 328	mixed leucocytes
+T7	cell_type 357 417	mononuclear ( MNL ) and polymorphonuclear ( PML ) leucocytes
+T8	protein 424 427	GCR
+T9	cell_type 460 470	leucocytes
+T10	protein 473 476	GCR
+T11	cell_type 480 483	MNL
+T12	cell_type 488 491	PML
+T13	protein 717 720	GCR
+T14	cell_type 724 727	MNL
+T15	cell_type 730 733	PML
+T16	cell_type 738 754	mixed leucocytes
+T17	protein 947 950	GCR
+T18	cell_type 954 957	MNL
+T19	cell_type 973 976	PML

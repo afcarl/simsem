@@ -1,0 +1,9 @@
+T1	DNA 71 93	thymidine kinase locus
+T2	cell_type 97 108	human cells
+T3	cell_type 390 401	human cells
+T4	cell_line 427 477	thymidine kinase ( tk ) inducible human cell lines
+T5	cell_line 527 568	TK6i-G3 and G9 tk heterozygous cell lines
+T6	DNA 582 591	tk allele
+T7	DNA 618 634	promoter element
+T8	RNA 637 644	Tk mRNA
+T9	cell_line 749 765	human cell lines

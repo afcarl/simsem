@@ -1,0 +1,43 @@
+T1	protein 13 27	interleukin-10
+T2	protein 70 82	superantigen
+T3	protein 148 162	interleukin-10
+T4	protein 165 170	IL-10
+T5	cell_type 199 216	CD4 ( + ) T cells
+T6	protein 263 275	superantigen
+T7	protein 276 304	staphylococcal enterotoxin B
+T8	protein 307 310	SEB
+T9	protein 315 320	IL-10
+T10	protein 347 352	IL-10
+T11	protein 395 405	p27 ( Kip1
+T12	protein 413 431	inhibitory protein
+T13	protein 498 503	IL-10
+T14	protein 543 553	G1 cyclins
+T15	protein 554 556	D2
+T16	protein 561 563	D3
+T17	protein 703 708	IL-10
+T18	protein 720 723	SEB
+T19	protein 737 750	interleukin-2
+T20	protein 753 757	IL-2
+T21	protein 784 788	IL-2
+T22	cell_line 792 811	IL-10-treated cells
+T23	protein 868 873	IL-10
+T24	protein 887 892	IL-10
+T25	protein 908 925	early G1 proteins
+T26	protein 926 938	p27 ( Kip1 )
+T27	protein 943 952	cyclin D2
+T28	protein 990 994	IL-2
+T29	protein 1023 1027	IL-2
+T30	protein 1083 1088	IL-10
+T31	protein 1154 1158	IL-2
+T32	protein 1213 1218	IL-10
+T33	cell_type 1239 1256	CD4 ( + ) T cells
+T34	protein 1318 1323	IL-10
+T35	cell_type 1337 1354	CD4 ( + ) T cells
+T36	protein 1357 1362	IL-10
+T37	protein 1392 1423	IL-2 transcriptional regulators
+T38	protein 1424 1429	c-fos
+T39	protein 1434 1439	c-jun
+T40	protein 1523 1528	IL-10
+T41	protein 1616 1620	IL-2
+T42	protein 1659 1671	p27 ( Kip1 )
+T43	protein 1692 1701	D cyclins

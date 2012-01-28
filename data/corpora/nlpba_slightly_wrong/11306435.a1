@@ -1,0 +1,13 @@
+T1	DNA 106 124	interleukin-8 gene
+T2	cell_type 139 171	human bronchial epithelial cells
+T3	protein 379 401	inflammatory cytokines
+T4	cell_type 405 434	human airway epithelial cells
+T5	cell_line 624 668	human bronchial epithelial cell line BEAS-2B
+T6	cell_type 673 709	normal human airway epithelial cells
+T7	protein 1022 1058	p38 mitogen-activated protein kinase
+T8	protein 1061 1065	MAPK
+T9	protein 1193 1202	cytokines
+T10	protein 1205 1209	IL-8
+T11	protein 1212 1260	granulocyte macrophage colony-stimulating factor
+T12	cell_type 1293 1307	normal T cells
+T13	protein 1557 1564	p38MAPK

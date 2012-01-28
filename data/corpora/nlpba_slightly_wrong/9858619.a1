@@ -1,0 +1,37 @@
+T1	protein 0 13	Interdomain B
+T2	protein 17 23	ZAP-70
+T3	protein 58 64	ZAP-70
+T4	cell_type 87 98	lymphocytes
+T5	protein 129 135	ZAP-70
+T6	protein 205 220	T-cell receptor
+T7	protein 235 241	ZAP-70
+T8	protein 429 435	ZAP-70
+T9	protein 480 486	ZAP-70
+T10	protein 516 519	Vav
+T11	protein 587 593	ZAP-70
+T12	protein 632 645	interdomain B
+T13	protein 683 688	Delta
+T14	protein 772 778	ZAP-70
+T15	DNA 789 812	multiple gene reporters
+T16	cell_line 816 843	Syk-deficient DT-40 B cells
+T17	cell_line 848 881	ZAP-70/Syk-deficient Jurkat cells
+T18	protein 902 907	Delta
+T19	protein 954 960	ZAP-70
+T20	protein 972 977	NF-AT
+T21	protein 1027 1032	Delta
+T22	protein 1076 1108	mitogen-activated protein kinase
+T23	protein 1160 1163	Ras
+T24	protein 1168 1173	FK506
+T25	protein 1200 1205	NF-AT
+T26	protein 1227 1232	Delta
+T27	protein 1305 1308	Vav
+T28	protein 1311 1314	Shc
+T29	protein 1321 1327	ZAP-70
+T30	protein 1367 1373	Slp-76
+T31	protein 1415 1420	Delta
+T32	protein 1435 1448	interdomain B
+T33	protein 1479 1485	ZAP-70
+T34	protein 1544 1550	ZAP-70
+T35	protein 1559 1572	interdomain B
+T36	protein 1717 1730	interdomain B
+T37	protein 1765 1771	ZAP-70

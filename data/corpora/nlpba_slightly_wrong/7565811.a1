@@ -1,0 +1,50 @@
+T1	DNA 3 39	interferon-gamma activation sequence
+T2	DNA 87 115	IgG Fc receptor type IC gene
+T3	protein 119 135	interferon-gamma
+T4	protein 156 178	IgG Fc receptor type I
+T5	protein 181 192	Fc gamma RI
+T6	cell_type 198 211	myeloid cells
+T7	protein 256 272	interferon-gamma
+T8	protein 275 284	IFN-gamma
+T9	protein 306 317	Fc gamma RI
+T10	cell_line 339 364	monoblast-like U937 cells
+T11	protein 426 435	IFN-gamma
+T12	cell_line 451 455	U937
+T13	protein 461 470	IFN-gamma
+T14	protein 539 550	Fc gamma RI
+T15	protein 614 625	Fc gamma RI
+T16	protein 657 666	IFN-gamma
+T17	DNA 702 719	Fc gamma RIC gene
+T18	DNA 804 833	transcription initiation site
+T19	DNA 844 852	TATA box
+T20	DNA 882 910	CAT reporter gene constructs
+T21	DNA 930 961	Fc gamma RIC promoter sequences
+T22	cell_line 967 977	U937 cells
+T23	DNA 994 1006	20-bp region
+T24	DNA 1023 1047	transcription start site
+T25	DNA 1124 1152	IFN-gamma responsive element
+T26	DNA 1155 1159	GIRE
+T27	DNA 1181 1195	74 bp upstream
+T28	DNA 1203 1232	transcription initiation site
+T29	DNA 1237 1251	17-bp sequence
+T30	protein 1292 1301	IFN-gamma
+T31	DNA 1322 1343	heterologous promoter
+T32	DNA 1346 1375	Double-stranded GIRE sequence
+T33	DNA 1388 1406	scrambled sequence
+T34	protein 1435 1451	nuclear proteins
+T35	cell_line 1457 1485	IFN-gamma treated U937 cells
+T36	protein 1534 1553	STAT1 alpha protein
+T37	DNA 1567 1584	Fc gamma RIC GIRE
+T38	protein 1600 1609	IFN-gamma
+T39	cell_line 1623 1633	U937 cells
+T40	DNA 1640 1657	Fc gamma RIC GIRE
+T41	DNA 1679 1708	IFN-gamma activation sequence
+T42	DNA 1711 1714	GAS
+T43	protein 1724 1749	guanylate binding protein
+T44	DNA 1757 1771	X box elements
+T45	DNA 1775 1793	class II MHC genes
+T46	DNA 1859 1876	Fc gamma RIC gene
+T47	protein 1880 1889	IFN-gamma
+T48	protein 1914 1925	STAT1 alpha
+T49	DNA 1931 1949	17-bp GAS homology
+T50	DNA 1957 1974	proximal promoter

@@ -1,0 +1,57 @@
+T1	protein 16 27	TCF-1 alpha
+T2	protein 32 68	T-cell-specific transcription factor
+T3	DNA 88 125	T-cell receptor C alpha gene enhancer
+T4	cell_type 181 188	T cells
+T5	protein 422 444	T-cell-specific factor
+T6	protein 447 458	TCF-1 alpha
+T7	protein 541 562	human T-cell receptor
+T8	protein 565 568	TCR
+T9	protein 573 584	TCF-1 alpha
+T10	DNA 655 669	HIV-1 promoter
+T11	DNA 697 715	TCR alpha enhancer
+T12	DNA 723 732	promoters
+T13	DNA 745 750	genes
+T14	DNA 824 838	TCR alpha gene
+T15	DNA 848 854	p56lck
+T16	DNA 859 868	CD3 delta
+T17	DNA 898 923	TCF-1 alpha binding motif
+T18	DNA 970 985	human TCR delta
+T19	DNA 1001 1009	TCR beta
+T20	DNA 1012 1021	enhancers
+T21	protein 1127 1138	TCF-1 alpha
+T22	protein 1176 1197	57- to 53-kD proteins
+T23	cell_line 1231 1263	mature and immature T-cell lines
+T24	cell_line 1266 1272	Jurkat
+T25	cell_line 1275 1283	CCRF-CEM
+T26	cell_line 1297 1311	mature B cells
+T27	cell_line 1314 1316	JY
+T28	cell_line 1319 1326	Namalwa
+T29	cell_line 1332 1363	nonlymphoid ( HeLa ) cell lines
+T30	DNA 1396 1420	TCR alpha control region
+T31	DNA 1439 1463	TCF-1 alpha binding site
+T32	DNA 1485 1506	cAMP-response element
+T33	DNA 1513 1516	CRE
+T34	DNA 1520 1535	T alpha 1 motif
+T35	DNA 1546 1558	binding site
+T36	protein 1574 1599	lymphoid-specific protein
+T37	protein 1602 1613	TCF-2 alpha
+T38	DNA 1636 1660	T-cell-specific enhancer
+T39	cell_line 1732 1762	mature ( Jurkat ) T-cell lines
+T40	cell_line 1796 1830	immature ( CCRF-CEM ) T-cell lines
+T41	DNA 1849 1873	TCF-1 alpha binding site
+T42	DNA 1956 1979	tandem enhancer repeats
+T43	DNA 1986 2010	TCF-1 alpha binding site
+T44	protein 2033 2036	TCR
+T45	cell_line 2103 2109	Jurkat
+T46	cell_line 2118 2128	HeLa cells
+T47	protein 2147 2158	TCF-1 alpha
+T48	protein 2164 2200	T-cell-specific transcription factor
+T49	protein 2219 2230	TCF-1 alpha
+T50	DNA 2318 2336	TCR alpha enhancer
+T51	DNA 2388 2409	heterologous promoter
+T52	protein 2451 2462	TCF-1 alpha
+T53	protein 2488 2499	TCF-2 alpha
+T54	protein 2504 2513	T alpha 1
+T55	protein 2516 2520	CREB
+T56	protein 2523 2544	transcription factors
+T57	DNA 2592 2610	TCR alpha enhancer

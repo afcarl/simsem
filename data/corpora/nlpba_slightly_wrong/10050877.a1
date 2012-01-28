@@ -1,0 +1,25 @@
+T1	protein 11 16	c-Rel
+T2	DNA 20 42	STAT5 target sequences
+T3	cell_type 46 72	HTLV-I-transformed T cells
+T4	cell_type 182 189	T cells
+T5	cell_type 314 340	HTLV-I-transformed T cells
+T6	protein 383 403	NF-kappaB/Rel family
+T7	cell_type 485 502	transformed cells
+T8	protein 514 535	NF-kappaB/Rel factors
+T9	protein 574 616	T-cell growth factor interleukin ( IL ) -2
+T10	protein 661 665	IL-2
+T11	cell_line 689 713	HTLV-I-transformed cells
+T12	protein 753 774	NF-kappaB/Rel members
+T13	protein 791 796	c-Rel
+T14	protein 836 841	STAT5
+T15	protein 881 885	IL-2
+T16	protein 966 971	c-Rel
+T17	protein 979 984	STAT5
+T18	DNA 1005 1020	Fc gammaR1 gene
+T19	protein 1083 1088	c-Rel
+T20	DNA 1096 1116	Fc gammaR1 STAT site
+T21	cell_type 1138 1162	peripheral blood T cells
+T22	protein 1311 1324	NF-kappaB/Rel
+T23	cell_line 1366 1392	HTLV-I-transformed T cells
+T24	DNA 1428 1434	kappaB
+T25	DNA 1447 1461	STAT enhancers

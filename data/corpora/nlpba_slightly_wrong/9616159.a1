@@ -1,0 +1,26 @@
+T1	protein 14 35	nuclear factor kappaB
+T2	cell_type 82 96	lymphoid cells
+T3	protein 99 121	Death-inducing ligands
+T4	protein 124 128	DILs
+T5	protein 139 166	tumor necrosis factor alpha
+T6	protein 169 177	TNFalpha
+T7	protein 244 265	nuclear factor kappaB
+T8	protein 268 276	NFkappaB
+T9	protein 372 377	TRAIL
+T10	protein 380 417	TNF-related apoptosis-inducing ligand
+T11	protein 444 447	DIL
+T12	protein 465 473	NFkappaB
+T13	protein 521 529	TNFalpha
+T14	protein 532 540	NFkappaB
+T15	protein 570 574	FADD
+T16	protein 577 585	caspases
+T17	protein 640 648	NFkappaB
+T18	protein 683 688	TRAIL
+T19	protein 698 706	TNFalpha
+T20	protein 726 734	NFkappaB
+T21	protein 770 780	proteasome
+T22	protein 867 886	mutant IkappaBalpha
+T23	cell_line 994 1004	cell lines
+T24	protein 1120 1124	DILs
+T25	protein 1161 1169	NFkappaB
+T26	protein 1260 1268	NFkappaB

@@ -1,0 +1,45 @@
+T1	protein 0 48	Granulocyte-macrophage colony-stimulating factor
+T2	protein 78 90	94-kD STAT5A
+T3	protein 98 118	80-kD STAT5A isoform
+T4	protein 157 205	Granulocyte-macrophage colony-stimulating factor
+T5	protein 208 214	GM-CSF
+T6	protein 277 289	Janus kinase
+T7	protein 292 296	JAK2
+T8	protein 303 328	STAT transcription factor
+T9	protein 331 336	STAT5
+T10	protein 394 399	STAT5
+T11	protein 402 408	STAT5A
+T12	protein 415 421	STAT5B
+T13	protein 470 475	STAT5
+T14	protein 510 526	STAT5 homologues
+T15	cell_type 565 580	human monocytes
+T16	cell_type 585 594	monocytes
+T17	cell_type 615 626	macrophages
+T18	protein 641 655	macrophage-CSF
+T19	protein 658 663	M-CSF
+T20	protein 684 690	GM-CSF
+T21	protein 727 733	STAT5A
+T22	protein 736 742	STAT5B
+T23	protein 776 790	STAT5 isoforms
+T24	protein 830 842	94-kD STAT5A
+T25	protein 851 857	STAT5B
+T26	protein 867 888	80-kD STAT5A molecule
+T27	protein 899 911	94-kD STAT5A
+T28	DNA 965 981	enhancer element
+T29	DNA 988 1009	gamma response region
+T30	DNA 1012 1015	GRR
+T31	DNA 1027 1043	Fc gamma RI gene
+T32	protein 1089 1095	STAT5B
+T33	DNA 1121 1132	GRR element
+T34	protein 1181 1201	80-kD STAT5A protein
+T35	protein 1243 1249	STAT5A
+T36	protein 1252 1276	STAT5A-STAT5A homodimers
+T37	protein 1281 1307	STAT5A-STAT5B heterodimers
+T38	protein 1330 1336	GM-CSF
+T39	protein 1365 1371	STAT5A
+T40	protein 1397 1403	STAT5B
+T41	protein 1474 1479	STATs
+T42	DNA 1495 1498	GRR
+T43	protein 1525 1541	STAT5 homologues
+T44	protein 1666 1675	cytokines
+T45	protein 1684 1690	GM-CSF

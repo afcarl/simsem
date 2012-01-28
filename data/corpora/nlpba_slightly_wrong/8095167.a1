@@ -1,0 +1,27 @@
+T1	cell_type 0 21	Human CD4 lymphocytes
+T2	protein 93 107	hybrid protein
+T3	protein 108 121	pml/RAR alpha
+T4	cell_type 133 167	acute promyelocytic leukemia cells
+T5	cell_type 197 211	leukemic cells
+T6	protein 255 267	fusion point
+T7	protein 327 340	fusion region
+T8	protein 364 377	pml/RAR alpha
+T9	cell_type 414 456	acute promyelocytic leukemia ( APL ) cells
+T10	cell_type 480 499	human T lymphocytes
+T11	cell_type 511 527	CD4+ lymphocytes
+T12	protein 601 607	HLA-DR
+T13	cell_type 649 683	autologous antigen-presenting cell
+T14	cell_type 686 689	APC
+T15	cell_type 698 701	APC
+T16	protein 717 746	HLA-DR11 restricting molecule
+T17	protein 794 797	pml
+T18	protein 802 820	RAR alpha proteins
+T19	cell_line 855 859	DEG5
+T20	cell_line 916 932	autologous cells
+T21	cell_line 959 976	autologous DE LCL
+T22	DNA 1001 1026	pml/RAR alpha fusion gene
+T23	protein 1061 1074	pml/RAR alpha
+T24	cell_line 1119 1148	DE anti-BCR1/25 T cell clones
+T25	protein 1176 1214	bcr1 type-pml/RAR alpha fusion protein
+T26	cell_line 1218 1221	APL
+T27	cell_line 1309 1331	human CD4+ lymphocytes

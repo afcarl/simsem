@@ -1,0 +1,9 @@
+T1	cell_line 58 93	mouse and human lymphoid cell lines
+T2	cell_line 310 345	mouse and human lymphoid cell lines
+T3	cell_line 348 358	Cell lines
+T4	cell_type 453 480	Exponentially growing cells
+T5	cell_line 818 852	dexamethasone-sensitive cell lines
+T6	protein 1107 1119	cell protein
+T7	cell_line 1379 1413	dexamethasone-resistant cell lines
+T8	protein 1583 1595	cell protein
+T9	cell_type 1875 1889	lymphoid cells

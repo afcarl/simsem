@@ -1,0 +1,22 @@
+T1	protein 0 15	Human TAFII 105
+T2	protein 21 53	cell type-specific TFIID subunit
+T3	protein 65 74	hTAFII130
+T4	protein 105 138	Drosophila and human TAF subunits
+T5	protein 161 174	TFIID complex
+T6	cell_type 218 240	differentiated B cells
+T7	protein 275 278	TAF
+T8	protein 316 321	TFIID
+T9	DNA 359 363	cDNA
+T10	protein 373 382	hTAFII105
+T11	protein 410 427	C-terminal domain
+T12	protein 438 447	hTAFII130
+T13	protein 452 461	oTAFII110
+T14	protein 474 503	N-terminal coactivator domain
+T15	RNA 558 571	TAFII105 mRNA
+T16	cell_type 583 590	B cells
+T17	protein 645 650	TFIID
+T18	protein 681 690	hTAFII105
+T19	cell_type 748 755	B cells
+T20	protein 788 796	TAFII105
+T21	protein 832 837	TFIID
+T22	cell_type 919 926	B cells

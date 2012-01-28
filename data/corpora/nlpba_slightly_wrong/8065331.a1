@@ -1,0 +1,35 @@
+T1	protein 57 80	hepatic leukemia factor
+T2	protein 83 86	HLF
+T3	protein 111 155	acute lymphoblastic leukemia chimera E2A-HLF
+T4	DNA 162 175	t ( 17 ; 19 )
+T5	protein 246 273	E2A-hepatic leukemia factor
+T6	protein 276 279	HLF
+T7	protein 282 299	chimeric proteins
+T8	protein 317 361	DNA-binding and protein dimerization domains
+T9	protein 369 406	basic leucine zipper ( bZIP ) protein
+T10	protein 407 410	HLF
+T11	protein 433 445	E2A proteins
+T12	protein 596 609	wild-type HLF
+T13	protein 614 630	chimeric E2A-HLF
+T14	cell_line 662 694	t ( 17 ; 19 ) -bearing leukemias
+T15	DNA 736 754	consensus sequence
+T16	protein 808 829	chimeric HLF proteins
+T17	protein 889 902	bZIP proteins
+T18	protein 915 922	proline
+T19	protein 953 956	PAR
+T20	protein 963 980	C/EBP subfamilies
+T21	protein 993 1000	E2A-HLF
+T22	DNA 1074 1100	HLF consensus binding site
+T23	DNA 1162 1194	HLF ancillary DNA-binding domain
+T24	protein 1202 1218	E2A-HLF chimeras
+T25	protein 1291 1300	wild-type
+T26	protein 1305 1326	chimeric HLF proteins
+T27	protein 1337 1362	transcriptional activator
+T28	cell_type 1377 1407	lymphoid and nonlymphoid cells
+T29	DNA 1411 1425	reporter genes
+T30	DNA 1437 1473	HLF or C/EBP consensus binding sites
+T31	DNA 1483 1497	reporter genes
+T32	DNA 1503 1527	nonoptimal binding sites
+T33	protein 1576 1583	E2A-HLF
+T34	protein 1622 1644	wild-type PAR proteins
+T35	protein 1739 1746	E2A-HLF

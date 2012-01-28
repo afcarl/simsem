@@ -1,0 +1,44 @@
+T1	protein 24 29	IL-13
+T2	protein 87 105	IL-13Ralpha1 chain
+T3	protein 110 115	STAT6
+T4	protein 130 152	IL-13 receptor complex
+T5	cell_type 156 171	human monocytes
+T6	protein 221 238	IL-4R alpha chain
+T7	protein 247 264	IL-2R gamma chain
+T8	protein 265 295	( gamma ( c ) ) -like molecule
+T9	protein 298 311	IL-13R alpha1
+T10	RNA 314 318	mRNA
+T11	protein 330 343	IL-13R alpha1
+T12	protein 354 365	IL-4R alpha
+T13	cell_line 392 432	in in vitro monocyte-derived macrophages
+T14	cell_line 435 440	MDMac
+T15	cell_type 473 482	monocytes
+T16	protein 522 527	IL-13
+T17	protein 569 578	TNF-alpha
+T18	cell_line 604 614	cell lines
+T19	cell_line 615 620	Daudi
+T20	cell_line 625 630	THP-1
+T21	protein 659 670	gamma ( c )
+T22	protein 675 688	IL-13R alpha1
+T23	protein 701 706	IL-13
+T24	protein 720 725	STAT6
+T25	cell_line 729 763	IL-13R alpha1-positive THP-1 cells
+T26	cell_line 775 833	gamma ( c ) -positive , IL-13R alpha1-negative Daudi cells
+T27	protein 836 841	IL-13
+T28	protein 856 861	STAT6
+T29	cell_line 877 882	MDMac
+T30	protein 920 925	IL-13
+T31	protein 949 953	CD23
+T32	protein 958 970	MHC class II
+T33	protein 996 1009	IL-13R alpha1
+T34	protein 1037 1042	STAT6
+T35	protein 1059 1064	IL-13
+T36	cell_line 1115 1120	MDMac
+T37	protein 1152 1165	IL-13R alpha1
+T38	protein 1170 1181	gamma ( c )
+T39	protein 1184 1189	IL-13
+T40	protein 1225 1241	receptor complex
+T41	cell_line 1245 1250	MDMac
+T42	protein 1293 1304	IL-4R alpha
+T43	protein 1366 1388	IL-13 receptor complex
+T44	cell_line 1392 1397	MDMac

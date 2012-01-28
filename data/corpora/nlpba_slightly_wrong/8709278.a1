@@ -1,0 +1,11 @@
+T1	protein 4 74	human T-cell leukemia virus type 1 posttranscriptional trans-activator
+T2	protein 75 78	Rex
+T3	protein 90 111	nuclear export signal
+T4	protein 118 129	Rex protein
+T5	RNA 206 226	unspliced viral mRNA
+T6	protein 310 313	Rex
+T7	protein 374 391	activation domain
+T8	protein 406 427	nuclear export signal
+T9	protein 529 532	Rex
+T10	protein 569 593	Rex-viral mRNA complexes
+T11	protein 654 671	activation domain

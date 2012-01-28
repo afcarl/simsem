@@ -1,0 +1,41 @@
+T1	RNA 47 57	EGR-1 mRNA
+T2	protein 96 99	IgM
+T3	protein 104 107	IgD
+T4	cell_line 115 137	human B cell line B104
+T5	cell_line 172 205	human B lymphoma cell line , B104
+T6	protein 218 229	surface IgM
+T7	protein 232 236	sIgM
+T8	protein 243 254	surface IgD
+T9	protein 257 261	sIgD
+T10	protein 291 295	sIgM
+T11	protein 300 304	sIgD
+T12	protein 308 332	anti-IgM antibody ( Ab )
+T13	protein 337 348	anti-IgD Ab
+T14	protein 427 431	sIgM
+T15	cell_line 453 462	B104 cell
+T16	protein 576 592	protein kinase C
+T17	protein 595 598	PKC
+T18	protein 749 753	sIgM
+T19	protein 758 762	sIgD
+T20	cell_line 766 776	B104 cells
+T21	protein 895 898	PKC
+T22	RNA 928 948	Egr-1 and c-fos mRNA
+T23	protein 960 964	sIgM
+T24	protein 1003 1007	sIgD
+T25	protein 1067 1071	sIgM
+T26	protein 1080 1084	sIgD
+T27	RNA 1087 1097	Egr-1 mRNA
+T28	protein 1165 1167	H7
+T29	RNA 1279 1289	Egr-1 mRNA
+T30	RNA 1469 1479	Egr-1 mRNA
+T31	RNA 1572 1582	Egr-1 mRNA
+T32	protein 1610 1614	sIgM
+T33	protein 1619 1623	sIgD
+T34	protein 1677 1693	protein kinase A
+T35	cell_line 1749 1759	B104 cells
+T36	protein 1782 1793	anti-IgM Ab
+T37	protein 1833 1838	Egr-1
+T38	RNA 1843 1853	c-fos mRNA
+T39	protein 2006 2010	sIgM
+T40	protein 2015 2019	sIgD
+T41	cell_line 2023 2033	B104 cells

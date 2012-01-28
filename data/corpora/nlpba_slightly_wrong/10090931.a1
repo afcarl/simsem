@@ -1,0 +1,42 @@
+T1	cell_line 56 118	retinoic acid-resistant acute promyelocytic leukemia cell line
+T2	cell_line 121 125	UF-1
+T3	protein 158 175	p21 ( WAF1/CIP1 )
+T4	protein 180 192	p27 ( KIP1 )
+T5	cell_type 405 414	APL cells
+T6	protein 503 526	transcriptional factors
+T7	protein 529 541	RA receptors
+T8	protein 544 548	RARs
+T9	protein 555 575	retinoid X receptors
+T10	protein 578 582	RXRs
+T11	protein 587 591	RXRs
+T12	protein 612 669	1 , 25-dihydroxyvitamin D3 [ 1 , 25 ( OH ) 2D3 ] receptor
+T13	protein 672 675	VDR
+T14	protein 738 779	cyclin-dependent kinase ( cdk ) inhibitor
+T15	protein 780 797	p21 ( WAF1/CIP1 )
+T16	DNA 804 833	vitamin D3-responsive element
+T17	DNA 836 840	VDRE
+T18	DNA 850 858	promoter
+T19	protein 910 927	p21 ( WAF1/CIP1 )
+T20	cell_line 968 995	myeloid leukemic cell lines
+T21	cell_line 1035 1048	APL cell line
+T22	cell_line 1051 1055	UF-1
+T23	cell_line 1155 1165	UF-1 cells
+T24	cell_type 1219 1231	granulocytes
+T25	protein 1514 1531	p21 ( WAF1/CIP1 )
+T26	RNA 1536 1553	p27 ( KIP1 ) mRNA
+T27	RNA 1628 1667	p21 ( WAF1/CIP1 ) and p27 ( KIP1 ) mRNA
+T28	protein 1742 1759	p21 ( WAF1/CIP1 )
+T29	protein 1764 1776	p27 ( KIP1 )
+T30	protein 1936 1953	p21 ( WAF1/CIP1 )
+T31	protein 2064 2076	p27 ( KIP1 )
+T32	cell_line 2124 2134	UF-1 cells
+T33	protein 2229 2241	p27 ( KIP1 )
+T34	protein 2350 2362	p27 ( KIP1 )
+T35	protein 2399 2412	CD11b antigen
+T36	cell_type 2416 2438	myeloid leukemic cells
+T37	cell_line 2488 2498	UF-1 cells
+T38	protein 2547 2564	p21 ( WAF1/CIP1 )
+T39	protein 2569 2581	p27 ( KIP1 )
+T40	protein 2724 2738	cdk inhibitors
+T41	cell_line 2834 2844	UF-1 cells
+T42	cell_type 2859 2871	granulocytes

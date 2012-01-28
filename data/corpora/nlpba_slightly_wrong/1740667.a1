@@ -1,0 +1,45 @@
+T1	DNA 4 13	AP-1 site
+T2	DNA 17 24	-150 bp
+T3	DNA 39 54	NF-kappa B site
+T4	protein 100 116	protein kinase C
+T5	DNA 124 146	interleukin 2 promoter
+T6	cell_type 164 171	T cells
+T7	protein 218 225	kinases
+T8	protein 238 254	protein kinase C
+T9	protein 257 260	PKC
+T10	protein 371 374	PKC
+T11	DNA 395 422	interleukin 2 ( IL-2 ) gene
+T12	cell_type 426 433	T cells
+T13	protein 457 484	T cell receptor/CD3 complex
+T14	cell_line 558 575	T cell clone Ar-5
+T15	protein 629 652	alpha and beta isozymes
+T16	protein 656 659	PKC
+T17	RNA 689 698	IL-2 mRNA
+T18	protein 703 710	protein
+T19	protein 783 816	chloramphenicol acetyltransferase
+T20	cell_line 829 839	Ar-5 cells
+T21	DNA 859 866	plasmid
+T22	DNA 882 895	IL-2 promoter
+T23	DNA 911 924	reporter gene
+T24	DNA 931 944	IL-2 promoter
+T25	DNA 954 967	binding sites
+T26	protein 972 987	nuclear factors
+T27	protein 998 1004	NFAT-1
+T28	protein 1007 1010	Oct
+T29	protein 1013 1023	NF-kappa B
+T30	protein 1030 1034	AP-1
+T31	protein 1090 1093	PKC
+T32	DNA 1138 1156	NFAT and Oct sites
+T33	DNA 1229 1244	NF-kappa B site
+T34	DNA 1283 1296	IL-2 promoter
+T35	DNA 1330 1339	AP-1 site
+T36	DNA 1351 1358	-150 bp
+T37	DNA 1403 1416	IL-2 promoter
+T38	protein 1440 1464	inducible nuclear factor
+T39	protein 1502 1505	PKC
+T40	DNA 1620 1633	IL-2 promoter
+T41	cell_line 1637 1665	minimally stimulated T cells
+T42	DNA 1698 1707	AP-1 site
+T43	DNA 1711 1718	-150 bp
+T44	protein 1766 1769	PKC
+T45	DNA 1792 1805	IL-2 promoter

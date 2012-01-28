@@ -1,0 +1,25 @@
+T1	protein 0 17	HIV-1 Nef protein
+T2	protein 46 50	AP-1
+T3	cell_type 75 88	human T-cells
+T4	DNA 95 151	human immunodeficiency virus type 1 long terminal repeat
+T5	DNA 154 163	HIV-1-LTR
+T6	DNA 252 262	HIV-1 gene
+T7	protein 320 345	HIV-1-encoded Nef protein
+T8	protein 361 364	Nef
+T9	protein 428 431	Nef
+T10	protein 455 471	cellular factors
+T11	cell_line 620 647	Nef-expressing T-cell lines
+T12	protein 697 712	T-cell mitogens
+T13	protein 729 732	Nef
+T14	protein 762 766	AP-1
+T15	cell_type 810 823	human T-cells
+T16	cell_line 841 861	Nef expressing cells
+T17	DNA 915 951	HIV-1 AP-1 DNA recognition sequences
+T18	protein 982 1015	chloramphenicol acetyltransferase
+T19	protein 1018 1021	CAT
+T20	DNA 1082 1090	CAT gene
+T21	cell_line 1126 1146	Nef-expressing cells
+T22	protein 1217 1221	AP-1
+T23	protein 1235 1238	Nef
+T24	DNA 1269 1279	HIV-1 gene
+T25	cell_type 1294 1310	infected T-cells

@@ -1,0 +1,18 @@
+T1	protein 42 73	angiotensin II type 1a receptor
+T2	protein 278 306	angiotensin type 1a receptor
+T3	protein 309 313	AT1a
+T4	protein 367 381	angiotensin II
+T5	protein 390 394	AT1a
+T6	protein 542 567	collagen types III and IV
+T7	cell_type 572 580	monocyte
+T8	cell_type 583 593	macrophage
+T9	protein 642 661	specific antibodies
+T10	protein 704 735	transforming growth factor-beta
+T11	protein 764 785	Nuclear factor-kappaB
+T12	protein 962 987	collagen types III and IV
+T13	cell_type 1014 1023	monocytes
+T14	cell_type 1026 1037	macrophages
+T15	protein 1192 1223	transforming growth factor-beta
+T16	protein 1467 1488	nuclear factor-kappaB
+T17	protein 1589 1603	angiotensin II
+T18	protein 1619 1623	AT1a

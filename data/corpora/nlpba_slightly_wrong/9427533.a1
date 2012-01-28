@@ -1,0 +1,15 @@
+T1	protein 38 55	RNA polymerase II
+T2	cell_type 59 77	cell-free extracts
+T3	DNA 298 301	XPA
+T4	DNA 310 313	XPG
+T5	DNA 331 348	XPB and XPD genes
+T6	protein 388 416	general transcription factor
+T7	protein 419 424	TFIIH
+T8	protein 519 536	RNA polymerase II
+T9	DNA 567 582	XPB or XPD gene
+T10	cell_line 929 948	XP-B and XP-D cells
+T11	protein 978 983	TFIIH
+T12	cell_line 1009 1043	XP-B and XP-D lymphoblastoid cells
+T13	DNA 1094 1124	adenovirus major late promoter
+T14	cell_line 1207 1241	XP-B and XP-D lymphoblastoid cells
+T15	protein 1365 1370	TFIIH

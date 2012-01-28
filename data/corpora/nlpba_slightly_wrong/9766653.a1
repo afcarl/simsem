@@ -1,0 +1,26 @@
+T1	protein 0 25	Tumor suppressor proteins
+T2	DNA 86 108	tumor suppressor genes
+T3	cell_line 358 396	ML-1 human myeloblastic leukemia cells
+T4	protein 446 474	insulin-like growth factor I
+T5	protein 479 490	transferrin
+T6	cell_type 512 521	monocytes
+T7	protein 538 565	tumor necrosis factor alpha
+T8	protein 569 601	transforming growth factor beta1
+T9	cell_type 610 631	macrophage-like cells
+T10	protein 661 670	cytokines
+T11	protein 798 848	DNA polymerase-associated processivity factor PCNA
+T12	protein 860 908	proliferation-specific transcription factor E2F1
+T13	protein 1049 1078	tumor suppressor proteins p53
+T14	protein 1095 1098	pRb
+T15	protein 1105 1113	p130/Rb2
+T16	protein 1125 1162	p53-dependent cyclin kinase inhibitor
+T17	protein 1163 1171	p21/Cip1
+T18	protein 1174 1177	p53
+T19	protein 1182 1190	p21/Cip1
+T20	protein 1249 1253	PCNA
+T21	protein 1264 1268	p130
+T22	protein 1273 1276	pRb
+T23	protein 1335 1339	E2F1
+T24	DNA 1356 1375	G1-S-associated DNA
+T25	protein 1513 1538	tumor suppressor proteins
+T26	cell_type 1669 1680	cancer cell

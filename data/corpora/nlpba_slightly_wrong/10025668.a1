@@ -1,0 +1,35 @@
+T1	protein 0 18	Osteoclast markers
+T2	cell_type 55 100	human peripheral blood mononuclear precursors
+T3	cell_type 128 145	human osteoclasts
+T4	cell_type 168 187	hematopoietic cells
+T5	protein 336 354	osteoclast markers
+T6	cell_type 396 443	nonmobilized peripheral blood mononuclear cells
+T7	cell_type 446 450	PBMC
+T8	cell_type 479 492	stromal cells
+T9	protein 495 509	growth factors
+T10	cell_type 614 618	PBMC
+T11	cell_line 694 711	adherent colonies
+T12	cell_line 715 775	tartrate resistant acid phosphatase positive ( TRAP+ ) cells
+T13	cell_type 828 842	adherent cells
+T14	protein 916 920	TRAP
+T15	protein 925 983	sodium fluoride-resistant- alpha-naphthyl-acetate-esterase
+T16	protein 986 995	NaF-R-NSE
+T17	cell_type 1076 1087	osteoclasts
+T18	protein 1090 1110	vitronectin receptor
+T19	protein 1113 1115	VR
+T20	protein 1120 1139	calcitonin receptor
+T21	protein 1142 1146	TRAP
+T22	protein 1149 1168	cathepsin K protein
+T23	RNA 1175 1179	mRNA
+T24	cell_line 1275 1292	VR+ , TRAP+ cells
+T25	cell_type 1471 1494	preosteoclast phenotype
+T26	cell_type 1543 1564	osteoclast-like cells
+T27	protein 1654 1676	osteoprotegerin ligand
+T28	protein 1679 1683	OPGL
+T29	protein 1691 1724	osteoclast differentiation factor
+T30	protein 1741 1746	RANKL
+T31	protein 1751 1757	TRANCE
+T32	cell_type 1786 1800	adherent cells
+T33	cell_type 1852 1862	osteoclast
+T34	cell_type 1962 1966	PBMC
+T35	cell_type 2101 2112	osteoclasts

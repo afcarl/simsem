@@ -1,0 +1,31 @@
+T1	protein 31 36	STAT3
+T2	protein 40 56	interferon-gamma
+T3	cell_type 60 77	human neutrophils
+T4	protein 91 107	interferon-gamma
+T5	protein 110 119	IFN-gamma
+T6	protein 178 194	tyrosine kinases
+T7	protein 195 199	JAK1
+T8	protein 204 208	JAK2
+T9	protein 249 259	STAT1alpha
+T10	protein 286 296	STAT1alpha
+T11	protein 304 322	IFN-gamma receptor
+T12	protein 369 393	cytosolic tyrosine motif
+T13	protein 404 408	Y440
+T14	protein 416 446	IFN-gamma receptor alpha-chain
+T15	protein 455 465	SH2 domain
+T16	protein 469 479	STAT1alpha
+T17	protein 519 529	STAT1alpha
+T18	protein 532 537	STAT3
+T19	protein 559 568	IFN-gamma
+T20	cell_type 572 589	human neutrophils
+T21	protein 610 615	STAT3
+T22	cell_type 633 650	human eosinophils
+T23	cell_type 653 662	monocytes
+T24	cell_line 669 680	HL-60 cells
+T25	protein 696 709	STAT3 protein
+T26	protein 778 783	STAT3
+T27	protein 787 796	IFN-gamma
+T28	cell_type 818 829	neutrophils
+T29	cell_type 868 904	human CD34+ hematopoietic stem cells
+T30	protein 944 961	cytokine receptor
+T31	protein 985 1004	STAT family members

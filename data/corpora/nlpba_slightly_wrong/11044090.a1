@@ -1,0 +1,23 @@
+T1	DNA 4 31	Epstein-Barr virus promoter
+T2	protein 81 93	RFX proteins
+T3	protein 102 145	B-cell-specific activator protein BSAP/Pax5
+T4	cell_type 184 190	B-cell
+T5	DNA 384 401	viral promoter Wp
+T6	DNA 549 551	Wp
+T7	cell_type 585 591	B-cell
+T8	DNA 702 721	sites B , C , and D
+T9	DNA 766 775	CREB site
+T10	DNA 796 802	site C
+T11	protein 847 869	RFX family of proteins
+T12	protein 880 884	RFX1
+T13	protein 887 891	RFX3
+T14	protein 920 925	MIBP1
+T15	DNA 936 949	sites B and D
+T16	protein 964 1007	B-cell-specific activator protein BSAP/Pax5
+T17	DNA 1034 1054	mutant Wp constructs
+T18	cell_type 1149 1156	B cells
+T19	DNA 1169 1187	wild-type promoter
+T20	cell_type 1210 1221	non-B cells
+T21	DNA 1267 1269	Wp
+T22	protein 1284 1288	BSAP
+T23	cell_type 1309 1315	B-cell

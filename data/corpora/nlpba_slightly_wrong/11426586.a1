@@ -1,0 +1,20 @@
+T1	cell_type 76 114	human monocytes/macrophage THP-1 cells
+T2	protein 117 165	Peroxizome proliferator-activated receptor-gamma
+T3	protein 168 177	PPARgamma
+T4	protein 199 222	nuclear receptor family
+T5	protein 226 247	transcription factors
+T6	protein 319 337	liganded PPARgamma
+T7	cell_type 408 419	macrophages
+T8	protein 422 433	Osteopontin
+T9	cell_type 492 503	macrophages
+T10	protein 569 578	PPARgamma
+T11	cell_line 627 638	THP-1 cells
+T12	cell_type 666 696	human monocytic leukemia cells
+T13	cell_type 724 734	macrophage
+T14	protein 893 902	PPARgamma
+T15	DNA 1014 1061	human osteopontin promoter/luciferase construct
+T16	DNA 1079 1097	5'-flanking region
+T17	DNA 1136 1160	transcription start site
+T18	DNA 1234 1261	PPARgamma expression vector
+T19	protein 1410 1419	PPARgamma
+T20	cell_type 1499 1510	macrophages

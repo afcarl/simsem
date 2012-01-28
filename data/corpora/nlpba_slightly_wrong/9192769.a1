@@ -1,0 +1,36 @@
+T1	DNA 44 48	cDNA
+T2	DNA 51 57	CHEMR1
+T3	protein 71 89	chemokine receptor
+T4	protein 113 141	human C-C chemokine receptor
+T5	protein 144 149	CCR-4
+T6	protein 152 162	Chemokines
+T7	protein 208 217	cytokines
+T8	protein 321 368	seven-transmembrane-domain containing receptors
+T9	DNA 373 383	cDNA clone
+T10	DNA 386 392	CHEMR1
+T11	protein 418 444	G protein-coupled receptor
+T12	DNA 467 511	mouse cytotoxic T-lymphocyte ( CTL ) library
+T13	cell_type 629 636	T cells
+T14	cell_type 639 646	B cells
+T15	cell_type 653 664	macrophages
+T16	DNA 671 682	CHEMR1 gene
+T17	DNA 683 690	Scya3r2
+T18	DNA 696 712	single-copy gene
+T19	DNA 795 806	mouse Chr 9
+T20	DNA 817 890	mouse macrophage inflammatory protein-1alpha ( MIP-1alpha ) receptor gene
+T21	DNA 891 897	Scya3r
+T22	DNA 914 947	C-C chemokine receptor-like genes
+T23	DNA 999 1005	CHEMR1
+T24	protein 1027 1038	human CCR-4
+T25	DNA 1057 1063	CHEMR1
+T26	protein 1082 1093	mouse CCR-4
+T27	protein 1117 1144	125I-labeled C-C chemokines
+T28	cell_type 1148 1163	mammalian cells
+T29	DNA 1179 1185	CHEMR1
+T30	protein 1244 1249	CCR-1
+T31	protein 1256 1266	MIP-1alpha
+T32	protein 1271 1277	RANTES
+T33	protein 1336 1347	human CCR-4
+T34	DNA 1369 1375	CHEMR1
+T35	protein 1411 1424	C-C chemokine
+T36	protein 1456 1466	MIP-1alpha

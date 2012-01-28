@@ -1,0 +1,26 @@
+T1	protein 14 18	CD14
+T2	protein 111 115	CD14
+T3	protein 120 148	monocyte/macrophage receptor
+T4	protein 176 195	LPS binding protein
+T5	cell_type 234 261	monocyte/macrophage lineage
+T6	protein 299 303	CD14
+T7	protein 506 510	CD14
+T8	protein 659 663	CD14
+T9	DNA 704 730	CD14 5 ' upstream sequence
+T10	DNA 752 776	tissue-specific promoter
+T11	cell_line 821 846	monocytoid U937 cell line
+T12	DNA 888 914	CD14 5 ' upstream sequence
+T13	DNA 967 981	bp -128 to -70
+T14	protein 1026 1030	CD14
+T15	DNA 1069 1082	binding sites
+T16	protein 1091 1115	Sp1 transcription factor
+T17	DNA 1148 1164	Sp1-binding site
+T18	protein 1185 1188	Sp1
+T19	protein 1253 1257	CD14
+T20	protein 1355 1359	CD14
+T21	DNA 1367 1383	Sp1-binding site
+T22	protein 1393 1412	vitamin D3 receptor
+T23	protein 1435 1454	retinoid X receptor
+T24	protein 1499 1503	CD14
+T25	protein 1528 1547	intermediary factor
+T26	protein 1582 1585	Sp1

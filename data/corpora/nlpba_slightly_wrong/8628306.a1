@@ -1,0 +1,27 @@
+T1	protein 21 40	inducible regulator
+T2	DNA 44 49	c-myb
+T3	cell_type 68 74	T-cell
+T4	cell_type 88 103	Resting T cells
+T5	protein 131 144	c-Myb protein
+T6	DNA 174 179	c-myb
+T7	DNA 309 336	c-myb 5 ' flanking sequence
+T8	DNA 352 357	c-myb
+T9	DNA 576 603	c-myb 5 ' flanking sequence
+T10	cell_type 607 624	activated T cells
+T11	cell_type 636 655	unactivated T cells
+T12	cell_type 733 750	activated T cells
+T13	protein 814 833	protein-DNA complex
+T14	protein 851 855	CMAT
+T15	protein 860 886	c-myb in activated T cells
+T16	cell_type 921 940	unactivated T cells
+T17	DNA 955 967	binding site
+T18	DNA 1009 1066	nuclear factor of activated T cells ( NFAT ) binding site
+T19	protein 1236 1261	NFAT EMSA binding complex
+T20	protein 1288 1300	CMAT complex
+T21	protein 1307 1311	NFAT
+T22	protein 1397 1409	CMAT protein
+T23	protein 1450 1454	NFAT
+T24	protein 1484 1496	CMAT protein
+T25	protein 1521 1541	CMAT binding complex
+T26	protein 1598 1602	CMAT
+T27	DNA 1681 1686	c-myb

@@ -1,0 +1,31 @@
+T1	protein 13 17	IL-8
+T2	cell_type 32 39	T cells
+T3	protein 49 53	CD28
+T4	protein 78 82	IL-8
+T5	protein 94 112	chemotactic factor
+T6	cell_type 117 140	neutrophil granulocytes
+T7	cell_type 145 156	lymphocytes
+T8	cell_type 237 244	T cells
+T9	protein 266 292	CD28 cell surface molecule
+T10	protein 338 348	lymphokine
+T11	cell_type 363 380	activated T cells
+T12	DNA 387 413	conserved sequence element
+T13	DNA 427 435	promoter
+T14	DNA 447 463	lymphokine genes
+T15	cell_line 466 494	Anti-CD28-stimulated T cells
+T16	protein 527 531	IL-8
+T17	protein 568 576	anti-CD3
+T18	protein 581 594	anti-CD28 Abs
+T19	protein 634 638	IL-8
+T20	protein 705 717	anti-CD28 Ab
+T21	DNA 759 783	NF-kappa B-like sequence
+T22	DNA 791 799	promoter
+T23	DNA 807 816	IL-8 gene
+T24	DNA 833 854	CD28 response element
+T25	protein 944 948	IL-8
+T26	protein 974 982	anti-CD3
+T27	protein 993 997	CD28
+T28	DNA 1035 1056	CD28 response element
+T29	protein 1077 1081	IL-8
+T30	cell_type 1096 1113	activated T cells
+T31	protein 1234 1238	IL-8

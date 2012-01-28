@@ -1,0 +1,27 @@
+T1	cell_line 0 40	Megakaryocytic and erythrocytic lineages
+T2	protein 56 77	transcription factors
+T3	DNA 80 104	Erythroid-specific genes
+T4	protein 131 136	NF-E1
+T5	protein 151 155	GF-1
+T6	protein 160 166	Eryf-1
+T7	protein 209 228	DNA-binding protein
+T8	cell_type 236 256	erythrocytic lineage
+T9	protein 259 264	NF-E1
+T10	cell_type 306 326	erythrocytic lineage
+T11	cell_line 395 425	human megakaryocytic cell line
+T12	cell_line 430 459	purified human megakaryocytes
+T13	DNA 474 490	promoter regions
+T14	DNA 498 527	megakaryocytic-specific genes
+T15	protein 636 653	erythroid protein
+T16	RNA 663 682	NF-E1 messenger RNA
+T17	cell_line 712 751	megakaryocytic and erythroid cell lines
+T18	protein 808 813	NF-E1
+T19	DNA 877 909	megakaryocytic-specific promoter
+T20	protein 930 935	NF-E2
+T21	protein 946 965	trans-acting factor
+T22	cell_type 973 993	erythrocytic lineage
+T23	cell_line 1010 1024	megakaryocytes
+T24	protein 1120 1140	trans-acting factors
+T25	cell_line 1207 1251	erythrocytic and the megakaryocytic lineages
+T26	cell_type 1317 1357	erythrocytic and megakaryocytic lineages
+T27	cell_line 1366 1422	erythroblastic and megakaryoblastic permanent cell lines

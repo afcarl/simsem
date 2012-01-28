@@ -1,0 +1,5 @@
+T1	cell_type 70 87	circulating cells
+T2	cell_type 192 229	circulating monocytes or erythrocytes
+T3	cell_type 369 378	monocytes
+T4	protein 1107 1123	insulin receptor
+T5	cell_type 1232 1249	circulating cells

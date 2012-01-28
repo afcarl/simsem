@@ -1,0 +1,27 @@
+T1	protein 0 5	BCL-6
+T2	protein 10 33	POZ/zinc-finger protein
+T3	protein 41 84	sequence-specific transcriptional repressor
+T4	DNA 222 231	BCL6 gene
+T5	DNA 247 269	heterologous promoters
+T6	DNA 277 296	BCL-6 coding domain
+T7	DNA 303 312	BCL6 gene
+T8	protein 323 337	95-kDa protein
+T9	protein 353 382	C-terminal zinc-finger motifs
+T10	protein 390 411	N-terminal POZ domain
+T11	protein 451 471	transcription factor
+T12	DNA 485 497	DNA sequence
+T13	protein 531 548	recombinant BCL-6
+T14	protein 578 583	BCL-6
+T15	protein 598 619	DNA-binding complexes
+T16	cell_line 653 665	B-cell lines
+T17	protein 707 711	BCL6
+T18	DNA 743 752	promoters
+T19	DNA 767 786	DNA target sequence
+T20	protein 874 889	N-terminal half
+T21	protein 944 957	BCL6 molecule
+T22	protein 970 1002	autonomous transrepressor domain
+T23	protein 1016 1037	noncontiguous regions
+T24	protein 1054 1063	POZ motif
+T25	protein 1141 1154	BCL-6 protein
+T26	protein 1173 1216	sequence-specific transcriptional repressor
+T27	protein 1255 1259	BCL6

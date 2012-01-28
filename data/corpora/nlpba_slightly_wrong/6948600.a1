@@ -1,0 +1,12 @@
+T1	protein 0 23	Glucocorticoid receptor
+T2	protein 134 157	glucocorticoid receptor
+T3	protein 160 162	GR
+T4	cell_type 288 310	peripheral blood cells
+T5	cell_line 583 592	ALL cells
+T6	protein 615 617	GR
+T7	protein 812 814	GR
+T8	cell_line 927 936	CLL cells
+T9	cell_line 993 1021	PHA-stimulated cell cultures
+T10	protein 1299 1301	GR
+T11	cell_line 1512 1521	CML cells
+T12	cell_line 1615 1625	ANLL cells

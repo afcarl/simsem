@@ -1,0 +1,14 @@
+T1	DNA 134 159	p53 tumor-suppressor gene
+T2	protein 525 528	p53
+T3	protein 533 538	Ki-67
+T4	protein 734 742	vimentin
+T5	protein 781 800	smooth muscle actin
+T6	cell_type 848 859	tumor cells
+T7	protein 1040 1054	antibody MIB-1
+T8	protein 1057 1070	Ki-67 antigen
+T9	protein 1079 1091	antibody D07
+T10	protein 1126 1137	p53 protein
+T11	protein 1468 1475	keratin
+T12	protein 1478 1486	vimentin
+T13	protein 1493 1502	inhibin A
+T14	protein 1607 1618	p53 protein

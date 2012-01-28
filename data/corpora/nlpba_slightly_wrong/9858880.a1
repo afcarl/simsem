@@ -1,0 +1,20 @@
+T1	RNA 28 74	Epstein-Barr virus immediate-early transcripts
+T2	cell_type 78 105	CD4+ and CD8+ T lymphocytes
+T3	cell_type 269 276	T cells
+T4	cell_type 331 338	T cells
+T5	cell_type 433 440	T cells
+T6	cell_type 581 618	homogeneous CD4+ and CD8+ lymphocytes
+T7	protein 678 682	EBNA
+T8	cell_type 717 756	T rosetting CD4+ and CD8+ T lymphocytes
+T9	protein 783 803	viral capsid antigen
+T10	protein 806 809	VCA
+T11	RNA 814 850	EBV immediate-early gene transcripts
+T12	RNA 853 858	BZLF1
+T13	RNA 861 866	BRLF1
+T14	RNA 873 878	BMLF1
+T15	RNA 1005 1048	BZLF1 and BRLF1 immediate-early transcripts
+T16	RNA 1059 1075	BMLF1 transcript
+T17	cell_type 1110 1131	CD4+ and CD8+ T cells
+T18	RNA 1169 1189	EBV mRNA transcripts
+T19	protein 1199 1246	immediate-early transcriptional transactivators
+T20	cell_type 1250 1270	EBV-infected T cells

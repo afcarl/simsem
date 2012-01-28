@@ -1,0 +1,22 @@
+T1	protein 26 30	NFAT
+T2	protein 35 38	Egr
+T3	protein 39 60	transcription factors
+T4	protein 107 120	NFAT proteins
+T5	protein 191 196	NFATp
+T6	protein 201 206	NFAT4
+T7	protein 334 338	FasL
+T8	protein 345 366	transcription factors
+T9	protein 367 371	Egr2
+T10	protein 376 380	Egr3
+T11	DNA 442 446	Egr2
+T12	DNA 451 455	Egr3
+T13	DNA 460 477	NFAT target genes
+T14	protein 494 498	FasL
+T15	protein 514 518	NFAT
+T16	DNA 543 547	Egr3
+T17	protein 605 610	NFATp
+T18	protein 622 625	Egr
+T19	cell_type 663 683	DKO lymph node cells
+T20	DNA 696 700	Egr3
+T21	cell_type 727 736	Th1 cells
+T22	protein 809 813	FasL

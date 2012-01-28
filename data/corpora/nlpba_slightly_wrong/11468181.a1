@@ -1,0 +1,30 @@
+T1	protein 0 18	TRAIL/Apo2L ligand
+T2	protein 343 407	tumor necrosis factor ( TNF ) -related apoptosis-inducing ligand
+T3	protein 422 433	TRAIL/Apo2L
+T4	protein 444 455	TRAIL/Apo2L
+T5	cell_type 486 494	MM cells
+T6	cell_line 529 542	MM cell lines
+T7	protein 664 675	TRAIL/Apo2L
+T8	protein 713 726	interleukin 6
+T9	cell_type 730 738	MM cells
+T10	cell_type 774 824	peripheral blood and bone marrow mononuclear cells
+T11	cell_type 829 845	purified B cells
+T12	protein 886 901	TRAIL receptors
+T13	cell_type 991 999	MM cells
+T14	protein 1026 1037	TRAIL/Apo2L
+T15	cell_type 1087 1101	human MM cells
+T16	protein 1104 1109	TRAIL
+T17	cell_type 1223 1236	plasmacytomas
+T18	protein 1278 1292	TRAIL receptor
+T19	protein 1293 1309	death receptor 5
+T20	protein 1312 1315	DR5
+T21	protein 1361 1366	TRAIL
+T22	cell_type 1384 1392	MM cells
+T23	protein 1624 1633	NF-kappaB
+T24	protein 1711 1722	TRAIL/Apo2L
+T25	cell_type 1731 1755	TRAIL-sensitive MM cells
+T26	cell_type 1804 1828	ARH-77 and IM-9 MM cells
+T27	cell_type 1845 1865	normal B lymphocytes
+T28	protein 1889 1894	TRAIL
+T29	protein 1969 1980	TRAIL/Apo2L
+T30	protein 2068 2073	TRAIL

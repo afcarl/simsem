@@ -1,0 +1,23 @@
+T1	DNA 48 57	IL-2 gene
+T2	cell_type 72 89	anergized T cells
+T3	protein 127 131	IL-2
+T4	cell_line 160 181	anergic T cell clones
+T5	DNA 287 305	reporter construct
+T6	DNA 323 331	enhancer
+T7	DNA 351 361	NF-AT site
+T8	DNA 382 394	octamer site
+T9	DNA 397 409	4X NF-AT-Oct
+T10	DNA 549 572	IL-2 enhancer construct
+T11	DNA 622 642	-176 to -96 sequence
+T12	DNA 650 672	4X NF-AT-Oct construct
+T13	DNA 747 767	-236 to -96 sequence
+T14	DNA 871 893	-150 AP-1 binding site
+T15	DNA 896 908	-152 to -147
+T16	DNA 973 993	-236 to -96 sequence
+T17	DNA 1034 1053	-130 AP-1-like site
+T18	DNA 1056 1068	-187 to -181
+T19	DNA 1079 1102	-150 proximal AP-1 site
+T20	DNA 1150 1159	-180 site
+T21	DNA 1252 1271	mouse IL-2 enhancer
+T22	protein 1430 1451	transcription factors
+T23	DNA 1543 1552	IL-2 gene

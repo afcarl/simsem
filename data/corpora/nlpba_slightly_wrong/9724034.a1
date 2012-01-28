@@ -1,0 +1,21 @@
+T1	protein 51 60	NF-kappaB
+T2	cell_type 73 95	human leukemic T cells
+T3	cell_line 151 182	glucocorticoid-sensitive 6TG1.1
+T4	cell_line 187 206	resistant ICR27TK.3
+T5	cell_type 207 229	human leukemic T cells
+T6	cell_line 270 282	6TG1.1 cells
+T7	DNA 285 294	chromatin
+T8	cell_line 380 395	ICR27TK.3 cells
+T9	protein 407 438	mutant glucocorticoid receptors
+T10	cell_line 441 446	L753F
+T11	protein 513 517	AP-1
+T12	protein 621 625	AP-1
+T13	protein 1114 1135	nuclear factor-kappaB
+T14	protein 1138 1147	NF-kappaB
+T15	protein 1201 1229	immunoreactive IkappaB alpha
+T16	cell_line 1243 1255	6TG1.1 cells
+T17	cell_line 1277 1292	ICR27TK.3 cells
+T18	protein 1390 1411	cytoplasmic NF-kappaB
+T19	protein 1430 1443	IkappaB alpha
+T20	protein 1519 1543	labile inhibitory factor
+T21	protein 1552 1565	IkappaB alpha

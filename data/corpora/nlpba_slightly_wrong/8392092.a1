@@ -1,0 +1,22 @@
+T1	protein 31 42	lipoprotein
+T2	cell_type 78 95	endothelial cells
+T3	cell_line 175 236	minimally oxidized LDL ( MM-LDL ) activated endothelial cells
+T4	cell_type 272 281	monocytes
+T5	cell_type 290 301	neutrophils
+T6	protein 366 396	monocyte chemotactic protein-1
+T7	protein 401 435	monocyte colony-stimulating factor
+T8	protein 438 443	M-CSF
+T9	protein 620 625	M-CSF
+T10	protein 629 635	MM-LDL
+T11	cell_type 684 701	endothelial cells
+T12	protein 790 796	MM-LDL
+T13	cell_type 825 842	endothelial cells
+T14	protein 848 854	MM-LDL
+T15	protein 1050 1056	MM-LDL
+T16	protein 1114 1124	NF kappa B
+T17	RNA 1237 1290	endothelial leukocyte adhesion molecule ( ELAM ) mRNA
+T18	protein 1321 1331	NF kappa B
+T19	protein 1334 1338	ELAM
+T20	RNA 1361 1370	ELAM mRNA
+T21	protein 1413 1419	MM-LDL
+T22	cell_type 1460 1470	neutrophil

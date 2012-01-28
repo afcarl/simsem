@@ -1,0 +1,37 @@
+T1	DNA 9 38	prolactin-responsive elements
+T2	DNA 80 115	interferon regulatory factor-1 gene
+T3	DNA 122 167	interferon regulatory factor-1 ( IRF-1 ) gene
+T4	DNA 179 208	immediate-early G1 phase gene
+T5	DNA 216 228	S phase gene
+T6	protein 242 245	PRL
+T7	cell_line 249 270	rat Nb2 T lymphocytes
+T8	protein 310 313	PRL
+T9	protein 351 356	IRF-1
+T10	DNA 373 387	rat IRF-1 gene
+T11	DNA 423 437	IRF-1 promoter
+T12	cell_line 463 474	Nb2 T cells
+T13	DNA 501 522	IRF-1 5'-flanking DNA
+T14	DNA 535 591	chloramphenicol acetyl transferase ( CAT ) reporter gene
+T15	protein 624 634	CAT enzyme
+T16	protein 667 670	PRL
+T17	DNA 713 751	1.3 , 0.6 , and 0.2 kb 5'-flanking DNA
+T18	protein 857 860	PRL
+T19	DNA 913 951	heterologous thymidine kinase promoter
+T20	protein 973 976	PRL
+T21	DNA 1023 1053	upstream PRL response elements
+T22	DNA 1086 1112	promoter-proximal elements
+T23	protein 1127 1137	CAT enzyme
+T24	protein 1161 1164	PRL
+T25	protein 1227 1230	PRL
+T26	DNA 1248 1258	IRF-1 gene
+T27	protein 1287 1292	IRF-1
+T28	DNA 1293 1304	5'-flanking
+T29	DNA 1309 1321	promoter DNA
+T30	DNA 1335 1352	IRF-CAT construct
+T31	protein 1368 1371	PRL
+T32	protein 1454 1457	CAT
+T33	protein 1485 1488	PRL
+T34	protein 1548 1551	PRL
+T35	DNA 1588 1598	IRF-1 gene
+T36	DNA 1636 1659	PRL-responsive elements
+T37	DNA 1698 1719	IRF-1 promoter region

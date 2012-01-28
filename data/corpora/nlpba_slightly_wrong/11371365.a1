@@ -1,0 +1,17 @@
+T1	protein 4 35	translesion DNA polymerase zeta
+T2	protein 141 151	polymerase
+T3	protein 154 157	pol
+T4	cell_type 224 237	human B cells
+T5	protein 265 285	translesion pol zeta
+T6	protein 367 374	pol eta
+T7	protein 436 451	B cell receptor
+T8	protein 454 457	BCR
+T9	cell_type 490 512	activated CD4+ T cells
+T10	cell_type 521 532	lymphocytes
+T11	protein 545 553	pol zeta
+T12	protein 570 577	pol eta
+T13	DNA 596 614	Ig and bcl-6 genes
+T14	protein 635 643	pol zeta
+T15	protein 644 666	REV3 catalytic subunit
+T16	protein 849 857	pol zeta
+T17	protein 957 964	pol eta

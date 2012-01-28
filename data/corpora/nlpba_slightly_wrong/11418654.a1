@@ -1,0 +1,20 @@
+T1	DNA 19 33	IL-12 p40 gene
+T2	DNA 125 139	IL-12 p40 gene
+T3	protein 197 202	IL-12
+T4	protein 217 226	IFN-gamma
+T5	protein 300 317	IL-12 p70 protein
+T6	cell_type 332 352	infected macrophages
+T7	cell_type 379 401	uninfected macrophages
+T8	DNA 457 471	IL-12 p40 gene
+T9	DNA 480 494	IL-12 p35 gene
+T10	cell_type 498 509	macrophages
+T11	cell_type 612 623	macrophages
+T12	cell_type 648 680	P. berghei-infected erythrocytes
+T13	protein 720 725	IL-10
+T14	protein 763 772	NF-kappaB
+T15	cell_type 776 805	uninfected and infected cells
+T16	DNA 825 853	IFN-regulatory factor-1 gene
+T17	cell_type 895 924	uninfected and infected cells
+T18	protein 971 994	IFN-regulatory factor-1
+T19	cell_type 1011 1025	infected cells
+T20	DNA 1062 1076	IL-12 p40 gene

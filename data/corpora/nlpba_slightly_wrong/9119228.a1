@@ -1,0 +1,39 @@
+T1	protein 0 3	ALY
+T2	protein 8 37	context-dependent coactivator
+T3	protein 41 46	LEF-1
+T4	protein 51 56	AML-1
+T5	DNA 75 92	TCRalpha enhancer
+T6	protein 104 109	LEF-1
+T7	DNA 179 223	T-cell receptor alpha ( TCR alpha ) enhancer
+T8	protein 256 273	multiple proteins
+T9	protein 294 315	nucleoprotein complex
+T10	protein 334 339	LEF-1
+T11	protein 372 382	HMG domain
+T12	protein 438 455	activation domain
+T13	protein 522 547	enhancer-binding proteins
+T14	protein 603 639	context-dependent activation domains
+T15	protein 652 655	ALY
+T16	protein 666 691	LEF-1-interacting protein
+T17	protein 694 697	ALY
+T18	protein 782 800	activation domains
+T19	protein 804 809	LEF-1
+T20	protein 814 819	AML-1
+T21	protein 822 832	CBF alpha2
+T22	protein 835 846	PEBP2 alpha
+T23	protein 897 923	TCR alpha enhancer complex
+T24	protein 940 943	ALY
+T25	protein 977 982	LEF-1
+T26	protein 987 999	AML proteins
+T27	protein 1020 1023	ALY
+T28	protein 1055 1081	TCR alpha enhancer complex
+T29	cell_line 1099 1133	transfected nonlymphoid HeLa cells
+T30	protein 1163 1166	ALY
+T31	DNA 1219 1237	TCR alpha enhancer
+T32	cell_type 1250 1257	T cells
+T33	protein 1271 1276	LEF-1
+T34	protein 1279 1282	ALY
+T35	DNA 1333 1351	TCR alpha enhancer
+T36	protein 1403 1434	heterologous DNA-binding domain
+T37	protein 1453 1456	ALY
+T38	protein 1559 1576	multiple proteins
+T39	protein 1584 1610	TCR alpha enhancer complex

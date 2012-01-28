@@ -1,0 +1,27 @@
+T1	protein 8 32	immunosuppressive factor
+T2	DNA 78 105	interleukin 2 gene enhancer
+T3	DNA 113 122	NFAT site
+T4	protein 156 183	colostrum inhibitory factor
+T5	protein 186 189	CIF
+T6	protein 201 214	interleukin 2
+T7	protein 217 220	IL2
+T8	cell_type 247 261	T helper cells
+T9	RNA 294 302	IL2 mRNA
+T10	protein 326 329	CIF
+T11	protein 353 356	IL2
+T12	cell_line 414 447	human T leukemia cell line Jurkat
+T13	DNA 496 511	luciferase gene
+T14	DNA 544 571	human IL2 upstream enhancer
+T15	DNA 628 640	NFAT element
+T16	protein 703 713	luciferase
+T17	protein 797 800	CIF
+T18	protein 905 917	NFAT element
+T19	protein 920 923	CIF
+T20	DNA 956 973	enhancer elements
+T21	DNA 980 1018	NFAT-controlled luciferase gene system
+T22	protein 1033 1036	CIF
+T23	protein 1116 1126	TGF beta 1
+T24	protein 1131 1141	TGF beta 2
+T25	protein 1284 1287	CIF
+T26	protein 1311 1315	NFAT
+T27	protein 1390 1393	CIF

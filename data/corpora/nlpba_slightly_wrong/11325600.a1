@@ -1,0 +1,27 @@
+T1	DNA 86 99	cytokine gene
+T2	cell_type 487 503	epithelial cells
+T3	cell_type 508 518	leukocytes
+T4	protein 716 722	RANTES
+T5	protein 725 736	MIP-1 alpha
+T6	protein 739 744	MCP-1
+T7	protein 747 752	MCP-3
+T8	protein 759 764	IP-10
+T9	protein 788 797	IL-1 beta
+T10	protein 800 804	IL-6
+T11	protein 807 812	IL-18
+T12	protein 819 828	TNF-alpha
+T13	protein 837 875	antiviral ( IFN-alpha/beta ) cytokines
+T14	protein 940 950	NF-kappa B
+T15	protein 953 957	AP-1
+T16	protein 960 964	STAT
+T17	protein 969 1001	IRF signal transducing molecules
+T18	DNA 1068 1081	cytokine gene
+T19	protein 1133 1149	caspase-1 enzyme
+T20	protein 1203 1215	proIL-1 beta
+T21	protein 1220 1228	proIL-18
+T22	protein 1294 1308	IFN-alpha/beta
+T23	DNA 1383 1395	antiviral Mx
+T24	DNA 1398 1437	PKR and oligoadenylate synthetase genes
+T25	protein 1440 1454	IFN-alpha/beta
+T26	protein 1558 1563	IL-18
+T27	cell_type 1575 1588	NK and T cell

@@ -1,0 +1,56 @@
+T1	protein 0 9	IFN-gamma
+T2	protein 14 19	IL-10
+T3	protein 93 97	IL-4
+T4	protein 102 107	IL-13
+T5	cell_type 117 126	monocytes
+T6	protein 133 151	Th2-type cytokines
+T7	protein 152 156	IL-4
+T8	protein 161 166	IL-13
+T9	cell_type 218 233	human monocytes
+T10	protein 250 263	Fc epsilonRII
+T11	protein 266 270	CD23
+T12	protein 275 290	15-lipoxygenase
+T13	protein 293 317	IL-1 receptor antagonist
+T14	protein 320 326	IL-1ra
+T15	protein 335 368	type I and type II IL-1 receptors
+T16	protein 371 376	IL-1R
+T17	protein 381 390	IFN-gamma
+T18	protein 430 434	CD23
+T19	protein 439 454	15-lipoxygenase
+T20	cell_type 458 467	monocytes
+T21	protein 495 504	IFN-gamma
+T22	protein 600 609	IFN-gamma
+T23	protein 628 632	IL-4
+T24	protein 635 640	IL-13
+T25	DNA 650 660	IL-1R gene
+T26	cell_type 675 692	primary monocytes
+T27	protein 695 699	IL-4
+T28	protein 704 709	IL-13
+T29	protein 789 798	IFN-gamma
+T30	protein 869 873	IL-4
+T31	protein 878 883	IL-13
+T32	protein 900 906	IL-1RI
+T33	protein 934 943	IFN-gamma
+T34	protein 1038 1045	IL-1RII
+T35	protein 1097 1104	IL-1RII
+T36	protein 1135 1144	IFN-gamma
+T37	protein 1153 1158	IL-10
+T38	cell_line 1203 1234	IL-4/IL-13-stimulated monocytes
+T39	DNA 1251 1261	IL-1R gene
+T40	protein 1276 1285	IFN-gamma
+T41	protein 1290 1295	IL-10
+T42	protein 1330 1343	surface IL-4R
+T43	protein 1417 1421	IL-4
+T44	DNA 1472 1482	IL-1R gene
+T45	protein 1497 1506	IFN-gamma
+T46	protein 1511 1516	IL-10
+T47	protein 1605 1646	IL-4/IL-13-inducible transcription factor
+T48	protein 1649 1654	Stat6
+T49	protein 1699 1708	IFN-gamma
+T50	protein 1713 1718	IL-10
+T51	protein 1821 1830	IFN-gamma
+T52	protein 1835 1840	IL-10
+T53	protein 1869 1873	IL-4
+T54	protein 1878 1883	IL-13
+T55	DNA 1933 1946	IL-1RII genes
+T56	cell_type 1950 1959	monocytes

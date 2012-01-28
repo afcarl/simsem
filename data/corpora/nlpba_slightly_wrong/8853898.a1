@@ -1,0 +1,25 @@
+T1	DNA 54 68	erythroid gene
+T2	cell_type 124 151	human erythroleukemic cells
+T3	cell_line 281 310	human leukemic cell line K562
+T4	DNA 383 388	genes
+T5	protein 398 440	gamma-globin and porphobilinogen deaminase
+T6	protein 443 447	PBGD
+T7	DNA 571 586	erythroid genes
+T8	protein 599 611	gamma-globin
+T9	protein 614 618	PBGD
+T10	protein 621 644	erythropoietin receptor
+T11	protein 651 657	GATA-1
+T12	protein 658 678	transcription factor
+T13	cell_line 698 715	DOX-treated cells
+T14	DNA 750 755	genes
+T15	cell_type 789 802	control cells
+T16	RNA 833 837	mRNA
+T17	RNA 920 941	PBGD and GATA-1 mRNAs
+T18	RNA 996 1001	mRNAs
+T19	RNA 1028 1042	erythroid mRNA
+T20	cell_type 1065 1092	anthracycline-treated cells
+T21	cell_line 1175 1193	ACLA-treated cells
+T22	cell_type 1220 1237	DOX-treated cells
+T23	protein 1294 1300	GATA-1
+T24	cell_line 1344 1385	ACLA-treated but not in DOX-treated cells
+T25	DNA 1540 1554	erythroid gene

@@ -1,0 +1,21 @@
+T1	protein 25 28	Jak
+T2	protein 29 34	-STAT
+T3	cell_type 46 53	T cells
+T4	cell_type 256 296	HTLV-I-infected peripheral blood T cells
+T5	protein 325 338	interleukin-2
+T6	protein 341 345	IL-2
+T7	protein 423 427	IL-2
+T8	protein 455 466	Jak kinases
+T9	protein 467 471	Jak1
+T10	protein 476 480	Jak3
+T11	protein 524 546	transcription proteins
+T12	protein 547 552	Stat3
+T13	protein 557 562	Stat5
+T14	cell_type 580 594	normal T cells
+T15	protein 610 614	IL-2
+T16	cell_line 672 696	HTLV-I-transformed cells
+T17	cell_line 702 740	HTLV-I-infected cord blood lymphocytes
+T18	protein 763 767	IL-2
+T19	protein 782 786	IL-2
+T20	protein 869 872	Jak
+T21	protein 873 878	-STAT

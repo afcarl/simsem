@@ -1,0 +1,24 @@
+T1	DNA 3 19	AP1 binding site
+T2	DNA 36 72	kappa immunoglobulin intron enhancer
+T3	protein 79 96	inducible factors
+T4	protein 243 263	trans-acting factors
+T5	DNA 297 314	enhancer elements
+T6	DNA 383 398	intron enhancer
+T7	DNA 412 436	matrix-associated region
+T8	DNA 444 454	J-C intron
+T9	cell_type 502 513	pre-B cells
+T10	protein 550 563	interleukin-1
+T11	DNA 646 670	footprinted binding site
+T12	DNA 692 711	consensus AP1 motif
+T13	DNA 785 804	AP1 consensus motif
+T14	protein 845 850	c-Jun
+T15	protein 855 860	c-Fos
+T16	DNA 884 896	binding site
+T17	DNA 903 912	AP1 motif
+T18	protein 926 946	Jun and Fos families
+T19	protein 950 971	transcription factors
+T20	DNA 1009 1031	kappa light chain gene
+T21	DNA 1050 1059	AP1 motif
+T22	DNA 1082 1097	intron enhancer
+T23	cell_type 1173 1184	pre-B cells
+T24	cell_type 1233 1247	mature B cells

@@ -1,0 +1,37 @@
+T1	protein 20 32	novel factor
+T2	DNA 56 91	immunoglobulin heavy-chain promoter
+T3	protein 145 174	lymphoid cell-specific factor
+T4	protein 175 179	OTF2
+T5	DNA 220 260	MOPC 141 immunoglobulin heavy-chain gene
+T6	DNA 371 386	octamer element
+T7	DNA 420 435	upstream region
+T8	DNA 444 452	promoter
+T9	DNA 464 473	promoters
+T10	DNA 487 530	immunoglobulin heavy- and light-chain genes
+T11	protein 561 590	octamer transcription factors
+T12	protein 601 605	OTF1
+T13	protein 610 614	OTF2
+T14	DNA 626 643	MOPC 141 promoter
+T15	protein 707 714	DNase I
+T16	protein 739 743	OTF1
+T17	cell_line 749 759	HeLa cells
+T18	protein 764 768	OTF1
+T19	protein 773 777	OTF2
+T20	cell_type 783 790	B cells
+T21	DNA 831 851	heavy-chain promoter
+T22	DNA 905 921	heptamer element
+T23	protein 983 999	purified factors
+T24	DNA 1029 1055	octamer and heptamer sites
+T25	DNA 1064 1072	promoter
+T26	DNA 1130 1148	regulatory element
+T27	DNA 1155 1164	N element
+T28	DNA 1208 1217	N element
+T29	DNA 1344 1359	octamer element
+T30	DNA 1431 1440	N element
+T31	protein 1449 1469	transcription factor
+T32	protein 1472 1475	NTF
+T33	protein 1529 1532	NTF
+T34	protein 1562 1591	previously described proteins
+T35	protein 1666 1669	NTF
+T36	protein 1674 1678	OTF2
+T37	DNA 1710 1730	cognate DNA elements

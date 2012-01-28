@@ -1,0 +1,23 @@
+T1	DNA 30 56	HIV-1 long terminal repeat
+T2	cell_type 82 89	T cells
+T3	cell_type 267 281	infected cells
+T4	protein 323 354	viral and host cellular factors
+T5	protein 387 424	pleiotropic immunomodulatory molecule
+T6	cell_line 546 549	1G5
+T7	cell_line 554 580	Jurkat-derived T cell line
+T8	DNA 607 622	luciferase gene
+T9	DNA 633 659	HIV-1 long terminal repeat
+T10	DNA 662 665	LTR
+T11	DNA 707 716	HIV-1 LTR
+T12	DNA 727 740	reporter gene
+T13	protein 796 813	second messengers
+T14	protein 1047 1063	protein kinase A
+T15	DNA 1114 1137	HIV-1 LTR-based vectors
+T16	protein 1309 1318	NF-kappaB
+T17	DNA 1412 1455	kappaB-regulated luciferase encoding vector
+T18	DNA 1640 1649	HIV-1 LTR
+T19	DNA 1658 1671	reporter gene
+T20	cell_type 1692 1708	T lymphoid cells
+T21	protein 1731 1751	EP4 receptor subtype
+T22	cell_type 1802 1813	macrophages
+T23	cell_type 1949 1956	T cells

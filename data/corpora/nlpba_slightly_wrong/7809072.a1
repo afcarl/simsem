@@ -1,0 +1,15 @@
+T1	DNA 22 31	TCL1 gene
+T2	cell_type 44 50	T-cell
+T3	DNA 70 80	TCL1 locus
+T4	DNA 84 102	chromosome 14q32.1
+T5	DNA 187 207	T-cell receptor loci
+T6	DNA 254 274	chromosome 14 region
+T7	RNA 426 443	1.3-kb transcript
+T8	cell_type 503 519	lymphoid lineage
+T9	cell_type 552 566	leukemic cells
+T10	DNA 688 709	cognate cDNA sequence
+T11	DNA 721 739	open reading frame
+T12	protein 761 778	protein of 14 kDa
+T13	DNA 785 794	TCL1 gene
+T14	DNA 871 882	human genes
+T15	cell_type 922 941	T- and B-lymphocyte

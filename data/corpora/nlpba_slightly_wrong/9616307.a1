@@ -1,0 +1,21 @@
+T1	protein 14 36	nuclear factor kappa B
+T2	protein 108 134	pro-inflammatory cytokines
+T3	protein 235 257	Nuclear factor kappa B
+T4	protein 260 270	NF kappa B
+T5	DNA 299 317	inflammation genes
+T6	protein 336 346	NF kappa B
+T7	protein 376 397	cytoplasmic inhibitor
+T8	protein 400 409	I kappa B
+T9	DNA 460 481	DNA response elements
+T10	protein 563 573	NF kappa B
+T11	protein 677 687	NF kappa B
+T12	cell_type 828 860	lamina propria mononuclear cells
+T13	protein 891 901	NF kappa B
+T14	protein 902 905	p65
+T15	protein 1082 1092	NF kappa B
+T16	cell_type 1109 1141	lamina propria mononuclear cells
+T17	protein 1218 1228	NF kappa B
+T18	protein 1287 1306	cytosolic inhibitor
+T19	protein 1307 1316	I kappa B
+T20	protein 1453 1463	NF kappa B
+T21	protein 1543 1553	NF kappa B

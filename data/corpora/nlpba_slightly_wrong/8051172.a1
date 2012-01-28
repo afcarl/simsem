@@ -1,0 +1,19 @@
+T1	protein 0 22	ZAP-70 tyrosine kinase
+T2	protein 25 29	CD45
+T3	protein 36 51	T cell receptor
+T4	protein 193 203	NF-kappa B
+T5	cell_type 294 307	T lymphocytes
+T6	cell_type 506 519	T lymphocytes
+T7	protein 548 551	CD3
+T8	cell_line 648 667	Jurkat T cell lines
+T9	protein 861 874	kinase ZAP-70
+T10	protein 936 942	ZAP-70
+T11	protein 992 995	CD3
+T12	protein 1000 1004	CD45
+T13	protein 1020 1023	CD3
+T14	protein 1089 1099	NF-kappa B
+T15	protein 1115 1118	CD3
+T16	protein 1165 1187	cell surface molecules
+T17	cell_type 1223 1240	nonlymphoid cells
+T18	protein 1247 1279	epidermal growth factor receptor
+T19	protein 1434 1456	cell surface receptors

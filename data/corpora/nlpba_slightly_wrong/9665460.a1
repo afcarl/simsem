@@ -1,0 +1,30 @@
+T1	cell_type 0 11	Macrophages
+T2	protein 38 47	PPARgamma
+T3	protein 50 125	differentiation-dependent peroxisomal proliferator-activated receptor gamma
+T4	protein 128 137	PPARgamma
+T5	protein 168 173	MMP-9
+T6	protein 191 200	PPARgamma
+T7	cell_type 249 271	Mononuclear phagocytes
+T8	protein 375 400	matrix metalloproteinases
+T9	protein 403 407	MMPs
+T10	protein 422 427	MMP-9
+T11	protein 430 479	Peroxisomal proliferator-activated receptor gamma
+T12	protein 482 491	PPARgamma
+T13	protein 498 518	transcription factor
+T14	protein 722 731	PPARgamma
+T15	cell_type 793 814	monocytes/macrophages
+T16	protein 867 892	immunostainable PPARgamma
+T17	protein 936 968	minimal immunoreactive PPARgamma
+T18	cell_type 971 986	Human monocytes
+T19	cell_type 991 1019	monocyte-derived macrophages
+T20	RNA 1069 1083	PPARgamma mRNA
+T21	RNA 1199 1213	PPARgamma mRNA
+T22	cell_line 1228 1238	U937 cells
+T23	protein 1329 1338	PPARgamma
+T24	cell_type 1408 1436	monocyte-derived macrophages
+T25	protein 1447 1452	MMP-9
+T26	protein 1583 1588	MMP-9
+T27	protein 1642 1651	PPARgamma
+T28	cell_type 1666 1677	macrophages
+T29	protein 1755 1760	MMP-9
+T30	protein 1804 1813	PPARgamma

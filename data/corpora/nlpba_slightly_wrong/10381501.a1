@@ -1,0 +1,27 @@
+T1	protein 0 6	GATA-1
+T2	protein 11 25	erythropoietin
+T3	protein 85 91	bcl-xL
+T4	protein 109 129	transcription factor
+T5	protein 130 136	GATA-1
+T6	cell_line 194 235	vitro-differentiated embryonic stem cells
+T7	protein 282 288	GATA-1
+T8	cell_line 291 321	committed erythroid precursors
+T9	protein 406 412	GATA-1
+T10	cell_type 473 488	erythroid cells
+T11	protein 491 497	GATA-1
+T12	protein 537 559	anti-apoptotic protein
+T13	protein 560 566	bcl-xL
+T14	protein 598 603	bcl-2
+T15	protein 608 613	mcl-1
+T16	protein 643 649	bcl-xL
+T17	protein 663 669	GATA-1
+T18	cell_line 708 759	vitro-differentiated bcl-xL-/- embryonic stem cells
+T19	cell_type 802 817	erythroid cells
+T20	DNA 851 862	GATA-1 gene
+T21	protein 903 917	erythropoietin
+T22	protein 989 995	GATA-1
+T23	protein 1009 1015	bcl-xL
+T24	protein 1132 1138	bcl-xL
+T25	protein 1229 1235	bcl-xL
+T26	protein 1273 1279	GATA-1
+T27	protein 1284 1298	erythropoietin

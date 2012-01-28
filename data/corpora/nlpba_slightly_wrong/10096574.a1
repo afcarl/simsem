@@ -1,0 +1,16 @@
+T1	protein 60 83	glucocorticoid receptor
+T2	cell_type 98 120	human leukemic T cells
+T3	protein 169 192	glucocorticoid receptor
+T4	protein 195 197	GR
+T5	protein 244 246	GR
+T6	cell_type 289 311	human leukemic T cells
+T7	DNA 491 508	wild-type GR gene
+T8	DNA 532 563	tetracycline-regulated promoter
+T9	cell_line 592 622	glucocorticoid-resistant cells
+T10	cell_line 664 677	Transfectants
+T11	protein 801 803	GR
+T12	cell_line 818 855	glucocorticoid-sensitive 6TG1.1 cells
+T13	RNA 1087 1094	GR mRNA
+T14	cell_line 1225 1237	6TG1.1 cells
+T15	protein 1469 1471	GR
+T16	cell_line 1544 1576	glucocorticoid-sensitive T cells

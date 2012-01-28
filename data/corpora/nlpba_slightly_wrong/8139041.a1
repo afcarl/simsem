@@ -1,0 +1,45 @@
+T1	DNA 2 36	transcriptional regulatory element
+T2	DNA 58 86	nuclease-hypersensitive site
+T3	DNA 94 102	pol gene
+T4	DNA 201 253	human immunodeficiency virus type 1 ( HIV-1 ) genome
+T5	DNA 280 326	major constitutive DNase I-hypersensitive site
+T6	DNA 347 355	pol gene
+T7	protein 472 479	DNase I
+T8	protein 484 504	micrococcal nuclease
+T9	DNA 518 540	nucleosome-free region
+T10	DNA 557 588	nucleotides ( nt ) 4490 to 4766
+T11	DNA 593 608	500-bp fragment
+T12	DNA 627 646	hypersensitive site
+T13	DNA 649 664	nt 4481 to 4982
+T14	DNA 795 809	HIV-1 promoter
+T15	cell_line 842 846	U937
+T16	cell_line 851 860	CEM cells
+T17	DNA 947 960	binding sites
+T18	protein 965 981	nuclear proteins
+T19	DNA 994 1021	positive regulatory element
+T20	DNA 1024 1030	Site B
+T21	DNA 1033 1048	nt 4519 to 4545
+T22	protein 1084 1109	nuclear protein complexes
+T23	protein 1114 1131	ubiquitous factor
+T24	protein 1136 1158	T-cell-specific factor
+T25	protein 1163 1185	B-cell-specific factor
+T26	protein 1196 1257	monocyte/macrophage- and B-cell-specific transcription factor
+T27	protein 1258 1268	PU.1/Spi-1
+T28	DNA 1308 1314	PU box
+T29	DNA 1356 1368	binding site
+T30	protein 1392 1396	Ets1
+T31	DNA 1418 1424	site C
+T32	DNA 1427 1442	nt 4681 to 4701
+T33	DNA 1513 1519	site B
+T34	protein 1533 1543	PU.1/Spi-1
+T35	DNA 1548 1554	GC box
+T36	DNA 1568 1580	binding site
+T37	protein 1585 1588	Sp1
+T38	DNA 1606 1621	nt 4623 to 4631
+T39	DNA 1626 1632	Site D
+T40	DNA 1635 1650	nt 4816 to 4851
+T41	protein 1674 1703	ubiquitously expressed factor
+T42	DNA 1731 1765	transcriptional regulatory element
+T43	DNA 1784 1812	nuclease-hypersensitive site
+T44	DNA 1820 1828	pol gene
+T45	DNA 1917 1936	regulatory elements

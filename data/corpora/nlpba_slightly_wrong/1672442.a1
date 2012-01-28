@@ -1,0 +1,25 @@
+T1	DNA 30 56	murine Thy-1 gene promoter
+T2	DNA 63 82	Thy-1 gene promoter
+T3	DNA 95 122	`` housekeeping '' promoter
+T4	DNA 154 177	methylation-free island
+T5	DNA 188 206	canonical TATA box
+T6	RNA 243 257	5'-end termini
+T7	RNA 265 269	mRNA
+T8	DNA 314 322	promoter
+T9	DNA 506 521	initiation site
+T10	DNA 571 593	minimal Thy-1 promoter
+T11	DNA 612 638	dominant promoter elements
+T12	DNA 650 672	multiple binding sites
+T13	protein 681 701	transcription factor
+T14	protein 702 705	Sp1
+T15	DNA 720 729	CCAAT box
+T16	DNA 762 786	transcription start site
+T17	protein 859 874	nuclear factors
+T18	DNA 884 892	elements
+T19	protein 905 908	Sp1
+T20	protein 913 916	CP1
+T21	DNA 963 971	promoter
+T22	protein 1020 1041	transcription factors
+T23	protein 1042 1045	Sp1
+T24	protein 1050 1053	CP1
+T25	DNA 1112 1130	enhancer sequences

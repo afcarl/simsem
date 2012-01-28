@@ -1,0 +1,31 @@
+T1	protein 0 14	Anaphylatoxins
+T2	protein 15 18	C5a
+T3	protein 23 26	C3a
+T4	protein 34 55	nuclear factor kappaB
+T5	cell_type 70 102	human peripheral blood monocytes
+T6	protein 109 123	anaphylatoxins
+T7	protein 124 127	C5a
+T8	protein 132 135	C3a
+T9	protein 224 227	C5a
+T10	protein 232 235	C3a
+T11	protein 293 296	C5a
+T12	protein 301 304	C3a
+T13	cell_type 320 352	human peripheral blood monocytes
+T14	DNA 434 449	kappaB sequence
+T15	protein 456 476	p50 and p65 proteins
+T16	protein 510 531	nuclear factor kappaB
+T17	protein 596 619	anti-peptide antibodies
+T18	protein 647 650	C5a
+T19	protein 659 665	kappaB
+T20	DNA 797 812	kappaB sequence
+T21	protein 895 907	IkappaBalpha
+T22	protein 958 984	anti-IkappaBalpha antibody
+T23	protein 1032 1038	kappaB
+T24	protein 1074 1077	C5a
+T25	protein 1082 1085	C3a
+T26	protein 1096 1109	cholera toxin
+T27	protein 1178 1184	kappaB
+T28	protein 1213 1221	TNFalpha
+T29	protein 1286 1300	anaphylatoxins
+T30	protein 1301 1304	C5a
+T31	protein 1309 1312	C3a

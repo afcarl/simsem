@@ -1,0 +1,20 @@
+T1	protein 10 15	IL-12
+T2	protein 100 109	NF-kappaB
+T3	protein 112 117	IL-12
+T4	protein 123 152	75-kDa heterodimeric cytokine
+T5	protein 187 205	p35 and p40 chains
+T6	protein 213 238	pro-inflammatory cytokine
+T7	protein 450 455	IL-12
+T8	protein 688 693	IL-12
+T9	protein 774 791	IL-12 heterodimer
+T10	protein 803 814	p40 monomer
+T11	cell_type 818 839	human monocytic cells
+T12	RNA 890 903	IL-12p40 mRNA
+T13	DNA 951 968	p40 gene promoter
+T14	protein 997 1006	NF-kappaB
+T15	DNA 1037 1052	p40-kappaB site
+T16	DNA 1060 1072	p40 promoter
+T17	DNA 1120 1128	p40 gene
+T18	cell_type 1327 1336	Th1 cells
+T19	protein 1384 1393	NF-kappaB
+T20	protein 1440 1445	IL-12

@@ -1,0 +1,16 @@
+T1	cell_line 60 80	human Jurkat T-cells
+T2	cell_type 84 101	endothelial cells
+T3	cell_type 345 368	human endothelial cells
+T4	cell_line 396 416	human Jurkat T cells
+T5	cell_type 420 429	ECV cells
+T6	cell_line 727 741	Jurkat T-cells
+T7	cell_type 745 754	ECV cells
+T8	protein 842 848	ICAM-1
+T9	protein 865 871	VCAM-1
+T10	cell_type 957 986	PMA-activated untreated cells
+T11	protein 1362 1371	NF-kappaB
+T12	protein 1463 1479	Protein kinase C
+T13	protein 1482 1485	PKC
+T14	RNA 1601 1623	adhesion molecule mRNA
+T15	protein 1687 1690	PKC
+T16	cell_type 1803 1812	ECV cells

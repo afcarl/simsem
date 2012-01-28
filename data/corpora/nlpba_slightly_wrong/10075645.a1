@@ -1,0 +1,43 @@
+T1	protein 39 60	nuclear factor-kappaB
+T2	protein 69 102	interleukin-1 signaling mediators
+T3	cell_line 106 145	cultured human dermal endothelial cells
+T4	cell_type 150 172	mononuclear phagocytes
+T5	cell_type 265 274	monocytes
+T6	cell_type 277 288	macrophages
+T7	cell_type 295 312	endothelial cells
+T8	protein 424 433	NF-kappaB
+T9	cell_type 486 506	LPS-responsive cells
+T10	protein 598 611	interleukin-1
+T11	protein 614 618	IL-1
+T12	protein 625 646	tumor necrosis factor
+T13	protein 649 658	TNF-alpha
+T14	protein 661 688	signal transducer molecules
+T15	cell_type 709 751	human dermal microvessel endothelial cells
+T16	cell_type 754 759	HDMEC
+T17	cell_line 766 787	THP-1 monocytic cells
+T18	cell_type 809 814	HDMEC
+T19	cell_line 819 830	THP-1 cells
+T20	protein 844 857	IL-1 receptor
+T21	protein 864 873	NF-kappaB
+T22	protein 969 973	IL-1
+T23	protein 1004 1009	MyD88
+T24	protein 1012 1016	IRAK
+T25	protein 1019 1024	IRAK2
+T26	protein 1031 1036	TRAF6
+T27	protein 1052 1056	IL-1
+T28	protein 1074 1083	NF-kappaB
+T29	protein 1084 1095	-luciferase
+T30	protein 1119 1128	NF-kappaB
+T31	protein 1191 1196	TRAF2
+T32	protein 1217 1220	TNF
+T33	DNA 1259 1293	NF-kappaB-responsive reporter gene
+T34	protein 1315 1319	IL-1
+T35	protein 1342 1346	TLR2
+T36	protein 1351 1355	TLR4
+T37	cell_type 1394 1399	HDMEC
+T38	cell_line 1404 1415	THP-1 cells
+T39	protein 1448 1476	signal transduction molecule
+T40	protein 1523 1527	IL-1
+T41	protein 1664 1668	IL-1
+T42	cell_type 1672 1694	mononuclear phagocytes
+T43	cell_type 1699 1716	endothelial cells

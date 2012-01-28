@@ -1,0 +1,20 @@
+T1	protein 49 70	nuclear factor kappaB
+T2	protein 75 78	JNK
+T3	protein 79 84	/SAPK
+T4	protein 108 158	tumor necrosis factor receptor-associated factor 6
+T5	protein 161 166	TRAF6
+T6	protein 194 209	Drosophila Toll
+T7	protein 212 217	hToll
+T8	protein 257 301	interleukin 1 receptor ( IL-1R ) superfamily
+T9	protein 382 387	hToll
+T10	protein 444 460	adapter molecule
+T11	protein 461 466	MyD88
+T12	protein 475 498	IL-1R-associated kinase
+T13	protein 501 550	Tumor necrosis factor receptor-activated factor 6
+T14	protein 553 558	TRAF6
+T15	protein 569 621	nuclear factor kappaB ( NF-kappaB ) -inducing kinase
+T16	protein 624 627	NIK
+T17	protein 671 680	NF-kappaB
+T18	protein 738 743	TRAF6
+T19	protein 760 765	hToll
+T20	protein 789 847	stress-activated protein kinase/c-Jun NH2-terminal kinases

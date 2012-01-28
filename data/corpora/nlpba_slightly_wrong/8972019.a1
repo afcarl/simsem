@@ -1,0 +1,16 @@
+T1	protein 63 79	NF-kappa B/c-Rel
+T2	protein 121 134	tissue factor
+T3	protein 137 139	TF
+T4	protein 146 172	tumor necrosis factor alfa
+T5	protein 175 184	TNF-alpha
+T6	cell_type 190 205	human monocytes
+T7	protein 429 438	TNF-alpha
+T8	protein 458 476	prostaglandin PGE2
+T9	cell_type 480 495	human monocytes
+T10	protein 536 550	LPS-induced TF
+T11	protein 555 564	TNF-alpha
+T12	RNA 582 586	mRNA
+T13	protein 623 627	PGE2
+T14	DNA 712 739	NF-kappa B prototypic probe
+T15	protein 844 869	NF-kappa B/c-Rel proteins
+T16	cell_type 999 1008	monocytes

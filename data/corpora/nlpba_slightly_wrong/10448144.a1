@@ -1,0 +1,9 @@
+T1	protein 153 164	interferons
+T2	cell_type 209 242	CD8 ( + ) cytotoxic T lymphocytes
+T3	protein 262 275	death ligands
+T4	protein 276 279	TNF
+T5	protein 282 292	Fas ligand
+T6	protein 297 302	TRAIL
+T7	protein 309 323	viral proteins
+T8	DNA 437 468	adenovirus gene therapy vectors
+T9	cell_line 473 491	transplanted cells

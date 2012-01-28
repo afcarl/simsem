@@ -1,0 +1,23 @@
+T1	protein 9 22	Oct2 isoforms
+T2	protein 86 111	Oct2 transcription factor
+T3	DNA 121 142	cognate octamer motif
+T4	DNA 217 237	immunoglobulin genes
+T5	DNA 262 278	cloned Oct2 cDNA
+T6	cell_type 366 384	non-lymphoid cells
+T7	DNA 437 451	multiple cDNAs
+T8	protein 461 471	mouse Oct2
+T9	cell_line 479 497	mature B-cell line
+T10	protein 545 565	transcription factor
+T11	protein 645 653	isoforms
+T12	DNA 739 752	octamer motif
+T13	protein 788 796	isoforms
+T14	cell_type 825 831	B-cell
+T15	cell_type 873 879	B-cell
+T16	protein 921 929	isoforms
+T17	protein 1022 1030	isoforms
+T18	DNA 1055 1062	octamer
+T19	DNA 1074 1090	promoter element
+T20	protein 1188 1196	isoforms
+T21	protein 1230 1261	lymphoid-specific Oct2B protein
+T22	DNA 1325 1338	octamer motif
+T23	DNA 1361 1404	immunoglobulin heavy-chain ( IgH ) enhancer

@@ -1,0 +1,46 @@
+T1	DNA 40 63	composite octamer motif
+T2	DNA 71 93	interleukin 2 enhancer
+T3	protein 97 101	AP-1
+T4	protein 104 109	Oct-2
+T5	protein 116 138	retinoic acid receptor
+T6	DNA 335 362	-96 to -66-bp octamer motif
+T7	DNA 393 419	interleukin ( IL ) -2 gene
+T8	protein 444 470	T lymphocyte growth factor
+T9	DNA 477 495	IL-2 octamer motif
+T10	DNA 511 522	cis-element
+T11	protein 535 540	Oct-1
+T12	protein 545 550	Oct-2
+T13	protein 564 603	TPA/Ca ( 2+ ) -inducible nuclear factor
+T14	protein 624 650	octamer-associated protein
+T15	protein 653 658	OAP40
+T16	protein 681 686	Oct-2
+T17	DNA 829 847	IL-2 octamer motif
+T18	protein 873 878	Oct-2
+T19	protein 946 973	intact COOH-terminal domain
+T20	protein 977 982	Oct-2
+T21	protein 1098 1101	Fos
+T22	protein 1106 1109	Jun
+T23	protein 1128 1132	AP-1
+T24	protein 1160 1173	OAP40 complex
+T25	DNA 1202 1261	c-jun , jun-B , jun-D , c-fos , or Fos-B expression vectors
+T26	protein 1319 1324	Oct-2
+T27	DNA 1365 1388	OAP/octamer cis-element
+T28	DNA 1408 1436	genuine octamer-binding site
+T29	protein 1466 1471	Oct-1
+T30	protein 1476 1481	Oct-2
+T31	DNA 1536 1553	OAP/octamer motif
+T32	protein 1556 1559	OAP
+T33	protein 1571 1576	Oct-2
+T34	DNA 1648 1669	AP-1/OAP-binding site
+T35	protein 1714 1719	Oct-2
+T36	protein 1797 1819	retinoic acid receptor
+T37	protein 1822 1825	RAR
+T38	protein 1911 1915	AP-1
+T39	protein 1916 1920	/OAP
+T40	protein 1988 1993	Oct-2
+T41	protein 2037 2041	AP-1
+T42	protein 2106 2110	AP-1
+T43	protein 2111 2115	/OAP
+T44	DNA 2202 2220	IL-2 octamer motif
+T45	protein 2246 2251	Oct-2
+T46	protein 2270 2273	RAR

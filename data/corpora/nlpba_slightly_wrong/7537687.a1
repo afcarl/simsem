@@ -1,0 +1,20 @@
+T1	cell_line 65 99	human prostatic cancer LNCaP cells
+T2	cell_line 148 180	Human prostatic epithelial cells
+T3	cell_line 189 223	androgen-dependent LNCaP cell line
+T4	cell_line 292 342	phytohemagglutinin ( PHA ) -stimulated lymphocytes
+T5	protein 640 657	androgen receptor
+T6	protein 765 790	prostate-specific antigen
+T7	protein 793 796	PSA
+T8	cell_type 938 957	neuroendocrine cell
+T9	protein 1002 1041	cytoskeleton and intracellular proteins
+T10	protein 1135 1143	vimentin
+T11	protein 1182 1203	cytokeratins 8 and 18
+T12	cell_type 1222 1247	differentiated cell types
+T13	protein 1276 1299	neuron-specific enolase
+T14	cell_type 1332 1352	neuroendocrine cells
+T15	cell_type 1494 1501	T cells
+T16	protein 1580 1596	growth modulator
+T17	protein 1726 1729	TGF
+T18	protein 1732 1735	TNF
+T19	protein 1762 1773	lymphokines
+T20	cell_type 1800 1828	lymphoid and prostatic cells

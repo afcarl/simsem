@@ -1,0 +1,31 @@
+T1	protein 25 62	granulocyte colony-stimulating factor
+T2	protein 65 70	G-CSF
+T3	protein 147 152	G-CSF
+T4	protein 165 189	glucocorticoid receptors
+T5	protein 205 210	G-CSF
+T6	protein 302 339	granulocyte colony-stimulating factor
+T7	protein 342 347	G-CSF
+T8	protein 518 523	G-CSF
+T9	protein 562 582	extracellular domain
+T10	protein 590 604	G-CSF receptor
+T11	protein 607 613	GCSF-R
+T12	cell_type 684 700	CD34 ( + ) cells
+T13	cell_type 731 748	Nonadherent cells
+T14	protein 857 862	G-CSF
+T15	cell_type 939 963	marrow mononuclear cells
+T16	cell_line 998 1026	murine myeloid cell line 32D
+T17	protein 1053 1067	mutated G-CSFR
+T18	cell_type 1129 1145	stimulated cells
+T19	cell_type 1212 1235	marrow CD34 ( + ) cells
+T20	cell_type 1331 1347	CD34 ( + ) cells
+T21	cell_type 1386 1410	marrow mononuclear cells
+T22	protein 1432 1437	G-CSF
+T23	protein 1524 1529	G-CSF
+T24	protein 1556 1579	cytokine `` cocktail ''
+T25	cell_line 1641 1650	32D cells
+T26	protein 1666 1682	mutated receptor
+T27	protein 1738 1743	G-CSF
+T28	protein 1871 1889	subcutaneous G-CSF
+T29	protein 2067 2072	G-CSF
+T30	protein 2149 2154	G-CSF
+T31	protein 2209 2214	STAT5

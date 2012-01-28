@@ -1,0 +1,44 @@
+T1	protein 24 59	nuclear factor of activated T cells
+T2	protein 75 86	calcineurin
+T3	protein 89 110	Transcription factors
+T4	protein 128 179	nuclear factor of activated T cells ( NFAT ) family
+T5	DNA 207 221	cytokine genes
+T6	protein 294 307	NFAT proteins
+T7	protein 339 385	calcium- and calmodulin- dependent phosphatase
+T8	protein 386 397	calcineurin
+T9	protein 433 444	calcineurin
+T10	protein 448 452	NFAT
+T11	protein 485 496	calcineurin
+T12	protein 515 525	calmodulin
+T13	protein 610 614	NFAT
+T14	protein 630 641	calcineurin
+T15	protein 714 725	calcineurin
+T16	protein 783 794	calcineurin
+T17	DNA 808 826	enzyme active site
+T18	protein 859 863	NFAT
+T19	protein 888 899	calcineurin
+T20	DNA 930 953	calcineurin active site
+T21	protein 1122 1126	NFAT
+T22	protein 1148 1159	calcineurin
+T23	protein 1221 1232	calcineurin
+T24	protein 1249 1253	NFAT
+T25	protein 1300 1316	catalytic domain
+T26	protein 1324 1343	calcineurin A chain
+T27	protein 1354 1376	86-amino acid fragment
+T28	protein 1384 1406	NFAT regulatory domain
+T29	protein 1409 1413	NFAT
+T30	protein 1429 1457	calcineurin catalytic domain
+T31	protein 1479 1512	calcineurin autoinhibitory domain
+T32	protein 1563 1586	calcineurin active site
+T33	protein 1607 1611	NFAT
+T34	protein 1662 1673	calcineurin
+T35	protein 1692 1703	active site
+T36	cell_type 1727 1740	resting cells
+T37	protein 1743 1747	NFAT
+T38	protein 1779 1807	calcineurin catalytic domain
+T39	protein 1834 1857	calcineurin active site
+T40	protein 1903 1924	autoinhibitory domain
+T41	protein 1928 1938	calmodulin
+T42	protein 1954 1958	NFAT
+T43	protein 1987 2010	calcineurin active site
+T44	protein 2030 2034	NFAT

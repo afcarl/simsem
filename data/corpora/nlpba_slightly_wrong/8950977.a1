@@ -1,0 +1,22 @@
+T1	protein 14 19	Egr-1
+T2	cell_line 95 134	EBV genome positive lymphoid cell lines
+T3	protein 184 189	Egr-1
+T4	cell_line 265 277	B cell lines
+T5	DNA 295 305	EBV genome
+T6	cell_line 319 342	EBV carrying cell lines
+T7	protein 345 350	Egr-1
+T8	cell_line 466 487	individual cell lines
+T9	protein 524 529	Egr-1
+T10	cell_line 618 658	group III EBV genome carrying cell lines
+T11	protein 675 680	Egr-1
+T12	cell_line 708 735	group I Burkitt tumor cells
+T13	DNA 758 768	EBV genome
+T14	cell_line 860 878	group I cell lines
+T15	cell_line 885 893	group II
+T16	cell_line 897 900	III
+T17	DNA 914 924	Egr-1 gene
+T18	protein 955 968	EGR-1 protein
+T19	DNA 1051 1074	DNA consensus sequences
+T20	protein 1128 1133	Egr-1
+T21	protein 1212 1217	Egr-1
+T22	cell_type 1286 1298	B lymphocyte

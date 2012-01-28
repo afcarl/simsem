@@ -1,0 +1,17 @@
+T1	protein 62 98	17 beta-hydroxysteroid dehydrogenase
+T2	cell_type 266 290	myeloid progenitor cells
+T3	protein 327 344	hormone receptors
+T4	cell_line 772 782	HL60 cells
+T5	cell_type 804 828	myeloid progenitor cells
+T6	cell_line 899 903	HL60
+T7	cell_type 908 920	normal cells
+T8	cell_type 1156 1180	myeloid progenitor cells
+T9	RNA 1191 1195	mRNA
+T10	protein 1230 1266	17 beta-hydroxysteroid dehydrogenase
+T11	cell_line 1329 1339	HL60 cells
+T12	cell_type 1445 1456	neutrophils
+T13	cell_type 1460 1469	monocytes
+T14	cell_type 1545 1569	myeloid progenitor cells
+T15	cell_line 1639 1649	HL60 cells
+T16	cell_type 1660 1684	myeloid progenitor cells
+T17	cell_type 1989 2011	leukemic myeloid cells

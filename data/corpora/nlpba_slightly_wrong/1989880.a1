@@ -1,0 +1,23 @@
+T1	protein 30 35	TCF-1
+T2	protein 40 82	T lymphocyte-specific transcription factor
+T3	protein 96 121	sequence-specific HMG box
+T4	protein 124 127	CD3
+T5	DNA 167 216	downstream T lymphocyte-specific enhancer element
+T6	protein 253 289	T cell-specific transcription factor
+T7	protein 292 297	TCF-1
+T8	protein 330 360	multimerized recognition motif
+T9	protein 364 369	TCF-1
+T10	protein 433 438	TCF-1
+T11	protein 456 475	splice alternatives
+T12	protein 478 483	TCF-1
+T13	protein 503 522	DNA-binding HMG box
+T14	DNA 568 607	putative mammalian sex-determining gene
+T15	DNA 608 611	SRY
+T16	DNA 623 668	Schizosaccharomyces pombe Mc mating type gene
+T17	RNA 671 681	TCF-1 mRNA
+T18	cell_type 708 721	T lymphocytes
+T19	cell_type 749 760	non-T cells
+T20	protein 763 768	TCF-1
+T21	protein 840 845	TCF-1
+T22	protein 851 887	T cell-specific transcription factor
+T23	cell_type 942 965	mature T cell phenotype

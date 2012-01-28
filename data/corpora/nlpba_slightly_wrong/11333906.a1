@@ -1,0 +1,33 @@
+T1	DNA 42 56	BRLF1 promoter
+T2	DNA 87 112	Sp1 and Sp3 binding sites
+T3	protein 308 319	Rta protein
+T4	DNA 346 354	promoter
+T5	DNA 373 375	Rp
+T6	cell_type 381 401	EBV-positive B cells
+T7	DNA 480 485	RpCAT
+T8	protein 501 504	Rta
+T9	DNA 555 580	cognate Sp1 binding sites
+T10	DNA 621 647	transcriptional start site
+T11	protein 745 772	transcription factor Zif268
+T12	protein 781 807	viral transactivator ZEBRA
+T13	DNA 855 860	RpCAT
+T14	protein 864 867	Rta
+T15	cell_type 909 916	B cells
+T16	protein 973 976	Sp1
+T17	protein 981 984	Sp3
+T18	protein 1004 1021	cellular proteins
+T19	DNA 1031 1033	Rp
+T20	protein 1070 1075	ZEBRA
+T21	DNA 1082 1084	Rp
+T22	DNA 1094 1106	Sp1/Sp3 site
+T23	protein 1124 1127	Sp1
+T24	protein 1132 1135	Sp3
+T25	DNA 1139 1141	Rp
+T26	DNA 1274 1276	Rp
+T27	protein 1280 1283	Rta
+T28	protein 1303 1306	Sp1
+T29	protein 1314 1317	Sp3
+T30	protein 1379 1382	Sp1
+T31	protein 1387 1390	Sp3
+T32	protein 1391 1412	transcription factors
+T33	DNA 1467 1481	BRLF1 promoter

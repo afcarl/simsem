@@ -1,0 +1,29 @@
+T1	protein 4 34	T-cell oncogenic protein HOX11
+T2	protein 45 50	Aldh1
+T3	cell_line 65 78	NIH 3T3 cells
+T4	DNA 138 143	Hox11
+T5	DNA 149 162	homeobox gene
+T6	protein 314 319	HOX11
+T7	DNA 444 455	homeodomain
+T8	DNA 562 574	target genes
+T9	DNA 639 650	cDNA clones
+T10	RNA 668 680	mRNA species
+T11	protein 722 727	HOX11
+T12	cell_line 731 744	NIH 3T3 cells
+T13	protein 769 802	retinoic acid-synthesizing enzyme
+T14	protein 803 827	aldehyde dehydrogenase 1
+T15	protein 830 835	Aldh1
+T16	protein 857 862	Hdg-1
+T17	protein 906 911	HOX11
+T18	protein 938 943	Aldh1
+T19	RNA 1014 1024	Aldh1 mRNA
+T20	protein 1051 1056	Hox11
+T21	protein 1059 1064	Hox11
+T22	RNA 1098 1108	Aldh1 mRNA
+T23	protein 1154 1159	Aldh1
+T24	protein 1185 1190	Hox11
+T25	protein 1287 1300	Aldh1 protein
+T26	protein 1328 1333	Hox11
+T27	protein 1366 1371	Aldh1
+T28	protein 1375 1380	Hox11
+T29	cell_type 1409 1432	splenic precursor cells

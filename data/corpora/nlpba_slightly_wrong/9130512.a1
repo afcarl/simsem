@@ -1,0 +1,28 @@
+T1	RNA 36 45	IL-2 mRNA
+T2	protein 61 65	IL-2
+T3	cell_type 89 96	T cells
+T4	protein 277 291	immunoglobulin
+T5	protein 324 333	cytokines
+T6	protein 403 407	IL-6
+T7	RNA 517 526	IL-2 mRNA
+T8	protein 547 555	cytokine
+T9	protein 567 581	immunoglobulin
+T10	protein 613 627	IL-2 receptors
+T11	cell_type 631 638	T cells
+T12	protein 649 669	RA nuclear receptors
+T13	cell_type 691 698	T cells
+T14	RNA 837 841	mRNA
+T15	cell_type 861 868	T cells
+T16	protein 919 923	IL-2
+T17	protein 928 940	RA receptors
+T18	protein 943 946	RAR
+T19	RNA 951 956	alpha
+T20	RNA 959 963	beta
+T21	RNA 966 976	gamma mRNA
+T22	cell_type 1083 1090	T cells
+T23	RNA 1148 1157	IL-2 mRNA
+T24	cell_type 1172 1179	T cells
+T25	protein 1216 1227	IL-2R-alpha
+T26	protein 1280 1289	RAR-alpha
+T27	protein 1299 1303	IL-2
+T28	protein 1329 1337	cytokine

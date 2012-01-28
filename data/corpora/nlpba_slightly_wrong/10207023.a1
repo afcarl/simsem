@@ -1,0 +1,30 @@
+T1	protein 14 27	E2F complexes
+T2	cell_type 63 90	human primary B-lymphocytes
+T3	protein 97 125	pocket protein-E2F complexes
+T4	protein 232 260	pocket protein-E2F complexes
+T5	cell_type 264 291	human primary B-lymphocytes
+T6	cell_type 381 408	human and mouse fibroblasts
+T7	cell_type 413 426	T-lymphocytes
+T8	protein 429 433	E2F4
+T9	protein 438 441	DP1
+T10	protein 463 479	E2F heterodimers
+T11	protein 552 563	E2F1 and -3
+T12	protein 670 687	major E2F complex
+T13	cell_type 708 737	quiescent human B-lymphocytes
+T14	protein 754 757	pRB
+T15	protein 760 764	E2F4
+T16	protein 771 774	DP1
+T17	protein 798 808	DP1 and -2
+T18	protein 871 874	DP1
+T19	protein 878 881	DP2
+T20	protein 1010 1024	E2F components
+T21	protein 1027 1030	DP1
+T22	protein 1035 1039	E2F4
+T23	cell_type 1045 1058	B-lymphocytes
+T24	protein 1210 1232	slower migrating forms
+T25	protein 1242 1277	corresponding faster mobility forms
+T26	protein 1482 1485	DP1
+T27	protein 1490 1494	E2F4
+T28	DNA 1581 1595	gene promoters
+T29	DNA 1625 1634	E2F sites
+T30	protein 1682 1685	E2F

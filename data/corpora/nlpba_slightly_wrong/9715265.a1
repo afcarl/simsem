@@ -1,0 +1,54 @@
+T1	protein 20 28	cytokine
+T2	protein 55 69	STAT complexes
+T3	cell_type 73 101	primary human T and NK cells
+T4	protein 104 113	Cytokines
+T5	protein 116 120	IL-2
+T6	protein 123 127	IL-4
+T7	protein 130 134	IL-6
+T8	protein 137 141	IL-7
+T9	protein 144 149	IL-12
+T10	protein 156 161	IL-15
+T11	protein 401 422	transcription factors
+T12	protein 425 475	signal transducers and activators of transcription
+T13	protein 478 483	STATs
+T14	protein 508 516	cytokine
+T15	protein 557 562	STATs
+T16	cell_type 566 594	primary human T and NK cells
+T17	protein 620 629	cytokines
+T18	protein 652 657	IL-12
+T19	protein 666 671	STAT4
+T20	cell_type 697 713	primary NK cells
+T21	cell_type 727 742	primary T cells
+T22	protein 777 791	IL-12 receptor
+T23	cell_type 795 810	resting T cells
+T24	protein 827 831	IL-4
+T25	protein 850 893	C epsilon GAS DNA-protein binding complexes
+T26	cell_type 908 916	NK cells
+T27	protein 930 934	IL-4
+T28	protein 954 958	IL-2
+T29	protein 962 967	IL-12
+T30	DNA 1006 1009	GAS
+T31	DNA 1042 1087	C epsilon- , Fc gamma RI- , and SIE GAS motif
+T32	protein 1166 1204	GAS-like DNA-protein binding complexes
+T33	protein 1208 1212	IL-2
+T34	protein 1215 1219	IL-4
+T35	protein 1226 1231	IL-12
+T36	protein 1344 1348	IL-6
+T37	protein 1353 1357	IL-2
+T38	protein 1407 1418	STAT1 alpha
+T39	protein 1423 1428	STAT3
+T40	cell_type 1437 1451	NK and T cells
+T41	DNA 1509 1522	perforin gene
+T42	protein 1565 1584	IL-2 , -7 , and -15
+T43	protein 1592 1614	multiple STAT proteins
+T44	protein 1627 1633	STAT5a
+T45	protein 1636 1642	STAT5b
+T46	protein 1645 1656	STAT1 alpha
+T47	protein 1659 1664	STAT3
+T48	protein 1692 1727	Fc gamma RI GAS DNA-binding protein
+T49	protein 1767 1773	STAT5a
+T50	protein 1778 1784	STAT5b
+T51	cell_type 1844 1858	T and NK cells
+T52	cell_type 2043 2057	NK and T cells
+T53	protein 2095 2104	cytokines
+T54	protein 2154 2180	STAT transcription factors

@@ -1,0 +1,29 @@
+T1	protein 33 55	nuclear factor kappa B
+T2	protein 87 102	I kappa B alpha
+T3	cell_type 142 157	mammalian cells
+T4	protein 185 220	transcriptional regulatory proteins
+T5	protein 229 251	nuclear factor kappa B
+T6	protein 254 264	NF-kappa B
+T7	DNA 295 315	early response genes
+T8	protein 402 417	I kappa B alpha
+T9	protein 442 452	NF-kappa B
+T10	DNA 501 524	reporter gene construct
+T11	DNA 540 568	NF-kappa B DNA binding sites
+T12	protein 606 621	tyrosine kinase
+T13	DNA 641 665	dominant negative allele
+T14	DNA 669 676	c-Raf-1
+T15	protein 679 686	Raf 301
+T16	protein 699 714	I kappa B alpha
+T17	protein 729 739	NF-kappa B
+T18	DNA 773 800	kappa B reporter constructs
+T19	protein 893 908	I kappa B alpha
+T20	protein 914 924	NF-kappa B
+T21	protein 960 975	I kappa B alpha
+T22	protein 1165 1180	I kappa B alpha
+T23	protein 1191 1206	I kappa B alpha
+T24	protein 1223 1233	NF-kappa B
+T25	protein 1281 1291	NF-kappa B
+T26	protein 1329 1350	tumor necrosis factor
+T27	protein 1421 1436	I kappa B alpha
+T28	protein 1542 1557	I kappa B alpha
+T29	protein 1656 1666	NF-kappa B

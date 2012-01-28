@@ -1,0 +1,40 @@
+T1	protein 16 21	Spi-B
+T2	cell_type 50 57	B cells
+T3	cell_type 62 69	T cells
+T4	protein 91 96	Spi-B
+T5	protein 101 105	PU.1
+T6	protein 110 154	hematopoietic-specific transcription factors
+T7	protein 190 200	Ets family
+T8	protein 204 224	DNA-binding proteins
+T9	protein 276 280	PU.1
+T10	protein 285 290	Spi-B
+T11	protein 333 337	PU.1
+T12	cell_type 369 376	B cells
+T13	cell_type 379 389	mast cells
+T14	cell_type 392 406	megakaryocytes
+T15	cell_type 409 420	macrophages
+T16	cell_type 423 434	neutrophils
+T17	cell_type 441 465	immature erythroid cells
+T18	cell_type 489 508	mature erythrocytes
+T19	protein 511 515	PU.1
+T20	cell_type 542 560	peripheral T cells
+T21	cell_line 570 582	T cell lines
+T22	protein 632 637	Spi-B
+T23	cell_type 666 680	lymphoid cells
+T24	RNA 795 805	Spi-B mRNA
+T25	protein 910 915	Spi-B
+T26	cell_type 947 954	B cells
+T27	RNA 964 974	Spi-B mRNA
+T28	cell_type 1008 1015	T cells
+T29	protein 1080 1085	Spi-B
+T30	protein 1216 1221	Spi-B
+T31	DNA 1238 1265	putative PU.1 binding sites
+T32	DNA 1300 1318	Spi-B binding site
+T33	protein 1336 1340	PU.1
+T34	protein 1345 1350	Spi-B
+T35	DNA 1397 1445	immunoglobulin light-chain enhancer E lambda 2.4
+T36	protein 1468 1471	Pip
+T37	protein 1474 1498	PU.1-interaction partner
+T38	cell_line 1504 1517	NIH-3T3 cells
+T39	protein 1607 1612	Spi-B
+T40	protein 1617 1621	PU.1

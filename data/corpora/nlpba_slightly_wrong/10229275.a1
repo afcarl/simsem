@@ -1,0 +1,15 @@
+T1	DNA 64 92	NF-kappaB-regulated promoter
+T2	cell_type 96 124	monocyte-derived macrophages
+T3	protein 193 215	common T-cell mitogens
+T4	cell_type 329 357	monocyte-derived macrophages
+T5	DNA 380 399	recombinant plasmid
+T6	DNA 411 467	chloramphenicol acetyl transferase ( CAT ) reporter gene
+T7	DNA 493 536	HIV-1 long terminal repeat ( LTR ) promoter
+T8	protein 561 581	transcription factor
+T9	protein 582 591	NF-kappaB
+T10	DNA 696 713	CAT reporter gene
+T11	protein 747 756	NF-kappaB
+T12	protein 777 786	NF-kappaB
+T13	protein 831 845	B7.1 molecules
+T14	DNA 876 904	NF-kappaB-regulated promoter
+T15	cell_type 1011 1039	monocyte-derived macrophages

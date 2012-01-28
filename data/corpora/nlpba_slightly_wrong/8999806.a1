@@ -1,0 +1,23 @@
+T1	protein 65 100	nuclear factor of activated T cells
+T2	protein 103 109	NF-AT1
+T3	cell_type 115 191	Tax-expressing and type I human T-cell leukemia virus-infected human T cells
+T4	DNA 283 310	interleukin-2 ( IL-2 ) gene
+T5	DNA 352 375	CD28 responsive element
+T6	DNA 378 384	CD28RE
+T7	protein 389 392	Tax
+T8	DNA 411 417	CD28RE
+T9	protein 459 494	nuclear factor of activated T cells
+T10	protein 497 503	NF-AT1
+T11	protein 536 542	NF-AT1
+T12	cell_line 571 585	Jurkat T cells
+T13	DNA 614 622	Tax cDNA
+T14	protein 786 792	NF-AT1
+T15	cell_type 826 852	HTLV-I-transformed T cells
+T16	protein 870 881	Tax protein
+T17	protein 931 937	NF-AT1
+T18	cell_type 947 954	T cells
+T19	protein 1033 1039	NF-AT1
+T20	protein 1158 1186	serine/threonine phosphatase
+T21	protein 1187 1198	calcineurin
+T22	protein 1242 1248	NF-AT1
+T23	cell_line 1252 1297	Tax-expressing and HTLV-I-transformed T cells

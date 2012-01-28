@@ -1,0 +1,18 @@
+T1	protein 13 33	plasma interleukin-1
+T2	protein 86 109	glucocorticoid receptor
+T3	protein 173 193	plasma interleukin-1
+T4	protein 196 200	IL-1
+T5	protein 255 278	glucocorticoid receptor
+T6	protein 281 283	GR
+T7	protein 288 299	plasma IL-1
+T8	protein 304 306	GR
+T9	cell_type 310 337	peripheral blood leukocytes
+T10	protein 414 418	IL-1
+T11	protein 461 467	3H-TdR
+T12	cell_type 489 499	thymocytes
+T13	protein 514 516	GR
+T14	protein 613 617	IL-1
+T15	protein 744 746	GR
+T16	cell_type 750 777	peripheral blood leukocytes
+T17	protein 864 868	IL-1
+T18	protein 873 875	GR

@@ -1,0 +1,15 @@
+T1	RNA 23 66	differentiation inhibitory factor nm23 mRNA
+T2	protein 138 171	Differentiation inhibitory factor
+T3	DNA 172 181	nm23 gene
+T4	RNA 425 434	nm23 mRNA
+T5	RNA 544 564	nm23-H1 and -H2 mRNA
+T6	cell_type 595 629	peripheral blood mononuclear cells
+T7	cell_type 634 663	bone marrow mononuclear cells
+T8	RNA 757 769	nm23-H1 mRNA
+T9	cell_line 773 782	CML cells
+T10	cell_type 827 844	bone marrow cells
+T11	protein 889 896	nm23-H2
+T12	RNA 984 1004	nm23-H1 and -H2 mRNA
+T13	cell_type 1078 1104	Proliferated blastic cells
+T14	protein 1123 1144	non-specific esterase
+T15	DNA 1357 1366	nm23 gene

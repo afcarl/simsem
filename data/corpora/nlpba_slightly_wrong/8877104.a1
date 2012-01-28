@@ -1,0 +1,36 @@
+T1	protein 91 121	endogenous vitamin D3 receptor
+T2	protein 124 147	retinoic acid receptors
+T3	protein 154 174	retinoid X receptors
+T4	cell_line 178 189	U-937 cells
+T5	protein 358 387	RA and VitD3 receptor network
+T6	cell_type 400 419	hematopoietic cells
+T7	protein 643 676	endogenous RA and VitD3 receptors
+T8	protein 679 702	retinoic acid receptors
+T9	protein 705 709	RARs
+T10	protein 714 734	retinoid X receptors
+T11	protein 737 741	RXRs
+T12	protein 750 764	VitD3 receptor
+T13	protein 767 770	VDR
+T14	cell_line 782 797	U-937 cell line
+T15	protein 920 949	VDR/RXR DNA-binding complexes
+T16	DNA 958 981	VitD3 response elements
+T17	DNA 986 1006	RA response elements
+T18	DNA 1009 1014	RAREs
+T19	DNA 1081 1129	VitD3 response element-driven reporter construct
+T20	protein 1140 1161	DNA-binding complexes
+T21	DNA 1179 1184	RAREs
+T22	cell_type 1188 1210	undifferentiated cells
+T23	protein 1253 1261	RAR beta
+T24	protein 1262 1266	/RXR
+T25	DNA 1291 1295	RARE
+T26	protein 1351 1359	RAR-beta
+T27	protein 1436 1461	RAR beta/RXR heterodimers
+T28	protein 1473 1476	VDR
+T29	protein 1477 1481	/RXR
+T30	DNA 1497 1501	RARE
+T31	protein 1545 1549	CD23
+T32	protein 1554 1559	CD49f
+T33	cell_line 1605 1615	U-937 cell
+T34	DNA 1676 1680	RARE
+T35	protein 1721 1729	RAR-beta
+T36	DNA 1868 1872	RARE

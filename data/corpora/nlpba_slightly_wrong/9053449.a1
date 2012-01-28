@@ -1,0 +1,31 @@
+T1	protein 15 20	Egr-1
+T2	protein 21 26	/RelA
+T3	protein 76 103	tumor necrosis factor-alpha
+T4	protein 113 124	NF-kappa B1
+T5	protein 141 151	NF-kappa B
+T6	protein 168 188	transcription factor
+T7	DNA 263 279	NF-kappa B1 gene
+T8	protein 290 304	105-kD protein
+T9	protein 334 347	p50 component
+T10	protein 351 361	NF-kappa B
+T11	protein 414 424	NF-kappa B
+T12	DNA 439 455	NF-kappa B1 gene
+T13	cell_line 532 544	T cell lines
+T14	protein 605 621	phytohemagglutin
+T15	protein 624 627	PHA
+T16	protein 669 680	NF-kappa B1
+T17	RNA 690 701	transcripts
+T18	protein 729 756	tumor necrosis factor-alpha
+T19	protein 803 813	NF-kappa B
+T20	DNA 840 860	NF-kappa B1 promoter
+T21	DNA 875 885	Egr-1 site
+T22	protein 936 939	PHA
+T23	protein 1051 1061	NF-kappa B
+T24	protein 1066 1071	Egr-1
+T25	protein 1088 1093	Egr-1
+T26	DNA 1132 1143	NF-kappa B1
+T27	cell_line 1173 1200	PHA-stimulated T cell lines
+T28	RNA 1222 1231	Egr-1 RNA
+T29	protein 1387 1392	Egr-1
+T30	protein 1397 1407	NF-kappa B
+T31	DNA 1479 1490	NF-kappa B1

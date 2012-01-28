@@ -1,0 +1,18 @@
+T1	protein 28 32	NFAT
+T2	protein 37 41	AP-1
+T3	protein 210 231	transcription factors
+T4	protein 296 317	transcription factors
+T5	protein 325 336	NFAT family
+T6	protein 362 387	AP-1 ( Fos/Jun ) proteins
+T7	DNA 437 464	NFAT and AP-1 binding sites
+T8	protein 596 600	NFAT
+T9	protein 605 609	AP-1
+T10	protein 783 812	protein kinase C ( PKC ) /Ras
+T11	protein 895 915	Fos and Jun families
+T12	protein 919 940	transcription factors
+T13	protein 965 976	NFAT family
+T14	protein 979 984	NFAT5
+T15	protein 1105 1116	calcineurin
+T16	protein 1140 1144	AP-1
+T17	protein 1296 1300	NFAT
+T18	protein 1305 1309	AP-1

@@ -1,0 +1,42 @@
+T1	protein 16 22	NF-KB2
+T2	protein 28 40	RelA ( p65 )
+T3	protein 115 130	I kappa B-alpha
+T4	protein 133 138	MAD-3
+T5	protein 231 251	transcription factor
+T6	protein 254 276	nuclear factor kappa B
+T7	protein 279 289	NF-kappa B
+T8	protein 294 304	NF-kappa B
+T9	DNA 365 370	NFKB1
+T10	protein 373 377	p105
+T11	DNA 382 387	NFKB2
+T12	protein 390 394	p100
+T13	protein 399 411	RelA ( p65 )
+T14	DNA 414 419	c-rel
+T15	DNA 424 428	relB
+T16	DNA 473 493	kappa B DNA elements
+T17	protein 545 562	NFKB2 ( p49/p52 )
+T18	protein 584 596	RelA ( p65 )
+T19	DNA 614 626	HIV enhancer
+T20	cell_line 637 653	T-leukemia cells
+T21	protein 739 744	NFKB2
+T22	protein 823 838	homodimeric p49
+T23	protein 843 864	heterodimeric p49/p65
+T24	DNA 884 900	HIV kappa B site
+T25	protein 903 906	p49
+T26	DNA 962 974	kappa B site
+T27	protein 1035 1048	NFKB1 ( p50 )
+T28	protein 1062 1066	p105
+T29	protein 1115 1156	heterodimeric NFKB2 ( p49 ) /RelA ( p65 )
+T30	protein 1232 1235	p49
+T31	protein 1354 1403	heterodimeric NFKB2 ( p49 ) /RelA ( p65 ) protein
+T32	protein 1503 1518	I kappa B-alpha
+T33	protein 1521 1526	MAD-3
+T34	protein 1561 1566	MAD-3
+T35	protein 1607 1610	p65
+T36	protein 1613 1620	p49/p65
+T37	protein 1627 1634	p50/p65
+T38	protein 1665 1670	NFKB2
+T39	protein 1673 1676	p49
+T40	protein 1750 1757	p49/p65
+T41	cell_line 1761 1808	transiently transfected Jurkat T-leukemia cells
+T42	protein 1847 1852	MAD-3

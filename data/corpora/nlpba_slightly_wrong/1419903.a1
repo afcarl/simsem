@@ -1,0 +1,21 @@
+T1	DNA 14 19	c-jun
+T2	protein 171 205	type 1 and 2A protein phosphatases
+T3	DNA 229 234	c-jun
+T4	cell_line 282 302	U-937 leukemia cells
+T5	protein 485 511	Mac-1 cell surface antigen
+T6	protein 550 567	c-myc transcripts
+T7	DNA 593 619	tumor necrosis factor gene
+T8	RNA 720 730	c-jun mRNA
+T9	DNA 806 816	c-fos gene
+T10	DNA 869 874	c-jun
+T11	cell_line 892 903	U-937 cells
+T12	RNA 992 1002	c-jun mRNA
+T13	DNA 1181 1186	c-jun
+T14	RNA 1220 1230	c-jun mRNA
+T15	cell_line 1279 1305	okadaic acid-induced cells
+T16	protein 1429 1446	c-jun transcripts
+T17	DNA 1512 1517	c-jun
+T18	DNA 1655 1665	c-jun gene
+T19	protein 1684 1692	Jun/AP-1
+T20	DNA 1728 1792	c-jun promoter ( positions -132/+170 ) -reporter gene constructs
+T21	DNA 1820 1832	AP-1 element

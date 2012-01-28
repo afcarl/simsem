@@ -1,0 +1,36 @@
+T1	DNA 14 19	A-myb
+T2	DNA 30 35	c-myb
+T3	DNA 40 45	B-myb
+T4	DNA 177 187	A-myb gene
+T5	protein 198 218	transcription factor
+T6	DNA 277 291	v-myb oncogene
+T7	DNA 326 331	A-myb
+T8	cell_type 378 404	mature human B lymphocytes
+T9	DNA 490 495	A-myb
+T10	cell_type 521 528	B cells
+T11	DNA 616 621	c-myb
+T12	DNA 626 631	B-myb
+T13	cell_line 651 663	B-cell lines
+T14	DNA 666 671	A-myb
+T15	cell_line 857 914	Epstein-Barr virus-immortalized lymphoblastoid cell lines
+T16	cell_line 923 936	myeloma lines
+T17	DNA 1013 1018	A-myb
+T18	protein 1157 1162	A-myb
+T19	DNA 1296 1301	A-myb
+T20	DNA 1304 1309	A-myb
+T21	DNA 1473 1478	A-myb
+T22	cell_line 1642 1658	Richter 's cells
+T23	RNA 1688 1697	A-myb RNA
+T24	cell_line 1707 1716	CLL cells
+T25	DNA 1755 1760	c-myb
+T26	DNA 1765 1770	B-myb
+T27	DNA 1805 1810	A-myb
+T28	DNA 1823 1828	B-myb
+T29	cell_line 1881 1890	CLL cells
+T30	DNA 1900 1905	A-myb
+T31	DNA 1934 1939	c-myb
+T32	DNA 1944 1949	B-myb
+T33	DNA 2147 2152	A-myb
+T34	cell_type 2183 2190	B cells
+T35	cell_line 2232 2251	transformed B cells
+T36	protein 2306 2326	transcription factor

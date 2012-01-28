@@ -1,0 +1,28 @@
+T1	protein 2 34	novel B cell-derived coactivator
+T2	DNA 65 89	immunoglobulin promoters
+T3	protein 93 130	octamer-binding transcription factors
+T4	DNA 198 205	octamer
+T5	DNA 208 211	Oct
+T6	DNA 245 288	immunoglobulin heavy chain ( IgH ) promoter
+T7	cell_line 340 349	HeLa cell
+T8	protein 386 422	fractionated B cell nuclear proteins
+T9	protein 481 496	Oct coactivator
+T10	cell_type 502 509	B cells
+T11	protein 512 517	OCA-B
+T12	protein 522 527	OCA-B
+T13	DNA 565 577	IgH promoter
+T14	protein 605 610	Oct-1
+T15	protein 614 619	Oct-2
+T16	DNA 659 666	octamer
+T17	DNA 669 672	Oct
+T18	DNA 705 748	ubiquitously expressed histone H2B promoter
+T19	DNA 774 806	USF- and Sp1-regulated promoters
+T20	protein 851 856	OCA-B
+T21	protein 862 915	tissue- , promoter- , and factor-specific coactivator
+T22	protein 925 930	OCA-B
+T23	DNA 992 1016	immunoglobulin promoters
+T24	protein 1097 1108	Oct factors
+T25	protein 1113 1118	OCA-B
+T26	protein 1158 1163	OCA-B
+T27	protein 1196 1201	OCA-B
+T28	DNA 1246 1271	tissue-specific promoters

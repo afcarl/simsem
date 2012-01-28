@@ -1,0 +1,38 @@
+T1	protein 0 4	CD40
+T2	protein 38 46	anti-IgM
+T3	cell_type 62 83	primary B lymphocytes
+T4	protein 132 136	RelB
+T5	protein 179 183	CD40
+T6	protein 238 285	Rel/nuclear factor kappaB ( NF-kappaB ) factors
+T7	cell_type 289 317	primary murine B lymphocytes
+T8	protein 347 351	CD40
+T9	protein 379 391	CD40 ligands
+T10	cell_type 405 412	L cells
+T11	DNA 444 490	NF-kappaB-controlled beta-globin reporter gene
+T12	cell_type 494 515	primary B lymphocytes
+T13	protein 598 610	Rel proteins
+T14	protein 617 621	CD40
+T15	cell_type 635 650	primary B cells
+T16	protein 700 704	RelB
+T17	protein 732 737	c-Rel
+T18	protein 814 818	RelB
+T19	protein 823 828	c-Rel
+T20	protein 847 852	c-Rel
+T21	protein 863 867	RelB
+T22	protein 918 922	CD40
+T23	RNA 992 1000	RelB RNA
+T24	cell_line 1015 1038	S107 plasmacytoma cells
+T25	protein 1055 1059	CD40
+T26	protein 1108 1125	p50/p65-NF-kappaB
+T27	protein 1143 1147	RelB
+T28	protein 1154 1158	CD40
+T29	cell_line 1176 1186	S107 cells
+T30	DNA 1211 1221	relB genes
+T31	protein 1247 1251	RelB
+T32	protein 1269 1273	CD40
+T33	protein 1332 1336	CD40
+T34	protein 1452 1456	RelB
+T35	protein 1473 1481	anti-IgM
+T36	protein 1506 1510	RelB
+T37	protein 1513 1517	CD40
+T38	cell_type 1630 1643	B lymphocytes

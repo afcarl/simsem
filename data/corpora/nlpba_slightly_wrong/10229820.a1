@@ -1,0 +1,43 @@
+T1	protein 0 26	Fibroblast growth factor-1
+T2	protein 29 34	FGF-1
+T3	protein 46 50	IL-2
+T4	protein 91 100	NF-kappaB
+T5	cell_line 104 139	FGF receptor-bearing Jurkat T cells
+T6	protein 142 167	Fibroblast growth factors
+T7	protein 170 174	FGFs
+T8	protein 181 205	heparin-binding proteins
+T9	protein 268 273	FGF-1
+T10	protein 433 438	FGF-1
+T11	cell_type 451 458	T cells
+T12	cell_type 542 562	infiltrating T cells
+T13	protein 618 623	FGF-1
+T14	protein 654 659	FGF-1
+T15	cell_type 663 670	T cells
+T16	cell_line 699 713	Jurkat T cells
+T17	protein 752 766	FGF receptor-1
+T18	protein 797 802	FGF-1
+T19	cell_line 818 832	Jurkat T cells
+T20	protein 885 889	IL-2
+T21	protein 934 938	CD28
+T22	protein 989 999	Rel/kappaB
+T23	protein 1014 1035	transcription factors
+T24	protein 1054 1058	IL-2
+T25	protein 1069 1098	activation-inducible proteins
+T26	protein 1101 1106	FGF-1
+T27	protein 1153 1176	kappaB-binding proteins
+T28	protein 1236 1244	anti-CD3
+T29	protein 1249 1254	FGF-1
+T30	protein 1262 1287	NF-kappaB binding complex
+T31	protein 1303 1358	transcriptionally active p65 ( RelA ) /p50 heterodimers
+T32	protein 1414 1427	IkappaB-alpha
+T33	protein 1459 1469	Rel/kappaB
+T34	protein 1543 1548	FGF-1
+T35	protein 1563 1572	NF-kappaB
+T36	protein 1650 1664	FGF receptor-1
+T37	protein 1680 1689	NF-kappaB
+T38	cell_line 1704 1710	Jurkat
+T39	protein 1742 1746	CD28
+T40	protein 1777 1782	FGF-1
+T41	protein 1792 1819	Rel/kappaB binding proteins
+T42	protein 1857 1862	c-Rel
+T43	protein 1894 1915	CD28 response complex

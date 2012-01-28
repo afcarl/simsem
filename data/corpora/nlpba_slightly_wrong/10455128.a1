@@ -1,0 +1,42 @@
+T1	protein 47 68	tumor necrosis factor
+T2	protein 72 96	monocytic IkappaB kinase
+T3	protein 123 130	IkappaB
+T4	protein 203 224	tumor necrosis factor
+T5	protein 227 230	TNF
+T6	protein 258 267	NF-kappaB
+T7	protein 332 346	IkappaB kinase
+T8	protein 349 352	IKK
+T9	protein 381 388	IkappaB
+T10	cell_type 420 441	human monocytic cells
+T11	protein 475 494	signalsome proteins
+T12	protein 495 504	IKK-alpha
+T13	protein 507 515	IKK-beta
+T14	protein 518 543	NF-kappaB-inducing kinase
+T15	protein 546 549	NIK
+T16	protein 554 563	IKK-gamma
+T17	protein 566 575	NF-kappaB
+T18	protein 604 634	IKK complex-associated protein
+T19	protein 663 666	TNF
+T20	protein 713 716	IKK
+T21	protein 758 767	IKK-alpha
+T22	protein 776 784	IKK-beta
+T23	protein 849 857	IKK-beta
+T24	protein 1182 1208	IKK-alpha/beta heterodimer
+T25	protein 1214 1217	NIK
+T26	protein 1220 1233	IkappaB-alpha
+T27	protein 1238 1246	-epsilon
+T28	cell_type 1250 1268	unstimulated cells
+T29	protein 1290 1293	TNF
+T30	protein 1326 1339	IkappaB-alpha
+T31	protein 1344 1359	IkappaB-epsilon
+T32	protein 1424 1433	IKK-alpha
+T33	protein 1436 1444	IKK-beta
+T34	protein 1451 1454	NIK
+T35	protein 1485 1488	NIK
+T36	protein 1511 1524	IkappaB-alpha
+T37	protein 1608 1611	NIK
+T38	protein 1639 1645	kappaB
+T39	protein 1701 1710	IKK-alpha
+T40	protein 1714 1719	-beta
+T41	protein 1740 1770	IKK complex-associated protein
+T42	protein 1823 1832	NF-kappaB

@@ -1,0 +1,33 @@
+T1	DNA 16 32	kappa B enhancer
+T2	protein 40 74	interleukin-2 receptor alpha chain
+T3	cell_line 78 98	somatic cell hybrids
+T4	protein 145 155	NF-kappa B
+T5	protein 162 182	two nuclear proteins
+T6	protein 183 193	NF-kappa B
+T7	protein 219 222	p50
+T8	protein 226 230	dp65
+T9	protein 241 260	DNA-binding subunit
+T10	protein 264 274	NF-kappa B
+T11	protein 277 280	p50
+T12	protein 307 311	KBF1
+T13	cell_line 379 396	human T-cell line
+T14	cell_line 397 407	IARC 301.5
+T15	protein 452 459	factors
+T16	DNA 485 502	kappa B enhancers
+T17	cell_line 579 589	IARC 301.5
+T18	cell_line 596 610	murine myeloma
+T19	protein 639 643	KBF1
+T20	protein 648 658	NF-kappa B
+T21	protein 707 711	KBF1
+T22	DNA 718 734	kappa B enhancer
+T23	protein 760 803	interleukin-2 ( IL-2 ) receptor alpha chain
+T24	protein 806 817	IL-2R alpha
+T25	cell_line 846 853	hybrids
+T26	protein 865 883	nuclear NF-kappa B
+T27	protein 911 929	nuclear NF-kappa B
+T28	DNA 959 975	kappa B enhancer
+T29	protein 984 988	KBF1
+T30	protein 1035 1039	KBF1
+T31	protein 1070 1080	NF-kappa B
+T32	protein 1158 1162	IL-2
+T33	protein 1167 1177	IL-2 alpha

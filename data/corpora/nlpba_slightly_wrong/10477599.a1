@@ -1,0 +1,40 @@
+T1	DNA 43 74	C motif-1/lymphotactin promoter
+T2	protein 150 184	nuclear factor of activated T cell
+T3	protein 187 227	Single C motif-1 ( SCM-1 ) /lymphotactin
+T4	protein 233 249	C-type chemokine
+T5	cell_type 335 347	CD8+ T cells
+T6	cell_type 350 376	double-negative thymocytes
+T7	cell_type 379 402	gammadelta-type T cells
+T8	cell_type 409 417	NK cells
+T9	DNA 453 469	homologous genes
+T10	protein 479 489	SCM-1alpha
+T11	protein 494 503	SCM-1beta
+T12	DNA 555 566	SCM-1 genes
+T13	DNA 573 597	luciferase reporter gene
+T14	DNA 623 642	5 ' flanking region
+T15	protein 695 703	anti-CD3
+T16	protein 707 710	PHA
+T17	cell_line 728 755	SCM-1-producer T cell lines
+T18	DNA 820 822	E1
+T19	DNA 834 848	-108 to -95 nt
+T20	DNA 1000 1002	E1
+T21	cell_line 1071 1083	B cell lines
+T22	protein 1093 1113	constitutive complex
+T23	protein 1121 1130	complex I
+T24	cell_line 1172 1199	SCM-1-producer T cell lines
+T25	protein 1209 1232	higher mobility complex
+T26	protein 1240 1250	complex II
+T27	protein 1282 1291	complex I
+T28	protein 1309 1318	complex I
+T29	protein 1322 1332	complex II
+T30	cell_line 1346 1373	SCM-1-producer T cell lines
+T31	DNA 1483 1502	NF-AT core sequence
+T32	DNA 1516 1526	E1 element
+T33	protein 1562 1573	anti-NF-ATp
+T34	protein 1597 1618	yeast isolated NF-ATp
+T35	protein 1625 1643	E1 binding protein
+T36	protein 1666 1672	NF-ATp
+T37	cell_line 1678 1696	T and B cell lines
+T38	protein 1719 1745	activation-dependent SCM-1
+T39	protein 1810 1816	NF-ATp
+T40	DNA 1903 1914	SCM-1 genes

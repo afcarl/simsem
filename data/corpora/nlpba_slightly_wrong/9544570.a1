@@ -1,0 +1,12 @@
+T1	protein 0 21	Transcription factors
+T2	cell_type 36 44	monocyte
+T3	cell_type 47 57	macrophage
+T4	DNA 216 238	lineage-specific genes
+T5	protein 332 353	transcription factors
+T6	protein 385 406	transcription factors
+T7	DNA 449 471	myeloid-specific genes
+T8	cell_type 494 503	monocytes
+T9	cell_type 508 519	macrophages
+T10	protein 542 567	transcription factor PU.1
+T11	protein 644 665	transcription factors
+T12	cell_type 684 694	macrophage

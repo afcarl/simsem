@@ -1,0 +1,27 @@
+T1	protein 38 87	beta-catenin-lymphoid enhancer factor 1 complexes
+T2	protein 200 212	beta-catenin
+T3	protein 267 274	LEF/TCF
+T4	protein 281 323	lymphoid enhancer factor and T-cell factor
+T5	protein 326 347	transcription factors
+T6	protein 402 414	beta-catenin
+T7	protein 540 552	beta-catenin
+T8	protein 603 610	LEF/TCF
+T9	protein 706 718	beta-catenin
+T10	DNA 721 728	Delta19
+T11	protein 756 761	LEF-1
+T12	protein 764 774	E-cadherin
+T13	protein 781 784	APC
+T14	protein 793 797	axin
+T15	protein 805 832	Delta19 beta-catenin mutant
+T16	DNA 951 958	Delta19
+T17	protein 1014 1026	beta-catenin
+T18	protein 1082 1097	LEF/TCF factors
+T19	protein 1100 1112	beta-Catenin
+T20	protein 1117 1132	LEF-1 complexes
+T21	cell_line 1176 1210	transformed T-lymphocyte cell line
+T22	cell_line 1213 1219	Jurkat
+T23	cell_type 1233 1253	normal T lymphocytes
+T24	protein 1407 1419	beta-catenin
+T25	protein 1460 1488	LEF-1-beta-catenin complexes
+T26	protein 1515 1535	transcription factor
+T27	protein 1536 1540	VP16

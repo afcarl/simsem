@@ -1,0 +1,39 @@
+T1	protein 14 57	interleukin ( IL ) -18 receptor alpha chain
+T2	cell_type 72 89	CD4 ( + ) T cells
+T3	protein 169 173	IL-4
+T4	protein 176 198	Interleukin ( IL ) -18
+T5	protein 232 252	costimulatory factor
+T6	protein 274 314	IL-12-mediated interferon ( IFN ) -gamma
+T7	cell_type 329 352	T helper ( Th ) 1 cells
+T8	cell_type 434 443	Th2 cells
+T9	protein 483 488	IL-18
+T10	protein 581 590	cytokines
+T11	protein 612 638	IL-18 receptor alpha chain
+T12	protein 641 652	IL-18Ralpha
+T13	cell_type 684 712	peripheral CD4 ( + ) T cells
+T14	protein 742 753	IL-18Ralpha
+T15	protein 800 805	IL-12
+T16	protein 830 841	IL-18Ralpha
+T17	protein 868 873	IL-12
+T18	protein 900 911	IL-18Ralpha
+T19	protein 921 930	IFN-gamma
+T20	cell_type 933 960	Activated CD4 ( + ) T cells
+T21	protein 990 1001	IL-18Ralpha
+T22	protein 1016 1025	IFN-gamma
+T23	protein 1066 1071	IL-12
+T24	protein 1076 1081	IL-18
+T25	cell_type 1090 1105	CD4 ( + ) cells
+T26	protein 1137 1148	IL-18Ralpha
+T27	protein 1166 1171	IL-18
+T28	protein 1232 1236	IL-4
+T29	protein 1269 1280	IL-18Ralpha
+T30	cell_type 1299 1393	IL-4 ( -/ ) - and signal transducer and activator of transcription ( Stat ) 6 ( -/ ) - T cells
+T31	protein 1421 1432	IL-18Ralpha
+T32	cell_type 1471 1488	activated T cells
+T33	protein 1528 1537	IFN-gamma
+T34	protein 1553 1558	IL-18
+T35	protein 1628 1639	IL-18Ralpha
+T36	protein 1663 1672	cytokines
+T37	protein 1675 1680	IL-12
+T38	protein 1685 1689	IL-4
+T39	protein 1719 1724	IL-18

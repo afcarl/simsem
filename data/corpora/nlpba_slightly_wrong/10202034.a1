@@ -1,0 +1,34 @@
+T1	protein 0 34	Extracellular-regulated kinase 1/2
+T2	protein 37 58	Jun N-terminal kinase
+T3	protein 65 70	c-Jun
+T4	protein 87 97	NF-kappa B
+T5	protein 109 113	IL-6
+T6	protein 215 254	mitogen-activated protein kinase family
+T7	protein 263 297	extracellular-regulated kinase 1/2
+T8	protein 300 306	ERK1/2
+T9	protein 316 337	Jun N-terminal kinase
+T10	protein 340 343	JNK
+T11	protein 359 363	IL-6
+T12	cell_type 383 398	human monocytes
+T13	protein 439 449	NF-kappa B
+T14	protein 572 584	IL-6 protein
+T15	protein 637 647	NF-kappa B
+T16	protein 702 725	ERK1/2 and JNK proteins
+T17	protein 781 785	IL-6
+T18	cell_type 801 810	monocytes
+T19	protein 868 873	Raf-1
+T20	protein 877 881	JNK1
+T21	protein 943 947	IL-6
+T22	protein 1023 1029	ERK1/2
+T23	protein 1072 1082	NF-kappa B
+T24	protein 1148 1158	NF-kappa B
+T25	protein 1195 1205	NF-kappa B
+T26	DNA 1264 1277	IL-6 promoter
+T27	protein 1368 1381	c-Jun protein
+T28	protein 1422 1426	IL-6
+T29	protein 1483 1489	ERK1/2
+T30	protein 1494 1497	JNK
+T31	protein 1530 1540	NF-kappa B
+T32	protein 1597 1600	JNK
+T33	protein 1622 1632	NF-kappa B
+T34	protein 1708 1713	c-Jun

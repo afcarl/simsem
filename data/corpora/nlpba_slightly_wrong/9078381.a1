@@ -1,0 +1,27 @@
+T1	cell_type 19 39	T-helper lymphocytes
+T2	protein 81 92	STAT family
+T3	protein 96 117	transcription factors
+T4	protein 120 133	Interleukin-4
+T5	protein 136 140	IL-4
+T6	protein 147 161	interleukin-12
+T7	protein 164 169	IL-12
+T8	cell_type 203 217	T-helper cells
+T9	protein 293 302	cytokines
+T10	cell_type 346 359	T-lymphocytes
+T11	protein 362 370	Cytokine
+T12	protein 453 473	intracellular domain
+T13	protein 495 512	cytokine receptor
+T14	protein 547 560	docking sites
+T15	protein 574 607	cytoplasmic transcription factors
+T16	protein 617 685	signal transducers and activators of transcription ( Stat ) proteins
+T17	protein 733 762	src homology 2 ( SH2 ) domain
+T18	protein 784 796	Stat protein
+T19	protein 828 848	intracellular domain
+T20	protein 856 873	cytokine receptor
+T21	protein 954 966	Stat protein
+T22	protein 1047 1060	docking sites
+T23	protein 1079 1097	cytokine receptors
+T24	protein 1134 1147	Stat proteins
+T25	protein 1178 1195	cytokine receptor
+T26	protein 1200 1220	transcription factor
+T27	protein 1252 1261	cytokines

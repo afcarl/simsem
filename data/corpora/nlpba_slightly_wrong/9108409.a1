@@ -1,0 +1,34 @@
+T1	protein 25 38	interleukin-5
+T2	cell_line 52 89	allergen-specific human T-cell clones
+T3	protein 381 394	interleukin-5
+T4	protein 397 401	IL-5
+T5	protein 408 446	selective eosinophil-activating factor
+T6	cell_type 461 475	helper T cells
+T7	protein 526 530	IL-5
+T8	cell_line 558 594	allergen-specific CD4+ T-cell clones
+T9	protein 647 651	IL-5
+T10	protein 700 715	T-cell receptor
+T11	protein 718 721	TCR
+T12	protein 727 740	IL-2 receptor
+T13	protein 743 748	IL-2R
+T14	RNA 766 775	IL-5 mRNA
+T15	protein 781 784	TCR
+T16	protein 789 794	IL-2R
+T17	protein 854 858	IL-5
+T18	cell_line 918 931	T-cell clones
+T19	protein 958 961	TCR
+T20	protein 965 970	IL-2R
+T21	DNA 1066 1096	500-bp human IL-5 gene segment
+T22	DNA 1105 1117	5 ' upstream
+T23	DNA 1148 1186	activation-inducible enhancer elements
+T24	protein 1287 1291	AP-1
+T25	protein 1296 1305	NF-kappaB
+T26	cell_type 1354 1376	TCR-stimulated T cells
+T27	protein 1379 1384	NF-AT
+T28	protein 1389 1398	NF-kappaB
+T29	protein 1433 1437	IL-2
+T30	protein 1491 1495	IL-5
+T31	cell_type 1510 1528	human CD4+ T cells
+T32	protein 1565 1568	TCR
+T33	protein 1573 1578	IL-2R
+T34	protein 1687 1691	IL-5

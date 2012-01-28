@@ -1,0 +1,34 @@
+T1	protein 0 9	Prolactin
+T2	protein 14 37	interleukin-2 receptors
+T3	cell_type 41 54	T lymphocytes
+T4	protein 72 107	MGF-STAT5-like transcription factor
+T5	protein 141 144	PRL
+T6	protein 149 162	interleukin-2
+T7	protein 165 169	IL-2
+T8	cell_type 230 243	T lymphocytes
+T9	cell_type 339 346	T cells
+T10	protein 349 352	PRL
+T11	protein 357 361	IL-2
+T12	protein 405 413	Jak/Stat
+T13	protein 416 464	signal transducer and activator of transcription
+T14	protein 508 511	PRL
+T15	protein 516 520	IL-2
+T16	protein 533 546	Stat proteins
+T17	cell_line 560 572	T cell lines
+T18	protein 674 678	IL-2
+T19	protein 684 716	PRL-induced DNA-binding proteins
+T20	cell_line 720 745	Nb2 and C196 T cell lines
+T21	protein 788 801	Stat proteins
+T22	protein 813 829	interferon-gamma
+T23	protein 832 835	PRL
+T24	protein 842 846	IL-6
+T25	cell_line 850 874	T47D mammary tumor cells
+T26	protein 955 984	PRL- and IL-2-induced factors
+T27	protein 1029 1055	mammary gland factor-Stat5
+T28	protein 1097 1101	IL-2
+T29	protein 1106 1109	PRL
+T30	protein 1186 1191	Stat1
+T31	protein 1246 1249	PRL
+T32	protein 1310 1322	Stat factors
+T33	protein 1323 1349	mammary gland factor-Stat5
+T34	protein 1354 1359	Stat1

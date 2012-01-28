@@ -1,0 +1,24 @@
+T1	protein 0 9	NF-kappaB
+T2	cell_type 132 160	tissue-damaging granulocytes
+T3	cell_type 299 316	human neutrophils
+T4	cell_type 321 332	eosinophils
+T5	protein 609 631	nuclear factor-kappa B
+T6	protein 634 643	NF-kappaB
+T7	protein 707 716	NF-kappaB
+T8	protein 733 742	NF-kappaB
+T9	protein 922 949	tumor necrosis factor-alpha
+T10	protein 952 961	TNF-alpha
+T11	cell_type 967 978	neutrophils
+T12	protein 1007 1016	TNF-alpha
+T13	cell_type 1027 1037	eosinophil
+T14	cell_type 1053 1064	neutrophils
+T15	protein 1067 1076	TNF-alpha
+T16	protein 1143 1152	NF-kappaB
+T17	protein 1199 1208	TNF-alpha
+T18	protein 1360 1369	TNF-alpha
+T19	protein 1490 1499	NF-kappaB
+T20	cell_type 1559 1570	neutrophils
+T21	protein 1601 1610	TNF-alpha
+T22	protein 1758 1778	transcription factor
+T23	protein 1779 1788	NF-kappaB
+T24	cell_type 1864 1876	granulocytes

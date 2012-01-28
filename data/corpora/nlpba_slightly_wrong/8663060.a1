@@ -1,0 +1,33 @@
+T1	DNA 32 58	gammac chain gene promoter
+T2	DNA 75 91	Ets binding site
+T3	protein 112 130	GA-binding protein
+T4	protein 137 149	gammac chain
+T5	protein 175 193	cytokine receptors
+T6	protein 196 217	interleukin ( IL ) -2
+T7	protein 220 224	IL-4
+T8	protein 227 231	IL-7
+T9	protein 234 238	IL-9
+T10	protein 245 250	IL-15
+T11	cell_type 296 318	hematopoietic lineages
+T12	DNA 484 505	human gammac promoter
+T13	DNA 521 560	minimal tissue-specific promoter region
+T14	DNA 575 597	5'-deletion constructs
+T15	DNA 621 645	1053 base pairs upstream
+T16	DNA 653 683	major transcription start site
+T17	cell_type 743 788	hematopoietic and nonhematopoietic cell types
+T18	DNA 795 814	-1053/+34 construct
+T19	cell_type 858 878	hematopoietic origin
+T20	DNA 1054 1071	Ets binding sites
+T21	DNA 1089 1116	murine gammac promoter gene
+T22	DNA 1239 1255	Ets binding site
+T23	protein 1274 1293	Ets family proteins
+T24	protein 1308 1326	GA-binding protein
+T25	protein 1331 1336	Elf-1
+T26	protein 1368 1377	GABPalpha
+T27	protein 1382 1387	-beta
+T28	DNA 1464 1481	IL2Rbeta promoter
+T29	protein 1484 1502	GA-binding protein
+T30	protein 1574 1578	GABP
+T31	cell_type 1615 1636	hematopoietic lineage
+T32	protein 1666 1682	specific factors
+T33	DNA 1739 1750	gammac gene

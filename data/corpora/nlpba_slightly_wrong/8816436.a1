@@ -1,0 +1,45 @@
+T1	DNA 37 75	human tumor necrosis factor alpha gene
+T2	cell_type 79 86	B cells
+T3	cell_type 91 98	T cells
+T4	protein 102 107	NFATp
+T5	protein 112 121	ATF-2/JUN
+T6	DNA 128 180	human tumor necrosis factor alpha ( TNF-alpha ) gene
+T7	cell_type 249 255	B cell
+T8	protein 268 284	antigen receptor
+T9	DNA 341 355	TNF-alpha gene
+T10	protein 468 479	NFAT family
+T11	cell_type 525 532	B cells
+T12	cell_type 552 559	T cells
+T13	protein 579 584	NFATp
+T14	DNA 597 631	TNF-alpha promoter element kappa 3
+T15	protein 652 657	ATF-2
+T16	protein 662 674	Jun proteins
+T17	DNA 708 748	cyclic AMP response element ( CRE ) site
+T18	cell_line 768 800	murine B-cell lymphoma cell line
+T19	cell_line 801 804	A20
+T20	DNA 824 838	TNF-alpha gene
+T21	cell_line 888 899	A20 B cells
+T22	DNA 906 920	TNF-alpha gene
+T23	protein 941 946	NFATp
+T24	DNA 960 975	kappa 3 element
+T25	protein 988 993	ATF-2
+T26	protein 998 1010	Jun proteins
+T27	DNA 1023 1049	composite kappa 3/CRE site
+T28	protein 1054 1059	NFATp
+T29	DNA 1095 1104	NFAT site
+T30	DNA 1117 1132	-76 nucleotides
+T31	DNA 1149 1183	TNF-alpha transcription start site
+T32	protein 1285 1294	TNF-alpha
+T33	cell_line 1303 1314	A20 B cells
+T34	cell_line 1319 1329	Ar-5 cells
+T35	protein 1377 1382	DNase
+T36	DNA 1403 1421	TNF-alpha promoter
+T37	protein 1462 1467	NFATp
+T38	DNA 1490 1498	-76 site
+T39	protein 1508 1513	NFATp
+T40	DNA 1546 1558	kappa 3 site
+T41	DNA 1595 1614	NFATp-binding sites
+T42	DNA 1631 1649	TNF-alpha promoter
+T43	DNA 1738 1754	promoter element
+T44	DNA 1761 1787	composite kappa 3/CRE site
+T45	DNA 1794 1808	TNF-alpha gene

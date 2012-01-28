@@ -1,0 +1,16 @@
+T1	protein 0 44	Murine and human T-lymphocyte GATA-3 factors
+T2	DNA 77 99	cis-regulatory element
+T3	DNA 111 152	human T-cell receptor delta gene enhancer
+T4	protein 167 193	transcriptional activators
+T5	protein 243 269	transcriptional activators
+T6	DNA 289 304	consensus motif
+T7	DNA 307 313	WGATAR
+T8	protein 336 369	C4 zinc finger DNA-binding domain
+T9	protein 418 425	cGATA-3
+T10	cell_type 464 489	T-lymphocyte cell lineage
+T11	protein 504 535	human and murine GATA-3 factors
+T12	protein 680 704	murine and human factors
+T13	cell_line 746 775	human and murine T-cell lines
+T14	DNA 817 850	tissue-specific GATA-binding site
+T15	DNA 873 914	human T-cell receptor delta gene enhancer
+T16	protein 935 967	murine and human GATA-3 proteins

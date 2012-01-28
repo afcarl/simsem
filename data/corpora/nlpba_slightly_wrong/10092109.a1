@@ -1,0 +1,18 @@
+T1	protein 0 15	Interferon-beta
+T2	cell_type 48 55	T cells
+T3	cell_type 161 168	T cells
+T4	cell_type 234 258	antigen-specific T cells
+T5	protein 310 319	Cytokines
+T6	protein 344 355	gamma chain
+T7	protein 363 367	IL-2
+T8	cell_type 401 414	T cell blasts
+T9	protein 463 478	soluble factors
+T10	cell_type 491 504	stromal cells
+T11	protein 670 696	Interferon-alpha and -beta
+T12	cell_type 722 734	blast Tcells
+T13	protein 843 849	Bcl-XL
+T14	protein 869 874	Bcl-2
+T15	protein 877 895	Type I interferons
+T16	cell_type 900 913	stromal cells
+T17	protein 977 983	STAT-1
+T18	cell_type 1080 1087	T cells

@@ -1,0 +1,27 @@
+T1	protein 83 94	K+ channels
+T2	cell_type 137 150	T lymphocytes
+T3	cell_type 287 306	human T lymphocytes
+T4	cell_line 311 323	T cell lines
+T5	protein 426 473	voltage-gated and calcium-activated K+ channels
+T6	protein 476 478	KV
+T7	protein 483 486	KCa
+T8	protein 595 630	nuclear factor of activated T cells
+T9	protein 633 638	NF-AT
+T10	protein 732 747	T cell receptor
+T11	protein 750 753	TCR
+T12	protein 931 934	TCR
+T13	protein 1105 1107	KV
+T14	protein 1112 1115	KCa
+T15	protein 1180 1191	K+ channels
+T16	protein 1208 1213	Kv1.3
+T17	protein 1218 1252	charybdotoxin-resistant components
+T18	protein 1256 1258	KV
+T19	protein 1271 1274	KCa
+T20	cell_type 1286 1293	T cells
+T21	protein 1324 1342	cloned KV channels
+T22	cell_line 1356 1366	cell lines
+T23	protein 1411 1443	cloned voltage-gated Na+ channel
+T24	protein 1466 1476	K+ channel
+T25	protein 1485 1517	lymphocyte Ca2+ and Cl- channels
+T26	protein 1557 1568	K+ channels
+T27	cell_type 1572 1579	T cells

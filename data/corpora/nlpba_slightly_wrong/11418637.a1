@@ -1,0 +1,22 @@
+T1	DNA 27 45	MHC class II genes
+T2	cell_line 49 68	melanoma cell lines
+T3	DNA 103 126	class II transactivator
+T4	DNA 157 181	B cell-specific promoter
+T5	cell_line 187 206	melanoma cell lines
+T6	DNA 325 331	HLA-DR
+T7	DNA 336 342	HLA-DP
+T8	DNA 380 386	HLA-DQ
+T9	cell_type 419 430	melanocytes
+T10	DNA 508 522	HLA-D isotypes
+T11	cell_line 651 670	melanoma cell lines
+T12	DNA 826 837	HLA-D genes
+T13	RNA 905 950	CIITA ( class II transactivator ) transcripts
+T14	protein 953 958	CIITA
+T15	DNA 1068 1080	promoter III
+T16	DNA 1088 1098	CIITA gene
+T17	cell_type 1150 1163	B lymphocytes
+T18	DNA 1273 1291	CIITA promoter III
+T19	cell_type 1328 1345	epithelioid cells
+T20	DNA 1506 1511	CIITA
+T21	DNA 1517 1529	promoter III
+T22	cell_line 1564 1583	melanoma cell lines

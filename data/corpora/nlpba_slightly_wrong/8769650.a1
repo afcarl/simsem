@@ -1,0 +1,31 @@
+T1	protein 37 64	B-cell-specific coactivator
+T2	protein 65 70	OCA-B
+T3	DNA 106 126	immunoglobulin genes
+T4	DNA 163 173	POU domain
+T5	protein 185 205	transcription factor
+T6	protein 206 211	Oct-1
+T7	protein 215 220	Oct-2
+T8	protein 232 259	B-cell-specific coactivator
+T9	protein 260 265	OCA-B
+T10	protein 268 273	Bob-1
+T11	protein 276 281	OBF-1
+T12	DNA 290 315	prototype octamer element
+T13	protein 331 336	OCA-B
+T14	DNA 410 420	POU domain
+T15	DNA 450 464	fifth position
+T16	DNA 472 487	octamer element
+T17	DNA 509 519	POU domain
+T18	protein 525 548	amino-terminal fragment
+T19	protein 552 557	OCA-B
+T20	DNA 568 580	octamer site
+T21	DNA 601 611	POU domain
+T22	protein 661 666	OCA-B
+T23	DNA 785 798	DNA sequences
+T24	protein 847 852	Oct-1
+T25	protein 856 861	Oct-2
+T26	DNA 892 902	POU domain
+T27	DNA 911 927	octamer sequence
+T28	protein 931 936	OCA-B
+T29	DNA 989 1002	octamer sites
+T30	protein 1027 1044	ubiquitous factor
+T31	protein 1045 1050	Oct-1

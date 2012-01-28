@@ -1,0 +1,20 @@
+T1	protein 4 31	retinoblastoma gene product
+T2	protein 96 129	human cytomegalovirus IE2 protein
+T3	protein 136 152	IE2 gene product
+T4	protein 203 228	viral regulatory proteins
+T5	cell_type 273 282	host cell
+T6	protein 300 325	transcriptional activator
+T7	DNA 334 362	viral and cellular promoters
+T8	protein 383 425	retinoblastoma susceptibility gene product
+T9	protein 428 430	Rb
+T10	protein 462 465	IE2
+T11	DNA 485 502	various promoters
+T12	protein 530 554	tumor suppressor protein
+T13	protein 557 560	p53
+T14	protein 563 565	Rb
+T15	protein 653 655	Rb
+T16	protein 684 687	IE2
+T17	protein 706 722	cellular factors
+T18	protein 822 824	Rb
+T19	protein 899 902	IE2
+T20	protein 930 932	Rb

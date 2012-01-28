@@ -1,0 +1,16 @@
+T1	protein 30 43	interleukin-8
+T2	cell_line 60 85	human monocytic cell line
+T3	cell_line 88 93	THP-1
+T4	DNA 127 160	AP-1- and NF-kappaB-binding sites
+T5	DNA 168 186	interleukin-8 gene
+T6	protein 231 244	interleukin-8
+T7	protein 247 251	IL-8
+T8	cell_line 278 303	human monocytic cell line
+T9	cell_line 306 317	THP-1 cells
+T10	protein 331 335	IL-8
+T11	DNA 379 388	IL-8 gene
+T12	DNA 408 451	AP-1- and NF-kappaB factor-binding elements
+T13	protein 604 613	NF-kappaB
+T14	protein 618 632	AP-1 complexes
+T15	protein 682 705	transcriptional factors
+T16	protein 721 725	IL-8

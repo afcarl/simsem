@@ -1,0 +1,30 @@
+T1	protein 77 80	Nef
+T2	protein 114 125	Nef protein
+T3	protein 255 276	cell surface proteins
+T4	protein 303 325	intracellular proteins
+T5	protein 441 444	Nef
+T6	protein 483 494	Nef protein
+T7	cell_type 498 505	T cells
+T8	protein 547 550	Nef
+T9	protein 608 619	Nef protein
+T10	cell_line 649 661	T-cell lines
+T11	protein 741 756	full-length Nef
+T12	protein 765 805	estrogen receptor hormone-binding domain
+T13	protein 808 814	Nef-ER
+T14	protein 823 829	Nef-ER
+T15	protein 978 987	ER domain
+T16	protein 1023 1029	Nef-ER
+T17	protein 1065 1071	Nef-ER
+T18	protein 1102 1123	62-kDa Ser/Thr kinase
+T19	protein 1236 1239	Nef
+T20	protein 1289 1292	CD4
+T21	protein 1297 1303	HLA-A2
+T22	cell_line 1324 1341	SupT1 T-cell line
+T23	protein 1375 1391	cell surface CD4
+T24	protein 1420 1426	Nef-ER
+T25	protein 1518 1524	HLA-A2
+T26	protein 1528 1531	Nef
+T27	protein 1635 1641	HLA-A2
+T28	protein 1704 1707	Nef
+T29	protein 1737 1740	CD4
+T30	protein 1745 1751	HLA-A2

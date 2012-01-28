@@ -1,0 +1,12 @@
+T1	DNA 0 5	RFX-B
+T2	protein 93 105	MHC class II
+T3	protein 263 275	MHC class II
+T4	protein 453 486	MHC class II transcription factor
+T5	protein 487 490	RFX
+T6	protein 514 525	RFX complex
+T7	DNA 630 635	RFX-B
+T8	DNA 638 643	RFX-B
+T9	protein 672 697	BLS complementation group
+T10	protein 700 707	group B
+T11	cell_line 740 750	cell lines
+T12	protein 798 816	DNA-binding domain

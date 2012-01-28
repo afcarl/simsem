@@ -1,0 +1,28 @@
+T1	cell_type 23 51	Vgamma ( + ) -T-cell subsets
+T2	protein 297 315	VP2 capsid protein
+T3	cell_type 456 477	Vgamma4 Vdelta4 cells
+T4	protein 512 528	gamma interferon
+T5	protein 531 540	IFN-gamma
+T6	cell_type 553 574	Vgamma1 Vdelta4 cells
+T7	cell_type 649 668	Vgamma1 ( + ) cells
+T8	protein 675 707	monoclonal anti-Vgamma1 antibody
+T9	protein 747 756	IFN-gamma
+T10	cell_type 886 905	Vgamma4 ( + ) cells
+T11	cell_type 941 972	CD4 ( + ) IFN-gamma ( + ) cells
+T12	cell_type 987 1015	CD4 ( + ) IL-4 ( + ) T cells
+T13	cell_type 1053 1092	Vgamma1 ( + ) and Vgamma4 ( + ) T cells
+T14	protein 1224 1233	IFN-gamma
+T15	cell_type 1356 1389	Vgamma4 and Vgamma1 ( + ) T cells
+T16	protein 1418 1422	IL-4
+T17	protein 1441 1450	IFN-gamma
+T18	protein 1520 1529	IFN-gamma
+T19	protein 1537 1541	IL-4
+T20	cell_type 1544 1584	Stat4ko Vgamma1 ( + ) cells ( IL-4 ( + )
+T21	cell_type 1610 1655	Stat6ko Vgamma1 ( + ) cells ( IFN-gamma ( + )
+T22	cell_type 1680 1725	Stat6ko Vgamma4 ( + ) cells ( IFN-gamma ( + )
+T23	cell_type 1765 1805	Stat4ko Vgamma4 ( + ) cells ( IL-4 ( + )
+T24	cell_type 1882 1907	gammadelta-T-cell subsets
+T25	cell_type 1956 1974	CD4 ( + ) -Th-cell
+T26	protein 1990 1999	cytokines
+T27	cell_type 2016 2036	Vgamma subpopulation
+T28	protein 2073 2076	CD4

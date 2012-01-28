@@ -1,0 +1,41 @@
+T1	cell_type 21 29	monocyte
+T2	protein 54 76	nuclear factor-kappa B
+T3	protein 107 140	vascular cell adhesion molecule-1
+T4	cell_type 144 161	endothelial cells
+T5	cell_type 213 230	endothelial cells
+T6	protein 231 272	stimulated by tumor necrosis factor-alpha
+T7	protein 275 278	TNF
+T8	protein 304 321	surface receptors
+T9	protein 332 365	vascular cell adhesion molecule-1
+T10	protein 368 374	VCAM-1
+T11	protein 468 490	nuclear factor-kappa B
+T12	protein 493 503	NF-kappa B
+T13	DNA 514 528	kappa B motifs
+T14	DNA 544 609	VCAM-1 and intercellular adhesion molecule-1 ( ICAM-1 ) promoters
+T15	protein 663 669	VCAM-1
+T16	protein 674 680	ICAM-1
+T17	cell_type 706 714	monocyte
+T18	cell_line 727 777	TNF-treated human umbilical vein endothelial cells
+T19	cell_line 780 786	HUVECs
+T20	protein 841 859	TNF-induced VCAM-1
+T21	protein 868 890	ICAM-1 surface protein
+T22	cell_type 901 943	human umbilical arterial endothelial cells
+T23	cell_line 1001 1007	HUVECs
+T24	cell_line 1092 1098	HUVECs
+T25	protein 1132 1142	NF-kappa B
+T26	protein 1159 1162	TNF
+T27	protein 1186 1192	VCAM-1
+T28	protein 1221 1231	NF-kappa B
+T29	cell_line 1240 1246	HUVECs
+T30	protein 1312 1318	VCAM-1
+T31	protein 1368 1374	ICAM-1
+T32	protein 1416 1429	NADPH oxidase
+T33	protein 1446 1462	cytochrome P-450
+T34	protein 1486 1492	VCAM-1
+T35	cell_line 1646 1666	monocytic U937 cells
+T36	cell_line 1670 1688	TNF-treated HUVECs
+T37	protein 1737 1768	anti-VCAM-1 monoclonal antibody
+T38	protein 1769 1773	1G11
+T39	cell_line 1789 1793	U937
+T40	protein 1807 1813	VCAM-1
+T41	protein 1875 1881	VCAM-1

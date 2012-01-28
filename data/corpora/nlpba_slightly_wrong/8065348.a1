@@ -1,0 +1,26 @@
+T1	protein 19 42	E-box-binding repressor
+T2	protein 46 77	basic helix-loop-helix proteins
+T3	DNA 123 158	immunoglobulin heavy-chain enhancer
+T4	DNA 181 224	immunoglobulin heavy-chain ( IgH ) enhancer
+T5	cell_type 242 249	B cells
+T6	protein 275 329	B-cell-restricted and ubiquitous transcription factors
+T7	DNA 350 358	enhancer
+T8	cell_type 362 373	non-B cells
+T9	protein 401 440	basic helix-loop-helix ( bHLH ) protein
+T10	protein 441 444	E2A
+T11	protein 495 498	E2A
+T12	DNA 514 519	E box
+T13	protein 564 573	repressor
+T14	protein 617 653	`` two-handed '' zinc finger protein
+T15	protein 664 667	ZEB
+T16	protein 726 744	cellular repressor
+T17	DNA 773 778	E box
+T18	protein 790 793	ZEB
+T19	protein 802 805	E2A
+T20	protein 831 840	repressor
+T21	cell_type 854 861	B cells
+T22	DNA 870 882	IgH enhancer
+T23	protein 936 949	bHLH proteins
+T24	DNA 1004 1012	enhancer
+T25	protein 1063 1081	ZEB-like repressor
+T26	protein 1085 1098	bHLH proteins

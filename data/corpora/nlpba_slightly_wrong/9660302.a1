@@ -1,0 +1,41 @@
+T1	cell_line 7 30	transfected liver cells
+T2	protein 148 172	proinflammatory cytokine
+T3	protein 175 196	tumor necrosis factor
+T4	protein 199 202	TNF
+T5	protein 322 325	TNF
+T6	protein 433 437	IL-8
+T7	protein 468 472	IL-8
+T8	protein 617 635	protective factors
+T9	protein 668 698	Manganous superoxide dismutase
+T10	protein 701 706	MnSOD
+T11	protein 715 744	antioxidant protective factor
+T12	protein 830 846	injurious factor
+T13	protein 849 853	IL-8
+T14	protein 862 879	protective factor
+T15	protein 882 887	MnSOD
+T16	cell_line 897 927	HepG2 human hepatoma cell line
+T17	DNA 964 993	IL-8 gene reporter constructs
+T18	cell_line 1044 1052	MVh2E1-9
+T19	cell_line 1062 1077	HepG2 cell line
+T20	protein 1094 1102	P-4502E1
+T21	DNA 1149 1190	NF-kappaB and 3'NF-IL-6 DNA binding sites
+T22	DNA 1201 1210	IL-8 gene
+T23	protein 1253 1256	TNF
+T24	DNA 1283 1305	5'NF-IL-6 binding site
+T25	DNA 1316 1325	IL-8 gene
+T26	protein 1366 1369	TNF
+T27	protein 1434 1437	TNF
+T28	protein 1458 1462	IL-8
+T29	cell_line 1511 1522	HepG2 cells
+T30	protein 1588 1591	TNF
+T31	cell_line 1614 1624	HepG2 cell
+T32	protein 1625 1630	MnSOD
+T33	protein 1776 1781	MnSOD
+T34	protein 1833 1838	MnSOD
+T35	protein 1854 1857	TNF
+T36	protein 1940 1945	MnSOD
+T37	cell_line 1978 1988	HepG2 cell
+T38	cell_line 2007 2023	TNF cytotoxicity
+T39	cell_line 2055 2071	liver cell lines
+T40	protein 2121 2138	injurious factors
+T41	protein 2153 2171	protective factors

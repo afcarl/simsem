@@ -1,0 +1,20 @@
+T1	protein 0 22	Nuclear factor-kappa B
+T2	cell_type 35 42	T cells
+T3	protein 122 143	NF-kappa B/Rel family
+T4	protein 147 168	transcription factors
+T5	protein 358 368	NF-kappa B
+T6	protein 471 485	nucleoproteins
+T7	cell_type 511 542	synovial and peripheral T cells
+T8	protein 797 807	NF-kappa B
+T9	protein 849 863	nucleoproteins
+T10	cell_type 879 895	purified T cells
+T11	protein 990 999	complexes
+T12	protein 1013 1031	p50/p50 homodimers
+T13	protein 1069 1079	NF-kappa B
+T14	cell_type 1098 1114	synovial T cells
+T15	protein 1202 1212	NF-kappa B
+T16	cell_type 1216 1232	synovial T cells
+T17	protein 1261 1279	p50/p50 homodimers
+T18	protein 1330 1340	NF-kappa B
+T19	cell_type 1386 1406	infiltrating T cells
+T20	cell_type 1509 1536	rheumatoid synovial T cells

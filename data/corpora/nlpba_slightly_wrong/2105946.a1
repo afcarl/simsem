@@ -1,0 +1,25 @@
+T1	DNA 55 60	c-jun
+T2	cell_line 108 136	human myeloid leukemic cells
+T3	protein 139 143	AP-1
+T4	DNA 173 178	c-jun
+T5	DNA 260 265	genes
+T6	DNA 428 433	c-jun
+T7	cell_line 453 464	HL-60 cells
+T8	RNA 514 531	c-jun transcripts
+T9	cell_line 551 581	untreated HL-60 leukemic cells
+T10	DNA 704 709	c-jun
+T11	cell_line 744 755	human U-937
+T12	cell_line 760 790	THP-1 monocytic leukemia cells
+T13	protein 875 891	protein kinase C
+T14	DNA 1086 1091	c-jun
+T15	cell_line 1122 1133	HL-60 cells
+T16	DNA 1205 1210	c-jun
+T17	DNA 1275 1280	c-jun
+T18	cell_line 1303 1324	untreated HL-60 cells
+T19	cell_line 1396 1407	HL-60 cells
+T20	DNA 1470 1475	c-jun
+T21	RNA 1509 1518	c-jun RNA
+T22	cell_line 1545 1556	HL-60 cells
+T23	RNA 1628 1637	c-jun RNA
+T24	cell_line 1641 1664	TPA-treated HL-60 cells
+T25	RNA 1777 1786	c-jun RNA

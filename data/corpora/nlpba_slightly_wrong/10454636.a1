@@ -1,0 +1,25 @@
+T1	protein 78 87	NF-kappaB
+T2	cell_type 154 165	lymphocytes
+T3	cell_line 418 432	Jurkat T cells
+T4	cell_type 440 471	primary blood mononuclear cells
+T5	cell_type 474 478	PBMC
+T6	DNA 689 706	NF-kappaB element
+T7	DNA 722 742	long terminal repeat
+T8	DNA 763 778	NF-kappaB sites
+T9	DNA 821 853	wild-type or mutant kappaB sites
+T10	DNA 859 880	heterologous promoter
+T11	protein 911 920	NF-kappaB
+T12	protein 1127 1154	tumor necrosis factor-alpha
+T13	protein 1157 1166	TNF-alpha
+T14	protein 1187 1196	NF-kappaB
+T15	protein 1231 1240	TNF-alpha
+T16	protein 1330 1339	TNF-alpha
+T17	protein 1376 1385	NF-kappaB
+T18	protein 1433 1436	p50
+T19	protein 1439 1442	p65
+T20	protein 1447 1469	IkappaB-alpha proteins
+T21	protein 1498 1507	NF-kappaB
+T22	protein 1593 1601	cytokine
+T23	protein 1677 1686	NF-kappaB
+T24	cell_type 1690 1697	T cells
+T25	cell_type 1702 1706	PBMC

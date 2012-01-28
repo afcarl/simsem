@@ -1,0 +1,29 @@
+T1	protein 4 34	Epstein-Barr virus Rta protein
+T2	DNA 45 62	lytic cycle genes
+T3	cell_type 90 103	B lymphocytes
+T4	DNA 226 253	immediate-early viral genes
+T5	DNA 256 261	BZLF1
+T6	DNA 266 271	BRLF1
+T7	DNA 315 320	BZLF1
+T8	cell_type 359 372	B lymphocytes
+T9	cell_type 377 393	epithelial cells
+T10	DNA 423 440	lytic cycle genes
+T11	DNA 453 458	BRLF1
+T12	protein 465 482	BRLF1 product Rta
+T13	cell_type 532 545	B lymphocytes
+T14	cell_type 550 566	epithelial cells
+T15	protein 579 582	Rta
+T16	protein 804 807	Rta
+T17	cell_line 858 880	permissive B-cell line
+T18	cell_line 886 900	HH514-16 cells
+T19	protein 919 922	Rta
+T20	protein 945 950	ZEBRA
+T21	protein 1014 1017	Rta
+T22	protein 1048 1053	ZEBRA
+T23	DNA 1101 1118	lytic cycle genes
+T24	protein 1159 1164	ZEBRA
+T25	protein 1186 1189	Rta
+T26	DNA 1281 1286	BZLF1
+T27	DNA 1290 1295	BRLF1
+T28	protein 1329 1351	immediate-early factor
+T29	DNA 1418 1436	downstream targets

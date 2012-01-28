@@ -1,0 +1,45 @@
+T1	protein 11 27	prostaglandin E2
+T2	cell_line 31 59	Th0-type human T cell clones
+T3	protein 89 105	nuclear proteins
+T4	protein 118 126	cytokine
+T5	protein 155 171	prostaglandin E2
+T6	protein 174 178	PGE2
+T7	protein 184 192	cytokine
+T8	cell_line 229 266	CD4+ human helper T cell clone SP-B21
+T9	protein 312 324	anti-CD3 mAb
+T10	protein 327 331	PGE2
+T11	protein 391 400	cytokines
+T12	protein 424 429	rIL-2
+T13	protein 513 517	IL-4
+T14	protein 522 526	IL-5
+T15	protein 551 560	cytokines
+T16	protein 646 650	PGE2
+T17	protein 678 682	IL-4
+T18	protein 687 691	IL-5
+T19	protein 747 756	cytokines
+T20	protein 786 790	PGE2
+T21	protein 849 853	IL-4
+T22	protein 858 862	IL-5
+T23	protein 900 909	cytokines
+T24	protein 949 981	NF-kappa B ( p50/p50 ) homodimer
+T25	DNA 1024 1040	kappa B sequence
+T26	protein 1104 1116	anti-CD3 mAb
+T27	protein 1156 1166	NF-kappa B
+T28	protein 1169 1172	p50
+T29	protein 1173 1177	/p65
+T30	DNA 1201 1217	kappa B sequence
+T31	protein 1248 1252	PGE2
+T32	protein 1305 1339	NF-kappa B ( p50/p65 ) heterodimer
+T33	DNA 1347 1363	kappa B sequence
+T34	protein 1389 1401	anti-CD3 mAb
+T35	protein 1467 1471	PGE2
+T36	protein 1558 1574	protein kinase C
+T37	protein 1638 1642	PGE2
+T38	protein 1658 1662	PGE2
+T39	DNA 1699 1730	NF-AT , AP-1 and CLE0 sequences
+T40	protein 1771 1783	anti-CD3 mAb
+T41	protein 1836 1840	PGE2
+T42	protein 1913 1923	NF-kappa B
+T43	protein 1936 1941	NF-AT
+T44	protein 1944 1948	AP-1
+T45	protein 1952 1972	CLE0 binding protein

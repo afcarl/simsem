@@ -1,0 +1,35 @@
+T1	DNA 42 100	human Acyl-coenzyme A : cholesterol acyltransterase-1 gene
+T2	protein 104 120	interferon-gamma
+T3	cell_type 149 160	THP-1 cells
+T4	protein 163 208	Acyl-coenzyme A : cholesterol acyltransferase
+T5	protein 211 215	ACAT
+T6	protein 224 244	intracellular enzyme
+T7	DNA 335 352	Human ACAT-1 gene
+T8	DNA 366 375	promoters
+T9	DNA 378 380	P1
+T10	DNA 385 387	P7
+T11	DNA 420 442	chromosome ( 1 and 7 )
+T12	protein 673 689	Interferon-gamma
+T13	protein 692 701	IFN-gamma
+T14	protein 708 716	cytokine
+T15	RNA 796 807	ACAT-1 mRNA
+T16	cell_type 811 851	human blood monocyte-derived macrophages
+T17	cell_type 856 877	macrophage-like cells
+T18	DNA 987 1005	ACAT-1 P1 promoter
+T19	DNA 1008 1033	159-base pair core region
+T20	DNA 1059 1071	Sp1 elements
+T21	DNA 1079 1107	IFN-gamma activated sequence
+T22	DNA 1110 1113	GAS
+T23	DNA 1146 1157	Sp1 element
+T24	cell_type 1167 1197	monocytic cell line THP-1 cell
+T25	protein 1219 1228	IFN-gamma
+T26	DNA 1304 1322	ACAT-1 P1 promoter
+T27	DNA 1335 1346	P7 promoter
+T28	protein 1438 1464	transcription factor STAT1
+T29	protein 1473 1482	IFN-gamma
+T30	protein 1504 1509	STAT1
+T31	DNA 1536 1548	GAS/Sp1 site
+T32	DNA 1556 1574	ACAT-1 P1 promoter
+T33	protein 1646 1655	IFN-gamma
+T34	protein 1697 1703	ACAT-1
+T35	cell_type 1707 1728	macrophage-like cells

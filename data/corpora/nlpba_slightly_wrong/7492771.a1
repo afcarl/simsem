@@ -1,0 +1,19 @@
+T1	cell_type 103 124	human monocytic cells
+T2	protein 138 160	plasma Factor VII/VIIa
+T3	protein 168 197	tissue factor ( TF ) receptor
+T4	protein 212 232	coagulation protease
+T5	cell_type 261 282	circulating monocytes
+T6	DNA 405 418	human TF gene
+T7	cell_type 422 437	monocytic cells
+T8	protein 512 534	c-Rel/p65 heterodimers
+T9	DNA 540 552	kappa B site
+T10	DNA 560 571	TF promoter
+T11	DNA 705 712	TF gene
+T12	cell_type 730 745	human monocytes
+T13	cell_line 750 771	monocytic THP-1 cells
+T14	protein 886 901	I kappa B alpha
+T15	protein 949 971	c-Rel/p65 heterodimers
+T16	DNA 1103 1110	TF gene
+T17	DNA 1181 1188	TF gene
+T18	cell_type 1206 1221	monocytic cells
+T19	protein 1261 1283	c-Rel/p65 heterodimers

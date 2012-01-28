@@ -1,0 +1,22 @@
+T1	protein 0 22	IL4 and IL13 receptors
+T2	protein 33 46	gamma c chain
+T3	protein 60 92	STAT6 , STAT3 and STAT5 proteins
+T4	cell_type 96 116	normal human B cells
+T5	protein 119 123	IL13
+T6	protein 163 166	IL4
+T7	cell_type 170 190	normal human B cells
+T8	protein 216 228	IL4R complex
+T9	protein 236 246	IL4R alpha
+T10	protein 251 263	IL2R gamma c
+T11	protein 286 291	IL13R
+T12	protein 306 315	cytokines
+T13	protein 324 329	STAT6
+T14	protein 332 337	STAT3
+T15	protein 342 347	STAT5
+T16	cell_type 362 369	B cells
+T17	protein 421 424	IL4
+T18	protein 429 433	IL13
+T19	protein 458 471	Janus kinases
+T20	protein 474 478	IL13
+T21	protein 501 505	JAK1
+T22	protein 510 514	JAK3

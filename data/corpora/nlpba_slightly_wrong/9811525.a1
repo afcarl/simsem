@@ -1,0 +1,25 @@
+T1	protein 0 20	Interleukin 2 and 15
+T2	protein 30 40	Stat3alpha
+T3	cell_type 44 63	human T lymphocytes
+T4	protein 66 116	Signal transducer and activator of transcription 3
+T5	protein 119 124	Stat3
+T6	protein 215 224	Stat3beta
+T7	protein 247 257	Stat3alpha
+T8	protein 333 346	Stat3 isoform
+T9	protein 381 402	interleukin ( IL ) -2
+T10	protein 407 412	IL-15
+T11	protein 422 430	cytokine
+T12	protein 454 459	Stat3
+T13	cell_type 484 507	CD4 ( + ) human T cells
+T14	protein 527 532	Stat3
+T15	protein 582 587	Stat3
+T16	protein 703 707	IL-2
+T17	protein 712 717	IL-15
+T18	protein 759 769	Stat3alpha
+T19	protein 814 823	Stat3beta
+T20	protein 855 859	IL-2
+T21	protein 864 869	IL-15
+T22	protein 893 903	Stat3alpha
+T23	cell_type 907 930	human CD4 ( + ) T cells
+T24	protein 993 1007	Stat3 proteins
+T25	protein 1051 1059	cytokine

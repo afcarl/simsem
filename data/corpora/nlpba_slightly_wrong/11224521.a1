@@ -1,0 +1,27 @@
+T1	DNA 31 35	NEMO
+T2	DNA 128 183	nuclear factor kappaB ( NF-kappaB ) essential modulator
+T3	DNA 189 193	NEMO
+T4	DNA 210 218	IKKgamma
+T5	protein 255 285	transcription factor NF-kappaB
+T6	protein 317 344	putative zinc-finger domain
+T7	protein 348 352	NEMO
+T8	protein 516 527	CD40 ligand
+T9	protein 530 535	CD40L
+T10	protein 576 591	NF-kappaB alpha
+T11	protein 594 607	IkappaB-alpha
+T12	cell_type 655 662	B cells
+T13	cell_type 752 776	antigen-presenting cells
+T14	cell_type 779 783	APCs
+T15	protein 815 844	NF-kappaB-regulated cytokines
+T16	protein 845 859	interleukin 12
+T17	protein 862 867	IL-12
+T18	protein 873 900	tumor necrosis factor alpha
+T19	protein 903 912	TNF-alpha
+T20	protein 936 941	CD40L
+T21	cell_type 1015 1019	APCs
+T22	protein 1091 1129	Staphylococcus aureus Cowan 's antigen
+T23	protein 1132 1135	SAC
+T24	protein 1207 1234	putative zinc-finger domain
+T25	protein 1238 1242	NEMO
+T26	protein 1314 1318	CD40
+T27	cell_type 1354 1360	B cell

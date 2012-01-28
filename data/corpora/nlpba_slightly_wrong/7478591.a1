@@ -1,0 +1,17 @@
+T1	DNA 11 20	BCL6 gene
+T2	cell_type 35 56	activated lymphocytes
+T3	DNA 63 83	immediate early gene
+T4	DNA 126 130	3q27
+T5	cell_type 152 174	human B-cell lymphomas
+T6	DNA 240 249	BCL6 gene
+T7	DNA 340 366	murine BCL6 ( mBCL6 ) cDNA
+T8	DNA 376 395	muscle cDNA library
+T9	DNA 406 431	human BCL6 ( hBCL6 ) cDNA
+T10	protein 509 514	hBCL6
+T11	protein 548 578	Kruppel-like zinc-finger motif
+T12	protein 621 626	hBCL6
+T13	DNA 649 658	BCL6 gene
+T14	DNA 721 731	mBCL6 gene
+T15	cell_type 842 853	lymphocytes
+T16	protein 1075 1079	BCL6
+T17	cell_type 1096 1117	activated lymphocytes

@@ -1,0 +1,24 @@
+T1	protein 25 48	Drosophila Toll protein
+T2	protein 177 201	co-stimulatory molecules
+T3	protein 206 215	cytokines
+T4	cell_type 219 243	antigen-presenting cells
+T5	protein 605 620	human homologue
+T6	protein 628 651	Drosophila toll protein
+T7	protein 654 658	Toll
+T8	protein 757 761	Toll
+T9	protein 764 774	human Toll
+T10	protein 854 888	leucine-rich repeat ( LRR ) domain
+T11	protein 934 952	cytoplasmic domain
+T12	protein 960 996	human interleukin ( IL ) -1 receptor
+T13	protein 1015 1019	Toll
+T14	protein 1074 1083	NF-kappaB
+T15	protein 1141 1151	human Toll
+T16	protein 1215 1224	NF-kappaB
+T17	DNA 1247 1273	NF-kappaB-controlled genes
+T18	protein 1282 1304	inflammatory cytokines
+T19	protein 1305 1309	IL-1
+T20	protein 1312 1316	IL-6
+T21	protein 1321 1325	IL-8
+T22	protein 1361 1384	co-stimulatory molecule
+T23	protein 1385 1389	B7.1
+T24	cell_type 1432 1445	naive T cells

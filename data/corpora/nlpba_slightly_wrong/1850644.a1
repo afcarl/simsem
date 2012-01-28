@@ -1,0 +1,18 @@
+T1	protein 2 19	Estrogen receptor
+T2	cell_type 31 59	peripheral blood lymphocytes
+T3	cell_type 122 133	lymphocytes
+T4	protein 250 252	ER
+T5	cell_type 264 275	lymphocytes
+T6	protein 324 352	lymphocyte cytosolic protein
+T7	DNA 376 390	lymphocyte DNA
+T8	protein 465 467	ER
+T9	cell_type 479 490	lymphocytes
+T10	protein 571 573	ER
+T11	cell_type 585 596	lymphocytes
+T12	protein 623 640	cytosolic protein
+T13	protein 890 892	ER
+T14	cell_type 904 915	lymphocytes
+T15	protein 989 991	ER
+T16	cell_type 1003 1014	lymphocytes
+T17	protein 1208 1210	ER
+T18	protein 1259 1277	antidsDNA antibody

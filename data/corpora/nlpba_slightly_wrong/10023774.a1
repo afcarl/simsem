@@ -1,0 +1,23 @@
+T1	protein 0 7	RFLAT-1
+T2	protein 16 48	zinc finger transcription factor
+T3	DNA 64 75	RANTES gene
+T4	cell_type 90 103	T lymphocytes
+T5	protein 106 112	RANTES
+T6	protein 115 179	Regulated upon Activation , Normal T cell Expressed and Secreted
+T7	protein 187 211	chemoattractant cytokine
+T8	protein 214 223	chemokine
+T9	cell_type 325 337	immune cells
+T10	protein 340 346	RANTES
+T11	cell_type 398 411	T lymphocytes
+T12	protein 476 520	T lymphocyte associated transcription factor
+T13	protein 537 584	RANTES Factor of Late Activated T Lymphocytes-1
+T14	protein 590 597	RFLAT-1
+T15	protein 602 609	RFLAT-1
+T16	protein 640 672	zinc finger transcription factor
+T17	cell_type 694 701	T cells
+T18	protein 744 750	RANTES
+T19	protein 770 782	Rel proteins
+T20	DNA 809 820	RANTES gene
+T21	protein 849 856	RFLAT-1
+T22	protein 888 894	RANTES
+T23	cell_type 898 905	T cells

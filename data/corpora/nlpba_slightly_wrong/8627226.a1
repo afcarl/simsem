@@ -1,0 +1,22 @@
+T1	protein 0 82	Epstein-Barr virus nuclear antigen 2 ( EBNA2 ) -oestrogen receptor fusion proteins
+T2	cell_type 167 182	primary B cells
+T3	cell_line 206 233	human B cell lymphoma lines
+T4	DNA 290 341	Epstein-Barr virus nuclear antigen 2 ( EBNA2 ) gene
+T5	protein 357 379	hormone binding domain
+T6	protein 413 428	N or C terminus
+T7	protein 432 437	EBNA2
+T8	protein 531 536	EBNA2
+T9	protein 573 588	wild-type EBNA2
+T10	DNA 737 755	P3HR1 virus genome
+T11	DNA 762 778	mini-EBV plasmid
+T12	DNA 801 811	EBNA2 gene
+T13	protein 852 857	EBNA2
+T14	cell_line 896 935	established human B cell lymphoma lines
+T15	cell_line 1067 1091	stably transfected cells
+T16	protein 1155 1172	chimeric proteins
+T17	cell_line 1249 1270	B cell lymphoma lines
+T18	protein 1294 1299	EBNA2
+T19	protein 1429 1468	EBNA2-oestrogen receptor fusion protein
+T20	cell_line 1472 1493	B cell lymphoma lines
+T21	protein 1545 1561	chimeric protein
+T22	cell_line 1638 1648	cell lines

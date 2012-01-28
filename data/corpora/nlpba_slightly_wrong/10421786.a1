@@ -1,0 +1,32 @@
+T1	protein 14 19	STAT5
+T2	protein 23 27	IL-4
+T3	protein 38 50	Janus kinase
+T4	protein 227 232	STAT5
+T5	protein 256 275	human IL-4 receptor
+T6	protein 278 283	IL-4R
+T7	protein 315 331	receptor mutants
+T8	cell_line 339 361	murine pro-B cell line
+T9	cell_line 362 367	Ba/F3
+T10	protein 433 450	IL-4R alpha chain
+T11	protein 471 475	IL-4
+T12	protein 485 490	STAT5
+T13	protein 528 573	membrane-proximal proline-rich sequence motif
+T14	protein 578 582	box1
+T15	protein 612 627	bipartite IL-4R
+T16	protein 690 703	Janus kinases
+T17	protein 704 708	JAK1
+T18	protein 713 717	JAK3
+T19	protein 729 733	IL-4
+T20	protein 759 764	STAT5
+T21	protein 804 829	dominant-negative version
+T22	protein 833 839	STAT5b
+T23	protein 853 859	STAT5a
+T24	protein 878 882	IL-4
+T25	cell_line 909 920	Ba/F3 cells
+T26	protein 952 958	STAT5b
+T27	protein 1004 1009	IL-4R
+T28	protein 1090 1095	STAT5
+T29	protein 1163 1167	IL-4
+T30	protein 1184 1190	STAT5a
+T31	protein 1195 1201	STAT5b
+T32	protein 1220 1224	IL-4

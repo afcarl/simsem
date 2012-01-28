@@ -1,0 +1,36 @@
+T1	protein 14 31	interleukin-1beta
+T2	protein 89 104	latent proteins
+T3	protein 132 135	RBP
+T4	cell_type 173 180	B cells
+T5	cell_line 213 251	immortalised lymphoblastoid cell lines
+T6	cell_line 254 258	LCLs
+T7	protein 332 349	interleukin-1beta
+T8	protein 352 360	IL-1beta
+T9	cell_line 379 383	LCLs
+T10	protein 432 447	latent proteins
+T11	protein 469 477	IL-1beta
+T12	protein 495 503	IL-1beta
+T13	cell_line 536 556	EBV-transformed LCLs
+T14	cell_line 571 618	group III Burkitt 's lymphoma ( BL ) cell lines
+T15	cell_line 635 656	group I BL cell lines
+T16	protein 680 688	IL-1beta
+T17	protein 722 747	latent membrane protein-1
+T18	DNA 750 794	EBV nuclear proteins 2 , 3 , 4 , and 6 genes
+T19	protein 886 894	IL-1beta
+T20	DNA 923 971	nuclear factor-kappaB ( NF-kappaB ) binding site
+T21	DNA 986 1013	functional RBP binding site
+T22	protein 1078 1106	EBV nuclear proteins 3 and 6
+T23	protein 1149 1152	RBP
+T24	DNA 1162 1182	recognition sequence
+T25	cell_line 1267 1283	group I BL cells
+T26	protein 1311 1320	NF-kappaB
+T27	protein 1328 1331	RBP
+T28	protein 1372 1381	NF-kappaB
+T29	cell_line 1415 1443	EBV-transformed B cell lines
+T30	protein 1480 1489	NF-kappaB
+T31	protein 1524 1549	latent membrane protein-1
+T32	protein 1571 1580	NF-kappaB
+T33	DNA 1613 1630	IL-1beta promoter
+T34	protein 1681 1689	IL-1beta
+T35	protein 1721 1724	RBP
+T36	protein 1727 1736	NF-kappaB

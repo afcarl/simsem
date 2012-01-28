@@ -1,0 +1,30 @@
+T1	DNA 16 26	novel gene
+T2	DNA 30 34	3q21
+T3	DNA 92 124	ecotropic viral insertion site I
+T4	DNA 160 170	novel gene
+T5	DNA 173 176	GR6
+T6	DNA 228 232	3q21
+T7	DNA 325 328	GR6
+T8	cell_line 349 368	UCSD-AML1 cell line
+T9	cell_line 378 393	leukemic sample
+T10	DNA 418 443	t ( 3 ; 3 ) ( q21 ; q26 )
+T11	cell_line 449 458	UCSD-AML1
+T12	RNA 485 503	fusion transcripts
+T13	DNA 516 562	ecotropic viral insertion site I ( EVI1 ) gene
+T14	DNA 566 570	3q26
+T15	DNA 575 578	GR6
+T16	DNA 591 595	EVI1
+T17	DNA 600 612	Ribophorin I
+T18	DNA 642 645	GR6
+T19	DNA 649 653	3q21
+T20	DNA 679 687	5 ' ends
+T21	DNA 695 705	3q21 genes
+T22	DNA 711 717	exon 2
+T23	DNA 725 729	EVI1
+T24	DNA 799 808	MDS1-EVI1
+T25	DNA 859 874	th t ( 3 ; 21 )
+T26	DNA 879 891	t ( 3 ; 12 )
+T27	DNA 909 944	myelogenous leukemia 1-EVI1 fusions
+T28	DNA 949 966	ETV6-EVI1 fusions
+T29	DNA 996 1020	Ribophorin I-EVI1 fusion
+T30	DNA 1065 1076	t ( 3 ; 3 )

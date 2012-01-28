@@ -1,0 +1,37 @@
+T1	DNA 0 41	Human interferon regulatory factor 2 gene
+T2	DNA 96 114	5'-flanking region
+T3	protein 117 147	Interferon regulatory factor 2
+T4	protein 150 155	IRF-2
+T5	protein 163 197	transcriptional regulatory protein
+T6	protein 214 229	interferon beta
+T7	protein 254 284	interferon regulatory factor 1
+T8	DNA 319 330	genomic DNA
+T9	DNA 335 351	human IRF-2 gene
+T10	DNA 398 414	human IRF-2 gene
+T11	DNA 428 463	major transcription initiation site
+T12	DNA 526 544	5'-flanking region
+T13	DNA 565 575	IRF-2 gene
+T14	DNA 579 597	human chromosome 4
+T15	protein 604 609	IRF-2
+T16	DNA 610 625	promoter region
+T17	DNA 663 671	GC boxes
+T18	DNA 685 708	NF-kappa B-binding site
+T19	DNA 717 725	CAAT box
+T20	DNA 735 743	TATA box
+T21	DNA 755 770	promoter region
+T22	DNA 789 815	heterologous reporter gene
+T23	DNA 836 851	promoter region
+T24	protein 873 884	interferons
+T25	protein 887 914	interferon-alpha and -gamma
+T26	protein 921 951	interferon regulatory factor 1
+T27	DNA 1032 1050	40 nucleotides 5 '
+T28	DNA 1058 1095	major transcriptional initiation site
+T29	DNA 1131 1149	truncated promoter
+T30	protein 1153 1158	IRF-2
+T31	DNA 1217 1242	transcriptional enhancers
+T32	protein 1268 1298	interferon regulatory factor 1
+T33	protein 1301 1316	interferon beta
+T34	DNA 1323 1349	interferon-inducible genes
+T35	protein 1376 1406	interferon regulatory factor 1
+T36	protein 1447 1457	interferon
+T37	protein 1590 1595	IRF-2

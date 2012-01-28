@@ -1,0 +1,20 @@
+T1	protein 0 26	Adenovirus E1B 19K protein
+T2	cell_line 72 82	U937 cells
+T3	DNA 89 112	adenovirus E1B 19K gene
+T4	cell_type 158 178	primary rodent cells
+T5	protein 199 202	E1A
+T6	protein 291 306	E1B 19K protein
+T7	cell_line 353 369	human cell lines
+T8	cell_line 380 384	HeLa
+T9	cell_line 389 391	KB
+T10	protein 420 427	E1B 19K
+T11	cell_line 485 503	monocyte cell line
+T12	cell_line 506 510	U937
+T13	cell_line 588 598	U937 cells
+T14	protein 613 620	E1B 19K
+T15	cell_line 715 749	wild-type and dl337-infected cells
+T16	protein 848 851	E1A
+T17	DNA 935 952	E1B mutant genome
+T18	protein 1059 1066	E1B 19K
+T19	cell_line 1118 1128	U937 cells
+T20	cell_line 1184 1202	monocyte cell line

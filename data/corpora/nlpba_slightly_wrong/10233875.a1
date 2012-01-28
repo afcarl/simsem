@@ -1,0 +1,31 @@
+T1	protein 0 9	NF-kappaB
+T2	DNA 37 67	C5a-induced interleukin-8 gene
+T3	cell_type 82 99	mononuclear cells
+T4	protein 154 167	interleukin-8
+T5	protein 170 174	IL-8
+T6	cell_type 192 226	peripheral blood mononuclear cells
+T7	cell_type 229 233	PBMC
+T8	protein 310 314	IL-8
+T9	cell_type 367 385	unstimulated cells
+T10	protein 399 403	IL-8
+T11	RNA 449 458	IL-8 mRNA
+T12	protein 505 511	kappaB
+T13	protein 553 557	AP-1
+T14	protein 566 573	NF-IL-6
+T15	cell_line 616 635	C5a-stimulated PBMC
+T16	protein 753 757	IL-8
+T17	protein 796 802	kappaB
+T18	protein 824 828	IL-8
+T19	cell_line 865 890	RAW264.7 macrophage cells
+T20	DNA 928 943	kappaB sequence
+T21	protein 949 961	IkappaBalpha
+T22	DNA 966 987	IL-8 promoter regions
+T23	DNA 1002 1015	reporter gene
+T24	DNA 1075 1087	kappaB sites
+T25	DNA 1113 1153	dominant negative IkappaBalpha construct
+T26	protein 1245 1256	Gi proteins
+T27	protein 1280 1292	C5a receptor
+T28	protein 1338 1342	IL-8
+T29	cell_line 1415 1429	RAW264.7 cells
+T30	protein 1459 1468	NF-kappaB
+T31	protein 1508 1512	IL-8

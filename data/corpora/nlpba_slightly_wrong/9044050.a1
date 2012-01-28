@@ -1,0 +1,22 @@
+T1	cell_line 81 111	U-937 human promonocytic cells
+T2	cell_line 243 276	subsequent proliferation activity
+T3	protein 316 339	differentiation markers
+T4	protein 386 417	stress-responsive HSP70 protein
+T5	cell_line 421 451	U-937 human promonocytic cells
+T6	protein 532 561	intermediate filament protein
+T7	protein 562 570	vimentin
+T8	protein 662 667	actin
+T9	protein 672 684	beta-tubulin
+T10	RNA 732 745	vimentin mRNA
+T11	protein 811 819	vimentin
+T12	DNA 944 949	c-jun
+T13	DNA 954 959	c-fos
+T14	protein 975 979	AP-1
+T15	DNA 1031 1044	protooncogene
+T16	protein 1126 1134	vimentin
+T17	protein 1166 1170	AP-1
+T18	RNA 1262 1275	vimentin mRNA
+T19	cell_line 1327 1361	heat- and cadmium-pretreated cells
+T20	cell_type 1379 1394	untreated cells
+T21	protein 1464 1472	vimentin
+T22	cell_type 1483 1501	promonocytic cells

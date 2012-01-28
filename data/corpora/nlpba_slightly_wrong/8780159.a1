@@ -1,0 +1,57 @@
+T1	protein 11 60	T-cell- and B-cell-specific transcription factors
+T2	protein 61 66	TCF-1
+T3	protein 69 75	GATA-3
+T4	protein 82 86	BSAP
+T5	cell_line 90 121	Hodgkin 's Reed-Sternberg cells
+T6	DNA 149 202	T cell receptor-beta ( TcR-beta ) gene rearrangements
+T7	cell_line 206 227	L428 and HDLM-1 cells
+T8	protein 248 251	CD2
+T9	cell_line 255 267	HDLM-1 cells
+T10	DNA 290 343	immunoglobulin heavy-chain ( IgH ) gene rearrangement
+T11	cell_line 347 358	KM-H2 cells
+T12	cell_line 404 424	long-term cell lines
+T13	cell_line 532 542	cell lines
+T14	cell_line 600 610	H-RS cells
+T15	protein 653 669	lymphoid markers
+T16	DNA 674 700	Ig/TcR gene rearrangements
+T17	protein 778 794	lymphoid markers
+T18	cell_line 846 856	H-RS cells
+T19	cell_type 923 934	tumor cells
+T20	protein 987 1024	T-cell-specific transcription factors
+T21	protein 1027 1032	TCF-1
+T22	protein 1037 1043	GATA-3
+T23	protein 1054 1090	B-cell-specific transcription factor
+T24	protein 1093 1097	BSAP
+T25	cell_line 1103 1122	cultured H-RS cells
+T26	cell_line 1228 1240	cell lineage
+T27	cell_line 1284 1320	cultured human and murine cell lines
+T28	cell_line 1342 1357	H-RS cell lines
+T29	protein 1389 1393	BSAP
+T30	protein 1396 1401	TCF-1
+T31	protein 1408 1414	GATA-3
+T32	protein 1432 1438	GATA-3
+T33	cell_line 1456 1466	H-RS cells
+T34	cell_line 1532 1544	B-cell lines
+T35	cell_line 1574 1592	myeloma cell lines
+T36	protein 1612 1616	BSAP
+T37	protein 1632 1652	transcription factor
+T38	DNA 1657 1666	promoters
+T39	protein 1679 1693	B-cell markers
+T40	protein 1706 1712	VpreB1
+T41	protein 1715 1723	lambda 5
+T42	protein 1726 1730	CD19
+T43	protein 1737 1741	CD20
+T44	cell_line 1748 1760	T-cell lines
+T45	protein 1786 1791	TCF-1
+T46	protein 1796 1802	GATA-3
+T47	protein 1819 1840	transcription factors
+T48	protein 1867 1892	T-cell-restricted markers
+T49	protein 1905 1908	CD2
+T50	protein 1911 1914	CD3
+T51	protein 1917 1920	TcR
+T52	protein 1927 1930	lck
+T53	protein 1948 1952	BSAP
+T54	protein 1955 1960	TCF-1
+T55	protein 1967 1973	GATA-3
+T56	cell_line 2025 2035	H-RS cells
+T57	cell_type 2040 2054	lymphoid cells

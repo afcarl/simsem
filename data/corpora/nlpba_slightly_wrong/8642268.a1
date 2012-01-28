@@ -1,0 +1,10 @@
+T1	DNA 0 17	HLA-DQB1 codon 57
+T2	DNA 96 110	HLA-DQ alleles
+T3	DNA 178 193	HLA-DQ sequence
+T4	protein 406 427	salt bridge structure
+T5	protein 446 467	peptide-binding cleft
+T6	protein 704 721	class II molecule
+T7	protein 1156 1191	DQ3.3 Asp-57-positive MHC molecules
+T8	protein 1270 1294	class II-peptide complex
+T9	protein 1386 1407	DQ3.2-peptide complex
+T10	cell_line 1427 1439	T cell clone

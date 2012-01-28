@@ -1,0 +1,28 @@
+T1	DNA 4 36	human prointerleukin 1 beta gene
+T2	DNA 92 116	transcription start site
+T3	DNA 187 200	DNA sequences
+T4	DNA 283 332	human prointerleukin 1 beta ( proIL-1 beta ) gene
+T5	DNA 337 414	cell-type-independent lipopolysaccharide ( LPS ) -responsive enhancer element
+T6	DNA 431 458	-3757 and -2729 bp upstream
+T7	DNA 468 492	transcription start site
+T8	DNA 495 503	cap site
+T9	cell_line 608 629	transfected monocytes
+T10	cell_type 709 718	monocytes
+T11	protein 723 727	IL-1
+T12	cell_type 746 757	fibroblasts
+T13	DNA 903 928	protein binding sequences
+T14	protein 1091 1103	C/EBP family
+T15	protein 1107 1128	transcription factors
+T16	protein 1147 1151	IL-1
+T17	DNA 1187 1196	IL-6 gene
+T18	DNA 1210 1225	NF-IL6 proteins
+T19	DNA 1250 1271	proIL-1 beta cap site
+T20	DNA 1272 1288	-proximal region
+T21	DNA 1332 1386	proIL-1 beta and the simian virus 40 enhancer elements
+T22	cell_type 1418 1427	monocytes
+T23	cell_type 1436 1446	HeLa cells
+T24	protein 1486 1495	IL-1 beta
+T25	DNA 1529 1550	murine c-fos promoter
+T26	DNA 1567 1588	proIL-1 beta enhancer
+T27	cell_line 1606 1653	phorbol myristate acetate-stimulated HeLa cells
+T28	protein 1686 1698	proIL-1 beta

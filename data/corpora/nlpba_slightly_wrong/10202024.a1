@@ -1,0 +1,26 @@
+T1	cell_type 33 48	human monocytes
+T2	cell_type 276 291	human monocytes
+T3	cell_type 351 373	immunoregulatory genes
+T4	protein 376 384	IL-1beta
+T5	protein 387 390	A20
+T6	protein 393 411	NF-kappaB-p105/p50
+T7	protein 418 430	IkappaBalpha
+T8	cell_type 448 457	monocytes
+T9	protein 467 483	neutralizing Abs
+T10	protein 497 515	HCMV glycoproteins
+T11	protein 518 520	gB
+T12	protein 523 527	UL55
+T13	protein 534 536	gH
+T14	protein 539 543	UL75
+T15	protein 832 841	cytokines
+T16	cell_type 884 893	monocytes
+T17	protein 936 952	IL-1beta protein
+T18	DNA 996 1011	NF-kappaB sites
+T19	DNA 1021 1037	promoter regions
+T20	protein 1103 1112	NF-kappaB
+T21	protein 1164 1173	NF-kappaB
+T22	protein 1276 1288	IkappaBalpha
+T23	protein 1327 1336	NF-kappaB
+T24	protein 1383 1386	p38
+T25	protein 1428 1436	IL-1beta
+T26	cell_type 1690 1699	monocytes

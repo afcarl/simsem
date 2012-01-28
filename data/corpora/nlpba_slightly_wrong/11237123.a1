@@ -1,0 +1,18 @@
+T1	cell_type 19 38	human lupus T cells
+T2	protein 54 80	estrogen receptor proteins
+T3	protein 99 124	estrogen response element
+T4	protein 146 163	estrogen receptor
+T5	protein 166 173	ERalpha
+T6	protein 176 182	ERbeta
+T7	cell_type 214 236	SLE and normal T cells
+T8	protein 360 371	ER proteins
+T9	DNA 398 429	human estrogen response element
+T10	DNA 432 436	hERE
+T11	cell_type 487 511	peripheral blood T cells
+T12	protein 687 708	protein-ERE complexes
+T13	cell_type 748 755	T cells
+T14	protein 923 946	anti-ERalpha antibodies
+T15	protein 1009 1029	ERE-binding proteins
+T16	cell_type 1113 1136	activated human T cells
+T17	protein 1209 1225	ERalpha proteins
+T18	cell_type 1293 1306	lupus T cells

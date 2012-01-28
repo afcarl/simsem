@@ -1,0 +1,42 @@
+T1	protein 22 38	CD43/leukosialin
+T2	cell_type 83 111	human T-lymphoblastoid cells
+T3	protein 118 137	monoclonal antibody
+T4	protein 140 143	mAb
+T5	protein 146 150	J393
+T6	cell_line 172 186	Jurkat T-cells
+T7	protein 189 192	NH2
+T8	protein 247 270	140-kDa surface antigen
+T9	protein 275 283	mAb J393
+T10	protein 287 303	CD43/leukosialin
+T11	protein 316 333	sialoglycoprotein
+T12	cell_type 337 347	leukocytes
+T13	cell_line 356 368	Jurkat cells
+T14	protein 395 416	cell-surface isoforms
+T15	protein 420 424	CD43
+T16	protein 441 449	mAb J393
+T17	protein 454 463	mAb G10-2
+T18	protein 486 495	J393/CD43
+T19	protein 517 526	J393/CD43
+T20	protein 624 634	G10-2/CD43
+T21	protein 728 736	mAb J393
+T22	cell_line 759 774	cell population
+T23	protein 820 835	CD3.TcR complex
+T24	protein 843 852	integrins
+T25	protein 853 857	CD18
+T26	protein 862 866	CD29
+T27	cell_line 920 932	Jurkat cells
+T28	protein 938 946	mAb J393
+T29	protein 992 1010	protein substrates
+T30	protein 1052 1068	antigen receptor
+T31	protein 1085 1100	Tyrosine kinase
+T32	protein 1139 1148	J393/CD43
+T33	protein 1193 1220	phosphotyrosine phosphatase
+T34	protein 1390 1394	CD43
+T35	protein 1458 1492	transcriptional regulatory protein
+T36	protein 1493 1502	NF-kappaB
+T37	DNA 1528 1567	interferon-inducible regulatory element
+T38	cell_type 1576 1606	peripheral blood T-lymphocytes
+T39	protein 1615 1631	cryptic epitopes
+T40	protein 1636 1644	mAb J393
+T41	protein 1711 1715	CD43
+T42	cell_type 1760 1781	human T-cell lineages

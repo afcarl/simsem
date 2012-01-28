@@ -1,0 +1,26 @@
+T1	protein 83 133	in vitro synthesized human glucocorticoid receptor
+T2	protein 216 245	human glucocorticoid receptor
+T3	protein 248 251	hGR
+T4	protein 313 336	In vitro translated hGR
+T5	protein 364 374	native hGR
+T6	protein 517 539	antipeptide antibodies
+T7	protein 558 561	hGR
+T8	protein 578 603	cell-free synthesized hGR
+T9	DNA 639 704	glucocorticoid response element ( GRE ) -containing DNA fragments
+T10	protein 831 855	glucocorticoid receptors
+T11	protein 858 881	In vitro translated hGR
+T12	protein 1313 1333	unliganded receptors
+T13	protein 1468 1491	in vitro synthesized GR
+T14	protein 1694 1710	receptor complex
+T15	protein 1788 1813	cell-free synthesized hGR
+T16	DNA 1865 1877	various DNAs
+T17	DNA 1926 1929	GRE
+T18	DNA 1943 1989	mouse mammary tumor virus-long terminal repeat
+T19	DNA 2024 2037	consensus GRE
+T20	DNA 2101 2121	regulatory sequences
+T21	DNA 2127 2159	glucocorticoid-repressible genes
+T22	DNA 2256 2302	mouse mammary tumor virus-long terminal repeat
+T23	protein 2424 2427	hGR
+T24	DNA 2520 2523	GRE
+T25	protein 2561 2584	glucocorticoid receptor
+T26	cell_type 2618 2633	mammalian cells

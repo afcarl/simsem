@@ -1,0 +1,21 @@
+T1	protein 72 99	retinoblastoma gene product
+T2	cell_line 103 121	promonocytic cells
+T3	protein 149 176	retinoblastoma gene product
+T4	protein 179 182	pRB
+T5	protein 329 332	pRB
+T6	protein 396 399	tTG
+T7	protein 572 575	pRB
+T8	cell_line 608 618	U937 cells
+T9	cell_line 701 711	U937 cells
+T10	protein 804 807	pRB
+T11	protein 951 954	pRB
+T12	cell_line 1053 1063	U937 cells
+T13	protein 1150 1153	pRB
+T14	protein 1238 1243	E2F-1
+T15	cell_line 1287 1302	pRB-null clones
+T16	cell_line 1308 1318	U937 cells
+T17	protein 1343 1346	pRB
+T18	cell_line 1356 1375	U937-derived clones
+T19	cell_line 1390 1404	p53-null cells
+T20	protein 1536 1539	tTG
+T21	protein 1556 1567	pRB protein

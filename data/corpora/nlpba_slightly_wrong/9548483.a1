@@ -1,0 +1,27 @@
+T1	cell_line 36 50	Jurkat T cells
+T2	protein 59 63	IL-2
+T3	protein 88 102	AP-1 complexes
+T4	DNA 123 158	NF-AT/AP-1-binding promoter element
+T5	protein 243 276	delta- and kappa-opioid receptors
+T6	cell_type 280 315	thymic and peripheral T lymphocytes
+T7	cell_line 516 527	T cell line
+T8	protein 543 571	cloned delta-opioid receptor
+T9	protein 574 578	DOR1
+T10	protein 583 587	DOR1
+T11	protein 611 615	DOR1
+T12	protein 649 653	IL-2
+T13	protein 697 704	TCR-CD3
+T14	protein 709 713	CD28
+T15	DNA 791 825	AP-1- and NF-AT/AP-1-binding sites
+T16	DNA 833 846	IL-2 promoter
+T17	protein 858 862	DOR1
+T18	DNA 948 971	NF-AT/AP-1-binding site
+T19	protein 1003 1014	calcineurin
+T20	protein 1112 1147	AP-1 transcription factor complexes
+T21	protein 1166 1170	DOR1
+T22	protein 1180 1184	IL-2
+T23	protein 1213 1227	AP-1 component
+T24	protein 1235 1266	NF-AT/AP-1 transcription factor
+T25	cell_type 1340 1351	lymphocytes
+T26	protein 1398 1402	IL-2
+T27	protein 1471 1475	AP-1

@@ -1,0 +1,25 @@
+T1	DNA 14 19	v-src
+T2	cell_type 23 30	T cells
+T3	protein 69 79	NF-kappa B
+T4	protein 82 92	NF-kappa B
+T5	DNA 116 141	transcriptional activator
+T6	protein 266 282	tyrosine kinases
+T7	protein 305 334	cytokine and immune receptors
+T8	protein 407 426	signaling molecules
+T9	DNA 453 458	v-src
+T10	protein 510 533	kappa B binding complex
+T11	DNA 662 675	kappa B sites
+T12	protein 710 725	tyrosine kinase
+T13	protein 757 778	v-src-induced complex
+T14	protein 793 796	p50
+T15	protein 801 804	p65
+T16	protein 819 829	NF-kappa B
+T17	DNA 959 988	HIV-1 LTR reporter constructs
+T18	cell_line 1004 1015	T cell line
+T19	DNA 1034 1039	v-src
+T20	protein 1055 1063	promoter
+T21	DNA 1133 1142	HIV-1 LTR
+T22	DNA 1146 1151	v-src
+T23	DNA 1227 1242	kappa B element
+T24	protein 1266 1281	T cell receptor
+T25	DNA 1296 1306	HIV-1 gene

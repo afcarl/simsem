@@ -1,0 +1,33 @@
+T1	protein 10 23	interleukin 2
+T2	cell_type 41 59	murine lymphocytes
+T3	protein 165 178	interleukin 2
+T4	protein 181 185	IL-2
+T5	protein 192 208	interferon-gamma
+T6	protein 211 220	IFN-gamma
+T7	cell_type 237 271	human peripheral blood lymphocytes
+T8	protein 322 326	IL-2
+T9	RNA 331 340	IL-2 mRNA
+T10	protein 389 404	T cell mitogens
+T11	protein 408 420	alloantigens
+T12	cell_type 423 441	murine splenocytes
+T13	cell_line 464 487	murine T cell line EL-4
+T14	cell_type 620 637	human lymphocytes
+T15	protein 640 649	IFN-gamma
+T16	RNA 679 693	IFN-gamma mRNA
+T17	cell_type 784 802	murine splenocytes
+T18	cell_type 847 857	EL-4 cells
+T19	DNA 905 918	IL-2 promoter
+T20	DNA 923 938	enhancer region
+T21	DNA 953 1008	chloramphenicol acetyltransferase ( CAT ) reporter gene
+T22	protein 1023 1026	CAT
+T23	cell_type 1101 1111	EL-4 cells
+T24	cell_type 1199 1216	activated T cells
+T25	protein 1219 1225	NFAT-1
+T26	protein 1304 1333	nuclear transcription factors
+T27	protein 1334 1338	AP-1
+T28	protein 1342 1349	NFIL-2A
+T29	protein 1385 1394	IFN-gamma
+T30	protein 1420 1424	IL-2
+T31	cell_type 1439 1457	murine lymphocytes
+T32	protein 1482 1488	NFAT-1
+T33	protein 1514 1518	IL-2

@@ -1,0 +1,20 @@
+T1	protein 10 38	glucocorticoid receptor beta
+T2	cell_type 42 54	airway cells
+T3	RNA 318 346	GC receptor ( GCR ) pre-mRNA
+T4	protein 366 369	GCR
+T5	protein 379 386	GCRbeta
+T6	protein 472 475	GCR
+T7	protein 507 514	GCRbeta
+T8	cell_type 564 600	Bronchoalveolar lavage ( BAL ) cells
+T9	cell_type 622 639	mononuclear cells
+T10	cell_type 642 646	PBMC
+T11	protein 667 674	GCRbeta
+T12	protein 700 725	GCRbeta-specific antibody
+T13	protein 781 788	GCRbeta
+T14	cell_type 935 963	GCRbeta-immunoreactive cells
+T15	protein 1070 1077	GCRbeta
+T16	cell_type 1146 1153	T cells
+T17	protein 1262 1269	GCRbeta
+T18	cell_type 1377 1393	GCRbeta-positive
+T19	protein 1554 1561	GCRbeta
+T20	cell_type 1572 1579	T cells

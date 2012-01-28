@@ -1,0 +1,42 @@
+T1	DNA 36 72	tumor necrosis factor-alpha promoter
+T2	cell_type 76 97	human monocytic cells
+T3	protein 114 119	Egr-1
+T4	protein 122 127	c-Jun
+T5	protein 134 143	NF-kappaB
+T6	protein 144 165	transcription factors
+T7	protein 184 211	tumor necrosis factor-alpha
+T8	protein 214 223	TNF-alpha
+T9	cell_type 259 276	monocytic lineage
+T10	DNA 319 349	cis-acting regulatory elements
+T11	DNA 401 425	human TNF-alpha promoter
+T12	cell_type 438 455	monocytic lineage
+T13	cell_line 481 502	monocytic THP-1 cells
+T14	DNA 520 528	plasmids
+T15	DNA 559 577	TNF-alpha promoter
+T16	DNA 588 605	enhancer elements
+T17	DNA 620 642	-182 to -37 base pairs
+T18	DNA 704 718	TNF-alpha gene
+T19	DNA 770 778	region I
+T20	DNA 781 796	-182 to -162 bp
+T21	DNA 824 838	Sp1/Egr-1 site
+T22	DNA 845 854	region II
+T23	DNA 857 868	-119 to -88
+T24	DNA 881 884	CRE
+T25	DNA 889 927	NF-kappaB ( designated kappaB3 ) sites
+T26	cell_line 946 951	THP-1
+T27	protein 954 973	CRE-binding protein
+T28	protein 1001 1016	c-Jun complexes
+T29	DNA 1043 1051	CRE site
+T30	protein 1095 1121	c-Jun-containing complexes
+T31	protein 1185 1200	nuclear factors
+T32	DNA 1208 1231	Egr-1 and kappaB3 sites
+T33	protein 1259 1264	Egr-1
+T34	protein 1269 1276	p50/p65
+T35	DNA 1298 1319	CRE and kappaB3 sites
+T36	DNA 1323 1332	region II
+T37	DNA 1383 1404	heterologous promoter
+T38	DNA 1529 1554	CRE and the kappaB3 sites
+T39	protein 1637 1652	c-Jun complexes
+T40	protein 1657 1664	p50/p65
+T41	DNA 1724 1742	TNF-alpha promoter
+T42	DNA 1807 1837	cis-acting regulatory elements

@@ -1,0 +1,30 @@
+T1	DNA 4 44	Megakaryocyte/Platelet-specific enhancer
+T2	DNA 52 77	alpha2beta1 integrin gene
+T3	DNA 91 100	AP1 sites
+T4	protein 109 141	mitogen-activated protein kinase
+T5	protein 166 186	alpha2beta1 integrin
+T6	cell_type 212 221	platelets
+T7	cell_type 226 240	megakaryocytes
+T8	DNA 320 340	alpha2 integrin gene
+T9	DNA 403 416	core promoter
+T10	DNA 444 452	silencer
+T11	DNA 483 507	megakaryocytic enhancers
+T12	DNA 515 531	distal 5 ' flank
+T13	DNA 559 572	229-bp region
+T14	DNA 580 596	distal 5 ' flank
+T15	DNA 604 624	alpha2 integrin gene
+T16	cell_type 638 675	high-level enhancer activity in cells
+T17	DNA 718 735	AP1 binding sites
+T18	protein 798 817	DNA-protein complex
+T19	protein 848 866	c-fos/c-jun family
+T20	protein 889 892	AP1
+T21	protein 929 961	mitogen-activated protein kinase
+T22	protein 964 968	MAPK
+T23	DNA 1003 1023	alpha2 integrin gene
+T24	protein 1055 1065	MAP kinase
+T25	protein 1113 1126	MAPK kinase 1
+T26	protein 1161 1184	alpha2 integrin subunit
+T27	DNA 1309 1329	alpha2 integrin gene
+T28	protein 1357 1367	MAP kinase
+T29	DNA 1399 1416	AP1 binding sites
+T30	DNA 1424 1448	alpha2 integrin enhancer

@@ -1,0 +1,28 @@
+T1	DNA 0 3	TAR
+T2	protein 36 39	Tat
+T3	protein 121 132	Tat protein
+T4	protein 270 273	Tat
+T5	DNA 391 405	viral promoter
+T6	protein 719 722	Tat
+T7	RNA 739 749	RNA target
+T8	RNA 757 760	TAR
+T9	RNA 763 789	transactivation responsive
+T10	RNA 839 850	HIV-1 mRNAs
+T11	cell_line 995 1012	CNS-derived cells
+T12	protein 1013 1016	Tat
+T13	DNA 1058 1061	TAR
+T14	DNA 1087 1109	Tat-responsive element
+T15	DNA 1139 1153	viral promoter
+T16	cell_line 1162 1186	glial-derived cell lines
+T17	RNA 1228 1231	TAR
+T18	DNA 1255 1281	hybrid promoter constructs
+T19	DNA 1320 1342	Tat-responsive element
+T20	DNA 1380 1406	viral long terminal repeat
+T21	DNA 1409 1412	LTR
+T22	DNA 1444 1458	HIV-1 enhancer
+T23	DNA 1464 1481	NF-kappa B domain
+T24	protein 1516 1526	NF-kappa B
+T25	cell_type 1593 1609	T lymphoid cells
+T26	DNA 1638 1657	TAR-deleted mutants
+T27	cell_type 1710 1721	glial cells
+T28	protein 1775 1792	viral p24 antigen

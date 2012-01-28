@@ -1,0 +1,22 @@
+T1	protein 0 8	Cytokine
+T2	protein 314 318	IL-2
+T3	protein 397 405	cytokine
+T4	cell_type 482 522	human peripheral blood mononuclear cells
+T5	cell_type 525 529	PBMC
+T6	cell_type 579 589	lymphocyte
+T7	protein 677 681	LTB4
+T8	protein 712 721	cytokines
+T9	protein 722 726	IL-2
+T10	protein 729 733	IL-6
+T11	protein 738 747	TNF alpha
+T12	protein 867 876	cytokines
+T13	protein 879 883	IL-2
+T14	protein 887 891	IL-6
+T15	protein 896 900	LTB4
+T16	protein 1212 1222	NF kappa B
+T17	protein 1227 1247	transcription factor
+T18	DNA 1270 1284	cytokine genes
+T19	protein 1310 1320	NF kappa B
+T20	cell_type 1446 1450	PBMC
+T21	protein 1570 1580	NF kappa B
+T22	protein 1610 1618	cytokine

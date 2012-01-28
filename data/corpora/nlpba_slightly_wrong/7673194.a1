@@ -1,0 +1,15 @@
+T1	protein 0 12	Microtubules
+T2	cell_type 128 143	human monocytes
+T3	protein 252 270	vitamin D receptor
+T4	protein 273 276	VDR
+T5	protein 392 410	sterol-VDR complex
+T6	protein 425 437	microtubules
+T7	cell_type 499 511	viable cells
+T8	cell_type 562 577	human monocytes
+T9	RNA 831 850	24-hydroxylase mRNA
+T10	protein 951 955	-VDR
+T11	protein 980 992	microtubules
+T12	protein 1090 1101	microtubule
+T13	cell_type 1128 1136	monocyte
+T14	protein 1197 1239	monocyte mitochondrial 1 alpha-hydroxylase
+T15	protein 1475 1487	microtubules

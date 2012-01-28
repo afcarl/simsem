@@ -1,0 +1,17 @@
+T1	protein 8 14	GATA-1
+T2	cell_type 66 100	erythroid and megakaryocytic cells
+T3	protein 145 151	GATA-1
+T4	protein 262 268	GATA-1
+T5	DNA 346 357	GATA-1 gene
+T6	DNA 376 388	X chromosome
+T7	DNA 521 530	GATA-1.05
+T8	protein 533 539	GATA-1
+T9	cell_type 786 802	Proerythroblasts
+T10	cell_type 807 821	megakaryocytes
+T11	DNA 905 929	neomycin resistance gene
+T12	cell_type 974 982	ES cells
+T13	protein 1059 1068	GATA-1.05
+T14	cell_line 1216 1263	GATA-1.05 mutant hematopoietic progenitor cells
+T15	protein 1469 1475	GATA-1
+T16	cell_type 1531 1556	hematopoietic progenitors
+T17	protein 1633 1639	GATA-1

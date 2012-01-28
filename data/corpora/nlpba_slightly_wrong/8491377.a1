@@ -1,0 +1,28 @@
+T1	protein 43 62	early B-cell factor
+T2	protein 118 137	Early B-cell factor
+T3	protein 140 143	EBF
+T4	protein 228 247	DNA-binding protein
+T5	DNA 291 332	pre-B and B lymphocyte-specific mb-1 gene
+T6	protein 387 390	EBF
+T7	DNA 412 423	cDNA clones
+T8	protein 460 463	EBF
+T9	protein 470 493	recombinant polypeptide
+T10	DNA 538 554	EBF-binding site
+T11	DNA 562 575	mb-1 promoter
+T12	DNA 582 586	cDNA
+T13	cell_line 625 647	pre-B and B-cell lines
+T14	cell_line 709 721	plasmacytoma
+T15	cell_line 724 730	T-cell
+T16	cell_line 737 759	nonlymphoid cell lines
+T17	protein 788 791	EBF
+T18	cell_line 795 824	transfected nonlymphoid cells
+T19	DNA 903 920	EBF-binding sites
+T20	protein 970 973	EBF
+T21	protein 988 1035	amino-terminal cysteine-rich DNA-binding domain
+T22	protein 1081 1102	transcription factors
+T23	protein 1175 1178	EBF
+T24	protein 1235 1244	homodimer
+T25	protein 1270 1306	carboxy-terminal dimerization region
+T26	protein 1378 1398	dimerization domains
+T27	protein 1402 1433	basic-helix-loop-helix proteins
+T28	protein 1471 1474	EBF

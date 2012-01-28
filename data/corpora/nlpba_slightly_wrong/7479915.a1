@@ -1,0 +1,36 @@
+T1	protein 16 30	NF-kappa B/Rel
+T2	protein 35 38	Sp1
+T3	protein 39 60	transcription factors
+T4	cell_type 162 169	T cells
+T5	cell_type 244 251	T cells
+T6	protein 356 376	transcription factor
+T7	protein 377 387	NF-kappa B
+T8	protein 416 449	constitutive transcription factor
+T9	protein 450 453	Sp1
+T10	DNA 467 481	HIV-1 promoter
+T11	cell_type 572 586	memory T cells
+T12	cell_type 618 633	dendritic cells
+T13	cell_type 636 639	DCs
+T14	cell_type 664 679	activated cells
+T15	protein 782 792	NF-kappa B
+T16	protein 797 800	Sp1
+T17	cell_type 841 848	T cells
+T18	cell_type 853 856	DCs
+T19	cell_type 993 1000	T cells
+T20	protein 1013 1023	NF-kappa B
+T21	protein 1036 1039	Sp1
+T22	cell_type 1054 1057	DCs
+T23	protein 1091 1101	NF-kappa B
+T24	protein 1106 1118	Rel proteins
+T25	protein 1161 1165	RelB
+T26	protein 1168 1171	p50
+T27	protein 1178 1181	p65
+T28	cell_type 1194 1197	DCs
+T29	protein 1203 1206	Sp1
+T30	cell_type 1273 1276	DCs
+T31	protein 1295 1305	NF-kappa B
+T32	protein 1310 1313	Sp1
+T33	cell_type 1328 1359	heterologous DC-T-cell syncytia
+T34	cell_type 1494 1497	DCs
+T35	cell_type 1509 1516	T cells
+T36	cell_type 1569 1590	heterologous syncytia

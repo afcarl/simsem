@@ -1,0 +1,36 @@
+T1	DNA 4 12	promoter
+T2	DNA 17 39	5 ' flanking sequences
+T3	DNA 58 66	B29 gene
+T4	DNA 99 123	B-cell-specific B29 gene
+T5	protein 126 129	B29
+T6	protein 132 139	Ig beta
+T7	protein 142 147	CD79b
+T8	protein 205 236	B-cell antigen receptor complex
+T9	protein 239 242	BCR
+T10	cell_type 248 278	human and murine B lymphocytes
+T11	DNA 361 387	human genomic DNA sequence
+T12	protein 404 407	B29
+T13	DNA 408 423	ATG start codon
+T14	DNA 473 481	B29 gene
+T15	DNA 497 515	TATA or a CAAT box
+T16	DNA 550 564	multiple sites
+T17	DNA 595 609	human B29 gene
+T18	DNA 632 645	193-bp region
+T19	DNA 659 679	multiple start sites
+T20	DNA 687 703	minimal promoter
+T21	DNA 751 813	SP1 , ETS , OCT , and IKAROS/LYF-1 transcription factor motifs
+T22	DNA 925 944	murine B29 promoter
+T23	protein 1003 1006	B29
+T24	DNA 1007 1023	minimal promoter
+T25	DNA 1071 1093	B29 conserved sequence
+T26	DNA 1096 1099	BCS
+T27	DNA 1127 1157	human and murine B29 promoters
+T28	protein 1181 1184	B29
+T29	DNA 1236 1239	BCS
+T30	DNA 1280 1292	B29 promoter
+T31	DNA 1339 1342	BCS
+T32	DNA 1385 1422	5 ' negative regulatory DNA sequences
+T33	protein 1454 1457	B29
+T34	DNA 1458 1474	minimal promoter
+T35	DNA 1521 1529	B29 gene
+T36	DNA 1596 1624	negative regulatory elements

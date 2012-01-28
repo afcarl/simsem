@@ -1,0 +1,26 @@
+T1	cell_line 77 103	cultured endothelial cells
+T2	cell_line 215 253	human umbilical vein endothelial cells
+T3	cell_line 256 262	HUVECs
+T4	cell_line 467 484	postanoxic HUVECs
+T5	cell_type 488 505	human neutrophils
+T6	cell_line 629 635	HUVECs
+T7	protein 759 767	catalase
+T8	protein 819 835	xanthine oxidase
+T9	protein 863 889	platelet activating factor
+T10	protein 892 895	PAF
+T11	protein 950 988	Anti-intercellular adhesion molecule-1
+T12	protein 991 997	ICAM-1
+T13	protein 1004 1030	anti-P-selectin antibodies
+T14	protein 1033 1054	monoclonal antibodies
+T15	protein 1057 1061	mAbs
+T16	protein 1158 1164	ICAM-1
+T17	protein 1210 1220	P-selectin
+T18	protein 1272 1291	anti-E-selectin mAb
+T19	protein 1479 1501	nuclear factor-kappa B
+T20	protein 1505 1524	activator protein-1
+T21	DNA 1525 1546	cognate DNA sequences
+T22	protein 1669 1675	ICAM-1
+T23	protein 1678 1688	P-selectin
+T24	protein 1695 1705	E-selectin
+T25	cell_line 1709 1715	HUVECs
+T26	protein 1997 2032	endothelial cell adhesion molecules

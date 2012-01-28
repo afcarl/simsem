@@ -1,0 +1,38 @@
+T1	protein 2 24	thymus-specific member
+T2	protein 32 50	HMG protein family
+T3	DNA 65 103	human T cell receptor C alpha enhancer
+T4	protein 110 152	human T cell-specific transcription factor
+T5	protein 153 164	TCF-1 alpha
+T6	protein 223 238	T cell receptor
+T7	protein 241 244	TCR
+T8	DNA 277 301	pyrimidine-rich elements
+T9	DNA 351 382	T cell-specific control regions
+T10	protein 440 469	DNA affinity-purified protein
+T11	DNA 493 504	cDNA clones
+T12	protein 514 525	TCF-1 alpha
+T13	DNA 532 548	TCF-1 alpha cDNA
+T14	protein 567 587	68-amino-acid domain
+T15	protein 635 654	high-mobility group
+T16	protein 657 660	HMG
+T17	protein 667 698	nonhistone chromosomal proteins
+T18	DNA 715 726	full-length
+T19	DNA 731 749	mutant cDNA clones
+T20	protein 778 794	single HMG motif
+T21	protein 840 862	alpha-helical segments
+T22	protein 922 933	TCF-1 alpha
+T23	RNA 994 1010	TCF-1 alpha mRNA
+T24	cell_line 1062 1084	thymus or T cell lines
+T25	cell_line 1091 1115	immature CEM T cell line
+T26	RNA 1151 1167	TCF-1 alpha mRNA
+T27	protein 1268 1287	TCF-1 alpha protein
+T28	protein 1300 1325	transcriptional activator
+T29	DNA 1333 1357	human TCR alpha enhancer
+T30	cell_line 1361 1383	nonlymphoid cell lines
+T31	protein 1414 1432	endogenous protein
+T32	cell_line 1436 1448	T cell lines
+T33	cell_line 1488 1511	T cell-specific protein
+T34	protein 1552 1563	TCF-1 alpha
+T35	protein 1619 1650	DNA-binding regulatory proteins
+T36	protein 1666 1675	HMG motif
+T37	protein 1692 1732	highly tissue-specific RNA polymerase II
+T38	protein 1733 1753	transcription factor

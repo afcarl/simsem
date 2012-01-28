@@ -1,0 +1,23 @@
+T1	DNA 22 71	human tumor necrosis factor alpha promoter region
+T2	cell_line 75 85	macrophage
+T3	cell_line 88 94	T cell
+T4	cell_line 101 113	B cell lines
+T5	DNA 120 192	1311-base pair human tumor necrosis factor ( TNF ) alpha promoter region
+T6	DNA 210 242	luciferase ( Luc ) reporter gene
+T7	cell_line 299 323	TNF producing cell lines
+T8	cell_line 330 355	U937 macrophage cell line
+T9	cell_line 362 381	MLA 144 T cell line
+T10	cell_line 392 409	729-6 B cell line
+T11	DNA 557 571	5'-truncations
+T12	DNA 662 670	positive
+T13	DNA 708 730	PMA responsive element
+T14	DNA 765 779	-95 and -36 bp
+T15	DNA 796 820	transcription start site
+T16	DNA 851 891	AP-2- and AP-1- like consensus sequences
+T17	DNA 911 915	AP-2
+T18	DNA 920 930	AP-1 sites
+T19	DNA 1015 1027	TNF promoter
+T20	DNA 1059 1077	AP-2 site mutation
+T21	DNA 1106 1115	AP-1 site
+T22	DNA 1218 1246	wild-type promoter construct
+T23	DNA 1255 1283	AP-1/c-jun expression vector

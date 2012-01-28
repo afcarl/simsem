@@ -1,0 +1,29 @@
+T1	protein 0 4	p105
+T2	protein 9 12	p98
+T3	protein 13 31	precursor proteins
+T4	protein 55 65	NF-kappa B
+T5	protein 102 123	Rel/NF-kappa B family
+T6	protein 127 148	transcription factors
+T7	protein 246 266	SWI6/ankyrin repeats
+T8	protein 276 292	carboxyl termini
+T9	protein 295 299	p105
+T10	protein 302 305	p98
+T11	protein 374 377	p65
+T12	protein 380 385	c-Rel
+T13	protein 388 392	RelB
+T14	protein 399 405	Dorsal
+T15	protein 434 438	p105
+T16	protein 443 446	p98
+T17	protein 495 513	I kappa B proteins
+T18	protein 535 555	SWI6/ankyrin repeats
+T19	protein 563 567	p105
+T20	protein 572 575	p98
+T21	protein 623 652	Rel/NF-kappa B family members
+T22	protein 665 668	p65
+T23	protein 673 678	c-Rel
+T24	protein 763 766	p65
+T25	protein 770 775	c-Rel
+T26	protein 889 898	p50/c-Rel
+T27	protein 903 912	p55/c-Rel
+T28	protein 980 990	NF-kappa B
+T29	protein 1072 1081	I kappa B

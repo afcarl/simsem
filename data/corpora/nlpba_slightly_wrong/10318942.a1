@@ -1,0 +1,20 @@
+T1	protein 60 69	NF-kappaB
+T2	protein 158 185	anti-inflammatory mediators
+T3	protein 204 224	transcription factor
+T4	protein 225 234	NF-kappaB
+T5	protein 364 373	NF-kappaB
+T6	protein 404 422	inhibitory subunit
+T7	protein 423 435	IkappaBalpha
+T8	cell_type 533 553	synovial macrophages
+T9	cell_type 556 567	fibroblasts
+T10	cell_type 574 581	T cells
+T11	protein 637 664	tumor necrosis factor alpha
+T12	protein 675 701	pro-inflammatory cytokines
+T13	protein 705 714	NF-kappaB
+T14	protein 782 809	anti-inflammatory mediators
+T15	protein 817 830	IL-10 and -11
+T16	protein 841 865	IL-1 receptor antagonist
+T17	protein 892 904	IkappaBalpha
+T18	protein 948 981	matrix metalloproteinases 1 and 3
+T19	protein 1036 1045	NF-kappaB
+T20	cell_type 1350 1362	normal cells

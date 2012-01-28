@@ -1,0 +1,29 @@
+T1	protein 241 262	transcription factors
+T2	protein 263 267	PU.1
+T3	protein 272 282	C/EBPalpha
+T4	cell_type 339 349	stem cells
+T5	cell_type 353 362	monocytes
+T6	protein 397 401	PU.1
+T7	protein 428 483	macrophage colony-stimulating factor ( M-CSF ) receptor
+T8	cell_type 507 516	monocytes
+T9	protein 527 537	C/EBPalpha
+T10	protein 570 626	granulocyte colony-stimulating factor ( G-CSF ) receptor
+T11	cell_type 647 659	granulocytes
+T12	protein 705 717	oncoproteins
+T13	protein 726 734	AML1/ETO
+T14	protein 737 749	PML/RARalpha
+T15	protein 755 768	activated Ras
+T16	protein 841 849	AML1/ETO
+T17	protein 866 886	transcription factor
+T18	protein 887 897	C/EBPalpha
+T19	protein 908 918	C/EBPalpha
+T20	protein 997 1005	AML1/ETO
+T21	protein 1034 1054	transcription factor
+T22	protein 1055 1059	AML1
+T23	DNA 1091 1114	M-CSF receptor promoter
+T24	protein 1141 1168	PML/RARalpha fusion protein
+T25	protein 1221 1278	nuclear corepressor ( N-CoR ) histone deacetylase complex
+T26	protein 1319 1326	histone
+T27	DNA 1356 1365	chromatin
+T28	protein 1495 1507	oncoproteins
+T29	protein 1554 1575	transcription factors

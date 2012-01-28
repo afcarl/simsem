@@ -1,0 +1,32 @@
+T1	protein 202 233	host-cell transcription factors
+T2	DNA 239 266	cis-regulatory DNA elements
+T3	DNA 278 304	viral long terminal repeat
+T4	DNA 307 310	LTR
+T5	DNA 393 424	transcriptional initiation site
+T6	DNA 432 441	U3 region
+T7	DNA 449 452	LTR
+T8	protein 467 470	Sp1
+T9	protein 475 484	NF-kappaB
+T10	DNA 485 498	binding sites
+T11	DNA 561 590	5'-untranslated leader region
+T12	DNA 593 599	5'-UTR
+T13	DNA 626 650	transcriptional elements
+T14	DNA 659 678	regulatory elements
+T15	protein 757 778	transcription factors
+T16	DNA 909 915	5'-UTR
+T17	DNA 925 938	binding sites
+T18	protein 947 968	transcription factors
+T19	protein 976 985	NF-kappaB
+T20	protein 988 993	NF-AT
+T21	protein 996 999	IRF
+T22	protein 1006 1009	Sp1
+T23	DNA 1031 1044	binding sites
+T24	DNA 1121 1124	LTR
+T25	DNA 1177 1183	5'-UTR
+T26	protein 1215 1225	nucleosome
+T27	DNA 1331 1375	inducible transcription factor binding sites
+T28	DNA 1383 1389	5'-UTR
+T29	DNA 1401 1427	downstream enhancer domain
+T30	DNA 1488 1500	LTR promoter
+T31	protein 1625 1656	host-cell transcription factors
+T32	DNA 1680 1686	5'-UTR

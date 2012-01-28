@@ -1,0 +1,21 @@
+T1	protein 34 56	nuclear factor kappa B
+T2	cell_type 60 89	activated human T lymphocytes
+T3	protein 126 136	NF kappa B
+T4	protein 139 161	nuclear factor kappa B
+T5	cell_type 178 191	T lymphocytes
+T6	protein 272 280	anti-CD3
+T7	protein 323 350	tumor necrosis factor-alpha
+T8	protein 353 362	TNF-alpha
+T9	cell_type 391 404	T lymphocytes
+T10	protein 477 487	NF kappa B
+T11	protein 562 572	NF kappa B
+T12	protein 644 647	p50
+T13	protein 652 655	p65
+T14	protein 709 719	NF kappa B
+T15	cell_type 723 730	T cells
+T16	protein 802 812	NF kappa B
+T17	cell_type 855 862	T cells
+T18	protein 934 944	NF kappa B
+T19	protein 1050 1060	NF kappa B
+T20	cell_type 1074 1081	T cells
+T21	protein 1168 1177	I kappa B

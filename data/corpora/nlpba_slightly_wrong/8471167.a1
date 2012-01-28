@@ -1,0 +1,15 @@
+T1	protein 31 46	fusion proteins
+T2	cell_type 51 69	B-lymphocyte cells
+T3	protein 171 191	recombinant proteins
+T4	cell_type 205 224	human B lymphocytes
+T5	DNA 300 329	Escherichia coli lac operator
+T6	protein 332 347	fusion proteins
+T7	DNA 363 388	DNA-binding lac repressor
+T8	protein 528 545	deoxyribonuclease
+T9	protein 548 553	DNase
+T10	protein 559 584	restriction endonucleases
+T11	protein 630 649	DNA-binding protein
+T12	protein 691 706	fusion proteins
+T13	protein 761 779	beta-galactosidase
+T14	protein 784 804	alkaline phosphatase
+T15	cell_line 956 980	human CD37 B lymphocytes

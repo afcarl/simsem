@@ -1,0 +1,19 @@
+T1	protein 42 47	NF-E1
+T2	protein 50 53	YY1
+T3	DNA 111 130	human DR alpha gene
+T4	DNA 195 222	start site of transcription
+T5	DNA 236 240	exon
+T6	DNA 248 261	DR alpha gene
+T7	DNA 380 396	DNA-binding site
+T8	protein 420 434	nuclear factor
+T9	DNA 501 518	DR alpha promoter
+T10	DNA 576 583	element
+T11	DNA 612 661	DR beta , DP alpha and -beta , and DQ alpha genes
+T12	DNA 697 723	transcriptional start site
+T13	DNA 758 787	DR alpha and DP alpha element
+T14	DNA 818 831	DQ alpha gene
+T15	protein 855 860	NF-E1
+T16	protein 863 866	YY1
+T17	DNA 930 951	Ig kappa 3 ' enhancer
+T18	DNA 960 985	Ig heavy chain mu E1 site
+T19	DNA 1049 1066	MHC class II gene

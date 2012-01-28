@@ -1,0 +1,32 @@
+T1	protein 16 30	LPS antibodies
+T2	cell_type 101 117	Human phagocytes
+T3	protein 164 177	membrane CD14
+T4	protein 180 185	mCD14
+T5	protein 192 220	proinflammatory LPS receptor
+T6	protein 261 273	anti-LPS Abs
+T7	protein 331 336	mCD14
+T8	cell_line 487 543	human CD14-transfected Chinese hamster ovary fibroblasts
+T9	cell_line 546 560	CHO-CD14 cells
+T10	cell_type 567 599	human peripheral blood monocytes
+T11	protein 606 642	core- and O-side chain-specific mAbs
+T12	protein 653 658	mCD14
+T13	protein 726 751	O-side chain-specific mAb
+T14	protein 827 848	complement receptor-1
+T15	protein 851 854	CR1
+T16	cell_line 871 885	CHO-CD14 cells
+T17	protein 904 928	heat-labile serum factor
+T18	protein 939 975	cell-associated recognition molecule
+T19	protein 984 1001	Core-specific mAb
+T20	protein 1012 1017	mCD14
+T21	protein 1124 1129	mCD14
+T22	protein 1171 1184	anti-LPS mAbs
+T23	protein 1188 1193	mCD14
+T24	protein 1249 1282	LPS-induced nuclear factor-kappaB
+T25	protein 1285 1294	NF-kappaB
+T26	protein 1315 1324	TNF-alpha
+T27	cell_line 1338 1352	CHO-CD14 cells
+T28	protein 1414 1419	mCD14
+T29	protein 1471 1487	LPS-specific Abs
+T30	protein 1614 1619	mCD14
+T31	protein 1650 1653	CR1
+T32	protein 1663 1677	cell receptors

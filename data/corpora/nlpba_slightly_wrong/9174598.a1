@@ -1,0 +1,31 @@
+T1	DNA 59 84	interferon-gamma promoter
+T2	cell_type 110 144	CD45RA and CD45R0 T helper subsets
+T3	protein 238 247	IFN-gamma
+T4	cell_type 271 284	T lymphocytes
+T5	protein 404 413	IFN-gamma
+T6	cell_type 423 430	T cells
+T7	DNA 449 473	human IFN-gamma promoter
+T8	cell_line 559 573	Jurkat T cells
+T9	cell_type 578 623	primary CD45RA and CD45R0 CD4+ T cell subsets
+T10	DNA 780 798	IFN-gamma promoter
+T11	cell_type 828 835	T cells
+T12	DNA 892 905	-183 and -196
+T13	cell_line 935 949	Jurkat T cells
+T14	cell_type 954 988	CD45RA and CD45R0 T helper subsets
+T15	protein 1044 1062	phytohemagglutinin
+T16	protein 1070 1073	PHA
+T17	DNA 1143 1160	novel target site
+T18	DNA 1175 1181	C-site
+T19	protein 1372 1397	transcription factor AP-1
+T20	DNA 1416 1422	C-site
+T21	protein 1438 1442	AP-1
+T22	cell_type 1531 1553	primary CD45R0 T cells
+T23	protein 1595 1604	IFN-gamma
+T24	cell_type 1627 1642	primary T cells
+T25	protein 1815 1836	transcription factors
+T26	DNA 1844 1862	IFN-gamma promoter
+T27	protein 1878 1881	PHA
+T28	protein 1893 1902	IFN-gamma
+T29	cell_type 1920 1934	CD45R0 T cells
+T30	protein 1965 1969	AP-1
+T31	DNA 1977 1983	C-site

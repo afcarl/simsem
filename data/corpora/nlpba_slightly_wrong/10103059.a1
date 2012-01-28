@@ -1,0 +1,31 @@
+T1	protein 12 32	transcription factor
+T2	protein 33 36	SP1
+T3	protein 40 48	caspases
+T4	cell_type 73 79	B-cell
+T5	cell_type 187 207	Autoreactive B-cells
+T6	protein 226 234	anti-IgM
+T7	protein 267 280	self-antigens
+T8	cell_type 317 323	B-cell
+T9	protein 401 421	transcription factor
+T10	protein 422 425	SP1
+T11	cell_line 433 470	human Burkitt lymphoma cell line BL60
+T12	protein 478 486	anti-IgM
+T13	protein 578 584	68 kDa
+T14	protein 589 595	45 kDa
+T15	protein 707 731	caspase 3-like proteases
+T16	protein 755 770	recombinant SP1
+T17	protein 774 795	recombinant caspase 3
+T18	protein 798 803	CPP32
+T19	protein 809 818	caspase 7
+T20	protein 821 826	Mch 3
+T21	protein 894 915	Recombinant caspase 6
+T22	protein 918 923	Mch 2
+T23	cell_type 1026 1032	B-cell
+T24	protein 1092 1095	SP1
+T25	protein 1126 1129	SP1
+T26	protein 1356 1359	SP1
+T27	protein 1453 1456	SP1
+T28	protein 1602 1605	SP1
+T29	protein 1710 1730	transcription factor
+T30	protein 1731 1734	SP1
+T31	protein 1790 1814	caspase 3-like proteases

@@ -1,0 +1,26 @@
+T1	protein 4 36	zinc finger transcription factor
+T2	protein 37 42	Egr-1
+T3	cell_type 100 118	macrophage lineage
+T4	DNA 138 149	cDNA clones
+T5	DNA 153 207	myeloid differentiation primary response ( MyD ) genes
+T6	cell_type 321 331	macrophage
+T7	cell_type 335 354	granulocyte lineage
+T8	cell_line 364 397	myeloblastic leukemia HL-60 cells
+T9	DNA 404 414	cDNA clone
+T10	protein 500 505	Egr-1
+T11	protein 510 542	zinc finger transcription factor
+T12	DNA 549 559	Egr-1 gene
+T13	cell_line 607 618	HL-60 cells
+T14	cell_line 635 640	U-937
+T15	cell_line 645 653	M1 cells
+T16	protein 724 729	Egr-1
+T17	cell_line 814 841	myeloid leukemia cell lines
+T18	cell_type 853 864	myeloblasts
+T19	cell_line 867 878	HL-60 cells
+T20	DNA 908 923	Egr-1 transgene
+T21	DNA 926 936	HL-60Egr-1
+T22	cell_type 960 970	macrophage
+T23	cell_type 981 992	granulocyte
+T24	protein 1060 1065	Egr-1
+T25	cell_type 1116 1127	myeloblasts
+T26	cell_type 1138 1156	macrophage lineage

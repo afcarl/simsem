@@ -1,0 +1,47 @@
+T1	protein 0 7	Plasmin
+T2	protein 31 40	cytokines
+T3	protein 45 58	tissue factor
+T4	cell_type 62 77	human monocytes
+T5	protein 87 91	AP-1
+T6	protein 96 103	IKKbeta
+T7	protein 166 173	plasmin
+T8	cell_type 184 210	human peripheral monocytes
+T9	protein 303 310	plasmin
+T10	protein 319 343	proinflammatory cytokine
+T11	protein 356 369	tissue factor
+T12	protein 372 374	TF
+T13	cell_type 391 400	monocytes
+T14	protein 403 410	Plasmin
+T15	protein 444 471	active site-blocked plasmin
+T16	protein 531 549	interleukin-1alpha
+T17	protein 552 561	IL-1alpha
+T18	protein 566 574	IL-1beta
+T19	protein 577 604	tumor necrosis factor-alpha
+T20	protein 607 616	TNF-alpha
+T21	protein 625 627	TF
+T22	protein 667 674	Plasmin
+T23	protein 929 938	IL-1alpha
+T24	protein 941 949	IL-1beta
+T25	protein 954 963	TNF-alpha
+T26	protein 971 973	TF
+T27	protein 1016 1025	cytokines
+T28	protein 1030 1032	TF
+T29	cell_type 1056 1065	monocytes
+T30	protein 1170 1177	plasmin
+T31	protein 1201 1210	NF-kappaB
+T32	protein 1213 1234	DNA-binding complexes
+T33	protein 1252 1255	p50
+T34	protein 1258 1261	p65
+T35	protein 1268 1273	c-Rel
+T36	protein 1338 1360	NF-kappaB/Rel proteins
+T37	protein 1451 1458	plasmin
+T38	protein 1501 1539	cytoplasmic NF-kappaB inhibitor , p105
+T39	protein 1624 1651	IkappaB kinase ( IKK ) beta
+T40	protein 1698 1705	plasmin
+T41	protein 1764 1771	plasmin
+T42	cell_type 1781 1790	monocytes
+T43	protein 1825 1829	JunD
+T44	protein 1832 1837	c-Fos
+T45	protein 1844 1848	FosB
+T46	protein 1899 1906	plasmin
+T47	cell_type 1941 1956	human monocytes

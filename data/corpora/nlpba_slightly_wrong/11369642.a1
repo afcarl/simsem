@@ -1,0 +1,12 @@
+T1	protein 14 59	interferon consensus sequence binding protein
+T2	protein 141 186	interferon consensus sequence binding protein
+T3	protein 189 194	ICSBP
+T4	protein 294 313	BCR/ABL oncoprotein
+T5	protein 316 332	Interferon-alpha
+T6	protein 335 344	IFN-alpha
+T7	protein 355 360	ICSBP
+T8	protein 461 466	ICSBP
+T9	cell_type 537 557	ICSBP-modified cells
+T10	cell_type 625 655	BCR/ABL-transformed BaF3 cells
+T11	protein 685 690	ICSBP
+T12	cell_type 768 796	BCR/ABL ( + ) leukemia cells

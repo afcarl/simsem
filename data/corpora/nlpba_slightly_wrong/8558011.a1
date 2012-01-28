@@ -1,0 +1,47 @@
+T1	protein 0 20	HIV glycoprotein 120
+T2	protein 30 63	intercellular adhesion molecule-1
+T3	cell_type 83 94	glial cells
+T4	protein 112 124	Janus kinase
+T5	protein 125 174	/signal transducer and activator of transcription
+T6	protein 179 195	protein kinase C
+T7	cell_type 259 270	glial cells
+T8	cell_type 311 321	astrocytes
+T9	cell_type 326 335	microglia
+T10	protein 493 520	major envelope glycoprotein
+T11	protein 530 546	glycoprotein 120
+T12	protein 549 554	gp120
+T13	protein 571 604	intercellular adhesion molecule-1
+T14	protein 607 613	ICAM-1
+T15	cell_type 630 641	glial cells
+T16	protein 652 658	ICAM-1
+T17	cell_type 742 760	HIV-infected cells
+T18	protein 837 842	gp120
+T19	protein 852 858	ICAM-1
+T20	cell_type 878 900	primary rat astrocytes
+T21	cell_type 903 927	primary human astrocytes
+T22	cell_line 932 963	human astroglioma cell line CRT
+T23	cell_type 970 991	primary rat microglia
+T24	protein 1037 1042	gp120
+T25	protein 1068 1074	ICAM-1
+T26	protein 1112 1128	protein kinase C
+T27	protein 1133 1148	tyrosine kinase
+T28	protein 1173 1189	protein kinase C
+T29	protein 1194 1209	tyrosine kinase
+T30	protein 1219 1224	gp120
+T31	protein 1235 1241	ICAM-1
+T32	cell_type 1261 1271	astrocytes
+T33	cell_type 1276 1285	microglia
+T34	protein 1299 1304	gp120
+T35	protein 1341 1389	signal transducer and activator of transcription
+T36	protein 1392 1404	STAT-1 alpha
+T37	protein 1422 1434	Janus kinase
+T38	protein 1437 1441	JAK2
+T39	cell_type 1447 1458	glial cells
+T40	protein 1486 1491	gp120
+T41	protein 1502 1508	ICAM-1
+T42	cell_type 1580 1595	monocytic cells
+T43	cell_type 1607 1640	gp120-stimulated human astrocytes
+T44	protein 1647 1653	ICAM-1
+T45	protein 1662 1670	integrin
+T46	protein 1736 1741	gp120
+T47	cell_type 1775 1786	glial cells

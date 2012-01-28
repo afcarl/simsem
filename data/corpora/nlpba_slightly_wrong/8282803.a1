@@ -1,0 +1,15 @@
+T1	protein 161 184	glucocorticoid receptor
+T2	protein 187 189	GR
+T3	protein 714 716	GR
+T4	protein 803 805	GR
+T5	cell_type 935 942	T cells
+T6	protein 1039 1043	IL-2
+T7	protein 1048 1052	IL-4
+T8	protein 1130 1132	GR
+T9	cell_type 1193 1200	T cells
+T10	protein 1217 1219	GR
+T11	protein 1282 1286	IL-2
+T12	protein 1291 1295	IL-4
+T13	protein 1399 1407	cytokine
+T14	protein 1430 1432	GR
+T15	protein 1505 1507	GR

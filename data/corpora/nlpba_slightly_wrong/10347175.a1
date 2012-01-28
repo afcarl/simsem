@@ -1,0 +1,35 @@
+T1	protein 0 6	SLP-76
+T2	protein 11 14	Vav
+T3	DNA 74 96	interleukin-2 promoter
+T4	protein 108 114	SLP-76
+T5	protein 119 122	Vav
+T6	protein 129 166	hematopoietic cell specific molecules
+T7	protein 232 255	T cell antigen receptor
+T8	protein 270 276	SLP-76
+T9	protein 281 284	Vav
+T10	protein 375 378	Vav
+T11	protein 411 417	SLP-76
+T12	protein 434 440	SLP-76
+T13	protein 445 448	Vav
+T14	DNA 478 508	interleukin ( IL ) -2 promoter
+T15	cell_line 521 528	T cells
+T16	protein 602 608	SLP-76
+T17	protein 641 644	Vav
+T18	cell_type 668 680	intact cells
+T19	protein 740 746	SLP-76
+T20	protein 751 754	Vav
+T21	DNA 807 820	IL-2 promoter
+T22	DNA 916 925	IL-2 gene
+T23	protein 957 963	SLP-76
+T24	cell_line 971 989	Jurkat T cell line
+T25	protein 1025 1060	nuclear factor of activated T cells
+T26	protein 1065 1091	AP-1 transcription factors
+T27	protein 1126 1129	Vav
+T28	protein 1148 1183	nuclear factor of activated T cells
+T29	protein 1211 1215	AP-1
+T30	protein 1251 1254	Vav
+T31	protein 1265 1271	SLP-76
+T32	DNA 1296 1309	IL-2 promoter
+T33	protein 1369 1375	SLP-76
+T34	protein 1380 1383	Vav
+T35	DNA 1398 1407	IL-2 gene

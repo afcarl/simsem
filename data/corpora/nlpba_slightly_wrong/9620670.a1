@@ -1,0 +1,15 @@
+T1	protein 23 28	MCP-1
+T2	protein 95 129	Monocyte chemoattractant protein 1
+T3	protein 132 137	MCP-1
+T4	cell_type 171 192	macrophage infiltrate
+T5	protein 232 237	MCP-1
+T6	protein 403 430	Tumor necrosis factor alpha
+T7	protein 433 442	TNF-alpha
+T8	protein 459 464	MCP-1
+T9	protein 575 580	MCP-1
+T10	cell_line 595 620	ovarian cancer cell lines
+T11	RNA 669 697	TNF-alpha-induced MCP-1 mRNA
+T12	cell_type 724 744	ovarian cancer cells
+T13	protein 979 984	MCP-1
+T14	protein 1051 1056	MCP-1
+T15	cell_type 1187 1198	macrophages

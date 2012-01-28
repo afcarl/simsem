@@ -1,0 +1,15 @@
+T1	DNA 69 89	proto-oncogene c-fos
+T2	protein 96 116	transcription factor
+T3	protein 117 121	AP-1
+T4	protein 189 203	growth factors
+T5	protein 285 289	AP-1
+T6	protein 319 339	protein heterodimers
+T7	DNA 355 375	proto-oncogene c-fos
+T8	RNA 380 390	c-jun mRNA
+T9	protein 452 466	growth factors
+T10	protein 561 577	protein kinase C
+T11	RNA 603 623	c-fos and c-jun mRNA
+T12	RNA 796 806	c-fos mRNA
+T13	cell_line 810 830	human Jurkat T cells
+T14	RNA 915 925	c-fos mRNA
+T15	RNA 1201 1211	c-fos mRNA

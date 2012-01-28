@@ -1,0 +1,24 @@
+T1	cell_type 14 35	human dendritic cells
+T2	cell_type 238 253	dendritic cells
+T3	cell_type 448 477	human myeloid dendritic cells
+T4	cell_type 502 526	immature dendritic cells
+T5	cell_type 541 560	CD14-positive cells
+T6	protein 580 629	granulocyte- macrophage colony-stimulating factor
+T7	protein 634 655	interleukin ( IL ) -4
+T8	protein 696 728	tumor necrosis factor ( TNF ) -a
+T9	protein 731 740	IL-1 beta
+T10	protein 747 763	prostaglandin E2
+T11	protein 1104 1148	nuclear transcription factor ( NF ) -kappa B
+T12	cell_type 1161 1176	Dendritic cells
+T13	cell_type 1262 1269	T cells
+T14	cell_type 1349 1364	dendritic cells
+T15	protein 1422 1426	CD14
+T16	protein 1431 1435	CD68
+T17	protein 1468 1472	CD40
+T18	protein 1475 1479	CD80
+T19	protein 1486 1490	CD83
+T20	cell_type 1918 1933	dendritic cells
+T21	cell_type 1949 1979	Maturing human dendritic cells
+T22	cell_type 2034 2041	T cells
+T23	cell_type 2046 2054	NK cells
+T24	cell_type 2207 2222	dendritic cells

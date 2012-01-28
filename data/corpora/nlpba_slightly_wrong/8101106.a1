@@ -1,0 +1,27 @@
+T1	protein 34 45	p65 subunit
+T2	protein 49 59	NF-kappa B
+T3	protein 66 71	CD11b
+T4	cell_line 131 149	HL-60 granulocytes
+T5	protein 152 162	NF-kappa B
+T6	protein 168 189	pleiotropic regulator
+T7	protein 336 346	NF-kappa B
+T8	DNA 374 391	promoter elements
+T9	protein 422 431	cytokines
+T10	protein 434 457	growth factor receptors
+T11	protein 464 482	adhesion molecules
+T12	protein 536 539	p50
+T13	protein 544 556	p65 subunits
+T14	protein 564 582	NF-kappa B complex
+T15	protein 632 652	transcription factor
+T16	cell_line 656 691	resting and stimulated granulocytes
+T17	protein 727 730	p65
+T18	cell_line 892 946	dimethyl sulfoxide-differentiated HL-60 leukemia cells
+T19	protein 1066 1071	CD11b
+T20	protein 1072 1080	integrin
+T21	cell_line 1110 1123	treated cells
+T22	protein 1144 1147	p65
+T23	protein 1208 1213	CD11b
+T24	protein 1278 1281	p65
+T25	protein 1495 1498	p65
+T26	protein 1533 1543	NF-kappa B
+T27	cell_type 1574 1585	neutrophils

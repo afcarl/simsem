@@ -1,0 +1,48 @@
+T1	protein 35 52	adhesion molecule
+T2	cell_line 119 129	U-937 cell
+T3	protein 143 160	adhesion molecule
+T4	cell_type 175 197	human umbilical venous
+T5	cell_type 200 206	HUVECs
+T6	cell_type 213 250	arterial ( HUAECs ) endothelial cells
+T7	protein 262 283	tumor necrosis factor
+T8	protein 286 289	TNF
+T9	protein 294 307	interleukin-1
+T10	protein 343 346	TNF
+T11	protein 366 397	vascular cell adhesion molecule
+T12	protein 400 404	VCAM
+T13	cell_line 445 470	U-937 monocyte-like cells
+T14	cell_type 474 480	HUVECs
+T15	cell_type 492 498	HUAECs
+T16	cell_type 539 545	HUVECs
+T17	protein 588 594	VCAM-1
+T18	protein 606 619	Interleukin-1
+T19	cell_line 631 641	U-937 cell
+T20	protein 658 664	VCAM-1
+T21	cell_type 692 698	HUVECs
+T22	cell_type 703 709	HUAECs
+T23	protein 783 786	TNF
+T24	cell_line 807 817	U-937 cell
+T25	cell_type 830 836	HUVECs
+T26	protein 881 884	TNF
+T27	protein 918 938	HUVEC surface VCAM-1
+T28	protein 941 944	TNF
+T29	protein 955 961	VCAM-1
+T30	RNA 974 978	mRNA
+T31	cell_type 982 988	HUVECs
+T32	protein 1056 1059	TNF
+T33	protein 1078 1084	VCAM-1
+T34	cell_type 1099 1105	HUAECs
+T35	protein 1108 1111	TNF
+T36	protein 1142 1175	intercellular adhesion molecule-1
+T37	protein 1180 1190	E-selectin
+T38	cell_type 1194 1200	HUVECs
+T39	cell_type 1210 1216	HUAECs
+T40	protein 1224 1257	intercellular adhesion molecule-1
+T41	protein 1357 1360	TNF
+T42	protein 1373 1394	nuclear factor-kappaB
+T43	cell_type 1414 1420	HUVECs
+T44	cell_type 1425 1431	HUAECs
+T45	protein 1537 1540	TNF
+T46	cell_type 1600 1606	HUAECs
+T47	protein 1621 1642	nuclear factor-kappaB
+T48	protein 1647 1653	VCAM-1

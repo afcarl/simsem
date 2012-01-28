@@ -1,0 +1,42 @@
+T1	protein 13 27	interleukin-12
+T2	RNA 28 42	p40 transcript
+T3	protein 46 50	CD40
+T4	protein 78 99	nuclear factor-kappaB
+T5	protein 102 116	Interleukin-12
+T6	cell_type 225 246	monocytes/macrophages
+T7	cell_type 251 266	dendritic cells
+T8	cell_type 315 332	activated T cells
+T9	cell_type 337 361	antigen-presenting cells
+T10	protein 366 382	CD40-CD40 ligand
+T11	protein 385 390	CD40L
+T12	protein 432 435	p40
+T13	protein 595 598	p40
+T14	protein 602 606	CD40
+T15	cell_line 621 653	human B lymphoblastoid cell line
+T16	cell_line 656 661	Daudi
+T17	cell_line 670 710	human acute monocytic leukemia cell line
+T18	cell_line 713 718	THP-1
+T19	protein 790 794	CD40
+T20	DNA 821 844	CD40L expression vector
+T21	protein 856 859	p40
+T22	RNA 880 888	p40 mRNA
+T23	DNA 927 946	p40 promoter region
+T24	DNA 962 1015	potential nuclear factor ( NF ) -kappaB binding sites
+T25	DNA 1117 1143	NF-kappaB binding sequence
+T26	DNA 1168 1183	120 bp upstream
+T27	DNA 1191 1220	transcription initiation site
+T28	DNA 1224 1250	murine and human p40 genes
+T29	protein 1261 1278	NF-kappaB complex
+T30	cell_line 1305 1316	Daudi cells
+T31	protein 1331 1335	CD40
+T32	cell_line 1374 1385	Daudi cells
+T33	DNA 1407 1433	NF-kappaB binding sequence
+T34	DNA 1447 1522	thymidine kinase/chloramphenicol acetyltransferase ( CAT ) reporter plasmid
+T35	protein 1539 1542	CAT
+T36	DNA 1580 1626	polymerized mutated NF-kappaB binding sequence
+T37	DNA 1668 1690	NF-kappaB binding site
+T38	DNA 1729 1758	transcription initiation site
+T39	DNA 1762 1799	murine and human p40 promoter regions
+T40	protein 1827 1830	p40
+T41	protein 1844 1848	CD40
+T42	protein 1876 1885	NF-kappaB

@@ -1,0 +1,47 @@
+T1	protein 18 41	transactivation domains
+T2	protein 45 50	Stat5
+T3	protein 55 60	Stat6
+T4	cell_type 64 78	lymphoid cells
+T5	cell_type 83 107	mammary epithelial cells
+T6	protein 110 114	Stat
+T7	protein 117 167	signal transducers and activators of transcription
+T8	protein 174 177	Jak
+T9	protein 180 193	Janus kinases
+T10	cell_type 265 299	hematopoietic and epithelial cells
+T11	protein 340 349	cytokines
+T12	protein 408 425	cytokine receptor
+T13	protein 441 454	Stat proteins
+T14	protein 498 509	Jak kinases
+T15	protein 522 535	Stat proteins
+T16	protein 643 648	Stat5
+T17	protein 653 658	Stat6
+T18	protein 663 684	transcription factors
+T19	cell_type 695 719	mammary epithelial cells
+T20	protein 759 764	Stat5
+T21	protein 771 784	interleukin-4
+T22	protein 787 791	IL-4
+T23	protein 804 809	Stat6
+T24	protein 817 826	cytokines
+T25	protein 952 957	Stat6
+T26	protein 1011 1015	IL-4
+T27	protein 1041 1046	Stat6
+T28	cell_line 1068 1097	HC11 mammary epithelial cells
+T29	protein 1117 1122	Stat6
+T30	DNA 1162 1187	beta-casein gene promoter
+T31	cell_line 1238 1248	COS7 cells
+T32	protein 1255 1278	glucocorticoid receptor
+T33	protein 1307 1311	IL-4
+T34	protein 1362 1367	Stat6
+T35	protein 1395 1419	carboxyl-terminal region
+T36	protein 1423 1428	Stat6
+T37	protein 1469 1500	heterologous DNA binding domain
+T38	protein 1580 1585	Stat6
+T39	protein 1609 1632	transactivation domains
+T40	protein 1636 1641	Stat5
+T41	protein 1644 1649	Stat6
+T42	protein 1656 1674	viral protein VP16
+T43	protein 1691 1696	Stat6
+T44	protein 1772 1777	Stat5
+T45	cell_type 1783 1794	pre-B cells
+T46	protein 1837 1842	Stat6
+T47	protein 1847 1851	IL-4

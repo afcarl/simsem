@@ -1,0 +1,42 @@
+T1	protein 0 21	Interleukin-4 and -13
+T2	protein 67 94	12/15-lipoxygenase activity
+T3	protein 129 149	transcription factor
+T4	protein 150 155	STAT6
+T5	cell_type 169 178	monocytes
+T6	cell_type 182 202	alveolar macrophages
+T7	protein 235 256	interleukin ( IL ) -4
+T8	protein 260 265	IL-13
+T9	protein 290 323	reticulocyte-type 15-lipoxygenase
+T10	protein 347 362	15-lipoxygenase
+T11	protein 388 418	leukocyte-type 12-lipoxygenase
+T12	cell_type 433 455	peritoneal macrophages
+T13	protein 486 507	lipoxygenase isoforms
+T14	protein 553 561	cytokine
+T15	protein 609 639	leukocyte-type 12-lipoxygenase
+T16	cell_type 643 672	murine peritoneal macrophages
+T17	protein 676 688	interleukins
+T18	protein 725 731	enzyme
+T19	protein 826 830	IL-4
+T20	protein 834 839	IL-13
+T21	protein 851 856	IL-10
+T22	cell_type 882 891	monocytes
+T23	protein 916 928	lipoxygenase
+T24	protein 947 951	IL-4
+T25	RNA 966 989	12/15-lipoxygenase mRNA
+T26	protein 1090 1102	lipoxygenase
+T27	cell_type 1134 1145	macrophages
+T28	protein 1176 1181	STAT6
+T29	cell_type 1200 1222	Peritoneal macrophages
+T30	protein 1272 1276	IL-4
+T31	protein 1318 1333	12-lipoxygenase
+T32	protein 1412 1427	12-lipoxygenase
+T33	cell_type 1567 1576	red cells
+T34	protein 1662 1677	12-lipoxygenase
+T35	protein 1748 1752	IL-4
+T36	protein 1760 1765	IL-13
+T37	protein 1819 1839	transcription factor
+T38	protein 1840 1845	STAT6
+T39	protein 1914 1919	STAT6
+T40	protein 1938 1946	cytokine
+T41	protein 1978 2011	murine macrophage 12-lipoxygenase
+T42	protein 2097 2136	human reticulocyte-type 15-lipoxygenase

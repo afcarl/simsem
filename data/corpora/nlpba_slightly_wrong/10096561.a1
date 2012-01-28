@@ -1,0 +1,32 @@
+T1	protein 15 19	CD40
+T2	cell_type 76 98	cytotoxic T lymphocyte
+T3	protein 185 189	CD40
+T4	protein 332 336	CD40
+T5	protein 401 405	CD40
+T6	cell_line 436 455	human MM cell lines
+T7	cell_line 527 537	cell lines
+T8	protein 576 580	CD40
+T9	protein 592 596	CD40
+T10	protein 629 633	CD40
+T11	protein 667 676	IFN-gamma
+T12	protein 681 708	tumor necrosis factor-alpha
+T13	protein 720 745	interleukin ( IL ) -1beta
+T14	protein 749 753	CD40
+T15	protein 767 771	CD40
+T16	cell_line 790 822	CD40L-transfected murine L-cells
+T17	protein 839 859	CD40L fusion protein
+T18	protein 893 926	intercellular adhesion molecule-1
+T19	protein 931 965	MHC class I and class II molecules
+T20	protein 989 993	IL-6
+T21	protein 996 1000	IL-8
+T22	protein 1003 1026	tumor necrosis factor-a
+T23	protein 1033 1081	granulocyte macrophage colony-stimulating factor
+T24	protein 1125 1145	transcription factor
+T25	protein 1146 1167	nuclear factor kappaB
+T26	protein 1184 1188	CD40
+T27	cell_line 1203 1239	HLA-A2+ , MelanA/MART1+ MM cell line
+T28	cell_line 1291 1343	HLA-A2-restricted , MelanA/MART-1-specific CTL clone
+T29	protein 1356 1360	CD40
+T30	protein 1446 1450	CD40
+T31	protein 1451 1457	-CD40L
+T32	protein 1562 1566	CD40

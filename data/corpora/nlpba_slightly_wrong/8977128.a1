@@ -1,0 +1,12 @@
+T1	protein 38 44	RANTES
+T2	cell_type 59 78	human T lymphocytes
+T3	protein 85 94	chemokine
+T4	protein 95 101	RANTES
+T5	RNA 312 323	RANTES mRNA
+T6	cell_line 355 388	anti-CD3 activated Hut-78 T cells
+T7	cell_type 393 404	human PBMCs
+T8	protein 421 427	RANTES
+T9	protein 473 477	IL-2
+T10	protein 531 554	glucocorticoid receptor
+T11	protein 580 586	RANTES
+T12	cell_type 620 627	T cells

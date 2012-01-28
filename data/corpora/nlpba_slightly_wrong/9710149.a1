@@ -1,0 +1,14 @@
+T1	cell_type 56 88	primary human CD4+ T lymphocytes
+T2	protein 669 678	TNF-alpha
+T3	protein 702 711	NF-kappaB
+T4	cell_type 715 741	primary human CD4+ T cells
+T5	cell_type 808 829	DMDTC-treated T cells
+T6	protein 922 931	NF-kappaB
+T7	cell_type 959 980	DMDTC-treated T cells
+T8	protein 1003 1012	TNF-alpha
+T9	protein 1086 1095	NF-kappaB
+T10	protein 1279 1283	IL-2
+T11	protein 1331 1335	CD25
+T12	protein 1342 1355	alpha subunit
+T13	protein 1363 1376	IL-2 receptor
+T14	cell_type 1382 1389	T cells

@@ -1,0 +1,24 @@
+T1	DNA 4 42	B29 ( immunoglobulin beta-chain ) gene
+T2	protein 67 86	early B-cell factor
+T3	protein 89 108	Early B-cell factor
+T4	protein 111 114	EBF
+T5	protein 122 142	transcription factor
+T6	cell_type 176 188	B-lymphocyte
+T7	protein 349 369	transcription factor
+T8	RNA 444 459	B29 transcripts
+T9	protein 477 489	beta subunit
+T10	cell_type 526 537	pro-B cells
+T11	protein 543 546	EBF
+T12	protein 612 615	EBF
+T13	protein 655 658	EBF
+T14	DNA 709 727	mouse B29 promoter
+T15	protein 766 769	EBF
+T16	cell_line 773 783	HeLa cells
+T17	DNA 796 838	B29 promoter-controlled reporter construct
+T18	DNA 894 913	endogenous B29 gene
+T19	protein 943 946	EBF
+T20	DNA 972 984	B29 promoter
+T21	cell_type 997 1008	pre-B cells
+T22	cell_line 1097 1109	B-cell lines
+T23	DNA 1172 1180	B29 gene
+T24	protein 1205 1208	EBF

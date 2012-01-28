@@ -1,0 +1,28 @@
+T1	protein 28 53	interferon-gamma receptor
+T2	cell_type 57 74	human eosinophils
+T3	protein 122 147	interferon-gamma receptor
+T4	protein 150 160	IFN-gammaR
+T5	cell_type 177 188	eosinophils
+T6	protein 223 233	IFN-gammaR
+T7	cell_type 237 248	eosinophils
+T8	protein 327 335	Jak/Stat
+T9	cell_type 364 375	eosinophils
+T10	protein 382 392	IFN-gammaR
+T11	cell_type 439 470	Purified peripheral eosinophils
+T12	protein 492 501	IFN-gamma
+T13	protein 561 571	IFN-gammaR
+T14	protein 574 578	Jak1
+T15	protein 581 585	Jak2
+T16	protein 592 602	Stat1alpha
+T17	protein 695 719	Stat1alpha-DNA complexes
+T18	protein 756 765	IFN-gamma
+T19	cell_type 769 786	human eosinophils
+T20	protein 884 905	IFN-gammaRalpha chain
+T21	protein 915 919	Jak1
+T22	protein 922 926	Jak2
+T23	protein 933 943	Stat1alpha
+T24	protein 960 969	IFN-gamma
+T25	protein 1007 1017	Stat1alpha
+T26	protein 1058 1067	IFN-gamma
+T27	cell_type 1076 1087	eosinophils
+T28	protein 1135 1143	Jak/Stat

@@ -1,0 +1,39 @@
+T1	protein 0 5	IL-10
+T2	protein 22 31	TNF-alpha
+T3	cell_type 55 90	latently and acutely infected cells
+T4	cell_type 94 121	monocyte/macrophage lineage
+T5	protein 124 129	IL-10
+T6	protein 268 273	IL-10
+T7	cell_type 306 324	infected monocytes
+T8	cell_type 329 340	macrophages
+T9	protein 352 357	IL-10
+T10	protein 418 427	TNF-alpha
+T11	protein 430 435	IL-10
+T12	cell_line 500 522	promonocytic cell line
+T13	cell_line 525 527	U1
+T14	cell_type 554 582	monocyte-derived macrophages
+T15	protein 598 602	mAbs
+T16	protein 606 611	IL-10
+T17	protein 616 625	TNF-alpha
+T18	protein 646 655	cytokines
+T19	protein 787 796	cytokines
+T20	protein 855 864	TNF-alpha
+T21	protein 880 888	cytokine
+T22	protein 929 934	IL-10
+T23	protein 985 990	IL-10
+T24	protein 995 1004	TNF-alpha
+T25	protein 1105 1113	cytokine
+T26	protein 1171 1191	endogenous TNF-alpha
+T27	protein 1195 1200	IL-10
+T28	protein 1269 1288	TNF-alpha receptors
+T29	protein 1311 1320	TNF-alpha
+T30	protein 1323 1328	IL-10
+T31	protein 1340 1360	activating protein-1
+T32	protein 1363 1367	AP-1
+T33	protein 1374 1404	nuclear factor ( NF ) -kappa B
+T34	DNA 1494 1514	long terminal repeat
+T35	DNA 1565 1589	NF-kappa B binding sites
+T36	protein 1607 1612	IL-10
+T37	protein 1703 1708	IL-10
+T38	protein 1806 1815	TNF-alpha
+T39	cell_type 1865 1892	monocyte/macrophage lineage

@@ -1,0 +1,23 @@
+T1	protein 0 3	Tap
+T2	protein 14 30	cellular protein
+T3	cell_type 90 100	lymphocyte
+T4	protein 158 161	Lck
+T5	protein 181 184	Lck
+T6	protein 239 261	Tip-associated protein
+T7	protein 264 267	Tap
+T8	protein 301 304	Tap
+T9	protein 321 324	Tip
+T10	cell_line 359 370	COS-1 cells
+T11	cell_line 396 416	human Jurkat-T cells
+T12	protein 433 436	Tip
+T13	protein 441 444	Tap
+T14	cell_line 448 462	Jurkat-T cells
+T15	protein 571 589	adhesion molecules
+T16	protein 600 614	integrin alpha
+T17	protein 617 627	L-selectin
+T18	protein 630 636	ICAM-3
+T19	protein 643 648	H-CAM
+T20	protein 665 697	NF-kappaB transcriptional factor
+T21	cell_type 773 787	parental cells
+T22	protein 797 800	Tap
+T23	protein 851 854	Tip

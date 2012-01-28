@@ -1,0 +1,23 @@
+T1	protein 83 126	72-kilodalton major immediate-early protein
+T2	protein 277 303	CD8 ( + ) -T-cell epitopes
+T3	protein 357 376	pp65 phosphoprotein
+T4	cell_type 490 507	CD8 ( + ) T cells
+T5	protein 525 561	72-kDa major immediate-early protein
+T6	protein 564 568	IE-1
+T7	protein 722 748	CD8 ( + ) -T-cell epitopes
+T8	protein 754 758	IE-1
+T9	protein 789 797	cytokine
+T10	protein 950 973	491-amino-acid sequence
+T11	protein 977 981	IE-1
+T12	cell_type 997 1031	peripheral blood mononuclear cells
+T13	protein 1100 1108	epitopes
+T14	protein 1167 1179	HLA molecule
+T15	cell_type 1237 1254	CD8 ( + ) T cells
+T16	protein 1272 1276	IE-1
+T17	protein 1316 1320	pp65
+T18	protein 1349 1353	pp65
+T19	protein 1476 1480	pp65
+T20	cell_type 1532 1549	CD8 ( + ) T cells
+T21	protein 1561 1565	IE-1
+T22	protein 1574 1578	pp65
+T23	protein 1699 1703	IE-1

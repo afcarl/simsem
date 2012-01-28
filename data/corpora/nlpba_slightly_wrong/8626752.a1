@@ -1,0 +1,34 @@
+T1	protein 18 23	STAT1
+T2	protein 29 34	STAT2
+T3	protein 39 44	STAT3
+T4	protein 57 77	signalling complexes
+T5	protein 87 95	cytokine
+T6	protein 123 132	cytokines
+T7	protein 137 151	growth factors
+T8	protein 220 248	latent transcription factors
+T9	protein 256 324	STAT ( signal transducers and activators of transcription ) proteins
+T10	protein 374 379	STATs
+T11	protein 495 523	STAT protein heterocomplexes
+T12	protein 539 547	cytokine
+T13	cell_line 565 588	unstimulated HeLa cells
+T14	protein 677 682	STAT1
+T15	protein 686 691	STAT2
+T16	protein 758 770	STAT protein
+T17	protein 785 790	STAT1
+T18	protein 791 797	-STAT3
+T19	protein 860 865	STAT1
+T20	protein 870 875	STAT2
+T21	protein 879 884	STAT1
+T22	protein 889 894	STAT3
+T23	protein 1042 1058	interferon-alpha
+T24	protein 1150 1155	STAT1
+T25	protein 1158 1181	STAT2 signaling complex
+T26	protein 1201 1206	STAT1
+T27	protein 1239 1244	STAT2
+T28	protein 1249 1254	STAT3
+T29	protein 1274 1279	STAT2
+T30	protein 1284 1289	STAT3
+T31	protein 1308 1323	heterocomplexes
+T32	protein 1329 1334	STAT1
+T33	protein 1370 1375	STAT1
+T34	protein 1417 1430	STAT proteins

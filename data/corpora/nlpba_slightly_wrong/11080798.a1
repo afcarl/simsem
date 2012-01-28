@@ -1,0 +1,29 @@
+T1	protein 14 49	oncogenic transcription factor AP-1
+T2	cell_type 53 60	T cells
+T3	protein 158 169	Tax protein
+T4	cell_type 181 202	primary human T cells
+T5	protein 240 243	Tax
+T6	protein 300 325	transcription factor AP-1
+T7	protein 334 339	c-Jun
+T8	protein 342 346	JunD
+T9	protein 349 354	c-Fos
+T10	protein 361 366	Fra-1
+T11	cell_type 388 395	T cells
+T12	protein 446 449	Tax
+T13	DNA 488 505	AP-1-binding site
+T14	DNA 508 517	AP-1 site
+T15	protein 565 568	Tax
+T16	DNA 608 625	AP-1-binding site
+T17	cell_line 631 648	human T cell line
+T18	protein 678 691	AP-1 proteins
+T19	protein 714 717	Tax
+T20	DNA 758 767	AP-1 site
+T21	protein 771 774	Tax
+T22	RNA 827 836	AP-1 mRNA
+T23	cell_type 839 876	Fresh peripheral blood leukemia cells
+T24	DNA 1007 1019	HTLV-1 genes
+T25	DNA 1032 1035	tax
+T26	cell_type 1079 1093	leukemia cells
+T27	protein 1161 1165	AP-1
+T28	cell_type 1227 1249	TLV-1-infected T cells
+T29	cell_type 1308 1329	HTLV-1-infected cells

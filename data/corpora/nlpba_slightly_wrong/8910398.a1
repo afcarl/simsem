@@ -1,0 +1,40 @@
+T1	protein 0 5	Stat3
+T2	protein 34 88	ligand-induced , tyrosine-phosphorylated docking sites
+T3	protein 96 140	interleukin-10 receptor intracellular domain
+T4	protein 170 175	IL-10
+T5	protein 202 205	JAK
+T6	protein 206 211	-STAT
+T7	protein 267 332	signal transducer and activator of transcription ( STAT ) protein
+T8	protein 352 385	interleukin 10 ( IL-10 ) receptor
+T9	protein 392 405	STAT proteins
+T10	protein 419 424	IL-10
+T11	protein 542 547	IL-10
+T12	protein 558 563	Stat1
+T13	protein 568 573	Stat3
+T14	protein 618 639	DNA binding complexes
+T15	protein 691 712	transcription factors
+T16	protein 715 720	IL-10
+T17	protein 736 741	Stat5
+T18	cell_line 745 756	Ba/F3 cells
+T19	protein 790 804	IL-10 receptor
+T20	protein 908 928	intracellular domain
+T21	protein 943 948	IL-10
+T22	protein 1040 1045	Stat3
+T23	protein 1058 1063	Stat1
+T24	protein 1067 1072	Stat5
+T25	protein 1156 1175	phosphorylated form
+T26	protein 1191 1196	Stat3
+T27	protein 1205 1210	Stat1
+T28	protein 1223 1228	IL-10
+T29	protein 1238 1243	Stat3
+T30	protein 1381 1386	Stat3
+T31	protein 1396 1401	Stat3
+T32	protein 1443 1448	Stat3
+T33	protein 1457 1462	Stat1
+T34	protein 1466 1471	Stat5
+T35	protein 1501 1532	ligand-activated IL-10 receptor
+T36	protein 1570 1609	receptor intracellular domain sequences
+T37	protein 1705 1718	STAT proteins
+T38	protein 1732 1750	cytokine receptors
+T39	protein 1817 1855	tyrosine-containing STAT docking sites
+T40	protein 1859 1889	receptor intracellular domains

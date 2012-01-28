@@ -1,0 +1,21 @@
+T1	DNA 2 29	cell type-specific enhancer
+T2	DNA 37 52	human B7.1 gene
+T3	protein 66 75	NF-kappaB
+T4	protein 82 109	costimulatory molecule B7.1
+T5	protein 193 218	integral membrane protein
+T6	DNA 398 407	chromatin
+T7	DNA 429 444	human B7.1 gene
+T8	DNA 541 580	deoxyribonuclease I hypersensitive site
+T9	DNA 595 607	3kb upstream
+T10	DNA 615 639	transcription start site
+T11	DNA 673 707	cell type-specific enhancer region
+T12	DNA 715 728	183-bp region
+T13	protein 856 860	B7.1
+T14	DNA 971 983	cis elements
+T15	DNA 1024 1072	nuclear factor ( NF ) -kappaB consensus sequence
+T16	cell_type 1078 1099	B7.1-positive B cells
+T17	protein 1144 1160	NF-kappaB family
+T18	protein 1163 1184	transcription factors
+T19	protein 1248 1252	B7.1
+T20	DNA 1320 1339	regulatory elements
+T21	protein 1385 1410	B7 costimulatory molecule

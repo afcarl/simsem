@@ -1,0 +1,19 @@
+T1	protein 42 48	GATA-3
+T2	protein 104 124	transcription factor
+T3	protein 125 131	GATA-3
+T4	cell_type 185 194	Th1 cells
+T5	protein 210 232	Th2-specific cytokines
+T6	protein 263 269	GATA-3
+T7	cell_type 295 304	Th1 cells
+T8	protein 314 319	IL-12
+T9	protein 338 343	Stat4
+T10	protein 390 394	IL-4
+T11	protein 440 446	GATA-3
+T12	protein 524 546	Th2-specific cytokines
+T13	protein 549 555	GATA-3
+T14	protein 565 578	Th1 cytokines
+T15	protein 634 638	IL-4
+T16	protein 674 679	IL-12
+T17	protein 699 705	GATA-3
+T18	protein 721 726	IL-12
+T19	protein 877 885	cytokine

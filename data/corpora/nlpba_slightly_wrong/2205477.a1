@@ -1,0 +1,17 @@
+T1	protein 4 32	glucocorticoid binding sites
+T2	protein 40 69	human glucocorticoid receptor
+T3	cell_type 124 138	leukemic cells
+T4	protein 165 188	glucocorticoid receptor
+T5	protein 191 193	GR
+T6	protein 257 259	GR
+T7	cell_line 502 514	CEM C7 cells
+T8	cell_line 519 556	human acute lymphoblastic T-cell line
+T9	cell_type 847 861	leukemic cells
+T10	cell_line 1013 1025	CEM C7 cells
+T11	protein 1088 1120	higher affinity CVZ binding site
+T12	cell_line 1209 1220	B-cell line
+T13	cell_line 1223 1227	IM-9
+T14	protein 1340 1360	CVZ 's binding sites
+T15	protein 1427 1429	GR
+T16	protein 1573 1601	glucocorticoid binding sites
+T17	protein 1615 1617	GR

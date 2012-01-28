@@ -1,0 +1,18 @@
+T1	DNA 25 38	cytokine gene
+T2	cell_line 53 56	Th1
+T3	cell_line 61 64	Th2
+T4	protein 86 94	antigens
+T5	cell_type 97 111	helper T cells
+T6	protein 188 196	cytokine
+T7	cell_line 242 251	Th1 cells
+T8	cell_line 337 346	Th2 cells
+T9	protein 501 509	cytokine
+T10	protein 630 647	adhesion molecule
+T11	protein 652 670	chemokine receptor
+T12	cell_line 830 837	Th1/Th2
+T13	cell_type 936 950	helper T cells
+T14	DNA 1148 1161	cytokine gene
+T15	cell_line 1200 1241	non-transformed murine Th1 and Th2 clones
+T16	DNA 1335 1348	cytokine gene
+T17	cell_line 1434 1437	Th1
+T18	protein 1475 1482	PKC/Ras

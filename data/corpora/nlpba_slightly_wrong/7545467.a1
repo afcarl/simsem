@@ -1,0 +1,35 @@
+T1	protein 14 62	granulocyte-macrophage colony-stimulating factor
+T2	protein 67 77	E-selectin
+T3	cell_type 92 109	endothelial cells
+T4	protein 135 162	T-cell transcription factor
+T5	protein 163 167	NFAT
+T6	protein 170 205	Nuclear factor of activated T cells
+T7	protein 208 212	NFAT
+T8	protein 245 281	T-cell-specific transcription factor
+T9	protein 316 324	cytokine
+T10	protein 358 374	immunoregulatory
+T11	cell_type 430 457	activated endothelial cells
+T12	protein 473 477	NFAT
+T13	cell_type 532 549	endothelial cells
+T14	protein 611 615	NFAT
+T15	cell_type 619 636	endothelial cells
+T16	DNA 667 751	granulocyte-macrophage colony-stimulating factor ( GM-CSF ) gene regulatory elements
+T17	protein 761 765	NFAT
+T18	RNA 828 839	GM-CSF mRNA
+T19	cell_type 866 893	activated endothelial cells
+T20	protein 916 926	E-selectin
+T21	protein 937 970	vascular cell adhesion molecule-1
+T22	protein 973 979	VCAM-1
+T23	DNA 1032 1051	E-selectin promoter
+T24	protein 1068 1078	NF-kappa B
+T25	protein 1091 1095	NFAT
+T26	protein 1151 1178	leukocyte adhesion molecule
+T27	protein 1182 1218	tumor necrosis factor ( TNF ) -alpha
+T28	cell_type 1309 1319	neutrophil
+T29	cell_type 1353 1370	endothelial cells
+T30	DNA 1397 1406	chromatin
+T31	DNA 1428 1455	DNasel hypersensitive sites
+T32	protein 1472 1478	GM-CSF
+T33	DNA 1496 1515	E-selectin promoter
+T34	protein 1577 1581	NFAT
+T35	cell_type 1585 1602	endothelial cells

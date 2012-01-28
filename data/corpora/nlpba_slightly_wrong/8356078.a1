@@ -1,0 +1,24 @@
+T1	DNA 24 47	human CD4 gene promoter
+T2	DNA 73 95	CD4 gene core promoter
+T3	protein 135 147	Ets proteins
+T4	DNA 166 201	5 ' transcription control sequences
+T5	DNA 209 223	human CD4 gene
+T6	DNA 241 270	transcription initiation site
+T7	DNA 291 308	CD4 core promoter
+T8	DNA 311 331	positions -40 to +16
+T9	DNA 366 406	initiator positioning consensus sequence
+T10	DNA 495 519	simian virus 40 enhancer
+T11	DNA 558 575	CD4 gene promoter
+T12	DNA 651 668	CD4 core promoter
+T13	DNA 813 828	murine CD4 gene
+T14	DNA 865 895	perfect ETS consensus sequence
+T15	DNA 906 928	ETS consensus sequence
+T16	protein 1046 1065	Ets-related protein
+T17	cell_type 1107 1117	CD4+ cells
+T18	cell_type 1134 1144	CD4- cells
+T19	protein 1165 1170	Ets-1
+T20	protein 1174 1179	Ets-2
+T21	DNA 1242 1254	CD4 promoter
+T22	DNA 1259 1272	core promoter
+T23	protein 1300 1325	Ets transcription factors
+T24	DNA 1404 1425	classical remote site

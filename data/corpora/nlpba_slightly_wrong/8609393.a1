@@ -1,0 +1,27 @@
+T1	cell_line 0 56	Herpesvirus saimiri immortalized gamma delta T cell line
+T2	protein 70 75	IL-12
+T3	protein 78 83	IL-12
+T4	protein 95 117	heterodimeric cytokine
+T5	protein 220 225	IL-12
+T6	cell_type 302 318	responsive cells
+T7	protein 363 368	IL-12
+T8	cell_type 393 397	PBMC
+T9	protein 424 427	PHA
+T10	protein 431 435	IL-2
+T11	protein 471 485	IL-12R complex
+T12	protein 494 499	IL-12
+T13	cell_type 531 548	cytotoxic T cells
+T14	cell_line 574 592	human T cell lines
+T15	protein 745 751	IL-12R
+T16	cell_line 757 786	human gamma delta T cell line
+T17	protein 804 809	IL-12
+T18	protein 871 899	cytolytic effector molecules
+T19	protein 900 910	granzyme B
+T20	protein 915 923	perforin
+T21	cell_type 938 945	T cells
+T22	protein 960 965	IL-12
+T23	protein 1042 1061	Janus kinase family
+T24	protein 1065 1093	nonreceptor tyrosine kinases
+T25	protein 1094 1098	JAK2
+T26	protein 1101 1105	TYK2
+T27	protein 1112 1162	signal transducer and activator of transcription 4

@@ -1,0 +1,22 @@
+T1	protein 13 35	retinoic acid-receptor
+T2	protein 49 68	retinoid X-receptor
+T3	cell_type 91 103	myeloid cell
+T4	protein 317 339	retinoic acid receptor
+T5	protein 342 345	RAR
+T6	protein 519 538	retinoid X receptor
+T7	protein 541 544	RXR
+T8	protein 627 630	RAR
+T9	protein 646 649	RXR
+T10	protein 761 764	RXR
+T11	cell_line 828 837	HL60 cell
+T12	protein 988 991	RAR
+T13	protein 1029 1042	RXR homodimer
+T14	protein 1237 1256	RXR/RAR heterodimer
+T15	protein 1302 1305	RAR
+T16	cell_line 1326 1335	HL60 cell
+T17	RNA 1367 1379	RARbeta mRNA
+T18	protein 1392 1395	RXR
+T19	protein 1441 1444	RXR
+T20	cell_type 1512 1528	mouse splenocyte
+T21	protein 1611 1614	RXR
+T22	protein 1681 1684	RXR

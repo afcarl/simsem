@@ -1,0 +1,41 @@
+T1	protein 20 28	NF ( P )
+T2	protein 35 49	nuclear factor
+T3	DNA 85 95	P sequence
+T4	DNA 126 150	human interleukin-4 gene
+T5	protein 169 179	NF-kappa B
+T6	protein 184 189	NF-AT
+T7	DNA 196 206	P sequence
+T8	DNA 214 247	human interleukin-4 ( IL-4 ) gene
+T9	DNA 273 291	responsive element
+T10	cell_line 364 378	Jurkat T cells
+T11	DNA 417 455	NF-kappa B and the NF-AT binding sites
+T12	protein 478 486	NF ( P )
+T13	protein 491 505	nuclear factor
+T14	DNA 523 533	P sequence
+T15	protein 550 560	NF-kappa B
+T16	protein 565 570	NF-AT
+T17	protein 573 583	NF-kappa B
+T18	protein 586 589	P65
+T19	protein 593 612	P65/P50 heterodimer
+T20	DNA 628 638	P sequence
+T21	DNA 729 739	P sequence
+T22	DNA 745 764	expression plasmids
+T23	DNA 789 824	P sequence-driven reporter plasmids
+T24	cell_line 828 842	Jurkat T cells
+T25	protein 856 864	NF ( P )
+T26	DNA 894 922	unlabeled NF-AT binding site
+T27	DNA 938 964	unlabeled AP1 binding site
+T28	protein 969 983	purified NF-AT
+T29	DNA 1024 1034	P sequence
+T30	protein 1085 1090	NF-AT
+T31	protein 1116 1124	NF ( P )
+T32	protein 1152 1155	P65
+T33	protein 1172 1180	NF ( P )
+T34	protein 1260 1265	NF-AT
+T35	protein 1300 1308	NF ( P )
+T36	protein 1317 1327	NF-kappa B
+T37	protein 1354 1362	NF ( P )
+T38	protein 1390 1395	NF-AT
+T39	protein 1398 1406	NF ( P )
+T40	protein 1424 1427	AP1
+T41	protein 1435 1456	DNA binding component

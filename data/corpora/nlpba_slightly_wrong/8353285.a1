@@ -1,0 +1,14 @@
+T1	protein 39 49	NF-kappa B
+T2	protein 137 171	p56lck and p59fyn tyrosine kinases
+T3	cell_type 175 192	human lymphocytes
+T4	cell_type 283 312	human B-lymphocyte precursors
+T5	protein 344 360	tyrosine kinases
+T6	protein 829 839	NF-kappa B
+T7	protein 957 973	Ins-1 , 4 , 5-P3
+T8	protein 1222 1233	PLC gamma 1
+T9	protein 1311 1329	src family kinases
+T10	protein 1391 1425	p56lck and p59fyn tyrosine kinases
+T11	protein 1455 1467	phosphatases
+T12	protein 1486 1493	kinases
+T13	cell_type 1678 1692	lymphoid cells
+T14	protein 1730 1741	PLC gamma 1

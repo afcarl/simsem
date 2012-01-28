@@ -1,0 +1,21 @@
+T1	protein 40 45	Spi-B
+T2	protein 46 66	transcription factor
+T3	protein 69 74	Spi-B
+T4	protein 81 105	Ets transcription factor
+T5	protein 121 132	oncoprotein
+T6	protein 133 143	Spi-1/PU.1
+T7	cell_type 168 184	B lymphoid cells
+T8	protein 191 203	Ets proteins
+T9	protein 222 232	Ets domain
+T10	protein 270 275	Spi-B
+T11	DNA 282 295	DNA sequences
+T12	protein 415 420	Spi-B
+T13	protein 518 523	Spi-B
+T14	protein 532 542	deltaSpi-B
+T15	protein 564 574	Ets domain
+T16	cell_type 580 596	B lymphoid cells
+T17	RNA 599 625	deltaspi-B and spi-B mRNAs
+T18	protein 682 692	DeltaSpi-B
+T19	protein 808 819	delta Spi-B
+T20	protein 833 838	Spi-B
+T21	protein 882 887	Spi-B

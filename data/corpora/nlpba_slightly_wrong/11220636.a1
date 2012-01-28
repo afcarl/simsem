@@ -1,0 +1,33 @@
+T1	protein 60 87	tumor necrosis factor alpha
+T2	cell_type 102 111	monocytes
+T3	cell_type 240 249	Monocytes
+T4	protein 320 347	tumor necrosis factor alpha
+T5	protein 350 358	TNFalpha
+T6	protein 365 387	interleukin- ( IL ) 10
+T7	cell_type 422 431	monocytes
+T8	protein 453 462	cytokines
+T9	cell_type 674 684	leukocytes
+T10	cell_type 924 933	monocytes
+T11	cell_type 951 960	monocytes
+T12	protein 1004 1012	TNFalpha
+T13	protein 1017 1022	IL-10
+T14	cell_type 1048 1057	monocytes
+T15	protein 1225 1241	protein kinase C
+T16	protein 1244 1247	PKC
+T17	protein 1254 1276	nuclear factor kappa B
+T18	protein 1279 1287	NFkappaB
+T19	protein 1329 1337	TNFalpha
+T20	cell_type 1367 1376	monocytes
+T21	protein 1441 1446	IL-10
+T22	cell_type 1476 1485	monocytes
+T23	protein 1511 1519	NFkappaB
+T24	cell_type 1547 1556	monocytes
+T25	protein 1577 1585	TNFalpha
+T26	cell_type 1615 1624	monocytes
+T27	RNA 1651 1664	TNFalpha mRNA
+T28	protein 1742 1750	TNFalpha
+T29	cell_type 1775 1790	human monocytes
+T30	protein 1825 1833	NFkappaB
+T31	protein 1885 1893	TNFalpha
+T32	cell_type 1908 1923	human monocytes
+T33	protein 1995 2003	TNFalpha

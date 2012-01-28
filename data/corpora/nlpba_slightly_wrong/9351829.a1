@@ -1,0 +1,39 @@
+T1	protein 19 44	latent membrane protein-1
+T2	protein 54 58	AP-1
+T3	protein 76 81	c-Jun
+T4	protein 133 158	latent membrane protein-1
+T5	protein 161 166	LMP-1
+T6	protein 175 200	integral membrane protein
+T7	cell_type 218 229	fibroblasts
+T8	protein 289 294	LMP-1
+T9	protein 330 340	NF-kappa B
+T10	protein 417 422	LMP-1
+T11	protein 443 448	LMP-1
+T12	protein 477 502	AP-1 transcription factor
+T13	protein 516 543	Jun/Jun or Jun/Fos proteins
+T14	protein 546 551	LMP-1
+T15	protein 563 567	AP-1
+T16	protein 607 612	c-Jun
+T17	protein 633 636	JNK
+T18	protein 661 698	extracellular signal-regulated kinase
+T19	protein 701 704	Erk
+T20	protein 732 737	LMP-1
+T21	protein 767 806	c-Jun N-terminal transactivation domain
+T22	protein 843 846	JNK
+T23	protein 915 937	C-terminal amino acids
+T24	protein 945 959	LMP-1 molecule
+T25	protein 974 997	TRAF interaction domain
+T26	protein 1018 1022	AP-1
+T27	protein 1036 1039	JNK
+T28	protein 1080 1084	AP-1
+T29	protein 1109 1112	LMP
+T30	protein 1163 1175	LMP-1 mutant
+T31	DNA 1186 1221	tetracycline-regulated LMP-1 allele
+T32	protein 1244 1247	JNK
+T33	protein 1285 1290	LMP-1
+T34	cell_type 1304 1311	B cells
+T35	protein 1403 1408	LMP-1
+T36	protein 1420 1423	JNK
+T37	protein 1426 1431	c-Jun
+T38	protein 1434 1438	AP-1
+T39	protein 1539 1544	LMP-1

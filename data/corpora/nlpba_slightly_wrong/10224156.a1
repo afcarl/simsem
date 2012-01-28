@@ -1,0 +1,27 @@
+T1	protein 0 21	Transcription factors
+T2	protein 22 25	Sp1
+T3	protein 30 34	AP-2
+T4	protein 56 77	acid sphingomyelinase
+T5	cell_line 128 162	human monocytic leukemia cell line
+T6	cell_line 163 168	THP-1
+T7	protein 388 404	lysosomal enzyme
+T8	protein 405 426	acid sphingomyelinase
+T9	cell_line 524 535	THP-1 cells
+T10	cell_type 567 595	human mononuclear phagocytes
+T11	protein 624 629	RNase
+T12	DNA 979 1003	5 ' deletion derivatives
+T13	DNA 1011 1037	upstream regulatory region
+T14	DNA 1093 1110	promoter elements
+T15	DNA 1164 1186	PMA responsive element
+T16	DNA 1221 1246	-319 and -219 bp upstream
+T17	DNA 1297 1337	transcription factor expression plasmids
+T18	protein 1342 1346	AP-2
+T19	protein 1351 1354	Sp1
+T20	DNA 1430 1443	binding sites
+T21	protein 1604 1607	Sp1
+T22	protein 1612 1616	AP-2
+T23	cell_line 1706 1717	THP-1 cells
+T24	cell_line 1814 1831	PMA-treated cells
+T25	protein 1908 1929	transcription factors
+T26	protein 1930 1934	AP-2
+T27	protein 1939 1942	Sp1

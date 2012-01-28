@@ -1,0 +1,41 @@
+T1	protein 0 3	Sp3
+T2	DNA 47 71	leukocyte integrin genes
+T3	DNA 72 77	CD11C
+T4	DNA 82 87	CD11B
+T5	DNA 126 131	CD11C
+T6	DNA 138 162	leukocyte integrin genes
+T7	DNA 163 168	CD11c
+T8	DNA 173 178	CD11b
+T9	DNA 263 298	-70 to -65 and -121 to -103 regions
+T10	DNA 306 320	CD11c promoter
+T11	DNA 329 346	-66 to -59 region
+T12	DNA 354 368	CD11b promoter
+T13	protein 400 404	Sp1-
+T14	protein 535 538	Sp1
+T15	protein 632 650	Sp1-related factor
+T16	protein 653 656	Sp3
+T17	protein 720 723	Sp3
+T18	DNA 735 771	CD11c promoter-luciferase constructs
+T19	cell_line 777 818	Sp-deficient Drosophila Schneider 2 cells
+T20	protein 831 834	Sp3
+T21	DNA 854 868	CD11c promoter
+T22	DNA 892 927	-70 to -65 and -121 to -103 regions
+T23	DNA 935 949	CD11c promoter
+T24	protein 988 991	Sp3
+T25	protein 1026 1029	Sp3
+T26	DNA 1046 1063	-70 to -65 region
+T27	protein 1087 1090	Sp3
+T28	protein 1099 1102	Sp1
+T29	DNA 1142 1159	-66 to -59 region
+T30	DNA 1167 1181	CD11b promoter
+T31	protein 1189 1192	Sp3
+T32	cell_line 1254 1270	Drosophila cells
+T33	protein 1283 1286	Sp3
+T34	protein 1317 1320	Sp1
+T35	protein 1344 1349	c-Jun
+T36	DNA 1362 1367	CD11c
+T37	protein 1420 1423	Sp3
+T38	cell_line 1442 1464	myelomocytic cell line
+T39	cell_line 1467 1471	HL60
+T40	protein 1488 1491	Sp3
+T41	DNA 1526 1551	CD11c and CD11b promoters

@@ -1,0 +1,25 @@
+T1	protein 8 34	heterodimerization partner
+T2	protein 39 63	thyroid hormone receptor
+T3	protein 66 108	Peroxisome proliferator-activated receptor
+T4	protein 111 134	Retinoid-like receptors
+T5	protein 188 200	heterodimers
+T6	protein 212 237	nuclear hormone receptors
+T7	protein 277 319	peroxisome proliferator-activated receptor
+T8	protein 322 326	PPAR
+T9	protein 338 396	thyroid hormone receptor ( THR ) auxiliary nuclear protein
+T10	protein 421 424	THR
+T11	protein 454 466	heterodimers
+T12	DNA 496 528	thyroid hormone response element
+T13	DNA 531 534	TRE
+T14	DNA 600 604	DR+4
+T15	protein 609 613	PPAR
+T16	protein 775 788	THR beta-PPAR
+T17	protein 801 827	THR alpha-PPAR heterodimer
+T18	DNA 841 844	TRE
+T19	DNA 847 851	DR+2
+T20	protein 879 882	THR
+T21	protein 923 933	distal box
+T22	protein 941 959	DNA binding domain
+T23	protein 970 974	PPAR
+T24	DNA 1037 1040	TRE
+T25	protein 1055 1066	THR isotype

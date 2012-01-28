@@ -1,0 +1,24 @@
+T1	protein 20 44	neutral sphingomyelinase
+T2	protein 49 95	mitogen- and stress- activated protein kinases
+T3	cell_line 99 122	T-lymphocyte cell lines
+T4	protein 125 149	Neutral sphingomyelinase
+T5	protein 152 157	SMase
+T6	protein 241 273	mitogen-activated protein kinase
+T7	protein 276 280	MAPK
+T8	protein 304 309	SMase
+T9	cell_line 350 356	Jurkat
+T10	cell_line 361 378	human T-cell line
+T11	cell_line 385 388	EL4
+T12	cell_line 393 411	murine T-cell line
+T13	protein 430 435	SMase
+T14	cell_line 471 480	EL4 cells
+T15	protein 572 581	ERK MAPKS
+T16	cell_line 587 593	Jurkat
+T17	cell_line 598 601	EL4
+T18	protein 657 666	JNK MAPKs
+T19	cell_line 670 676	Jurkat
+T20	cell_line 681 684	EL4
+T21	protein 721 725	JNKs
+T22	protein 824 827	ERK
+T23	cell_line 842 854	T-cell lines
+T24	protein 881 884	JNK

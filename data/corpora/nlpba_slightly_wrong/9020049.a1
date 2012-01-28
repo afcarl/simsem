@@ -1,0 +1,24 @@
+T1	protein 42 64	human carboxylesterase
+T2	cell_type 68 83	monocytic cells
+T3	protein 88 108	transcription factor
+T4	DNA 124 132	promoter
+T5	protein 135 152	Carboxylesterases
+T6	cell_line 301 326	monocytic cell line THP-1
+T7	protein 385 407	human carboxylesterase
+T8	cell_line 449 472	PMA-treated THP-1 cells
+T9	DNA 501 531	transcription initiation sites
+T10	RNA 594 626	overlapping antisense RNA probes
+T11	DNA 657 691	carboxylesterase upstream sequence
+T12	DNA 707 721	basal promoter
+T13	cell_line 734 743	CHO cells
+T14	DNA 817 832	promoter region
+T15	DNA 842 863	base pairs -1 to -275
+T16	protein 916 937	transcription factors
+T17	protein 952 967	nuclear factors
+T18	protein 968 971	Sp1
+T19	protein 976 980	IRBP
+T20	protein 992 998	C/EBPs
+T21	cell_line 1080 1091	THP-1 cells
+T22	protein 1137 1140	Sp1
+T23	protein 1145 1149	IRBP
+T24	DNA 1241 1268	human carboxylesterase gene

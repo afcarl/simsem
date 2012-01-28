@@ -1,0 +1,22 @@
+T1	cell_line 125 193	tumor necrosis factor-alpha ( TNF-alpha ) -treated endothelial cells
+T2	protein 236 240	CD36
+T3	protein 378 403	monocyte counter-receptor
+T4	protein 408 429	endothelial selectins
+T5	protein 572 581	TNF-alpha
+T6	cell_type 595 621	peripheral blood monocytes
+T7	cell_line 641 664	monocytic cell line MM6
+T8	protein 680 701	reverse transcriptase
+T9	RNA 775 789	TNF-alpha mRNA
+T10	RNA 876 913	interleukin-1 beta ( IL-1 beta ) mRNA
+T11	RNA 971 986	beta-actin mRNA
+T12	DNA 1055 1069	cytokine genes
+T13	DNA 1135 1172	IL-1 beta promoter/enhancer sequences
+T14	cell_line 1193 1196	MM6
+T15	protein 1242 1245	CAT
+T16	protein 1276 1295	monoclonal antibody
+T17	protein 1312 1321	IL-1 beta
+T18	cell_type 1450 1473	CD15 cross-linked cells
+T19	protein 1510 1552	transcriptional factor activator protein-1
+T20	protein 1573 1595	nuclear factor-kappa B
+T21	protein 1617 1649	SV40 promoter specific protein-1
+T22	cell_type 1886 1895	monocytes

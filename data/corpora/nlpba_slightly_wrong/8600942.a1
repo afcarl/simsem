@@ -1,0 +1,30 @@
+T1	protein 22 32	NF-kappa B
+T2	cell_type 53 68	monocytic cells
+T3	RNA 303 330	inflammatory c ytokine mRNA
+T4	protein 342 358	protein products
+T5	protein 361 388	tumor necrosis factor-alpha
+T6	protein 399 417	interleukin-1-beta
+T7	protein 420 424	IL-1
+T8	protein 429 442	interleukin-6
+T9	protein 445 449	IL-6
+T10	cell_type 457 483	human alveolar macrophages
+T11	RNA 552 560	TNF mRNA
+T12	cell_line 661 687	endotoxin-stimulated THP-1
+T13	cell_line 692 717	human monocytic cell line
+T14	protein 753 774	inflammatory cytokine
+T15	cell_type 804 837	normal human alveolar macrophages
+T16	cell_line 846 861	THP-1 cell line
+T17	cell_line 877 886	cell line
+T18	protein 986 1008	nuclear factor-kappa B
+T19	protein 1011 1021	NF-kappa B
+T20	DNA 1095 1122	inflammatory cytokine genes
+T21	DNA 1133 1136	TNF
+T22	DNA 1139 1143	IL-1
+T23	DNA 1150 1154	IL-6
+T24	protein 1248 1258	NF-kappa B
+T25	protein 1282 1285	p65
+T26	protein 1290 1293	p50
+T27	protein 1294 1315	NF-kappa B components
+T28	cell_line 1333 1344	THP-1 cells
+T29	protein 1507 1528	inflammatory cytokine
+T30	protein 1601 1611	NF-kappa B

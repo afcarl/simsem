@@ -1,0 +1,27 @@
+T1	cell_type 25 51	EKLF-/- adult erythrocytes
+T2	protein 77 95	beta-globin chains
+T3	protein 116 141	human gamma-globin chains
+T4	DNA 182 194	EKLF alleles
+T5	cell_line 198 232	murine embryonic stem ( ES ) cells
+T6	cell_line 258 274	EKLF-/- ES cells
+T7	cell_type 421 439	wild-type ES cells
+T8	cell_line 456 472	EKLF-/- colonies
+T9	cell_type 504 527	enucleated erythrocytes
+T10	DNA 672 694	embryonic globin genes
+T11	protein 748 762	beta h1-globin
+T12	RNA 832 867	adult beta-globin/alpha-globin mRNA
+T13	cell_line 875 890	mutant ES cells
+T14	cell_type 911 929	wild-type ES cells
+T15	cell_line 941 954	EKLF-/- cells
+T16	protein 1119 1167	glucose phosphate isomerase-1 ( GPI-1 ) isozymes
+T17	cell_type 1201 1229	ES cell-derived erythrocytes
+T18	cell_type 1240 1271	blastocyst-derived erythrocytes
+T19	cell_type 1333 1346	reticulocytes
+T20	cell_type 1395 1424	ES cell-derived reticulocytes
+T21	cell_line 1489 1509	EKLF-/- erythrocytes
+T22	protein 1584 1616	beta- versus alpha-globin chains
+T23	protein 1658 1677	alpha-globin chains
+T24	cell_line 1796 1812	EKLF-/- ES cells
+T25	DNA 1818 1845	human LCR/gamma-globin gene
+T26	cell_type 1880 1909	ES cell-derived reticulocytes
+T27	cell_type 1921 1940	mature erythrocytes

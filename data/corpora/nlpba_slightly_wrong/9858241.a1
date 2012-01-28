@@ -1,0 +1,18 @@
+T1	DNA 18 50	human delta-globin gene promoter
+T2	cell_type 54 83	primary adult erythroid cells
+T3	DNA 105 114	CCAAT box
+T4	DNA 134 185	erythroid Kruppel-like factor ( EKLF ) binding site
+T5	DNA 193 207	delta promoter
+T6	cell_line 244 264	erythroid cell lines
+T7	cell_line 307 357	primary human adult erythroid cell ( hAEC ) system
+T8	cell_type 394 417	late erythroblast stage
+T9	DNA 439 448	CCAAT box
+T10	DNA 452 458	-70 bp
+T11	DNA 480 497	EKLF binding site
+T12	DNA 501 507	-85 bp
+T13	DNA 511 517	-95 bp
+T14	DNA 525 533	promoter
+T15	DNA 638 647	CCAAT box
+T16	DNA 677 694	EKLF binding site
+T17	protein 698 710	delta-globin
+T18	cell_line 760 770	hAEC model

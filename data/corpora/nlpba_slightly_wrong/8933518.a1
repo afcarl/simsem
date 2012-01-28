@@ -1,0 +1,16 @@
+T1	DNA 48 71	tuberous sclerosis gene
+T2	DNA 74 78	TSC2
+T3	DNA 100 104	TSC2
+T4	DNA 118 136	chromosome 16p13.3
+T5	DNA 294 298	TSC2
+T6	DNA 360 403	digoxigenin-labeled complementary DNA probe
+T7	DNA 415 419	TSC2
+T8	RNA 507 525	TSC2 messenger RNA
+T9	cell_type 613 624	lymphocytes
+T10	cell_type 797 812	pyramidal cells
+T11	cell_type 846 859	motor neurons
+T12	DNA 916 920	TSC2
+T13	DNA 1003 1007	TSC2
+T14	cell_type 1123 1134	lymphocytes
+T15	cell_type 1165 1180	pyramidal cells
+T16	DNA 1325 1334	TSC2 gene

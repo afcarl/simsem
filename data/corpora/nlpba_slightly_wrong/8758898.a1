@@ -1,0 +1,20 @@
+T1	protein 0 16	C/EBP activators
+T2	cell_line 78 98	monocytic cell lines
+T3	DNA 130 141	C/EBP sites
+T4	protein 146 178	C/EBP transcriptional activators
+T5	DNA 197 206	HIV-1 LTR
+T6	cell_type 219 240	monocytes/macrophages
+T7	protein 278 292	C/EBP proteins
+T8	protein 382 399	C/EBP protein LIP
+T9	cell_line 445 463	activated U1 cells
+T10	protein 485 499	C/EBP proteins
+T11	cell_line 538 546	U1 lines
+T12	protein 562 577	C/EBP activator
+T13	protein 578 585	NF-IL-6
+T14	RNA 600 610	viral mRNA
+T15	cell_line 666 679	control lines
+T16	protein 701 715	C/EBP proteins
+T17	DNA 792 803	C/EBP sites
+T18	cell_line 851 874	U937 promonocytic cells
+T19	protein 956 970	C/EBP proteins
+T20	cell_type 1008 1029	monocytes/macrophages

@@ -1,0 +1,28 @@
+T1	cell_type 0 43	Human normal peripheral blood B-lymphocytes
+T2	protein 146 158	Ku86 protein
+T3	protein 179 189	Ku protein
+T4	protein 210 225	86 kDa ( Ku86 )
+T5	protein 232 256	70 kDa ( Ku70 ) subunits
+T6	protein 274 301	nuclear DNA-binding protein
+T7	DNA 326 337	DNA termini
+T8	protein 369 371	Ku
+T9	protein 379 402	DNA-targeting component
+T10	protein 416 434	catalytic sub-unit
+T11	protein 442 478	DNA-dependent protein kinase complex
+T12	protein 481 494	DNA-PK [ CS ]
+T13	protein 694 716	major Ku x DNA complex
+T14	cell_type 835 863	peripheral blood lymphocytes
+T15	cell_type 866 869	PBL
+T16	protein 904 928	faster migrating complex
+T17	cell_type 947 954	B cells
+T18	cell_type 965 998	circulating lymphocyte population
+T19	cell_type 1037 1044	B cells
+T20	protein 1075 1087	Ku86 protein
+T21	protein 1146 1173	86 kDa- full-length protein
+T22	protein 1189 1218	heterodimer Ku70/variant-Ku86
+T23	DNA 1228 1236	DNA-ends
+T24	protein 1264 1278	Ku heterodimer
+T25	protein 1318 1337	catalytic component
+T26	protein 1355 1368	DNA-PK ( CS )
+T27	cell_type 1436 1443	B cells
+T28	cell_type 1516 1523	B cells

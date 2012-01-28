@@ -1,0 +1,16 @@
+T1	protein 29 52	glucocorticoid receptor
+T2	cell_type 129 157	human mononuclear leukocytes
+T3	protein 301 324	glucocorticoid receptor
+T4	cell_type 328 356	human mononuclear leukocytes
+T5	protein 950 973	glucocorticoid receptor
+T6	protein 1109 1130	progesterone receptor
+T7	cell_type 1134 1162	human mononuclear leukocytes
+T8	cell_type 1399 1409	lymphocyte
+T9	protein 1486 1501	T-cell mitogens
+T10	protein 1502 1516	concanavalin A
+T11	protein 1521 1540	phytohaemagglutinin
+T12	cell_type 1573 1603	immunoglobulin secreting cells
+T13	cell_line 1607 1643	pokeweed mitogen-stimulated cultures
+T14	cell_type 1747 1760	T lymphocytes
+T15	protein 1935 1958	glucocorticoid receptor
+T16	cell_type 2006 2016	lymphocyte

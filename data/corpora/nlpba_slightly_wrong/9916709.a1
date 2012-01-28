@@ -1,0 +1,37 @@
+T1	DNA 24 33	IL-4 gene
+T2	protein 59 94	nuclear factor of activated T cells
+T3	cell_type 126 133	T cells
+T4	protein 178 187	cytokines
+T5	protein 230 234	IL-2
+T6	protein 293 302	cytokines
+T7	cell_type 306 313	T cells
+T8	cell_type 370 381	CD4 T cells
+T9	protein 403 407	IL-4
+T10	protein 431 435	IL-2
+T11	protein 488 541	nuclear factor of activated T cells ( NFAT ) proteins
+T12	DNA 652 654	P0
+T13	DNA 659 661	P1
+T14	DNA 662 683	NFAT-binding elements
+T15	DNA 691 704	IL-4 promoter
+T16	DNA 723 741	proximal P element
+T17	DNA 767 780	IL-4 promoter
+T18	cell_type 809 820	CD4 T cells
+T19	protein 834 839	NFAT1
+T20	protein 860 864	NFAT
+T21	cell_type 903 914	CD4 T cells
+T22	protein 923 942	activator protein 1
+T23	protein 955 974	activator protein 1
+T24	protein 1065 1070	NFAT1
+T25	DNA 1095 1108	IL-4 promoter
+T26	cell_type 1130 1141	CD4 T cells
+T27	protein 1155 1160	NFAT1
+T28	protein 1181 1185	IL-4
+T29	protein 1256 1261	NFAT1
+T30	DNA 1301 1314	IL-4 promoter
+T31	cell_type 1334 1345	CD4 T cells
+T32	protein 1379 1394	endogenous NFAT
+T33	protein 1408 1412	IL-4
+T34	protein 1451 1456	NFAT1
+T35	protein 1481 1499	NFAT family member
+T36	protein 1552 1556	IL-4
+T37	cell_type 1567 1578	CD4 T cells

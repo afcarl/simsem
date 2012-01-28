@@ -1,0 +1,24 @@
+T1	protein 30 51	interleukin ( IL ) -1
+T2	protein 79 118	IL-1 receptor-associated protein kinase
+T3	protein 123 133	NF-kappa B
+T4	protein 140 169	interleukin-1 receptor type I
+T5	protein 172 178	IL-1RI
+T6	protein 230 244	complex system
+T7	protein 254 258	IL-1
+T8	protein 369 403	receptor-associated protein kinase
+T9	protein 496 500	IL-1
+T10	protein 665 697	IL-1RI-associated protein kinase
+T11	protein 799 803	IL-1
+T12	protein 814 824	NF-kappa B
+T13	cell_line 840 858	murine T cell line
+T14	cell_line 861 864	EL4
+T15	protein 887 891	IL-1
+T16	protein 1143 1147	IL-1
+T17	protein 1175 1207	IL-1RI-associated protein kinase
+T18	protein 1497 1521	IL-1RI-associated kinase
+T19	protein 1559 1569	NF-kappa B
+T20	cell_line 1573 1582	EL4 cells
+T21	protein 1645 1659	IL-1RI complex
+T22	protein 1700 1732	IL-1RI-associated protein kinase
+T23	protein 1772 1776	IL-1
+T24	protein 1798 1808	NF-kappa B

@@ -1,0 +1,34 @@
+T1	protein 35 38	Tax
+T2	protein 53 67	NF-kappa B/Rel
+T3	protein 112 127	I kappa B alpha
+T4	protein 132 136	RelA
+T5	protein 139 142	p65
+T6	DNA 172 182	c-rel gene
+T7	protein 267 292	transcriptional activator
+T8	DNA 362 376	cellular genes
+T9	cell_type 389 395	T-cell
+T10	protein 477 498	transcription factors
+T11	protein 526 547	NF-kappa B/Rel family
+T12	protein 551 576	enhancer-binding proteins
+T13	cell_type 582 597	resting T cells
+T14	protein 614 636	NF-kappa B/Rel factors
+T15	protein 681 713	ankyrin-rich inhibitory proteins
+T16	protein 726 741	I kappa B alpha
+T17	protein 744 754	HTLV-I Tax
+T18	protein 834 844	NF-kappa B
+T19	protein 849 864	c-Rel complexes
+T20	protein 998 1001	Tax
+T21	protein 1036 1046	NF-kappa B
+T22	cell_line 1055 1104	HTLV-I-infected and Tax-transfected human T cells
+T23	protein 1181 1196	I kappa B alpha
+T24	protein 1289 1304	I kappa B alpha
+T25	protein 1344 1362	NF-kappa B complex
+T26	protein 1467 1485	NF-kappa B complex
+T27	protein 1516 1519	Tax
+T28	protein 1541 1546	c-Rel
+T29	protein 1578 1582	RelA
+T30	protein 1585 1588	p65
+T31	protein 1602 1612	NF-kappa B
+T32	DNA 1652 1662	c-rel gene
+T33	DNA 1684 1708	kappa B enhancer element
+T34	protein 1760 1773	nuclear c-Rel

@@ -1,0 +1,51 @@
+T1	protein 24 64	human interleukin 4 receptor alpha chain
+T2	RNA 73 102	Cepsilon germline transcripts
+T3	cell_type 106 113	B cells
+T4	protein 136 170	interleukin 2 receptor gamma chain
+T5	protein 177 186	cytokines
+T6	protein 187 208	interleukin ( IL ) -4
+T7	protein 213 218	IL-13
+T8	RNA 252 281	Cepsilon germline transcripts
+T9	protein 286 297	IgE isotype
+T10	cell_type 311 324	human B cells
+T11	protein 331 344	IL-4 receptor
+T12	protein 347 352	IL-4R
+T13	cell_type 358 365	B cells
+T14	protein 398 427	IL-4-binding IL-4Ralpha chain
+T15	protein 455 461	IL-13R
+T16	protein 472 499	IL-2Rgamma ( gammac ) chain
+T17	protein 523 528	IL-7R
+T18	protein 531 536	IL-9R
+T19	protein 543 549	IL-15R
+T20	protein 552 556	IL-4
+T21	RNA 565 594	Cepsilon germline transcripts
+T22	protein 599 610	IgE isotype
+T23	cell_type 624 631	B cells
+T24	protein 651 663	gammac chain
+T25	RNA 690 719	Cepsilon germline transcripts
+T26	protein 723 727	IL-4
+T27	cell_type 731 738	B cells
+T28	protein 753 765	gammac chain
+T29	protein 796 802	IL-13R
+T30	protein 825 841	IL-4Ralpha chain
+T31	DNA 891 904	Cepsilon gene
+T32	protein 1020 1046	chimeric surface receptors
+T33	protein 1065 1104	extracellular and transmembrane domains
+T34	protein 1112 1135	erythropoietin receptor
+T35	protein 1147 1167	intracellular domain
+T36	protein 1171 1181	IL-4Ralpha
+T37	protein 1190 1204	Janus kinase 1
+T38	protein 1207 1211	Jak1
+T39	protein 1227 1232	STAT6
+T40	RNA 1250 1279	Cepsilon germline transcripts
+T41	cell_line 1283 1305	human B cell line BJAB
+T42	protein 1326 1363	Jak1-binding proline-rich Box1 region
+T43	protein 1367 1377	IL-4Ralpha
+T44	protein 1406 1423	chimeric receptor
+T45	cell_type 1440 1447	B cells
+T46	protein 1467 1504	chimeric CD8alpha/IL-4Ralpha receptor
+T47	protein 1551 1560	homodimer
+T48	RNA 1588 1617	Cepsilon germline transcripts
+T49	protein 1671 1687	IL-4Ralpha chain
+T50	protein 1715 1719	Jak1
+T51	protein 1766 1777	IgE isotype

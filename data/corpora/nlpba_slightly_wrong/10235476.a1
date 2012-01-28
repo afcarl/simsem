@@ -1,0 +1,21 @@
+T1	protein 4 22	oestrogen receptor
+T2	DNA 23 31	codon 10
+T3	cell_type 90 109	non-malignant cells
+T4	protein 193 216	intracellular receptors
+T5	protein 219 226	ERalpha
+T6	protein 231 237	ERbeta
+T7	protein 242 260	Oestrogen receptor
+T8	protein 307 325	N-terminal portion
+T9	DNA 508 516	codon 10
+T10	DNA 520 526	exon 1
+T11	cell_line 541 599	ER-negative and ER-positive human breast cancer cell lines
+T12	DNA 623 632	blood DNA
+T13	DNA 688 704	polymorphic site
+T14	DNA 782 794	DNA sequence
+T15	DNA 833 858	codon 10 polymorphic site
+T16	cell_type 975 1009	peripheral blood mononuclear cells
+T17	DNA 1073 1084	ER codon 10
+T18	DNA 1237 1251	wild-type gene
+T19	DNA 1306 1327	codon-10-variant type
+T20	DNA 1378 1399	codon-10-variant type
+T21	DNA 1551 1562	ER codon 10

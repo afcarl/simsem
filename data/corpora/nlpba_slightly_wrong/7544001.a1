@@ -1,0 +1,33 @@
+T1	protein 56 69	Stat proteins
+T2	protein 98 107	cytokines
+T3	cell_type 231 244	T lymphocytes
+T4	cell_type 249 269	natural killer cells
+T5	protein 311 315	IL-2
+T6	protein 386 390	IL-2
+T7	protein 459 466	kinases
+T8	protein 469 474	Jak-1
+T9	protein 479 484	Jak-3
+T10	protein 630 639	cytokines
+T11	protein 654 665	Jak kinases
+T12	protein 741 752	Stat family
+T13	protein 756 777	transcription factors
+T14	protein 795 799	IL-2
+T15	cell_type 869 888	human T lymphocytes
+T16	cell_line 897 921	natural killer cell line
+T17	cell_line 924 927	NKL
+T18	protein 933 937	IL-2
+T19	protein 970 981	Stat1 alpha
+T20	protein 1001 1006	Stat3
+T21	protein 1027 1048	Stat-related proteins
+T22	protein 1051 1054	p94
+T23	protein 1059 1062	p95
+T24	protein 1065 1068	p94
+T25	protein 1073 1076	p95
+T26	protein 1097 1102	Stat1
+T27	protein 1110 1130	phosphorylation site
+T28	protein 1142 1171	Src homology 2 ( SH2 ) domain
+T29	protein 1222 1227	Stat1
+T30	protein 1236 1249	Stat proteins
+T31	DNA 1308 1329	specific DNA sequence
+T32	protein 1376 1380	IL-2
+T33	DNA 1418 1432	specific genes

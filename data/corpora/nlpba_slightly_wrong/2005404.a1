@@ -1,0 +1,32 @@
+T1	protein 0 24	Kappa B binding proteins
+T2	cell_line 60 92	IL-2 autocrine human T cell line
+T3	DNA 99 130	IL-2 and the IL-2-R alpha genes
+T4	cell_type 165 185	normal T lymphocytes
+T5	cell_line 237 254	human T cell line
+T6	cell_line 257 265	IARC 301
+T7	protein 405 425	T cell growth factor
+T8	protein 430 449	high affinity IL-2R
+T9	DNA 528 555	IL-2 and IL-2-R alpha genes
+T10	cell_line 565 573	IARC 301
+T11	cell_type 574 581	T cells
+T12	protein 621 662	constitutively expressed nuclear proteins
+T13	DNA 672 692	5 ' flanking regions
+T14	DNA 700 727	IL-2 and IL-2-R alpha genes
+T15	protein 739 746	DNase I
+T16	DNA 854 866	IL-2-R alpha
+T17	DNA 888 892	IL-2
+T18	DNA 920 946	kappa B enhancer element ,
+T19	protein 976 992	nuclear proteins
+T20	cell_line 998 1006	IARC 301
+T21	DNA 1051 1082	IL-2 and IL-2-R alpha promoters
+T22	cell_line 1130 1144	IARC 301 cells
+T23	protein 1177 1193	kappa B enhancer
+T24	DNA 1244 1253	promoters
+T25	DNA 1281 1297	kappa B sequence
+T26	protein 1300 1310	NF-kappa B
+T27	protein 1315 1319	KBF1
+T28	cell_line 1354 1362	IARC 301
+T29	protein 1393 1396	PHA
+T30	cell_line 1400 1406	Jurkat
+T31	DNA 1426 1440	kappa B motifs
+T32	DNA 1551 1560	promoters

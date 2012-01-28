@@ -1,0 +1,29 @@
+T1	DNA 30 46	IgH 3 ' enhancer
+T2	DNA 60 65	c-myc
+T3	DNA 169 174	c-myc
+T4	DNA 191 230	immunoglobulin heavy chain ( IgH ) gene
+T5	DNA 261 285	B cell-specific promoter
+T6	DNA 288 305	intronic enhancer
+T7	DNA 321 354	B cell-specific enhancer elements
+T8	DNA 397 406	IgH locus
+T9	DNA 442 458	IgH 3 ' enhancer
+T10	DNA 647 667	locus control region
+T11	DNA 670 673	LCR
+T12	DNA 716 730	c-myc oncogene
+T13	DNA 769 778	IgH locus
+T14	DNA 845 858	Ig gene class
+T15	DNA 990 1006	IgH 3 ' enhancer
+T16	cell_line 1014 1044	mouse MPC11 plasmacytoma cells
+T17	DNA 1060 1076	IgH 3 ' enhancer
+T18	cell_type 1104 1115	fibroblasts
+T19	cell_line 1203 1246	MPC11 plasmacytoma x fibroblast environment
+T20	DNA 1253 1269	IgH 3 ' enhancer
+T21	protein 1355 1392	B cell-specific transcription factors
+T22	DNA 1409 1425	IgH 3 ' enhancer
+T23	DNA 1591 1596	c-myc
+T24	cell_line 1630 1641	MPC11 cells
+T25	DNA 1651 1682	the t ( 12 ; 15 ) translocation
+T26	cell_type 1737 1748	fibroblasts
+T27	DNA 1783 1799	IgH 3 ' enhancer
+T28	protein 1846 1867	transcription factors
+T29	DNA 1933 1941	enhancer

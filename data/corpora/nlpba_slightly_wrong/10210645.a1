@@ -1,0 +1,53 @@
+T1	protein 12 21	NF-kappaB
+T2	protein 37 46	TNF-alpha
+T3	cell_type 58 73	human monocytes
+T4	protein 78 101	protein tyrosine kinase
+T5	protein 116 132	protein kinase C
+T6	protein 160 187	Tumor necrosis factor alpha
+T7	protein 190 199	TNF-alpha
+T8	cell_type 286 301	human monocytes
+T9	protein 325 347	nuclear factor-kappa B
+T10	protein 350 359	NF-kappaB
+T11	protein 366 375	TNF-alpha
+T12	protein 438 454	protein kinase C
+T13	protein 457 460	PKC
+T14	protein 467 491	protein tyrosine kinases
+T15	protein 494 497	PTK
+T16	protein 515 524	NF-kappaB
+T17	protein 540 549	TNF-alpha
+T18	protein 605 608	PKC
+T19	protein 612 615	PTK
+T20	protein 643 652	NF-kappaB
+T21	protein 669 678	TNF-alpha
+T22	cell_type 690 705	human monocytes
+T23	cell_type 732 747	Human monocytes
+T24	protein 844 875	serine/threonine protein kinase
+T25	protein 929 932	PKC
+T26	protein 992 995	PTK
+T27	protein 1016 1025	TNF-alpha
+T28	protein 1085 1094	NF-kappaB
+T29	protein 1187 1196	NF-kappaB
+T30	protein 1213 1222	TNF-alpha
+T31	cell_type 1234 1249	human monocytes
+T32	protein 1264 1278	protein kinase
+T33	protein 1300 1309	NF-kappaB
+T34	protein 1325 1334	TNF-alpha
+T35	protein 1360 1363	PKC
+T36	protein 1413 1422	NF-kappaB
+T37	protein 1438 1447	TNF-alpha
+T38	protein 1458 1461	PTK
+T39	protein 1510 1519	NF-kappaB
+T40	protein 1536 1545	TNF-alpha
+T41	cell_type 1560 1575	human monocytes
+T42	protein 1599 1602	PKC
+T43	protein 1625 1634	NF-kappaB
+T44	protein 1650 1659	TNF-alpha
+T45	cell_type 1674 1689	human monocytes
+T46	protein 1745 1754	NF-kappaB
+T47	protein 1770 1779	TNF-alpha
+T48	cell_type 1791 1806	human monocytes
+T49	protein 1826 1829	PKC
+T50	protein 1889 1892	PTK
+T51	protein 1921 1930	NF-kappaB
+T52	protein 1946 1955	TNF-alpha
+T53	cell_type 1967 1982	human monocytes

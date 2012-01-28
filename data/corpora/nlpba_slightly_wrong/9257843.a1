@@ -1,0 +1,30 @@
+T1	protein 28 43	nuclear factors
+T2	DNA 53 85	leukocyte-specific pp52 promoter
+T3	cell_type 89 102	B and T cells
+T4	cell_type 245 264	B and T lymphocytes
+T5	cell_type 267 279	granulocytes
+T6	cell_type 286 297	macrophages
+T7	DNA 325 349	tissue-specific promoter
+T8	protein 382 392	N terminus
+T9	protein 400 422	pp52 leukocyte protein
+T10	cell_type 528 541	B and T cells
+T11	DNA 575 588	pp52 promoter
+T12	DNA 633 645	5 ' terminus
+T13	RNA 649 658	pp52 mRNA
+T14	DNA 677 695	Ets and SP1 motifs
+T15	DNA 704 720	lone C/EBP motif
+T16	cell_type 929 936	B cells
+T17	cell_type 940 947	T cells
+T18	DNA 954 964	Ets motifs
+T19	protein 993 997	PU-1
+T20	protein 1070 1087	Ets family member
+T21	DNA 1138 1149	C/EBP motif
+T22	protein 1162 1170	Ig/EBP-1
+T23	protein 1226 1249	nuclear factor-IL-6beta
+T24	protein 1255 1299	nuclear factor-IL-6beta-Ig/EBP-1 heterodimer
+T25	protein 1401 1409	Ig/EBP-1
+T26	DNA 1456 1464	promoter
+T27	DNA 1518 1531	pp52 promoter
+T28	cell_type 1535 1548	B and T cells
+T29	DNA 1615 1623	promoter
+T30	cell_type 1633 1651	leukocyte lineages

@@ -1,0 +1,40 @@
+T1	protein 61 101	class II MHC X1 box DNA-binding proteins
+T2	cell_line 105 145	wild-type and class II-deficient B cells
+T3	DNA 152 164	X box region
+T4	DNA 209 256	class II major histocompatibility complex genes
+T5	cell_type 260 273	B lymphocytes
+T6	protein 293 339	class II promoter-specific DNA binding factors
+T7	DNA 371 383	X box region
+T8	protein 393 396	RFX
+T9	cell_line 478 490	B cell lines
+T10	protein 599 625	X box DNA-binding proteins
+T11	DNA 629 642	class II gene
+T12	DNA 672 684	X box region
+T13	cell_line 706 723	class II-positive
+T14	cell_line 728 752	-negative lymphoid cells
+T15	cell_line 774 800	wild-type B cell line Raji
+T16	cell_line 803 849	two class II transcriptional mutant cell lines
+T17	cell_line 852 855	SJO
+T18	cell_line 860 867	RJ2.2.5
+T19	cell_line 874 880	Jurkat
+T20	cell_line 885 914	class II negative T cell line
+T21	cell_line 948 965	wild-type B cells
+T22	cell_line 983 1009	class II mutant cell lines
+T23	DNA 1024 1036	X box region
+T24	DNA 1091 1104	reporter gene
+T25	protein 1225 1251	X1 box DNA-binding protein
+T26	protein 1252 1255	RFX
+T27	cell_line 1296 1313	wild-type B cells
+T28	cell_line 1329 1336	RJ2.2.5
+T29	cell_line 1355 1358	SJO
+T30	cell_line 1363 1369	Jurkat
+T31	cell_line 1442 1452	cell lines
+T32	protein 1531 1551	DNA binding proteins
+T33	protein 1599 1607	protease
+T34	protein 1755 1774	X1-specific factors
+T35	protein 1837 1840	RFX
+T36	cell_line 1918 1930	Jurkat cells
+T37	protein 2015 2018	RFX
+T38	cell_line 2079 2082	SJO
+T39	cell_type 2239 2253	lymphoid cells
+T40	protein 2296 2299	RFX

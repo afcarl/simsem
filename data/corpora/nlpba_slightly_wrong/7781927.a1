@@ -1,0 +1,10 @@
+T1	protein 14 45	transcription factor NF kappa B
+T2	cell_line 395 412	human T cell line
+T3	cell_line 415 421	Molt-4
+T4	protein 481 512	transcription factor NF kappa B
+T5	protein 648 658	NF kappa B
+T6	protein 781 785	GSSG
+T7	protein 892 896	GSSG
+T8	cell_type 940 952	intact cells
+T9	protein 960 970	NF kappa B
+T10	DNA 985 1016	immunologically important genes

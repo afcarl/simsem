@@ -1,0 +1,15 @@
+T1	cell_type 69 83	lymphoid cells
+T2	cell_type 424 434	macrophage
+T3	protein 472 479	mitogen
+T4	cell_type 687 702	lymphoid tissue
+T5	protein 821 839	estrogen receptors
+T6	cell_line 866 891	lymphocyte subpopulations
+T7	cell_line 1229 1251	lymphocyte populations
+T8	cell_type 1256 1266	lymphocyte
+T9	cell_type 1316 1327	Lymphocytes
+T10	protein 1411 1415	ConA
+T11	protein 1420 1423	LPS
+T12	protein 1426 1446	T and B cell mitogen
+T13	cell_type 1556 1569	T helper cell
+T14	cell_type 1599 1619	Natural Killer cells
+T15	cell_type 2069 2079	lymphocyte

@@ -1,0 +1,23 @@
+T1	cell_type 228 241	B lymphocytes
+T2	cell_type 246 262	epithelial cells
+T3	cell_type 282 295	T lymphocytes
+T4	cell_type 298 307	monocytes
+T5	cell_type 312 324	granulocytes
+T6	cell_type 394 416	resting memory B cells
+T7	DNA 536 591	EBV-encoded latent membrane protein 1 ( LMP1 ) oncogene
+T8	protein 629 633	LMP1
+T9	protein 646 679	constitutively activated receptor
+T10	protein 687 724	tumor necrosis factor receptor family
+T11	protein 865 929	tumor necrosis factor receptor-associated factor ( TRAF ) family
+T12	protein 932 937	TRAF2
+T13	protein 948 957	NF-kappaB
+T14	protein 971 975	AP-1
+T15	protein 990 994	JAK3
+T16	protein 997 1001	STAT
+T17	cell_line 1062 1070	lymphoma
+T18	protein 1088 1092	LMP1
+T19	protein 1353 1369	carboxy terminus
+T20	protein 1373 1377	LMP1
+T21	cell_type 1579 1602	Cytotoxic T lymphocytes
+T22	DNA 1651 1668	EBV latency genes
+T23	cell_line 1739 1763	EBV-associated lymphomas

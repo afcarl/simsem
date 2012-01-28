@@ -1,0 +1,38 @@
+T1	DNA 0 39	Mouse interleukin-2 receptor alpha gene
+T2	protein 53 66	Interleukin-1
+T3	protein 71 84	interleukin-2
+T4	DNA 120 139	cis-acting elements
+T5	protein 161 174	interleukin-1
+T6	protein 177 181	IL-1
+T7	protein 188 192	IL-2
+T8	DNA 201 241	IL-2 receptor alpha ( IL-2R alpha ) gene
+T9	cell_line 259 298	CD4-CD8- murine T lymphocyte precursors
+T10	DNA 317 336	cis-acting elements
+T11	DNA 384 406	mouse IL-2R alpha gene
+T12	cell_line 415 448	thymic lymphoma-derived hybridoma
+T13	cell_line 451 455	PC60
+T14	DNA 496 512	IL-2R alpha gene
+T15	protein 531 535	IL-1
+T16	protein 538 542	IL-2
+T17	protein 557 561	IL-1
+T18	RNA 624 640	IL-2R alpha mRNA
+T19	protein 674 684	NF-kappa B
+T20	protein 729 733	IL-2
+T21	protein 794 798	IL-2
+T22	RNA 838 861	IL-2R alpha transcripts
+T23	DNA 933 957	promoter-proximal region
+T24	DNA 965 981	IL-2R alpha gene
+T25	protein 996 1000	IL-1
+T26	DNA 1038 1053	NF-kappa B site
+T27	DNA 1071 1091	human and mouse gene
+T28	protein 1094 1098	IL-2
+T29	DNA 1149 1170	78-nucleotide segment
+T30	DNA 1201 1231	major transcription start site
+T31	DNA 1263 1286	IL-2-inducible enhancer
+T32	protein 1325 1332	DNase I
+T33	cell_type 1358 1365	T cells
+T34	protein 1375 1386	IL-2R alpha
+T35	protein 1417 1421	IL-2
+T36	DNA 1461 1469	elements
+T37	DNA 1481 1489	enhancer
+T38	protein 1537 1550	STAT proteins

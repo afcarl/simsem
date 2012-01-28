@@ -1,0 +1,15 @@
+T1	cell_type 330 358	nontarget spleen lymphocytes
+T2	cell_type 363 380	bone marrow cells
+T3	cell_type 391 403	lacI mutants
+T4	cell_type 459 479	acI and hprt mutants
+T5	cell_type 483 501	spleen lymphocytes
+T6	DNA 562 570	lacI DNA
+T7	DNA 575 584	hprt cDNA
+T8	cell_type 1146 1176	spleen lymphocyte lacI mutants
+T9	cell_type 1206 1223	spleen lymphocyte
+T10	cell_type 1224 1245	lacI and hprt mutants
+T11	DNA 1294 1305	genomic DNA
+T12	cell_type 1315 1327	hprt mutants
+T13	DNA 1404 1413	hprt gene
+T14	DNA 1660 1675	endogenous gene
+T15	DNA 1680 1689	transgene

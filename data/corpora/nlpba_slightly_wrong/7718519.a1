@@ -1,0 +1,30 @@
+T1	protein 0 13	IL-1 receptor
+T2	protein 18 21	TCR
+T3	protein 52 62	NF-kappa B
+T4	protein 134 147	IL-1 receptor
+T5	protein 150 155	IL-1R
+T6	protein 164 167	TCR
+T7	DNA 265 305	lymphokine and lymphokine receptor genes
+T8	cell_type 363 383	T helper lymphocytes
+T9	protein 447 459	type I IL-1R
+T10	protein 569 579	NF-kappa B
+T11	protein 598 614	antigen receptor
+T12	protein 654 670	protein kinase C
+T13	protein 893 903	NF-kappa B
+T14	protein 953 957	IL-1
+T15	protein 973 989	antigen receptor
+T16	protein 1085 1095	NF-kappa B
+T17	protein 1134 1149	I kappa B alpha
+T18	protein 1152 1156	MAD3
+T19	protein 1161 1171	NF-kappa B
+T20	protein 1227 1236	I kappa B
+T21	protein 1265 1269	IL-1
+T22	protein 1279 1289	NF-kappa B
+T23	protein 1460 1464	IL-1
+T24	protein 1478 1488	NF-kappa B
+T25	protein 1576 1586	NF-kappa B
+T26	protein 1654 1664	NF-kappa B
+T27	protein 1726 1730	IL-1
+T28	protein 1799 1809	NF-kappa B
+T29	protein 1868 1872	IL-1
+T30	protein 1882 1892	NF-kappa B
