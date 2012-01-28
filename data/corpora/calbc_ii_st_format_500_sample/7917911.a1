@@ -1,0 +1,18 @@
+T1	DISO 41 57	multiple myeloma
+T2	PRGE 93 112	interferon alpha 2b
+T3	PRGE 196 205	IFN-alpha
+T4	DISO 237 253	multiple myeloma
+T5	PRGE 468 477	IFN-alpha
+T6	SPE 494 499	virus
+T7	PRGE 567 576	IFN-alpha
+T8	PRGE 680 688	cytokine
+T9	SPE 831 836	human
+T10	PRGE 847 856	IFN-alpha
+T11	PRGE 986 995	IFN-alpha
+T12	PRGE 1089 1098	IFN-alpha
+T13	SPE 1113 1118	human
+T14	PRGE 1129 1138	IFN-alpha
+T15	DISO 1256 1272	multiple myeloma
+T16	DISO 1296 1303	relapse
+T17	PRGE 1326 1335	IFN-alpha
+T18	PRGE 1464 1473	IFN-alpha

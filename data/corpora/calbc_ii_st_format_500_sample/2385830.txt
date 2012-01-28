@@ -1,0 +1,2 @@
+Anti-human factor IX monoclonal antibodies specific for calcium ion-induced conformations.
+Four monoclonal antibodies have been produced, which are specific for the Ca2+ or Sr2(+)-induced conformation of human factor IX. Certain, but not all, gamma-carboxy-glutamic acid residues in factor IX are involved in the epitope expression together with the conformation stabilized by the adjacent region of Gla-domain and a disulfide bridge. All the antibodies interfered with the binding of factor IX to phospholipids and inhibited the procoagulant activity of factors IX and IXa beta.

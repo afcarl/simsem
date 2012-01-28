@@ -1,0 +1,20 @@
+T1	SPE 48 58	poliovirus
+T2	SPE 75 85	poliovirus
+T3	CHED 246 260	Viral proteins
+T4	PRGE 246 260	Viral proteins
+T5	SPE 309 319	poliovirus
+T6	PRGE 413 423	polymerase
+T7	SPE 455 459	host
+T8	CHED 528 531	RNA
+T9	SPE 550 560	poliovirus
+T10	DISO 561 570	infection
+T11	CHED 623 630	epitope
+T12	PRGE 690 700	3A protein
+T13	SPE 735 745	poliovirus
+T14	CHED 969 976	epitope
+T15	SPE 1029 1039	poliovirus
+T16	SPE 1088 1093	virus
+T17	PRGE 1140 1153	coding region
+T18	PRGE 1174 1186	binding site
+T19	SPE 1239 1249	poliovirus
+T20	PRGE 1264 1278	RNA polymerase

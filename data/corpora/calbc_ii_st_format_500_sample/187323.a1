@@ -1,0 +1,19 @@
+T1	DISO 118 123	tumor
+T2	DISO 256 261	tumor
+T3	DISO 702 707	tumor
+T4	SPE 726 736	guinea pig
+T5	DISO 745 760	hepatocarcinoma
+T6	SPE 843 849	strain
+T7	SPE 852 863	guinea pigs
+T8	DISO 897 902	tumor
+T9	SPE 932 940	Bacillus
+T10	SPE 1027 1035	Bacillus
+T11	DISO 1052 1057	tumor
+T12	SPE 1064 1071	animals
+T13	SPE 1111 1118	animals
+T14	SPE 1137 1147	guinea pig
+T15	SPE 1174 1182	Bacillus
+T16	DISO 1199 1204	tumor
+T17	SPE 1211 1218	animals
+T18	DISO 1285 1290	tumor
+T19	DISO 1399 1404	tumor

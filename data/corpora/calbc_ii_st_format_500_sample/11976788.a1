@@ -1,0 +1,40 @@
+T1	SPE 59 74	squirrel monkey
+T2	SPE 77 84	Saimiri
+T3	PRGE 103 106	Th2
+T4	SPE 122 130	Primates
+T5	SPE 194 199	human
+T6	DISO 200 207	disease
+T7	SPE 213 228	squirrel monkey
+T8	SPE 230 237	Saimiri
+T9	SPE 252 268	New World monkey
+T10	SPE 340 345	human
+T11	SPE 346 355	pathogens
+T12	SPE 395 411	squirrel monkeys
+T13	CHED 541 549	reagents
+T14	SPE 610 625	squirrel monkey
+T15	DISO 742 751	infection
+T16	SPE 761 768	animals
+T17	SPE 774 783	pathogens
+T18	SPE 862 877	squirrel monkey
+T19	PRGE 886 889	Th2
+T20	PRGE 936 940	IL-2
+T21	PRGE 942 946	IL-5
+T22	PRGE 948 952	IL-6
+T23	PRGE 954 959	IL-10
+T24	CHED 961 988	tumor necrosis factor alpha
+T25	PRGE 961 988	tumor necrosis factor alpha
+T26	CHED 994 1010	gamma interferon
+T27	PRGE 994 1010	gamma interferon
+T28	PRGE 1054 1073	nucleotide sequence
+T29	SPE 1081 1096	squirrel monkey
+T30	PRGE 1106 1111	genes
+T31	SPE 1150 1155	human
+T32	SPE 1170 1177	primate
+T33	PRGE 1178 1183	genes
+T34	SPE 1261 1269	primates
+T35	SPE 1274 1279	human
+T36	SPE 1404 1412	primates
+T37	PRGE 1484 1505	reverse transcriptase
+T38	PRGE 1595 1604	cytokines
+T39	SPE 1608 1624	squirrel monkeys
+T40	CHED 1652 1660	plasmids

@@ -1,0 +1,33 @@
+T1	PRGE 18 47	extracellular matrix proteins
+T2	SPE 51 56	human
+T3	CHED 131 145	beclomethasone
+T4	DISO 196 202	asthma
+T5	PRGE 285 288	ECM
+T6	PRGE 363 366	ECM
+T7	SPE 379 384	human
+T8	DISO 465 474	asthmatic
+T9	SPE 475 485	individual
+T10	SPE 519 529	individual
+T11	CHED 546 560	beclomethasone
+T12	PRGE 629 639	antibodies
+T13	SPE 643 648	human
+T14	PRGE 649 660	fibronectin
+T15	PRGE 662 670	perlecan
+T16	CHED 672 679	elastin
+T17	PRGE 672 679	elastin
+T18	CHED 754 773	chondroitin sulfate
+T19	PRGE 809 817	versican
+T20	PRGE 823 830	decorin
+T21	DISO 847 856	asthmatic
+T22	SPE 857 867	individual
+T23	SPE 915 925	individual
+T24	PRGE 978 989	fibronectin
+T25	PRGE 991 999	perlecan
+T26	CHED 1023 1042	chondroitin sulfate
+T27	CHED 1048 1062	Beclomethasone
+T28	DISO 1150 1159	asthmatic
+T29	SPE 1176 1186	individual
+T30	PRGE 1224 1227	ECM
+T31	PRGE 1308 1311	ASM
+T32	DISO 1385 1391	asthma
+T33	CHED 1402 1417	corticosteroids

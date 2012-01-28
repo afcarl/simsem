@@ -1,0 +1,17 @@
+T1	CHED 55 62	epitope
+T2	SPE 66 94	human immunodeficiency virus
+T3	DISO 66 94	human immunodeficiency virus
+T4	CHED 206 213	epitope
+T5	SPE 221 249	human immunodeficiency virus
+T6	SPE 251 254	HIV
+T7	PRGE 269 272	p24
+T8	CHED 312 315	mAb
+T9	PRGE 312 315	mAb
+T10	CHED 547 550	mAb
+T11	PRGE 547 550	mAb
+T12	CHED 604 607	mAb
+T13	PRGE 604 607	mAb
+T14	PRGE 689 697	peptides
+T15	CHED 726 729	mAb
+T16	PRGE 726 729	mAb
+T17	CHED 907 914	epitope

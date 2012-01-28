@@ -1,0 +1,2 @@
+Investigators study role of IL-7 in HIV progression.
+San Francisco investigators have been studying interleukin-7 (IL-7) and its role in HIV disease progression in hopes of better understanding how T-cell production is regulated and how this knowledge might be applied to therapeutic intervention and immunosuppression in either AIDS patients or bone marrow transplant patients. This interest has led to the discovery that IL-7 is produced in response to T-cell depletion, thus facilitating T-cell production--but simultaneously fostering HIV-1 disease progression.

@@ -1,0 +1,15 @@
+T1	DISO 37 58	Japanese encephalitis
+T2	DISO 92 113	Japanese encephalitis
+T3	SPE 119 124	virus
+T4	PRGE 125 131	genome
+T5	PRGE 152 171	nucleotide sequence
+T6	CHED 222 234	glycoprotein
+T7	PRGE 213 234	envelope glycoprotein
+T8	PRGE 243 247	gene
+T9	SPE 255 260	virus
+T10	PRGE 261 267	genome
+T11	CHED 317 324	antigen
+T12	PRGE 306 324	protective antigen
+T13	SPE 346 351	virus
+T14	CHED 428 435	vaccine
+T15	CHED 470 485	recombinant DNA

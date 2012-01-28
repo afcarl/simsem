@@ -1,0 +1,14 @@
+T1	DISO 35 50	viral hepatitis
+T2	SPE 70 75	virus
+T3	SPE 165 170	virus
+T4	DISO 235 250	viral hepatitis
+T5	DISO 298 313	acute hepatitis
+T6	DISO 364 372	necrosis
+T7	DISO 378 395	chronic hepatitis
+T8	DISO 412 424	inflammation
+T9	DISO 495 510	acute hepatitis
+T10	DISO 594 602	necrosis
+T11	DISO 604 616	inflammation
+T12	DISO 632 641	cirrhosis
+T13	DISO 800 811	hepatitis B
+T14	DISO 1065 1072	disease

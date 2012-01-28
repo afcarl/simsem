@@ -1,0 +1,31 @@
+T1	SPE 82 85	rat
+T2	PRGE 100 106	lectin
+T3	CHED 114 121	mannose
+T4	SPE 176 180	rats
+T5	PRGE 284 290	lectin
+T6	CHED 324 337	glycoproteins
+T7	PRGE 324 337	glycoproteins
+T8	CHED 358 370	Triton X-100
+T9	CHED 398 404	saline
+T10	CHED 405 411	buffer
+T11	CHED 445 457	Triton X-100
+T12	CHED 532 538	buffer
+T13	CHED 556 563	mannose
+T14	CHED 693 706	glycoproteins
+T15	PRGE 693 706	glycoproteins
+T16	CHED 744 751	mannose
+T17	CHED 967 974	monomer
+T18	CHED 1016 1026	Antibodies
+T19	PRGE 1016 1026	Antibodies
+T20	CHED 1071 1078	monomer
+T21	SPE 1131 1134	rat
+T22	PRGE 1192 1198	lectin
+T23	SPE 1216 1225	cerebella
+T24	SPE 1240 1244	rats
+T25	CHED 1250 1257	antigen
+T26	CHED 1516 1523	antigen
+T27	PRGE 1763 1769	lectin
+T28	SPE 1773 1782	cerebella
+T29	SPE 1792 1796	rats
+T30	CHED 1879 1892	glycoproteins
+T31	PRGE 1879 1892	glycoproteins

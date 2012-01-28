@@ -1,0 +1,32 @@
+T1	SPE 36 50	Basidiomycetes
+T2	SPE 195 199	mice
+T3	SPE 297 304	Grifola
+T4	SPE 316 335	Coriolus versicolor
+T5	SPE 345 354	Sargassum
+T6	SPE 386 390	mice
+T7	DISO 399 404	tumor
+T8	DISO 449 456	Sarcoma
+T9	DISO 470 485	solid carcinoma
+T10	DISO 497 502	tumor
+T11	DISO 515 522	sarcoma
+T12	SPE 523 530	bearing
+T13	SPE 531 535	mice
+T14	SPE 664 668	mice
+T15	DISO 684 690	tumors
+T16	SPE 751 755	mice
+T17	DISO 761 768	Sarcoma
+T18	SPE 787 791	mice
+T19	DISO 805 820	solid carcinoma
+T20	DISO 878 887	carcinoma
+T21	DISO 998 1005	ascites
+T22	DISO 1006 1011	tumor
+T23	DISO 1090 1097	ascites
+T24	DISO 1098 1107	carcinoma
+T25	DISO 1109 1116	Sarcoma
+T26	DISO 1147 1156	carcinoma
+T27	DISO 1241 1246	tumor
+T28	SPE 1264 1268	host
+T29	SPE 1269 1275	animal
+T30	DISO 1434 1441	sarcoma
+T31	DISO 1455 1464	carcinoma
+T32	SPE 1552 1556	mice

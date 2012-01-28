@@ -1,0 +1,29 @@
+T1	SPE 54 57	rat
+T2	PRGE 63 72	anti-CD54
+T3	CHED 144 153	cisplatin
+T4	DISO 166 175	neoplasms
+T5	PRGE 236 240	CD54
+T6	CHED 242 275	intercellular adhesion molecule-1
+T7	PRGE 242 275	intercellular adhesion molecule-1
+T8	PRGE 277 283	ICAM-1
+T9	DISO 333 346	renal failure
+T10	PRGE 384 393	anti-CD54
+T11	SPE 422 425	rat
+T12	CHED 435 444	cisplatin
+T13	PRGE 493 508	myeloperoxidase
+T14	PRGE 556 565	anti-CD54
+T15	PRGE 601 605	CD54
+T16	CHED 675 684	cisplatin
+T17	SPE 688 692	mice
+T18	SPE 785 792	animals
+T19	CHED 804 813	cisplatin
+T20	CHED 896 905	cisplatin
+T21	CHED 916 926	creatinine
+T22	SPE 956 960	rats
+T23	SPE 1008 1023	control animals
+T24	SPE 1070 1077	animals
+T25	SPE 1100 1104	rats
+T26	CHED 1126 1135	cisplatin
+T27	SPE 1257 1261	rats
+T28	PRGE 1275 1279	CD54
+T29	CHED 1345 1354	cisplatin

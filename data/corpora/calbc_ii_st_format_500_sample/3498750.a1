@@ -1,0 +1,24 @@
+T1	CHED 4 16	Interleukins
+T2	DISO 20 44	chronic active hepatitis
+T3	PRGE 85 98	Interleukin-2
+T4	CHED 250 266	prostaglandin E2
+T5	PRGE 264 266	E2
+T6	PRGE 282 295	interleukin-2
+T7	CHED 369 374	HBsAg
+T8	DISO 384 408	chronic active hepatitis
+T9	PRGE 463 476	interleukin-2
+T10	PRGE 478 491	interleukin-1
+T11	CHED 500 516	prostaglandin E2
+T12	PRGE 514 516	E2
+T13	DISO 679 703	chronic active hepatitis
+T14	PRGE 707 720	Interleukin-2
+T15	DISO 781 796	delta infection
+T16	PRGE 1105 1118	interleukin-2
+T17	PRGE 1279 1292	interleukin-2
+T18	PRGE 1384 1397	interleukin-1
+T19	CHED 1405 1421	prostaglandin E2
+T20	PRGE 1419 1421	E2
+T21	PRGE 1522 1535	interleukin-2
+T22	PRGE 1630 1643	interleukin-2
+T23	DISO 1678 1702	chronic active hepatitis
+T24	DISO 1712 1732	delta superinfection

@@ -1,0 +1,38 @@
+T1	DISO 30 35	tumor
+T2	SPE 62 76	vaccinia virus
+T3	PRGE 88 136	granulocyte-macrophage colony-stimulating factor
+T4	PRGE 138 144	GM-CSF
+T5	DISO 154 159	tumor
+T6	SPE 221 235	vaccinia virus
+T7	PRGE 249 253	gene
+T8	PRGE 258 306	granulocyte-macrophage colony-stimulating factor
+T9	SPE 361 367	murine
+T10	DISO 368 388	colon adenocarcinoma
+T11	DISO 411 420	Infection
+T12	DISO 430 435	tumor
+T13	DISO 511 517	tumors
+T14	DISO 549 555	tumors
+T15	SPE 571 575	mice
+T16	SPE 667 671	mice
+T17	DISO 714 719	tumor
+T18	DISO 779 785	tumors
+T19	DISO 844 862	growth suppression
+T20	DISO 889 894	tumor
+T21	PRGE 939 942	CD4
+T22	SPE 1115 1119	mice
+T23	DISO 1131 1136	tumor
+T24	DISO 1193 1198	tumor
+T25	DISO 1251 1256	tumor
+T26	SPE 1298 1314	vaccinia viruses
+T27	DISO 1298 1306	vaccinia
+T28	PRGE 1352 1356	IL-6
+T29	SPE 1428 1434	murine
+T30	PRGE 1435 1441	GM-CSF
+T31	DISO 1445 1450	tumor
+T32	SPE 1543 1549	murine
+T33	DISO 1550 1555	tumor
+T34	DISO 1588 1593	tumor
+T35	DISO 1704 1718	primary tumors
+T36	SPE 1732 1736	mice
+T37	DISO 1742 1747	tumor
+T38	PRGE 1792 1798	GM-CSF

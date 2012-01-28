@@ -1,0 +1,13 @@
+T1	DISO 12 33	respiratory infection
+T2	SPE 44 67	Xanthomonas maltophilia
+T3	DISO 201 227	hematological malignancies
+T4	DISO 231 243	solid tumors
+T5	SPE 294 305	Xanthomonas
+T6	SPE 509 517	organism
+T7	DISO 563 572	pneumonia
+T8	DISO 704 720	Pleural effusion
+T9	CHED 816 824	imipenem
+T10	CHED 825 835	cilastatin
+T11	CHED 876 885	latamoxef
+T12	CHED 923 934	minocycline
+T13	DISO 1009 1018	pneumonia

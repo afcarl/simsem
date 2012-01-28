@@ -1,0 +1,17 @@
+T1	PRGE 32 42	IL-1 alpha
+T2	PRGE 44 48	IL-1
+T3	PRGE 58 62	IL-6
+T4	PRGE 82 86	sCD4
+T5	PRGE 109 129	beta 2-microglobulin
+T6	DISO 166 179	lymphocytosis
+T7	DISO 185 215	Chronic B-lymphocytic leukemia
+T8	PRGE 325 335	IL-1 alpha
+T9	PRGE 337 341	IL-1
+T10	PRGE 351 355	IL-6
+T11	PRGE 375 379	sCD4
+T12	PRGE 405 425	beta 2-microglobulin
+T13	DISO 543 556	lymphocytosis
+T14	PRGE 675 685	IL-1 alpha
+T15	PRGE 741 745	IL-6
+T16	PRGE 846 850	sCD4
+T17	PRGE 930 950	beta 2-microglobulin

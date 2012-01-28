@@ -1,0 +1,42 @@
+T1	CHED 4 25	Monoclonal antibodies
+T2	PRGE 4 25	Monoclonal antibodies
+T3	DISO 137 151	Graves disease
+T4	SPE 157 162	Human
+T5	SPE 246 251	mouse
+T6	DISO 252 259	myeloma
+T7	DISO 320 334	Graves disease
+T8	PRGE 393 413	thyrotropin receptor
+T9	CHED 459 470	thyrotropin
+T10	PRGE 459 470	thyrotropin
+T11	SPE 540 545	human
+T12	DISO 651 665	Graves disease
+T13	SPE 740 745	mouse
+T14	CHED 908 919	thyrotropin
+T15	PRGE 908 919	thyrotropin
+T16	SPE 993 998	human
+T17	CHED 1007 1018	ganglioside
+T18	SPE 1042 1048	bovine
+T19	CHED 1066 1078	gangliosides
+T20	CHED 1121 1125	125I
+T21	CHED 1134 1145	thyrotropin
+T22	PRGE 1134 1145	thyrotropin
+T23	CHED 1182 1194	glycoprotein
+T24	PRGE 1182 1194	glycoprotein
+T25	SPE 1212 1217	human
+T26	CHED 1218 1238	thyrotropin receptor
+T27	PRGE 1218 1238	thyrotropin receptor
+T28	DISO 1337 1351	Graves disease
+T29	CHED 1454 1465	thyrotropin
+T30	PRGE 1454 1465	thyrotropin
+T31	SPE 1536 1541	human
+T32	CHED 1550 1562	gangliosides
+T33	CHED 1592 1603	thyrotropin
+T34	PRGE 1592 1603	thyrotropin
+T35	CHED 1654 1666	glycoprotein
+T36	PRGE 1654 1666	glycoprotein
+T37	SPE 1682 1687	human
+T38	SPE 1689 1695	bovine
+T39	SPE 1701 1704	rat
+T40	DISO 1805 1819	Graves disease
+T41	SPE 1831 1841	individual
+T42	PRGE 1876 1896	thyrotropin receptor

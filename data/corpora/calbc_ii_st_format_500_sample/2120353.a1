@@ -1,0 +1,24 @@
+T1	PRGE 13 38	recombinant interleukin-2
+T2	CHED 106 114	antigens
+T3	CHED 186 194	antigens
+T4	PRGE 215 220	HLA-A
+T5	CHED 225 232	antigen
+T6	CHED 258 265	antigen
+T7	PRGE 429 432	PHA
+T8	SPE 447 450	EBV
+T9	CHED 532 540	antigens
+T10	DISO 582 619	common acute lymphoblastic leukaemias
+T11	DISO 647 677	chronic lymphocytic leukaemias
+T12	DISO 698 719	hairy cell leukaemias
+T13	DISO 746 775	acute myeloblastic leukaemias
+T14	DISO 777 780	AML
+T15	DISO 809 819	leukaemias
+T16	CHED 901 909	antigens
+T17	PRGE 989 993	IL-2
+T18	PRGE 1117 1122	rIL-2
+T19	CHED 1134 1142	antigens
+T20	DISO 1290 1295	T-ALL
+T21	DISO 1297 1300	AML
+T22	PRGE 1354 1356	TM
+T23	CHED 1364 1372	antigens
+T24	CHED 1511 1519	antigens

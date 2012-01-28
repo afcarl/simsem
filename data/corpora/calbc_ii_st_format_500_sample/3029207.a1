@@ -1,0 +1,24 @@
+T1	CHED 4 14	Superoxide
+T2	SPE 39 44	human
+T3	DISO 62 69	uveitis
+T4	CHED 97 107	superoxide
+T5	SPE 174 181	animals
+T6	CHED 204 214	Superoxide
+T7	DISO 247 253	Behcet
+T8	CHED 347 357	superoxide
+T9	SPE 390 401	guinea pigs
+T10	PRGE 407 416	S-antigen
+T11	SPE 477 484	animals
+T12	PRGE 503 523	superoxide dismutase
+T13	PRGE 525 528	SOD
+T14	PRGE 636 639	SOD
+T15	DISO 698 706	anterior
+T16	PRGE 738 741	SOD
+T17	SPE 750 757	animals
+T18	PRGE 790 793	SOD
+T19	SPE 839 845	bovine
+T20	DISO 888 895	uveitis
+T21	SPE 899 906	rabbits
+T22	CHED 935 945	superoxide
+T23	SPE 990 1003	animal models
+T24	DISO 1043 1049	Behcet

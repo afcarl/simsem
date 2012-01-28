@@ -1,0 +1,18 @@
+T1	DISO 4 19	Viral infection
+T2	CHED 72 82	interferon
+T3	CHED 101 112	interferons
+T4	DISO 253 268	viral infection
+T5	PRGE 315 324	cytokines
+T6	SPE 410 414	mice
+T7	SPE 453 459	strain
+T8	SPE 467 501	lymphocytic choriomeningitis virus
+T9	DISO 467 495	lymphocytic choriomeningitis
+T10	CHED 653 672	double-stranded RNA
+T11	DISO 772 787	viral infection
+T12	PRGE 921 939	toll-like receptor
+T13	PRGE 941 944	TLR
+T14	PRGE 959 967	receptor
+T15	PRGE 1037 1040	NS1
+T16	DISO 1128 1137	infection
+T17	DISO 1143 1152	influenza
+T18	DISO 1300 1316	viral infections

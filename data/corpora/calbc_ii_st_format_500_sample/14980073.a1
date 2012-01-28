@@ -1,0 +1,37 @@
+T1	CHED 4 9	Panax
+T2	SPE 4 9	Panax
+T3	PRGE 70 88	toll-like receptor
+T4	CHED 94 101	Ginseng
+T5	SPE 94 101	Ginseng
+T6	SPE 102 107	radix
+T7	SPE 127 132	Panax
+T8	DISO 212 222	infections
+T9	CHED 259 286	tumor necrosis factor-alpha
+T10	PRGE 259 286	tumor necrosis factor-alpha
+T11	CHED 288 297	TNF-alpha
+T12	PRGE 288 297	TNF-alpha
+T13	PRGE 300 317	interleukin-1beta
+T14	PRGE 319 327	IL-1beta
+T15	PRGE 330 334	IL-6
+T16	PRGE 340 356	interferon-gamma
+T17	PRGE 358 367	IFN-gamma
+T18	SPE 410 417	ginseng
+T19	SPE 418 423	radix
+T20	PRGE 597 606	TNF-alpha
+T21	PRGE 611 620	IFN-gamma
+T22	SPE 696 700	mice
+T23	SPE 729 733	mice
+T24	PRGE 755 775	toll-like receptor-4
+T25	PRGE 777 780	TLR
+T26	PRGE 784 788	gene
+T27	PRGE 811 820	cytokines
+T28	PRGE 840 848	IFN-beta
+T29	PRGE 853 884	inducible nitric oxide synthase
+T30	CHED 1006 1024	lipopolysaccharide
+T31	PRGE 1026 1029	LPS
+T32	PRGE 1082 1091	TNF-alpha
+T33	PRGE 1096 1105	IFN-gamma
+T34	CHED 1125 1136	polymyxin B
+T35	SPE 1171 1178	Limulus
+T36	CHED 1218 1227	endotoxin
+T37	PRGE 1427 1430	TLR

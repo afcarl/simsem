@@ -1,0 +1,16 @@
+T1	CHED 46 53	antigen
+T2	PRGE 117 125	proteins
+T3	PRGE 291 308	class I molecules
+T4	PRGE 386 394	proteins
+T5	CHED 544 553	ovalbumin
+T6	PRGE 544 553	ovalbumin
+T7	SPE 557 562	mouse
+T8	PRGE 616 620	MCSF
+T9	CHED 624 637	phorbol ester
+T10	CHED 653 662	amiloride
+T11	CHED 750 761	Brefeldin A
+T12	CHED 763 770	gelonin
+T13	CHED 786 794	aldehyde
+T14	CHED 877 884	antigen
+T15	DISO 1164 1169	tumor
+T16	SPE 1195 1204	pathogens

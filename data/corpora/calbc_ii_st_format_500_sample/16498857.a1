@@ -1,0 +1,29 @@
+T1	PRGE 4 18	Autoantibodies
+T2	CHED 40 43	IgE
+T3	PRGE 40 43	IgE
+T4	PRGE 44 52	receptor
+T5	DISO 70 87	chronic urticaria
+T6	DISO 101 118	Chronic urticaria
+T7	CHED 217 231	Autoantibodies
+T8	PRGE 217 231	Autoantibodies
+T9	CHED 253 256	IgE
+T10	PRGE 253 256	IgE
+T11	PRGE 257 265	receptor
+T12	PRGE 397 411	autoantibodies
+T13	PRGE 415 431	FcepsilonRIalpha
+T14	DISO 468 481	atopic eczema
+T15	DISO 482 492	dermatitis
+T16	DISO 493 501	syndrome
+T17	CHED 637 640	IgE
+T18	PRGE 637 640	IgE
+T19	SPE 697 703	peanut
+T20	SPE 752 761	parasites
+T21	PRGE 819 835	FcepsilonRIalpha
+T22	SPE 1199 1208	parasites
+T23	PRGE 1344 1371	histamine-releasing factors
+T24	PRGE 1470 1484	autoantibodies
+T25	PRGE 1492 1508	FcepsilonRIalpha
+T26	DISO 1570 1579	allergies
+T27	DISO 1585 1605	parasite infestation
+T28	PRGE 1696 1710	autoantibodies
+T29	CHED 1803 1817	antihistamines

@@ -1,0 +1,25 @@
+T1	DISO 61 68	allergy
+T2	DISO 73 79	asthma
+T3	DISO 127 135	diseases
+T4	DISO 146 162	bronchial asthma
+T5	DISO 164 173	hay fever
+T6	DISO 178 195	atopic dermatitis
+T7	DISO 512 522	infections
+T8	DISO 564 570	atopic
+T9	DISO 571 578	disease
+T10	DISO 679 699	bacterial infections
+T11	DISO 766 772	atopic
+T12	PRGE 800 804	Th-1
+T13	DISO 837 857	bacterial infections
+T14	DISO 862 891	delayed-type hypersensitivity
+T15	PRGE 1038 1042	Th-1
+T16	DISO 1107 1117	infections
+T17	DISO 1150 1158	diseases
+T18	DISO 1165 1181	bronchial asthma
+T19	DISO 1214 1231	atopic dermatitis
+T20	DISO 1267 1277	infections
+T21	DISO 1353 1360	allergy
+T22	DISO 1365 1371	asthma
+T23	DISO 1450 1468	allergic disorders
+T24	DISO 1473 1492	infectious diseases
+T25	DISO 1520 1540	bacterial infections

@@ -1,0 +1,19 @@
+T1	PRGE 17 33	interferon-gamma
+T2	DISO 47 69	pulmonary tuberculosis
+T3	SPE 198 226	human immunodeficiency virus
+T4	SPE 228 231	HIV
+T5	SPE 248 251	HIV
+T6	DISO 292 314	pulmonary tuberculosis
+T7	SPE 385 388	HIV
+T8	DISO 414 416	TB
+T9	PRGE 540 543	PPD
+T10	PRGE 570 580	interferon
+T11	PRGE 582 585	IFN
+T12	DISO 636 638	TB
+T13	CHED 729 755	transforming growth factor
+T14	PRGE 832 835	PPD
+T15	PRGE 861 866	IL-10
+T16	PRGE 922 931	IFN-gamma
+T17	DISO 1036 1038	TB
+T18	SPE 1163 1176	Mycobacterium
+T19	DISO 1180 1189	infection

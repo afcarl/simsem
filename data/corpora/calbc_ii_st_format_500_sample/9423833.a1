@@ -1,0 +1,15 @@
+T1	SPE 38 59	Plasmodium falciparum
+T2	SPE 127 135	parasite
+T3	CHED 212 224	antimalarial
+T4	CHED 249 257	antigens
+T5	SPE 284 293	merozoite
+T6	SPE 388 409	Plasmodium falciparum
+T7	CHED 456 463	antigen
+T8	SPE 660 669	merozoite
+T9	SPE 805 810	human
+T10	DISO 919 926	malaria
+T11	PRGE 1055 1072	repetitive region
+T12	PRGE 1106 1124	synthetic peptides
+T13	CHED 1276 1283	epitope
+T14	PRGE 1413 1416	IgG
+T15	SPE 1621 1629	parasite

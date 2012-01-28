@@ -1,0 +1,23 @@
+T1	SPE 4 16	Oncornavirus
+T2	SPE 48 54	gibbon
+T3	SPE 55 59	apes
+T4	SPE 91 97	gibbon
+T5	SPE 98 102	apes
+T6	SPE 104 113	Hylobates
+T7	SPE 171 180	mammalian
+T8	SPE 181 195	oncornaviruses
+T9	SPE 246 252	gibbon
+T10	SPE 302 309	primate
+T11	SPE 383 392	mammalian
+T12	SPE 423 436	domestic cats
+T13	SPE 497 504	Gibbons
+T14	DISO 519 529	infectious
+T15	SPE 530 555	gibbon ape leukemia virus
+T16	SPE 606 609	ape
+T17	SPE 642 647	virus
+T18	SPE 722 729	gibbons
+T19	SPE 767 792	gibbon ape leukemia virus
+T20	SPE 813 819	gibbon
+T21	SPE 844 856	oncornavirus
+T22	DISO 960 969	infection
+T23	SPE 973 987	oncornaviruses

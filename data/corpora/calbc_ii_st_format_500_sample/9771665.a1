@@ -1,0 +1,21 @@
+T1	PRGE 4 36	Major histocompatibility complex
+T2	DISO 104 123	Charcot-Marie-Tooth
+T3	DISO 135 156	hereditary neuropathy
+T4	PRGE 213 245	major histocompatibility complex
+T5	DISO 362 381	Charcot-Marie-Tooth
+T6	DISO 402 423	hereditary neuropathy
+T7	PRGE 460 464	HNPP
+T8	PRGE 547 552	PMP22
+T9	PRGE 559 571	MHC class II
+T10	PRGE 698 710	MHC class II
+T11	PRGE 743 748	CMT1A
+T12	PRGE 753 758	CMT1B
+T13	PRGE 792 796	HNPP
+T14	PRGE 929 941	MHC class II
+T15	PRGE 956 960	CMT1
+T16	PRGE 984 996	MHC class II
+T17	DISO 1034 1057	hereditary neuropathies
+T18	SPE 1076 1088	animal model
+T19	PRGE 1163 1175	MHC class II
+T20	PRGE 1189 1193	CMT1
+T21	PRGE 1198 1202	HNPP

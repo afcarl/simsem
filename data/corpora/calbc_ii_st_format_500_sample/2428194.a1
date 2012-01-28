@@ -1,0 +1,19 @@
+T1	DISO 70 86	non-toxic goitre
+T2	DISO 179 195	thyroid diseases
+T3	DISO 298 314	non-toxic goitre
+T4	DISO 324 340	non-toxic goitre
+T5	DISO 353 367	nodular goitre
+T6	CHED 469 472	DNA
+T7	SPE 492 499	porcine
+T8	PRGE 551 556	Gamma
+T9	DISO 612 628	non-toxic goitre
+T10	DISO 663 677	nodular goitre
+T11	SPE 861 868	porcine
+T12	SPE 892 897	human
+T13	DISO 905 921	non-toxic goitre
+T14	DISO 951 964	simple goitre
+T15	DISO 1057 1070	simple goitre
+T16	DISO 1157 1173	non-toxic goitre
+T17	DISO 1211 1225	nodular goitre
+T18	SPE 1271 1278	porcine
+T19	DISO 1636 1652	non-toxic goitre

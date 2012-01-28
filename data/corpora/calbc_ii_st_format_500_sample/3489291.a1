@@ -1,0 +1,27 @@
+T1	DISO 48 54	cancer
+T2	DISO 60 65	tumor
+T3	DISO 117 122	tumor
+T4	PRGE 166 179	interleukin-2
+T5	PRGE 181 185	IL-2
+T6	SPE 190 194	mice
+T7	DISO 241 247	tumors
+T8	SPE 437 441	mice
+T9	DISO 475 485	metastatic
+T10	DISO 486 492	tumors
+T11	SPE 556 563	animals
+T12	CHED 582 598	cyclophosphamide
+T13	DISO 688 705	metastatic cancer
+T14	CHED 765 781	cyclophosphamide
+T15	PRGE 844 848	IL-2
+T16	CHED 874 890	cyclophosphamide
+T17	PRGE 901 905	IL-2
+T18	SPE 915 919	mice
+T19	DISO 947 967	colon adenocarcinoma
+T20	DISO 991 1009	hepatic metastases
+T21	SPE 1028 1032	mice
+T22	DISO 1056 1076	pulmonary metastases
+T23	PRGE 1120 1123	TIL
+T24	SPE 1129 1134	human
+T25	DISO 1135 1141	tumors
+T26	SPE 1220 1226	humans
+T27	DISO 1232 1247	advanced cancer

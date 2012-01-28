@@ -1,0 +1,21 @@
+T1	PRGE 4 38	Prostate-specific membrane antigen
+T2	DISO 72 87	Prostate cancer
+T3	DISO 107 113	cancer
+T4	DISO 146 152	cancer
+T5	PRGE 287 321	prostate-specific membrane antigen
+T6	PRGE 323 327	PSMA
+T7	PRGE 334 338	PSMA
+T8	DISO 464 480	prostate cancers
+T9	DISO 554 564	carcinomas
+T10	PRGE 760 781	Reverse transcriptase
+T11	PRGE 850 854	PSMA
+T12	PRGE 897 900	PSA
+T13	DISO 956 971	prostate cancer
+T14	PRGE 1146 1150	PSMA
+T15	CHED 1235 1242	CYT-356
+T16	CHED 1244 1255	ProstaScint
+T17	DISO 1357 1372	prostate cancer
+T18	PRGE 1405 1409	PSMA
+T19	DISO 1433 1448	prostate cancer
+T20	PRGE 1605 1609	PSMA
+T21	DISO 1680 1695	prostate cancer

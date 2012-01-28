@@ -1,0 +1,24 @@
+T1	SPE 4 23	Helicobacter pylori
+T2	PRGE 75 88	interleukin-8
+T3	SPE 137 149	Helicobacter
+T4	DISO 137 166	Helicobacter pylori infection
+T5	DISO 204 213	gastritis
+T6	DISO 245 255	malignancy
+T7	SPE 368 377	H. pylori
+T8	SPE 388 397	H. pylori
+T9	CHED 414 420	adhere
+T10	DISO 448 457	gastritis
+T11	SPE 556 565	H. pylori
+T12	PRGE 684 687	PAI
+T13	PRGE 707 710	PAI
+T14	PRGE 760 763	AGS
+T15	PRGE 858 871	interleukin-8
+T16	PRGE 873 877	IL-8
+T17	SPE 900 906	strain
+T18	SPE 964 970	strain
+T19	PRGE 992 996	IL-8
+T20	PRGE 1030 1033	PAI
+T21	SPE 1048 1054	strain
+T22	DISO 1147 1156	gastritis
+T23	SPE 1173 1182	H. pylori
+T24	DISO 1183 1192	infection

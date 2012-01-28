@@ -1,0 +1,26 @@
+T1	SPE 43 61	Epstein-Barr virus
+T2	PRGE 62 77	nuclear antigen
+T3	CHED 81 84	COS
+T4	SPE 118 133	simian virus 40
+T5	SPE 256 274	Epstein-Barr virus
+T6	PRGE 275 290	nuclear antigen
+T7	PRGE 335 339	gene
+T8	SPE 431 446	simian virus 40
+T9	PRGE 539 542	BAL
+T10	CHED 660 667	antigen
+T11	CHED 671 674	COS
+T12	SPE 677 683	monkey
+T13	CHED 785 788	DNA
+T14	PRGE 785 788	DNA
+T15	CHED 931 942	polypeptide
+T16	PRGE 1020 1038	open reading frame
+T17	CHED 1054 1061	antigen
+T18	PRGE 1139 1154	structural gene
+T19	CHED 1186 1193	antigen
+T20	PRGE 1264 1282	open reading frame
+T21	CHED 1308 1315	antigen
+T22	PRGE 1440 1458	open reading frame
+T23	PRGE 1652 1670	open reading frame
+T24	CHED 1704 1707	COS
+T25	PRGE 1747 1767	regulatory sequences
+T26	PRGE 1819 1825	genome

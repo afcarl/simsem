@@ -1,0 +1,17 @@
+T1	CHED 23 36	acetylcholine
+T2	PRGE 37 45	receptor
+T3	CHED 146 156	Antibodies
+T4	PRGE 146 156	Antibodies
+T5	PRGE 181 199	synthetic peptides
+T6	PRGE 314 318	gene
+T7	CHED 420 433	acetylcholine
+T8	PRGE 434 442	receptor
+T9	SPE 448 455	Torpedo
+T10	CHED 514 527	acetylcholine
+T11	PRGE 528 536	receptor
+T12	PRGE 640 649	protein A
+T13	CHED 729 738	detergent
+T14	PRGE 775 783	receptor
+T15	SPE 899 906	Torpedo
+T16	PRGE 968 978	antibodies
+T17	PRGE 1315 1332	receptor subunits

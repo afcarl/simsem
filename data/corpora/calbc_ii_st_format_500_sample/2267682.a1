@@ -1,0 +1,11 @@
+T1	DISO 4 24	Cutaneous vasculitis
+T2	DISO 41 53	tuberculosis
+T3	DISO 91 113	pulmonary tuberculosis
+T4	DISO 124 144	cutaneous vasculitis
+T5	CHED 151 167	antituberculosis
+T6	DISO 197 222	tuberculous lymphadenitis
+T7	DISO 233 243	vasculitis
+T8	DISO 285 305	cutaneous vasculitis
+T9	SPE 363 370	bacilli
+T10	CHED 378 388	rifampicin
+T11	PRGE 394 404	antibodies

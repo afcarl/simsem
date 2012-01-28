@@ -1,0 +1,24 @@
+T1	DISO 6 13	measles
+T2	SPE 85 98	measles virus
+T3	CHED 99 106	antigen
+T4	CHED 111 114	RNA
+T5	PRGE 122 132	peroxidase
+T6	CHED 198 205	antigen
+T7	CHED 210 213	RNA
+T8	SPE 271 276	human
+T9	DISO 277 284	measles
+T10	DISO 322 339	encephalomyelitis
+T11	DISO 418 425	measles
+T12	SPE 463 468	virus
+T13	DISO 544 548	rash
+T14	SPE 587 592	Virus
+T15	CHED 708 715	antigen
+T16	CHED 720 723	RNA
+T17	DISO 800 817	encephalomyelitis
+T18	SPE 832 837	virus
+T19	DISO 921 928	measles
+T20	DISO 929 946	encephalomyelitis
+T21	SPE 969 982	measles virus
+T22	DISO 969 982	measles virus
+T23	SPE 1085 1091	thymus
+T24	DISO 1199 1206	measles

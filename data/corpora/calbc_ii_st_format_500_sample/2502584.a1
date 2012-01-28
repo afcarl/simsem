@@ -1,0 +1,21 @@
+T1	CHED 78 106	recombinant interferon-gamma
+T2	PRGE 78 106	recombinant interferon-gamma
+T3	DISO 110 116	cancer
+T4	CHED 143 170	tumor necrosis factor-alpha
+T5	PRGE 143 170	tumor necrosis factor-alpha
+T6	CHED 172 181	TNF-alpha
+T7	PRGE 172 181	TNF-alpha
+T8	PRGE 187 203	interferon-gamma
+T9	PRGE 205 214	IFN-gamma
+T10	CHED 333 342	TNF-alpha
+T11	PRGE 333 342	TNF-alpha
+T12	SPE 394 400	humans
+T13	DISO 428 445	metastatic cancer
+T14	DISO 926 932	chills
+T15	PRGE 1044 1047	TNF
+T16	CHED 1085 1094	cachectin
+T17	PRGE 1085 1094	cachectin
+T18	CHED 1259 1271	triglyceride
+T19	CHED 1328 1339	cholesterol
+T20	DISO 1741 1750	infection
+T21	DISO 1784 1793	evaluable

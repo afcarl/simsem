@@ -1,0 +1,15 @@
+T1	SPE 36 57	Chlamydia trachomatis
+T2	SPE 243 264	Chlamydia trachomatis
+T3	SPE 299 305	rabbit
+T4	SPE 390 402	horse-radish
+T5	PRGE 403 413	peroxidase
+T6	SPE 425 429	goat
+T7	SPE 1071 1087	Escherichia coli
+T8	SPE 1089 1102	Acinetobacter
+T9	SPE 1119 1132	Streptococcus
+T10	SPE 1142 1154	Enterobacter
+T11	SPE 1160 1172	Enterococcus
+T12	SPE 1174 1187	Lactobacillus
+T13	SPE 1193 1202	Neisseria
+T14	SPE 1230 1246	Candida albicans
+T15	SPE 1251 1278	herpes simplex virus type 1

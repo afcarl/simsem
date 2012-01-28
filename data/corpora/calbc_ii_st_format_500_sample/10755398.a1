@@ -1,0 +1,17 @@
+T1	DISO 38 47	influenza
+T2	SPE 49 73	Streptococcus pneumoniae
+T3	SPE 78 107	Haemophilus influenzae type B
+T4	DISO 125 141	multiple myeloma
+T5	DISO 163 172	influenza
+T6	SPE 177 201	Streptococcus pneumoniae
+T7	DISO 429 438	influenza
+T8	DISO 443 453	pneumoniae
+T9	SPE 458 480	Haemophilus influenzae
+T10	SPE 634 647	S. pneumoniae
+T11	DISO 637 647	pneumoniae
+T12	DISO 771 780	influenza
+T13	CHED 980 988	antigens
+T14	SPE 1165 1178	S. pneumoniae
+T15	DISO 1168 1178	pneumoniae
+T16	DISO 1504 1513	influenza
+T17	DISO 1546 1553	myeloma

@@ -1,0 +1,32 @@
+T1	DISO 11 27	acanthamoebiasis
+T2	DISO 80 96	acanthamoebiasis
+T3	DISO 107 130	opportunistic infection
+T4	SPE 178 181	HIV
+T5	SPE 245 257	Acanthamoeba
+T6	DISO 245 267	Acanthamoeba infection
+T7	SPE 336 339	HIV
+T8	DISO 487 497	cellulitis
+T9	SPE 625 636	trophozoite
+T10	CHED 688 699	pentamidine
+T11	CHED 704 716	itraconazole
+T12	CHED 736 748	ketoconazole
+T13	CHED 753 766	chlorhexidine
+T14	CHED 822 833	pentamidine
+T15	SPE 862 870	dialysis
+T16	SPE 914 926	Acanthamoeba
+T17	DISO 914 936	Acanthamoeba infection
+T18	SPE 954 966	Acanthamoeba
+T19	SPE 982 988	amoeba
+T20	SPE 1006 1014	organism
+T21	SPE 1022 1027	human
+T22	DISO 1028 1036	diseases
+T23	SPE 1079 1082	HIV
+T24	DISO 1102 1135	granulomatous amebic encephalitis
+T25	SPE 1260 1272	trophozoites
+T26	SPE 1277 1282	cysts
+T27	DISO 1277 1282	cysts
+T28	CHED 1326 1337	pentamidine
+T29	CHED 1339 1351	itraconazole
+T30	CHED 1356 1367	flucytosine
+T31	SPE 1411 1423	acanthamoeba
+T32	DISO 1411 1433	acanthamoeba infection

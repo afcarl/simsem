@@ -1,0 +1,19 @@
+T1	PRGE 11 29	rheumatoid factors
+T2	PRGE 77 80	IgM
+T3	PRGE 199 202	IgG
+T4	PRGE 221 239	rheumatoid factors
+T5	PRGE 371 381	antibodies
+T6	PRGE 462 472	antibodies
+T7	PRGE 620 623	IgM
+T8	PRGE 763 766	IgG
+T9	PRGE 782 800	rheumatoid factors
+T10	CHED 877 894	rheumatoid factor
+T11	PRGE 877 894	rheumatoid factor
+T12	PRGE 969 987	rheumatoid factors
+T13	CHED 998 1003	latex
+T14	SPE 1084 1089	human
+T15	PRGE 1090 1093	IgG
+T16	PRGE 1184 1187	IgG
+T17	PRGE 1206 1224	rheumatoid factors
+T18	PRGE 1324 1327	IgM
+T19	PRGE 1332 1335	IgG

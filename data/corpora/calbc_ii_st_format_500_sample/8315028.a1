@@ -1,0 +1,16 @@
+T1	PRGE 4 13	Antiserum
+T2	PRGE 18 25	insulin
+T3	PRGE 59 66	insulin
+T4	CHED 146 160	bovine insulin
+T5	PRGE 153 160	insulin
+T6	SPE 146 152	bovine
+T7	CHED 195 201	iodine
+T8	DISO 232 244	hypoglycemia
+T9	SPE 288 292	mice
+T10	PRGE 306 313	insulin
+T11	CHED 421 428	monomer
+T12	SPE 573 584	guinea-pigs
+T13	PRGE 605 612	insulin
+T14	PRGE 666 673	insulin
+T15	SPE 705 712	animals
+T16	PRGE 834 841	insulin

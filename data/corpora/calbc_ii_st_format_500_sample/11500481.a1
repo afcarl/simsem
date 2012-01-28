@@ -1,0 +1,18 @@
+T1	SPE 70 92	Listeria monocytogenes
+T2	PRGE 93 97	actA
+T3	DISO 125 144	secondary infection
+T4	SPE 148 152	mice
+T5	SPE 197 203	murine
+T6	DISO 204 215	listeriosis
+T7	SPE 244 266	Listeria monocytogenes
+T8	DISO 421 440	secondary infection
+T9	SPE 444 450	inbred
+T10	SPE 463 467	mice
+T11	SPE 573 579	strain
+T12	PRGE 612 616	actA
+T13	PRGE 617 621	gene
+T14	CHED 691 698	recruit
+T15	PRGE 699 736	vasodilator-stimulated phosphoprotein
+T16	PRGE 738 742	VASP
+T17	SPE 824 831	animals
+T18	DISO 902 913	listeriosis

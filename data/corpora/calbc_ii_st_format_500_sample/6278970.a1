@@ -1,0 +1,23 @@
+T1	SPE 4 9	Human
+T2	DISO 89 100	condylomata
+T3	DISO 130 144	flat condyloma
+T4	DISO 165 174	condyloma
+T5	DISO 204 213	condyloma
+T6	PRGE 304 307	IPT
+T7	SPE 329 349	human papillomavirus
+T8	CHED 370 377	antigen
+T9	SPE 419 422	HPV
+T10	SPE 468 471	HPV
+T11	PRGE 572 575	IPT
+T12	PRGE 625 628	IPT
+T13	CHED 703 710	antigen
+T14	DISO 737 753	flat condylomata
+T15	DISO 775 786	condylomata
+T16	DISO 825 836	condylomata
+T17	SPE 867 872	virus
+T18	DISO 882 893	condylomata
+T19	SPE 981 984	HPV
+T20	DISO 1149 1160	condylomata
+T21	SPE 1193 1196	HPV
+T22	DISO 1197 1206	infection
+T23	DISO 1211 1245	cervical intraepithelial neoplasia

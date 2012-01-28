@@ -1,0 +1,25 @@
+T1	CHED 8 18	Interferon
+T2	PRGE 8 23	Interferon alfa
+T3	DISO 48 59	hepatitis B
+T4	DISO 158 169	hepatitis B
+T5	CHED 179 189	interferon
+T6	PRGE 179 194	interferon alfa
+T7	CHED 297 307	interferon
+T8	PRGE 297 312	interferon alfa
+T9	PRGE 318 327	IFN-alpha
+T10	DISO 354 365	hepatitis B
+T11	PRGE 380 392	transaminase
+T12	PRGE 437 440	IFN
+T13	DISO 680 689	evaluable
+T14	DISO 724 739	Serum hepatitis
+T15	DISO 740 741	B
+T16	CHED 762 765	DNA
+T17	PRGE 847 863	aminotransferase
+T18	DISO 933 944	Hepatitis B
+T19	CHED 1046 1056	interferon
+T20	PRGE 1046 1056	interferon
+T21	CHED 1173 1176	DNA
+T22	PRGE 1173 1176	DNA
+T23	DISO 1357 1368	hepatitis B
+T24	PRGE 1370 1373	INF
+T25	PRGE 1456 1473	aminotransferases

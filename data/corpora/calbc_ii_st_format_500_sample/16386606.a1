@@ -1,0 +1,27 @@
+T1	CHED 4 11	Steroid
+T2	DISO 12 22	withdrawal
+T3	CHED 174 189	Corticosteroids
+T4	DISO 239 251	osteoporosis
+T5	DISO 276 284	diabetes
+T6	DISO 286 304	muscular disorders
+T7	DISO 306 320	gastric ulcers
+T8	CHED 380 387	steroid
+T9	CHED 523 530	steroid
+T10	CHED 760 777	immunosuppressant
+T11	DISO 867 883	primary diseases
+T12	DISO 893 902	emphysema
+T13	DISO 908 926	pulmonary fibrosis
+T14	DISO 931 946	cystic fibrosis
+T15	DISO 958 988	primary pulmonary hypertension
+T16	CHED 1072 1079	steroid
+T17	CHED 1191 1198	steroid
+T18	CHED 1228 1240	azathioprine
+T19	CHED 1254 1261	steroid
+T20	CHED 1307 1315	steroids
+T21	DISO 1384 1394	infectious
+T22	CHED 1620 1631	cholesterol
+T23	CHED 1636 1648	triglyceride
+T24	PRGE 1679 1686	insulin
+T25	CHED 1737 1744	Steroid
+T26	CHED 1918 1930	azathioprine
+T27	CHED 2096 2103	steroid

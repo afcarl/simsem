@@ -1,0 +1,19 @@
+T1	SPE 130 133	rat
+T2	DISO 169 180	recruitment
+T3	DISO 188 196	ischemia
+T4	CHED 259 271	free radical
+T5	CHED 339 362	reactive oxygen species
+T6	CHED 428 451	reactive oxygen species
+T7	DISO 503 514	recruitment
+T8	SPE 529 532	rat
+T9	SPE 544 547	Rat
+T10	DISO 602 610	ischemia
+T11	CHED 785 799	singlet oxygen
+T12	PRGE 811 826	myeloperoxidase
+T13	DISO 889 897	necrosis
+T14	DISO 1027 1034	relapse
+T15	CHED 1189 1208	gadolinium chloride
+T16	PRGE 1305 1320	myeloperoxidase
+T17	DISO 1362 1370	necrosis
+T18	DISO 1550 1561	recruitment
+T19	CHED 1652 1664	free-radical

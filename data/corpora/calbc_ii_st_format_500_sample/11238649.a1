@@ -1,0 +1,29 @@
+T1	SPE 29 35	murine
+T2	DISO 36 58	visceral leishmaniasis
+T3	CHED 99 111	nitric oxide
+T4	SPE 162 181	Leishmania donovani
+T5	SPE 185 192	mammals
+T6	PRGE 221 239	cysteine proteases
+T7	PRGE 272 275	CD4
+T8	SPE 367 374	chicken
+T9	PRGE 375 383	cystatin
+T10	PRGE 427 436	IFN-gamma
+T11	SPE 472 478	BALB/c
+T12	SPE 479 484	mouse
+T13	DISO 494 516	visceral leishmaniasis
+T14	SPE 549 557	parasite
+T15	PRGE 642 651	IFN-gamma
+T16	SPE 682 695	promastigotes
+T17	PRGE 710 719	IFN-gamma
+T18	SPE 744 755	amastigotes
+T19	SPE 945 952	animals
+T20	PRGE 1193 1201	anti-IFN
+T21	PRGE 1216 1225	TNF-alpha
+T22	PRGE 1226 1229	Abs
+T23	DISO 1376 1385	infection
+T24	PRGE 1485 1494	IFN-gamma
+T25	SPE 1538 1546	parasite
+T26	PRGE 1586 1590	IL-4
+T27	PRGE 1625 1627	in
+T28	DISO 1843 1856	leishmaniasis
+T29	PRGE 1874 1877	CD4

@@ -1,0 +1,17 @@
+T1	SPE 48 52	goat
+T2	SPE 99 109	Mycoplasma
+T3	SPE 140 159	Mycoplasma mycoides
+T4	SPE 177 196	Mycoplasma mycoides
+T5	SPE 343 353	Mycoplasma
+T6	CHED 588 600	streptavidin
+T7	PRGE 588 600	streptavidin
+T8	CHED 601 607	biotin
+T9	SPE 655 666	mycoplasmas
+T10	SPE 710 720	mycoplasma
+T11	DISO 858 869	septicaemia
+T12	DISO 949 959	cellulitis
+T13	DISO 1003 1025	interstitial pneumonia
+T14	DISO 1027 1036	arthritis
+T15	DISO 1070 1079	splenitis
+T16	SPE 1434 1445	mycoplasmas
+T17	SPE 1565 1576	mycoplasmas

@@ -1,0 +1,15 @@
+T1	DISO 56 68	tuberculosis
+T2	SPE 100 106	Bovine
+T3	DISO 100 119	Bovine tuberculosis
+T4	DISO 140 147	disease
+T5	DISO 206 213	disease
+T6	SPE 521 527	cattle
+T7	DISO 505 527	tuberculosis in cattle
+T8	SPE 555 561	animal
+T9	SPE 573 579	humans
+T10	SPE 602 621	Mycobacterium bovis
+T11	DISO 709 718	infection
+T12	SPE 749 755	animal
+T13	SPE 953 960	animals
+T14	DISO 978 990	tuberculosis
+T15	SPE 1040 1046	animal

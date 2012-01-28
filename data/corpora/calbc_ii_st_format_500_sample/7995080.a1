@@ -1,0 +1,22 @@
+T1	CHED 41 52	cardiolipin
+T2	DISO 137 157	cutaneous vasculitis
+T3	CHED 191 224	intercellular adhesion molecule-1
+T4	PRGE 191 224	intercellular adhesion molecule-1
+T5	PRGE 226 232	ICAM-1
+T6	DISO 265 275	vasculitis
+T7	DISO 314 324	vasculitis
+T8	DISO 338 358	cutaneous vasculitis
+T9	CHED 441 452	cardiolipin
+T10	PRGE 454 457	ACL
+T11	DISO 532 542	vasculitis
+T12	PRGE 566 572	ICAM-1
+T13	PRGE 589 592	ACL
+T14	PRGE 622 628	ICAM-1
+T15	PRGE 645 648	ACL
+T16	DISO 695 705	vasculitis
+T17	DISO 725 745	cutaneous vasculitis
+T18	PRGE 757 763	ICAM-1
+T19	PRGE 780 783	ACL
+T20	DISO 816 823	disease
+T21	DISO 868 878	vasculitis
+T22	PRGE 895 901	ICAM-1

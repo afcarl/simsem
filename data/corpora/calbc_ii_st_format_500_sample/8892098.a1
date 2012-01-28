@@ -1,0 +1,38 @@
+T1	CHED 4 11	Epitope
+T2	CHED 27 36	recoverin
+T3	PRGE 27 36	recoverin
+T4	DISO 40 69	cancer associated retinopathy
+T5	CHED 117 125	epitopes
+T6	CHED 131 140	Recoverin
+T7	PRGE 131 140	Recoverin
+T8	PRGE 167 190	calcium-binding protein
+T9	PRGE 208 218	antibodies
+T10	SPE 222 227	human
+T11	DISO 228 257	cancer-associated retinopathy
+T12	SPE 315 320	human
+T13	SPE 340 343	rat
+T14	PRGE 390 400	antibodies
+T15	CHED 404 413	recoverin
+T16	PRGE 404 413	recoverin
+T17	SPE 423 428	human
+T18	DISO 429 436	disease
+T19	SPE 444 451	animals
+T20	CHED 467 476	recoverin
+T21	PRGE 467 476	recoverin
+T22	PRGE 618 625	EF-hand
+T23	CHED 633 656	immunodominant epitopes
+T24	CHED 657 664	consist
+T25	CHED 831 838	calcium
+T26	CHED 842 851	recoverin
+T27	PRGE 842 851	recoverin
+T28	PRGE 868 878	antibodies
+T29	CHED 1035 1043	epitopes
+T30	CHED 1062 1065	SDS
+T31	PRGE 1062 1065	SDS
+T32	SPE 1099 1102	rat
+T33	CHED 1117 1126	recoverin
+T34	PRGE 1117 1126	recoverin
+T35	SPE 1184 1189	human
+T36	CHED 1403 1412	recoverin
+T37	PRGE 1403 1412	recoverin
+T38	SPE 1563 1567	rats

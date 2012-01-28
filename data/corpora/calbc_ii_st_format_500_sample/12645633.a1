@@ -1,0 +1,12 @@
+T1	SPE 17 29	Helicobacter
+T2	DISO 86 128	mucosa-associated lymphoid tissue lymphoma
+T3	DISO 260 272	inflammation
+T4	DISO 314 327	MALT lymphoma
+T5	DISO 402 411	lymphomas
+T6	CHED 457 465	formalin
+T7	CHED 476 484	paraffin
+T8	DISO 525 534	dyspepsia
+T9	SPE 554 573	Helicobacter pylori
+T10	DISO 554 583	Helicobacter pylori infection
+T11	PRGE 798 801	PCR
+T12	DISO 1065 1078	MALT lymphoma

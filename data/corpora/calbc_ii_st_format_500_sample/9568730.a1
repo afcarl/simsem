@@ -1,0 +1,26 @@
+T1	SPE 32 50	cynomolgus monkeys
+T2	PRGE 66 85	monoclonal antibody
+T3	CHED 93 105	human type I
+T4	PRGE 93 105	human type I
+T5	PRGE 106 116	interferon
+T6	PRGE 117 125	receptor
+T7	PRGE 234 240	IFNAR1
+T8	SPE 254 259	human
+T9	PRGE 260 276	interferon-alpha
+T10	PRGE 278 287	IFN-alpha
+T11	PRGE 289 297	receptor
+T12	PRGE 345 353	Jak-Stat
+T13	PRGE 495 527	major histocompatibility complex
+T14	PRGE 529 532	MHC
+T15	SPE 544 562	cynomolgus monkeys
+T16	SPE 583 590	animals
+T17	PRGE 669 680	MHC class I
+T18	CHED 694 701	antigen
+T19	SPE 767 773	Monkey
+T20	SPE 798 803	mouse
+T21	PRGE 814 824	IFN-alphaR
+T22	SPE 874 881	animals
+T23	PRGE 1015 1023	Jak-Stat
+T24	PRGE 1055 1058	IFN
+T25	PRGE 1201 1210	IFN-alpha
+T26	SPE 1324 1329	human

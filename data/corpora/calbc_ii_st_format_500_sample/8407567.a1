@@ -1,0 +1,28 @@
+T1	CHED 53 65	glycoprotein
+T2	PRGE 53 65	glycoprotein
+T3	DISO 78 89	lung cancer
+T4	DISO 99 105	cancer
+T5	PRGE 140 152	glycoprotein
+T6	CHED 153 160	antigen
+T7	SPE 244 249	human
+T8	DISO 250 275	large cell lung carcinoma
+T9	CHED 495 507	Sepharose 4B
+T10	CHED 666 678	glycoprotein
+T11	PRGE 666 678	glycoprotein
+T12	CHED 696 702	sugars
+T13	PRGE 754 764	N-terminal
+T14	CHED 869 876	antigen
+T15	DISO 894 908	lung carcinoma
+T16	PRGE 919 923	Calu
+T17	DISO 1018 1026	diseases
+T18	DISO 1313 1321	diseases
+T19	DISO 1330 1338	hepatoma
+T20	DISO 1349 1357	leukemia
+T21	DISO 1384 1392	diseases
+T22	DISO 1401 1418	chronic hepatitis
+T23	DISO 1429 1444	liver cirrhosis
+T24	DISO 1516 1530	liver diseases
+T25	DISO 1540 1557	chronic hepatitis
+T26	DISO 1559 1574	liver cirrhosis
+T27	DISO 1579 1587	hepatoma
+T28	DISO 1593 1599	cancer

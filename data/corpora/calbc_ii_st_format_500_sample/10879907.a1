@@ -1,0 +1,25 @@
+T1	DISO 4 29	Infectious bursal disease
+T2	SPE 60 65	virus
+T3	SPE 102 110	chickens
+T4	SPE 115 122	chicken
+T5	SPE 167 198	infectious bursal disease virus
+T6	DISO 167 192	infectious bursal disease
+T7	CHED 235 242	vaccine
+T8	SPE 282 304	specific-pathogen-free
+T9	SPE 305 313	chickens
+T10	SPE 318 325	chicken
+T11	SPE 438 446	chickens
+T12	PRGE 514 533	nucleotide sequence
+T13	PRGE 550 553	VP2
+T14	CHED 658 668	nucleotide
+T15	SPE 732 739	chicken
+T16	CHED 758 768	nucleotide
+T17	CHED 858 868	nucleotide
+T18	CHED 935 943	vaccines
+T19	SPE 973 981	chickens
+T20	PRGE 1010 1013	Gln
+T21	PRGE 1139 1152	endonucleases
+T22	SPE 1259 1264	virus
+T23	PRGE 1285 1288	Gln
+T24	SPE 1351 1359	chickens
+T25	SPE 1395 1400	virus

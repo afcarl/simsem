@@ -1,0 +1,18 @@
+T1	SPE 24 33	Chlamydia
+T2	DISO 60 69	sterility
+T3	DISO 92 101	infection
+T4	SPE 155 176	chlamydia trachomatis
+T5	DISO 155 186	chlamydia trachomatis infection
+T6	DISO 214 225	infertility
+T7	SPE 231 232	C
+T8	PRGE 299 302	STD
+T9	DISO 391 402	infertility
+T10	SPE 422 436	C. trachomatis
+T11	DISO 478 489	infertility
+T12	DISO 515 538	gynaecological diseases
+T13	PRGE 567 570	STD
+T14	DISO 680 691	infertility
+T15	DISO 732 743	infertility
+T16	DISO 803 813	infections
+T17	SPE 819 833	C. trachomatis
+T18	DISO 898 909	infertility

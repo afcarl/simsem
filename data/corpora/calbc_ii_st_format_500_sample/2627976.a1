@@ -1,0 +1,10 @@
+T1	DISO 68 84	breast carcinoma
+T2	PRGE 108 123	nuclear antigen
+T3	PRGE 162 167	Ki-67
+T4	PRGE 177 197	transferrin receptor
+T5	DISO 315 328	breast cancer
+T6	PRGE 395 400	Ki-67
+T7	DISO 612 618	tumour
+T8	PRGE 815 820	Ki-67
+T9	DISO 847 852	tumor
+T10	CHED 1097 1106	indicator

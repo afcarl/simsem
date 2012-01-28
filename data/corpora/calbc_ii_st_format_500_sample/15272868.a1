@@ -1,0 +1,25 @@
+T1	CHED 22 36	interleukin 12
+T2	PRGE 22 36	interleukin 12
+T3	SPE 88 111	Cryptococcus neoformans
+T4	DISO 88 111	Cryptococcus neoformans
+T5	SPE 131 154	Cryptococcus neoformans
+T6	DISO 131 154	Cryptococcus neoformans
+T7	SPE 235 251	Candida albicans
+T8	CHED 311 325	interleukin 12
+T9	PRGE 311 325	interleukin 12
+T10	CHED 327 332	IL-12
+T11	PRGE 327 332	IL-12
+T12	PRGE 434 442	cytokine
+T13	CHED 616 621	IL-12
+T14	CHED 631 636	IL-18
+T15	PRGE 631 636	IL-18
+T16	PRGE 662 671	IFN-gamma
+T17	PRGE 686 692	IL-12R
+T18	PRGE 715 718	CD4
+T19	PRGE 789 794	IL-18
+T20	PRGE 907 911	B7-2
+T21	PRGE 931 935	B7-1
+T22	SPE 1034 1057	Cryptococcus neoformans
+T23	DISO 1034 1057	Cryptococcus neoformans
+T24	DISO 1113 1122	infection
+T25	CHED 1155 1160	IL-12

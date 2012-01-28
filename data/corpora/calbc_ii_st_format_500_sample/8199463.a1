@@ -1,0 +1,14 @@
+T1	DISO 188 206	allergic disorders
+T2	DISO 303 309	atopic
+T3	SPE 493 523	Dermatophagoides pteronyssinus
+T4	SPE 576 592	D. pteronyssinus
+T5	SPE 600 606	pollen
+T6	SPE 710 716	pollen
+T7	CHED 856 864	allergen
+T8	CHED 884 892	allergen
+T9	CHED 1103 1106	IgE
+T10	PRGE 1103 1106	IgE
+T11	CHED 1269 1272	IgE
+T12	PRGE 1269 1272	IgE
+T13	CHED 1313 1321	allergen
+T14	DISO 1452 1468	atopic disorders

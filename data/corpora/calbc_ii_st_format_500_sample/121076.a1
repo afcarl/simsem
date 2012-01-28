@@ -1,0 +1,14 @@
+T1	SPE 37 44	porcine
+T2	CHED 45 64	luteinizing hormone
+T3	PRGE 45 64	luteinizing hormone
+T4	SPE 109 115	rabbit
+T5	CHED 229 236	hormone
+T6	SPE 280 287	porcine
+T7	CHED 288 307	luteinizing hormone
+T8	PRGE 288 307	luteinizing hormone
+T9	CHED 309 311	LH
+T10	PRGE 309 311	LH
+T11	CHED 348 350	LH
+T12	PRGE 348 350	LH
+T13	SPE 381 388	rabbits
+T14	SPE 424 431	animals

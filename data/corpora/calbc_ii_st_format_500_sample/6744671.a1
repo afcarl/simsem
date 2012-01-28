@@ -1,0 +1,17 @@
+T1	PRGE 4 25	Glutathione reductase
+T2	CHED 30 51	nitroblue tetrazolium
+T3	DISO 115 139	idiopathic myelofibrosis
+T4	CHED 145 150	Latex
+T5	CHED 165 186	nitroblue tetrazolium
+T6	DISO 254 278	idiopathic myelofibrosis
+T7	CHED 324 329	latex
+T8	CHED 499 520	nitroblue tetrazolium
+T9	PRGE 608 641	glucose-6-phosphate dehydrogenase
+T10	PRGE 645 675	phosphogluconate dehydrogenase
+T11	PRGE 677 699	glutathione peroxidase
+T12	PRGE 781 802	glutathione reductase
+T13	CHED 932 959	flavin adenine dinucleotide
+T14	PRGE 965 986	Glutathione reductase
+T15	CHED 991 1012	nitroblue tetrazolium
+T16	DISO 1128 1141	enzymopathies
+T17	DISO 1178 1187	infection

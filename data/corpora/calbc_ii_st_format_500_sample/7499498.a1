@@ -1,0 +1,37 @@
+T1	DISO 100 109	infection
+T2	SPE 119 159	Theiler's murine encephalomyelitis virus
+T3	DISO 129 153	murine encephalomyelitis
+T4	SPE 210 214	mice
+T5	SPE 220 227	Theiler
+T6	DISO 230 254	murine encephalomyelitis
+T7	SPE 262 266	TMEV
+T8	DISO 300 321	demyelinating disease
+T9	SPE 337 341	host
+T10	SPE 347 352	mouse
+T11	DISO 356 385	delayed-type hypersensitivity
+T12	CHED 410 418	antigens
+T13	DISO 467 474	disease
+T14	DISO 539 552	demyelination
+T15	SPE 570 575	human
+T16	DISO 576 594	multiple sclerosis
+T17	DISO 596 598	MS
+T18	DISO 638 649	recruitment
+T19	PRGE 663 667	Th-1
+T20	SPE 892 896	TMEV
+T21	SPE 984 989	C57BL
+T22	SPE 992 996	mice
+T23	PRGE 1027 1046	proteolytic enzymes
+T24	PRGE 1068 1088	myelin basic protein
+T25	PRGE 1271 1274	MBP
+T26	SPE 1432 1437	C57BL
+T27	SPE 1515 1520	C57BL
+T28	SPE 1639 1644	C57BL
+T29	SPE 1719 1724	C57BL
+T30	SPE 1727 1731	mice
+T31	PRGE 1750 1753	LPS
+T32	DISO 1782 1791	infection
+T33	PRGE 1822 1829	enzymes
+T34	CHED 2005 2013	fluoride
+T35	PRGE 2052 2067	serine protease
+T36	PRGE 2143 2152	proteases
+T37	SPE 2156 2160	TMEV

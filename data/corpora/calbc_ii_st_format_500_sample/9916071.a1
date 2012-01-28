@@ -1,0 +1,30 @@
+T1	SPE 4 25	Neisseria gonorrhoeae
+T2	SPE 57 62	human
+T3	CHED 176 186	cytotoxins
+T4	SPE 200 221	Neisseria gonorrhoeae
+T5	PRGE 244 249	locus
+T6	SPE 276 286	gonococcus
+T7	SPE 341 347	strain
+T8	SPE 351 356	human
+T9	PRGE 401 406	locus
+T10	PRGE 408 412	gly1
+T11	PRGE 427 446	open reading frames
+T12	PRGE 448 452	ORFs
+T13	PRGE 490 494	ORF1
+T14	CHED 505 516	polypeptide
+T15	PRGE 536 551	signal sequence
+T16	SPE 588 604	Escherichia coli
+T17	SPE 609 623	N. gonorrhoeae
+T18	CHED 648 659	polypeptide
+T19	SPE 742 749	E. coli
+T20	PRGE 761 765	gly1
+T21	SPE 814 828	N. gonorrhoeae
+T22	PRGE 834 838	gly1
+T23	PRGE 839 844	locus
+T24	PRGE 1002 1006	gly1
+T25	SPE 1107 1113	strain
+T26	PRGE 1144 1148	gly1
+T27	PRGE 1310 1314	gly1
+T28	PRGE 1315 1320	locus
+T29	SPE 1340 1354	N. gonorrhoeae
+T30	SPE 1358 1363	human

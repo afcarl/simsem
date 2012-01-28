@@ -1,0 +1,32 @@
+T1	PRGE 8 40	transforming growth factor-beta1
+T2	DISO 44 59	prostate cancer
+T3	PRGE 65 74	TGF-beta1
+T4	DISO 129 137	prostate
+T5	DISO 160 168	prostate
+T6	PRGE 170 179	TGF-beta1
+T7	PRGE 292 301	TGF-beta1
+T8	DISO 380 395	Prostate cancer
+T9	PRGE 425 434	TGF-beta1
+T10	DISO 459 474	prostate cancer
+T11	DISO 486 496	metastasis
+T12	DISO 577 583	tumour
+T13	DISO 595 610	Prostate cancer
+T14	PRGE 639 647	TGF-beta
+T15	PRGE 736 745	TGF-beta1
+T16	PRGE 779 788	TGF-beta1
+T17	PRGE 801 809	TGF-beta
+T18	PRGE 810 818	receptor
+T19	SPE 888 893	human
+T20	DISO 894 909	prostate cancer
+T21	PRGE 924 933	TGF-beta1
+T22	CHED 997 1005	androgen
+T23	DISO 1084 1100	prostate tumours
+T24	PRGE 1182 1206	TGF-beta receptor type I
+T25	DISO 1236 1242	tumour
+T26	PRGE 1319 1327	TGF-beta
+T27	PRGE 1328 1336	receptor
+T28	PRGE 1468 1476	TGF-beta
+T29	DISO 1487 1503	prostate tumours
+T30	CHED 1562 1570	androgen
+T31	PRGE 1623 1631	TGF-beta
+T32	DISO 1744 1760	prostate tumours

@@ -1,0 +1,34 @@
+T1	PRGE 4 20	Interferon-gamma
+T2	SPE 56 78	Cryptosporidium parvum
+T3	SPE 82 86	mice
+T4	PRGE 97 100	CD4
+T5	DISO 156 165	infection
+T6	SPE 167 171	mice
+T7	PRGE 177 209	severe combined immunodeficiency
+T8	DISO 177 209	severe combined immunodeficiency
+T9	DISO 211 215	SCID
+T10	SPE 283 287	mice
+T11	PRGE 320 323	IFN
+T12	DISO 413 422	infection
+T13	DISO 491 495	SCID
+T14	SPE 504 526	Cryptosporidium parvum
+T15	PRGE 541 550	IFN-gamma
+T16	DISO 559 574	immunodeficient
+T17	SPE 575 580	C57BL
+T18	PRGE 588 597	IFN-gamma
+T19	SPE 607 611	mice
+T20	SPE 629 633	mice
+T21	DISO 655 665	infections
+T22	SPE 748 752	mice
+T23	DISO 766 770	SCID
+T24	PRGE 808 817	IFN-gamma
+T25	PRGE 818 823	genes
+T26	SPE 835 839	Mice
+T27	PRGE 845 849	gene
+T28	PRGE 902 905	Fas
+T29	PRGE 906 916	Fas ligand
+T30	DISO 944 953	infection
+T31	SPE 981 985	mice
+T32	DISO 1045 1049	SCID
+T33	PRGE 1067 1076	IFN-gamma
+T34	DISO 1098 1107	infection

@@ -1,0 +1,25 @@
+T1	SPE 14 20	murine
+T2	DISO 21 33	tumor growth
+T3	CHED 65 77	indomethacin
+T4	DISO 151 156	tumor
+T5	SPE 173 177	mice
+T6	CHED 195 207	indomethacin
+T7	CHED 211 218	aspirin
+T8	CHED 235 240	water
+T9	CHED 248 253	drugs
+T10	CHED 294 307	prostaglandin
+T11	CHED 323 335	Indomethacin
+T12	CHED 369 384	prostaglandin E
+T13	PRGE 386 389	PGE
+T14	DISO 398 403	tumor
+T15	DISO 417 423	tumors
+T16	SPE 435 442	animals
+T17	SPE 515 522	animals
+T18	PRGE 546 549	PGE
+T19	DISO 610 615	tumor
+T20	SPE 648 655	animals
+T21	PRGE 697 700	PGE
+T22	DISO 723 729	tumors
+T23	SPE 743 750	animals
+T24	PRGE 789 792	PGE
+T25	DISO 819 825	tumors

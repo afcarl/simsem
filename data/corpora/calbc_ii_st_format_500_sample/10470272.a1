@@ -1,0 +1,11 @@
+T1	SPE 36 43	viruses
+T2	SPE 211 218	viruses
+T3	DISO 230 237	disease
+T4	DISO 347 354	disease
+T5	DISO 842 849	disease
+T6	SPE 880 887	viruses
+T7	SPE 1062 1080	pseudorabies virus
+T8	DISO 1062 1074	pseudorabies
+T9	SPE 1086 1089	PRV
+T10	SPE 1094 1099	swine
+T11	SPE 1100 1111	herpesvirus

@@ -1,0 +1,24 @@
+T1	PRGE 61 74	interleukin-2
+T2	CHED 79 97	interferon alfa-2a
+T3	DISO 124 144	renal cell carcinoma
+T4	DISO 149 157	melanoma
+T5	PRGE 205 218	interleukin-2
+T6	PRGE 220 224	IL-2
+T7	CHED 230 240	interferon
+T8	PRGE 230 240	interferon
+T9	DISO 306 337	metastatic renal cell carcinoma
+T10	DISO 357 365	melanoma
+T11	PRGE 407 411	IL-2
+T12	DISO 536 542	Tumour
+T13	DISO 846 869	capillary leak syndrome
+T14	DISO 923 931	pruritus
+T15	DISO 944 956	thrombopenia
+T16	DISO 961 967	sepsis
+T17	SPE 973 994	staphylococcus aureus
+T18	DISO 1048 1070	autoimmune thyroiditis
+T19	DISO 1279 1299	renal cell carcinoma
+T20	DISO 1319 1327	melanoma
+T21	PRGE 1520 1523	LAK
+T22	PRGE 1709 1712	INF
+T23	PRGE 1792 1796	IL-2
+T24	PRGE 1867 1870	LAK

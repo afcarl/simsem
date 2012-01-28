@@ -1,0 +1,22 @@
+T1	PRGE 4 22	Carbonic anhydrase
+T2	PRGE 39 42	XII
+T3	DISO 46 60	gastric tumors
+T4	PRGE 109 127	carbonic anhydrase
+T5	PRGE 149 152	XII
+T6	DISO 156 170	gastric tumors
+T7	DISO 308 323	gastric lesions
+T8	PRGE 346 351	CA IX
+T9	PRGE 487 492	CA IX
+T10	DISO 573 587	gastric tumors
+T11	DISO 592 600	adenomas
+T12	PRGE 602 607	CA IX
+T13	DISO 666 675	dysplasia
+T14	DISO 757 772	adenocarcinomas
+T15	DISO 801 811	carcinomas
+T16	PRGE 854 860	CA XII
+T17	DISO 953 959	tumors
+T18	PRGE 1004 1009	CA IX
+T19	DISO 1054 1068	gastric tumors
+T20	PRGE 1101 1106	CA IX
+T21	DISO 1139 1155	gastric adenomas
+T22	DISO 1160 1170	carcinomas

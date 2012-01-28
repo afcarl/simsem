@@ -1,0 +1,9 @@
+T1	DISO 14 20	asthma
+T2	DISO 37 52	Allergic asthma
+T3	CHED 88 91	IgE
+T4	PRGE 88 91	IgE
+T5	PRGE 101 105	mast
+T6	DISO 186 197	anaphylaxis
+T7	CHED 202 211	histamine
+T8	CHED 331 346	cromolyn sodium
+T9	DISO 568 574	asthma

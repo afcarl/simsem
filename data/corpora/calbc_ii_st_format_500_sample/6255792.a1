@@ -1,0 +1,24 @@
+T1	DISO 24 48	hepatocellular carcinoma
+T2	DISO 65 76	hepatitis B
+T3	DISO 102 126	Hepatocellular carcinoma
+T4	SPE 153 160	B virus
+T5	SPE 162 165	HBV
+T6	DISO 167 176	infection
+T7	SPE 288 291	HBV
+T8	DISO 334 343	infection
+T9	DISO 373 381	Jaundice
+T10	DISO 479 490	hepatitis B
+T11	CHED 505 512	antigen
+T12	DISO 527 555	chronic persistent hepatitis
+T13	CHED 598 603	HBsAg
+T14	DISO 671 695	hepatocellular carcinoma
+T15	CHED 809 814	HBsAg
+T16	CHED 852 858	orcein
+T17	DISO 953 977	hepatocellular carcinoma
+T18	SPE 1043 1046	HBV
+T19	DISO 1047 1056	infection
+T20	DISO 1094 1109	liver cirrhosis
+T21	SPE 1186 1189	HBV
+T22	SPE 1219 1222	HBV
+T23	DISO 1223 1232	infection
+T24	DISO 1257 1281	hepatocellular carcinoma

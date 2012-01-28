@@ -1,0 +1,13 @@
+T1	DISO 20 25	tumor
+T2	DISO 175 180	tumor
+T3	DISO 282 306	squamous cell carcinomas
+T4	DISO 323 338	adenocarcinomas
+T5	DISO 367 375	sarcomas
+T6	DISO 383 396	osteosarcomas
+T7	DISO 659 669	metastasis
+T8	DISO 814 824	metastasis
+T9	PRGE 1186 1189	ALC
+T10	DISO 1300 1319	soft tissue sarcoma
+T11	DISO 1324 1350	adenocarcinoma of the lung
+T12	PRGE 1411 1414	ALC
+T13	PRGE 1459 1462	PHA

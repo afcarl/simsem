@@ -1,0 +1,17 @@
+T1	SPE 50 58	sand fly
+T2	SPE 107 117	Leishmania
+T3	DISO 107 128	Leishmania infections
+T4	CHED 142 146	Sand
+T5	SPE 142 150	Sand fly
+T6	CHED 263 273	hemostatic
+T7	SPE 292 296	host
+T8	CHED 328 345	immunosuppressive
+T9	SPE 360 368	sand fly
+T10	SPE 413 423	Leishmania
+T11	SPE 446 455	mammalian
+T12	SPE 511 519	sand fly
+T13	SPE 678 688	Leishmania
+T14	DISO 678 699	Leishmania infections
+T15	SPE 752 762	Leishmania
+T16	SPE 779 788	mammalian
+T17	SPE 789 793	host

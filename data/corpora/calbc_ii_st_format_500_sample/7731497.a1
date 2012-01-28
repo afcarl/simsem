@@ -1,0 +1,44 @@
+T1	CHED 23 32	hexarelin
+T2	PRGE 37 41	GHRP
+T3	PRGE 76 80	GHRH
+T4	CHED 85 97	somatostatin
+T5	PRGE 85 97	somatostatin
+T6	SPE 105 108	rat
+T7	CHED 182 202	GH-releasing peptide
+T8	PRGE 182 194	GH-releasing
+T9	CHED 208 217	hexarelin
+T10	CHED 296 305	hexarelin
+T11	PRGE 310 314	GHRP
+T12	PRGE 322 324	GH
+T13	CHED 421 453	growth hormone-releasing hormone
+T14	PRGE 421 453	growth hormone-releasing hormone
+T15	PRGE 455 459	GHRH
+T16	CHED 465 477	somatostatin
+T17	PRGE 465 477	somatostatin
+T18	PRGE 506 510	GHRP
+T19	SPE 540 547	animals
+T20	CHED 586 598	somatostatin
+T21	PRGE 586 598	somatostatin
+T22	PRGE 603 607	GHRH
+T23	CHED 636 645	hexarelin
+T24	PRGE 636 645	hexarelin
+T25	PRGE 657 661	GHRP
+T26	SPE 708 712	rats
+T27	SPE 725 729	rats
+T28	CHED 835 867	growth hormone-releasing hormone
+T29	PRGE 835 867	growth hormone-releasing hormone
+T30	CHED 888 900	somatostatin
+T31	PRGE 888 900	somatostatin
+T32	SPE 948 955	Animals
+T33	CHED 1011 1020	hexarelin
+T34	PRGE 1024 1028	GHRP
+T35	CHED 1196 1205	hexarelin
+T36	PRGE 1209 1213	GHRP
+T37	SPE 1259 1263	rats
+T38	CHED 1319 1328	hexarelin
+T39	PRGE 1376 1380	GHRP
+T40	SPE 1403 1407	Rats
+T41	PRGE 1424 1428	SSas
+T42	CHED 1467 1476	hexarelin
+T43	PRGE 1480 1484	GHRP
+T44	PRGE 1551 1553	GH

@@ -1,0 +1,20 @@
+T1	PRGE 14 25	Tac antigen
+T2	DISO 33 40	Hodgkin
+T3	DISO 43 52	lymphomas
+T4	PRGE 58 66	Anti-Tac
+T5	PRGE 122 144	interleukin-2 receptor
+T6	DISO 227 234	Hodgkin
+T7	DISO 237 246	lymphomas
+T8	PRGE 285 288	Tac
+T9	PRGE 366 377	Tac antigen
+T10	DISO 406 415	lymphomas
+T11	DISO 437 446	lymphomas
+T12	PRGE 475 479	Ki-1
+T13	DISO 491 499	lymphoma
+T14	DISO 515 524	lymphomas
+T15	PRGE 555 566	Tac antigen
+T16	DISO 587 607	large cell lymphomas
+T17	PRGE 682 693	Tac antigen
+T18	DISO 719 727	lymphoma
+T19	DISO 763 770	myeloma
+T20	DISO 843 855	malignancies

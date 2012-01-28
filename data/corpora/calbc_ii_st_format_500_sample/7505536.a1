@@ -1,0 +1,18 @@
+T1	CHED 133 140	antigen
+T2	SPE 206 212	humans
+T3	DISO 288 296	diseases
+T4	DISO 305 322	atopic dermatitis
+T5	DISO 324 341	allergic rhinitis
+T6	DISO 347 353	asthma
+T7	CHED 837 844	Antigen
+T8	CHED 885 894	histamine
+T9	CHED 896 912	prostaglandin D2
+T10	CHED 918 932	leukotriene C4
+T11	PRGE 930 932	C4
+T12	PRGE 942 950	tryptase
+T13	DISO 956 962	Dermal
+T14	CHED 1178 1185	antigen
+T15	PRGE 1220 1229	cytokines
+T16	CHED 1341 1355	antihistamines
+T17	CHED 1428 1437	histamine
+T18	DISO 1507 1514	disease

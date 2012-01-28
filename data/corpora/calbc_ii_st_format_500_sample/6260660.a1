@@ -1,0 +1,14 @@
+T1	DISO 59 74	Marek's disease
+T2	DISO 205 220	Marek's disease
+T3	DISO 243 252	infection
+T4	SPE 318 323	virus
+T5	DISO 318 333	virus infection
+T6	SPE 348 356	chickens
+T7	SPE 377 385	chickens
+T8	SPE 447 455	chickens
+T9	DISO 471 478	viremia
+T10	SPE 590 598	chickens
+T11	PRGE 657 661	SB-1
+T12	DISO 732 737	tumor
+T13	SPE 882 887	birds
+T14	SPE 938 943	virus

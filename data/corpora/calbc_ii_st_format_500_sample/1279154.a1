@@ -1,0 +1,25 @@
+T1	PRGE 4 41	Granulocyte-colony stimulating factor
+T2	SPE 101 106	fungi
+T3	SPE 121 125	mice
+T4	SPE 157 162	human
+T5	PRGE 202 207	G-CSF
+T6	SPE 324 328	mice
+T7	SPE 357 362	fungi
+T8	SPE 368 372	Mice
+T9	CHED 392 408	cyclophosphamide
+T10	PRGE 500 505	G-CSF
+T11	PRGE 579 584	G-CSF
+T12	SPE 593 597	mice
+T13	PRGE 637 642	G-CSF
+T14	SPE 674 678	mice
+T15	SPE 700 716	Candida albicans
+T16	SPE 718 741	Cryptococcus neoformans
+T17	SPE 745 766	Aspergillus fumigatus
+T18	PRGE 818 823	G-CSF
+T19	PRGE 835 840	G-CSF
+T20	SPE 893 899	yeasts
+T21	SPE 914 921	Candida
+T22	DISO 914 921	Candida
+T23	SPE 931 935	mice
+T24	PRGE 987 992	G-CSF
+T25	DISO 1015 1032	fungal infections

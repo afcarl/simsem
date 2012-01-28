@@ -1,0 +1,13 @@
+T1	SPE 4 10	Bovine
+T2	SPE 40 44	BRSV
+T3	DISO 46 55	pneumonia
+T4	DISO 258 267	pneumonia
+T5	SPE 320 354	bovine respiratory syncytial virus
+T6	SPE 356 360	BRSV
+T7	SPE 582 586	BRSV
+T8	DISO 893 903	infectious
+T9	DISO 904 913	pneumonia
+T10	SPE 934 938	BRSV
+T11	SPE 985 989	BRSV
+T12	SPE 1071 1075	BRSV
+T13	DISO 1085 1104	respiratory disease

@@ -1,0 +1,21 @@
+T1	CHED 14 23	urokinase
+T2	SPE 50 55	human
+T3	CHED 56 72	antithrombin III
+T4	PRGE 56 72	antithrombin III
+T5	CHED 100 107	heparin
+T6	SPE 113 118	Human
+T7	CHED 119 135	antithrombin III
+T8	PRGE 119 135	antithrombin III
+T9	SPE 160 165	human
+T10	CHED 211 220	Sepharose
+T11	CHED 249 263	concanavalin A
+T12	CHED 264 273	Sepharose
+T13	CHED 341 345	DEAE
+T14	CHED 351 359	Sephadex
+T15	PRGE 443 464	plasminogen activator
+T16	CHED 515 522	acetate
+T17	CHED 559 575	antithrombin III
+T18	PRGE 559 575	antithrombin III
+T19	CHED 613 620	Heparin
+T20	CHED 956 977	anti-antithrombin III
+T21	PRGE 974 977	III

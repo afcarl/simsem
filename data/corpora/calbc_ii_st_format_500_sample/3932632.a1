@@ -1,0 +1,21 @@
+T1	SPE 56 62	strain
+T2	SPE 66 83	Trypanosoma cruzi
+T3	SPE 142 148	strain
+T4	SPE 152 169	Trypanosoma cruzi
+T5	SPE 199 203	mice
+T6	DISO 209 220	Parasitemia
+T7	SPE 250 254	mice
+T8	SPE 317 323	strain
+T9	SPE 403 420	Trypanosoma cruzi
+T10	SPE 449 457	C3H mice
+T11	SPE 497 503	strain
+T12	SPE 509 514	C57BL
+T13	SPE 517 521	mice
+T14	DISO 569 581	parasitemias
+T15	SPE 613 618	C57BL
+T16	SPE 621 625	mice
+T17	SPE 651 657	strain
+T18	PRGE 714 717	IgM
+T19	PRGE 722 725	IgG
+T20	SPE 754 758	mice
+T21	SPE 853 859	strain

@@ -1,0 +1,15 @@
+T1	SPE 4 25	Mycoplasma pneumoniae
+T2	DISO 4 25	Mycoplasma pneumoniae
+T3	DISO 26 35	infection
+T4	DISO 53 80	acute respiratory infection
+T5	CHED 190 193	TMA
+T6	SPE 392 413	Mycoplasma pneumoniae
+T7	DISO 392 413	Mycoplasma pneumoniae
+T8	SPE 608 629	Mycoplasma pneumoniae
+T9	DISO 608 629	Mycoplasma pneumoniae
+T10	DISO 643 652	infection
+T11	DISO 781 790	infection
+T12	DISO 805 820	lymphadenopathy
+T13	SPE 907 917	Mycoplasma
+T14	SPE 1032 1042	Mycoplasma
+T15	SPE 1056 1066	Mycoplasma
