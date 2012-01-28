@@ -1,0 +1,35 @@
+Devalopment Data for BioNLP'09 Shared Task on Event Extraction
+
+
+- Contains 150 PubMed abstracts and their protein annotations.
+
+- For format details, please refer to the shared task homepage.
+  http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/SharedTask/
+
+
+File Descriptions:
+
+*.txt	files contain the target text.
+	Each of these files consists of two lines, one for the title and one for the abstract.
+*.a1	files contain standoff annotations for proteins.
+
+*.a2	files contain standoff annotations for other named entities and events.
+	For training, the participants will be provided with these files.
+	For test, the participants have to create this annotation.
+
+History:
+
+ 3 July 2009, released to public.
+
+16 February 2009, The first revision released.
+	- The gold event annotation files (*.a2 files) are included.
+	- The other files remain the same.
+
+7 February 2009, The first version released.
+
+
+Authors:
+
+BioNLP'09 Shared Task organizers,
+bionlpsharedtask@gmail.com
+http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/SharedTask/

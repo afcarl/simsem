@@ -1,0 +1,40 @@
+Training Data for BioNLP'09 Shared Task on Event Extraction
+
+
+- Contains 800 PubMed abstracts and their named entity and molecular event
+  annotations.
+
+- For format details, please refer to the shared task homepage.
+  http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/SharedTask/
+
+
+File Descriptions:
+
+*.txt	files contain the target text.
+	Each of these files consists of two lines, one for the title and one for the abstract.
+*.a1	files contain standoff annotations for proteins.
+	The participants will be provided with these files.
+*.a2	files contain standoff annotations for other named entities and events.
+	For training, the participants will be provided with these files.
+	For test, the participants have to create this annotation.
+
+History:
+
+ 3 July 2009, released to public.
+
+10 February 2009, 2nd revision released.
+	- Cause arguments from Phosphorylation events have been removed: 7 cases.
+	- Duplicated events have been removed: 127 cases.
+	- Duplicated Equiv entities have been removed: 8 cases.
+	- Redundant Entity annotations have been removed: 20 cases.
+
+ 1 February 2009, 1st revision released.
+
+21 January  2009, The first version released.
+
+
+Authors:
+
+BioNLP'09 Shared Task organizers,
+bionlpsharedtask@gmail.com
+http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/SharedTask/
