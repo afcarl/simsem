@@ -1,7 +1,7 @@
 T1	Regulator 0 39	Nuclear receptor steroidogenic factor 1
 T2	Gene 50 89	the müllerian inhibiting substance gene
 T3	Regulator 405 409	SF-1
-T4	Gene 423 434	the MIS gene
+T4	Gene 422 434	the MIS gene
 T5	DNA 449 488	a conserved upstream regulatory element
 T6	SPAN 490 492	In
 T7	SPAN 507 511	HeLa
