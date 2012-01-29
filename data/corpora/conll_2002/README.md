@@ -6,7 +6,8 @@ format. Hence some of the information below may not be strictly correct but is
 kept for future reference.
 
 The Spanish data is kept in the `esp` directory and the Dutch data in the
-`ned` directory.
+`ned` directory. The splits into `train`, `dev` and `test` were not determined
+by the CoNLL-2002 organisers but by the SimSem authors.
 
 ## Introduction ##
 
