@@ -1,0 +1,48 @@
+T1	LOC 12 17	Ieper
+T2	LOC 28 50	Sint-Michiels-parochie
+T3	LOC 60 82	Sint-Michiels-parochie
+T4	MISC 161 168	Ieperse
+T5	LOC 261 274	Sint-Michiels
+T6	LOC 300 306	Rijsel
+T7	LOC 316 321	Ieper
+T8	LOC 383 394	Rijselpoort
+T9	PER 401 408	Dewilde
+T10	LOC 853 873	De verdronken weiden
+T11	LOC 923 928	Ieper
+T12	LOC 1667 1680	Sint-Michiels
+T13	MISC 1823 1830	Ieperse
+T14	LOC 1845 1858	Sint-Michiels
+T15	MISC 2034 2045	Ieperlingen
+T16	LOC 2221 2234	Sint-Michiels
+T17	PER 2247 2254	Dewilde
+T18	MISC 2331 2336	Duits
+T19	LOC 2655 2668	Sint-Michiels
+T20	MISC 2718 2724	Gentse
+T21	MISC 2732 2739	Engelse
+T22	PER 2788 2795	Dewilde
+T23	MISC 2818 2837	Eerste Wereldoorlog
+T24	LOC 3040 3048	Ieperlee
+T25	LOC 3168 3173	Ieper
+T26	PER 3230 3246	Frans Steenhoudt
+T27	LOC 3301 3306	Ieper
+T28	ORG 3315 3324	De Morgen
+T29	LOC 3454 3467	Sint-Michiels
+T30	MISC 3516 3523	Ieperse
+T31	PER 3560 3572	Marc Dewilde
+T32	ORG 3664 3709	Instituut voor het Archeologische Patrimonium
+T33	ORG 3711 3714	IAP
+T34	LOC 3744 3749	Ieper
+T35	LOC 3876 3881	Ieper
+T36	LOC 4004 4017	Sint-Michiels
+T37	PER 4077 4084	Dewilde
+T38	PER 4166 4183	Philips de Stoute
+T39	MISC 4267 4274	Ieperse
+T40	PER 4563 4570	Dewilde
+T41	PER 4658 4665	Dewilde
+T42	MISC 5225 5229	Aula
+T43	MISC 5313 5325	Middeleeuwen
+T44	LOC 5639 5644	Ieper
+T45	LOC 5859 5872	Sint-Michiels
+T46	LOC 6119 6132	Sint-Michiels
+T47	MISC 6298 6310	Middeleeuwen
+T48	LOC 6404 6421	Verdronken Weiden

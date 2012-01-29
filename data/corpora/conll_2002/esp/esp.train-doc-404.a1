@@ -1,0 +1,29 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	ORG 42 50	Gobierno
+T4	PER 52 68	José María Aznar
+T5	ORG 108 119	Cámara Baja
+T6	MISC 171 189	Ley de Extranjería
+T7	ORG 204 209	Lycos
+T8	ORG 223 228	Terra
+T9	ORG 240 250	Telefónica
+T10	MISC 295 314	Ciencia. Tecnología
+T11	ORG 333 339	Estado
+T12	MISC 343 368	Relaciones con las Cortes
+T13	PER 370 385	Jorge Fernández
+T14	ORG 439 448	Ejecutivo
+T15	ORG 488 496	Gobierno
+T16	ORG 520 528	Congreso
+T17	ORG 545 547	IU
+T18	ORG 554 565	Cámara Baja
+T19	PER 567 583	Francisco Frutos
+T20	ORG 639 647	Gobierno
+T21	MISC 675 693	Ley de Extranjería
+T22	PER 733 752	Luis Martínez Noval
+T23	ORG 843 848	Terra
+T24	ORG 860 870	Telefónica
+T25	MISC 889 897	Internet
+T26	ORG 913 918	Lycos
+T27	ORG 936 938	PP
+T28	PER 939 957	Juan Manuel Moreno
+T29	ORG 1047 1080	Ministerio de Ciencia. Tecnología

@@ -1,0 +1,65 @@
+T1	LOC 0 6	Atenas
+T2	ORG 16 19	EFE
+T3	ORG 75 89	Estados Unidos
+T4	LOC 91 95	Asia
+T5	LOC 98 107	Australia
+T6	LOC 137 143	Atenas
+T7	LOC 206 212	Grecia
+T8	LOC 241 252	Reino Unido
+T9	LOC 273 281	Partenón
+T10	ORG 299 308	Acrópolis
+T11	ORG 344 351	Londres
+T12	ORG 354 360	Atenas
+T13	ORG 490 496	Estado
+T14	LOC 510 516	Grecia
+T15	ORG 572 598	Centro de Estudios griegos
+T16	ORG 600 612	Kapodistrias
+T17	ORG 628 649	Horizontes Culturales
+T18	ORG 656 677	Universidad de Atenas
+T19	MISC 721 728	Cultura
+T20	MISC 734 745	Información
+T21	ORG 759 860	Comisión Nacional de la Organización de las Naciones Unidas para la Educación ,la Ciencia. la Cultura
+T22	ORG 862 868	UNESCO
+T23	LOC 989 997	Partenón
+T24	ORG 1016 1029	Unión Europea
+T25	LOC 1089 1097	Partenón
+T26	LOC 1101 1107	Atenas
+T27	LOC 1201 1207	Atenas
+T28	PER 1209 1220	Lord Elguin
+T29	LOC 1256 1282	Museo Británico de Londres
+T30	ORG 1318 1324	Grecia
+T31	MISC 1399 1406	Cultura
+T32	PER 1414 1428	Melina Mercuri
+T33	ORG 1464 1472	Gobierno
+T34	MISC 1684 1688	City
+T35	MISC 1696 1703	Imperio
+T36	PER 1876 1895	William Saint Clair
+T37	LOC 1969 1977	Partenón
+T38	LOC 1984 1999	Museo Británico
+T39	PER 2111 2124	Martínez Díez
+T40	ORG 2132 2153	Universidad de Madrid
+T41	LOC 2222 2230	Partenón
+T42	LOC 2248 2254	Europa
+T43	MISC 2333 2342	Humanidad
+T44	PER 2344 2357	Martínez Díez
+T45	ORG 2546 2559	Unión Europea
+T46	LOC 2635 2641	Europa
+T47	ORG 2654 2660	España
+T48	LOC 2708 2716	Partenón
+T49	MISC 2725 2733	Guernica
+T50	PER 2738 2745	Picasso
+T51	LOC 2777 2787	Nueva York
+T52	LOC 2808 2814	Madrid
+T53	PER 2829 2844	Hillary Clinton
+T54	PER 2883 2895	Bill Clinton
+T55	LOC 3030 3036	Atenas
+T56	PER 3038 3045	Clinton
+T57	LOC 3095 3101	Grecia
+T58	LOC 3122 3130	Partenón
+T59	PER 3185 3193	Pericles
+T60	PER 3361 3378	José Luis Navarro
+T61	ORG 3394 3415	Universidad de Madrid
+T62	PER 3490 3498	Pericles
+T63	LOC 3558 3564	Atenas
+T64	PER 3578 3585	Navarro
+T65	LOC 3817 3825	Partenón

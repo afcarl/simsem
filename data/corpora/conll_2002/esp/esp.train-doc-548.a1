@@ -1,0 +1,58 @@
+T1	LOC 0 8	Bruselas
+T2	ORG 18 21	EFE
+T3	ORG 29 42	Unión Europea
+T4	ORG 44 46	UE
+T5	LOC 90 108	Bosnia-Herzegovina
+T6	LOC 320 326	Dayton
+T7	LOC 338 346	Bruselas
+T8	ORG 379 384	Rusia
+T9	LOC 415 423	Bruselas
+T10	ORG 448 490	Gobierno de la República Federal Yugoslava
+T11	ORG 492 495	RFY
+T12	MISC 561 579	Asuntos Exteriores
+T13	ORG 616 636	Consejo de ministros
+T14	ORG 643 645	UE
+T15	PER 647 657	Jaime Gama
+T16	ORG 674 680	Bosnia
+T17	PER 1132 1136	Gama
+T18	ORG 1153 1159	Bosnia
+T19	PER 1292 1329	Representante de la Política Exterior
+T20	PER 1339 1352	Javier Solana
+T21	LOC 1456 1474	Bosnia-Herzegovina
+T22	PER 1485 1491	Solana
+T23	LOC 1554 1560	Dayton
+T24	PER 1636 1640	Gama
+T25	ORG 1772 1778	Bosnia
+T26	ORG 1921 1956	Consejo de Implementación de la Paz
+T27	ORG 1958 1961	CIP
+T28	LOC 1966 1972	Bosnia
+T29	ORG 2042 2049	Kremlin
+T30	PER 2095 2113	Slobodan Milosevic
+T31	LOC 2176 2181	Moscú
+T32	MISC 2198 2205	Defensa
+T33	PER 2217 2234	Dragoljub Ojdanic
+T34	ORG 2250 2303	el Tribunal Penal Internacional para la ex-Yugoslavia
+T35	ORG 2335 2343	Belgrado
+T36	ORG 2431 2435	OTAN
+T37	PER 2437 2447	Jamie Shea
+T38	ORG 2512 2518	Bosnia
+T39	MISC 2573 2591	Asuntos Exteriores
+T40	PER 2598 2609	Igor Ivanov
+T41	MISC 2646 2664	Asuntos Exteriores
+T42	ORG 2671 2675	OTAN
+T43	LOC 2697 2706	Florencia
+T44	ORG 2711 2728	Comité Permanente
+T45	ORG 2733 2736	CIP
+T46	ORG 2754 2760	Canadá
+T47	ORG 2762 2769	Francia
+T48	ORG 2771 2779	Alemania
+T49	ORG 2781 2787	Italia
+T50	ORG 2789 2800	Reino Unido
+T51	ORG 2802 2807	Japón
+T52	ORG 2809 2814	Rusia
+T53	ORG 2816 2830	Estados Unidos
+T54	ORG 2862 2864	UE
+T55	ORG 2869 2885	Comisión Europea
+T56	ORG 2888 2895	Turquía
+T57	ORG 2939 2945	Bosnia
+T58	LOC 3111 3119	Balcanes

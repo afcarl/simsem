@@ -1,0 +1,43 @@
+T1	LOC 0 6	Cancún
+T2	LOC 8 14	México
+T3	ORG 25 28	EFE
+T4	MISC 163 240	Cuarta Reunión Ministerial de Telecomunicaciones. Industria de la Información
+T5	MISC 281 287	México
+T6	PER 289 304	Ernesto Zedillo
+T7	ORG 324 345	Presidencia de México
+T8	ORG 357 360	EFE
+T9	LOC 551 558	América
+T10	LOC 561 565	Asia
+T11	LOC 604 610	Cancún
+T12	MISC 648 675	Comunicaciones. Transportes
+T13	LOC 679 685	México
+T14	PER 687 708	Carlos Ruiz Sacristán
+T15	MISC 944 964	Región Asia-Pacífico
+T16	ORG 1319 1352	Foro de Cooperación Asia-Pacífico
+T17	ORG 1354 1358	APEC
+T18	ORG 1422 1431	Australia
+T19	ORG 1433 1439	Brunei
+T20	ORG 1441 1447	Canadá
+T21	ORG 1449 1454	Chile
+T22	ORG 1456 1461	China
+T23	ORG 1463 1468	Corea
+T24	ORG 1470 1484	Estados Unidos
+T25	ORG 1486 1495	Filipinas
+T26	ORG 1497 1506	Hong Kong
+T27	ORG 1508 1517	Indonesia
+T28	ORG 1519 1524	Japón
+T29	ORG 1526 1533	Malasia
+T30	ORG 1535 1541	México
+T31	ORG 1543 1556	Nueva Zelanda
+T32	ORG 1558 1570	Nueva Guinea
+T33	ORG 1572 1576	Perú
+T34	ORG 1578 1583	Rusia
+T35	ORG 1585 1593	Singapur
+T36	ORG 1595 1604	Tailandia
+T37	ORG 1606 1612	Taiwán
+T38	ORG 1615 1622	Vietnam
+T39	ORG 1648 1652	Foro
+T40	MISC 1772 1794	Producto Interno Bruto
+T41	MISC 1796 1799	PIB
+T42	MISC 1917 1938	Declaración de Cancún
+T43	ORG 2061 2088	Grupo de Telecomunicaciones

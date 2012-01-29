@@ -1,0 +1,42 @@
+T1	ORG 11 20	Commissie
+T2	LOC 276 286	Vlaanderen
+T3	ORG 344 365	Koninklijke Commissie
+T4	ORG 445 466	Universiteit van Gent
+T5	ORG 468 477	De Morgen
+T6	ORG 495 504	Commissie
+T7	PER 669 682	Herman Stynen
+T8	ORG 802 823	Koninklijke Commissie
+T9	PER 865 885	Dries Van den Abeele
+T10	MISC 910 916	Brugse
+T11	PER 1034 1053	Linda Van Santvoort
+T12	LOC 1124 1131	Brussel
+T13	PER 1250 1270	Dries van den Abeele
+T14	ORG 1282 1323	Commissie voor Monumenten en Landschappen
+T15	ORG 1345 1354	Commissie
+T16	ORG 1530 1539	Commissie
+T17	LOC 1586 1592	België
+T18	PER 1632 1640	Roelandt
+T19	LOC 1673 1677	Gent
+T20	PER 1682 1688	Bourla
+T21	LOC 1734 1743	Antwerpen
+T22	LOC 1745 1752	Brussel
+T23	ORG 1790 1799	Commissie
+T24	PER 2001 2008	Sauwens
+T25	ORG 2117 2126	Commissie
+T26	PER 2164 2170	Stynen
+T27	MISC 2183 2210	De onvoltooid verleden tijd
+T28	ORG 2354 2363	Commissie
+T29	PER 2772 2774	AB
+T30	ORG 2776 2783	Cultuur
+T31	PER 2784 2798	Van den Abeele
+T32	ORG 2858 2867	Commissie
+T33	ORG 2986 2995	Commissie
+T34	ORG 3017 3023	Icomos
+T35	ORG 3028 3072	International Council of Monuments and Sites
+T36	ORG 3095 3104	Commissie
+T37	ORG 3337 3346	Commissie
+T38	PER 3475 3482	Sauwens
+T39	PER 3683 3689	Stynen
+T40	PER 3746 3755	Paul Huys
+T41	PER 3757 3770	Anne Brumagne
+T42	PER 4326 4339	Anne Brumagne

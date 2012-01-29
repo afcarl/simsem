@@ -1,0 +1,43 @@
+T1	LOC 0 7	Córdoba
+T2	ORG 17 20	EFE
+T3	LOC 43 50	Córdoba
+T4	MISC 57 127	IX Asamblea General de la Alianza Mediterránea de Agencias de Noticias
+T5	MISC 129 133	AMAN
+T6	ORG 259 269	Diputación
+T7	PER 281 296	Matías González
+T8	ORG 298 302	PSOE
+T9	PER 305 313	González
+T10	ORG 362 373	Agencia Efe
+T11	LOC 404 411	Córdoba
+T12	ORG 667 711	Relaciones Internacionales de la Agencia Efe
+T13	PER 713 725	Rosario Pons
+T14	ORG 745 758	Fundación Efe
+T15	PER 760 782	Antonio Miguel Sánchez
+T16	LOC 815 822	Córdoba
+T17	PER 824 835	Alvaro Vega
+T18	ORG 871 881	Diputación
+T19	LOC 1052 1072	Palacio de La Merced
+T20	LOC 1112 1119	Córdoba
+T21	LOC 1172 1188	Palacio de Orive
+T22	ORG 1206 1250	Instituto Hispano-árabe para la Comunicación
+T23	ORG 1270 1283	Fundación Efe
+T24	LOC 1320 1327	Córdoba
+T25	LOC 1382 1388	España
+T26	LOC 1390 1397	Francia
+T27	LOC 1399 1405	Italia
+T28	LOC 1407 1413	Grecia
+T29	LOC 1415 1422	Turquía
+T30	LOC 1424 1429	Libia
+T31	LOC 1431 1437	Chipre
+T32	LOC 1439 1446	Albania
+T33	LOC 1448 1457	Marruecos
+T34	LOC 1459 1464	Túnez
+T35	LOC 1466 1473	Argelia
+T36	LOC 1478 1497	Autoridad Palestina
+T37	LOC 1499 1505	Líbano
+T38	LOC 1507 1512	Siria
+T39	LOC 1515 1521	Egipto
+T40	LOC 1533 1541	Portugal
+T41	LOC 1544 1554	Mauritania
+T42	LOC 1584 1589	Túnez
+T43	MISC 1624 1641	Espíritu de Túnez

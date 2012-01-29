@@ -1,0 +1,22 @@
+T1	LOC 0 5	París
+T2	ORG 15 18	EFE
+T3	ORG 202 225	Generalitat de Cataluña
+T4	PER 227 238	Jordi Pujol
+T5	ORG 283 291	Le Monde
+T6	LOC 331 336	París
+T7	PER 338 343	Pujol
+T8	PER 432 449	Tahar Ben Jelloun
+T9	ORG 618 624	España
+T10	ORG 627 634	Francia
+T11	LOC 653 659	Magreb
+T12	LOC 681 690	Marruecos
+T13	PER 790 795	Pujol
+T14	LOC 994 1000	Africa
+T15	LOC 1113 1119	Magreb
+T16	MISC 1826 1838	Mediterráneo
+T17	PER 1868 1873	Pujol
+T18	LOC 1914 1920	Magreb
+T19	LOC 2411 2419	Cataluña
+T20	ORG 2540 2563	Generalitat de Cataluña
+T21	ORG 2703 2714	Universidad
+T22	LOC 2732 2739	Sorbona

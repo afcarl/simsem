@@ -1,0 +1,34 @@
+T1	LOC 0 24	El Puerto de Santa María
+T2	LOC 26 31	Cádiz
+T3	ORG 42 45	EFE
+T4	PER 61 71	Amit Inbar
+T5	MISC 106 131	Europeos de Tabla de Vela
+T6	MISC 133 136	TDV
+T7	MISC 150 157	Mistral
+T8	PER 171 182	Iván Pastor
+T9	LOC 414 428	Bahía de Cádiz
+T10	MISC 540 561	Campeonatos de Europa
+T11	MISC 773 776	TDV
+T12	LOC 800 824	El Puerto de Santa María
+T13	PER 969 980	Iván Pastor
+T14	MISC 1068 1094	Juegos Olímpicos de Sydney
+T15	PER 1236 1241	Inbar
+T16	MISC 1256 1263	Mundial
+T17	LOC 1302 1308	Europa
+T18	PER 1398 1413	Olivier Guyader
+T19	PER 1466 1479	Dominic Tidey
+T20	PER 1605 1618	Curro Manchón
+T21	PER 1753 1765	Anna Galecka
+T22	PER 1867 1882	Faustine Merret
+T23	MISC 1897 1904	Mundial
+T24	LOC 1929 1938	Argentina
+T25	PER 1952 1963	Michal Hein
+T26	PER 1977 1987	Amelie Lux
+T27	PER 2002 2020	Alessandra Sensini
+T28	PER 2063 2083	María del Carmen Vaz
+T29	MISC 2265 2272	Europeo
+T30	LOC 2297 2303	Sydney
+T31	PER 2331 2345	Kevin Meuissen
+T32	PER 2358 2371	Agata Brygola
+T33	PER 2507 2520	Pablo Morejón
+T34	PER 2532 2547	María de Andrés

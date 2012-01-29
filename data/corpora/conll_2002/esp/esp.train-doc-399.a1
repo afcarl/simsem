@@ -1,0 +1,15 @@
+T1	LOC 0 5	París
+T2	ORG 15 18	EFE
+T3	ORG 26 36	Ministerio
+T4	ORG 48 66	Asuntos Exteriores
+T5	LOC 275 279	Joló
+T6	ORG 281 288	Francia
+T7	MISC 428 438	Exteriores
+T8	PER 440 458	Anne Gazeau-Secret
+T9	PER 578 591	Tarja Halonen
+T10	PER 643 656	Domingo Siazo
+T11	LOC 966 973	Sipadan
+T12	MISC 1001 1011	Abu Sayyaf
+T13	LOC 1041 1045	Joló
+T14	LOC 1068 1077	Filipinas
+T15	PER 1296 1310	Renate Wallert

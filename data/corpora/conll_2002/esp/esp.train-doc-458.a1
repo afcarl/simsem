@@ -1,0 +1,20 @@
+T1	LOC 0 5	Palma
+T2	ORG 15 18	EFE
+T3	ORG 26 32	Govern
+T4	LOC 97 105	Baleares
+T5	MISC 252 271	Energía. Innovación
+T6	MISC 315 334	Energía. Innovación
+T7	PER 336 354	Misericordia Ramón
+T8	LOC 374 383	Parlament
+T9	ORG 429 431	PP
+T10	LOC 1167 1176	Península
+T11	PER 1489 1494	Ramón
+T12	ORG 1524 1541	Consell de Govern
+T13	MISC 1556 1571	Plan Energético
+T14	MISC 1582 1616	Plan Director Sectorial Energético
+T15	PER 1766 1771	Ramón
+T16	ORG 1899 1901	PP
+T17	PER 1915 1931	Cristófol Huguet
+T18	ORG 1947 1956	Ejecutivo
+T19	ORG 2038 2044	Govern
+T20	LOC 2148 2157	Península

@@ -1,0 +1,24 @@
+T1	LOC 0 5	París
+T2	ORG 15 18	EFE
+T3	ORG 106 112	Estado
+T4	ORG 206 214	Eurobank
+T5	ORG 227 249	Banco Central de Rusia
+T6	ORG 251 254	BCR
+T7	ORG 313 348	Tribunal de Gran Instancia de París
+T8	LOC 420 429	Estocolmo
+T9	ORG 457 487	Tribunal Arbitral de Estocolmo
+T10	ORG 592 600	Gobierno
+T11	ORG 663 667	Noga
+T12	LOC 757 762	Rusia
+T13	LOC 870 879	Estocolmo
+T14	ORG 881 885	Noga
+T15	LOC 969 976	Francia
+T16	LOC 978 983	Suiza
+T17	LOC 986 996	Luxemburgo
+T18	ORG 1038 1046	Eurobank
+T19	LOC 1050 1055	París
+T20	ORG 1546 1567	Tribunal de Estocolmo
+T21	ORG 1577 1580	BCR
+T22	ORG 1668 1673	Suiza
+T23	ORG 1676 1686	Luxemburgo
+T24	ORG 1721 1728	Francia

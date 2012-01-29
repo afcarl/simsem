@@ -1,0 +1,34 @@
+T1	ORG 112 118	Efecot
+T2	MISC 124 132	Europese
+T3	LOC 607 613	België
+T4	LOC 615 624	Nederland
+T5	LOC 630 649	Verenigd Koninkrijk
+T6	LOC 653 660	Ierland
+T7	MISC 800 804	Flex
+T8	MISC 897 913	Flex-coördinator
+T9	PER 914 928	Kaspar Peeters
+T10	MISC 930 934	Flex
+T11	MISC 1035 1047	EU-lidstaten
+T12	MISC 1536 1539	Kbs
+T13	PER 1683 1697	Kaspar Peeters
+T14	PER 1702 1717	Sabine Reynolds
+T15	MISC 1844 1848	Flex
+T16	MISC 2050 2057	Trapeze
+T17	MISC 2601 2613	Flex-project
+T18	ORG 2937 2943	Efecot
+T19	MISC 3057 3061	Flex
+T20	ORG 3088 3106	Europese Commissie
+T21	MISC 3111 3118	Trapeze
+T22	MISC 3146 3163	Artes 3-programma
+T23	ORG 3171 3202	Europese Ruimtevaartorganisatie
+T24	MISC 3745 3760	Trapeze-project
+T25	ORG 3935 3944	De Morgen
+T26	MISC 4106 4121	Trapeze-project
+T27	PER 4140 4148	Reynolds
+T28	MISC 4494 4509	Trapeze-project
+T29	PER 4586 4601	Sabine Reynolds
+T30	ORG 4606 4610	@ iT
+T31	PER 4870 4888	Kristien Daelemans
+T32	MISC 4965 4992	Integrated Recorder Decoder
+T33	MISC 5012 5016	Aula
+T34	ORG 5082 5102	Europese Gemeenschap

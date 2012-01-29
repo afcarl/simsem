@@ -1,0 +1,47 @@
+T1	ORG 39 70	Mercado del Café, Azúcar. Cacao
+T2	LOC 74 84	Nueva York
+T3	ORG 233 239	EFECOM
+T4	LOC 250 254	Lima
+T5	ORG 264 267	EFE
+T6	PER 301 315	Miguel Rebosio
+T7	PER 318 330	Julio Rivera
+T8	ORG 463 469	Brasil
+T9	ORG 486 514	Federación Peruana de Fútbol
+T10	ORG 516 519	FPF
+T11	ORG 538 541	FPF
+T12	PER 543 556	José Sandoval
+T13	PER 583 590	Rebosio
+T14	MISC 679 694	Torneo Apertura
+T15	PER 763 770	Rebosio
+T16	PER 918 924	Rivera
+T17	PER 955 970	Nolberto Solano
+T18	LOC 1244 1250	Brasil
+T19	LOC 1275 1299	Estadio Nacional de Lima
+T20	PER 1394 1408	José del Solar
+T21	PER 1410 1422	Juan Pajuelo
+T22	PER 1424 1438	Marko Ciurliza
+T23	PER 1440 1455	Paolo Maldonado
+T24	PER 1458 1470	Julio Rivera
+T25	ORG 1473 1486	Universitario
+T26	PER 1490 1504	Roberto Holsen
+T27	PER 1506 1516	Jorge Soto
+T28	PER 1518 1529	David Soria
+T29	PER 1532 1546	Miguel Rebosio
+T30	ORG 1548 1564	Sporting Cristal
+T31	PER 1568 1580	Abel Lobatón
+T32	PER 1583 1595	Jhonny Vegas
+T33	ORG 1597 1607	Sport Boys
+T34	PER 1610 1623	Roger Serrano
+T35	ORG 1625 1634	Cienciano
+T36	PER 1637 1653	Roberto Palacios
+T37	ORG 1655 1664	Los Tecos
+T38	PER 1676 1689	Israel Zuñiga
+T39	ORG 1691 1699	Coventry
+T40	PER 1710 1719	José Soto
+T41	LOC 1721 1727	Celaya
+T42	ORG 1783 1800	Unión de Santa Fé
+T43	PER 1811 1820	Juan Jayo
+T44	ORG 1837 1850	Panathinaikos
+T45	PER 1859 1873	Percy Olivares
+T46	PER 1907 1921	Miguel Miranda
+T47	ORG 1927 1945	Shengyeng de China

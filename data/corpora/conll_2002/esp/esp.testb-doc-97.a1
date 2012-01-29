@@ -1,0 +1,15 @@
+T1	ORG 0 6	EFECOM
+T2	LOC 12 22	Nueva York
+T3	ORG 32 35	EFE
+T4	LOC 62 66	EEUU
+T5	ORG 128 133	Merck
+T6	ORG 326 344	The New York Times
+T7	ORG 364 396	Federación de Médicos. Dentistas
+T8	ORG 493 498	Merck
+T9	ORG 859 864	Merck
+T10	ORG 1068 1073	Merck
+T11	ORG 1248 1253	Merck
+T12	PER 1359 1373	Gregory Reaves
+T13	ORG 1559 1565	Senado
+T14	ORG 1576 1600	Cámara de Representantes
+T15	ORG 1699 1735	Departamento de Justicia de los EEUU

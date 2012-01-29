@@ -1,0 +1,26 @@
+T1	LOC 0 4	Roma
+T2	ORG 14 17	EFE
+T3	LOC 97 110	Casa del Sole
+T4	LOC 116 123	Palermo
+T5	LOC 125 132	Sicilia
+T6	PER 278 294	Carlo Marcelleti
+T7	PER 296 304	Milagros
+T8	PER 372 377	Marta
+T9	LOC 525 529	Lima
+T10	PER 606 616	Marcelleti
+T11	PER 1022 1035	Renato Caruso
+T12	LOC 1140 1153	Casa del Sole
+T13	PER 1156 1170	Carmelo Piazza
+T14	PER 1322 1351	Marta Milagros Pascual Juarez
+T15	MISC 1565 1569	Dios
+T16	LOC 1684 1688	Perú
+T17	PER 1735 1757	Marta Milagros Pascual
+T18	LOC 1887 1894	Palermo
+T19	LOC 1993 1997	Perú
+T20	ORG 2105 2114	Intervida
+T21	LOC 2176 2180	Lima
+T22	LOC 2183 2190	Sicilia
+T23	PER 2307 2317	Marcelleti
+T24	ORG 2450 2464	Estados Unidos
+T25	LOC 2525 2538	Santo Domingo
+T26	PER 2583 2593	Marcelleti

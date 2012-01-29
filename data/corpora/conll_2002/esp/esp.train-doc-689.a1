@@ -1,0 +1,34 @@
+T1	LOC 0 7	Caracas
+T2	ORG 17 20	EFE
+T3	MISC 54 61	Defensa
+T4	PER 71 85	Ismael Hurtado
+T5	ORG 115 125	Episcopado
+T6	ORG 199 207	Gobierno
+T7	PER 223 234	Hugo Chávez
+T8	PER 262 269	Hurtado
+T9	MISC 296 317	Conferencia Episcopal
+T10	PER 319 334	Baltazar Porras
+T11	ORG 444 466	Fuerza Armada Nacional
+T12	MISC 528 535	Defensa
+T13	ORG 587 595	Gobierno
+T14	PER 617 623	Porras
+T15	PER 670 677	Hurtado
+T16	ORG 756 763	Iglesia
+T17	PER 921 928	Hurtado
+T18	ORG 1005 1018	Fuerza Armada
+T19	PER 1204 1210	Porras
+T20	ORG 1244 1257	Fuerza Armada
+T21	MISC 1405 1426	Conferencia Episcopal
+T22	ORG 1534 1541	Iglesia
+T23	ORG 1556 1569	Fuerza Armada
+T24	PER 1683 1698	Roberto Luckert
+T25	LOC 1723 1727	Coro
+T26	ORG 1770 1777	Iglesia
+T27	PER 1901 1908	Hurtado
+T28	ORG 1954 1967	Fuerza Armada
+T29	ORG 2062 2070	Ejército
+T30	PER 2141 2148	Luckert
+T31	MISC 2466 2487	Relaciones Exteriores
+T32	PER 2489 2508	José Vicente Rangel
+T33	MISC 2522 2543	Conferencia Episcopal
+T34	MISC 2601 2608	Defensa

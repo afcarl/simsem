@@ -1,0 +1,9 @@
+T1	ORG 0 3	EFE
+T2	LOC 33 39	Bogotá
+T3	ORG 49 55	EFECOM
+T4	MISC 63 91	Indice de la Bolsa de Bogotá
+T5	MISC 93 96	IBB
+T6	ORG 476 483	Bavaria
+T7	ORG 518 525	Bavaria
+T8	ORG 562 573	Bancolombia
+T9	ORG 605 614	Coltabaco

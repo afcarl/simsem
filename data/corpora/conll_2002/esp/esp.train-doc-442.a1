@@ -1,0 +1,10 @@
+T1	LOC 0 9	Fráncfort
+T2	LOC 11 14	RFA
+T3	ORG 25 31	EFECOM
+T4	ORG 61 71	Volkswagen
+T5	MISC 112 119	Bugatti
+T6	PER 199 214	Ferdinand Piech
+T7	ORG 226 236	Volkswagen
+T8	LOC 474 483	Wolfsburg
+T9	LOC 547 555	Molsheim
+T10	LOC 557 564	Alsacia

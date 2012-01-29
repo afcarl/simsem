@@ -1,0 +1,21 @@
+T1	LOC 0 6	México
+T2	ORG 16 19	EFE
+T3	MISC 34 46	Popocatépetl
+T4	LOC 64 70	México
+T5	ORG 249 291	Centro Nacional de Prevención de Desastres
+T6	ORG 293 301	CENAPRED
+T7	LOC 306 312	México
+T8	PER 314 327	Roberto Cuass
+T9	ORG 336 339	EFE
+T10	PER 519 524	Cuass
+T11	LOC 743 749	México
+T12	LOC 751 758	Morelos
+T13	ORG 1086 1103	Aeronáutica Civil
+T14	ORG 1116 1119	EFE
+T15	LOC 1212 1228	Ciudad de México
+T16	MISC 1233 1245	Popocatépetl
+T17	MISC 1279 1297	"Montaña humeante"
+T18	LOC 1459 1466	Morelos
+T19	LOC 1468 1474	México
+T20	LOC 1476 1482	Puebla
+T21	LOC 1508 1524	Ciudad de México

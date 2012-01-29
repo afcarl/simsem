@@ -1,0 +1,10 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 22	Madrid
+T4	ORG 32 35	EFE
+T5	LOC 173 181	Bruselas
+T6	LOC 210 219	Fráncfort
+T7	LOC 243 250	Londres
+T8	LOC 280 285	París
+T9	LOC 309 314	Milán
+T10	LOC 334 340	Zúrich

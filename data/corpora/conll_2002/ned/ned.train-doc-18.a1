@@ -1,0 +1,26 @@
+T1	ORG 0 5	Belga
+T2	ORG 140 149	De Morgen
+T3	MISC 150 164	ACW-voorzitter
+T4	PER 165 178	Theo Rombouts
+T5	MISC 395 403	Journaal
+T6	LOC 510 518	Mechelen
+T7	PER 526 536	Cortebeeck
+T8	PER 883 893	Cortebeeck
+T9	MISC 1009 1023	ACV-voorzitter
+T10	PER 1024 1038	Luc Cortebeeck
+T11	MISC 1047 1070	Rerum Novarum-toespraak
+T12	LOC 1072 1080	Mechelen
+T13	LOC 1083 1090	Brussel
+T14	MISC 1377 1391	ACV-voorzitter
+T15	PER 1623 1633	Cortebeeck
+T16	ORG 1816 1819	ACW
+T17	PER 1982 1999	Georges Timmerman
+T18	MISC 2004 2018	ACW-voorzitter
+T19	PER 2019 2032	Theo Rombouts
+T20	LOC 2062 2068	Wemmel
+T21	PER 2591 2601	Cortebeeck
+T22	MISC 2680 2683	CAO
+T23	ORG 2693 2696	ACV
+T24	PER 2842 2850	Rombouts
+T25	MISC 3118 3142	Rerum Novarum-toespraken
+T26	PER 3370 3380	Cortebeeck

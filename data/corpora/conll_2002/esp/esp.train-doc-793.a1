@@ -1,0 +1,20 @@
+T1	LOC 0 5	Padua
+T2	LOC 7 13	Italia
+T3	ORG 24 27	EFE
+T4	ORG 35 55	Asociación de Grupos
+T5	MISC 128 142	Giro de Italia
+T6	PER 363 383	Francesco Casagrande
+T7	ORG 386 395	Caldirola
+T8	PER 518 535	Dimitri Konischev
+T9	ORG 537 542	Fassa
+T10	PER 590 603	Iván Quaranta
+T11	ORG 605 615	Mobilvetta
+T12	PER 733 747	Frabizio Guidi
+T13	ORG 768 789	La Francaise des Jeux
+T14	PER 841 854	Kartens Kroom
+T15	ORG 856 864	Rabobank
+T16	PER 1048 1065	Dimitri Konischev
+T17	PER 1067 1087	Francesco Casagrande
+T18	PER 1090 1103	Iván Quaranta
+T19	ORG 1120 1125	Mapei
+T20	PER 1128 1141	Fassa Bortolo

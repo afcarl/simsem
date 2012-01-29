@@ -1,0 +1,34 @@
+T1	LOC 0 7	Sevilla
+T2	ORG 17 20	EFE
+T3	ORG 43 78	Compañía Nacional de Teatro Clásico
+T4	PER 80 93	Andrés Amorós
+T5	ORG 148 153	INAEM
+T6	MISC 174 201	Las maravillas de Cervantes
+T7	PER 236 245	Joan Font
+T8	PER 290 299	Cervantes
+T9	PER 322 328	Amorós
+T10	ORG 402 419	Compañía Nacional
+T11	PER 547 556	Cervantes
+T12	LOC 586 598	Lope de Vega
+T13	LOC 602 609	Sevilla
+T14	ORG 680 685	INAEM
+T15	PER 744 750	Amorós
+T16	ORG 883 891	Compañía
+T17	PER 1034 1043	Cervantes
+T18	PER 1114 1123	Joan Font
+T19	MISC 1189 1203	Los habladores
+T20	MISC 1208 1223	El viejo celoso
+T21	PER 1303 1307	Font
+T22	PER 1333 1345	Valle-Inclán
+T23	PER 1347 1353	Brecht
+T24	PER 1356 1377	Federico García Lorca
+T25	PER 1394 1400	Amorós
+T26	ORG 1447 1457	La Barraca
+T27	MISC 1527 1554	Las Maravillas de Cervantes
+T28	PER 1949 1953	Font
+T29	PER 1955 1961	Amorós
+T30	ORG 2181 2189	Compañía
+T31	MISC 2228 2255	La elección de los alcaldes
+T32	MISC 2260 2274	Los habladores
+T33	PER 2417 2423	Amorós
+T34	ORG 2449 2457	Compañía

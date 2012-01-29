@@ -1,0 +1,11 @@
+T1	ORG 0 6	EFECOM
+T2	LOC 12 19	Córdoba
+T3	ORG 29 32	EFE
+T4	ORG 52 62	Córdoba CF
+T5	PER 63 75	Diego Ribera
+T6	ORG 120 141	Espanyol de Barcelona
+T7	PER 240 246	Ribera
+T8	PER 346 362	Fernando Molinos
+T9	ORG 602 609	Levante
+T10	PER 743 749	Ribera
+T11	ORG 795 802	Córdoba

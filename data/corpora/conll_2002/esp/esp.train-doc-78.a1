@@ -1,0 +1,42 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	ORG 38 56	Audiencia Nacional
+T4	PER 57 80	Manuel García Castellón
+T5	ORG 172 179	Francia
+T6	ORG 182 188	España
+T7	MISC 268 276	Justicia
+T8	MISC 279 289	Exteriores
+T9	PER 350 366	García Castellón
+T10	ORG 380 419	Juzgado Central de Instrucción número 6
+T11	ORG 426 444	Audiencia Nacional
+T12	PER 593 611	Margarita Mariscal
+T13	MISC 631 639	Justicia
+T14	PER 709 723	Francois Badie
+T15	ORG 764 786	Ministerio de Justicia
+T16	ORG 1132 1154	Ministerio de Justicia
+T17	ORG 1443 1461	Audiencia Nacional
+T18	ORG 1543 1563	Consejo de Ministros
+T19	ORG 1613 1647	Consejo General del Poder Judicial
+T20	ORG 1649 1653	CGPJ
+T21	ORG 1861 1879	Audiencia Nacional
+T22	LOC 1900 1918	Palacio de Parcent
+T23	ORG 1929 1951	Ministerio de Justicia
+T24	LOC 1985 1990	París
+T25	LOC 1993 1999	Madrid
+T26	ORG 2101 2119	Audiencia Nacional
+T27	PER 2125 2140	Baltasar Garzón
+T28	PER 2196 2212	García Castellón
+T29	LOC 2236 2243	Francia
+T30	PER 2399 2415	García Castellón
+T31	PER 2573 2588	Baltasar Garzón
+T32	ORG 2688 2695	Juzgado
+T33	PER 2707 2723	García Castellón
+T34	ORG 2755 2762	Juzgado
+T35	MISC 2840 2852	caso Banesto
+T36	ORG 2877 2911	Grupo de Trevi de la Unión Europea
+T37	MISC 2926 2934	Interior
+T38	MISC 2937 2945	Justicia
+T39	ORG 2964 2998	Unión Internacional de Magistrados
+T40	ORG 3013 3043	Grupo Iberoamericano de Jueces
+T41	ORG 3063 3093	Fundación Justicia en el Mundo
+T42	MISC 3148 3197	El sistema regional de derechos humanos en Europa

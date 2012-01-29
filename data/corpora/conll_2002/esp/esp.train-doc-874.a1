@@ -1,0 +1,25 @@
+T1	LOC 0 10	Washington
+T2	ORG 20 23	EFE
+T3	ORG 101 109	Congreso
+T4	MISC 194 210	I Guerra Mundial
+T5	PER 290 301	John Tanner
+T6	LOC 306 315	Tennessee
+T7	ORG 737 761	Cámara de Representantes
+T8	ORG 1237 1243	Estado
+T9	LOC 1317 1322	Japón
+T10	LOC 1470 1484	Estados Unidos
+T11	ORG 1660 1668	Congreso
+T12	PER 1684 1698	Barbara Vidman
+T13	LOC 1757 1765	Colorado
+T14	ORG 1839 1853	Estados Unidos
+T15	ORG 2104 2110	Estado
+T16	ORG 2312 2326	Estados Unidos
+T17	PER 2450 2467	Alejandro Aguirre
+T18	ORG 2480 2492	Las Américas
+T19	LOC 2496 2501	Miami
+T20	PER 2803 2810	Aguirre
+T21	ORG 2861 2873	Las Américas
+T22	MISC 3208 3252	Impuesto. los Bienes Patrimoniales Heredados
+T23	ORG 3315 3329	Estados Unidos
+T24	MISC 3336 3352	I Guerra Mundial
+T25	ORG 3401 3409	Congreso

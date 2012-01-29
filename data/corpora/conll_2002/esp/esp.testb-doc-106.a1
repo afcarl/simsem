@@ -1,0 +1,59 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	LOC 53 59	España
+T4	ORG 190 198	Gobierno
+T5	ORG 271 274	EFE
+T6	ORG 1704 1706	UE
+T7	ORG 1727 1735	Portugal
+T8	ORG 1836 1842	Italia
+T9	ORG 1844 1851	Francia
+T10	ORG 1857 1868	Reino Unido
+T11	LOC 1922 1928	Europa
+T12	LOC 2172 2178	España
+T13	ORG 2228 2234	Repsol
+T14	ORG 2342 2347	Cepsa
+T15	ORG 2350 2352	BP
+T16	LOC 2404 2410	España
+T17	MISC 2495 2503	Hacienda
+T18	PER 2505 2522	Cristóbal Montoro
+T19	ORG 2549 2557	Gobierno
+T20	PER 2744 2751	Montoro
+T21	PER 2921 2938	Loyola de Palacio
+T22	PER 2978 2988	De Palacio
+T23	ORG 3008 3016	Comisión
+T24	LOC 3092 3098	España
+T25	PER 3253 3285	Comisario Europeo de Competencia
+T26	PER 3287 3298	Mario Monti
+T27	PER 3303 3323	Ministro de Hacienda
+T28	ORG 3349 3357	Gobierno
+T29	LOC 3480 3486	España
+T30	ORG 3619 3627	Gobierno
+T31	PER 3629 3642	Mariano Rajoy
+T32	ORG 3669 3678	Ejecutivo
+T33	ORG 3766 3803	Tribunal de Defensa de la Competencia
+T34	ORG 3915 3920	Cepsa
+T35	ORG 3923 3929	Repsol
+T36	PER 3996 4009	Mariano Rajoy
+T37	ORG 4078 4103	Defensa de la Competencia
+T38	ORG 4152 4162	Socialista
+T39	ORG 4179 4187	Gobierno
+T40	ORG 4458 4512	Confederación Española de Organizaciones Empresariales
+T41	ORG 4514 4518	CEOE
+T42	PER 4521 4538	José María Cuevas
+T43	ORG 4553 4561	Gobierno
+T44	ORG 5047 5106	Asociación Española de Operadores de Productos Petrolíferos
+T45	PER 5108 5121	Aurelio Ayala
+T46	PER 5295 5300	Ayala
+T47	ORG 5321 5324	EFE
+T48	ORG 5388 5392	OPEP
+T49	ORG 5850 5909	Federación Nacional de Asociaciones de Transporte de España
+T50	ORG 5911 5921	Fenadismer
+T51	PER 6025 6038	Juan José Gil
+T52	ORG 6139 6189	Confederación Española de Transporte de Mercancías
+T53	PER 6328 6346	Javier de Mauricio
+T54	LOC 6384 6390	España
+T55	ORG 6496 6502	Eroski
+T56	ORG 6504 6510	Capabo
+T57	ORG 6512 6519	AlCampo
+T58	ORG 6521 6526	Makro
+T59	ORG 6529 6539	Continente

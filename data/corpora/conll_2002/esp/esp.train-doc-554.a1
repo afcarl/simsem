@@ -1,0 +1,25 @@
+T1	LOC 0 22	Santiago de Compostela
+T2	ORG 32 35	EFE
+T3	ORG 53 63	Parlamento
+T4	ORG 113 115	PP
+T5	PER 571 585	Isabel Salazar
+T6	LOC 719 728	Andalucía
+T7	ORG 750 782	Organización Mundial de la Salud
+T8	ORG 784 787	OMS
+T9	ORG 858 860	PP
+T10	PER 861 884	Justo González Ballesta
+T11	ORG 900 903	OMS
+T12	LOC 992 997	Suiza
+T13	PER 1163 1180	González Ballesta
+T14	ORG 1196 1198	PP
+T15	LOC 1410 1416	Madrid
+T16	PER 1587 1601	Isabel Salazar
+T17	PER 1830 1837	Salazar
+T18	ORG 2003 2006	BNG
+T19	PER 2048 2071	Xosé Francisco Ferreiro
+T20	ORG 2132 2154	Consellería de Sanidad
+T21	ORG 2418 2420	PP
+T22	PER 2421 2438	González Ballesta
+T23	LOC 2497 2504	Galicia
+T24	ORG 2519 2528	Comunidad
+T25	LOC 2532 2538	España

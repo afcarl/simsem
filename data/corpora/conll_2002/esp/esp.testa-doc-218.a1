@@ -1,0 +1,38 @@
+T1	LOC 0 4	Lima
+T2	ORG 14 17	EFE
+T3	PER 50 68	Alberto Bustamante
+T4	ORG 97 105	Gobierno
+T5	PER 232 242	Bustamante
+T6	ORG 281 310	Jurado Nacional de Elecciones
+T7	ORG 312 315	JNE
+T8	ORG 323 331	Congreso
+T9	ORG 429 444	Poder Ejecutivo
+T10	ORG 522 525	JNE
+T11	PER 573 589	Alejandro Toledo
+T12	PER 809 815	Toledo
+T13	ORG 844 850	Jurado
+T14	PER 1246 1256	Bustamante
+T15	ORG 1304 1333	Jurado Nacional de Elecciones
+T16	PER 1410 1416	Toledo
+T17	ORG 1470 1473	JNE
+T18	LOC 1637 1641	Perú
+T19	MISC 1776 1788	Constitución
+T20	MISC 1940 1955	Poder Ejecutivo
+T21	PER 2079 2089	Bustamante
+T22	ORG 2131 2134	JNE
+T23	PER 2601 2607	Toledo
+T24	ORG 2611 2614	JNE
+T25	ORG 2821 2829	Congreso
+T26	PER 2872 2882	Bustamante
+T27	MISC 3063 3071	Justicia
+T28	ORG 3136 3170	Organización de Estados Americanos
+T29	ORG 3172 3175	OEA
+T30	ORG 3242 3245	OEA
+T31	ORG 3260 3275	Poder Ejecutivo
+T32	PER 3314 3324	Bustamante
+T33	ORG 3358 3387	Jurado Nacional de Elecciones
+T34	ORG 3417 3441	Congreso de la República
+T35	ORG 3525 3540	Poder Ejecutivo
+T36	ORG 3591 3620	Jurado Nacional de Elecciones
+T37	MISC 3656 3668	Constitución
+T38	ORG 3751 3760	Ejecutivo

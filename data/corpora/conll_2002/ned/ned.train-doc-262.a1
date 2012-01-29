@@ -1,0 +1,42 @@
+T1	ORG 0 9	De Morgen
+T2	MISC 103 118	Het Vrije Leven
+T3	MISC 224 234	New Yorkse
+T4	MISC 235 247	Senaatszetel
+T5	LOC 350 367	Washington Square
+T6	LOC 378 390	Fifth Avenue
+T7	MISC 630 640	New Yorkse
+T8	LOC 767 779	Fifth Avenue
+T9	PER 967 982	Hillary Clinton
+T10	PER 1078 1081	Tom
+T11	MISC 1217 1230	Democratische
+T12	ORG 1274 1289	Radical Faeries
+T13	MISC 1463 1477	Japanssprekend
+T14	MISC 1507 1513	Japans
+T15	LOC 1995 2008	Stonewall Inn
+T16	LOC 2012 2027	Sheridan Square
+T17	MISC 2075 2081	Poolse
+T18	MISC 2083 2088	Ierse
+T19	MISC 2090 2102	Braziliaanse
+T20	MISC 2104 2118	Puertoricaanse
+T21	MISC 2120 2130	Aziatische
+T22	MISC 2132 2144	Venezolaanse
+T23	MISC 2148 2160	Colombiaanse
+T24	MISC 2314 2320	Latina
+T25	PER 2342 2353	Gerard Reve
+T26	ORG 3035 3048	Secret Police
+T27	PER 3091 3098	Clinton
+T28	LOC 3288 3294	Europa
+T29	LOC 3311 3319	New York
+T30	MISC 3342 3369	Gay and Lesbian Pride March
+T31	PER 3409 3428	Jacqueline Goossens
+T32	MISC 3606 3619	Republikeinse
+T33	MISC 3662 3676	Spaanssprekend
+T34	LOC 3794 3801	Amerika
+T35	LOC 3809 3817	New York
+T36	LOC 4086 4101	Sheridan Square
+T37	LOC 4109 4131	Avenue of the Americas
+T38	LOC 4137 4149	Central Park
+T39	PER 4302 4310	Giuliani
+T40	LOC 4485 4498	Stonewall Inn
+T41	LOC 4515 4532	Greenwich Village
+T42	LOC 4583 4605	St Patrick's Cathedral

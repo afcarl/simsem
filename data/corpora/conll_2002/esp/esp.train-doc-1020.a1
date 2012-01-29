@@ -1,0 +1,53 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	LOC 80 88	Valencia
+T4	MISC 107 124	Liga de Campeones
+T5	ORG 172 183	Real Madrid
+T6	ORG 283 291	Congreso
+T7	ORG 416 424	Gobierno
+T8	ORG 479 504	Administraciones Públicas
+T9	PER 506 518	Jesús Posada
+T10	ORG 546 552	Madrid
+T11	MISC 582 589	Trabajo
+T12	PER 591 611	Juan Carlos Aparicio
+T13	PER 643 649	Anelka
+T14	ORG 729 732	PNV
+T15	PER 733 749	Iñaki Anasagasti
+T16	PER 752 782	José Juan González de Txabarri
+T17	ORG 849 855	Madrid
+T18	ORG 986 995	Barcelona
+T19	ORG 1041 1049	Valencia
+T20	ORG 1243 1250	Levante
+T21	PER 1252 1276	Vicente Martínez Pujalte
+T22	ORG 1325 1327	PP
+T23	ORG 1334 1342	Congreso
+T24	PER 1344 1359	Luis de Grandes
+T25	ORG 1465 1469	PSOE
+T26	PER 1470 1498	José Luis Rodríguez Zapatero
+T27	ORG 1546 1554	Valencia
+T28	ORG 1565 1570	Barca
+T29	ORG 1613 1615	IU
+T30	PER 1617 1633	Francisco Frutos
+T31	PER 1744 1771	Francisco Fernández Marugán
+T32	ORG 1835 1846	Real Madrid
+T33	ORG 1893 1897	PSOE
+T34	PER 1899 1914	Joaquín Almunia
+T35	ORG 1943 1949	Bilbao
+T36	ORG 1966 1974	Valencia
+T37	ORG 2019 2027	Congreso
+T38	PER 2052 2067	Amparo Rubiales
+T39	ORG 2142 2147	Betis
+T40	ORG 2288 2307	Chunta Aragonesista
+T41	PER 2309 2331	José Antonio Labordeta
+T42	ORG 2377 2385	Valencia
+T43	ORG 2437 2445	Zaragoza
+T44	MISC 2455 2472	Liga de Campeones
+T45	PER 2529 2543	Carmen Alborch
+T46	ORG 2565 2573	Valencia
+T47	ORG 2668 2670	PP
+T48	ORG 2677 2683	Senado
+T49	PER 2685 2706	Esteban González Pons
+T50	LOC 2754 2759	París
+T51	ORG 2958 2966	Congreso
+T52	PER 3048 3062	Alfonso Guerra
+T53	PER 3065 3077	José Borrell

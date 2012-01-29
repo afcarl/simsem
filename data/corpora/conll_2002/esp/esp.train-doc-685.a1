@@ -1,0 +1,15 @@
+T1	LOC 0 8	Badalona
+T2	LOC 10 19	Barcelona
+T3	ORG 30 33	EFE
+T4	LOC 66 74	Badalona
+T5	PER 76 87	Maite Arqué
+T6	LOC 94 104	Sant Adriá
+T7	PER 106 123	Jesús María Canga
+T8	LOC 569 577	Badalona
+T9	LOC 588 598	Sant Adriá
+T10	PER 803 814	Maite Arqué
+T11	ORG 1076 1084	Gobierno
+T12	PER 1147 1164	Jesús María Canga
+T13	LOC 1186 1196	Sant Adriá
+T14	LOC 1287 1319	estación del metro de Joan XXIII
+T15	ORG 1718 1729	Generalitat

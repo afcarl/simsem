@@ -1,0 +1,27 @@
+T1	LOC 0 10	Valladolid
+T2	ORG 20 23	EFE
+T3	ORG 55 59	PSOE
+T4	MISC 122 140	Ley del Procurador
+T5	ORG 145 150	Común
+T6	LOC 154 168	Castilla. León
+T7	ORG 214 217	Efe
+T8	ORG 257 263	Cámara
+T9	PER 274 288	Jaime González
+T10	ORG 429 434	Junta
+T11	PER 436 451	Juan José Lucas
+T12	MISC 473 478	Común
+T13	PER 480 501	Manuel García Alvarez
+T14	PER 503 508	Lucas
+T15	ORG 536 538	PP
+T16	ORG 628 638	Parlamento
+T17	ORG 722 742	Procurador del Común
+T18	PER 780 794	García Alvarez
+T19	ORG 843 852	Ejecutivo
+T20	LOC 868 890	colegio de la Asunción
+T21	LOC 894 904	Valladolid
+T22	PER 906 920	Jaime González
+T23	MISC 1063 1068	Común
+T24	PER 1193 1207	García Alvarez
+T25	ORG 1273 1289	Administraciones
+T26	MISC 1412 1420	Estatuto
+T27	MISC 1593 1611	ley del Procurador

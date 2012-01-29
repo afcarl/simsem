@@ -1,0 +1,43 @@
+T1	LOC 0 4	Roma
+T2	ORG 14 17	EFE
+T3	ORG 51 71	Ferrovie dello Stato
+T4	ORG 74 76	FS
+T5	MISC 263 267	UMTS
+T6	ORG 290 319	Acea-Telefónica Internacional
+T7	ORG 322 342	Ferrovie dello Stato
+T8	PER 579 593	Leonardo Gorra
+T9	ORG 694 697	EFE
+T10	ORG 819 823	ACEA
+T11	ORG 838 862	Telefónica Internacional
+T12	ORG 865 873	Ferrovie
+T13	ORG 1080 1095	Acea-Telefónica
+T14	ORG 1134 1158	Telefónica Internacional
+T15	ORG 1170 1222	Empresa Municipal de la Energía. el Ambiente de Roma
+T16	LOC 1327 1333	Italia
+T17	ORG 1406 1412	Andala
+T18	ORG 1439 1446	Tiscali
+T19	PER 1448 1459	Renato Soru
+T20	ORG 1462 1465	Cir
+T21	PER 1467 1485	Carlo De Benedetti
+T22	ORG 1488 1495	Hdp-Rcs
+T23	PER 1497 1510	Cesare Romiti
+T24	ORG 1513 1526	San Paolo IMI
+T25	ORG 1529 1545	Rotschild Italia
+T26	MISC 1577 1583	Dix.it
+T27	ORG 1606 1610	Ifil
+T28	PER 1618 1633	familia Agnelli
+T29	ORG 1636 1643	Pirelli
+T30	ORG 1645 1658	Banca di Roma
+T31	ORG 1660 1668	E-Biscom
+T32	ORG 1670 1680	Planetwork
+T33	ORG 1686 1726	Empresa municipal de la Energía de Milán
+T34	ORG 1728 1731	AEM
+T35	MISC 1847 1850	Gsm
+T36	ORG 1853 1856	Tim
+T37	ORG 1858 1865	Omnitel
+T38	ORG 1867 1870	Blu
+T39	ORG 1873 1877	Wind
+T40	MISC 2113 2117	UMTS
+T41	MISC 2119 2160	Universal Mobile Telecommunication System
+T42	LOC 2196 2202	Italia
+T43	MISC 2305 2313	Internet

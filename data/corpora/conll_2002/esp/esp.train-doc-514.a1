@@ -1,0 +1,16 @@
+T1	ORG 0 4	PSOE
+T2	ORG 15 25	CONSEJERIA
+T3	LOC 66 73	Astorga
+T4	LOC 75 79	León
+T5	ORG 90 93	EFE
+T6	ORG 135 145	Parlamento
+T7	LOC 168 175	Astorga
+T8	LOC 177 181	León
+T9	ORG 227 249	Consejería de Economía
+T10	ORG 307 330	Junta de Castilla. León
+T11	ORG 420 450	Grupo Parlamentario Socialista
+T12	PER 452 466	Jaime González
+T13	LOC 513 520	Astorga
+T14	ORG 557 561	PSOE
+T15	ORG 569 575	Cortes
+T16	ORG 620 629	Autonomía

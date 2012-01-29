@@ -1,0 +1,42 @@
+T1	LOC 0 7	Presgov
+T2	LOC 9 19	Eslovaquia
+T3	ORG 30 33	EFE
+T4	ORG 42 52	Eslovaquia
+T5	PER 55 61	Kardos
+T6	PER 63 71	Jankovic
+T7	PER 73 79	Vavrek
+T8	PER 81 89	Kravaric
+T9	PER 91 99	Pictovic
+T10	PER 101 107	Nemecz
+T11	PER 128 132	Pipa
+T12	PER 144 152	Socholak
+T13	ORG 158 164	España
+T14	PER 167 174	Pascual
+T15	PER 176 188	De la Fuente
+T16	PER 190 195	Moltó
+T17	PER 197 217	Miguel Angel Falazca
+T18	PER 219 225	Robles
+T19	PER 227 235	Salvador
+T20	PER 256 262	Valido
+T21	PER 273 282	Prenaceta
+T22	PER 284 292	Casillas
+T23	PER 294 301	Carreño
+T24	PER 303 320	Guillermo Falazca
+T25	PER 323 340	Ernesto Rodríguez
+T26	MISC 472 492	Campeonato de Europa
+T27	LOC 527 547	Town Hall de Presgov
+T28	LOC 549 559	Eslovaquia
+T29	MISC 672 679	Europeo
+T30	ORG 711 721	Eslovaquia
+T31	LOC 1048 1054	España
+T32	ORG 1133 1143	Eslovaquia
+T33	PER 1358 1366	Kravaric
+T34	ORG 1603 1609	España
+T35	PER 1660 1672	De la Fuente
+T36	PER 2173 2190	Guillermo Falazca
+T37	PER 2214 2221	Pascual
+T38	PER 2242 2247	Moltó
+T39	PER 2250 2268	Ernaesto Rodríguez
+T40	ORG 2536 2544	Alemania
+T41	ORG 2547 2554	Letonia
+T42	ORG 2595 2601	España

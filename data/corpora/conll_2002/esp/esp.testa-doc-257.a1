@@ -1,0 +1,23 @@
+T1	LOC 0 10	Nueva York
+T2	ORG 20 23	EFE
+T3	LOC 94 104	Nueva York
+T4	MISC 305 333	Petróleo Intermedio de Texas
+T5	LOC 362 376	Estados Unidos
+T6	ORG 557 589	Instituto Americano del Petróleo
+T7	ORG 591 594	API
+T8	ORG 602 625	Departamento de Energía
+T9	ORG 895 904	Clark USA
+T10	LOC 1141 1155	Estados Unidos
+T11	ORG 1737 1745	Gobierno
+T12	LOC 1784 1792	San Luis
+T13	ORG 1843 1852	Milwaukee
+T14	ORG 1855 1862	Chicago
+T15	ORG 2062 2085	Departamento de Energía
+T16	PER 2195 2210	Bill Richardson
+T17	MISC 2272 2279	Energía
+T18	PER 2281 2294	Ali Rodriguez
+T19	ORG 2345 2392	Organización de Países Exportadores de Petróleo
+T20	ORG 2394 2398	OPEP
+T21	LOC 2506 2511	Qatar
+T22	ORG 2516 2524	Gobierno
+T23	ORG 2557 2561	OPEP

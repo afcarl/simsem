@@ -1,0 +1,25 @@
+T1	ORG 0 3	EFE
+T2	LOC 13 21	Zaragoza
+T3	ORG 31 34	EFE
+T4	ORG 51 70	Chunta Aragonesista
+T5	ORG 72 75	CHA
+T6	ORG 84 100	Cortes de Aragón
+T7	LOC 159 165	Aragón
+T8	PER 167 185	Marcelino Iglesias
+T9	MISC 254 278	Ley de Lenguas de Aragón
+T10	ORG 333 336	CHA
+T11	ORG 344 360	Cortes de Aragón
+T12	PER 362 375	Chesús Bernal
+T13	MISC 682 717	Ley de Patrimonio Cultural Aragonés
+T14	LOC 770 776	Aragón
+T15	ORG 796 802	Cámara
+T16	ORG 860 869	Ejecutivo
+T17	PER 871 877	Bernal
+T18	PER 917 925	Iglesias
+T19	MISC 966 980	Ley de Lenguas
+T20	LOC 1051 1057	Aragón
+T21	ORG 1125 1128	CHA
+T22	ORG 1193 1211	Gobierno de Aragón
+T23	MISC 1223 1250	Ley de Patrimonio de Aragón
+T24	ORG 1261 1270	Ejecutivo
+T25	LOC 1304 1310	Aragón

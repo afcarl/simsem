@@ -1,0 +1,36 @@
+T1	ORG 0 3	EFE
+T2	LOC 10 18	Bucarest
+T3	ORG 28 31	EFE
+T4	PER 39 70	Reina Margarita II de Dinamarca
+T5	PER 76 100	Príncipe consorte Henrik
+T6	MISC 130 136	Estado
+T7	LOC 152 159	Rumanía
+T8	LOC 340 347	Rumanía
+T9	LOC 350 359	Dinamarca
+T10	LOC 370 378	Soberana
+T11	ORG 447 455	Adevarul
+T12	LOC 572 581	Cotroceni
+T13	PER 586 601	Reina Margarita
+T14	PER 607 622	Príncipe Henrik
+T15	PER 662 681	Emil Constantinescu
+T16	ORG 792 801	Dinamarca
+T17	MISC 848 858	Exteriores
+T18	PER 860 881	Niels Helveg Petersen
+T19	ORG 898 905	Rumanía
+T20	MISC 933 947	Medio Ambiente
+T21	PER 949 963	Romica Tomescu
+T22	PER 975 990	Helveg Petersen
+T23	PER 1024 1029	Reina
+T24	LOC 1157 1165	Bucarest
+T25	PER 1170 1175	Reina
+T26	LOC 1261 1277	museo del Pueblo
+T27	LOC 1323 1330	Rumanía
+T28	PER 1332 1344	Margarita II
+T29	ORG 1380 1386	Senado
+T30	ORG 1395 1429	Cámara de Diputados del Parlamento
+T31	PER 1438 1460	Mircea Ionescu Quintus
+T32	PER 1463 1477	Ion Diaconescu
+T33	LOC 1509 1531	Museo Nacional de Arte
+T34	LOC 1544 1557	Santa Macrina
+T35	PER 1589 1607	Reina de Dinamarca
+T36	LOC 1751 1759	Moldavia

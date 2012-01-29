@@ -1,0 +1,17 @@
+T1	LOC 0 7	Londres
+T2	ORG 17 20	EFE
+T3	ORG 44 52	Barclays
+T4	LOC 157 163	España
+T5	LOC 165 172	Francia
+T6	LOC 175 183	Portugal
+T7	LOC 221 228	Londres
+T8	MISC 430 438	Internet
+T9	ORG 517 525	Barclays
+T10	MISC 576 584	Internet
+T11	LOC 589 600	Reino Unido
+T12	ORG 717 726	Freeserve
+T13	MISC 812 827	BarclaysB2B.com
+T14	PER 903 914	Matt Barret
+T15	PER 1281 1287	Barret
+T16	ORG 1289 1297	Barclays
+T17	MISC 1404 1412	Internet

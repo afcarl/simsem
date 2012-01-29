@@ -1,0 +1,41 @@
+T1	LOC 0 9	Barcelona
+T2	ORG 19 22	EFE
+T3	ORG 54 66	FC Barcelona
+T4	MISC 105 109	Liga
+T5	ORG 163 183	Portland San Antonio
+T6	LOC 187 195	Pamplona
+T7	PER 352 365	Valero Rivera
+T8	MISC 574 588	Copa de Europa
+T9	MISC 593 604	Liga Asobal
+T10	MISC 609 621	Copa del Rey
+T11	MISC 626 645	Supercopa de Europa
+T12	MISC 650 669	Supercopa de España
+T13	MISC 674 685	Copa Asobal
+T14	MISC 691 711	Liga de los Pirineos
+T15	PER 731 737	Valero
+T16	MISC 767 772	Ligas
+T17	MISC 776 791	Copas de Europa
+T18	MISC 851 868	Recopas de Europa
+T19	MISC 872 885	Copas del Rey
+T20	MISC 889 909	Supercopas de Europa
+T21	MISC 913 933	Supercopas de España
+T22	MISC 937 949	Copas Asobal
+T23	MISC 955 970	Ligas Catalanas
+T24	MISC 995 1015	Liga de los Pirineos
+T25	LOC 1033 1042	Barcelona
+T26	MISC 1179 1186	Recopas
+T27	MISC 1197 1212	Copas de Europa
+T28	MISC 1239 1251	Ligas Asobal
+T29	MISC 1273 1286	Copas del Rey
+T30	MISC 1457 1468	Liga ASOBAL
+T31	PER 1576 1589	Valero Rivera
+T32	ORG 1607 1619	FC Barcelona
+T33	MISC 1624 1635	Liga Asobal
+T34	MISC 1725 1736	Copa Europa
+T35	MISC 1790 1803	Recopa Europa
+T36	MISC 1848 1856	Copa Rey
+T37	MISC 1931 1947	Supercopa Europa
+T38	MISC 1986 2002	Supercopa España
+T39	MISC 2077 2088	Copa Asobal
+T40	MISC 2121 2134	Liga Catalana
+T41	ORG 2261 2270	Barcelona

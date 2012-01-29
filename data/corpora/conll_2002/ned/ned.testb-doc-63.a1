@@ -1,0 +1,49 @@
+T1	ORG 31 44	TMF Nederland
+T2	MISC 54 64	TMF Awards
+T3	MISC 88 99	Rotterdamse
+T4	LOC 100 104	Ahoy
+T5	MISC 127 132	TMF's
+T6	PER 149 166	Patrick Castelain
+T7	PER 217 237	Bram Vandendriessche
+T8	PER 241 255	Tomas De Soete
+T9	LOC 321 328	Zillion
+T10	LOC 332 341	Antwerpen
+T11	PER 506 526	Bram Vandendriessche
+T12	PER 530 544	Tomas De Soete
+T13	MISC 552 576	Studio Brussel-programma
+T14	MISC 577 587	Stereokini
+T15	LOC 681 694	Flanders Expo
+T16	LOC 698 702	Gent
+T17	MISC 704 713	Televisie
+T18	MISC 737 744	Vlaamse
+T19	ORG 786 796	K's Choice
+T20	ORG 833 844	Radio Donna
+T21	PER 904 917	Ronan Keating
+T22	PER 919 924	Mel C
+T23	ORG 928 937	Milk Inc.
+T24	MISC 949 959	TMF Awards
+T25	ORG 980 983	TMF
+T26	MISC 1035 1045	TMF Awards
+T27	PER 1090 1103	Ronan Keating
+T28	ORG 1108 1115	Boyzone
+T29	MISC 1131 1141	TMF Awards
+T30	PER 1191 1200	Castelain
+T31	MISC 1245 1255	TMF Awards
+T32	PER 1264 1279	Miss Stereokini
+T33	PER 1280 1297	Nathalie De Kimpe
+T34	PER 1328 1333	Mel C
+T35	ORG 1335 1344	Milk Inc.
+T36	PER 1370 1374	Abel
+T37	ORG 1386 1396	K's Choice
+T38	PER 1400 1413	Ronan Keating
+T39	ORG 1418 1425	Boyzone
+T40	LOC 1457 1461	Gent
+T41	MISC 1486 1496	TMF Awards
+T42	ORG 1659 1673	Studio Brussel
+T43	ORG 1722 1731	De Morgen
+T44	PER 1744 1761	Nathalie De Kimpe
+T45	PER 1824 1850	Miss Aardbei van Beervelde
+T46	PER 1868 1880	Appelprinses
+T47	PER 1884 1904	Nationale Bakkersfee
+T48	MISC 2033 2043	Stereokini
+T49	ORG 2047 2061	Studio Brussel

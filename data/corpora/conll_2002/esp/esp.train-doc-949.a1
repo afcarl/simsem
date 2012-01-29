@@ -1,0 +1,17 @@
+T1	LOC 0 6	Bilbao
+T2	ORG 16 19	EFE
+T3	PER 24 40	Margarita Robles
+T4	ORG 59 77	Audiencia Nacional
+T5	LOC 95 101	Bilbao
+T6	LOC 214 226	Forum Deusto
+T7	ORG 254 272	Estado de Interior
+T8	ORG 327 345	Audiencia Nacional
+T9	LOC 730 751	Universidad de Deusto
+T10	PER 767 773	Robles
+T11	PER 809 817	Pinochet
+T12	MISC 876 885	Ejecutivo
+T13	MISC 888 896	Judicial
+T14	MISC 980 988	Justicia
+T15	LOC 992 998	España
+T16	MISC 1093 1119	Administración de Justicia
+T17	MISC 1166 1183	Estado de Derecho

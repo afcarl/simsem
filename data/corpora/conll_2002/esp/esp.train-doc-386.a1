@@ -1,0 +1,17 @@
+T1	LOC 0 6	Girona
+T2	ORG 16 19	EFE
+T3	ORG 36 41	Enher
+T4	LOC 118 124	Rambla
+T5	LOC 128 134	Girona
+T6	ORG 631 636	Enher
+T7	LOC 766 772	Rambla
+T8	ORG 816 821	Enher
+T9	LOC 825 831	Girona
+T10	PER 833 845	Antoni Jerez
+T11	LOC 1000 1023	calles Ferreries Velles
+T12	LOC 1040 1046	Rambla
+T13	LOC 1063 1089	Pont de Peixeteries Velles
+T14	PER 1345 1350	Jerez
+T15	LOC 1415 1421	Girona
+T16	ORG 1610 1650	Asociación de vecinos Rambla. Argenteria
+T17	PER 1652 1665	Antoni Gamell

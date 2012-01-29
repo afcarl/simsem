@@ -1,0 +1,21 @@
+T1	ORG 0 3	EFE
+T2	LOC 17 25	Valencia
+T3	ORG 35 38	EFE
+T4	PER 60 81	Heinz-Harald Frentzen
+T5	ORG 94 100	Jordan
+T6	MISC 161 196	Circuito de la Comunidad Valenciana
+T7	PER 199 212	Ricardo Tormo
+T8	MISC 253 262	Fórmula 1
+T9	PER 311 319	Frentzen
+T10	LOC 376 394	Font de la Figuera
+T11	ORG 889 895	Jordan
+T12	ORG 967 973	Arrows
+T13	PER 1019 1044	Pedro Martínez de la Rosa
+T14	MISC 1200 1221	Gran Premio de Europa
+T15	LOC 1251 1257	Mónaco
+T16	LOC 1287 1295	Valencia
+T17	ORG 1298 1304	Jordan
+T18	ORG 1306 1312	Sauber
+T19	ORG 1314 1322	Benetton
+T20	ORG 1324 1330	Arrows
+T21	ORG 1333 1339	Jaguar

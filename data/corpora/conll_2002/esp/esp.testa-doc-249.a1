@@ -1,0 +1,44 @@
+T1	LOC 0 8	San José
+T2	ORG 18 21	EFE
+T3	ORG 29 37	Gobierno
+T4	MISC 148 165	"Juan Santamaría"
+T5	ORG 318 325	"Edica"
+T6	LOC 343 353	Costa Rica
+T7	PER 355 377	Miguel Angel Rodríguez
+T8	PER 517 526	Rodríguez
+T9	ORG 592 627	Contraloría General de la República
+T10	ORG 689 718	"Airport Group International"
+T11	ORG 720 723	AGI
+T12	ORG 806 809	AGI
+T13	LOC 950 958	San José
+T14	ORG 1018 1026	Gobierno
+T15	ORG 1313 1316	AGI
+T16	LOC 1371 1381	Costa Rica
+T17	ORG 1556 1567	Contraloría
+T18	ORG 1677 1696	Sala Constitucional
+T19	ORG 1782 1821	Aeropuertos Españoles. Navegación Aérea
+T20	ORG 1823 1827	AENA
+T21	ORG 1873 1906	Consejo Técnico de Aviación Civil
+T22	ORG 1908 1913	CETAC
+T23	ORG 1985 1988	AGI
+T24	ORG 2006 2011	CETAC
+T25	ORG 2166 2170	AENA
+T26	ORG 2199 2224	Aeropuertos de Costa Rica
+T27	ORG 2226 2229	ACR
+T28	PER 2279 2298	Guillermo Constenla
+T29	MISC 2315 2326	Transportes
+T30	PER 2330 2342	Otto Guevara
+T31	ORG 2425 2428	AGI
+T32	ORG 2517 2520	AGI
+T33	ORG 2554 2581	Airport Group International
+T34	LOC 2583 2587	EEUU
+T35	ORG 2590 2598	Betchtel
+T36	ORG 2701 2715	Agencia Datsun
+T37	ORG 2717 2735	Corporación Cormar
+T38	ORG 2738 2743	Edica
+T39	ORG 2748 2762	Agencia Datsun
+T40	MISC 2901 2914	"Burger King"
+T41	MISC 2917 2928	"Pizza Hut"
+T42	MISC 2939 2945	Cormar
+T43	LOC 3001 3014	Centroamérica
+T44	ORG 3018 3023	Edica

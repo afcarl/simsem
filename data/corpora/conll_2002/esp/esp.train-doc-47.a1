@@ -1,0 +1,26 @@
+T1	LOC 0 13	San Sebastián
+T2	ORG 23 26	EFE
+T3	PER 66 79	Mikel Zabalza
+T4	PER 172 186	Enrique Dorado
+T5	PER 189 200	Felipe Bayo
+T6	PER 249 253	Lasa
+T7	PER 256 262	Zabala
+T8	ORG 348 379	Juzgado de Instrucción Número 1
+T9	LOC 383 396	San Sebastián
+T10	PER 398 411	Augusto Maeso
+T11	ORG 448 490	Sección Primera de la Audiencia Provincial
+T12	PER 580 586	Dorado
+T13	PER 589 593	Bayo
+T14	PER 736 741	Maeso
+T15	PER 851 858	Zabalza
+T16	LOC 884 895	río Bidasoa
+T17	ORG 940 953	Guardia Civil
+T18	ORG 1002 1005	ETA
+T19	ORG 1145 1148	ETA
+T20	PER 1340 1347	Zabalza
+T21	ORG 1392 1405	Guardia Civil
+T22	PER 1489 1495	Dorado
+T23	ORG 1535 1543	El Mundo
+T24	PER 1548 1555	Zabalza
+T25	LOC 1579 1591	Intxaurrondo
+T26	PER 1599 1603	Bayo

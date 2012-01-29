@@ -1,0 +1,77 @@
+T1	LOC 36 46	Anderlecht
+T2	ORG 68 79	Aston Villa
+T3	PER 100 109	Luc Nilis
+T4	MISC 116 123	Engelse
+T5	MISC 124 138	Premier League
+T6	MISC 176 184	Guineeër
+T7	ORG 209 227	Europese Commissie
+T8	LOC 292 299	Lokeren
+T9	PER 494 508	Willy Verhoost
+T10	PER 591 607	Souleymane Youla
+T11	PER 622 631	Anthuenis
+T12	MISC 669 694	Champions League-campagne
+T13	LOC 762 772	Anderlecht
+T14	LOC 836 846	Anderlecht
+T15	PER 857 862	Youla
+T16	PER 886 901	Georges Leekens
+T17	LOC 918 925	Lokeren
+T18	LOC 967 974	Brussel
+T19	ORG 1056 1067	Club Brugge
+T20	PER 1092 1107	Khalilou Fadiga
+T21	PER 1151 1162	Josip Simic
+T22	PER 1348 1364	Souleymane Youla
+T23	LOC 1387 1415	Constant Vanden Stockstadion
+T24	MISC 1417 1422	Sport
+T25	LOC 1423 1433	Anderlecht
+T26	PER 1454 1459	Youla
+T27	LOC 1578 1585	Lokeren
+T28	PER 1653 1671	Michel Verschueren
+T29	LOC 1729 1739	Anderlecht
+T30	PER 1809 1820	Verschueren
+T31	PER 1824 1830	Collin
+T32	MISC 1840 1855	Lokeren-manager
+T33	PER 1856 1870	Willy Verhoost
+T34	PER 1880 1885	Youla
+T35	PER 2005 2021	Souleymane Youla
+T36	LOC 2084 2091	Lokeren
+T37	PER 2093 2109	Geert Stroobants
+T38	PER 2118 2136	Michel Verschueren
+T39	MISC 2345 2361	Champions League
+T40	MISC 2423 2430	Lokerse
+T41	PER 2524 2532	Verhoost
+T42	MISC 2590 2599	Belgische
+T43	MISC 2609 2624	Lokeren-trainer
+T44	PER 2625 2640	Georges Leekens
+T45	PER 2680 2685	Youla
+T46	MISC 2749 2756	Voetbal
+T47	LOC 2814 2824	Anderlecht
+T48	LOC 3012 3022	Anderlecht
+T49	LOC 3088 3098	Anderlecht
+T50	LOC 3207 3214	Lokeren
+T51	PER 3229 3234	Youla
+T52	LOC 3284 3291	Lokeren
+T53	PER 3380 3385	Youla
+T54	PER 3602 3607	Youla
+T55	LOC 3614 3624	Anderlecht
+T56	MISC 3663 3681	Anderlecht-trainer
+T57	PER 3682 3696	Aimé Anthuenis
+T58	MISC 3802 3818	Champions League
+T59	LOC 3872 3882	Anderlecht
+T60	PER 3893 3911	Michel Verschueren
+T61	PER 4046 4054	Verhoost
+T62	MISC 4070 4098	Manchester United-Anderlecht
+T63	MISC 4132 4151	Lokeren-KV Mechelen
+T64	LOC 4153 4163	Anderlecht
+T65	ORG 4185 4194	De Morgen
+T66	PER 4195 4211	Geert Stroobants
+T67	MISC 4212 4230	Anderlecht-trainer
+T68	PER 4231 4245	Aimé Anthuenis
+T69	MISC 4278 4294	Champions League
+T70	LOC 4551 4561	Anderlecht
+T71	LOC 4724 4731	Lokeren
+T72	LOC 4837 4847	Anderlecht
+T73	PER 4848 4853	Youla
+T74	MISC 4899 4908	Brusselse
+T75	MISC 4956 4964	Europees
+T76	LOC 5011 5018	Lokeren
+T77	PER 5144 5162	Michel Verschueren

@@ -1,0 +1,51 @@
+T1	LOC 0 18	Santillana del Mar
+T2	LOC 20 29	Cantabria
+T3	ORG 40 43	EFE
+T4	ORG 68 86	República Francesa
+T5	PER 88 102	Jacques Chirac
+T6	ORG 113 121	Gobierno
+T7	PER 131 147	José María Aznar
+T8	LOC 184 192	Altamira
+T9	LOC 208 226	Santillana del Mar
+T10	LOC 388 397	Santander
+T11	MISC 401 429	XIII Cumbre hispano-francesa
+T12	LOC 486 496	Santillana
+T13	PER 581 586	Aznar
+T14	PER 589 595	Chirac
+T15	ORG 678 686	Gobierno
+T16	LOC 690 699	Cantabria
+T17	PER 701 716	Alberto Cuartas
+T18	PER 743 770	José Joaquín Martínez Sieso
+T19	PER 800 814	Isidoro Rábago
+T20	PER 1118 1124	Chirac
+T21	ORG 1157 1166	República
+T22	PER 1353 1359	Chirac
+T23	PER 1455 1467	Pilar García
+T24	ORG 1489 1532	Asociación de Guías Turísticas de Cantabria
+T25	LOC 1585 1595	Santillana
+T26	ORG 1633 1642	Ejecutivo
+T27	LOC 1669 1678	Colegiata
+T28	LOC 1682 1700	Santillana del Mar
+T29	LOC 1831 1837	España
+T30	PER 1839 1845	Chirac
+T31	LOC 1937 1946	Santander
+T32	LOC 1976 1981	París
+T33	PER 1984 1989	Aznar
+T34	LOC 1992 1998	Madrid
+T35	LOC 2170 2179	Cantabria
+T36	ORG 2224 2233	República
+T37	MISC 2246 2252	Cumbre
+T38	MISC 2269 2289	Museo de Prehistoria
+T39	LOC 2345 2368	Palacio de la Magdalena
+T40	LOC 2425 2434	Santander
+T41	ORG 2453 2461	Gobierno
+T42	MISC 2496 2502	Cumbre
+T43	LOC 2562 2585	Palacio de la Magdalena
+T44	PER 2659 2671	Alfonso XIII
+T45	PER 2674 2690	Victoria Eugenia
+T46	LOC 2755 2762	Palacio
+T47	MISC 2982 2993	XIII cumbre
+T48	PER 3034 3061	José Joaquín Martínez Sieso
+T49	LOC 3100 3109	Cantabria
+T50	ORG 3193 3219	Cuerpo Nacional de Policía
+T51	ORG 3228 3241	Guardia Civil

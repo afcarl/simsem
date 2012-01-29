@@ -1,0 +1,15 @@
+T1	ORG 0 3	EFE
+T2	LOC 10 16	Madrid
+T3	ORG 26 29	EFE
+T4	PER 34 46	Máximo Cajal
+T5	LOC 61 67	España
+T6	LOC 71 80	Guatemala
+T7	ORG 239 257	Audiencia Nacional
+T8	PER 258 280	Guillermo Ruiz Polanco
+T9	PER 312 324	Ruiz Polanco
+T10	PER 388 410	Premio Nobel de la Paz
+T11	PER 411 427	Rigoberta Menchú
+T12	LOC 682 688	Quiché
+T13	PER 788 800	Máximo Cajal
+T14	PER 1004 1020	Rigoberta Menchú
+T15	PER 1120 1133	Gregorio Yujá

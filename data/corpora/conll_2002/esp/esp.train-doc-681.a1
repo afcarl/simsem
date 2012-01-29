@@ -1,0 +1,20 @@
+T1	LOC 0 22	Santiago de Compostela
+T2	ORG 32 35	EFE
+T3	MISC 58 98	Justicia, Interior. Relaciones Laborales
+T4	PER 100 115	Antonio Pillado
+T5	MISC 168 181	Derecho civil
+T6	LOC 425 433	Facultad
+T7	ORG 503 543	Tribunal Superior de Justicia de Galicia
+T8	PER 545 556	Jesús Souto
+T9	ORG 575 586	Universidad
+T10	PER 588 604	Darío Villanueva
+T11	LOC 624 631	Galicia
+T12	MISC 636 649	Poder General
+T13	MISC 654 668	Poder Judicial
+T14	PER 670 684	Benigno Varela
+T15	PER 686 701	Antonio Pillado
+T16	LOC 1002 1009	Galicia
+T17	ORG 1060 1077	Comisión Superior
+T18	MISC 1273 1281	Justicia
+T19	MISC 1286 1298	Constitución
+T20	ORG 1320 1343	Tribunal Constitucional

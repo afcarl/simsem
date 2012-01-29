@@ -1,0 +1,37 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 22	EFECOM
+T3	ORG 30 55	Congreso de los Diputados
+T4	ORG 111 124	Grupo Catalán
+T5	ORG 126 129	CiU
+T6	ORG 151 159	Gobierno
+T7	ORG 200 213	Unión Europea
+T8	LOC 215 217	UE
+T9	ORG 313 321	Congreso
+T10	ORG 531 560	Organización Común de Mercado
+T11	ORG 562 565	OCM
+T12	ORG 594 605	Cámara Baja
+T13	ORG 672 675	OCM
+T14	ORG 949 962	Grupo Popular
+T15	ORG 964 966	PP
+T16	ORG 991 999	Gobierno
+T17	ORG 1187 1203	Grupo Socialista
+T18	ORG 1246 1248	UE
+T19	ORG 1289 1297	Gobierno
+T20	PER 1454 1469	Josep Maldonado
+T21	ORG 1521 1530	Ejecutivo
+T22	LOC 1550 1558	Bruselas
+T23	PER 1881 1890	Maldonado
+T24	LOC 2037 2043	España
+T25	LOC 2080 2088	Cataluña
+T26	LOC 2090 2110	Comunidad Valenciana
+T27	LOC 2112 2118	Murcia
+T28	LOC 2120 2126	Aragón
+T29	LOC 2128 2137	Andalucía
+T30	LOC 2140 2158	Castilla La Mancha
+T31	ORG 2356 2372	Grupo Socialista
+T32	PER 2374 2387	Xavier Sabaté
+T33	ORG 2396 2409	Grupo Popular
+T34	PER 2411 2426	Francesc Ricomé
+T35	ORG 2436 2457	Grupo Izquierda Unida
+T36	PER 2459 2475	Francisco Frutos
+T37	PER 2569 2584	Josep Maldonado

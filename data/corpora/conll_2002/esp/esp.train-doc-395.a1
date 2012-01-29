@@ -1,0 +1,35 @@
+T1	LOC 0 7	Badajoz
+T2	ORG 17 20	EFE
+T3	ORG 40 67	Hospital "Infanta Cristina"
+T4	LOC 71 78	Badajoz
+T5	PER 80 96	Eduardo Corchero
+T6	MISC 221 249	Servicio de Cirugía Torácica
+T7	LOC 253 264	Extremadura
+T8	MISC 360 392	Servicios de Neumología. Cirugía
+T9	MISC 429 458	I Jornada de Cirugía Torácica
+T10	PER 606 614	Corchero
+T11	MISC 632 648	Sanidad. Consumo
+T12	PER 650 674	Guillermo Fernández Vara
+T13	LOC 749 765	Infanta Cristina
+T14	LOC 917 928	Extremadura
+T15	MISC 1463 1495	Servicio de Cirugía Maxilofacial
+T16	MISC 1501 1537	Unidad de Trasplantes de Médula Osea
+T17	MISC 1562 1590	Servicio de Cirugía Torácica
+T18	MISC 1693 1708	Banco de Sangre
+T19	MISC 1713 1742	Unidad de Trasplante Hepático
+T20	MISC 1747 1777	Unidad de Psiquiatría Infantil
+T21	MISC 1784 1802	Unidades del Dolor
+T22	PER 1810 1824	Fernández Vara
+T23	ORG 1899 1926	Hospital "Infanta Cristina"
+T24	MISC 2166 2194	Servicio de Cirugía Torácica
+T25	LOC 2271 2277	Madrid
+T26	LOC 2280 2289	Salamanca
+T27	MISC 2353 2356	MIR
+T28	MISC 2395 2416	Sección de Neumología
+T29	PER 2418 2440	Fernando Fuentes Otero
+T30	MISC 2459 2478	Servicio de Cirugía
+T31	LOC 2484 2500	Infanta Cristina
+T32	PER 2503 2530	Francisco Téllez de Peralta
+T33	LOC 2577 2588	Extremadura
+T34	PER 2934 2947	Fuentes Otero
+T35	LOC 3066 3077	Extremadura

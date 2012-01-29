@@ -1,0 +1,33 @@
+T1	LOC 0 9	Santander
+T2	ORG 19 22	EFE
+T3	ORG 45 53	Gobierno
+T4	PER 55 71	José María Aznar
+T5	LOC 110 131	Palacio de La Moncloa
+T6	MISC 143 163	Real Madrid-Valencia
+T7	MISC 285 306	XIII Cumbre Bilateral
+T8	LOC 347 354	Francia
+T9	PER 356 369	Lionel Jospin
+T10	LOC 422 442	Estadio de San Denis
+T11	PER 577 588	Alain Roche
+T12	PER 591 608	Jophelyne Anglomá
+T13	ORG 622 630	Valencia
+T14	PER 641 659	Christian Karembeu
+T15	PER 662 676	Nicolás Anelka
+T16	ORG 692 703	Real Madrid
+T17	PER 705 710	Aznar
+T18	LOC 985 991	Madrid
+T19	PER 1001 1006	Aznar
+T20	PER 1116 1121	Aznar
+T21	LOC 1276 1282	Líbano
+T22	ORG 1303 1312	República
+T23	PER 1323 1337	Jacques Chirac
+T24	MISC 1435 1452	Liga de Campeones
+T25	ORG 1559 1577	Junta de Andalucía
+T26	PER 1579 1592	Manuel Chaves
+T27	ORG 1653 1662	Gobiernos
+T28	LOC 1728 1734	Madrid
+T29	LOC 1744 1749	París
+T30	LOC 1802 1807	París
+T31	PER 1850 1855	Aznar
+T32	ORG 1857 1860	EFE
+T33	MISC 1923 1931	Deportes

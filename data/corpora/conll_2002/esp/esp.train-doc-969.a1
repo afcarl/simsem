@@ -1,0 +1,17 @@
+T1	ORG 0 3	EFE
+T2	LOC 34 39	Ceuta
+T3	ORG 49 52	EFE
+T4	ORG 178 201	Delegación del Gobierno
+T5	LOC 205 210	Ceuta
+T6	ORG 424 439	"Siete Colinas"
+T7	MISC 671 710	"No más agresiones en nuestros centros"
+T8	ORG 746 771	Junta de Personal Docente
+T9	ORG 905 913	Gobierno
+T10	LOC 917 922	Ceuta
+T11	PER 924 941	Luis Vicente Moro
+T12	ORG 1053 1078	Junta de Personal Docente
+T13	PER 1080 1099	Juan Luis Aróstegui
+T14	ORG 1584 1592	Gobierno
+T15	ORG 1623 1646	Ministerio de Educación
+T16	PER 1751 1768	Luis Vicente Moro
+T17	ORG 1879 1917	Instituto Andaluz de Violencia Escolar

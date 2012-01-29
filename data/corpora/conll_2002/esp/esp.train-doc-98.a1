@@ -1,0 +1,21 @@
+T1	ORG 0 3	EFE
+T2	LOC 18 23	Avila
+T3	ORG 33 36	EFE
+T4	PER 44 88	Secretaria de Estado de Presupuestos. Gastos
+T5	ORG 93 115	Ministerio de Hacienda
+T6	PER 117 133	Elvira Rodríguez
+T7	ORG 257 265	Gobierno
+T8	LOC 430 435	Avila
+T9	ORG 675 683	Gobierno
+T10	MISC 852 893	Presupuestos Generales del Estado de 2001
+T11	ORG 1015 1046	Comisión de Políticas de Gastos
+T12	ORG 1273 1281	Gobierno
+T13	MISC 1296 1304	Economía
+T14	PER 1306 1318	Rodrigo Rato
+T15	MISC 1456 1463	Sanidad
+T16	ORG 1560 1569	Ejecutivo
+T17	PER 1719 1735	Elvira Rodríguez
+T18	MISC 1779 1819	Reforzando la Institución Presupuestaria
+T19	MISC 1829 1885	II Encuentros de Avila sobre Gestión. Políticas Públicas
+T20	ORG 1915 1958	Cosultores de las Administraciones Públicas
+T21	ORG 1981 1991	Caja Avila

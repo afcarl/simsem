@@ -1,0 +1,29 @@
+T1	ORG 0 3	EFE
+T2	LOC 10 15	París
+T3	ORG 25 28	EFE
+T4	ORG 33 58	Juan Antonio Gómez Angulo
+T5	ORG 83 89	Estado
+T6	MISC 98 105	Deporte
+T7	ORG 118 121	EFE
+T8	LOC 167 178	Saint Denis
+T9	MISC 207 224	Liga de Campeones
+T10	PER 340 352	Gómez Angulo
+T11	ORG 385 396	Real Madrid
+T12	LOC 409 423	Trianon Palace
+T13	LOC 428 437	Versalles
+T14	PER 490 508	Vicente del Bosque
+T15	ORG 657 663	Estado
+T16	MISC 672 679	Deporte
+T17	ORG 721 732	Real Madrid
+T18	ORG 778 786	Valencia
+T19	LOC 831 840	Chantilly
+T20	PER 842 854	Gómez Angulo
+T21	LOC 921 930	Amsterdam
+T22	PER 1004 1016	Gómez Angulo
+T23	LOC 1032 1046	Trianon Palace
+T24	ORG 1077 1105	Consejo Superior de Deportes
+T25	PER 1106 1123	Emilio Butragueño
+T26	ORG 1142 1148	Estado
+T27	MISC 1157 1164	Deporte
+T28	PER 1218 1233	Eduardo Zaplana
+T29	ORG 1252 1272	Comunidad Valenciana

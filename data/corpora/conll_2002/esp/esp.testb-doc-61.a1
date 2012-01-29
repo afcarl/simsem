@@ -1,0 +1,16 @@
+T1	ORG 0 3	EFE
+T2	LOC 9 18	Barcelona
+T3	ORG 28 31	EFE
+T4	ORG 59 65	CC.OO.
+T5	ORG 72 96	Departamento de Justicia
+T6	LOC 274 280	Lleida
+T7	ORG 300 304	CCOO
+T8	ORG 386 394	El Segre
+T9	MISC 451 459	Justicia
+T10	PER 461 477	Núria de Gispert
+T11	LOC 573 579	Girona
+T12	LOC 629 638	Tarragona
+T13	LOC 677 686	Barcelona
+T14	PER 799 809	De Gispert
+T15	PER 849 865	Núria de Gispert
+T16	ORG 963 1005	Dirección General de Atención. la Infancia

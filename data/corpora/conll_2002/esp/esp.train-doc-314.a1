@@ -1,0 +1,22 @@
+T1	LOC 0 7	Cáceres
+T2	ORG 17 20	EFE
+T3	PER 25 53	Pedro Antolín Muñoz Palomino
+T4	ORG 112 143	Audiencia Provincial de Cáceres
+T5	ORG 166 174	Fiscalía
+T6	PER 305 326	José Antonio Corrales
+T7	PER 441 472	Francisco Javier Montero Juanes
+T8	LOC 553 566	Bar "Alameda"
+T9	LOC 570 589	Zarza de Montánchez
+T10	LOC 691 703	Bar "Mardel"
+T11	LOC 708 731	Salvatierra de Santiago
+T12	PER 826 834	Corrales
+T13	PER 1086 1094	Corrales
+T14	PER 1173 1178	Muñoz
+T15	PER 1262 1267	Muñoz
+T16	PER 1277 1285	Corrales
+T17	LOC 2138 2171	Hospital "San Pedro de Alcántara"
+T18	LOC 2175 2182	Cáceres
+T19	LOC 2278 2307	Unidad de Cuidados Intensivos
+T20	ORG 2380 2397	Ministerio Fiscal
+T21	PER 2416 2430	Montero Juanes
+T22	PER 2613 2634	María Estrella Ramiro

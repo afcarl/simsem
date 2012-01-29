@@ -1,0 +1,25 @@
+T1	LOC 0 10	Washington
+T2	ORG 20 23	EFE
+T3	ORG 28 42	Estados Unidos
+T4	ORG 60 86	Fuerzas Armadas del Líbano
+T5	ORG 221 227	Estado
+T6	PER 229 247	Madeleine Albright
+T7	LOC 283 289	Israel
+T8	ORG 330 333	ONU
+T9	ORG 365 372	Hizbulá
+T10	ORG 374 389	Partido de Dios
+T11	PER 452 460	Albright
+T12	ORG 591 618	Ejército del Sur del Líbano
+T13	ORG 620 623	ESL
+T14	ORG 706 721	Fuerzas Armadas
+T15	LOC 834 838	EEUU
+T16	ORG 1030 1052	Departamento de Estado
+T17	PER 1086 1094	Albright
+T18	MISC 1140 1158	Asuntos Exteriores
+T19	ORG 1165 1169	OTAN
+T20	LOC 1190 1196	Italia
+T21	ORG 1213 1218	Siria
+T22	ORG 1220 1226	Egipto
+T23	ORG 1228 1240	Arabia Saudí
+T24	ORG 1242 1248	Israel
+T25	ORG 1251 1258	Francia

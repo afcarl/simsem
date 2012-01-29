@@ -1,0 +1,34 @@
+T1	LOC 0 11	Torrelavega
+T2	ORG 21 24	EFE
+T3	ORG 32 59	Ayuntamiento de Torrelavega
+T4	LOC 131 144	Bulevar Ronda
+T5	MISC 311 315	T-30
+T6	LOC 370 387	glorieta de Tanos
+T7	LOC 430 450	rotonda de Campuzano
+T8	PER 514 541	José Joaquín Martínez Sieso
+T9	ORG 560 568	Gobierno
+T10	PER 570 585	Alberto Cuartas
+T11	LOC 648 659	Torrelavega
+T12	LOC 804 817	Bulevar Ronda
+T13	PER 819 833	Miquel Navarro
+T14	PER 835 852	Adolfo Scholosser
+T15	PER 855 874	Chema Alvargonzález
+T16	LOC 902 913	Torrelavega
+T17	PER 915 935	Javier López Marcano
+T18	LOC 1149 1172	Paseo Fernández Vallejo
+T19	LOC 1174 1179	Tanos
+T20	LOC 1188 1207	Avenida de Palencia
+T21	LOC 1209 1218	Campuzano
+T22	LOC 1224 1244	Avenida de Campuzano
+T23	LOC 1270 1295	Colegio Amós de Escalante
+T24	LOC 1297 1313	Barrio Covadonga
+T25	LOC 1361 1371	El Malecón
+T26	LOC 1379 1401	Paseo de Julio Hauzeur
+T27	LOC 1403 1409	Torres
+T28	LOC 1591 1604	Bulevar Ronda
+T29	PER 1882 1902	Javier López Marcano
+T30	LOC 1954 1967	Bulevar Ronda
+T31	MISC 2019 2032	Corporaciones
+T32	ORG 2162 2175	Unión Europea
+T33	LOC 2201 2214	Bulevar Ronda
+T34	LOC 2215 2226	Torrelavega

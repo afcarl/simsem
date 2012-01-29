@@ -1,0 +1,15 @@
+T1	ORG 0 3	EFE
+T2	LOC 17 25	A Coruña
+T3	ORG 35 38	EFE
+T4	ORG 121 142	Médicos sin Fronteras
+T5	LOC 178 185	Galicia
+T6	LOC 238 246	A Coruña
+T7	PER 346 365	Rafael Vila-Sanjuán
+T8	ORG 385 406	Médicos sin Fronteras
+T9	LOC 425 440	Casa del Hombre
+T10	LOC 444 452	A Coruña
+T11	MISC 475 525	"El papel de la sociedad en la acción humanitaria"
+T12	ORG 542 547	Domus
+T13	MISC 590 631	Año Internacional de la Cultura de la Paz
+T14	PER 633 652	Rafael Vila-Sanjuán
+T15	ORG 955 976	Médicos sin Fronteras

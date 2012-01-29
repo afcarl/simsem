@@ -1,0 +1,42 @@
+T1	LOC 0 8	Belgrado
+T2	PER 9 17	Sainovic
+T3	PER 30 39	Milosevic
+T4	LOC 69 75	Kosovo
+T5	LOC 79 89	Montenegro
+T6	MISC 103 115	Navo-troepen
+T7	PER 139 148	Milosevic
+T8	ORG 163 184	Joegoslavië-Tribunaal
+T9	MISC 263 273	Buitenland
+T10	MISC 374 384	VN-bestuur
+T11	LOC 388 394	Kosovo
+T12	ORG 396 401	Unmic
+T13	MISC 431 439	Serviërs
+T14	LOC 443 449	Kosovo
+T15	PER 554 563	Milosevic
+T16	MISC 586 600	Joegoslavische
+T17	PER 611 629	Slobodan Milosevic
+T18	LOC 658 664	Kosovo
+T19	MISC 688 702	Joegoslavische
+T20	ORG 730 739	De Morgen
+T21	LOC 780 786	Kosovo
+T22	LOC 790 800	Montenegro
+T23	PER 820 835	Nikola Sainovic
+T24	PER 900 909	Milosevic
+T25	LOC 915 921	Kosovo
+T26	ORG 924 927	AFP
+T27	LOC 980 991	Joegoslavië
+T28	PER 1057 1066	Milosevic
+T29	LOC 1067 1073	Kosovo
+T30	LOC 1148 1159	Joegoslavië
+T31	PER 1221 1229	Sainovic
+T32	LOC 1270 1276	Kosovo
+T33	PER 1282 1296	Gorica Gajevic
+T34	PER 1354 1363	Milosevic
+T35	LOC 1365 1371	Kosovo
+T36	ORG 1411 1427	Verenigde Naties
+T37	PER 1448 1457	Milosevic
+T38	LOC 1468 1474	Kosovo
+T39	ORG 1527 1548	Joegoslavië-Tribunaal
+T40	ORG 1557 1561	Navo
+T41	LOC 1586 1594	Den Haag
+T42	LOC 1667 1674	Brussel

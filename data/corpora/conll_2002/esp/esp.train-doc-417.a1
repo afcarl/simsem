@@ -1,0 +1,22 @@
+T1	ORG 0 3	EFE
+T2	LOC 11 19	San José
+T3	ORG 29 32	EFE
+T4	PER 108 128	Mario Alberto Kempes
+T5	LOC 199 212	Santa Bárbara
+T6	PER 356 370	Víctor Badilla
+T7	LOC 516 526	Costa Rica
+T8	LOC 545 558	Santa Bárbara
+T9	PER 560 575	Orlando Morales
+T10	PER 633 639	Kempes
+T11	PER 761 767	Kempes
+T12	LOC 861 874	Santa Bárbara
+T13	PER 884 891	Morales
+T14	LOC 1033 1042	Argentina
+T15	LOC 1120 1130	Costa Rica
+T16	ORG 1223 1235	La República
+T17	LOC 1240 1248	San José
+T18	ORG 1250 1263	Santa Bárbara
+T19	LOC 1288 1298	Costa Rica
+T20	LOC 1382 1395	Santa Bárbara
+T21	LOC 1416 1423	Heredia
+T22	LOC 1461 1469	San José

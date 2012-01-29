@@ -1,0 +1,26 @@
+T1	LOC 30 36	Madrid
+T2	ORG 46 49	EFE
+T3	ORG 71 77	Estado
+T4	MISC 81 97	Asuntos Europeos
+T5	PER 99 114	Ramón de Miguel
+T6	ORG 193 195	UE
+T7	MISC 241 259	Asuntos Exteriores
+T8	PER 271 280	Keith Vaz
+T9	PER 306 323	Elizabeth Papasoi
+T10	LOC 378 384	España
+T11	MISC 418 434	Asuntos Europeos
+T12	PER 436 439	Vaz
+T13	PER 474 483	De Miguel
+T14	MISC 511 535	Consejo Europeo de Feira
+T15	MISC 570 600	Conferencia Intergubernamental
+T16	LOC 623 629	Madrid
+T17	LOC 666 689	Ministerio del Interior
+T18	PER 745 754	De Miguel
+T19	PER 766 775	Keith Vaz
+T20	PER 827 834	Papasoi
+T21	ORG 948 953	Unión
+T22	PER 955 972	Elizabeth Papasoi
+T23	LOC 999 1005	España
+T24	MISC 1111 1127	Asuntos Europeos
+T25	ORG 1210 1212	UE
+T26	ORG 1215 1220	Rusia

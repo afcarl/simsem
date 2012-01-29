@@ -1,0 +1,53 @@
+T1	LOC 0 9	Barcelona
+T2	ORG 19 22	EFE
+T3	ORG 47 58	Generalitat
+T4	PER 60 71	Jordi Pujol
+T5	PER 311 316	Pujol
+T6	LOC 356 365	Barcelona
+T7	MISC 389 437	Premio Duran Farell de Investigación Tecnológica
+T8	ORG 444 480	Universitat Politécnica de Catalunya
+T9	ORG 482 485	UPC
+T10	LOC 507 515	Cataluña
+T11	PER 591 602	Jordi Pujol
+T12	ORG 698 719	Universitats. Recerca
+T13	PER 1042 1047	Pujol
+T14	ORG 1115 1123	Gobierno
+T15	PER 1187 1192	Pujol
+T16	MISC 1532 1580	Premio Duran Farell de Investigación Tecnológica
+T17	ORG 1587 1590	UPC
+T18	ORG 1781 1784	UPC
+T19	PER 1835 1840	Pujol
+T20	ORG 1862 1873	Generalitat
+T21	MISC 1909 1944	Premio de Transferencia Tecnológica
+T22	ORG 2014 2079	Departamento de Ciencia de los Materiales. Ingeniería metalúrgica
+T23	ORG 2086 2089	UPC
+T24	MISC 2102 2160	Premio. la Calidad en la Docencia Universitaria al trabajo
+T25	MISC 2161 2207	"Investigar para enseñar, enseñar para educar"
+T26	ORG 2238 2241	UPC
+T27	ORG 2320 2323	UPC
+T28	PER 2325 2336	Jaume Pagés
+T29	PER 2352 2363	Miquel Roca
+T30	MISC 2403 2439	Premio. la Investigación Tecnológica
+T31	ORG 2464 2496	Consejo Social de la Universidad
+T32	PER 2531 2548	Pere Duran Farell
+T33	LOC 2612 2618	España
+T34	LOC 2620 2629	Guayaquil
+T35	LOC 2631 2638	Ecuador
+T36	PER 2676 2695	Jaime Iván Kaviedes
+T37	ORG 2724 2730	Puebla
+T38	LOC 2795 2801	México
+T39	ORG 2844 2849	Celta
+T40	LOC 2853 2859	España
+T41	PER 2861 2869	Kaviedes
+T42	ORG 2958 2966	Paraguay
+T43	LOC 2970 2978	Asunción
+T44	ORG 3064 3069	Celta
+T45	ORG 3231 3241	Telecentro
+T46	ORG 3262 3268	Puebla
+T47	ORG 3378 3383	Celta
+T48	PER 3393 3401	Kaviedes
+T49	LOC 3407 3413	México
+T50	ORG 3521 3527	Puebla
+T51	LOC 3566 3572	México
+T52	LOC 3647 3653	España
+T53	PER 3663 3671	Kaviedes

@@ -1,0 +1,22 @@
+T1	LOC 0 6	Oviedo
+T2	ORG 16 19	EFE
+T3	ORG 44 85	Federación Nacional de Industrias Lácteas
+T4	ORG 87 92	FENIL
+T5	PER 95 104	Pedro Ara
+T6	ORG 211 216	Inlac
+T7	PER 293 296	Ara
+T8	ORG 381 386	Inlac
+T9	ORG 623 628	Fenil
+T10	LOC 697 703	España
+T11	PER 1014 1017	Ara
+T12	ORG 1577 1582	FENIL
+T13	ORG 1668 1677	Ejecutivo
+T14	PER 1689 1711	Vicente Alvarez Areces
+T15	MISC 1754 1772	Medio Rural. Pesca
+T16	LOC 1777 1787	Principado
+T17	PER 1789 1816	Santiago Menéndez de Luarca
+T18	PER 1818 1836	Menéndez de Luarca
+T19	PER 2176 2182	Areces
+T20	ORG 2201 2206	FENIL
+T21	ORG 2220 2228	Gobierno
+T22	ORG 2428 2453	Ministerio de Agricultura

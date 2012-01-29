@@ -1,0 +1,26 @@
+T1	LOC 0 9	Fráncfort
+T2	LOC 11 14	RFA
+T3	ORG 25 28	EFE
+T4	ORG 36 61	Consejo de Administración
+T5	LOC 100 109	Fráncfort
+T6	ORG 114 134	"Deutsche Boerse AG"
+T7	ORG 212 235	"London Stock Exchange"
+T8	PER 298 309	Rolf Breuer
+T9	ORG 654 661	Consejo
+T10	ORG 668 685	"Deutsche Boerse"
+T11	LOC 848 857	Fráncfort
+T12	ORG 1010 1033	"London Stock Exchange"
+T13	MISC 1106 1111	Xetra
+T14	LOC 1127 1136	Fráncfort
+T15	PER 1203 1209	Breuer
+T16	ORG 1335 1348	"Neuer Markt"
+T17	LOC 1352 1361	Fráncfort
+T18	LOC 1376 1382	Europa
+T19	MISC 1462 1464	IX
+T20	LOC 1476 1483	Londres
+T21	MISC 1620 1622	IX
+T22	LOC 1678 1687	Fráncfort
+T23	PER 1855 1861	Breuer
+T24	ORG 1893 1906	Deutsche Bank
+T25	ORG 1950 1967	"Deutsche Boerse"
+T26	LOC 2027 2033	Europa

@@ -1,0 +1,39 @@
+T1	PER 0 11	H. Frentzen
+T2	ORG 13 16	ALE
+T3	ORG 18 24	Jordan
+T4	PER 47 58	E. Bernoldi
+T5	ORG 60 63	BRA
+T6	ORG 65 71	Sauber
+T7	PER 95 108	G. Fisichella
+T8	ORG 110 113	ITA
+T9	ORG 115 123	Benetton
+T10	PER 146 154	L. Burti
+T11	ORG 156 159	ITA
+T12	ORG 161 169	Benetton
+T13	PER 192 205	J. Vesrtappen
+T14	ORG 207 210	HOL
+T15	ORG 212 218	Arrows
+T16	PER 241 248	Pantano
+T17	ORG 250 253	ITA
+T18	ORG 255 261	Jaguar
+T19	LOC 284 295	Ciudad Real
+T20	ORG 305 308	EFE
+T21	PER 316 333	marqués de Griñón
+T22	PER 335 347	Carlos Falcó
+T23	LOC 365 376	Ciudad Real
+T24	MISC 386 404	"Entender de vino"
+T25	LOC 461 467	España
+T26	PER 531 543	Carlos Falcó
+T27	ORG 559 608	Rectorado de la Universidad de Castilla-La Mancha
+T28	MISC 658 676	Comunidad Autónoma
+T29	LOC 778 796	Castilla-La Mancha
+T30	PER 980 997	marqués de Griñón
+T31	ORG 1074 1094	Universidad regional
+T32	PER 1096 1107	Luis Arroyo
+T33	PER 1130 1147	marqués de Griñón
+T34	MISC 1203 1208	FEDER
+T35	PER 1333 1338	Falcó
+T36	LOC 1342 1353	Ciudad Real
+T37	PER 1358 1375	marqués de Griñón
+T38	MISC 1453 1464	Agricultura
+T39	PER 1466 1482	Alejandro Alonso

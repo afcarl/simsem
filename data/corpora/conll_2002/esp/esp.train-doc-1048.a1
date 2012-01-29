@@ -1,0 +1,32 @@
+T1	ORG 0 3	EFE
+T2	LOC 15 22	Córdoba
+T3	ORG 32 35	EFE
+T4	LOC 256 263	Córdoba
+T5	MISC 357 362	N-432
+T6	LOC 391 396	Obejo
+T7	PER 578 586	R. V. L.
+T8	PER 640 648	F. H. H.
+T9	LOC 735 741	Toledo
+T10	PER 791 802	F. L. G. O.
+T11	LOC 901 908	Córdoba
+T12	PER 925 936	M. P. R. A.
+T13	ORG 1125 1138	Policía Local
+T14	LOC 1142 1149	Córdoba
+T15	PER 1150 1161	J. M. V. A.
+T16	MISC 1245 1265	Autovía de Andalucía
+T17	ORG 1318 1331	Policía Local
+T18	LOC 1335 1342	Córdoba
+T19	ORG 1355 1358	Efe
+T20	PER 1363 1373	J. M. V. A
+T21	LOC 1499 1533	Hospital Universitario Reina Sofía
+T22	LOC 1537 1544	Córdoba
+T23	ORG 1552 1593	Empresa Pública de Emergencias Sanitarias
+T24	ORG 1600 1618	Junta de Andalucía
+T25	MISC 1792 1797	N-432
+T26	LOC 1847 1853	Espiel
+T27	LOC 2144 2178	Hospital Universitario Reina Sofía
+T28	ORG 2204 2245	Empresa Pública de Emergencias Sanitarias
+T29	ORG 2252 2270	Junta de Andalucía
+T30	LOC 2274 2281	Córdoba
+T31	LOC 2641 2656	Centro de Salud
+T32	LOC 2660 2666	Espiel

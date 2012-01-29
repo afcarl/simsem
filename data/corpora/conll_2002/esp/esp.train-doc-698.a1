@@ -1,0 +1,27 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	ORG 42 50	Congreso
+T4	PER 52 71	Luisa Fernanda Rudi
+T5	ORG 127 140	Santa Bárbara
+T6	ORG 220 222	PP
+T7	ORG 375 377	PP
+T8	PER 392 406	Manuel Atencia
+T9	ORG 543 558	Partido Popular
+T10	ORG 575 578	UGT
+T11	ORG 582 595	Santa Bárbara
+T12	PER 597 610	Amador García
+T13	LOC 693 701	Asturias
+T14	LOC 703 712	La Coruña
+T15	LOC 714 720	Murcia
+T16	LOC 722 730	Palencia
+T17	LOC 732 739	Granada
+T18	LOC 742 748	Madrid
+T19	ORG 759 774	Gobierno del PP
+T20	LOC 792 812	Palacio del Congreso
+T21	ORG 856 869	Santa Bárbara
+T22	PER 871 877	García
+T23	ORG 929 945	Tribunal Supremo
+T24	ORG 951 965	Constitucional
+T25	ORG 1005 1011	Estado
+T26	ORG 1044 1065	Ministerio de Defensa
+T27	ORG 1089 1102	Santa Bárbara

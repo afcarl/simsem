@@ -1,0 +1,19 @@
+T1	LOC 0 9	Tomelloso
+T2	LOC 11 22	Ciudad Real
+T3	ORG 33 36	EFE
+T4	MISC 57 84	Agricultura. Medio Ambiente
+T5	PER 86 102	Alejandro Alonso
+T6	LOC 120 139	Alcázar de San Juan
+T7	LOC 141 152	Ciudad Real
+T8	PER 214 220	Alonso
+T9	LOC 281 290	Tomelloso
+T10	LOC 292 303	Ciudad Real
+T11	ORG 339 386	Consejo Rector del Instituto de la Vid. el Vino
+T12	ORG 388 394	IVICAM
+T13	ORG 444 488	Asociación de Enólogos de Castilla-La Mancha
+T14	ORG 494 519	Consejería de Agricultura
+T15	MISC 615 647	"Vinos de la Tierra de Castilla"
+T16	LOC 789 807	Castilla-La Mancha
+T17	ORG 843 857	Consejo Rector
+T18	ORG 862 868	IVICAM
+T19	MISC 932 944	OCM del Vino

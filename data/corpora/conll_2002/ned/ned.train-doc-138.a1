@@ -1,0 +1,32 @@
+T1	ORG 21 30	Concentra
+T2	ORG 256 269	Fortis België
+T3	ORG 273 289	Fortis Nederland
+T4	MISC 357 371	Bel 20-aandeel
+T5	ORG 405 413	Delhaize
+T6	ORG 485 501	Delhaize America
+T7	ORG 527 539	Bank Degroof
+T8	ORG 542 551	Bloomberg
+T9	PER 567 581	Robert Melders
+T10	ORG 592 618	Morgan Stanley Dean Witter
+T11	ORG 754 766	Bank Degroof
+T12	ORG 770 784	Morgan Stanley
+T13	ORG 841 847	Fortis
+T14	ORG 849 858	De Morgen
+T15	ORG 859 874	Imperial Invest
+T16	ORG 918 925	Almanij
+T17	ORG 929 935	KB Lux
+T18	ORG 980 983	GBL
+T19	ORG 1062 1076	Plastic Omnium
+T20	MISC 1101 1107	Easdaq
+T21	ORG 1112 1115	CSC
+T22	ORG 1196 1203	CLT Ufa
+T23	PER 1227 1234	Pearson
+T24	ORG 1287 1293	Solvay
+T25	MISC 1350 1370	De Financiële Morgen
+T26	ORG 1371 1385	KBC Securities
+T27	MISC 1474 1486	Bel 20-index
+T28	ORG 1557 1568	Fortis Bank
+T29	LOC 1675 1681	Brugge
+T30	MISC 1728 1745	Van Rossum-effect
+T31	PER 1753 1767	Robert Melders
+T32	ORG 1781 1788	Colruyt

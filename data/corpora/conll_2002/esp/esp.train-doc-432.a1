@@ -1,0 +1,55 @@
+T1	LOC 11 19	La Rioja
+T2	ORG 30 33	EFE
+T3	LOC 42 47	Reyes
+T4	LOC 87 95	La Rioja
+T5	MISC 132 156	La Rioja. Tierra Abierta
+T6	LOC 218 227	Calahorra
+T7	ORG 256 265	Cajarioja
+T8	ORG 359 368	Comunidad
+T9	ORG 502 510	La Rioja
+T10	PER 512 522	Pedro Sanz
+T11	MISC 553 564	Agricultura
+T12	PER 566 578	Jesús Posada
+T13	PER 603 608	Reyes
+T14	ORG 626 651	Administraciones Públicas
+T15	PER 740 745	Reyes
+T16	PER 790 806	Carmelo Hernando
+T17	MISC 933 944	Prehistoria
+T18	PER 946 961	Don Juan Carlos
+T19	LOC 1170 1178	La Rioja
+T20	LOC 1199 1205	Peciña
+T21	LOC 1207 1215	La Rioja
+T22	LOC 1218 1226	La Rioja
+T23	LOC 1400 1417	sierra de Cameros
+T24	LOC 1505 1522	Contrebia Leukade
+T25	MISC 1592 1600	Retórica
+T26	PER 1604 1627	Marco Fabio Quintiliano
+T27	LOC 1639 1648	Calahorra
+T28	MISC 1678 1690	Renacimiento
+T29	PER 1692 1715	Miguel Angel Buonarotti
+T30	LOC 1744 1766	Santa María La Redonda
+T31	LOC 1770 1777	Logroño
+T32	PER 1839 1844	Reyes
+T33	PER 1912 1927	Don Juan Carlos
+T34	PER 1930 1940	Doña Sofía
+T35	MISC 1964 1973	Códice 46
+T36	LOC 2073 2097	San Millán de la Cogolla
+T37	ORG 2142 2170	Real Academia de la Historia
+T38	MISC 2324 2333	Códice 60
+T39	MISC 2433 2439	Códice
+T40	MISC 2630 2654	Cristo atado. la columna
+T41	PER 2660 2678	Gregorio Fernández
+T42	PER 2771 2776	Reyes
+T43	ORG 2890 2899	Cajarioja
+T44	PER 2932 2948	Fernando Beltrán
+T45	PER 2954 2959	Reyes
+T46	MISC 3027 3036	Códice 46
+T47	LOC 3144 3149	Rioja
+T48	ORG 3217 3257	Diócesis de Calahorra-La Calzada-Logroño
+T49	PER 3259 3268	Ramón Búa
+T50	PER 3273 3276	Rey
+T51	PER 3282 3287	Reina
+T52	ORG 3319 3327	La Rioja
+T53	PER 3329 3339	Pedro Sanz
+T54	LOC 3439 3445	Madrid
+T55	ORG 3447 3450	EFE

@@ -1,0 +1,30 @@
+T1	ORG 0 13	EFE-Cantabria
+T2	LOC 14 19	Miami
+T3	LOC 21 25	EEUU
+T4	ORG 36 39	EFE
+T5	ORG 44 61	Todosport Network
+T6	MISC 98 106	Internet
+T7	ORG 164 177	Consejero.com
+T8	ORG 180 187	MovilGo
+T9	LOC 225 239	América Latina
+T10	LOC 254 258	EEUU
+T11	ORG 310 327	www.todosport.com
+T12	ORG 374 387	Consejero.com
+T13	ORG 413 420	MovilGo
+T14	MISC 575 583	Internet
+T15	PER 787 800	David Johnson
+T16	ORG 802 811	Todosport
+T17	LOC 925 939	América Latina
+T18	ORG 955 985	Museo Virtual del Boca Juniors
+T19	LOC 990 999	Argentina
+T20	ORG 1002 1075	la Asociación Nacional de Fútbol Profesional de Chile. el América de Cali
+T21	ORG 1078 1107	Atlético Nacional de Colombia
+T22	ORG 1186 1195	Todosport
+T23	PER 1309 1326	William Plasencia
+T24	ORG 1340 1353	Consejero.com
+T25	PER 1355 1371	Salvador Jiménez
+T26	ORG 1398 1405	MovilGo
+T27	ORG 1605 1612	MovilGo
+T28	ORG 1626 1638	Coral Gables
+T29	LOC 1640 1647	Florida
+T30	MISC 1677 1685	Internet

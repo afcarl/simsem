@@ -1,0 +1,82 @@
+T1	PER 4 17	Mario Etchart
+T2	LOC 18 24	Sydney
+T3	LOC 26 35	Australia
+T4	ORG 46 49	EFE
+T5	ORG 90 99	Socceroos
+T6	LOC 123 131	Paraguay
+T7	LOC 222 228	Sydney
+T8	LOC 230 238	Brisbane
+T9	LOC 241 250	Melbourne
+T10	LOC 290 299	Australia
+T11	LOC 341 364	Sydney Football Stadium
+T12	LOC 435 460	estadio Gabba de Brisbane
+T13	LOC 487 516	estadio Colonial de Melbourne
+T14	ORG 600 609	Socceroos
+T15	MISC 635 647	Copa Oceanía
+T16	MISC 672 692	Copa Confederaciones
+T17	ORG 699 742	Federación Internacional de Fútbol Asociado
+T18	ORG 744 748	FIFA
+T19	LOC 771 777	Tahiti
+T20	ORG 902 929	Velez Sarfield de Argentina
+T21	PER 931 950	José Luis Chilavert
+T22	ORG 1106 1115	Socceroos
+T23	PER 1167 1179	Frank Farina
+T24	ORG 1221 1229	Paraguay
+T25	MISC 1277 1289	Copa Oceanía
+T26	MISC 1352 1370	Oceanía-Sudamérica
+T27	MISC 1393 1407	Copa del Mundo
+T28	LOC 1443 1450	Oceanía
+T29	LOC 1458 1467	Australia
+T30	LOC 1550 1560	Sudamérica
+T31	MISC 1566 1582	Corea-Japón 2002
+T32	PER 1584 1590	Farina
+T33	ORG 1633 1642	Socceroos
+T34	ORG 1663 1677	Sydney Olympic
+T35	PER 1709 1723	Gabriel Méndez
+T36	PER 1726 1739	Pablo Cardozo
+T37	PER 1836 1842	Méndez
+T38	PER 1845 1852	Cardozo
+T39	PER 2012 2018	Farina
+T40	ORG 2050 2059	Socceroos
+T41	ORG 2120 2152	Federación Australiana de Fútbol
+T42	ORG 2154 2156	SA
+T43	PER 2170 2182	Mark Bosnich
+T44	ORG 2184 2201	Manchester United
+T45	LOC 2203 2213	Inglaterra
+T46	PER 2236 2245	Paul Okon
+T47	ORG 2247 2257	Fiorentina
+T48	LOC 2259 2265	Italia
+T49	PER 2268 2282	Stan Lazaridis
+T50	ORG 2284 2299	Birmingham City
+T51	LOC 2301 2311	Inglaterra
+T52	PER 2315 2327	Danny Tiatto
+T53	ORG 2329 2344	Manchester City
+T54	LOC 2346 2356	Inglaterra
+T55	PER 2371 2383	Kevin Muscat
+T56	ORG 2385 2408	Wolverhampton Wanderers
+T57	LOC 2410 2420	Inglaterra
+T58	PER 2440 2453	Paul Agostino
+T59	LOC 2460 2466	Munich
+T60	LOC 2468 2476	Alemania
+T61	PER 2480 2494	David Zdrilich
+T62	ORG 2496 2503	SSV Ulm
+T63	LOC 2505 2513	Alemania
+T64	ORG 2563 2571	Paraguay
+T65	ORG 2632 2644	Leeds United
+T66	LOC 2648 2658	Inglaterra
+T67	PER 2660 2672	Harry Kewell
+T68	PER 2728 2739	Mark Viduka
+T69	ORG 2741 2747	Celtic
+T70	ORG 2769 2784	Glasgow Rangers
+T71	PER 2786 2797	Craig Moore
+T72	PER 2800 2811	Tony Vidmar
+T73	PER 2813 2819	Kewell
+T74	PER 2889 2895	Viduka
+T75	PER 2897 2902	Moore
+T76	PER 2905 2911	Vidmar
+T77	PER 2959 2968	Ned Zelic
+T78	LOC 2975 2981	Munich
+T79	LOC 2983 2991	Alemania
+T80	ORG 3075 3091	Sub-23 de Brasil
+T81	PER 3113 3125	Frank Farina
+T82	LOC 3188 3197	Melbourne

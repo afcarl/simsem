@@ -1,0 +1,15 @@
+T1	ORG 0 3	EFE
+T2	LOC 12 23	Tordesillas
+T3	LOC 25 35	Valladolid
+T4	ORG 46 49	EFE
+T5	PER 75 94	José Jiménez Lozano
+T6	LOC 111 122	Tordesillas
+T7	LOC 124 134	Valladolid
+T8	PER 297 311	Jiménez Lozano
+T9	ORG 390 415	fundación Duques de Soria
+T10	PER 956 970	Jiménez Lozano
+T11	PER 1574 1588	Jiménez Lozano
+T12	PER 2192 2205	Jesús Fonseca
+T13	PER 2217 2231	Jiménez Lozano
+T14	PER 2469 2484	duques de Soria
+T15	LOC 2583 2597	Castilla. León

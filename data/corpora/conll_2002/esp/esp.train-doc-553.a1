@@ -1,0 +1,16 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 24	Pamplona
+T4	ORG 34 37	EFE
+T5	ORG 59 85	Hospital Virgen del Camino
+T6	PER 86 97	Juan Castro
+T7	PER 100 117	José Angel Lozano
+T8	MISC 128 156	Servicio de Cirugía Plástica
+T9	MISC 210 274	XXXV Congreso Nacional de Cirugía Plástica, Reparadora. Estética
+T10	LOC 289 315	Las Palmas de Gran Canaria
+T11	MISC 343 399	Refinamientos en las técnicas de reconstrucción mamarias
+T12	ORG 463 482	Gobierno de Navarra
+T13	ORG 2479 2505	Hospital Virgen del Camino
+T14	ORG 2542 2547	SNS-O
+T15	ORG 2897 2900	EFE
+T16	ORG 2902 2904	JR

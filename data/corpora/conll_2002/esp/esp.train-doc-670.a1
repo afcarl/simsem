@@ -1,0 +1,15 @@
+T1	LOC 0 5	París
+T2	ORG 15 18	EFE
+T3	PER 377 393	Jean Weissenbach
+T4	ORG 415 424	Genoscope
+T5	LOC 428 432	Evry
+T6	ORG 622 639	"Nature Genetics"
+T7	ORG 700 704	TIGR
+T8	ORG 706 738	The Institute of Genome Research
+T9	ORG 817 827	"Le Monde"
+T10	ORG 973 986	"France Soir"
+T11	MISC 1315 1339	"Tetraodon nigroviridis"
+T12	MISC 1506 1509	ADN
+T13	ORG 1614 1627	"France Soir"
+T14	PER 1635 1646	Weissenbach
+T15	MISC 1898 1901	ADN

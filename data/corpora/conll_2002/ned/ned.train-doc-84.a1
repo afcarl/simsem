@@ -1,0 +1,18 @@
+T1	ORG 0 9	De Morgen
+T2	MISC 14 26	Porsche-huis
+T3	MISC 255 262	Service
+T4	ORG 263 270	Porsche
+T5	MISC 298 319	Belgische Volkswagen-
+T6	MISC 323 337	Audi-invoerder
+T7	ORG 338 347	D'Ieteren
+T8	ORG 403 410	Porsche
+T9	LOC 414 420	België
+T10	MISC 524 541	Porsche Selection
+T11	MISC 602 605	GT1
+T12	MISC 633 652	24 uren van Le Mans
+T13	LOC 695 706	Huis Empain
+T14	LOC 743 761	Franklin Roosevelt
+T15	LOC 765 772	Brussel
+T16	MISC 815 832	The Porsche House
+T17	PER 962 973	Alain Devos
+T18	PER 975 977	AD

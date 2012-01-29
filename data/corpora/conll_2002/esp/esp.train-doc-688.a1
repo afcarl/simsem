@@ -1,0 +1,35 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 33	Santiago de Chile
+T4	ORG 43 46	EFE
+T5	PER 51 62	Sofía Prats
+T6	ORG 91 99	Ejército
+T7	PER 108 120	Carlos Prats
+T8	LOC 135 147	Buenos Aires
+T9	PER 207 223	Augusto Pinochet
+T10	PER 311 323	Carlos Prats
+T11	ORG 350 358	Ejército
+T12	PER 361 369	Pinochet
+T13	PER 479 493	Sofía Cuthbert
+T14	LOC 628 637	Argentina
+T15	PER 659 682	María Servini de Cubría
+T16	ORG 730 734	DINA
+T17	PER 843 851	Pinochet
+T18	ORG 921 925	DINA
+T19	PER 926 941	Michael Townley
+T20	PER 961 968	Servini
+T21	PER 1010 1018	Pinochet
+T22	LOC 1057 1062	Chile
+T23	LOC 1386 1391	Chile
+T24	PER 1468 1476	Pinochet
+T25	PER 1514 1525	Sofía Prats
+T26	ORG 1555 1578	Cooperativa de Santiago
+T27	ORG 1669 1675	Estado
+T28	ORG 1693 1701	Ejército
+T29	LOC 1771 1780	Argentina
+T30	PER 1861 1869	Pinochet
+T31	PER 1981 1986	Prats
+T32	LOC 2027 2037	Huechuraba
+T33	PER 2079 2087	Pinochet
+T34	PER 2214 2225	Sofía Prats
+T35	ORG 2258 2266	Ejército

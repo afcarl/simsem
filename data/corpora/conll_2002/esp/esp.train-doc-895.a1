@@ -1,0 +1,32 @@
+T1	ORG 0 13	EFE-Cantabria
+T2	LOC 14 19	Gijón
+T3	LOC 21 27	España
+T4	ORG 38 41	EFE
+T5	PER 68 81	Corín Tellado
+T6	PER 125 144	Miguel de Cervantes
+T7	LOC 354 359	Gijón
+T8	MISC 391 421	Salón del Libro Iberoamericano
+T9	PER 449 463	Luis Sepúlveda
+T10	PER 480 490	Rosa Regás
+T11	LOC 492 498	España
+T12	PER 502 515	Mario Delgado
+T13	LOC 517 524	Uruguay
+T14	LOC 545 567	Principado de Asturias
+T15	PER 569 591	Vicente Alvarez Areces
+T16	LOC 611 616	Gijón
+T17	PER 618 642	Paz Fernández Felgueroso
+T18	PER 672 685	Corín Tellado
+T19	PER 687 696	Sepúlveda
+T20	PER 838 851	Corín Tellado
+T21	PER 952 965	Corín Tellado
+T22	PER 1137 1146	Sepúlveda
+T23	PER 1160 1173	Mario Delgado
+T24	LOC 1248 1258	Suramérica
+T25	PER 1369 1374	Corín
+T26	LOC 1508 1515	Uruguay
+T27	LOC 1525 1532	Delgado
+T28	PER 1534 1539	Regas
+T29	PER 1568 1581	Corín Tellado
+T30	ORG 1769 1779	Principado
+T31	LOC 1795 1799	Cuba
+T32	PER 1825 1838	Corín Tellado

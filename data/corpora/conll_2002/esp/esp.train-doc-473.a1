@@ -1,0 +1,16 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 23	Badajoz
+T4	ORG 33 36	EFE
+T5	ORG 163 194	Escuelas Deportivas Municipales
+T6	LOC 198 205	Badajoz
+T7	LOC 284 297	La Granadilla
+T8	LOC 378 385	Badajoz
+T9	PER 387 401	Miguel Celdrán
+T10	ORG 722 753	Escuelas Deportivas Municipales
+T11	PER 1485 1499	Miguel Celdrán
+T12	ORG 1641 1672	Fundación Municipal de Deportes
+T13	ORG 2106 2115	Cruz Roja
+T14	ORG 2117 2133	Protección Civil
+T15	ORG 2159 2190	Fundación Municipal de Deportes
+T16	ORG 2196 2220	Club Colombófilo Pacense

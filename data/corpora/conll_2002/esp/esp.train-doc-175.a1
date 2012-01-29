@@ -1,0 +1,14 @@
+T1	ORG 0 3	EFE
+T2	LOC 28 35	Londres
+T3	ORG 45 48	EFE
+T4	ORG 90 99	FitchIbca
+T5	ORG 146 163	Banco de Sabadell
+T6	LOC 204 210	España
+T7	ORG 212 221	FitchIbca
+T8	MISC 311 318	Apoyo 4
+T9	ORG 323 337	Banco Sabadell
+T10	ORG 398 423	Banco Comercial Portugués
+T11	ORG 425 428	BCP
+T12	LOC 517 525	Cataluña
+T13	ORG 673 690	Banco de Sabadell
+T14	ORG 1020 1029	FitchIbca

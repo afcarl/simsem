@@ -1,0 +1,36 @@
+T1	LOC 0 8	Valencia
+T2	ORG 18 21	EFE
+T3	ORG 29 39	Levante UD
+T4	ORG 128 135	Córdoba
+T5	ORG 205 215	Compostela
+T6	PER 309 322	Pepe Balaguer
+T7	ORG 339 346	Levante
+T8	PER 483 502	Miguel Angel Lozano
+T9	PER 504 517	Jesús Sánchez
+T10	PER 520 537	Vicente Rodríguez
+T11	LOC 584 594	San Lázaro
+T12	PER 613 625	Miguel Angel
+T13	PER 686 696	Luis López
+T14	LOC 718 728	Compostela
+T15	ORG 775 782	Córdoba
+T16	PER 809 814	Jesús
+T17	PER 889 909	José Miguel Figueira
+T18	PER 912 918	Miguel
+T19	PER 980 987	Vicente
+T20	PER 1147 1167	José Francisco Ruano
+T21	PER 1170 1177	Francis
+T22	PER 1213 1227	Fernando Sales
+T23	PER 1230 1245	Israel González
+T24	PER 1328 1340	Albert Tomás
+T25	PER 1410 1422	Diego Torres
+T26	LOC 1447 1457	Compostela
+T27	PER 1498 1504	Juanra
+T28	LOC 1528 1538	San Lázaro
+T29	PER 1644 1660	Juvencio Correia
+T30	PER 1663 1667	Juba
+T31	ORG 1683 1690	Córdoba
+T32	ORG 1756 1763	Osasuna
+T33	PER 1765 1777	Diego Torres
+T34	PER 1791 1796	Tomás
+T35	PER 1820 1828	Balaguer
+T36	ORG 1862 1869	Córdoba

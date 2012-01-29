@@ -1,0 +1,40 @@
+T1	ORG 0 3	EFE
+T2	LOC 20 26	Madrid
+T3	ORG 36 39	EFE
+T4	ORG 53 67	Finarte España
+T5	MISC 95 116	"Goya frente al muro"
+T6	PER 173 185	Teresa Grasa
+T7	PER 188 202	Carlos Barboza
+T8	LOC 592 596	Goya
+T9	LOC 612 629	Pilar de Zaragoza
+T10	LOC 637 653	Cartuja Aula Dei
+T11	LOC 658 674	San Juan el Real
+T12	LOC 678 687	Calatayud
+T13	LOC 718 727	Remolinos
+T14	PER 743 755	Teresa Grasa
+T15	PER 758 772	Carlos Barboza
+T16	ORG 799 832	Escuela de Bellas Artes de Madrid
+T17	ORG 841 874	Instituto de Restauración de Roma
+T18	ORG 922 965	Instituto Central de Restauración de Madrid
+T19	PER 967 982	Gonzalo Perales
+T20	LOC 1030 1034	Goya
+T21	LOC 1041 1048	Cartuja
+T22	LOC 1063 1071	Aula Dei
+T23	MISC 1190 1215	"La Virgen. Santa Isabel"
+T24	LOC 1350 1357	Cartuja
+T25	MISC 1373 1387	Licencia Papal
+T26	PER 1389 1401	Teresa Grasa
+T27	PER 1429 1443	Infanta Isabel
+T28	MISC 1521 1542	"Goya frente al muro"
+T29	PER 1765 1779	Carlos Barboza
+T30	PER 1848 1852	Goya
+T31	MISC 1978 1991	"San Agustín"
+T32	LOC 1996 2012	San Juan el Real
+T33	PER 2037 2054	Francisco de Goya
+T34	PER 2333 2347	Carlos Barboza
+T35	LOC 2365 2393	Coreto del Pilar de Zaragoza
+T36	PER 2430 2434	Goya
+T37	MISC 2637 2658	"Goya frente al muro"
+T38	LOC 2695 2717	cúpula Regina Martyrum
+T39	MISC 2756 2771	"Santos Padres"
+T40	LOC 2775 2784	Remolinos

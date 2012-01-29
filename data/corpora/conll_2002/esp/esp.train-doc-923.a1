@@ -1,0 +1,17 @@
+T1	LOC 0 7	Melilla
+T2	ORG 17 20	EFE
+T3	LOC 25 32	Melilla
+T4	LOC 53 59	España
+T5	LOC 353 359	Málaga
+T6	LOC 361 368	Almería
+T7	LOC 370 375	Ceuta
+T8	LOC 378 385	Melilla
+T9	PER 387 406	Miguel Angel Frutos
+T10	PER 497 503	Frutos
+T11	MISC 604 621	Hospital Comarcal
+T12	LOC 625 632	Melilla
+T13	LOC 646 652	España
+T14	MISC 793 813	Hospital Carlos Haya
+T15	LOC 817 823	Málaga
+T16	LOC 1127 1133	España
+T17	LOC 1191 1198	Melilla

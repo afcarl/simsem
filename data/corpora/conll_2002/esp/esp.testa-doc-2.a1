@@ -1,0 +1,81 @@
+T1	LOC 0 9	Sao Paulo
+T2	LOC 11 17	Brasil
+T3	ORG 28 34	EFECOM
+T4	ORG 65 75	Telefónica
+T5	LOC 184 193	Sao Paulo
+T6	ORG 238 244	Telesp
+T7	ORG 289 309	Telefónica do Brasil
+T8	PER 311 335	Fernando Xavier Ferreira
+T9	ORG 377 387	Telefónica
+T10	LOC 391 400	Sao Paulo
+T11	PER 423 431	Ferreira
+T12	ORG 530 568	Agencia Nacional de Telecomunicaciones
+T13	ORG 570 576	ANATEL
+T14	ORG 642 652	Telefónica
+T15	LOC 678 684	Brasil
+T16	LOC 704 713	Sao Paulo
+T17	MISC 756 764	Telebras
+T18	PER 809 817	Ferreira
+T19	ORG 894 904	Telefónica
+T20	ORG 963 987	Telefónica Internacional
+T21	PER 989 1011	Antonio Viana Baptista
+T22	MISC 1029 1053	Comunicaciones de Brasil
+T23	PER 1055 1077	Joao Pimienta da Veiga
+T24	ORG 1100 1106	ANATEL
+T25	PER 1108 1132	Renato Navarro Guerreiro
+T26	MISC 1153 1196	Ciencia. Tecnología del Estado de Sao Paulo
+T27	PER 1198 1225	José Aníbal Peres de Pontes
+T28	ORG 1342 1352	Telefónica
+T29	LOC 1369 1378	Sao Paulo
+T30	LOC 1479 1493	América Latina
+T31	ORG 1588 1598	Telefónica
+T32	LOC 1626 1635	Sao Paulo
+T33	ORG 1881 1891	Telefónica
+T34	LOC 1896 1905	Sao Paulo
+T35	ORG 1999 2002	EFE
+T36	PER 2003 2017	Viana Baptista
+T37	LOC 2135 2144	Sao Paulo
+T38	ORG 2272 2282	Telefónica
+T39	ORG 2309 2333	Telefónica Internacional
+T40	ORG 2441 2447	ANATEL
+T41	LOC 2611 2617	Brasil
+T42	ORG 2619 2629	Telefónica
+T43	LOC 2668 2674	Brasil
+T44	ORG 2693 2699	Telesp
+T45	LOC 2704 2713	Sao Paulo
+T46	ORG 2747 2767	Tele Sudeste Celular
+T47	LOC 2816 2830	Río de Janeiro
+T48	LOC 2833 2847	Espíritu Santo
+T49	ORG 2857 2900	Compañía Riograndense de Telecomunicaciones
+T50	ORG 2902 2905	CRT
+T51	LOC 2911 2928	Río Grande do Sul
+T52	ORG 2955 2969	Brasil Telecom
+T53	ORG 3040 3058	Tele Leste Celular
+T54	LOC 3094 3099	Bahía
+T55	LOC 3102 3109	Sergipe
+T56	ORG 3146 3155	Iberdrola
+T57	ORG 3178 3194	Portugal Telecom
+T58	ORG 3198 3212	Telesp Celular
+T59	LOC 3236 3245	Sao Paulo
+T60	LOC 3424 3430	Brasil
+T61	PER 3490 3504	Viana Baptista
+T62	MISC 3569 3595	Oferta Pública de Acciones
+T63	MISC 3597 3600	OPA
+T64	ORG 3617 3623	Telesp
+T65	ORG 3629 3649	Tele Sudeste Celular
+T66	LOC 3695 3704	Argentina
+T67	LOC 3707 3711	Perú
+T68	PER 3719 3733	Viana Baptista
+T69	ORG 3735 3745	Telefónica
+T70	LOC 3802 3811	Argentina
+T71	LOC 3813 3817	Perú
+T72	LOC 3836 3846	Nueva York
+T73	ORG 3909 3937	American Depositary Receipts
+T74	ORG 3939 3944	ADR's
+T75	ORG 4098 4129	Comisión de Valores Mobiliarios
+T76	ORG 4131 4134	CVM
+T77	MISC 4185 4189	OPAS
+T78	LOC 4213 4222	Argentina
+T79	LOC 4224 4230	Brasil
+T80	LOC 4232 4236	Perú
+T81	LOC 4239 4253	Estados Unidos

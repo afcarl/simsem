@@ -1,0 +1,36 @@
+T1	PER 30 39	Holbrooke
+T2	LOC 78 94	Verenigde Staten
+T3	ORG 120 135	Veiligheidsraad
+T4	PER 222 228	Sankoh
+T5	MISC 239 253	Sierra Leonese
+T6	MISC 370 377	Engelse
+T7	MISC 444 455	Amerikaanse
+T8	MISC 456 470	VN-ambassadeur
+T9	PER 471 480	Holbrooke
+T10	ORG 513 522	De Morgen
+T11	PER 523 535	Foday Sankoh
+T12	ORG 555 583	Revolutionair Verenigd Front
+T13	LOC 587 599	Sierra Leone
+T14	MISC 625 639	Joegoslavische
+T15	PER 650 668	Slobodan Milosevic
+T16	LOC 886 895	Jeruzalem
+T17	PER 925 932	Clinton
+T18	PER 939 945	Arafat
+T19	PER 977 982	Barak
+T20	PER 1069 1080	Josef Joffe
+T21	ORG 1095 1103	Die Zeit
+T22	ORG 1108 1116	Die Zeit
+T23	PER 1197 1206	Milosevic
+T24	LOC 1211 1223	Sierra Leone
+T25	MISC 1263 1277	Joegoslavische
+T26	PER 1394 1411	Richard Holbrooke
+T27	ORG 1423 1438	Veiligheidsraad
+T28	LOC 1469 1475	Afrika
+T29	MISC 1561 1571	Afrikaanse
+T30	PER 1588 1594	Sankoh
+T31	PER 1614 1623	Milosevic
+T32	PER 1846 1852	Arafat
+T33	PER 1940 1945	Mozes
+T34	MISC 2021 2027	Opinie
+T35	PER 2049 2060	Kees Broere
+T36	ORG 2064 2077	de Volkskrant

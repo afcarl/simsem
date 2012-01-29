@@ -1,0 +1,36 @@
+T1	LOC 0 29	Villafranca de los Caballeros
+T2	LOC 31 37	Toledo
+T3	ORG 48 51	EFE
+T4	LOC 70 99	Villafranca de los Caballeros
+T5	PER 101 123	Jesús Alberca González
+T6	LOC 208 226	Castilla-La Mancha
+T7	PER 228 237	José Bono
+T8	MISC 313 323	Secundaria
+T9	ORG 344 347	EFE
+T10	PER 349 356	Alberca
+T11	MISC 475 495	Educación Secundaria
+T12	MISC 498 510	Bachillerato
+T13	LOC 514 543	Villafranca de los Caballeros
+T14	LOC 593 603	Madridejos
+T15	LOC 605 611	Toledo
+T16	LOC 614 633	Alcázar de San Juan
+T17	LOC 635 646	Ciudad Real
+T18	LOC 650 658	Herencia
+T19	LOC 660 671	Ciudad Real
+T20	PER 699 712	Jesús Alberca
+T21	ORG 902 925	Ministerio de Educación
+T22	ORG 1020 1040	Junta de Comunidades
+T23	LOC 1058 1087	Villafranca de los Caballeros
+T24	ORG 1110 1112	PP
+T25	ORG 1185 1189	PSOE
+T26	LOC 1193 1199	Madrid
+T27	PER 1278 1287	José Bono
+T28	LOC 1301 1312	Villafranca
+T29	PER 1315 1322	Alberca
+T30	ORG 1361 1366	Junta
+T31	ORG 1473 1485	Ayuntamiento
+T32	LOC 1576 1597	Palacio de Fuensalida
+T33	MISC 1611 1622	Presidencia
+T34	ORG 1649 1672	Delegación de Educación
+T35	ORG 1731 1743	Ayuntamiento
+T36	ORG 1757 1780	Ministerio de Educación

@@ -1,0 +1,32 @@
+T1	LOC 0 9	Barcelona
+T2	ORG 19 22	EFE
+T3	ORG 45 58	Grupo Popular
+T4	ORG 65 90	Ayuntamiento de Barcelona
+T5	PER 92 106	Santiago Fisas
+T6	MISC 164 172	Hacienda
+T7	PER 174 189	Ernest Maragall
+T8	PER 292 300	Maragall
+T9	ORG 338 344	Estado
+T10	LOC 383 392	Barcelona
+T11	LOC 398 406	Cataluña
+T12	LOC 508 514	Madrid
+T13	LOC 529 535	España
+T14	PER 537 542	Fisas
+T15	ORG 690 696	Estado
+T16	ORG 733 751	Comunidad Autónoma
+T17	LOC 773 779	Madrid
+T18	ORG 867 890	Generalitat de Cataluña
+T19	PER 900 905	Fisas
+T20	LOC 923 932	Barcelona
+T21	ORG 987 993	Estado
+T22	PER 1097 1111	Santiago Fisas
+T23	ORG 1198 1204	Estado
+T24	ORG 1298 1300	PP
+T25	LOC 1347 1355	Cataluña
+T26	LOC 1359 1368	Barcelona
+T27	ORG 1442 1454	Ayuntamiento
+T28	ORG 1468 1486	Convergencia. Unió
+T29	LOC 1539 1547	Cataluña
+T30	ORG 1558 1566	Gobierno
+T31	ORG 1588 1592	PSOE
+T32	ORG 1610 1613	CiU

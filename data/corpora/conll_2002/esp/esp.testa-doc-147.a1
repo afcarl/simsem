@@ -1,0 +1,31 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	PER 27 32	Reina
+T4	LOC 52 70	Auditorio Nacional
+T5	PER 95 108	Alfredo Kraus
+T6	PER 144 161	Milagros Poblador
+T7	PER 172 187	Aquiles Machado
+T8	PER 207 219	Simón Orfila
+T9	ORG 326 364	Escuela Superior de Música Reina Sofía
+T10	PER 440 453	Alfredo Kraus
+T11	PER 529 537	Poblador
+T12	PER 539 546	Machado
+T13	PER 549 555	Orfila
+T14	ORG 576 602	Orquesta Sinfónica de RTVE
+T15	PER 617 639	Enrique García Asensio
+T16	PER 679 684	Verdi
+T17	PER 686 694	Massenet
+T18	PER 696 706	Donizzetti
+T19	PER 708 715	Rossini
+T20	PER 717 727	Ponchielli
+T21	PER 730 739	Offenbach
+T22	PER 755 765	Doña Sofía
+T23	PER 825 840	Duques de Soria
+T24	PER 845 868	Princesa Ana de Francia
+T25	ORG 889 908	Escuela Reina Sofía
+T26	PER 910 923	Paloma O'Shea
+T27	PER 936 951	Teresa Berganza
+T28	PER 962 981	Rosa. Alfredo Kraus
+T29	PER 1057 1062	Reina
+T30	LOC 1199 1205	Verona
+T31	LOC 1207 1213	Italia

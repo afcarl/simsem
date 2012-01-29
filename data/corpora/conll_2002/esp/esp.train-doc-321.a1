@@ -1,0 +1,21 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	PER 37 50	Laura Freixas
+T4	MISC 310 329	Literatura. mujeres
+T5	PER 332 339	Freixas
+T6	LOC 341 350	Barcelona
+T7	MISC 385 404	Literatura. mujeres
+T8	ORG 419 426	Destino
+T9	PER 1166 1173	Freixas
+T10	MISC 1310 1324	Premio Planeta
+T11	PER 1499 1506	Freixas
+T12	MISC 1910 1933	El asesino en la muñeca
+T13	MISC 1938 1963	Ultimo domingo en Londres
+T14	PER 2244 2251	Juvenal
+T15	PER 2268 2278	André Gide
+T16	PER 2280 2287	Moliere
+T17	MISC 2293 2311	Las mujeres sabias
+T18	MISC 2335 2352	Las hembrilatinas
+T19	PER 2357 2364	Quevedo
+T20	PER 2457 2464	Freixas
+T21	ORG 2641 2654	Real Academia

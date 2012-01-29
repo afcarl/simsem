@@ -1,0 +1,54 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	ORG 37 45	Congreso
+T4	ORG 120 130	Socialista
+T5	ORG 135 150	Izquierda Unida
+T6	ORG 157 183	Bloque Nacionalista Galego
+T7	ORG 220 250	Empresa Nacional Santa Bárbara
+T8	ORG 336 349	Grupo Popular
+T9	PER 350 364	Manuel Atencia
+T10	ORG 451 467	General Dynamics
+T11	ORG 611 631	Consejo de Ministros
+T12	PER 661 677	Celestino Suárez
+T13	ORG 783 791	Gobierno
+T14	ORG 834 864	Empresa Nacional Santa Bárbara
+T15	MISC 878 933	Acompañamiento de los Presupuestos Generales del Estado
+T16	ORG 981 996	Izquierda Unida
+T17	PER 997 1014	Gaspar Llamazares
+T18	ORG 1222 1232	Socialista
+T19	LOC 1234 1247	Santa Bárbara
+T20	ORG 1337 1345	Ejército
+T21	PER 1418 1424	Suárez
+T22	ORG 1556 1572	General Dynamics
+T23	MISC 1654 1661	Leopard
+T24	MISC 1664 1671	Pizarro
+T25	ORG 1693 1708	Izquierda Unida
+T26	MISC 1796 1815	diputado Socialista
+T27	ORG 1880 1901	Comunidades Autónomas
+T28	PER 1904 1914	Llamazares
+T29	ORG 1949 1959	Parlamento
+T30	ORG 2118 2166	Sociedad Estatal de Participaciones Industriales
+T31	ORG 2168 2172	SEPI
+T32	ORG 2184 2193	Ejecutivo
+T33	ORG 2232 2247	Izquierda Unida
+T34	LOC 2573 2586	Santa Bárbara
+T35	ORG 2604 2612	Gobierno
+T36	ORG 2643 2655	Kraus Maffei
+T37	MISC 2786 2793	Leopard
+T38	ORG 2990 2992	PP
+T39	PER 2993 3007	Manuel Atencia
+T40	LOC 3049 3062	Santa Bárbara
+T41	LOC 3127 3133	España
+T42	LOC 3153 3160	Colonia
+T43	LOC 3163 3171	Helsinki
+T44	PER 3263 3270	Atencia
+T45	ORG 3404 3408	OTAN
+T46	MISC 3426 3428	PP
+T47	LOC 3599 3612	Santa Bárbara
+T48	PER 3667 3674	Atencia
+T49	ORG 3889 3891	PP
+T50	ORG 3927 3938	grupo Mixto
+T51	PER 3940 3955	Carlos Aymerich
+T52	ORG 3961 3964	BNG
+T53	LOC 4036 4045	La Coruña
+T54	ORG 4087 4108	Ministerio de Defensa

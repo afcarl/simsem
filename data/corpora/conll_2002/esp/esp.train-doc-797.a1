@@ -1,0 +1,46 @@
+T1	LOC 0 14	Río de Janeiro
+T2	ORG 24 27	EFE
+T3	ORG 52 94	Asociación de Comités Nacionales Olímpicos
+T4	ORG 96 100	ACNO
+T5	PER 103 121	Mario Vázquez Raña
+T6	LOC 138 152	Río de Janeiro
+T7	MISC 200 220	Juegos Panamericanos
+T8	PER 231 243	Vázquez Raña
+T9	ORG 439 443	ACNO
+T10	ORG 449 478	Comité Olímpico Internacional
+T11	ORG 480 483	COI
+T12	ORG 489 514	Comité Olímpico Brasileño
+T13	ORG 516 519	COB
+T14	PER 534 554	Carlos Arturo Nuzman
+T15	LOC 589 603	Río de Janeiro
+T16	MISC 642 662	XII Asamblea General
+T17	ORG 669 673	ACNO
+T18	ORG 708 711	COI
+T19	LOC 728 742	Río de Janeiro
+T20	MISC 762 782	Juegos Panamericanos
+T21	MISC 798 814	Juegos Olímpicos
+T22	LOC 838 852	Río de Janeiro
+T23	MISC 876 892	Juegos Olímpicos
+T24	ORG 971 974	COI
+T25	LOC 1023 1029	Atenas
+T26	LOC 1053 1067	Río de Janeiro
+T27	MISC 1088 1094	Juegos
+T28	PER 1178 1190	Vázquez Raña
+T29	ORG 1209 1212	EFE
+T30	PER 1265 1277	Vázquez Raña
+T31	ORG 1358 1369	San Antonio
+T32	LOC 1371 1375	EEUU
+T33	ORG 1379 1390	Guadalajara
+T34	LOC 1392 1398	México
+T35	ORG 1476 1490	Río de Janeiro
+T36	LOC 1521 1529	Colombia
+T37	ORG 1657 1661	ACNO
+T38	ORG 1713 1727	Río de Janeiro
+T39	ORG 1854 1879	Comité Olímpico Brasileño
+T40	ORG 1934 1948	Río de Janeiro
+T41	MISC 1951 1971	Juegos Panamericanos
+T42	MISC 1974 1990	Juegos Olímpicos
+T43	ORG 2094 2098	ACNO
+T44	LOC 2119 2133	Río de Janeiro
+T45	PER 2255 2275	Carlos Arturo Nuzman
+T46	ORG 2403 2439	Federación Internacional de Natación

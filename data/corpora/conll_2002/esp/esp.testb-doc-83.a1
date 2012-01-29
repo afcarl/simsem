@@ -1,0 +1,27 @@
+T1	LOC 0 13	San Sebastián
+T2	ORG 23 26	EFE
+T3	LOC 111 124	San Sebastián
+T4	ORG 179 192	Unión Europea
+T5	PER 294 309	José Mari Muñoa
+T6	LOC 423 432	Guipúzcoa
+T7	PER 434 446	Román Sudupe
+T8	PER 481 500	Juan José Ibarretxe
+T9	LOC 527 534	Flandes
+T10	ORG 562 592	Asamblea de Regiones de Europa
+T11	PER 594 612	Luc Van den Brande
+T12	ORG 633 673	Estado para la Regionalización de Italia
+T13	PER 675 688	Vannino Chiti
+T14	ORG 756 770	Gobierno Vasco
+T15	PER 772 777	Muñoa
+T16	MISC 801 897	"Congreso Europeo sobre la Problemática. Perspectivas de la Cooperación Interregional en Europa"
+T17	LOC 1167 1173	Europa
+T18	LOC 1339 1347	Portugal
+T19	LOC 1350 1357	Francia
+T20	ORG 1474 1476	UE
+T21	LOC 1512 1518	Europa
+T22	LOC 1729 1736	Euskadi
+T23	PER 1739 1744	Muñoa
+T24	LOC 1755 1761	Europa
+T25	ORG 1968 1974	Europa
+T26	ORG 2138 2151	Estado Nación
+T27	ORG 2168 2181	Unión Europea

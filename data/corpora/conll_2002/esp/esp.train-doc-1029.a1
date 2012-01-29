@@ -1,0 +1,51 @@
+T1	ORG 0 3	EFE
+T2	LOC 9 15	Oviedo
+T3	LOC 17 23	España
+T4	ORG 34 37	EFE
+T5	PER 54 73	Carlo María Martini
+T6	LOC 88 93	Milán
+T7	PER 125 141	Edward Malefakis
+T8	PER 164 178	Alain Touraine
+T9	MISC 203 217	Juergen Donges
+T10	MISC 247 300	Premio Príncipe de Asturias de Ciencias Sociales 2000
+T11	LOC 335 341	Oviedo
+T12	ORG 363 393	Fundación Príncipe de Asturias
+T13	PER 485 499	Ernst Gombrich
+T14	PER 546 561	Anthony Giddens
+T15	PER 641 648	Martini
+T16	MISC 842 849	Premios
+T17	MISC 864 889	Comunicación. Humanidades
+T18	PER 925 936	Umberto Eco
+T19	MISC 964 997	Investigación Científica. Técnica
+T20	MISC 1032 1036	SIDA
+T21	PER 1038 1052	Luc Montagnier
+T22	LOC 1054 1061	Francia
+T23	PER 1065 1077	Robert Gallo
+T24	LOC 1079 1083	EEUU
+T25	PER 1195 1210	Tim Berners-Lee
+T26	MISC 1233 1249	"world wide web"
+T27	MISC 1266 1274	Internet
+T28	PER 1334 1349	Geoffrey Parker
+T29	PER 1380 1400	Miguel León-Portilla
+T30	ORG 1443 1452	Ejecutivo
+T31	PER 1462 1474	Manuel Fraga
+T32	ORG 1530 1547	Consejo de Estado
+T33	PER 1549 1561	Iñigo Cavero
+T34	MISC 1580 1600	Historia del Derecho
+T35	PER 1601 1624	Valentina Gómez Mampaso
+T36	PER 1643 1659	Aurelio Menéndez
+T37	PER 1661 1684	José Manuel Otero Novas
+T38	PER 1687 1706	Luis González Seara
+T39	ORG 1726 1747	Banco Central Europeo
+T40	PER 1748 1770	Eugenio Domingo Solans
+T41	ORG 1923 1953	Fundación Príncipe de Asturias
+T42	PER 2183 2195	Manuel Fraga
+T43	MISC 2386 2392	Letras
+T44	MISC 2394 2399	Artes
+T45	MISC 2401 2426	Cooperación Internacional
+T46	MISC 2428 2437	Concordia
+T47	MISC 2440 2448	Deportes
+T48	PER 2593 2602	Joan Miró
+T49	LOC 2671 2677	Oviedo
+T50	LOC 2713 2721	Asturias
+T51	PER 2723 2739	Felipe de Borbón

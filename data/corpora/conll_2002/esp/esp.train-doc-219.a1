@@ -1,0 +1,19 @@
+T1	ORG 0 3	EFE
+T2	LOC 12 18	Berlín
+T3	ORG 28 31	EFE
+T4	LOC 57 66	Karlsruhe
+T5	LOC 77 85	Alemania
+T6	MISC 120 134	Corpus Christi
+T7	MISC 140 172	Premio Pulitzer Terrence McNally
+T8	PER 180 190	Jesucristo
+T9	LOC 655 664	Karlsruhe
+T10	LOC 727 736	Heilbronn
+T11	LOC 818 827	Karlsruhe
+T12	LOC 928 931	Ulm
+T13	LOC 933 942	Pforzheim
+T14	LOC 944 952	Tubingia
+T15	LOC 955 963	Friburgo
+T16	PER 1038 1045	McNally
+T17	ORG 1115 1133	Organización Hamas
+T18	LOC 1279 1289	Nueva York
+T19	LOC 1292 1299	Londres

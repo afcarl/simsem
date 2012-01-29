@@ -1,0 +1,17 @@
+T1	ORG 0 3	EFE
+T2	LOC 18 24	Madrid
+T3	ORG 34 37	EFE
+T4	ORG 80 110	Conferencia Episcopal Española
+T5	PER 112 128	Juan José Asenjo
+T6	ORG 189 196	Iglesia
+T7	LOC 242 252	Montserrat
+T8	PER 254 271	Cassiá Maria Just
+T9	ORG 323 330	Iglesia
+T10	PER 362 379	Cassiá Maria Just
+T11	ORG 433 440	Iglesia
+T12	ORG 725 732	Iglesia
+T13	PER 860 866	Asenjo
+T14	LOC 957 978	Conferencia Episcopal
+T15	MISC 1015 1040	Nomenclator de la Iglesia
+T16	LOC 1090 1094	Roma
+T17	ORG 1147 1177	Conferencia Episcopal Española

@@ -1,0 +1,17 @@
+T1	ORG 0 3	EFE
+T2	LOC 28 35	Melilla
+T3	ORG 45 48	EFE
+T4	MISC 64 84	"La vivienda rifeña"
+T5	ORG 115 123	Ejército
+T6	PER 132 154	Emilio Blanco de Izaga
+T7	MISC 185 213	Protectorado sobre Marruecos
+T8	LOC 257 264	Melilla
+T9	MISC 372 390	Biblioteca Bereber
+T10	LOC 469 484	Norte de Africa
+T11	PER 513 525	Vicente Moga
+T12	PER 627 642	Blanco de Izaga
+T13	MISC 802 822	"La vivienda rifeña"
+T14	PER 1008 1022	Agustín Blanco
+T15	ORG 1034 1037	Efe
+T16	PER 1906 1912	Orduña
+T17	LOC 1914 1921	Vizcaya

@@ -1,0 +1,45 @@
+T1	LOC 0 5	Gijón
+T2	ORG 15 18	EFE
+T3	PER 36 49	Corín Tellado
+T4	PER 93 112	Miguel de Cervantes
+T5	LOC 303 308	Gijón
+T6	MISC 360 390	Salón del Libro Iberoamericano
+T7	PER 407 421	Luis Sepúlveda
+T8	PER 438 448	Rosa Regás
+T9	LOC 450 456	España
+T10	PER 460 473	Mario Delgado
+T11	LOC 475 482	Uruguay
+T12	ORG 503 525	Principado de Asturias
+T13	PER 527 549	Vicente Alvarez Areces
+T14	LOC 569 574	Gijón
+T15	PER 576 600	Paz Fernández Felgueroso
+T16	PER 630 643	Corín Tellado
+T17	PER 645 654	Sepúlveda
+T18	PER 824 837	Corín Tellado
+T19	MISC 954 984	Salón del libro Iberoamericano
+T20	PER 994 1007	Corín Tellado
+T21	PER 1209 1222	Mario Delgado
+T22	PER 1418 1423	Corín
+T23	LOC 1557 1564	Uruguay
+T24	PER 1574 1581	Delgado
+T25	PER 1583 1593	Rosa Regas
+T26	PER 1622 1635	Corín Tellado
+T27	PER 1805 1810	Regas
+T28	PER 1831 1836	Corín
+T29	LOC 1988 1994	España
+T30	ORG 2058 2068	Principado
+T31	LOC 2172 2177	Gijón
+T32	PER 2215 2229	Alvarez Areces
+T33	LOC 2245 2249	Cuba
+T34	PER 2275 2288	Corín Tellado
+T35	LOC 2434 2439	Gijón
+T36	PER 2579 2592	Corín Tellado
+T37	PER 2594 2618	Paz Fernandez Felgueroso
+T38	PER 2631 2644	Corín Tellado
+T39	MISC 2679 2686	Charles
+T40	MISC 2689 2693	John
+T41	LOC 2743 2749	España
+T42	LOC 3005 3011	España
+T43	LOC 3041 3053	Iberoamerica
+T44	PER 3161 3174	Corín Tellado
+T45	LOC 3268 3276	Viavelez

@@ -1,0 +1,31 @@
+T1	LOC 0 5	Ecija
+T2	LOC 7 14	Sevilla
+T3	ORG 25 28	EFE
+T4	ORG 61 74	Policía Local
+T5	PER 128 146	José Pérez Cequera
+T6	PER 162 177	Andrés Hiniesta
+T7	LOC 229 234	Ecija
+T8	LOC 236 243	Sevilla
+T9	LOC 385 390	Ecija
+T10	ORG 431 439	Gobierno
+T11	LOC 443 450	Sevilla
+T12	PER 452 463	Rocío Roche
+T13	LOC 479 484	Ecija
+T14	PER 486 500	Julián Alvarez
+T15	ORG 502 504	PA
+T16	PER 659 677	José Pérez Cequera
+T17	LOC 689 694	Ecija
+T18	LOC 712 718	Madrid
+T19	LOC 759 765	España
+T20	PER 806 821	Andrés Hiniesta
+T21	PER 905 926	Jesús Sánchez Alvarez
+T22	LOC 1121 1157	Hospital Virgen del Rocío de Sevilla
+T23	PER 1213 1241	José Manuel Oterino Martínez
+T24	PER 1308 1330	Carmelo Martín Tamarit
+T25	PER 1345 1362	José María Albert
+T26	PER 1383 1406	Rosario Rodríguez Pérez
+T27	ORG 1491 1499	Gobierno
+T28	LOC 1772 1777	Ecija
+T29	ORG 1811 1823	Ayuntamiento
+T30	ORG 2092 2104	Ayuntamiento
+T31	PER 2182 2210	Víctor Manuel Escudero Rubio

@@ -1,0 +1,16 @@
+T1	LOC 0 4	Urda
+T2	LOC 6 12	Toledo
+T3	ORG 23 26	EFE
+T4	MISC 106 122	Guerrero Malagón
+T5	LOC 164 168	Urda
+T6	LOC 170 176	Toledo
+T7	ORG 198 201	EFE
+T8	ORG 214 234	colegio Santo Cristo
+T9	LOC 304 310	Toledo
+T10	LOC 313 324	Ciudad Real
+T11	LOC 412 431	plaza de la Iglesia
+T12	MISC 543 551	Primaria
+T13	MISC 569 579	Secundaria
+T14	PER 860 885	Mariano Guerrero Corrales
+T15	PER 918 934	Guerrero Malagón
+T16	PER 1030 1058	Alfonso Sánchez de los Silos

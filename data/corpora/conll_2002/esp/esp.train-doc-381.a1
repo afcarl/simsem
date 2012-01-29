@@ -1,0 +1,30 @@
+T1	LOC 0 7	La Toja
+T2	LOC 9 19	Pontevedra
+T3	ORG 30 33	EFE
+T4	ORG 58 86	Federación Gallega de Fútbol
+T5	PER 88 99	Julio Meana
+T6	ORG 111 114	EFE
+T7	PER 141 161	José Antonio Camacho
+T8	MISC 216 229	Eurocopa-2000
+T9	LOC 233 240	La Toja
+T10	PER 277 282	Meana
+T11	LOC 292 296	Vigo
+T12	LOC 380 387	La Toja
+T13	LOC 417 427	Gran Hotel
+T14	ORG 449 452	FGF
+T15	PER 463 470	Camacho
+T16	LOC 565 572	La Toja
+T17	LOC 705 720	campo de Baltar
+T18	LOC 741 750	Portonovo
+T19	PER 752 763	Julio Meana
+T20	PER 914 921	Camacho
+T21	ORG 1025 1036	Real Madrid
+T22	ORG 1038 1046	Valencia
+T23	ORG 1048 1056	Espanyol
+T24	ORG 1059 1077	Atlético de Madrid
+T25	MISC 1109 1126	Liga de Campeones
+T26	MISC 1135 1147	Copa del Rey
+T27	PER 1151 1158	Camacho
+T28	LOC 1201 1208	La Toja
+T29	PER 1237 1245	Jonathan
+T30	LOC 1312 1319	La Toja

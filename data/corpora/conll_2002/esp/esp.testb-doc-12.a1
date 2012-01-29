@@ -1,0 +1,24 @@
+T1	ORG 0 3	EFE
+T2	LOC 28 38	Montevideo
+T3	ORG 48 51	EFE
+T4	PER 77 95	Joan Manuel Serrat
+T5	LOC 111 118	Uruguay
+T6	LOC 177 186	Argentina
+T7	MISC 226 241	"Tarrés Serrat"
+T8	ORG 503 518	"El Observador"
+T9	LOC 522 532	Montevideo
+T10	PER 702 708	Serrat
+T11	LOC 769 779	Montevideo
+T12	MISC 818 839	"Llamada de Carnaval"
+T13	PER 843 857	Pedro Ferreira
+T14	PER 904 923	Fernando"Lobo"Núñez
+T15	PER 938 950	Daniel Lasca
+T16	PER 962 976	Hugo Fattoruso
+T17	PER 991 997	Serrat
+T18	MISC 1038 1053	"Tarrés Serrat"
+T19	LOC 1084 1096	Buenos Aires
+T20	MISC 1117 1137	"El último organito"
+T21	PER 1142 1149	Mederos
+T22	PER 1152 1162	Suárez Paz
+T23	LOC 1211 1221	Montevideo
+T24	LOC 1227 1239	Buenos Aires

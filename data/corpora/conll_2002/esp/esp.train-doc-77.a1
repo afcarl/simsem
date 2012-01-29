@@ -1,0 +1,42 @@
+T1	LOC 0 5	París
+T2	ORG 15 18	EFE
+T3	LOC 67 73	España
+T4	LOC 76 83	Francia
+T5	MISC 114 131	Liga de Campeones
+T6	ORG 141 152	Real Madrid
+T7	ORG 158 166	Valencia
+T8	LOC 192 210	Estadio de Francia
+T9	LOC 248 253	París
+T10	PER 317 336	Fidel López Alvarez
+T11	LOC 383 388	París
+T12	LOC 528 534	España
+T13	LOC 538 543	París
+T14	PER 707 723	Felipe de Borbón
+T15	MISC 740 767	Educación, Cultura. Deporte
+T16	PER 769 787	Pilar del Castillo
+T17	ORG 809 831	Estado para el Deporte
+T18	PER 833 858	Juan Antonio Gómez-Angulo
+T19	ORG 888 907	Comunidad de Madrid
+T20	PER 909 931	Alberto Ruiz Gallardon
+T21	ORG 943 963	Comunidad Valenciana
+T22	PER 965 980	Eduardo Zaplana
+T23	LOC 997 1003	Madrid
+T24	PER 1005 1035	José María Alvarez del Manzano
+T25	LOC 1055 1063	Valencia
+T26	PER 1065 1077	Rita Barberá
+T27	LOC 1119 1137	Estadio de Francia
+T28	PER 1145 1158	López Alvarez
+T29	LOC 1233 1260	Charles de Gaulle de Roissy
+T30	MISC 1433 1437	CDG1
+T31	MISC 1440 1442	T9
+T32	LOC 1515 1533	Estadio de Francia
+T33	ORG 1566 1569	EFE
+T34	ORG 1586 1589	ADP
+T35	LOC 1931 1936	París
+T36	LOC 2550 2561	Saint Denis
+T37	ORG 2603 2606	CGT
+T38	ORG 2608 2645	Confederación General de Trabajadores
+T39	MISC 2707 2710	RER
+T40	ORG 2805 2808	EFE
+T41	ORG 2827 2831	RATP
+T42	MISC 2894 2897	RER

@@ -1,0 +1,35 @@
+T1	ORG 0 3	EFE
+T2	LOC 11 20	La Coruña
+T3	ORG 30 33	EFE
+T4	ORG 55 64	Deportivo
+T5	MISC 80 84	Liga
+T6	PER 271 285	Javier Irureta
+T7	LOC 369 378	La Coruña
+T8	LOC 418 422	Irún
+T9	PER 495 517	Augusto César Lendoiro
+T10	ORG 574 583	Deportivo
+T11	PER 634 648	Javier Irurera
+T12	MISC 868 885	Liga de Campeones
+T13	MISC 899 913	Teresa Herrera
+T14	MISC 916 926	Juan Acuña
+T15	ORG 1034 1043	Deportivo
+T16	MISC 1052 1061	Supercopa
+T17	MISC 1088 1092	Liga
+T18	MISC 1173 1185	Copa del Rey
+T19	ORG 1201 1209	Espanyol
+T20	ORG 1215 1233	Atlético de Madrid
+T21	PER 1235 1249	Javier Irureta
+T22	PER 1292 1300	Lendoiro
+T23	ORG 1391 1400	Deportivo
+T24	MISC 1532 1549	Liga de Campeones
+T25	ORG 1570 1579	Deportivo
+T26	MISC 1629 1643	Copa de Europa
+T27	LOC 1669 1674	París
+T28	ORG 1754 1765	Real Madrid
+T29	ORG 1771 1779	Valencia
+T30	PER 1781 1795	Javier Irureta
+T31	ORG 1870 1881	Real Madrid
+T32	ORG 1942 1950	Valencia
+T33	ORG 2013 2022	Deportivo
+T34	ORG 2083 2091	Valencia
+T35	ORG 2117 2128	Real Madrid

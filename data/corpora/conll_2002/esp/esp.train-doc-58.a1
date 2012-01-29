@@ -1,0 +1,22 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	ORG 43 53	Digital 21
+T4	ORG 160 163	Efe
+T5	PER 210 222	Miguel López
+T6	PER 332 336	Paco
+T7	PER 349 354	Salva
+T8	PER 367 374	Alberto
+T9	PER 398 404	Miguel
+T10	ORG 406 416	Digital 21
+T11	ORG 763 772	Radiohead
+T12	ORG 776 786	Portishead
+T13	ORG 790 807	Smashing Punpkins
+T14	ORG 812 829	Chemikal Brothers
+T15	PER 844 848	Beck
+T16	LOC 1170 1182	sala Caracol
+T17	MISC 1242 1252	Digital 21
+T18	LOC 1298 1320	Santiago de Compostela
+T19	MISC 1362 1380	Festival Celtirock
+T20	MISC 1429 1444	Benicassim 2000
+T21	ORG 1447 1457	Digital 21
+T22	LOC 1593 1600	Bélgica

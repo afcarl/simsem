@@ -1,0 +1,34 @@
+T1	LOC 0 9	Melbourne
+T2	LOC 11 20	Australia
+T3	ORG 31 34	EFE
+T4	ORG 42 63	Gran Consejo de Jefes
+T5	LOC 67 71	Fiyi
+T6	PER 158 172	George Speight
+T7	PER 253 266	Kamisese Mara
+T8	ORG 328 349	Gran Consejo de Jefes
+T9	MISC 390 402	Constitución
+T10	ORG 515 521	Estado
+T11	ORG 576 588	Gran Consejo
+T12	ORG 603 613	Parlamento
+T13	PER 668 675	Speight
+T14	PER 787 804	Mahendra Chaudhry
+T15	ORG 842 863	Gran Consejo de Jefes
+T16	PER 921 928	Speight
+T17	PER 935 943	Chaudhry
+T18	MISC 1160 1172	Constitución
+T19	ORG 1230 1242	Gran Consejo
+T20	PER 1244 1259	Sitiveni Rabuka
+T21	MISC 1387 1399	Constitución
+T22	PER 1502 1508	Rabuka
+T23	LOC 1524 1528	Suva
+T24	MISC 1533 1544	Carta Magna
+T25	PER 1664 1672	Chaudhry
+T26	LOC 1783 1787	Fiyi
+T27	ORG 1821 1841	Gran Consejo de Fiyi
+T28	ORG 1889 1892	ONU
+T29	ORG 1898 1910	Commonwealth
+T30	PER 2000 2008	Chaudhry
+T31	ORG 2136 2148	Commonwealth
+T32	PER 2165 2177	Don McKinnon
+T33	LOC 2186 2190	Suva
+T34	ORG 2213 2217	Fiyi

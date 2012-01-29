@@ -1,0 +1,44 @@
+T1	LOC 10 18	Asunción
+T2	ORG 28 31	EFE
+T3	LOC 87 95	Paraguay
+T4	PER 192 209	Lino César Oviedo
+T5	ORG 237 245	Congreso
+T6	PER 247 268	Juan Carlos Galaverna
+T7	PER 270 279	Galaverna
+T8	ORG 309 318	República
+T9	PER 320 340	Luis González Macchi
+T10	ORG 492 508	Policía Nacional
+T11	ORG 528 536	Congreso
+T12	ORG 710 718	Gobierno
+T13	PER 826 832	Oviedo
+T14	PER 840 849	Galaverna
+T15	ORG 872 888	"Radio Cardinal"
+T16	PER 1059 1068	Galaverna
+T17	PER 1432 1438	Oviedo
+T18	PER 1597 1606	Galaverna
+T19	ORG 1636 1651	Fuerzas Armadas
+T20	ORG 1795 1804	República
+T21	PER 2005 2014	Galaverna
+T22	ORG 2031 2039	Congreso
+T23	ORG 2117 2126	República
+T24	ORG 2171 2180	Ejecutivo
+T25	PER 2243 2249	Oviedo
+T26	MISC 2304 2315	Legislativo
+T27	MISC 2321 2330	Ejecutivo
+T28	PER 2365 2389	Agustín González Insfrán
+T29	PER 2403 2412	Galaverna
+T30	PER 2448 2463	González Macchi
+T31	PER 2640 2656	González Insfrán
+T32	PER 2709 2715	Oviedo
+T33	ORG 2774 2782	Ejército
+T34	LOC 2980 2989	Argentina
+T35	PER 3011 3017	Oviedo
+T36	PER 3176 3182	Oviedo
+T37	ORG 3414 3438	I División de Caballería
+T38	ORG 3553 3567	Estados Unidos
+T39	LOC 3571 3579	Asunción
+T40	PER 3581 3598	Stephen McFarland
+T41	PER 3734 3740	Oviedo
+T42	PER 3884 3893	McFarland
+T43	MISC 3952 3960	Interior
+T44	PER 3962 3974	Walter Bower

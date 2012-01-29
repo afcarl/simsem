@@ -1,0 +1,35 @@
+T1	LOC 0 5	Cádiz
+T2	ORG 15 18	EFE
+T3	LOC 38 43	Cádiz
+T4	ORG 50 80	Consejería de Asuntos Sociales
+T5	PER 82 99	Prudencia Rebollo
+T6	LOC 261 267	España
+T7	PER 269 276	Rebollo
+T8	ORG 416 424	Gobierno
+T9	ORG 505 530	Ayuntamiento de Algeciras
+T10	LOC 532 537	Cádiz
+T11	ORG 636 644	Gobierno
+T12	LOC 648 653	Cádiz
+T13	PER 655 667	Miguel Osuna
+T14	PER 739 756	Prudencia Rebollo
+T15	ORG 917 922	Junta
+T16	LOC 929 947	Campo de Gibraltar
+T17	PER 949 962	Rafael España
+T18	LOC 978 987	Algeciras
+T19	LOC 989 994	Cádiz
+T20	MISC 1020 1036	Asuntos Sociales
+T21	ORG 1055 1069	Administración
+T22	PER 1126 1132	España
+T23	ORG 1180 1188	Gobierno
+T24	LOC 1192 1197	Cádiz
+T25	MISC 1316 1345	Ley de Bases de Régimen Local
+T26	ORG 1365 1392	Policía Sanitaria Mortuaria
+T27	MISC 1459 1488	Asuntos Sociales de Algeciras
+T28	PER 1490 1507	Eulogio Rodríguez
+T29	ORG 1509 1511	PP
+T30	PER 1693 1702	Rodríguez
+T31	PER 1894 1900	España
+T32	ORG 2061 2075	Administración
+T33	ORG 2105 2113	Gobierno
+T34	ORG 2238 2256	Junta de Andalucía
+T35	ORG 2396 2410	Administración

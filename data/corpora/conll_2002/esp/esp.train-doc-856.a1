@@ -1,0 +1,20 @@
+T1	LOC 0 9	Santander
+T2	ORG 19 22	EFE
+T3	ORG 45 53	Gobierno
+T4	PER 55 71	José María Aznar
+T5	LOC 144 165	Palacio de la Moncloa
+T6	ORG 182 191	Ejecutivo
+T7	PER 201 214	Manuel Chaves
+T8	MISC 261 289	XIII Cumbre Hispano-francesa
+T9	LOC 307 330	Palacio de la Magdalena
+T10	LOC 334 343	Santander
+T11	PER 345 350	Aznar
+T12	PER 399 405	Chaves
+T13	LOC 433 443	La Moncloa
+T14	PER 473 478	Aznar
+T15	MISC 504 518	Copa de Europa
+T16	LOC 631 637	Madrid
+T17	LOC 648 653	París
+T18	LOC 706 711	París
+T19	ORG 848 856	Gobierno
+T20	PER 966 971	Aznar

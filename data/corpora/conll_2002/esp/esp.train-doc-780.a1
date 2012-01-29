@@ -1,0 +1,33 @@
+T1	LOC 0 6	Huesca
+T2	ORG 16 19	EFE
+T3	MISC 35 42	Cultura
+T4	ORG 49 69	Diputación de Huesca
+T5	ORG 71 74	DPH
+T6	MISC 102 125	Caravana "Pirineos Sur"
+T7	LOC 129 139	País Vasco
+T8	LOC 142 149	Navarra
+T9	LOC 236 242	Lanuza
+T10	MISC 276 282	Khaled
+T11	MISC 307 321	Emir Kusturica
+T12	LOC 396 404	Zaragoza
+T13	LOC 406 415	Barcelona
+T14	LOC 417 423	Madrid
+T15	LOC 448 451	Pau
+T16	MISC 485 492	Cultura
+T17	ORG 499 510	Institución
+T18	LOC 537 544	Navarra
+T19	LOC 550 560	País Vasco
+T20	MISC 667 690	Caravana "Pirineos Sur"
+T21	PER 734 751	Pedro Luis Ferrer
+T22	LOC 940 946	Madrid
+T23	LOC 972 985	Sala Suristán
+T24	PER 1021 1034	Vladimir Cruz
+T25	PER 1037 1053	Jorge Perugorría
+T26	MISC 1145 1152	Cultura
+T27	ORG 1159 1162	DPH
+T28	PER 1164 1179	Salvador Ariste
+T29	LOC 1328 1332	Tena
+T30	PER 1335 1341	Ariste
+T31	MISC 1468 1489	Caravana Pirineos Sur
+T32	PER 1565 1575	Luis Calvo
+T33	MISC 1593 1601	Caravana

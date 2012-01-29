@@ -1,0 +1,26 @@
+T1	ORG 0 3	EFE
+T2	LOC 4 13	Colindres
+T3	ORG 23 26	EFE
+T4	ORG 34 50	Tribunal Supremo
+T5	ORG 109 117	Edibilsa
+T6	ORG 143 185	Tribunal Superior de Justicia de Cantabria
+T7	ORG 207 232	Ayuntamiento de Colindres
+T8	LOC 349 373	Alameda del Ayuntamiento
+T9	ORG 409 442	Comisión de Gobierno de Colindres
+T10	ORG 669 685	Tribunal Supremo
+T11	MISC 702 711	Urbanismo
+T12	LOC 715 724	Colindres
+T13	PER 726 740	Adolfo Cagigas
+T14	ORG 790 827	Sala de lo Contencioso Administrativo
+T15	ORG 832 839	Supremo
+T16	ORG 862 874	Ayuntamiento
+T17	MISC 891 917	Ejecución del Planeamiento
+T18	MISC 973 1004	Unidad de Ejecución Discontinua
+T19	ORG 1144 1164	Comisión de Gobierno
+T20	ORG 1248 1259	Corporación
+T21	LOC 1306 1327	casa de Doña Serafina
+T22	LOC 1343 1367	Alameda del Ayuntamiento
+T23	LOC 1441 1456	Casa de Cultura
+T24	ORG 1483 1495	Ayuntamiento
+T25	LOC 1592 1616	Hogar de la Tercera Edad
+T26	LOC 1644 1656	Casa del Mar

@@ -1,0 +1,43 @@
+T1	MISC 0 9	Televisie
+T2	LOC 13 19	België
+T3	ORG 36 40	RTBF
+T4	ORG 42 48	La Une
+T5	MISC 183 191	VTM-café
+T6	LOC 203 211	Oostende
+T7	MISC 238 246	Traviata
+T8	LOC 351 363	De Bagatelle
+T9	MISC 371 379	VTM-café
+T10	LOC 391 402	OostendeBij
+T11	LOC 406 424	Wellington-renbaan
+T12	MISC 429 440	La Traviata
+T13	MISC 524 534	Italiaanse
+T14	ORG 542 545	RAI
+T15	ORG 731 740	De Morgen
+T16	PER 741 757	Kristof Demasure
+T17	MISC 760 771	La Traviata
+T18	MISC 907 920	VTM-directeur
+T19	PER 930 941	Eric Claeys
+T20	MISC 943 960	Alken Maes-topman
+T21	PER 961 976	Rudy De Hainaut
+T22	MISC 993 1009	ADS-Leisuregroup
+T23	PER 1023 1036	Aimé Desimpel
+T24	MISC 1062 1066	BV's
+T25	MISC 1253 1262	Vlamingen
+T26	ORG 1286 1297	Nederland 1
+T27	MISC 1324 1335	La Traviata
+T28	PER 1340 1345	Verdi
+T29	MISC 1352 1372	La Dame aux Camélias
+T30	PER 1377 1392	Alexandre Dumas
+T31	LOC 1452 1458	Parijs
+T32	MISC 1540 1553	VTM-gezichten
+T33	MISC 1586 1595	Oostendse
+T34	LOC 1596 1616	Thermae Palace Hotel
+T35	PER 1655 1661	Claeys
+T36	ORG 1704 1716	VTM Big Band
+T37	MISC 1774 1785	La Traviata
+T38	LOC 1923 1941	Wellington-renbaan
+T39	LOC 1945 1953	Oostende
+T40	MISC 1982 1990	VTM-café
+T41	MISC 2023 2045	Raf-zonder-Ronny-Disco
+T42	MISC 2107 2115	VTM-tram
+T43	LOC 2125 2143	Wellington-renbaan

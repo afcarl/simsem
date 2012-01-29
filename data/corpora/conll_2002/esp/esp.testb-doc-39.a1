@@ -1,0 +1,38 @@
+T1	ORG 0 15	Naciones Unidas
+T2	ORG 25 28	EFE
+T3	ORG 36 66	Consejo de Seguridad de la ONU
+T4	PER 156 166	Kofi Annan
+T5	LOC 182 188	Líbano
+T6	MISC 309 323	resolución 425
+T7	ORG 418 438	Consejo de Seguridad
+T8	PER 459 471	Wang Yingfan
+T9	ORG 477 497	Consejo de Seguridad
+T10	MISC 640 654	resolución 425
+T11	ORG 661 664	ONU
+T12	ORG 798 816	Ejército de Israel
+T13	LOC 887 893	Líbano
+T14	ORG 965 968	ONU
+T15	PER 981 986	Annan
+T16	ORG 1039 1075	Fuerza de Interposición en el Líbano
+T17	ORG 1077 1083	UNIFIL
+T18	LOC 1224 1230	Israel
+T19	LOC 1262 1268	Líbano
+T20	PER 1325 1330	Annan
+T21	ORG 1452 1455	ONU
+T22	LOC 1469 1475	Israel
+T23	ORG 1526 1553	Ejército del Sur del Líbano
+T24	LOC 1623 1642	prisión de al-Khiam
+T25	ORG 1676 1696	Consejo de Seguridad
+T26	ORG 1736 1742	UNIFIL
+T27	ORG 1748 1768	Consejo de Seguridad
+T28	ORG 1865 1872	Estados
+T29	ORG 2082 2097	Naciones Unidas
+T30	ORG 2216 2235	Gobierno del Líbano
+T31	ORG 2341 2348	Consejo
+T32	ORG 2562 2577	Naciones Unidas
+T33	PER 2594 2599	Annan
+T34	LOC 2822 2828	Israel
+T35	ORG 2872 2875	ESL
+T36	PER 3077 3082	Annan
+T37	ORG 3153 3159	UNIFIL
+T38	ORG 3256 3259	ONU

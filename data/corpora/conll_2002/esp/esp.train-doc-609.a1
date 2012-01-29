@@ -1,0 +1,24 @@
+T1	ORG 42 57	ADPI Aficionado
+T2	ORG 86 100	Rayo Vallecano
+T3	ORG 143 154	ADPI Cadete
+T4	ORG 165 189	Rayo Vallecano Cadete B.
+T5	LOC 190 196	Bilbao
+T6	ORG 206 209	EFE
+T7	PER 214 223	Jon Pérez
+T8	ORG 239 253	Rayo Vallecano
+T9	PER 287 295	' Bolo '
+T10	LOC 348 354	Bilbao
+T11	PER 371 384	María Alvarez
+T12	LOC 434 453	iglesia de San José
+T13	LOC 502 516	Estados Unidos
+T14	LOC 587 597	Nueva York
+T15	LOC 599 610	Los Angeles
+T16	LOC 613 622	San Diego
+T17	PER 624 628	Bolo
+T18	ORG 729 736	Dodgers
+T19	ORG 739 745	Padres
+T20	LOC 784 790	Bilbao
+T21	PER 792 801	Jon Pérez
+T22	ORG 812 815	EFE
+T23	ORG 891 895	Rayo
+T24	ORG 1156 1170	Rayo Vallecano

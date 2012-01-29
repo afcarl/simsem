@@ -1,0 +1,25 @@
+T1	LOC 0 10	Don Benito
+T2	LOC 12 19	Badajoz
+T3	ORG 30 33	EFE
+T4	LOC 70 80	Don Benito
+T5	LOC 83 106	Villanueva de la Serena
+T6	ORG 255 268	Ayuntamientos
+T7	ORG 273 293	Junta de Extremadura
+T8	ORG 299 307	Gobierno
+T9	PER 401 423	Francisco García Ramos
+T10	LOC 438 461	Villanueva de la Serena
+T11	PER 465 477	Juan Manzano
+T12	ORG 577 581	PSOE
+T13	ORG 588 614	Ayuntamiento de Don Benito
+T14	PER 616 629	Julio Carmona
+T15	PER 681 694	Raúl Borrasca
+T16	ORG 764 768	PSOE
+T17	LOC 772 795	Villanueva de la Serena
+T18	LOC 814 824	Don Benito
+T19	ORG 944 948	PSOE
+T20	LOC 1036 1059	Villanueva de la Serena
+T21	LOC 1067 1077	Don Benito
+T22	LOC 1291 1301	Don Benito
+T23	PER 1303 1316	Julio Carmona
+T24	LOC 1344 1367	Villanueva de la Serena
+T25	PER 1369 1391	Francisco García Ramos

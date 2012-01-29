@@ -1,0 +1,21 @@
+T1	LOC 0 10	Nueva York
+T2	ORG 20 23	EFE
+T3	LOC 28 38	Nueva York
+T4	PER 254 267	Rafael Viñoly
+T5	ORG 452 455	EFE
+T6	PER 456 462	Viñoly
+T7	LOC 554 564	Nueva York
+T8	LOC 709 723	Lincoln Center
+T9	LOC 754 768	Parque Central
+T10	MISC 1120 1128	Internet
+T11	PER 1130 1136	Viñoly
+T12	LOC 1586 1600	plaza Columbus
+T13	LOC 1604 1613	Manhattan
+T14	LOC 2238 2247	Manhattan
+T15	PER 2735 2750	Wynton Marsalis
+T16	LOC 2798 2812	Lincoln Center
+T17	PER 3187 3193	Viñoly
+T18	LOC 3504 3514	Nueva York
+T19	LOC 3516 3521	Tokio
+T20	LOC 3524 3536	Buenos Aires
+T21	LOC 3723 3733	Filadelfia

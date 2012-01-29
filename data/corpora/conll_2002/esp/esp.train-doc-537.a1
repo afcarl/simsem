@@ -1,0 +1,18 @@
+T1	LOC 0 5	Palma
+T2	ORG 15 18	EFE
+T3	PER 45 57	Pere Mascaró
+T4	PER 59 70	David March
+T5	PER 72 85	Antoni Ducrós
+T6	PER 88 104	Francisco Ducrós
+T7	ORG 188 215	Club de Ajedrez de Mallorca
+T8	LOC 247 255	Mallorca
+T9	ORG 308 336	Federación Balear de Ajedrez
+T10	PER 457 464	Mascaró
+T11	PER 466 471	March
+T12	PER 488 494	Ducrós
+T13	MISC 607 653	Campeonato de España Interescolar por Internet
+T14	LOC 673 681	Baleares
+T15	PER 684 699	Carolina Suárez
+T16	PER 701 717	Lorenzo Gelabert
+T17	PER 720 732	Xavier March
+T18	LOC 890 896	Madrid

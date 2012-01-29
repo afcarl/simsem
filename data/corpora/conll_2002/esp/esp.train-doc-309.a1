@@ -1,0 +1,14 @@
+T1	ORG 0 3	EFE
+T2	LOC 10 16	Sestao
+T3	LOC 18 25	Vizcaya
+T4	ORG 36 39	EFE
+T5	ORG 55 65	Las Llanas
+T6	LOC 94 100	Sestao
+T7	MISC 144 181	Open Internacional de Artes Marciales
+T8	ORG 229 242	Kwoon Saholin
+T9	MISC 468 472	Open
+T10	MISC 761 776	Artes Marciales
+T11	MISC 841 860	Karate Kyukushinkai
+T12	MISC 1069 1090	VI Open Internacional
+T13	PER 1259 1274	Joaquín Almería
+T14	ORG 1332 1335	EFE

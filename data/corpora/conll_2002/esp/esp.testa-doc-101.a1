@@ -1,0 +1,26 @@
+T1	LOC 0 4	Lyon
+T2	LOC 6 13	Francia
+T3	ORG 24 27	EFE
+T4	ORG 50 64	Olympique Lyon
+T5	PER 66 83	Jean-Michel Aulas
+T6	MISC 192 209	Liga de Campeones
+T7	PER 249 263	Patrick Muller
+T8	PER 265 280	Jacques Santini
+T9	PER 344 361	Dominique Cuperly
+T10	PER 364 373	Joel Bats
+T11	PER 413 420	Santini
+T12	PER 446 461	Bernard Lacombe
+T13	PER 503 510	Cuperly
+T14	PER 532 540	Guy Roux
+T15	ORG 547 554	Auxerre
+T16	PER 626 630	Bats
+T17	PER 675 681	Muller
+T18	ORG 733 744	Grasshopper
+T19	LOC 817 821	Lyon
+T20	PER 870 888	Jean-Marc Chanelet
+T21	ORG 894 900	Nantes
+T22	PER 904 919	Marc-Vivien Foe
+T23	ORG 925 933	West Ham
+T24	ORG 945 949	Lyon
+T25	MISC 981 985	Liga
+T26	MISC 1005 1032	Liga de Campeones 2000-2001

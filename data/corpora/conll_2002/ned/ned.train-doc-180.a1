@@ -1,0 +1,45 @@
+T1	ORG 140 148	Beweging
+T2	PER 150 169	Catherine Vuylsteke
+T3	MISC 170 180	Buitenland
+T4	ORG 184 192	Beweging
+T5	ORG 373 381	Beweging
+T6	LOC 592 599	Oeganda
+T7	PER 633 646	Idi Amin Dada
+T8	PER 669 681	Milton Obote
+T9	ORG 728 748	Democratische Partij
+T10	ORG 756 778	Oegandees Volkscongres
+T11	MISC 875 885	Oegandezen
+T12	PER 933 941	Museveni
+T13	MISC 1044 1054	Afrikaanse
+T14	MISC 1072 1082	Afrikaanse
+T15	LOC 1118 1125	Oeganda
+T16	ORG 1375 1393	Human Rights Watch
+T17	ORG 1395 1398	HRW
+T18	MISC 1435 1455	Hostile to Democracy
+T19	PER 1493 1501	Museveni
+T20	MISC 1640 1649	Afrikanen
+T21	LOC 1684 1691	Oeganda
+T22	ORG 1732 1742	Wereldbank
+T23	ORG 1750 1753	IMF
+T24	LOC 1757 1763	Afrika
+T25	PER 1765 1784	Catherine Vuylsteke
+T26	MISC 1868 1878	Oegandezen
+T27	ORG 2078 2086	Beweging
+T28	LOC 2238 2245	Kampala
+T29	ORG 2483 2491	Beweging
+T30	MISC 2716 2725	Oegandese
+T31	PER 2736 2744	Museveni
+T32	PER 2816 2824	Museveni
+T33	MISC 2866 2875	Afrikanen
+T34	ORG 3013 3031	Human Rights Watch
+T35	ORG 3147 3156	De Morgen
+T36	LOC 3214 3221	Brussel
+T37	MISC 3239 3248	Oegandees
+T38	MISC 3586 3600	Kongo-avontuur
+T39	MISC 3673 3683	Museveni's
+T40	ORG 3684 3709	Nationale Verzetsbeweging
+T41	ORG 3711 3714	NRM
+T42	MISC 3727 3736	Oegandees
+T43	ORG 3842 3862	Conservatieve Partij
+T44	PER 3914 3922	Museveni
+T45	ORG 3937 3940	HRW

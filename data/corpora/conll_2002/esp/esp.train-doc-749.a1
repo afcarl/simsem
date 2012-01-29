@@ -1,0 +1,33 @@
+T1	ORG 0 6	EFECOM
+T2	LOC 17 26	Santander
+T3	ORG 36 39	EFE
+T4	ORG 47 79	Federación de Servicios Públicos
+T5	ORG 81 84	FSP
+T6	ORG 89 92	UGT
+T7	LOC 96 102	Madrid
+T8	LOC 140 149	Cantabria
+T9	LOC 194 203	Santander
+T10	MISC 208 255	II Encuentros de Acción Sindical. Salud Laboral
+T11	ORG 341 351	FSP de UGT
+T12	ORG 451 508	Relaciones Institucionales, Estudios. Programas de la FSP
+T13	PER 584 604	Juan Carlos Saavedra
+T14	MISC 689 746	Desarrollo Legislativo del Estatuto de la Función Pública
+T15	ORG 782 816	Administración Autonómica. Central
+T16	PER 818 834	Juan Luis Martín
+T17	PER 837 850	Matilde López
+T18	MISC 924 984	Modelos de Gestión, Privatizaciones. Alternativas Sindicales
+T19	ORG 1012 1032	Administración Local
+T20	PER 1034 1048	Fernando Navia
+T21	MISC 1070 1096	Relaciones Institucionales
+T22	PER 1098 1112	Eduardo Martín
+T23	ORG 1359 1362	FSP
+T24	PER 1374 1389	Rafel Espartero
+T25	MISC 1411 1420	Formación
+T26	PER 1445 1456	Angel Marín
+T27	ORG 1514 1521	Correos
+T28	PER 1523 1538	Santiago Tamame
+T29	MISC 1559 1589	salud Laboral. Política Social
+T30	PER 1591 1615	María del Prado Bautista
+T31	MISC 1640 1693	Salud Laboral. Ley de Prevención de Riesgos Laborales
+T32	ORG 1814 1856	Federación de Servicios Públicos de Madrid
+T33	PER 1858 1882	Manuel Sánchez Cifuentes

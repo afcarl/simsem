@@ -1,0 +1,78 @@
+T1	LOC 17 23	Madrid
+T2	ORG 33 36	EFE
+T3	PER 41 55	Alfredo Urdaci
+T4	PER 57 74	Alvaro de la Riva
+T5	PER 77 93	María Jesús Chao
+T6	MISC 130 149	Informativos de TVE
+T7	ORG 163 166	TVE
+T8	ORG 182 206	Radio Nacional de España
+T9	ORG 208 211	RNE
+T10	ORG 272 276	RTVE
+T11	PER 278 301	Javier González Ferrari
+T12	ORG 306 331	Consejo de Administración
+T13	PER 350 363	Ignacio Ayuso
+T14	MISC 380 435	Infraestructuras Deportivas del Ministerio de Educación
+T15	ORG 475 479	RTVE
+T16	PER 481 487	Urdaci
+T17	PER 518 541	Javier González Ferrari
+T18	MISC 594 611	Telediario de TVE
+T19	PER 626 643	Alvaro de la Riva
+T20	MISC 670 695	Producción de Vía Digital
+T21	PER 723 738	José Ramón Díez
+T22	PER 754 770	María Jesús Chao
+T23	MISC 822 865	Producción de Programas Informativos de TVE
+T24	PER 891 904	Diego Armario
+T25	PER 919 941	Eduardo Olano Codesido
+T26	PER 989 1010	Teresa Pérez Alfageme
+T27	MISC 1032 1052	Comunicación de RTVE
+T28	PER 1054 1077	Alvaro de la Riva Reina
+T29	LOC 1092 1098	Madrid
+T30	MISC 1126 1133	Derecho
+T31	ORG 1140 1173	Universidad Complutense de Madrid
+T32	LOC 1185 1194	Cantabria
+T33	ORG 1276 1286	Antena. TV
+T34	MISC 1304 1316	Comunicación
+T35	MISC 1318 1330	Programación
+T36	MISC 1333 1343	Producción
+T37	MISC 1378 1387	Promoción
+T38	MISC 1390 1400	Publicidad
+T39	ORG 1404 1407	TVE
+T40	ORG 1510 1521	Vía Digital
+T41	MISC 1559 1594	Nuevos Proyectos. Canales Temáticos
+T42	MISC 1608 1629	Producción. Programas
+T43	MISC 1666 1690	Programación. Producción
+T44	PER 1744 1766	Alfredo Urdaci Iriarte
+T45	LOC 1781 1789	Pamplona
+T46	MISC 1816 1842	Ciencias de la Información
+T47	ORG 1850 1872	Universidad de Navarra
+T48	ORG 1921 1932	"Diario 16"
+T49	ORG 1968 1971	RNE
+T50	ORG 2035 2039	RTVE
+T51	ORG 2074 2077	RNE
+T52	MISC 2094 2109	"España. las 6"
+T53	MISC 2112 2127	"España. las 7"
+T54	MISC 2145 2157	Informativos
+T55	MISC 2181 2201	"Diario de la Tarde"
+T56	LOC 2228 2232	Roma
+T57	MISC 2247 2262	"España. las 8"
+T58	ORG 2280 2283	RNE
+T59	ORG 2286 2289	TVE
+T60	MISC 2329 2351	Servicios Informativos
+T61	MISC 2435 2445	Telediario
+T62	PER 2447 2484	María Jesus Chao Alvarez de la Sierra
+T63	LOC 2499 2507	Valencia
+T64	MISC 2534 2560	Ciencias de la Información
+T65	ORG 2568 2601	Universidad Complutense de Madrid
+T66	ORG 2639 2643	RTVE
+T67	PER 2671 2675	Chao
+T68	MISC 2704 2733	Servicios Informativos de RNE
+T69	MISC 2799 2804	Local
+T70	MISC 2836 2856	Informativo Regional
+T71	MISC 2882 2901	Informativos de RNE
+T72	MISC 2926 2934	Nacional
+T73	MISC 2976 3001	Información Institucional
+T74	ORG 3049 3058	Casa Real
+T75	MISC 3111 3140	Servicios Informativos de RNE
+T76	MISC 3191 3227	Producción de Programas Informativos
+T77	ORG 3231 3234	TVE
+T78	ORG 3261 3286	Instituto Oficial de RTVE

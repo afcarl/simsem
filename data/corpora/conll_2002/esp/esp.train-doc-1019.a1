@@ -1,0 +1,17 @@
+T1	LOC 0 10	Washington
+T2	ORG 20 23	EFE
+T3	PER 28 42	Michael J. Fox
+T4	MISC 79 90	"Spin City"
+T5	MISC 180 189	Parkinson
+T6	ORG 294 300	Senado
+T7	LOC 675 679	EEUU
+T8	PER 681 691	Janet Reno
+T9	PER 748 759	Mohamed Alí
+T10	PER 777 780	Fox
+T11	ORG 798 806	Congreso
+T12	MISC 879 888	Parkinson
+T13	LOC 997 1008	Pensilvania
+T14	PER 1009 1022	Arlen Specter
+T15	MISC 1068 1101	Trabajo, Salud. Servicios Humanos
+T16	ORG 1106 1112	Senado
+T17	MISC 1358 1367	Parkinson

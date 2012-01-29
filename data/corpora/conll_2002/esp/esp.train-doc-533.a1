@@ -1,0 +1,19 @@
+T1	LOC 0 5	Padua
+T2	LOC 7 13	Italia
+T3	ORG 24 27	EFE
+T4	PER 53 66	Marco Pantani
+T5	ORG 72 85	Mercatone Uno
+T6	MISC 217 231	Giro de Italia
+T7	LOC 245 250	Milán
+T8	LOC 291 296	Milán
+T9	MISC 308 312	Giro
+T10	MISC 373 377	Giro
+T11	PER 480 487	Pantani
+T12	LOC 531 553	San Marcello Pistoiese
+T13	LOC 556 561	Padua
+T14	PER 563 570	Pantani
+T15	PER 695 715	Francesco Casagrande
+T16	MISC 873 877	Giro
+T17	PER 981 988	Pantani
+T18	MISC 1386 1390	Giro
+T19	PER 1545 1552	Pantani

@@ -1,0 +1,25 @@
+T1	LOC 0 6	Berlín
+T2	ORG 16 22	EFECOM
+T3	ORG 54 65	Rheinmetall
+T4	ORG 108 122	Estados Unidos
+T5	ORG 181 197	General Dynamics
+T6	ORG 238 261	Santa Bárbara Blindados
+T7	ORG 342 353	Rheinmetall
+T8	PER 355 370	Klaus Eberhardt
+T9	LOC 444 454	Düsseldorf
+T10	ORG 497 510	Santa Bárbara
+T11	ORG 638 652	Estados Unidos
+T12	PER 660 669	Eberhardt
+T13	ORG 840 851	Rheinmetall
+T14	LOC 889 895	Madrid
+T15	ORG 947 960	Krauss-Maffei
+T16	MISC 992 1002	Leopard II
+T17	ORG 1015 1028	Santa Bárbara
+T18	ORG 1130 1141	Rheinmetall
+T19	ORG 1214 1227	Santa Bárbara
+T20	ORG 1405 1418	Krauss-Maffei
+T21	ORG 1483 1503	Consejo de Ministros
+T22	ORG 1563 1566	EFE
+T23	ORG 1598 1612	Estados Unidos
+T24	ORG 1699 1715	General Dynamics
+T25	ORG 1811 1827	general Dynamics

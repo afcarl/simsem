@@ -1,0 +1,25 @@
+T1	LOC 0 9	Santander
+T2	ORG 19 25	EFECOM
+T3	LOC 45 52	Fomento
+T4	PER 54 78	Francisco Alvarez Cascos
+T5	ORG 99 141	Comisión Intergubernamental de Transportes
+T6	LOC 148 154	España
+T7	LOC 157 164	Francia
+T8	PER 274 288	Alvarez Cascos
+T9	MISC 314 342	XIII Cumbre Hispano-francesa
+T10	LOC 360 383	Palacio de la Magdalena
+T11	LOC 387 396	Santander
+T12	MISC 436 450	Obras Públicas
+T13	PER 452 471	Jean Claude Gayssot
+T14	LOC 556 565	Perpignan
+T15	LOC 568 576	Figueras
+T16	MISC 624 631	Somport
+T17	ORG 657 684	Comisión Intergubernamental
+T18	MISC 868 875	Fomento
+T19	PER 1035 1048	Lionel Jospin
+T20	ORG 1241 1249	Comisión
+T21	PER 1295 1301	Jospin
+T22	ORG 1598 1606	Gobierno
+T23	PER 1608 1624	José María Aznar
+T24	LOC 1895 1902	Francia
+T25	LOC 2082 2092	Mont Blanc

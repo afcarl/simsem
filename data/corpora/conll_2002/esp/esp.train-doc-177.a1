@@ -1,0 +1,37 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	ORG 67 78	Presidencia
+T4	PER 80 93	Mariano Rajoy
+T5	ORG 114 123	Ejecutivo
+T6	MISC 369 396	Constitucional del Congreso
+T7	PER 398 411	Mariano Rajoy
+T8	MISC 430 441	Legislatura
+T9	ORG 490 498	Gobierno
+T10	ORG 582 590	Gobierno
+T11	PER 794 799	Rajoy
+T12	ORG 804 813	Ejecutivo
+T13	ORG 1198 1206	Gobierno
+T14	MISC 1234 1245	Legislatura
+T15	ORG 1411 1419	Gobierno
+T16	MISC 1519 1537	Ley de Extranjería
+T17	MISC 1560 1571	Pacto Local
+T18	MISC 1703 1718	Pacto de Toledo
+T19	MISC 1874 1882	Justicia
+T20	ORG 1976 1984	Congreso
+T21	ORG 1990 1996	Senado
+T22	MISC 2027 2062	Ley de Financiación de los Partidos
+T23	MISC 2122 2158	Ley Orgánica del Tribunal de Cuentas
+T24	ORG 2277 2288	Presidencia
+T25	ORG 2363 2366	BOE
+T26	MISC 2421 2429	Internet
+T27	ORG 2453 2456	CIS
+T28	MISC 2478 2503	Archivo de Datos Sociales
+T29	ORG 2520 2551	Consejo Superior de Fundaciones
+T30	PER 2553 2558	Rajoy
+T31	ORG 3176 3178	CC
+T32	PER 3180 3200	José Carlos Mauricio
+T33	ORG 3203 3206	CiU
+T34	PER 3208 3228	Josep López de Lerma
+T35	ORG 3232 3235	PNV
+T36	PER 3237 3250	Josu Erkoreka
+T37	MISC 3315 3333	Ley de Inmigración

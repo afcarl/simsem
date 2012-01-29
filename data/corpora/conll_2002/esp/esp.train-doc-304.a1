@@ -1,0 +1,17 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	ORG 42 60	Atlético de Madrid
+T4	PER 62 79	Fernando Zambrano
+T5	ORG 130 141	Real Madrid
+T6	PER 143 161	Vicente del Bosque
+T7	PER 377 387	Del Bosque
+T8	ORG 529 540	Real Madrid
+T9	PER 552 560	Zambrano
+T10	ORG 612 623	Agencia Efe
+T11	ORG 652 660	Atlético
+T12	MISC 718 730	Copa del Rey
+T13	PER 1057 1064	Irureta
+T14	PER 1066 1070	Rojo
+T15	PER 1073 1083	Del Bosque
+T16	MISC 1133 1137	Liga
+T17	PER 1169 1177	Zambrano

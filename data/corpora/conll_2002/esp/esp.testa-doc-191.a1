@@ -1,0 +1,42 @@
+T1	LOC 0 6	México
+T2	ORG 16 19	EFE
+T3	ORG 44 65	Presidencia de México
+T4	PER 66 85	Cuauhtémoc Cárdenas
+T5	PER 88 102	Manuel Camacho
+T6	LOC 185 192	Chiapas
+T7	PER 254 262	Cárdenas
+T8	ORG 311 329	Alianza por México
+T9	ORG 345 381	Partido de la Revolución Democrática
+T10	ORG 383 386	PRD
+T11	PER 391 404	Camacho Solís
+T12	ORG 441 470	Partido de Centro Democrático
+T13	ORG 472 475	PCD
+T14	ORG 509 530	Presidencia de México
+T15	PER 613 632	Francisco Labastida
+T16	ORG 638 674	Partido Revolucionario Institucional
+T17	ORG 676 679	PRI
+T18	PER 707 718	Vicente Fox
+T19	ORG 736 757	Alianza por el Cambio
+T20	ORG 770 793	Partido Acción Nacional
+T21	ORG 795 798	PAN
+T22	PER 845 853	Cárdenas
+T23	PER 856 863	Camacho
+T24	ORG 984 1025	Ejército Zapatista de Liberación Nacional
+T25	ORG 1027 1031	EZLN
+T26	ORG 1038 1046	Gobierno
+T27	ORG 1218 1226	Gobierno
+T28	ORG 1232 1236	EZLN
+T29	ORG 1373 1381	Ejército
+T30	ORG 1405 1431	Policía Federal Preventiva
+T31	LOC 1446 1453	Chiapas
+T32	ORG 1555 1563	Congreso
+T33	MISC 1582 1618	Ley sobre Derechos. Cultura Indígena
+T34	ORG 1665 1700	Comisión de Concordia. Pacificación
+T35	ORG 1702 1708	COCOPA
+T36	ORG 1880 1884	EZLN
+T37	PER 1947 1954	Camacho
+T38	ORG 1988 1992	EZLN
+T39	PER 2030 2055	Carlos Salinas de Gortari
+T40	ORG 2171 2179	Gobierno
+T41	ORG 2247 2255	Gobierno
+T42	ORG 2281 2285	EZLN

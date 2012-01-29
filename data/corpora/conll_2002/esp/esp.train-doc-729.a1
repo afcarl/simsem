@@ -1,0 +1,15 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 22	Madrid
+T4	ORG 32 35	EFE
+T5	ORG 43 60	Policía Municipal
+T6	LOC 90 96	Tetuán
+T7	MISC 151 157	Cuerpo
+T8	ORG 294 297	Efe
+T9	ORG 312 329	Policía Municipal
+T10	PER 346 351	M. A.
+T11	PER 353 358	K. B.
+T12	PER 361 365	O. S
+T13	LOC 442 493	calles de Cicerón con Raimundo Fernández Villaverde
+T14	LOC 929 948	Plaza de las Ventas
+T15	PER 965 976	J. L. C. C.

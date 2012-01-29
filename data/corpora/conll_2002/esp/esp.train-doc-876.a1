@@ -1,0 +1,11 @@
+T1	ORG 0 7	CDC-UDC
+T2	PER 8 13	CASAS
+T3	PER 37 40	MAS
+T4	LOC 71 80	Barcelona
+T5	ORG 101 145	Comunicación de Unió Democrática de Cataluña
+T6	ORG 147 150	UDC
+T7	PER 153 164	Jordi Casas
+T8	ORG 219 227	Gobierno
+T9	PER 237 246	Artur Mas
+T10	ORG 257 260	CDC
+T11	ORG 263 266	UDC

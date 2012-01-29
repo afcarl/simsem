@@ -1,0 +1,38 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	LOC 35 48	San Cristóbal
+T4	LOC 51 56	Usera
+T5	LOC 160 170	Villaverde
+T6	LOC 215 229	calle Bohemios
+T7	LOC 234 262	San Cristóbal de los Angeles
+T8	LOC 280 296	plaza de Legazpi
+T9	LOC 325 335	Villaverde
+T10	LOC 338 343	Usera
+T11	ORG 349 405	Federación Regional de Asociaciones de Vecinos de Madrid
+T12	ORG 407 412	FRAVM
+T13	LOC 531 551	Avenida de Andalucía
+T14	LOC 671 684	San Cristóbal
+T15	ORG 686 702	Prado de la Mata
+T16	ORG 753 756	Efe
+T17	LOC 762 772	Villaverde
+T18	LOC 797 803	Madrid
+T19	LOC 859 877	avenida de Córdoba
+T20	LOC 895 913	puente de Princesa
+T21	LOC 923 938	Colonia Marconi
+T22	PER 982 992	De la Mata
+T23	LOC 1173 1191	avenida de Córdoba
+T24	LOC 1274 1279	Pinto
+T25	LOC 1281 1290	Valdemoro
+T26	LOC 1292 1300	Aranjuez
+T27	LOC 1312 1323	Ciudad Real
+T28	LOC 1326 1332	Toledo
+T29	LOC 1364 1386	carretera de Andalucía
+T30	PER 1388 1398	De la Mata
+T31	LOC 1507 1520	San Cristóbal
+T32	LOC 1597 1604	Legazpi
+T33	LOC 1606 1619	Méndez Alvaro
+T34	LOC 1622 1628	Oporto
+T35	ORG 1720 1735	Partido Popular
+T36	LOC 1797 1807	Villaverde
+T37	ORG 1819 1824	FRAVM
+T38	ORG 2222 2227	FRAVM

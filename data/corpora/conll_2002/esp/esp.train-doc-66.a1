@@ -1,0 +1,18 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	PER 24 48	Francisco Arias Cárdenas
+T4	PER 88 99	Hugo Chávez
+T5	MISC 211 223	Constitución
+T6	ORG 304 311	El Pais
+T7	PER 393 399	Chávez
+T8	PER 578 583	Arias
+T9	MISC 640 652	Constitución
+T10	ORG 759 765	Estado
+T11	ORG 807 813	Estado
+T12	PER 839 844	Arias
+T13	PER 1117 1122	Arias
+T14	ORG 1468 1486	Gobierno de Chávez
+T15	ORG 1738 1744	Estado
+T16	LOC 1929 1941	Constitución
+T17	ORG 2072 2080	Congreso
+T18	ORG 2118 2135	Consejo de Estado

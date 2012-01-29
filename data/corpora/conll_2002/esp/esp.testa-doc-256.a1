@@ -1,0 +1,42 @@
+T1	LOC 0 6	México
+T2	ORG 16 19	EFE
+T3	ORG 27 52	Grupo Financiero Bancomer
+T4	LOC 79 85	México
+T5	ORG 191 212	Grupo Banamex Accival
+T6	ORG 226 257	Banco Bilbao Vizcaya-Argentaria
+T7	ORG 259 263	BBVA
+T8	ORG 312 320	Bancomer
+T9	ORG 621 629	Bancomer
+T10	ORG 802 810	Bancomer
+T11	ORG 828 832	BBVA
+T12	ORG 860 875	Banamex Accival
+T13	ORG 877 884	BANACCI
+T14	ORG 934 942	Bancomer
+T15	ORG 1001 1008	BANACCI
+T16	LOC 1033 1039	México
+T17	LOC 1119 1125	México
+T18	LOC 1131 1145	América Latina
+T19	ORG 1257 1271	Grupo Bancomer
+T20	ORG 1277 1281	BBVA
+T21	LOC 1304 1310	México
+T22	ORG 1315 1327	BBV-Probursa
+T23	ORG 1696 1704	Bancomer
+T24	ORG 1805 1812	Banamex
+T25	ORG 1871 1883	Bearn Sterns
+T26	ORG 1885 1898	Deutsche Bank
+T27	ORG 1900 1913	Goldman Sachs
+T28	ORG 1915 1926	Ing Barings
+T29	ORG 1928 1940	Merril Lynch
+T30	ORG 1942 1967	Santander Central Hispano
+T31	ORG 1969 1986	Moody's Investors
+T32	ORG 1989 2000	UBS Warburg
+T33	ORG 2015 2032	Standar and Poors
+T34	ORG 2260 2267	Banamex
+T35	ORG 2309 2329	Salomon Smith Barney
+T36	ORG 2438 2471	Asociación de Banqueros de México
+T37	PER 2473 2493	Héctor Rangel Domene
+T38	ORG 2533 2541	Bancomer
+T39	ORG 2554 2561	Banamex
+T40	ORG 2571 2575	BBVA
+T41	PER 2637 2643	Rangel
+T42	LOC 2698 2704	México

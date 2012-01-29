@@ -1,0 +1,15 @@
+T1	LOC 0 10	Nueva York
+T2	ORG 20 23	EFE
+T3	PER 37 47	Hugh Grant
+T4	PER 60 76	Elizabeth Hurley
+T5	ORG 221 233	"Daily News"
+T6	LOC 293 300	Londres
+T7	PER 444 450	Hurley
+T8	PER 466 471	Grant
+T9	ORG 522 534	Simian Films
+T10	MISC 562 579	"Extreme mesures"
+T11	MISC 582 600	"Mickey Blue Eyes"
+T12	ORG 861 873	"Daily News"
+T13	PER 949 954	Grant
+T14	LOC 958 969	Los Angeles
+T15	PER 1026 1038	Divine Brown

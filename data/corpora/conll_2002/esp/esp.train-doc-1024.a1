@@ -1,0 +1,32 @@
+T1	LOC 0 10	Washington
+T2	ORG 20 23	EFE
+T3	ORG 28 34	Brasil
+T4	ORG 37 46	Argentina
+T5	ORG 206 216	Centro Pew
+T6	PER 453 468	Eileen Claussen
+T7	ORG 485 491	Centro
+T8	PER 493 501	Claussen
+T9	ORG 512 518	Brasil
+T10	ORG 628 638	Centro Pew
+T11	PER 640 653	Jeffrey Logan
+T12	ORG 699 705	Brasil
+T13	LOC 854 860	Brasil
+T14	LOC 934 940	Brasil
+T15	ORG 1002 1012	Centro Pew
+T16	LOC 1019 1025	Brasil
+T17	PER 1036 1053	Roberto Schaeffer
+T18	ORG 1061 1098	Universidad Federal de Río de Janeiro
+T19	PER 1100 1105	Logan
+T20	LOC 1486 1492	brasil
+T21	PER 1631 1639	Claussen
+T22	LOC 1696 1705	Argentina
+T23	LOC 1886 1895	Argentina
+T24	PER 1916 1921	Logan
+T25	ORG 2003 2012	Argentina
+T26	PER 2149 2154	Logan
+T27	LOC 2167 2176	Argentina
+T28	LOC 2252 2266	América Latina
+T29	ORG 2282 2296	Estados Unidos
+T30	LOC 2355 2364	Argentina
+T31	PER 2503 2508	Logan
+T32	PER 2766 2771	Logan

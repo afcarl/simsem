@@ -1,0 +1,35 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	ORG 45 55	Telemadrid
+T4	MISC 163 179	"Madrid directo"
+T5	MISC 210 227	Liga de Campeones
+T6	LOC 243 248	París
+T7	ORG 252 263	Real Madrid
+T8	ORG 269 277	Valencia
+T9	MISC 308 328	"Buenos días Madrid"
+T10	LOC 385 392	Cibeles
+T11	LOC 450 455	París
+T12	LOC 513 520	Barajas
+T13	LOC 585 590	París
+T14	MISC 615 627	Telenoticias
+T15	PER 692 708	Teresa Castanedo
+T16	PER 710 724	Antonio Mérida
+T17	PER 726 737	Manolo Lama
+T18	PER 762 777	Roberto Brasero
+T19	LOC 821 827	Madrid
+T20	LOC 857 868	Saint Denis
+T21	LOC 870 877	Cibeles
+T22	LOC 915 931	Ciudad Deportiva
+T23	ORG 936 947	Real Madrid
+T24	MISC 1038 1054	"Madrid directo"
+T25	LOC 1072 1077	París
+T26	LOC 1119 1130	Saint Denis
+T27	PER 1173 1190	Inmaculada Galván
+T28	PER 1228 1241	Javier Lázaro
+T29	PER 1243 1262	Miriam de las Heras
+T30	PER 1265 1278	Emilio Pineda
+T31	LOC 1307 1312	París
+T32	ORG 1440 1451	Real Madrid
+T33	LOC 1563 1570	Cibeles
+T34	ORG 1692 1709	Embajada Española
+T35	LOC 1713 1720	Francia

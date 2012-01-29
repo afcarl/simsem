@@ -1,0 +1,19 @@
+T1	LOC 0 8	Pamplona
+T2	ORG 18 21	EFE
+T3	ORG 48 67	Gobierno de Navarra
+T4	MISC 83 103	Administración Local
+T5	PER 105 118	Rafael Gurrea
+T6	LOC 286 293	Milagro
+T7	ORG 366 389	Ayuntamiento de Milagro
+T8	PER 418 437	Jesús María Barrado
+T9	LOC 460 478	Palacio de Navarra
+T10	ORG 542 562	Administración Local
+T11	PER 564 580	Juan Frommknecht
+T12	ORG 617 625	Gobierno
+T13	LOC 770 793	calle Cortes de Navarra
+T14	LOC 797 804	Milagro
+T15	ORG 948 968	Administración Local
+T16	PER 970 986	Juan Frommknecht
+T17	PER 1553 1559	Gurrea
+T18	LOC 1625 1648	calle Cortes de Navarra
+T19	PER 1713 1719	Gurrea

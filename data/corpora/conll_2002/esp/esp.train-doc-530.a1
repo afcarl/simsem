@@ -1,0 +1,16 @@
+T1	ORG 0 3	EFE
+T2	LOC 29 34	Cádiz
+T3	ORG 44 47	EFE
+T4	LOC 69 74	Cádiz
+T5	ORG 81 111	Consejería de Asuntos Sociales
+T6	LOC 182 187	Cádiz
+T7	ORG 227 233	Afanas
+T8	LOC 292 297	Cádiz
+T9	ORG 304 334	Consejería de Asuntos Sociales
+T10	PER 336 353	Prudencia Rebollo
+T11	ORG 456 462	Afanas
+T12	PER 534 541	Rebollo
+T13	ORG 804 810	Afanas
+T14	ORG 1106 1114	Hacienda
+T15	ORG 1205 1211	Afanas
+T16	ORG 1213 1229	Asuntos Sociales

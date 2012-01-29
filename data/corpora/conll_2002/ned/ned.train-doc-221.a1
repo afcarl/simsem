@@ -1,0 +1,42 @@
+T1	PER 0 14	Geert Versnick
+T2	LOC 35 40	Kongo
+T3	PER 70 78	Versnick
+T4	ORG 103 121	Buitenlandse Zaken
+T5	ORG 157 179	Hoge Raad voor Diamant
+T6	LOC 183 192	Antwerpen
+T7	ORG 234 237	HRD
+T8	LOC 283 288	Kongo
+T9	PER 291 293	MR
+T10	MISC 317 327	Buitenland
+T11	PER 350 364	Geert Versnick
+T12	LOC 392 396	Gent
+T13	LOC 400 406	België
+T14	LOC 464 473	Antwerpen
+T15	PER 514 521	Kasanji
+T16	PER 583 605	Alphonse Ngoyi Kasanji
+T17	MISC 650 659	Kongolese
+T18	MISC 696 705	Kongolese
+T19	PER 726 733	Mukamba
+T20	PER 806 819	Jonas Mukamba
+T21	LOC 868 876	Kinshasa
+T22	PER 898 912	Geert Versnick
+T23	ORG 914 917	VLD
+T24	PER 991 1006	Patrice Lumumba
+T25	MISC 1058 1067	Kongolese
+T26	PER 1184 1191	Mukamba
+T27	ORG 1224 1241	commissie-Lumumba
+T28	PER 1290 1297	Lumumba
+T29	LOC 1303 1310	Katanga
+T30	PER 1351 1359	Versnick
+T31	ORG 1401 1419	Buitenlandse Zaken
+T32	PER 1420 1432	Louis Michel
+T33	LOC 1543 1551	Kinshasa
+T34	PER 1672 1679	Mukamba
+T35	PER 1764 1772	Versnick
+T36	PER 1796 1804	Versnick
+T37	PER 1894 1902	Versnick
+T38	PER 1913 1927	Maarten Rabaey
+T39	ORG 1928 1937	De Morgen
+T40	PER 2086 2093	Mukamba
+T41	ORG 2136 2140	MIBA
+T42	MISC 2146 2155	Kongolese

@@ -1,0 +1,32 @@
+T1	LOC 0 10	Washington
+T2	ORG 20 23	EFE
+T3	ORG 31 40	Pentágono
+T4	MISC 55 63	Internet
+T5	ORG 180 186	Marina
+T6	ORG 191 199	Ejército
+T7	ORG 204 216	Fuerza Aérea
+T8	ORG 221 245	Servicio de Guardacostas
+T9	ORG 251 271	Infantería de Marina
+T10	ORG 373 382	Pentágono
+T11	MISC 429 435	Yahoo!
+T12	MISC 437 462	http: //careers.yahoo.com
+T13	LOC 523 527	EEUU
+T14	MISC 582 590	Internet
+T15	ORG 713 728	Fuerzas Armadas
+T16	PER 753 768	Patricia Tracey
+T17	ORG 795 836	Defensa para Política de Personal Militar
+T18	PER 838 850	Tanya Singer
+T19	MISC 866 880	Yahoo! Careers
+T20	MISC 959 973	Yahoo! Careers
+T21	PER 1169 1175	Singer
+T22	ORG 1194 1209	Fuerzas Armadas
+T23	ORG 1321 1333	Fuerza Aérea
+T24	MISC 1415 1425	F-15 Eagle
+T25	ORG 1436 1442	Marina
+T26	ORG 1593 1601	Ejército
+T27	ORG 1721 1735	Golden Knights
+T28	ORG 1768 1788	Infantería de Marina
+T29	ORG 1863 1877	Escuela Básica
+T30	ORG 1991 2015	Servicio de Guardacostas
+T31	ORG 2496 2509	Fuerza Armada
+T32	PER 2517 2523	Tracey

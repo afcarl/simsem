@@ -1,0 +1,31 @@
+T1	ORG 0 3	EFE
+T2	LOC 9 13	Lima
+T3	ORG 23 26	EFE
+T4	LOC 57 62	China
+T5	LOC 72 80	Colombia
+T6	LOC 82 89	Ecuador
+T7	LOC 91 95	Perú
+T8	LOC 98 107	Venezuela
+T9	ORG 212 228	Comunidad Andina
+T10	ORG 230 233	CAN
+T11	LOC 251 255	Lima
+T12	MISC 418 455	"Oportunidades de negocios CAN-China"
+T13	ORG 475 516	Secretaría General de la Comunidad Andina
+T14	ORG 608 618	Ministerio
+T15	ORG 630 651	Relaciones Exteriores
+T16	ORG 657 683	Cámara de Comercio de Lima
+T17	ORG 728 731	CAN
+T18	LOC 1010 1015	Pekín
+T19	ORG 1061 1117	Consejo Chino para el Fomento del Comercio Internacional
+T20	PER 1119 1129	Liu Wenjie
+T21	ORG 1162 1165	CAN
+T22	ORG 1179 1186	Bolivia
+T23	ORG 1188 1196	Colombia
+T24	ORG 1198 1205	Ecuador
+T25	ORG 1207 1211	Perú
+T26	ORG 1214 1223	Venezuela
+T27	ORG 1227 1232	China
+T28	MISC 1303 1346	Mecanismo de Consulta Política. Cooperación
+T29	ORG 1550 1553	CAN
+T30	ORG 1616 1621	China
+T31	ORG 1890 1906	Comunidad Andina

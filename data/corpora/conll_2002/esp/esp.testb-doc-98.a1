@@ -1,0 +1,41 @@
+T1	LOC 0 10	Pontevedra
+T2	ORG 20 23	EFE
+T3	LOC 104 122	Palacio de Cultura
+T4	LOC 126 136	Pontevedra
+T5	PER 138 159	Carlota Alvarez Basso
+T6	PER 246 267	Carlota Alvarez Basso
+T7	ORG 597 601	PSOE
+T8	PER 603 618	Roberto Taboada
+T9	ORG 731 749	Palacio de Cultura
+T10	PER 916 931	Carlota Alvarez
+T11	ORG 1076 1096	Palacio de Congresos
+T12	ORG 1105 1117	Ayuntamiento
+T13	ORG 1155 1172	Policía Municipal
+T14	ORG 1189 1198	Auditorio
+T15	PER 1201 1214	Alvarez Basso
+T16	LOC 1448 1469	Palacio de la Cultura
+T17	PER 1559 1568	Luis Bará
+T18	MISC 1582 1589	Cultura
+T19	PER 1663 1678	Carlota Alvarez
+T20	ORG 1716 1734	Palacio de Cultura
+T21	PER 1762 1773	Bará Torres
+T22	ORG 1784 1787	BNG
+T23	PER 1871 1886	Carlota Alvarez
+T24	PER 1961 1987	Raimundo González Carballo
+T25	MISC 2001 2008	Tráfico
+T26	ORG 2054 2062	Gobierno
+T27	ORG 2077 2080	BNG
+T28	ORG 2238 2251	Policía Local
+T29	PER 2291 2306	Roberto Taboada
+T30	ORG 2321 2325	PSOE
+T31	PER 2343 2358	Carlota Alvarez
+T32	ORG 2369 2382	Policía Local
+T33	MISC 2445 2452	Cultura
+T34	MISC 2455 2462	Tráfico
+T35	LOC 2584 2593	Auditorio
+T36	PER 2608 2625	Juan Luis Pedrosa
+T37	ORG 2640 2642	PP
+T38	PER 2706 2727	Carlota Alvarez Basso
+T39	ORG 2749 2769	Palacio de Congresos
+T40	ORG 2871 2879	Gobierno
+T41	ORG 2884 2887	BNG

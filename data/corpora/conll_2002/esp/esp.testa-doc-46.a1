@@ -1,0 +1,33 @@
+T1	LOC 0 5	Miami
+T2	LOC 7 11	EEUU
+T3	ORG 22 25	EFE
+T4	ORG 41 59	"The Web Hatchery"
+T5	MISC 91 102	MundoIT.com
+T6	MISC 131 139	Internet
+T7	LOC 220 233	Latinoamérica
+T8	MISC 235 246	MundoIT.com
+T9	LOC 385 398	Latinoamérica
+T10	PER 512 526	Daniel Sawicki
+T11	PER 604 619	Isaías Abrutzky
+T12	ORG 661 674	diario Clarín
+T13	LOC 678 687	Argentina
+T14	MISC 848 855	MundoIT
+T15	LOC 1034 1047	Latinoamérica
+T16	LOC 1050 1064	Estados Unidos
+T17	PER 1074 1081	Sawicki
+T18	LOC 1177 1186	Argentina
+T19	LOC 1188 1194	Brasil
+T20	LOC 1196 1204	Colombia
+T21	LOC 1206 1212	España
+T22	ORG 1362 1365	MIT
+T23	ORG 1367 1374	Cornell
+T24	ORG 1376 1389	Virginia Tech
+T25	ORG 1391 1396	Brown
+T26	ORG 1398 1406	Stanford
+T27	ORG 1408 1418	Texas Tech
+T28	ORG 1420 1433	Florida State
+T29	ORG 1439 1464	Universidad de California
+T30	MISC 1572 1583	MundoIT.com
+T31	MISC 1613 1621	Internet
+T32	ORG 1739 1757	"The Web Hatchery"
+T33	LOC 1771 1778	Florida

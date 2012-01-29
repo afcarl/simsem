@@ -1,0 +1,12 @@
+T1	ORG 26 32	BRASIL
+T2	ORG 53 57	ACNO
+T3	LOC 58 72	Río de Janeiro
+T4	LOC 74 80	Brasil
+T5	ORG 83 86	EFE
+T6	ORG 108 114	Brasil
+T7	PER 116 141	Fernando Henrique Cardoso
+T8	LOC 176 190	Río de Janeiro
+T9	MISC 194 206	XII Asamblea
+T10	ORG 213 255	Asociación de Comités Olímpicos Nacionales
+T11	ORG 257 261	ACNO
+T12	MISC 297 303	FP7441

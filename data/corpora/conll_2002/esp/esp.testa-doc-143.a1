@@ -1,0 +1,23 @@
+T1	LOC 0 12	Buenos Aires
+T2	ORG 21 24	EFE
+T3	LOC 43 55	Buenos Aires
+T4	PER 115 128	Juan de Garay
+T5	MISC 190 198	Obelisco
+T6	MISC 270 294	Gobierno de Buenos Aires
+T7	PER 296 311	Enrique Olivera
+T8	MISC 466 474	Obelisco
+T9	PER 546 551	Garay
+T10	MISC 640 657	Cruz de Calatrava
+T11	LOC 751 792	Puerto de Santa María de los Buenos Aires
+T12	LOC 794 817	Santa Fe de la Trinidad
+T13	LOC 819 859	San Juan de Vera de las Siete Corrientes
+T14	LOC 862 890	Concepción de Nuestra Señora
+T15	PER 892 905	Juan de Garay
+T16	LOC 925 937	Buenos Aires
+T17	MISC 952 967	Río de la Plata
+T18	PER 1043 1059	Pedro de Mendoza
+T19	LOC 1115 1123	Santa Fe
+T20	MISC 1220 1243	"Ciudad de los Césares"
+T21	LOC 1369 1381	Buenos Aires
+T22	PER 1552 1559	Olivera
+T23	LOC 1634 1646	Buenos Aires

@@ -1,0 +1,24 @@
+T1	LOC 0 9	Santander
+T2	ORG 19 22	EFE
+T3	ORG 27 55	Izquierda Unida de Santander
+T4	MISC 98 104	Ciudad
+T5	ORG 283 315	Consejo Político Municipal de IU
+T6	LOC 319 328	Santander
+T7	PER 330 354	Ernesto Gómez de la Hera
+T8	PER 526 542	Gómez de la Hera
+T9	MISC 589 595	Ciudad
+T10	ORG 700 702	IU
+T11	ORG 734 746	Ayuntamiento
+T12	MISC 863 869	Ciudad
+T13	ORG 944 946	IU
+T14	LOC 1027 1037	calle Alta
+T15	LOC 1039 1045	Cazoña
+T16	LOC 1085 1093	Castilla
+T17	LOC 1096 1103	Hermida
+T18	MISC 1106 1112	Ciudad
+T19	PER 1361 1377	Gómez de la Hera
+T20	ORG 1409 1411	PP
+T21	LOC 1526 1535	Santander
+T22	LOC 1599 1605	Europa
+T23	ORG 1706 1718	Ayuntamiento
+T24	LOC 1830 1839	Santander

@@ -1,0 +1,27 @@
+T1	LOC 0 7	Vitoria
+T2	ORG 17 20	EFE
+T3	ORG 63 73	Diputación
+T4	PER 83 99	Carlos Samaniego
+T5	MISC 181 207	Trabajo del Gobierno Vasco
+T6	PER 209 226	Sabin Intxaurraga
+T7	LOC 300 305	Alava
+T8	MISC 343 350	Trabajo
+T9	LOC 388 393	Ayala
+T10	LOC 396 403	Vitoria
+T11	LOC 428 452	Comunidad Autónoma Vasca
+T12	ORG 657 665	Gobierno
+T13	LOC 725 739	Valle de Ayala
+T14	LOC 806 813	Vitoria
+T15	PER 926 935	Samaniego
+T16	ORG 977 983	Eustat
+T17	ORG 990 994	Inem
+T18	ORG 1056 1061	Alava
+T19	LOC 1318 1323	Alava
+T20	PER 1520 1536	Carlos Samaniego
+T21	ORG 1558 1578	Consejo de Diputados
+T22	MISC 1594 1598	Plan
+T23	ORG 1675 1689	Gobierno Vasco
+T24	ORG 1722 1727	Eudel
+T25	ORG 1938 1961	Consejo Vasco de Empleo
+T26	PER 1963 1972	Samaniego
+T27	ORG 2059 2063	Inem

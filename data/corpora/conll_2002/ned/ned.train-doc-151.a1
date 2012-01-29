@@ -1,0 +1,45 @@
+T1	LOC 0 11	Futuroscope
+T2	PER 334 345	Jan Ullrich
+T3	MISC 511 515	Tour
+T4	MISC 544 546	BK
+T5	PER 550 565	Lance Armstrong
+T6	PER 580 593	Vandenbroucke
+T7	MISC 669 690	Ronde van Zwitserland
+T8	PER 700 713	Vandenbroucke
+T9	PER 748 763	Oscar Camenzind
+T10	MISC 787 792	Ronde
+T11	MISC 866 885	Ronde van Frankrijk
+T12	PER 999 1012	Vandenbroucke
+T13	MISC 1047 1052	Ronde
+T14	ORG 1234 1243	De Morgen
+T15	PER 1280 1293	Vandenbroucke
+T16	MISC 1305 1309	Tour
+T17	PER 1346 1359	Vandenbroucke
+T18	PER 1496 1515	Frank Vandenbroucke
+T19	MISC 1867 1887	Luik-Bastenaken-Luik
+T20	MISC 1929 1935	Alpen-
+T21	MISC 1939 1953	Pyreneeën-cols
+T22	MISC 1974 1996	Belgisch kampioenschap
+T23	PER 2130 2143	Vandenbroucke
+T24	MISC 2207 2221	Cofidis-kopman
+T25	MISC 2357 2376	Ronde van Frankrijk
+T26	PER 2510 2513	Vdb
+T27	MISC 2540 2544	Tour
+T28	MISC 2665 2677	mysterie-Vdb
+T29	PER 2699 2712	Vandenbroucke
+T30	MISC 2723 2728	Ronde
+T31	MISC 2786 2791	Sport
+T32	PER 2797 2800	Vdb
+T33	MISC 2890 2902	Tour-winnaar
+T34	LOC 2986 2994	Hautacam
+T35	PER 3043 3056	Vandenbroucke
+T36	MISC 3114 3118	Tour
+T37	ORG 3221 3230	US Postal
+T38	ORG 3234 3241	Telekom
+T39	MISC 3585 3591	Vuelta
+T40	PER 3702 3715	Ruud Goossens
+T41	PER 3728 3731	Vdb
+T42	PER 3791 3810	Frank Vandenbroucke
+T43	PER 3816 3829	Ruud Goossens
+T44	MISC 3855 3877	Belgisch kampioenschap
+T45	MISC 4042 4048	Vuelta

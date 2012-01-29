@@ -1,0 +1,54 @@
+T1	LOC 0 12	Buenos Aires
+T2	ORG 22 25	EFE
+T3	MISC 47 54	Trabajo
+T4	ORG 67 86	"Mercosur ampliado"
+T5	ORG 253 256	OIT
+T6	ORG 275 284	Argentina
+T7	ORG 286 292	Brasil
+T8	ORG 294 302	Paraguay
+T9	ORG 305 312	Uruguay
+T10	ORG 338 359	Mercado Común del Sur
+T11	ORG 361 369	MERCOSUR
+T12	ORG 381 388	Bolivia
+T13	ORG 391 396	Chile
+T14	LOC 469 481	Buenos Aires
+T15	ORG 615 631	Mercosur laboral
+T16	ORG 807 814	Bolivia
+T17	ORG 817 822	Chile
+T18	ORG 866 874	Mercosur
+T19	ORG 946 967	Comisión Sociolaboral
+T20	ORG 1046 1062	Mercosur laboral
+T21	MISC 1116 1175	88 Conferencia de la Organización Internacional del Trabajo
+T22	ORG 1177 1180	OIT
+T23	LOC 1216 1223	Ginebra
+T24	LOC 1322 1329	Ginebra
+T25	MISC 1559 1605	Trabajo, Empleo. Formación de Recursos Humanos
+T26	PER 1607 1625	Alberto Flamarique
+T27	MISC 1646 1654	Asamblea
+T28	MISC 1661 1685	88 Conferencia de la OIT
+T29	ORG 1716 1724	Mercosur
+T30	PER 2041 2051	Flamarique
+T31	MISC 2269 2290	Trabajo. Microempresa
+T32	ORG 2294 2301	Bolivia
+T33	PER 2303 2324	Luis Vázquez Villamor
+T34	MISC 2589 2606	Justicia. Trabajo
+T35	ORG 2610 2618	Paraguay
+T36	PER 2620 2645	Silvio Ferreyra Fernández
+T37	ORG 2717 2725	Paraguay
+T38	ORG 2745 2753	Gobierno
+T39	LOC 2986 2994	Paraguay
+T40	ORG 3038 3046	Gobierno
+T41	PER 3102 3120	Alberto Flamarique
+T42	LOC 3125 3134	Argentina
+T43	PER 3136 3157	Luis Vásquez Villamor
+T44	LOC 3162 3169	Bolivia
+T45	PER 3171 3199	Francisco O. Neves Dornelles
+T46	LOC 3204 3210	Brasil
+T47	PER 3212 3235	Ricardo Solari Saavedra
+T48	LOC 3240 3245	Chile
+T49	PER 3247 3272	Silvio Ferreyra Fernández
+T50	LOC 3277 3285	Paraguay
+T51	PER 3289 3302	Alvaro Alonso
+T52	LOC 3307 3314	Uruguay
+T53	ORG 3380 3389	Argentina
+T54	PER 3391 3409	Fernando de la Rúa

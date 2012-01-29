@@ -1,0 +1,21 @@
+T1	LOC 27 33	Madrid
+T2	ORG 43 46	EFE
+T3	ORG 54 71	Policía Municipal
+T4	MISC 131 134	BMW
+T5	LOC 158 164	Madrid
+T6	ORG 182 208	Cuerpo Nacional de Policía
+T7	ORG 286 289	Efe
+T8	ORG 304 321	Policía Municipal
+T9	PER 345 353	Karin N.
+T10	MISC 392 395	BMW
+T11	LOC 402 426	calle de Guzmán el Bueno
+T12	ORG 471 477	Cuerpo
+T13	MISC 490 500	Alfa Romeo
+T14	MISC 546 556	Alfa Romeo
+T15	PER 572 580	Karin N.
+T16	LOC 612 628	calle de Palafox
+T17	ORG 729 746	Policía Municipal
+T18	PER 756 764	Karin N.
+T19	LOC 771 795	calle de Guzmán el Bueno
+T20	ORG 822 848	Cuerpo Nacional de Policía
+T21	LOC 975 983	Chamberí

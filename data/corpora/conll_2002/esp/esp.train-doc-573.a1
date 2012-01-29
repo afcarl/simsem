@@ -1,0 +1,23 @@
+T1	LOC 0 5	París
+T2	ORG 15 18	EFE
+T3	ORG 23 30	Francia
+T4	LOC 64 69	India
+T5	ORG 157 169	Saint Gobain
+T6	ORG 171 178	Lafarge
+T7	ORG 181 189	Michelin
+T8	ORG 219 225	Estado
+T9	MISC 237 254	Comercio Exterior
+T10	PER 256 271	Francois Huwart
+T11	ORG 367 374	Francia
+T12	LOC 381 386	India
+T13	ORG 610 622	Saint Gobain
+T14	LOC 639 644	India
+T15	ORG 686 696	Tata Steel
+T16	ORG 701 708	Lafarge
+T17	ORG 758 766	Michelin
+T18	LOC 770 774	Pune
+T19	PER 795 801	Huwart
+T20	MISC 1009 1028	Comercio. Industria
+T21	PER 1030 1044	Murasoli Maran
+T22	LOC 1220 1225	India
+T23	LOC 1281 1286	China

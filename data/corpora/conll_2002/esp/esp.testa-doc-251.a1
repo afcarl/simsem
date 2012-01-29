@@ -1,0 +1,54 @@
+T1	PER 4 15	Jorge Muñoa
+T2	LOC 16 22	Madrid
+T3	ORG 32 35	EFE
+T4	ORG 45 56	Real Madrid
+T5	PER 67 77	Djordjevic
+T6	PER 84 98	Alberto Angulo
+T7	PER 105 111	Iturbe
+T8	PER 117 122	Scott
+T9	PER 128 137	Struelens
+T10	PER 162 174	Lucio Angulo
+T11	PER 181 186	Betts
+T12	PER 193 200	Galilea
+T13	ORG 211 229	Adecco Estudiantes
+T14	PER 240 246	Azofra
+T15	PER 252 260	Thompson
+T16	PER 267 274	Jiménez
+T17	PER 281 294	Alfonso Reyes
+T18	PER 300 308	Vandiver
+T19	PER 333 337	Aisa
+T20	PER 343 355	Felipe Reyes
+T21	PER 361 369	Martínez
+T22	PER 377 383	Arranz
+T23	PER 400 408	Betancor
+T24	PER 410 424	Martín Bertrán
+T25	PER 427 435	Martínez
+T26	MISC 523 531	Liga ACB
+T27	LOC 557 573	Raimundo Saporta
+T28	ORG 731 742	Real Madrid
+T29	ORG 839 848	Barcelona
+T30	ORG 855 866	Estudiantes
+T31	PER 882 899	Chandler Thompson
+T32	PER 1012 1027	Sergio Scariolo
+T33	ORG 1168 1174	Madrid
+T34	ORG 1201 1210	Barcelona
+T35	MISC 1298 1306	Euroliga
+T36	PER 1508 1516	Scariolo
+T37	PER 1544 1558	Eric Struelens
+T38	PER 1561 1582	Aleksander Djordjevic
+T39	PER 1693 1705	César Arranz
+T40	ORG 1793 1801	' Estu '
+T41	ORG 1858 1864	Madrid
+T42	ORG 1960 1971	Estudiantes
+T43	PER 2127 2141	Alberto Angulo
+T44	ORG 2187 2193	Madrid
+T45	MISC 2238 2250	Copa del Rey
+T46	PER 2259 2272	Alfonso Reyes
+T47	PER 2275 2291	Gonzalo Martínez
+T48	LOC 2370 2386	Raimundo Saporta
+T49	PER 2535 2545	Djordjevic
+T50	PER 2757 2766	Juan Aisa
+T51	ORG 2807 2813	Madrid
+T52	PER 2943 2951	Thompson
+T53	ORG 3156 3165	Barcelona
+T54	ORG 3171 3177	Madrid

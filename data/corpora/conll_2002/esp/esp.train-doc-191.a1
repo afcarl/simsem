@@ -1,0 +1,44 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	ORG 27 36	Patronato
+T4	ORG 41 58	Museo Reina Sofía
+T5	PER 101 118	Juan Manuel Bonet
+T6	PER 168 179	José Guirao
+T7	ORG 285 294	Patronato
+T8	MISC 331 359	Educación, Cultura. Deportes
+T9	PER 361 379	Pilar del Castillo
+T10	PER 414 419	Bonet
+T11	ORG 423 443	Consejo de Ministros
+T12	PER 483 490	Picasso
+T13	MISC 566 578	Tres cráneos
+T14	PER 617 631	Marina Picasso
+T15	PER 678 686	Fernande
+T16	PER 744 750	Guirao
+T17	PER 840 847	Picasso
+T18	PER 906 910	Goya
+T19	ORG 1061 1072	Reina Sofía
+T20	PER 1144 1163	Jiri Georg Dokoupil
+T21	LOC 1170 1190	Palacio de Velázquez
+T22	LOC 1195 1201	Retiro
+T23	ORG 1403 1413	Ministerio
+T24	ORG 1418 1427	Patronato
+T25	MISC 1644 1651	Cultura
+T26	PER 1652 1666	Carmen Alborch
+T27	ORG 1706 1708	PP
+T28	PER 1751 1768	Esperanza Aguirre
+T29	PER 1771 1784	Mariano Rajoy
+T30	MISC 1803 1821	Educación. Cultura
+T31	ORG 1878 1884	Estado
+T32	MISC 1888 1895	Cultura
+T33	PER 1897 1916	Miguel Angel Cortés
+T34	PER 1972 1978	Guirao
+T35	ORG 2088 2099	Reina Sofía
+T36	ORG 2170 2184	Administración
+T37	ORG 2389 2400	Reina Sofía
+T38	PER 2645 2654	Juan Gris
+T39	PER 2656 2660	Miró
+T40	PER 2663 2670	Picasso
+T41	PER 2729 2735	Guirao
+T42	ORG 2958 2969	Reina Sofía
+T43	ORG 3224 3235	Reina Sofía
+T44	MISC 3614 3622	Guernica

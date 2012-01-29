@@ -1,0 +1,30 @@
+T1	ORG 0 6	EFECOM
+T2	LOC 16 24	Zaragoza
+T3	ORG 34 37	EFE
+T4	MISC 57 74	Liga de Campeones
+T5	ORG 100 108	Valencia
+T6	ORG 114 125	Real Madrid
+T7	PER 196 204	Helguera
+T8	PER 206 210	Iván
+T9	PER 213 217	Luis
+T10	ORG 248 261	Real Zaragoza
+T11	ORG 366 377	Real Madrid
+T12	ORG 404 412	Valencia
+T13	MISC 439 456	Liga de Campeones
+T14	LOC 585 604	estadio Saint Denis
+T15	LOC 609 614	París
+T16	PER 703 716	Luis Helguera
+T17	ORG 758 766	Valencia
+T18	ORG 774 787	Real Zaragoza
+T19	ORG 894 902	Valencia
+T20	ORG 1013 1024	Real Madrid
+T21	LOC 1121 1127	Europa
+T22	ORG 1141 1152	Real Madrid
+T23	ORG 1220 1226	Madrid
+T24	PER 1313 1326	Luis Helguera
+T25	PER 1415 1431	familia Helguera
+T26	PER 1447 1451	Iván
+T27	MISC 1460 1474	Copa de Europa
+T28	PER 1554 1558	Luis
+T29	PER 1608 1612	Iván
+T30	ORG 1836 1849	Real Zaragoza

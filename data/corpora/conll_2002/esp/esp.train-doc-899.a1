@@ -1,0 +1,44 @@
+T1	LOC 0 8	Valencia
+T2	ORG 18 21	EFE
+T3	ORG 26 72	La Real Academia de Bellas Artes de San Carlos
+T4	LOC 76 84	Valencia
+T5	LOC 131 141	Nueva York
+T6	PER 173 195	Jonathan Brown Carroll
+T7	PER 276 285	Velázquez
+T8	LOC 326 367	Salón de la Real Academia de Bellas Artes
+T9	MISC 486 529	Real Academia de Bellas Artes de San Carlos
+T10	MISC 568 578	Patrimonio
+T11	PER 580 595	Consuelo Císcar
+T12	ORG 631 655	Ayuntamiento de Valencia
+T13	PER 657 669	Alfonso Grau
+T14	PER 686 701	José Esteve Edo
+T15	PER 703 716	Nasio Bayarri
+T16	PER 719 738	Francisco Sebastián
+T17	PER 753 759	Císcar
+T18	PER 875 889	Jonathan Brown
+T19	PER 1262 1276	Jonathan Brown
+T20	PER 1452 1458	Císcar
+T21	MISC 1523 1564	"Los retratos de Felipe IV por Velázquez"
+T22	PER 1640 1662	Jonathan Brown Carroll
+T23	MISC 1694 1698	Arte
+T24	LOC 1705 1725	Princeton University
+T25	ORG 1777 1799	Institute of Fine Arts
+T26	ORG 1806 1825	New York University
+T27	MISC 1874 1886	Bellas Artes
+T28	MISC 1919 1978	"Los siglos de oro en los virreinatos de América 1550-1700"
+T29	LOC 1998 2004	Madrid
+T30	LOC 2011 2027	Museo de América
+T31	MISC 2040 2053	Año Velázquez
+T32	MISC 2086 2125	"Velázquez en los museos de Nueva York"
+T33	MISC 2142 2147	Frick
+T34	MISC 2167 2233	"Velázquez, Rubens. van Dyck. Pintores cortesanos del siglo XVIII"
+T35	LOC 2240 2255	Museo del Prado
+T36	ORG 2411 2441	American Philosophical Society
+T37	ORG 2476 2503	Hispanic Society of America
+T38	LOC 2573 2606	Museo Metropolitano de Nueva York
+T39	LOC 2629 2650	Museo Meadows de Arte
+T40	LOC 2669 2675	España
+T41	MISC 2687 2717	Medalla de Oro de Bellas Artes
+T42	MISC 2731 2740	Académico
+T43	ORG 2763 2808	Real Academia de Bellas Artes de San Fernando
+T44	LOC 2812 2818	Madrid

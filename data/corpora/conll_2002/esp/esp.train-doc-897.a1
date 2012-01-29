@@ -1,0 +1,24 @@
+T1	ORG 0 3	EFE
+T2	LOC 37 51	Río de Janeiro
+T3	ORG 61 64	EFE
+T4	ORG 115 144	Comité Olímpico Internacional
+T5	ORG 146 149	COI
+T6	MISC 158 180	Juegos de Sydney '2000
+T7	ORG 217 263	Asociación de los Comités Olímpicos Nacionales
+T8	ORG 265 269	ACNO
+T9	PER 310 328	Mario Vázquez Raña
+T10	MISC 358 364	Juegos
+T11	LOC 489 503	Río de Janeiro
+T12	PER 505 517	Vásquez Raña
+T13	ORG 663 667	ACNO
+T14	MISC 849 878	Juegos Olímpicos de Moscú '80
+T15	MISC 881 896	Los Angeles '84
+T16	ORG 971 975	ACNO
+T17	MISC 995 1001	Juegos
+T18	MISC 1023 1032	Olimpiada
+T19	LOC 1054 1061	Atlanta
+T20	ORG 1063 1073	Yugoslavia
+T21	PER 1136 1148	Vásquez Raña
+T22	MISC 1195 1211	Juegos de Sydney
+T23	ORG 1263 1273	Afganistán
+T24	ORG 1298 1301	COI

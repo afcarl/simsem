@@ -1,0 +1,35 @@
+T1	LOC 45 52	Amerika
+T2	ORG 156 164	Delhaize
+T3	LOC 179 187	Virginia
+T4	LOC 191 205	North-Carolina
+T5	ORG 215 224	De Morgen
+T6	MISC 247 268	Microsoft-probleempje
+T7	MISC 343 349	Britse
+T8	ORG 350 354	HSBC
+T9	PER 388 402	Robert Melders
+T10	ORG 409 415	Fortis
+T11	ORG 425 431	Solvay
+T12	ORG 448 457	Bloomberg
+T13	MISC 477 486	Belgische
+T14	LOC 526 533	Brussel
+T15	LOC 852 854	VS
+T16	LOC 858 874	Groot-Brittannië
+T17	MISC 888 900	Memorial Day
+T18	LOC 917 924	Brussel
+T19	LOC 926 935	Amsterdam
+T20	LOC 937 943	Zürich
+T21	MISC 950 964	Scandinavische
+T22	MISC 986 1000	Hemelvaartsdag
+T23	MISC 1020 1029	Belgische
+T24	ORG 1121 1134	Goldman Sachs
+T25	ORG 1217 1225	Delhaize
+T26	ORG 1369 1378	Hannaford
+T27	ORG 1384 1400	Delhaize America
+T28	PER 1479 1493	Robert Melders
+T29	ORG 1514 1520	Fortis
+T30	MISC 1572 1592	De Financiële Morgen
+T31	ORG 1593 1600	Goldman
+T32	LOC 1646 1653	Brussel
+T33	MISC 1727 1733	Nasdaq
+T34	MISC 1776 1788	Bel 20-index
+T35	ORG 1866 1874	Delhaize

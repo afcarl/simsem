@@ -1,0 +1,49 @@
+T1	LOC 0 6	Oviedo
+T2	ORG 16 19	EFE
+T3	LOC 42 64	Principado de Asturias
+T4	PER 66 88	Vicente Alvarez Areces
+T5	ORG 119 127	Gobierno
+T6	ORG 239 281	Confederación Asturiana de la Construcción
+T7	ORG 283 286	CAC
+T8	PER 289 295	Areces
+T9	MISC 314 330	Infraestructuras
+T10	PER 332 357	Juan Ramón García Secades
+T11	ORG 391 433	Confederación Asturiana de la Construcción
+T12	ORG 435 438	CAC
+T13	MISC 475 536	V Feria Internacional de la Construcción del Noroeste Ibérico
+T14	ORG 538 543	FICNI
+T15	LOC 605 610	Gijón
+T16	PER 637 651	Alvarez Areces
+T17	ORG 681 691	Principado
+T18	MISC 698 703	Feria
+T19	ORG 776 779	CAC
+T20	PER 781 804	Serafín Abilio Martínez
+T21	ORG 826 839	Confederación
+T22	MISC 917 922	Feria
+T23	ORG 988 993	FICNI
+T24	ORG 1185 1195	Construmat
+T25	LOC 1215 1224	Barcelona
+T26	ORG 1244 1262	Cámara de Comercio
+T27	MISC 1321 1326	Feria
+T28	ORG 1356 1359	CAC
+T29	MISC 1394 1399	Feria
+T30	PER 1577 1585	Martínez
+T31	ORG 1587 1592	FICNI
+T32	MISC 1775 1797	Autovía del Cantábrico
+T33	ORG 1818 1821	CAC
+T34	LOC 1926 1934	Asturias
+T35	ORG 1965 1978	Confederación
+T36	LOC 2036 2044	Asturias
+T37	ORG 2071 2113	Confederación Asturiana de la Construcción
+T38	ORG 2133 2143	Principado
+T39	PER 2218 2226	Martínez
+T40	LOC 2347 2353	España
+T41	LOC 2359 2365	Europa
+T42	PER 2557 2565	Martínez
+T43	LOC 2586 2594	Asturias
+T44	ORG 2657 2662	FICNI
+T45	ORG 2698 2714	Caja de Asturias
+T46	ORG 2723 2764	Cámara de Comercio, Industria. Navegación
+T47	LOC 2768 2773	Gijón
+T48	MISC 2884 2900	Plomada de plata
+T49	MISC 2984 2989	Feria

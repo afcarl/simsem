@@ -1,0 +1,16 @@
+T1	LOC 10 19	Santander
+T2	ORG 29 32	EFE
+T3	LOC 54 60	España
+T4	LOC 63 70	Francia
+T5	MISC 192 198	Cumbre
+T6	ORG 353 361	Gobierno
+T7	PER 363 379	José María Aznar
+T8	LOC 417 453	Palacio de la Magdalena de Santander
+T9	MISC 468 496	XIII Cumbre Hispano-francesa
+T10	PER 726 740	Jacques Chirac
+T11	ORG 802 808	España
+T12	PER 896 909	Lionel Jospin
+T13	ORG 948 955	Francia
+T14	LOC 1290 1299	Perpignan
+T15	LOC 1302 1310	Figueras
+T16	LOC 1334 1351	túnel del Somport

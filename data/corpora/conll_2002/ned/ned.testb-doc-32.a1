@@ -1,0 +1,50 @@
+T1	PER 0 5	Green
+T2	PER 15 26	El-Guerrouj
+T3	PER 37 54	Solberg-Hattestad
+T4	PER 72 78	Kotova
+T5	LOC 103 110	Berlijn
+T6	PER 168 182	Bert Leenaerts
+T7	MISC 195 213	Memorial Van Damme
+T8	MISC 287 296	Amerikaan
+T9	PER 297 311	Maurice Greene
+T10	MISC 316 325	Marokkaan
+T11	PER 326 344	Hicham El-Guerrouj
+T12	MISC 349 355	Noorse
+T13	PER 356 379	Trine Solberg-Hattestad
+T14	MISC 386 395	Russische
+T15	PER 396 410	Tatiana Kotova
+T16	MISC 431 452	Golden League-meeting
+T17	LOC 457 464	Berlijn
+T18	ORG 586 590	IAAF
+T19	MISC 627 640	Golden League
+T20	ORG 681 685	IAAF
+T21	MISC 757 770	Golden League
+T22	MISC 788 793	Sport
+T23	ORG 797 806	De Morgen
+T24	MISC 812 818	Belgen
+T25	MISC 830 851	Golden League-meeting
+T26	LOC 855 862	Berlijn
+T27	MISC 893 904	Amerikaanse
+T28	PER 905 916	Gail Devers
+T29	MISC 940 958	Memorial Van Damme
+T30	LOC 1009 1015	Parijs
+T31	LOC 1017 1021	Rome
+T32	LOC 1023 1027	Oslo
+T33	LOC 1029 1035	Zürich
+T34	LOC 1037 1048	Monte Carlo
+T35	LOC 1050 1057	Brussel
+T36	LOC 1061 1068	Berlijn
+T37	LOC 1070 1077	Berlijn
+T38	LOC 1110 1117	Berlijn
+T39	PER 1118 1133	Mohamed Mourhit
+T40	MISC 1163 1171	Europese
+T41	MISC 1357 1378	Golden League-circuit
+T42	MISC 1397 1408	Amerikaanse
+T43	LOC 1483 1489	Sydney
+T44	PER 1548 1560	Jo Van Daele
+T45	MISC 1636 1642	Belgen
+T46	LOC 1657 1664	Berlijn
+T47	MISC 1756 1762	Duitse
+T48	PER 1780 1792	Marion Jones
+T49	PER 1802 1816	Maurice Greene
+T50	PER 1828 1843	Michael Johnson

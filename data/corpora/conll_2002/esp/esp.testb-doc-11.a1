@@ -1,0 +1,26 @@
+T1	LOC 0 5	Avila
+T2	ORG 15 18	EFE
+T3	PER 37 49	Rafael Moneo
+T4	LOC 170 175	Avila
+T5	LOC 237 261	plaza del Mercado Grande
+T6	PER 334 339	Moneo
+T7	PER 598 603	Moneo
+T8	PER 626 646	Consejero de Fomento
+T9	PER 648 673	José Luis González Vallvé
+T10	LOC 695 700	Avila
+T11	PER 702 722	Agustín Díaz de Mera
+T12	LOC 882 902	iglesia de San Pedro
+T13	LOC 924 931	Muralla
+T14	ORG 1040 1061	Consejería de Fomento
+T15	PER 1084 1089	Moneo
+T16	PER 1403 1418	González Vallvé
+T17	PER 1589 1594	Moneo
+T18	MISC 1744 1751	Fomento
+T19	MISC 1844 1849	C-505
+T20	LOC 1851 1856	Avila
+T21	LOC 1859 1868	Las Rozas
+T22	MISC 1875 1881	AV-503
+T23	LOC 1883 1888	Avila
+T24	LOC 1891 1899	Cebreros
+T25	LOC 2034 2044	Naturávila
+T26	ORG 2062 2072	Diputación

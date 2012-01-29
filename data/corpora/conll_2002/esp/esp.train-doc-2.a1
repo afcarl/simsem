@@ -1,0 +1,19 @@
+T1	LOC 0 9	Melbourne
+T2	LOC 11 20	Australia
+T3	ORG 31 34	EFE
+T4	PER 42 68	Abogado General del Estado
+T5	PER 70 84	Daryl Williams
+T6	MISC 271 274	Ley
+T7	PER 292 307	Abogado General
+T8	ORG 347 363	Tribunal Supremo
+T9	LOC 378 386	Victoria
+T10	LOC 388 397	Australia
+T11	MISC 610 618	CrimeNet
+T12	PER 909 924	Abogado General
+T13	LOC 928 936	Victoria
+T14	PER 938 947	Rob Hulls
+T15	MISC 1022 1030	CrimeNet
+T16	PER 1044 1049	Hulls
+T17	ORG 1090 1102	Commonwealth
+T18	LOC 1405 1414	Melbourne
+T19	LOC 1438 1446	Victoria

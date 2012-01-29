@@ -1,0 +1,56 @@
+T1	LOC 0 8	Marbella
+T2	LOC 10 16	Málaga
+T3	ORG 27 30	EFE
+T4	ORG 50 59	Juzgado 1
+T5	LOC 63 71	Marbella
+T6	PER 73 95	María Luisa de la Hera
+T7	ORG 219 256	Comisión de Gobierno del Ayuntamiento
+T8	ORG 259 269	Incopromar
+T9	PER 305 320	Antonio Herrero
+T10	ORG 409 446	Plataforma Ciudadana para la Revisión
+T11	ORG 451 455	PGOU
+T12	ORG 581 585	PGOU
+T13	PER 661 670	Jesús Gil
+T14	ORG 703 723	Comisión de Gobierno
+T15	ORG 766 768	PA
+T16	ORG 783 786	GIL
+T17	PER 788 804	Carlos Fernández
+T18	PER 840 843	Gil
+T19	PER 845 861	José Luis Sierra
+T20	MISC 885 894	Urbanismo
+T21	PER 896 913	Juan Antonio Roca
+T22	ORG 948 951	Efe
+T23	ORG 1091 1108	Ministerio Fiscal
+T24	PER 1254 1274	Isabel García Marcos
+T25	ORG 1364 1367	GIL
+T26	PER 1419 1425	Sierra
+T27	PER 1428 1432	Roca
+T28	ORG 1548 1564	Incopromar S. L.
+T29	ORG 1568 1588	Comisión de Gobierno
+T30	ORG 1681 1686	Pleno
+T31	ORG 1784 1792	Comisión
+T32	ORG 1875 1885	Delegación
+T33	MISC 1900 1905	Obras
+T34	ORG 1936 1954	Junta de Andalucía
+T35	LOC 2028 2043	Avenida del Mar
+T36	LOC 2101 2123	Los Corrales de Buelna
+T37	ORG 2133 2136	EFE
+T38	MISC 2279 2303	Maratón de Cuentacuentos
+T39	LOC 2307 2329	Los Corrales de Buelna
+T40	ORG 2480 2505	Escuela Municipal de Arte
+T41	LOC 2550 2560	Las Monjas
+T42	ORG 2621 2638	Gobierno Regional
+T43	PER 2640 2660	Miguel Angel Revilla
+T44	MISC 2678 2685	Sanidad
+T45	PER 2687 2703	Jaime del Barrio
+T46	ORG 2741 2758	PSOE-Progresistas
+T47	PER 2759 2770	Angel Duque
+T48	PER 2821 2832	Dani García
+T49	LOC 2888 2897	Cantabria
+T50	LOC 2915 2927	Los Corrales
+T51	PER 2929 2945	Mercedes Toribio
+T52	ORG 3102 3129	Asociación Cultural Muriago
+T53	ORG 3135 3170	Biblioteca Municipal Guillermo Arce
+T54	ORG 3192 3230	Ayuntamiento de Los Corrales de Buelna
+T55	ORG 3232 3246	Caja Cantabria
+T56	ORG 3252 3269	Gobierno Regional

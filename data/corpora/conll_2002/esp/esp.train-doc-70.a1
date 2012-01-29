@@ -1,0 +1,38 @@
+T1	LOC 0 7	Cáceres
+T2	ORG 17 20	EFE
+T3	ORG 28 30	PP
+T4	LOC 50 57	Cáceres
+T5	ORG 73 94	Oficina Parlamentaria
+T6	ORG 134 140	Cortes
+T7	PER 232 254	Angel Carlos Bernáldez
+T8	ORG 327 335	Gobierno
+T9	PER 337 353	José María Aznar
+T10	PER 569 578	Bernáldez
+T11	PER 895 904	Bernáldez
+T12	ORG 1015 1041	Comisión de Medio Ambiente
+T13	MISC 1091 1116	Plan Hidrológico Nacional
+T14	MISC 1122 1145	Plan Nacional de Riegos
+T15	MISC 1167 1178	Agricultura
+T16	ORG 1199 1229	Comisión Permanente del Senado
+T17	PER 1243 1271	Rosa María Fernández Pacheco
+T18	ORG 1315 1373	Comisión de la Sociedad de la Información. el Conocimiento
+T19	MISC 1394 1401	Trabajo
+T20	MISC 1404 1419	Política Social
+T21	MISC 1475 1487	Tercera Edad
+T22	MISC 1530 1539	Alzheimer
+T23	PER 1560 1590	José Manuel García Ballesteros
+T24	ORG 1615 1639	Comisión de Presupuestos
+T25	MISC 1663 1679	Infraestructuras
+T26	PER 1695 1704	Bernáldez
+T27	ORG 1912 1918	Cortes
+T28	ORG 1973 1981	Congreso
+T29	ORG 1987 1993	Senado
+T30	LOC 2006 2012	Madrid
+T31	LOC 2024 2055	Calle Antonio Hurtado, número 5
+T32	LOC 2060 2067	Cáceres
+T33	LOC 2098 2105	Cáceres
+T34	LOC 2224 2234	Valdecañas
+T35	PER 2321 2330	Bernáldez
+T36	ORG 2437 2457	Junta de Extremadura
+T37	ORG 2530 2536	Senado
+T38	MISC 2665 2677	Constitución

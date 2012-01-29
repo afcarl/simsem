@@ -1,0 +1,9 @@
+T1	ORG 0 13	EFE-Cantabria
+T2	LOC 14 21	Londres
+T3	ORG 31 37	EFECOM
+T4	LOC 54 61	Londres
+T5	MISC 101 109	FTSE 100
+T6	MISC 189 197	FTSE 250
+T7	ORG 357 372	British Airways
+T8	ORG 589 603	Marks. Spencer
+T9	ORG 833 850	Vodafone Airtouch

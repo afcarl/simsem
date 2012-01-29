@@ -1,0 +1,26 @@
+T1	LOC 0 10	Montevideo
+T2	ORG 20 23	EFE
+T3	ORG 46 48	PP
+T4	PER 56 71	Carlos Iturgaiz
+T5	LOC 223 233	País Vasco
+T6	MISC 271 339	"Los partidos políticos. los medios de comunicación en Iberoamérica"
+T7	LOC 363 373	Montevideo
+T8	PER 375 383	Iturgaiz
+T9	LOC 485 495	País Vasco
+T10	ORG 667 669	PP
+T11	PER 1237 1245	Iturgaiz
+T12	ORG 1592 1594	PP
+T13	LOC 1599 1609	País Vasco
+T14	PER 1969 1995	Jose Luis López de Lacalle
+T15	ORG 2038 2041	ETA
+T16	LOC 2116 2126	País Vasco
+T17	ORG 2129 2132	ETA
+T18	ORG 2342 2345	ETA
+T19	PER 2661 2669	Iturgaiz
+T20	ORG 2720 2747	Partido Nacional de Uruguay
+T21	PER 2749 2769	Luis Alberto Lacalle
+T22	PER 2971 2978	Lacalle
+T23	LOC 3002 3009	Uruguay
+T24	ORG 3191 3223	Fundación Popular Iberoamericana
+T25	ORG 3229 3251	Instituto Manuel Oribe
+T26	LOC 3255 3262	Uruguay

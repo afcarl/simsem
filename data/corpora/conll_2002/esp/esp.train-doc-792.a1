@@ -1,0 +1,15 @@
+T1	ORG 0 3	COI
+T2	PER 6 13	V. RAÑA
+T3	PER 57 66	SAMARANCH
+T4	LOC 67 81	Río de Janeiro
+T5	LOC 83 89	Brasil
+T6	ORG 92 95	EFE
+T7	PER 123 141	Mario Vázquez Raña
+T8	ORG 155 158	COI
+T9	ORG 178 220	Asociación de Comités Olímpicos Nacionales
+T10	ORG 222 226	ACNO
+T11	ORG 236 271	Organización Deportiva Panamericana
+T12	ORG 273 278	ODEPA
+T13	PER 350 372	Juan Antonio Samaranch
+T14	ORG 387 390	COI
+T15	MISC 444 450	DH8677

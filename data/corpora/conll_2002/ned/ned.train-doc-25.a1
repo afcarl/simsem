@@ -1,0 +1,44 @@
+T1	LOC 0 7	Brussel
+T2	PER 21 38	Francis Vermeiren
+T3	ORG 46 67	Gemeentelijke Holding
+T4	MISC 76 92	VLD-burgemeester
+T5	LOC 97 105	Zaventem
+T6	ORG 271 280	Financiën
+T7	PER 281 293	Hugo Schiltz
+T8	ORG 295 297	VU
+T9	LOC 452 461	Antwerpen
+T10	ORG 551 572	Gemeentelijke Holding
+T11	ORG 574 583	De Morgen
+T12	LOC 584 593	Antwerpen
+T13	MISC 697 715	Dexia-participatie
+T14	MISC 812 826	Dexia-aandelen
+T15	PER 1097 1106	Vermeiren
+T16	MISC 1209 1238	Geografisch Informatiesysteem
+T17	MISC 1240 1243	GIS
+T18	LOC 1267 1276	Antwerpen
+T19	PER 1561 1576	Bob Van Hooland
+T20	ORG 1578 1580	VU
+T21	LOC 1586 1604	Sint-Martens-Latem
+T22	PER 1680 1689	Vermeiren
+T23	MISC 1940 1958	Dexia-participatie
+T24	ORG 2066 2071	Dexia
+T25	LOC 2109 2118	Antwerpen
+T26	LOC 2161 2170	Antwerpen
+T27	MISC 2182 2202	Dexia-eensgezindheid
+T28	LOC 2293 2302	Antwerpen
+T29	LOC 2365 2375	Schaarbeek
+T30	MISC 2392 2401	Belgische
+T31	ORG 2514 2519	Dexia
+T32	PER 2850 2861	Van Hooland
+T33	PER 3132 3146	Ruben Mooijman
+T34	PER 3154 3161	Schiltz
+T35	ORG 3202 3223	Gemeentelijke Holding
+T36	ORG 3282 3287	Dexia
+T37	MISC 3304 3324	De Financiële Morgen
+T38	ORG 3388 3403	Gemeentekrediet
+T39	MISC 3441 3452	Dexia-groep
+T40	ORG 3465 3480	Gemeentekrediet
+T41	ORG 3662 3683	Gemeentelijke Holding
+T42	PER 3752 3759	Schiltz
+T43	PER 3837 3851	Ruben Mooijman
+T44	MISC 3864 3871	Vlaamse

@@ -1,0 +1,29 @@
+T1	LOC 0 6	La Paz
+T2	ORG 16 19	EFE
+T3	ORG 39 47	Gobierno
+T4	MISC 49 57	Interior
+T5	LOC 62 69	Bolivia
+T6	PER 71 87	Guillermo Fortún
+T7	PER 387 393	Fortún
+T8	LOC 465 472	Chapare
+T9	LOC 520 527	Bolivia
+T10	ORG 747 755	Gobierno
+T11	MISC 812 823	"coca cero"
+T12	PER 850 861	Hugo Banzer
+T13	LOC 932 939	Chapare
+T14	ORG 995 1003	Gobierno
+T15	PER 1180 1186	Fortún
+T16	ORG 1202 1210	Gobierno
+T17	ORG 1319 1327	Gobierno
+T18	ORG 1333 1399	Confederación Sindical Unica de Trabajadores Campesinos de Bolivia
+T19	LOC 1632 1639	Bolivia
+T20	MISC 1821 1835	Ley de Aduanas
+T21	LOC 2027 2034	Bolivia
+T22	MISC 2182 2204	Producto Interno Bruto
+T23	PER 2235 2241	Fortún
+T24	LOC 2253 2260	Bolivia
+T25	ORG 2561 2587	Fuerza de Tareas Conjuntas
+T26	PER 2721 2741	Ministro de Gobierno
+T27	ORG 2952 2960	Gobierno
+T28	PER 3015 3021	Fortún
+T29	LOC 3051 3058	Bolivia

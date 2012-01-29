@@ -1,0 +1,30 @@
+T1	LOC 0 7	Melilla
+T2	ORG 17 20	EFE
+T3	LOC 42 49	Melilla
+T4	PER 51 67	Mustafa Aberchan
+T5	ORG 69 71	CM
+T6	ORG 108 116	Gobierno
+T7	PER 118 132	Arturo Esteban
+T8	ORG 225 228	ONG
+T9	PER 346 354	Aberchan
+T10	PER 357 364	Esteban
+T11	LOC 437 444	Melilla
+T12	LOC 447 456	Marruecos
+T13	PER 610 618	Aberchan
+T14	ORG 899 913	Administración
+T15	ORG 949 972	Delegación del Gobierno
+T16	ORG 1084 1087	ONG
+T17	LOC 1160 1165	Nador
+T18	LOC 1167 1176	Marruecos
+T19	PER 1233 1240	Esteban
+T20	ORG 1290 1304	Administración
+T21	ORG 1468 1483	Granja Agrícola
+T22	ORG 1626 1642	Administraciones
+T23	ORG 1649 1667	Mesa Institucional
+T24	ORG 1714 1722	Gobierno
+T25	PER 1808 1816	Aberchan
+T26	PER 1818 1825	Esteban
+T27	LOC 1877 1884	Melilla
+T28	PER 1886 1900	Francisco Díez
+T29	ORG 1981 2002	Ministerio de Defensa
+T30	ORG 2078 2092	Administración

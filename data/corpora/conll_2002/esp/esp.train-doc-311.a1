@@ -1,0 +1,16 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	ORG 27 34	Policía
+T4	LOC 121 127	Madrid
+T5	ORG 335 363	Jefatura Superior de Policía
+T6	PER 418 428	Antonio I.
+T7	PER 443 449	Ion T.
+T8	PER 461 471	Florian M.
+T9	LOC 639 645	Burgos
+T10	MISC 647 650	N-I
+T11	ORG 705 731	Cuerpo Nacional de Policía
+T12	MISC 827 831	Star
+T13	LOC 1231 1241	Alcobendas
+T14	PER 1697 1703	Ion T.
+T15	ORG 1749 1756	Policía
+T16	LOC 1891 1897	Burgos

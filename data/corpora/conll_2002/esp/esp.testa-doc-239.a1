@@ -1,0 +1,11 @@
+T1	PER 0 5	AZNAR
+T2	LOC 57 63	MADRID
+T3	LOC 64 71	Sevilla
+T4	ORG 73 76	EFE
+T5	ORG 99 107	Gobierno
+T6	PER 109 125	José María Aznar
+T7	LOC 198 219	Palacio de la Moncloa
+T8	ORG 236 245	Ejecutivo
+T9	PER 255 268	Manuel Chaves
+T10	ORG 468 477	Ejecutivo
+T11	PER 479 493	Rafael Camacho

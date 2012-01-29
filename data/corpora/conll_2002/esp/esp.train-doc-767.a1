@@ -1,0 +1,22 @@
+T1	LOC 0 5	Miami
+T2	LOC 7 11	EEUU
+T3	ORG 22 25	EFE
+T4	LOC 87 94	Florida
+T5	ORG 248 267	Patrulla Fronteriza
+T6	LOC 394 401	Florida
+T7	ORG 410 413	EFE
+T8	ORG 432 451	Patrulla Fronteriza
+T9	LOC 456 461	Miami
+T10	PER 463 473	Joe Mellia
+T11	LOC 553 564	Santa Clara
+T12	LOC 566 570	Cuba
+T13	LOC 719 724	Krome
+T14	LOC 729 734	Miami
+T15	ORG 780 819	Servicio de Inmigración. Naturalización
+T16	ORG 821 824	INS
+T17	LOC 896 909	Cayo Vizcaíno
+T18	ORG 1007 1026	Patrulla Fronteriza
+T19	LOC 1085 1092	Florida
+T20	ORG 1167 1177	Washington
+T21	ORG 1180 1189	La Habana
+T22	LOC 1346 1350	EEUU

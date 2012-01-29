@@ -1,0 +1,9 @@
+T1	ORG 0 3	EFE
+T2	LOC 17 22	Quito
+T3	ORG 32 35	EFE
+T4	MISC 92 99	Richter
+T5	LOC 123 129	Tumaco
+T6	LOC 131 139	Colombia
+T7	LOC 164 171	Ecuador
+T8	ORG 184 238	Instituto Geofísico de la Escuela Politécnica Nacional
+T9	LOC 465 472	Ecuador

@@ -1,0 +1,33 @@
+T1	LOC 0 17	Santiago de Chile
+T2	ORG 27 30	EFE
+T3	ORG 38 70	Corte de Apelaciones de Santiago
+T4	PER 131 147	Augusto Pinochet
+T5	PER 335 352	Rubén Ballesteros
+T6	PER 616 624	Pinochet
+T7	PER 666 683	Juan Guzmán Tapia
+T8	ORG 1083 1088	Corte
+T9	PER 1233 1244	Ballesteros
+T10	ORG 1309 1314	Corte
+T11	PER 1394 1405	Ballesteros
+T12	MISC 1445 1450	Corte
+T13	PER 1728 1739	Ballesteros
+T14	PER 1823 1831	Pinochet
+T15	LOC 2105 2110	Chile
+T16	PER 2179 2187	Pinochet
+T17	PER 2384 2405	Sergio Arellano Stark
+T18	PER 2482 2493	Juan Guzmán
+T19	PER 2495 2501	Guzmán
+T20	PER 2520 2528	Pinochet
+T21	PER 2555 2569	Arellano Stark
+T22	ORG 2652 2660	Ejército
+T23	PER 2756 2764	Pinochet
+T24	MISC 2800 2819	Palacio de Justicia
+T25	PER 2900 2911	Ballesteros
+T26	PER 3267 3275	Pinochet
+T27	PER 3367 3379	Ronald Woods
+T28	LOC 3445 3453	Santiago
+T29	ORG 3490 3510	Corte de Apelaciones
+T30	PER 3533 3541	Pinochet
+T31	ORG 3562 3575	Corte Suprema
+T32	ORG 3673 3693	Corte de Apelaciones
+T33	ORG 3826 3860	Corte de Apelaciones de San Miguel

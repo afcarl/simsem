@@ -1,0 +1,17 @@
+T1	LOC 0 10	Valladolid
+T2	ORG 20 23	EFE
+T3	ORG 45 53	CSI-CSIF
+T4	LOC 57 71	Castilla. León
+T5	PER 73 86	Carlos Herrán
+T6	MISC 226 240	"caso Mañueco"
+T7	ORG 290 295	Junta
+T8	ORG 386 409	Presidencia de la Junta
+T9	PER 411 424	Jesús Mañueco
+T10	ORG 450 453	Efe
+T11	PER 470 476	Herrán
+T12	ORG 697 705	CSI-CSIF
+T13	ORG 784 792	CSI-CSIF
+T14	ORG 854 877	Junta de Castilla. León
+T15	ORG 995 1034	Presidencia. Administración Territorial
+T16	PER 1036 1049	Jesús Mañueco
+T17	ORG 1098 1106	CSI-CSIF

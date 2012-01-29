@@ -1,0 +1,13 @@
+T1	LOC 0 10	Washington
+T2	ORG 20 23	EFE
+T3	MISC 76 84	Economía
+T4	PER 86 98	Rodrigo Rato
+T5	MISC 276 282	Tesoro
+T6	PER 284 300	Lawrence Summers
+T7	PER 302 306	Rato
+T8	ORG 506 514	Gobierno
+T9	PER 742 746	Rato
+T10	LOC 868 874	España
+T11	PER 927 934	Summers
+T12	PER 936 940	Rato
+T13	ORG 1091 1105	Estados Unidos

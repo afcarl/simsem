@@ -1,0 +1,36 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	LOC 42 48	Madrid
+T4	PER 50 68	Fernando Fernández
+T5	MISC 129 143	Ley del Jurado
+T6	PER 210 228	Fernando Fernández
+T7	ORG 259 292	Asociación de la Prensa de Madrid
+T8	MISC 329 356	"La Reforma de la Justicia"
+T9	ORG 376 396	Foro Jurídico Pelayo
+T10	ORG 450 489	Consejo General de la Abogacía Española
+T11	PER 491 502	Eugenio Gay
+T12	ORG 519 552	Colegio de Procuradores de Madrid
+T13	PER 554 573	Juan Carlos Estévez
+T14	MISC 595 611	Derecho Procesal
+T15	PER 612 630	Andrés de la Oliva
+T16	PER 632 650	Fernando Fernández
+T17	MISC 954 994	"Ley de Enjuiciamiento Criminal moderna"
+T18	MISC 1051 1059	Justicia
+T19	MISC 1225 1232	Juzgado
+T20	PER 1313 1331	Fernando Fernández
+T21	PER 1551 1562	Eugenio Gay
+T22	MISC 1627 1635	Justicia
+T23	MISC 1681 1689	Justicia
+T24	PER 1738 1749	Eugenio Gay
+T25	MISC 1780 1807	Ley de Enjuiciamiento Civil
+T26	MISC 1809 1812	LEC
+T27	ORG 2006 2032	Administración de Justicia
+T28	PER 2086 2105	Juan Carlos Estévez
+T29	MISC 2121 2124	LEC
+T30	PER 2259 2278	Juan Carlos Estévez
+T31	MISC 2334 2342	Justicia
+T32	PER 2344 2356	Angel Acebes
+T33	PER 2358 2376	Andrés de la Oliva
+T34	ORG 2396 2430	Consejo General del Poder Judicial
+T35	MISC 2488 2496	Justicia
+T36	ORG 2516 2523	Consejo

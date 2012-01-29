@@ -1,0 +1,10 @@
+T1	ORG 0 13	EFE-Cantabria
+T2	LOC 14 19	París
+T3	ORG 29 32	EFE
+T4	ORG 40 44	UEFA
+T5	MISC 67 81	' gol de oro '
+T6	MISC 100 117	Liga de Campeones
+T7	ORG 125 133	Valencia
+T8	ORG 139 150	Real Madrid
+T9	LOC 187 220	Estadio de Francia de Saint Denis
+T10	PER 424 439	Stefano Braschi

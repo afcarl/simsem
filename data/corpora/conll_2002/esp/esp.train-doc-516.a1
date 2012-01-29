@@ -1,0 +1,21 @@
+T1	ORG 0 16	PROTECCION CIVIL
+T2	MISC 31 34	ECD
+T3	LOC 35 42	MIRANDA
+T4	MISC 60 65	PENBU
+T5	LOC 66 81	Miranda de Ebro
+T6	LOC 83 89	Burgos
+T7	ORG 100 103	EFE
+T8	ORG 111 137	Subdelegación del Gobierno
+T9	LOC 141 147	Burgos
+T10	MISC 167 210	Estación de Clasificación. Descontaminación
+T11	MISC 212 215	ECD
+T12	LOC 220 235	Miranda de Ebro
+T13	ORG 294 310	Protección Civil
+T14	MISC 317 353	Plan de Emergencia Nuclear de Burgos
+T15	MISC 355 360	PENBU
+T16	MISC 417 420	ECD
+T17	LOC 454 487	Polideportivo Municipal de Anduva
+T18	MISC 559 568	Logístico
+T19	MISC 570 581	Radiológico
+T20	MISC 583 592	Sanitario
+T21	MISC 595 604	Municipal

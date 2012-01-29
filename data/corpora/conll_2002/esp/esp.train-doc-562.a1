@@ -1,0 +1,29 @@
+T1	LOC 0 11	Estrasburgo
+T2	LOC 13 20	Francia
+T3	ORG 31 34	EFE
+T4	ORG 59 103	Asamblea Parlamentaria del Consejo de Europa
+T5	PER 105 126	lord Russell-Johnston
+T6	ORG 175 182	Kremlin
+T7	PER 240 254	Aslán Masjádov
+T8	ORG 413 417	Duma
+T9	PER 438 456	Guennadi Selezniov
+T10	PER 513 521	Masjádov
+T11	PER 523 539	Russell-Johnston
+T12	ORG 589 596	Kremlin
+T13	LOC 602 611	Chechenia
+T14	PER 613 634	Serguei Yastrzhembski
+T15	PER 683 691	Masjádov
+T16	PER 693 706	Yastrzhembski
+T17	ORG 776 781	Rusia
+T18	LOC 900 909	Chechenia
+T19	PER 911 927	Russell-Johnston
+T20	PER 947 955	Masjádov
+T21	LOC 962 967	París
+T22	ORG 1104 1126	Asamblea Parlamentaria
+T23	ORG 1332 1340	Asamblea
+T24	ORG 1403 1408	Rusia
+T25	ORG 1590 1612	Asamblea Parlamentaria
+T26	ORG 1675 1706	Gobiernos del Consejo de Europa
+T27	ORG 1726 1731	Rusia
+T28	ORG 1761 1770	Gobiernos
+T29	ORG 1892 1897	Moscú

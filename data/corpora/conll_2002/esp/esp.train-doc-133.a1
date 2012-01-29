@@ -1,0 +1,27 @@
+T1	LOC 0 10	Washington
+T2	ORG 20 23	EFE
+T3	MISC 43 49	Viagra
+T4	ORG 215 221	Pfizer
+T5	ORG 354 402	Colegio Estadounidense de Obstetras. Ginecólogos
+T6	LOC 407 420	San Francisco
+T7	ORG 475 496	Universidad de Boston
+T8	MISC 515 521	Viagra
+T9	MISC 589 595	Viagra
+T10	ORG 776 782	Pfizer
+T11	PER 947 960	John Bancroft
+T12	ORG 975 991	Instituto Kinsey
+T13	PER 1057 1065	Bancroft
+T14	MISC 1221 1227	Viagra
+T15	ORG 1396 1402	Pfizer
+T16	PER 1554 1569	Michael Sweeney
+T17	PER 1571 1583	Laura Berman
+T18	ORG 1597 1630	Centro de Salud Sexual de Mujeres
+T19	ORG 1637 1658	Universidad de Boston
+T20	MISC 1770 1776	Viagra
+T21	ORG 1876 1882	Pfizer
+T22	PER 1884 1890	Berman
+T23	MISC 1948 1954	Viagra
+T24	PER 2154 2160	Berman
+T25	MISC 2330 2336	Viagra
+T26	PER 2574 2580	Berman
+T27	PER 2759 2765	Berman

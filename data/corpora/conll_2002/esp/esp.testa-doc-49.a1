@@ -1,0 +1,22 @@
+T1	LOC 0 12	Buenos Aires
+T2	ORG 22 25	EFE
+T3	PER 48 71	María Servini de Cubría
+T4	PER 273 287	Ricardo Parodi
+T5	ORG 405 433	Comisión de Derechos Humanos
+T6	ORG 436 471	Garantías de la Cámara de Diputados
+T7	ORG 522 532	Parlamento
+T8	ORG 575 583	Comisión
+T9	LOC 755 764	Argentina
+T10	MISC 866 874	Justicia
+T11	PER 896 913	Servini de Cubría
+T12	PER 1005 1011	Parodi
+T13	PER 1208 1214	Parodi
+T14	MISC 1319 1337	"grupos de tareas"
+T15	PER 1436 1453	Servini de Cubría
+T16	ORG 1681 1697	Marina de Guerra
+T17	LOC 1723 1736	Mar del Plata
+T18	LOC 1763 1775	Buenos Aires
+T19	PER 1828 1846	Policarpio Vázquez
+T20	ORG 2312 2336	Abuelas de Plaza de Mayo
+T21	PER 2597 2614	Servini de Cubría
+T22	PER 2624 2639	Adolfo Bagnasco

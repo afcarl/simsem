@@ -1,0 +1,25 @@
+T1	ORG 37 68	Mercado del Café, Azúcar. Cacao
+T2	LOC 72 82	Nueva York
+T3	LOC 210 215	Miami
+T4	LOC 217 221	EEUU
+T5	ORG 232 235	EFE
+T6	LOC 360 374	Estados Unidos
+T7	LOC 440 447	Florida
+T8	PER 480 491	Jim Johnson
+T9	ORG 530 549	Reynolds Tobacco Co
+T10	LOC 629 633	EEUU
+T11	PER 934 941	Johnson
+T12	LOC 1007 1012	Miami
+T13	LOC 1129 1136	Florida
+T14	LOC 1419 1426	Florida
+T15	LOC 1530 1537	Florida
+T16	LOC 2314 2321	Florida
+T17	LOC 2946 2953	Florida
+T18	ORG 3116 3144	R.. Reynolds Tobacco Company
+T19	ORG 3147 3165	Philip Morris, Inc
+T20	ORG 3168 3196	The American Tobacco Company
+T21	ORG 3199 3233	Brown and Williamson Tobacco, Corp
+T22	ORG 3236 3254	Liggett Group, Inc
+T23	ORG 3257 3276	Dosal Tobacco, Corp
+T24	ORG 3282 3321	Consejo de Investigación para el Tabaco
+T25	ORG 3327 3347	Instituto del Tabaco

@@ -1,0 +1,19 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 23	Córdoba
+T4	ORG 33 36	EFE
+T5	ORG 59 69	Córdoba CF
+T6	PER 71 85	José Escalante
+T7	ORG 98 101	Efe
+T8	PER 130 148	Manuel Palma Marín
+T9	ORG 252 262	Villarreal
+T10	PER 264 269	Palma
+T11	ORG 342 368	Sociedad Anónima Deportiva
+T12	PER 504 513	Escalante
+T13	LOC 839 847	Valencia
+T14	PER 849 858	Escalante
+T15	ORG 873 880	Levante
+T16	LOC 1072 1094	Santiago de Compostela
+T17	PER 1096 1105	Escalante
+T18	ORG 1136 1146	Villarreal
+T19	ORG 1196 1206	Villarreal

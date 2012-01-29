@@ -1,0 +1,25 @@
+T1	LOC 0 7	PIRINEO
+T2	LOC 8 23	La Seu d'Urgell
+T3	LOC 25 31	Lleida
+T4	ORG 42 45	EFE
+T5	PER 53 71	Papa Juan Pablo II
+T6	PER 94 113	Pere Tarrés. Claret
+T7	LOC 115 122	Manresa
+T8	LOC 131 140	Barcelona
+T9	ORG 189 217	Ejército Republicano Español
+T10	LOC 224 231	Pirineo
+T11	PER 260 277	Francesc Raventós
+T12	PER 352 363	Pere Tarrés
+T13	PER 473 479	Tarrés
+T14	LOC 501 507	Avinyó
+T15	LOC 509 518	Barcelona
+T16	LOC 522 542	Monistrol de Calders
+T17	LOC 544 553	Barcelona
+T18	LOC 585 601	barrio de Gracia
+T19	LOC 605 614	Barcelona
+T20	LOC 742 751	Valadrebo
+T21	LOC 753 757	Taús
+T22	MISC 786 791	Segre
+T23	MISC 807 819	Guerra Civil
+T24	MISC 850 866	Diario de Guerra
+T25	ORG 883 905	Seminario de Barcelona

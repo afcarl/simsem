@@ -1,0 +1,27 @@
+T1	ORG 0 3	EFE
+T2	LOC 12 20	Alcorcón
+T3	ORG 30 33	EFE
+T4	LOC 52 60	Alcorcón
+T5	PER 62 74	Pablo Zúñiga
+T6	ORG 140 160	Consorcio Madrid-Sur
+T7	LOC 182 193	Fuenlabrada
+T8	ORG 256 259	EFE
+T9	ORG 382 391	Comunidad
+T10	ORG 474 486	Ayuntamiento
+T11	ORG 525 545	Consorcio Madrid-Sur
+T12	LOC 890 909	Comunidad de Madrid
+T13	ORG 928 943	Partido Popular
+T14	ORG 973 976	EFE
+T15	ORG 1091 1104	Unión Europea
+T16	ORG 1194 1203	Comunidad
+T17	ORG 1341 1350	Consorcio
+T18	ORG 1564 1588	Ayuntamiento de Alcorcón
+T19	LOC 1826 1837	Fuenlabrada
+T20	LOC 1839 1846	Leganés
+T21	LOC 1848 1854	Getafe
+T22	LOC 1856 1861	Parla
+T23	LOC 1863 1868	Pinto
+T24	LOC 1870 1878	Móstoles
+T25	LOC 1881 1888	Humanes
+T26	ORG 1933 1953	Consorcio Madrid-Sur
+T27	ORG 2013 2026	Unión Europea

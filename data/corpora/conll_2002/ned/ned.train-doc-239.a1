@@ -1,0 +1,107 @@
+T1	PER 12 26	Raimond Goebel
+T2	PER 30 43	Rusht Rushtob
+T3	MISC 441 450	Luna Papa
+T4	LOC 474 481	Macondo
+T5	MISC 573 584	Siciliaanse
+T6	LOC 853 865	Tadzjikistan
+T7	MISC 1062 1074	Kosh ba kosh
+T8	MISC 1076 1090	Odds and Evens
+T9	LOC 1108 1115	Venetië
+T10	MISC 1119 1133	Zilveren Leeuw
+T11	MISC 1140 1152	Manneken Pis
+T12	PER 1504 1512	Faulkner
+T13	PER 1516 1530	García Márquez
+T14	PER 1937 1950	Khudojnazarov
+T15	PER 1993 2002	Kusturica
+T16	LOC 2007 2019	Tadzjikistan
+T17	MISC 2064 2073	Luna Papa
+T18	MISC 2114 2123	Luna Papa
+T19	PER 2164 2186	Bakhtiar Khudojnazarov
+T20	MISC 2239 2245	Bratan
+T21	MISC 2247 2254	Brother
+T22	PER 2346 2368	Bakhtiar Khudojnazarov
+T23	LOC 2542 2557	Latijns-Amerika
+T24	PER 2638 2651	Khudojnazarov
+T25	PER 2815 2825	Khabibulla
+T26	MISC 2958 2967	Luna Papa
+T27	PER 3044 3048	Emir
+T28	LOC 3118 3127	Samarkand
+T29	PER 3153 3161	Mamlakat
+T30	PER 3254 3263	Kusturica
+T31	PER 3402 3415	Khudojnazarov
+T32	LOC 3508 3514	België
+T33	MISC 3671 3680	Belgische
+T34	MISC 3799 3808	Luna Papa
+T35	PER 3987 4000	Khudojnazarov
+T36	PER 4073 4089	William Faulkner
+T37	PER 4093 4115	Gabriel García Márquez
+T38	PER 4444 4457	Khudojnazarov
+T39	PER 4898 4914	Martin Gschlacht
+T40	PER 4916 4932	Dusan Joksimovic
+T41	PER 4934 4951	Rostislav Pirumov
+T42	PER 4955 4967	Rali Ralchev
+T43	PER 4980 4997	Irakli Kwirikadza
+T44	PER 5001 5023	Bakhtiar Khudojnazarov
+T45	MISC 5293 5302	Luna Papa
+T46	LOC 5663 5675	Oezbezikstan
+T47	LOC 5677 5685	Kirgizië
+T48	LOC 5689 5701	Tadzjikistan
+T49	PER 6070 6080	Khabibulla
+T50	PER 6194 6207	Jan Temmerman
+T51	ORG 6295 6304	De Morgen
+T52	MISC 6567 6576	Luna Papa
+T53	LOC 6676 6688	Tadzjikistan
+T54	LOC 6780 6791	Sovjet-Unie
+T55	MISC 7158 7167	Luna Papa
+T56	MISC 7319 7332	Café des Arts
+T57	PER 7333 7343	Khabibulla
+T58	PER 7421 7429	Mamlakat
+T59	MISC 7541 7550	Luna Papa
+T60	PER 7581 7603	Bakhtiar Khudojnazarov
+T61	LOC 7608 7620	Tadzjikistan
+T62	LOC 7657 7664	Brussel
+T63	LOC 7672 7678	Brugge
+T64	PER 7804 7821	Chulpan Khamatova
+T65	PER 7823 7839	Moritz Bleibtreu
+T66	PER 7841 7854	Merab Ninidze
+T67	PER 7856 7871	Nikolai Fomenko
+T68	PER 7873 7891	Ato Mukhamedzhanov
+T69	MISC 7901 7910	Luna Papa
+T70	LOC 8194 8207	Kaspische Zee
+T71	PER 8367 8375	Mamlakat
+T72	LOC 9044 9051	Amerika
+T73	PER 9308 9318	Khabibulla
+T74	PER 9362 9384	Bakhtiar Khudojnazarov
+T75	MISC 9392 9401	Luna Papa
+T76	MISC 9474 9488	Khudojnazarovs
+T77	LOC 9525 9538	Centraal-Azië
+T78	LOC 9758 9770	Tadzjikistan
+T79	PER 9777 9784	Márquez
+T80	LOC 9821 9828	Macondo
+T81	MISC 9898 9906	Europese
+T82	LOC 10141 10152	Afghanistan
+T83	PER 10335 10339	Emir
+T84	PER 10737 10749	Yilmaz Guney
+T85	PER 10757 10775	Roberto Rossellini
+T86	MISC 10785 10794	Luna Papa
+T87	PER 10816 10820	Emir
+T88	LOC 10921 10934	Centraal-Azië
+T89	MISC 10973 10985	Manneken Pis
+T90	PER 11039 11055	Frank Van Passel
+T91	LOC 11110 11123	Centraal-Azië
+T92	MISC 11249 11258	Luna Papa
+T93	PER 11351 11364	Khudojnazarov
+T94	PER 11404 11413	Kusturica
+T95	LOC 11418 11430	Tadzjikistan
+T96	PER 11798 11814	Federico Fellini
+T97	PER 11864 11876	Satyajit Ray
+T98	PER 11880 11892	Yasujiro Ozu
+T99	LOC 11942 11954	Tadzjikistan
+T100	LOC 11999 12008	Duitsland
+T101	PER 12171 12193	Bakhtiar Khudojnazarov
+T102	ORG 12398 12407	Cinélibre
+T103	PER 12418 12431	Daler Nasarov
+T104	MISC 12525 12542	Verisj nje verisj
+T105	MISC 12544 12561	Believe It or Not
+T106	LOC 12660 12666	Moskou
+T107	PER 12711 12719	Mamlakat

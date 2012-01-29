@@ -1,0 +1,12 @@
+T1	LOC 0 10	Nueva York
+T2	ORG 20 23	EFE
+T3	LOC 42 52	Nueva York
+T4	MISC 302 327	Dow Jones de Industriales
+T5	LOC 350 361	Wall Street
+T6	MISC 516 522	Nasdaq
+T7	MISC 721 728	SS&P500
+T8	ORG 782 796	Estados Unidos
+T9	MISC 878 901	New York Stock Exchange
+T10	LOC 954 965	Wall Street
+T11	MISC 1089 1095	Tesoro
+T12	MISC 1446 1461	Reserva Federal

@@ -1,0 +1,13 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 25	Fráncfort
+T4	LOC 27 30	RFA
+T5	ORG 41 47	EFECOM
+T6	ORG 81 97	Deutsche Telekom
+T7	ORG 178 187	Multilink
+T8	ORG 212 226	France Telecom
+T9	ORG 334 350	Deutsche Telekom
+T10	ORG 445 458	MetroHoldings
+T11	ORG 460 469	Multilink
+T12	LOC 549 554	Suiza
+T13	ORG 627 643	Deutsche Telekom

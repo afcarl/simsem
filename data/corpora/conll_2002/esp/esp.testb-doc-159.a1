@@ -1,0 +1,27 @@
+T1	LOC 0 6	Daroca
+T2	LOC 8 16	Zaragoza
+T3	ORG 27 30	EFE
+T4	LOC 51 57	Daroca
+T5	LOC 225 231	Aragón
+T6	ORG 236 258	Museo de la Pastelería
+T7	LOC 262 268	Daroca
+T8	LOC 291 308	calle Santa Lucía
+T9	PER 373 386	Manuel Segura
+T10	MISC 965 979	familia Segura
+T11	LOC 1022 1028	Daroca
+T12	LOC 1030 1039	Calamocha
+T13	LOC 1041 1049	Cariñena
+T14	LOC 1071 1079	Zaragoza
+T15	PER 1089 1102	Manuel Segura
+T16	ORG 1113 1116	EFE
+T17	MISC 1143 1165	Museo de la Pastelería
+T18	MISC 1483 1488	Museo
+T19	LOC 1591 1597	Daroca
+T20	LOC 1658 1666	Cariñena
+T21	MISC 1672 1678	Segura
+T22	PER 1788 1801	Manuel Segura
+T23	LOC 1907 1913	Daroca
+T24	MISC 2058 2064	Segura
+T25	MISC 2085 2090	Museo
+T26	ORG 2130 2154	ADRI de Daroca-Calamocha
+T27	ORG 2183 2196	Unión Europea

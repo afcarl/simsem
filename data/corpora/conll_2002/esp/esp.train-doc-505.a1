@@ -1,0 +1,42 @@
+T1	LOC 0 6	México
+T2	ORG 16 19	EFE
+T3	ORG 28 50	Chivas del Guadalajara
+T4	ORG 150 156	Toluca
+T5	ORG 259 265	Toluca
+T6	ORG 401 407	Puebla
+T7	ORG 525 536	Guadalajara
+T8	ORG 660 665	Atlas
+T9	ORG 814 820	Chivas
+T10	ORG 943 948	Atlas
+T11	ORG 1098 1104	Toluca
+T12	LOC 1132 1147	Estadio Jalisco
+T13	LOC 1152 1163	Guadalajara
+T14	LOC 1174 1180	México
+T15	ORG 1201 1207	Chivas
+T16	LOC 1235 1247	La Bombonera
+T17	MISC 1355 1371	Torneo de Verano
+T18	LOC 1430 1437	Jalisco
+T19	LOC 1442 1453	Guadalajara
+T20	ORG 1532 1538	Toluca
+T21	LOC 1641 1647	Santos
+T22	LOC 1649 1656	América
+T23	LOC 1662 1671	Monterrey
+T24	PER 1754 1766	Enrique Meza
+T25	ORG 1775 1781	Toluca
+T26	ORG 1831 1837	Chivas
+T27	PER 1877 1892	Ricardo Ferreti
+T28	PER 1957 1979	José Saturnino Cardozo
+T29	PER 1994 2014	Carlos María Morales
+T30	PER 2162 2170	Ferreira
+T31	PER 2172 2179	Naelson
+T32	PER 2197 2216	José Manuel Abundis
+T33	PER 2219 2230	Víctor Ruiz
+T34	PER 2298 2312	Claudio Suárez
+T35	PER 2329 2344	Osvaldo Sánchez
+T36	ORG 2349 2360	Guadalajara
+T37	ORG 2474 2480	Toluca
+T38	ORG 2502 2508	Chivas
+T39	LOC 2551 2565	Ricardo Peláez
+T40	ORG 2712 2717	Atlas
+T41	LOC 2807 2822	estadio Jalisco
+T42	LOC 2826 2837	Guadalajara

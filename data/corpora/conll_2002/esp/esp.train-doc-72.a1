@@ -1,0 +1,47 @@
+T1	LOC 0 5	Rabat
+T2	ORG 15 18	EFE
+T3	MISC 46 64	Agricultura. Pesca
+T4	PER 66 85	Miguel Arias Cañete
+T5	ORG 164 173	Marruecos
+T6	ORG 179 192	Unión Europea
+T7	ORG 194 196	UE
+T8	ORG 227 233	España
+T9	PER 235 247	Arias Cañete
+T10	LOC 268 273	Rabat
+T11	PER 312 336	Ministros de Agricultura
+T12	LOC 355 367	Mediterráneo
+T13	ORG 376 379	EFE
+T14	ORG 463 472	Marruecos
+T15	ORG 479 481	UE
+T16	ORG 504 510	España
+T17	ORG 513 522	Marruecos
+T18	LOC 750 759	Marruecos
+T19	PER 800 811	Habib Malki
+T20	ORG 836 842	Estado
+T21	PER 858 873	Taib Fasi Fihri
+T22	MISC 958 976	Agricultura. Pesca
+T23	PER 1068 1080	Arias Cañete
+T24	MISC 1115 1126	Agricultura
+T25	LOC 1141 1153	Mediterráneo
+T26	ORG 1361 1370	Marruecos
+T27	PER 1475 1481	Cañete
+T28	ORG 1539 1548	Marruecos
+T29	MISC 1651 1662	Agricultura
+T30	LOC 1666 1672	Italia
+T31	PER 1674 1698	Alfonso Pecorario Scanio
+T32	LOC 1701 1709	Portugal
+T33	PER 1711 1731	Luis Capoulas Santos
+T34	LOC 1736 1742	Grecia
+T35	PER 1744 1762	Georges Anomeritis
+T36	LOC 1777 1784	Argelia
+T37	PER 1786 1798	Said Barakat
+T38	LOC 1801 1806	Malta
+T39	PER 1808 1819	Nina Zammit
+T40	LOC 1823 1830	Albania
+T41	PER 1832 1846	Lufter Xhuveli
+T42	ORG 1883 1889	Egipto
+T43	ORG 1891 1898	Francia
+T44	ORG 1900 1905	Túnez
+T45	ORG 1907 1913	Líbano
+T46	ORG 1916 1923	Turquía
+T47	LOC 2031 2040	Marruecos

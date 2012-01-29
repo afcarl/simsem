@@ -1,0 +1,17 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	ORG 54 62	Gobierno
+T4	PER 64 77	Mariano Rajoy
+T5	ORG 98 107	Ejecutivo
+T6	ORG 195 232	Tribunal de Defensa de la Competencia
+T7	ORG 344 349	Cepsa
+T8	ORG 352 358	Repsol
+T9	PER 425 438	Mariano Rajoy
+T10	ORG 485 493	Congreso
+T11	MISC 511 525	Constitucional
+T12	ORG 589 614	Defensa de la Competencia
+T13	ORG 683 694	Presidencia
+T14	ORG 710 719	Ejecutivo
+T15	PER 848 853	Rajoy
+T16	ORG 890 906	Comisión Europea
+T17	LOC 959 965	España

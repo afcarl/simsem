@@ -1,0 +1,36 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	MISC 50 64	Obras Públicas
+T4	PER 66 82	Eduardo Alvarado
+T5	MISC 112 126	Medio Ambiente
+T6	PER 128 139	Jaume Matas
+T7	ORG 201 221	Junta de Extremadura
+T8	ORG 227 262	Confederación Hidrográfica del Tajo
+T9	PER 287 295	Alvarado
+T10	PER 355 360	Matas
+T11	PER 492 500	Alvarado
+T12	MISC 568 582	Medio Ambiente
+T13	ORG 628 638	Ministerio
+T14	MISC 654 665	Legislatura
+T15	PER 698 703	Matas
+T16	ORG 768 779	Extremadura
+T17	ORG 910 920	Ministerio
+T18	LOC 1049 1060	Villafranca
+T19	LOC 1062 1070	Quintana
+T20	LOC 1073 1093	Puebla de la Calzada
+T21	LOC 1165 1180	Cuenca del Tajo
+T22	LOC 1206 1212	Azuaga
+T23	LOC 1242 1249	Llerena
+T24	LOC 1252 1263	Los Molinos
+T25	PER 1273 1281	Alvarado
+T26	ORG 1357 1367	Consejería
+T27	MISC 1377 1433	Plan Integral de Abastecimiento de Agua para Extremadura
+T28	LOC 1615 1625	Villanueva
+T29	LOC 1627 1635	Logrosán
+T30	LOC 1638 1647	Guadalupe
+T31	LOC 1656 1664	El Casar
+T32	LOC 1667 1687	Arroyo de Malpartida
+T33	MISC 1778 1785	Turismo
+T34	LOC 1789 1799	Granadilla
+T35	ORG 1859 1888	Confederaciones Hidrográficas
+T36	MISC 2135 2159	Plan Hidráulico Nacional

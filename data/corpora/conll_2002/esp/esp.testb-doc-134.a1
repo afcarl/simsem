@@ -1,0 +1,12 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 25	Barcelona
+T4	ORG 35 38	EFE
+T5	ORG 93 99	Senado
+T6	PER 101 124	Francesc Xavier Marimón
+T7	ORG 157 163	Senado
+T8	ORG 183 191	Gobierno
+T9	ORG 704 710	Senado
+T10	ORG 724 732	Gobierno
+T11	PER 903 910	Marimon
+T12	ORG 946 948	UE

@@ -1,0 +1,21 @@
+T1	LOC 0 9	Plasencia
+T2	LOC 11 18	Cáceres
+T3	ORG 29 32	EFE
+T4	ORG 59 78	Coalición Extremeña
+T5	ORG 80 82	CE
+T6	LOC 140 149	Plasencia
+T7	PER 151 165	José Luis Díaz
+T8	LOC 242 261	Palacio de Carvajal
+T9	ORG 306 308	CE
+T10	PER 310 326	Victoriano Durán
+T11	LOC 359 378	Palacio de Carvajal
+T12	ORG 397 443	Servicios Múltiples de la Junta de Extremadura
+T13	MISC 606 609	Ley
+T14	LOC 758 765	La Data
+T15	ORG 803 823	Junta de Extremadura
+T16	LOC 858 864	Mérida
+T17	PER 888 893	Durán
+T18	ORG 909 929	Junta de Extremadura
+T19	LOC 941 948	Cáceres
+T20	LOC 1019 1028	Plasencia
+T21	ORG 1195 1197	CE

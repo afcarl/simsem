@@ -1,0 +1,30 @@
+T1	LOC 0 5	París
+T2	ORG 15 18	EFE
+T3	LOC 43 63	Comunidad Valenciana
+T4	PER 65 80	Eduardo Zaplana
+T5	ORG 113 121	Valencia
+T6	ORG 132 143	Real Madrid
+T7	ORG 208 225	Liga de Campeones
+T8	LOC 232 250	Estadio de Francia
+T9	ORG 340 348	Valencia
+T10	ORG 378 384	Madrid
+T11	ORG 463 471	Valencia
+T12	MISC 480 494	Copa de Europa
+T13	PER 505 512	Zaplana
+T14	LOC 658 678	Comunidad Valenciana
+T15	ORG 724 732	Valencia
+T16	LOC 798 804	Europa
+T17	LOC 919 924	París
+T18	MISC 1009 1023	"Terra Mítica"
+T19	LOC 1050 1058	Benidorm
+T20	LOC 1193 1198	París
+T21	PER 1200 1207	Zaplana
+T22	LOC 1297 1303	España
+T23	PER 1513 1520	Zaplana
+T24	LOC 1540 1545	París
+T25	ORG 1672 1683	Generalitat
+T26	ORG 1752 1760	Valencia
+T27	ORG 1770 1776	Madrid
+T28	ORG 1827 1835	Valencia
+T29	LOC 1984 2004	Comunidad Valenciana
+T30	MISC 2008 2025	Copa de Campeones

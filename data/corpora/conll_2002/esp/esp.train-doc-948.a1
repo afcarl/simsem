@@ -1,0 +1,33 @@
+T1	LOC 0 9	Barcelona
+T2	ORG 19 22	EFE
+T3	ORG 68 71	CDC
+T4	ORG 98 119	"Fundación Barcelona"
+T5	MISC 158 180	"Catalanisme. Progrés"
+T6	ORG 284 296	Convergencia
+T7	LOC 494 503	Barcelona
+T8	ORG 595 598	EFE
+T9	ORG 613 622	Fundación
+T10	ORG 856 868	Convergéncia
+T11	ORG 941 950	Fundación
+T12	PER 1064 1075	Pere Esteve
+T13	PER 1420 1431	Pere Esteve
+T14	ORG 1445 1448	CDC
+T15	PER 1516 1525	Artur Mas
+T16	PER 1752 1763	Miquel Roca
+T17	PER 1765 1784	Josep Maria Cullell
+T18	PER 1787 1801	Maciá Alavedra
+T19	PER 1858 1878	Maria Eugenia Cuenca
+T20	PER 1880 1893	Josep Caminal
+T21	PER 1895 1906	Enric Renau
+T22	PER 1908 1921	Xavier Bigatá
+T23	PER 1923 1935	Joan Guitart
+T24	PER 1937 1952	Carles Gasóliba
+T25	PER 1954 1967	LLuís Recoder
+T26	PER 1969 1989	Josep Manuel Basáñez
+T27	PER 1991 2006	Ignasi Guardans
+T28	PER 2008 2019	Jaume Camps
+T29	PER 2021 2037	Joan Puigdollers
+T30	PER 2039 2054	Rafael Hinojosa
+T31	PER 2056 2067	Miquel Puig
+T32	PER 2069 2092	Josep Ainaud de Lasarte
+T33	PER 2095 2110	Josep Maria Via

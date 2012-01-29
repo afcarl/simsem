@@ -1,0 +1,46 @@
+T1	LOC 0 11	Estrasburgo
+T2	LOC 13 20	Francia
+T3	ORG 31 34	EFE
+T4	MISC 64 80	Asuntos Europeos
+T5	ORG 87 98	Generalitat
+T6	LOC 122 130	Cataluña
+T7	PER 132 151	Llibert Cuatrecasas
+T8	ORG 184 233	Congreso de Poderes Locales. Regionales de Europa
+T9	ORG 235 240	CPLRE
+T10	ORG 278 295	Consejo de Europa
+T11	PER 297 308	Cuatrecasas
+T12	PER 329 344	Herwig Van Staa
+T13	ORG 359 367	Congreso
+T14	LOC 474 485	Estrasburgo
+T15	ORG 559 564	CPLRE
+T16	LOC 649 655	Europa
+T17	PER 785 796	Cuatrecasas
+T18	ORG 869 874	CPLRE
+T19	MISC 923 969	Pacto de Estabilidad para el Sudeste de Europa
+T20	LOC 1480 1487	Francia
+T21	LOC 1492 1507	República Checa
+T22	LOC 1509 1518	Macedonia
+T23	LOC 1520 1527	Estonia
+T24	LOC 1530 1538	Moldavia
+T25	LOC 1588 1602	Europa Central
+T26	LOC 1621 1628	Polonia
+T27	PER 1630 1641	Cuatrecasas
+T28	ORG 1697 1702	CPLRE
+T29	LOC 1859 1866	Córcega
+T30	LOC 1872 1882	País Vasco
+T31	LOC 2125 2134	Chechenia
+T32	ORG 2151 2195	Asamblea Parlamentaria del Consejo de Europa
+T33	ORG 2336 2351	Federación Rusa
+T34	ORG 2398 2430	Comisión Permanente del Congreso
+T35	LOC 2522 2532	Azerbaiyán
+T36	ORG 2557 2601	Asamblea Parlamentaria del Consejo de Europa
+T37	LOC 2603 2613	Azerbaiyán
+T38	LOC 2626 2633	Armenia
+T39	LOC 2679 2694	Nagorno Karabaj
+T40	ORG 2728 2745	Consejo de Europa
+T41	ORG 2771 2776	CPLRE
+T42	ORG 2798 2816	Convergencia. Unió
+T43	ORG 2818 2821	CiU
+T44	MISC 2829 2873	Asamblea Parlamentaria del Consejo de Europa
+T45	ORG 2922 2955	Congreso español de los Diputados
+T46	ORG 3011 3021	Parlamento

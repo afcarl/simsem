@@ -1,0 +1,29 @@
+T1	LOC 0 5	Palma
+T2	ORG 15 18	EFE
+T3	MISC 39 46	Turismo
+T4	PER 48 62	Celestí Alomar
+T5	LOC 79 84	Palma
+T6	LOC 269 277	Mallorca
+T7	MISC 299 308	Parlament
+T8	PER 310 316	Alomar
+T9	PER 425 440	Francesc Antich
+T10	MISC 481 498	Consells Insulars
+T11	LOC 577 594	Consulado del Mar
+T12	MISC 685 692	Turismo
+T13	ORG 802 819	Consell de Govern
+T14	PER 909 915	Alomar
+T15	MISC 952 959	Turismo
+T16	ORG 1133 1151	Consell de Menorca
+T17	PER 1153 1166	Joana Barceló
+T18	LOC 1182 1191	Parlament
+T19	LOC 1442 1450	Baleares
+T20	PER 1495 1502	Barceló
+T21	ORG 1546 1565	Gobierno del Estado
+T22	ORG 1707 1711	AENA
+T23	PER 1787 1794	Barceló
+T24	ORG 1912 1918	Govern
+T25	ORG 2004 2011	Consell
+T26	ORG 2038 2047	Ejecutivo
+T27	LOC 2160 2167	Menorca
+T28	LOC 2223 2231	Mallorca
+T29	PER 2333 2340	Barceló

@@ -1,0 +1,16 @@
+T1	LOC 0 10	Nueva York
+T2	ORG 20 23	EFE
+T3	LOC 125 135	Nueva York
+T4	ORG 461 482	Banco Central Europeo
+T5	LOC 732 742	Nueva York
+T6	MISC 845 854	Dow Jones
+T7	MISC 936 942	Nasdaq
+T8	ORG 1193 1208	Reserva Federal
+T9	LOC 1493 1507	Estados Unidos
+T10	ORG 1935 1956	Banco Central Europeo
+T11	ORG 1982 2034	Comité de Política Monetaria del Banco de Inglaterra
+T12	MISC 2289 2297	Economía
+T13	PER 2309 2321	Gordon Brown
+T14	LOC 2583 2588	Japón
+T15	ORG 2793 2815	ministerio de Finanzas
+T16	LOC 2849 2854	Japón

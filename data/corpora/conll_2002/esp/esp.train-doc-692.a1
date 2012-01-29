@@ -1,0 +1,36 @@
+T1	LOC 0 19	Alcázar de San Juan
+T2	LOC 21 32	Ciudad Real
+T3	ORG 43 46	EFE
+T4	ORG 54 82	Consejería de Obras Públicas
+T5	ORG 88 123	Ayuntamiento de Alcázar de San Juan
+T6	ORG 137 142	RENFE
+T7	LOC 272 278	Madrid
+T8	LOC 363 370	Alcázar
+T9	MISC 420 431	"La Obrera"
+T10	ORG 595 600	Renfe
+T11	LOC 756 763	Alcázar
+T12	LOC 797 803	España
+T13	ORG 825 853	Consejería de Obras Públicas
+T14	ORG 872 895	Ayuntamiento de Alcázar
+T15	ORG 964 982	Comunidad Autónoma
+T16	LOC 1185 1191	Madrid
+T17	LOC 1311 1318	Alcázar
+T18	PER 1320 1343	Fernando Sánchez Bódalo
+T19	PER 1350 1364	Sánchez Bódalo
+T20	ORG 1378 1383	RENFE
+T21	ORG 1420 1425	Junta
+T22	MISC 1575 1586	"La Obrera"
+T23	LOC 1688 1695	Alcázar
+T24	LOC 1757 1763	Madrid
+T25	PER 1813 1827	Sánchez Bódalo
+T26	ORG 1968 1990	Hospital Mancha Centro
+T27	LOC 2017 2023	Madrid
+T28	LOC 2026 2033	Alcázar
+T29	ORG 2192 2233	Comisión Mixta RENFE-Junta de Comunidades
+T30	ORG 2306 2324	Comunidad Autónoma
+T31	ORG 2355 2378	Ayuntamiento de Alcázar
+T32	ORG 2444 2452	Gobierno
+T33	ORG 2489 2491	PP
+T34	PER 2523 2541	Carmen Quintanilla
+T35	ORG 2601 2606	RENFE
+T36	MISC 2677 2691	Obras Públicas

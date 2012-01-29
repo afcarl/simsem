@@ -1,0 +1,27 @@
+T1	LOC 0 8	San José
+T2	ORG 18 21	EFE
+T3	ORG 29 58	Cámara Costarricense de Libro
+T4	LOC 110 120	Costa Rica
+T5	LOC 168 182	América Latina
+T6	ORG 280 286	Cámara
+T7	PER 288 302	Mario Castillo
+T8	MISC 359 400	Feria Internacional del Libro de San José
+T9	LOC 510 519	Argentina
+T10	LOC 521 526	Chile
+T11	LOC 528 536	Colombia
+T12	LOC 538 542	Cuba
+T13	LOC 544 550	España
+T14	LOC 552 561	Guatemala
+T15	LOC 563 569	México
+T16	LOC 572 576	Perú
+T17	LOC 579 589	Costa Rica
+T18	PER 682 690	Castillo
+T19	MISC 1088 1103	Feria del Libro
+T20	MISC 1256 1261	Feria
+T21	LOC 1278 1287	Argentina
+T22	MISC 1331 1364	Congreso Interamericano del Libro
+T23	ORG 1369 1401	Grupo Interamericano de Editores
+T24	LOC 1436 1450	América Latina
+T25	LOC 1452 1466	Estados Unidos
+T26	LOC 1468 1474	España
+T27	LOC 1477 1485	Portugal

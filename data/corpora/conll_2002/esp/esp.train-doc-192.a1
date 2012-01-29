@@ -1,0 +1,20 @@
+T1	ORG 0 6	EFECOM
+T2	LOC 16 22	Madrid
+T3	ORG 32 35	EFE
+T4	ORG 43 77	Instituto Nacional de Meteorología
+T5	ORG 79 82	INM
+T6	LOC 200 209	Andalucía
+T7	LOC 229 237	Estrecho
+T8	LOC 240 247	Melilla
+T9	LOC 274 283	Andalucía
+T10	LOC 296 314	Castilla-La Mancha
+T11	LOC 332 355	Comunidad de Valenciana
+T12	LOC 358 364	Murcia
+T13	LOC 442 450	Baleares
+T14	LOC 574 581	Galicia
+T15	LOC 602 610	Asturias
+T16	LOC 615 623	Canarias
+T17	LOC 757 764	Galicia
+T18	MISC 810 817	Levante
+T19	LOC 914 922	Canarias
+T20	LOC 1009 1017	Canarias

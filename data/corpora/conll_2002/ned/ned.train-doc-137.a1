@@ -1,0 +1,51 @@
+T1	ORG 0 12	Bank Degroof
+T2	ORG 46 55	Auximines
+T3	ORG 63 76	Belgo-Katanga
+T4	ORG 104 113	De Morgen
+T5	ORG 139 148	Auximines
+T6	ORG 201 208	Colruyt
+T7	LOC 212 218	België
+T8	ORG 256 274	Associated weavers
+T9	MISC 314 323	Belgische
+T10	MISC 338 349	Amerikaanse
+T11	ORG 445 452	Colruyt
+T12	ORG 539 548	Intervest
+T13	LOC 563 572	Antwerpen
+T14	ORG 648 660	Bank Degroof
+T15	ORG 705 721	Delhaize America
+T16	ORG 864 878	Morgan Stanley
+T17	ORG 882 889	Degroof
+T18	ORG 903 907	Agfa
+T19	ORG 941 950	Intervest
+T20	MISC 1020 1029	Antwerpse
+T21	ORG 1054 1058	Agfa
+T22	LOC 1107 1116	Heilbronn
+T23	LOC 1132 1134	VS
+T24	PER 1267 1281	Robert Melders
+T25	ORG 1349 1367	Brederode-imperium
+T26	PER 1372 1393	Pierre Van der Mersch
+T27	ORG 1423 1441	Associated Weavers
+T28	LOC 1564 1571	Brussel
+T29	LOC 1575 1586	La Louvière
+T30	ORG 1701 1705	Agfa
+T31	MISC 1759 1779	De Financiële Morgen
+T32	ORG 1809 1816	Colruyt
+T33	ORG 1962 1971	Auximines
+T34	ORG 2024 2037	Belgo-Katanga
+T35	ORG 2061 2070	Auximines
+T36	ORG 2149 2155	Dolmen
+T37	MISC 2294 2305	Amerikaanse
+T38	MISC 2373 2379	Duitse
+T39	LOC 2380 2389	Heilbronn
+T40	ORG 2421 2431	DGF Stoess
+T41	LOC 2436 2445	Ebersbach
+T42	ORG 2565 2572	Degroof
+T43	ORG 2583 2591	Delhaize
+T44	ORG 2631 2640	Intervest
+T45	ORG 2682 2689	So Watt
+T46	ORG 2692 2696	Horn
+T47	ORG 2717 2731	Morgan Stanley
+T48	ORG 2749 2756	Colruyt
+T49	ORG 2870 2882	Agfa Gevaert
+T50	ORG 2926 2935	Auximines
+T51	ORG 2943 2956	Belgo-Katanga

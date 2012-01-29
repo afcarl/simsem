@@ -1,0 +1,37 @@
+T1	LOC 0 5	Cádiz
+T2	ORG 15 18	EFE
+T3	ORG 23 38	Izquierda Unida
+T4	LOC 76 81	Cádiz
+T5	PER 82 100	Juan Vicente Acuña
+T6	ORG 118 128	Parlamento
+T7	LOC 236 245	Andalucía
+T8	PER 246 251	Acuña
+T9	ORG 303 305	IU
+T10	ORG 369 397	José Manuel Pascual. Pascual
+T11	ORG 445 470	Servicio Andaluz de Salud
+T12	LOC 503 512	Andalucía
+T13	ORG 550 552	IU
+T14	LOC 556 561	Cádiz
+T15	PER 563 577	Ignacio García
+T16	MISC 629 634	Salud
+T17	PER 636 653	Francisco Vallejo
+T18	PER 797 804	Vallejo
+T19	MISC 883 914	Virgen de las Viñas de Montilla
+T20	LOC 916 923	Córdoba
+T21	ORG 1165 1168	SAS
+T22	ORG 1180 1182	IU
+T23	PER 1194 1201	Vallejo
+T24	ORG 1292 1302	Consejería
+T25	ORG 1409 1411	IU
+T26	ORG 1661 1680	José Manual Pascual
+T27	LOC 1745 1765	Jerez de la Frontera
+T28	LOC 1767 1791	El Puerto de Santa María
+T29	LOC 1793 1804	Villamartín
+T30	LOC 1806 1827	Sanlúcar de Barrameda
+T31	LOC 1830 1835	Cádiz
+T32	LOC 1849 1855	Málaga
+T33	LOC 1857 1863	Huelva
+T34	LOC 1865 1873	Montilla
+T35	LOC 1875 1882	Córdoba
+T36	LOC 1886 1891	Zafra
+T37	LOC 1893 1900	Badajoz

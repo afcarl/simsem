@@ -1,0 +1,18 @@
+T1	LOC 0 8	Bruselas
+T2	ORG 18 24	EFECOM
+T3	ORG 32 50	Parlamento Europeo
+T4	PER 295 307	Elisa Damiao
+T5	ORG 357 398	Empleo. Asuntos Sociales de la Eurocámara
+T6	LOC 495 506	Estrasburgo
+T7	MISC 512 518	Quince
+T8	ORG 823 841	Parlamento Europeo
+T9	LOC 1910 1921	Estrasburgo
+T10	ORG 1947 1963	Comisión Europea
+T11	MISC 2114 2121	Trabajo
+T12	ORG 2128 2130	UE
+T13	ORG 2148 2166	Parlamento Europeo
+T14	ORG 2539 2541	UE
+T15	MISC 2644 2650	Social
+T16	MISC 2655 2676	Tratado de Maastricht
+T17	ORG 2700 2711	Reino Unido
+T18	PER 2819 2829	Tony Blair

@@ -1,0 +1,21 @@
+T1	LOC 0 9	Santander
+T2	ORG 19 25	EFECOM
+T3	ORG 42 50	Gobierno
+T4	PER 52 68	José María Aznar
+T5	ORG 89 98	Ejecutivo
+T6	LOC 176 182	España
+T7	ORG 222 259	Tribunal de Defensa de la Competencia
+T8	MISC 368 402	XIII Cumbre Bilateral de Santander
+T9	PER 404 409	Aznar
+T10	LOC 523 529	España
+T11	ORG 630 638	Gobierno
+T12	ORG 672 698	Tribunal de la Competencia
+T13	PER 834 850	José María Aznar
+T14	ORG 864 872	Gobierno
+T15	LOC 1046 1052	España
+T16	ORG 1095 1111	Comisión Europea
+T17	LOC 1148 1154	España
+T18	ORG 1178 1180	UE
+T19	PER 1433 1438	Aznar
+T20	PER 1476 1492	José María Aznar
+T21	LOC 1756 1762	España

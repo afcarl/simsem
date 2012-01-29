@@ -1,0 +1,11 @@
+T1	ORG 0 6	EFECOM
+T2	LOC 14 22	Pamplona
+T3	ORG 32 35	EFE
+T4	ORG 75 85	Eurovestir
+T5	LOC 135 140	Olite
+T6	LOC 143 152	Caparroso
+T7	ORG 470 473	EFE
+T8	ORG 636 655	Junta de Acreedores
+T9	ORG 1860 1870	Eurovestir
+T10	MISC 1997 2016	Junta de Acreedores
+T11	LOC 2325 2330	Olite

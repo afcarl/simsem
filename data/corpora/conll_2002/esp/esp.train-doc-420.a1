@@ -1,0 +1,27 @@
+T1	ORG 0 3	EFE
+T2	LOC 17 25	Bruselas
+T3	ORG 35 38	EFE
+T4	ORG 61 80	Gobierno de Navarra
+T5	PER 82 93	Miguel Sanz
+T6	MISC 141 152	Competencia
+T7	PER 154 165	Mario Monti
+T8	ORG 264 273	Ejecutivo
+T9	PER 287 291	Sanz
+T10	LOC 305 313	Bruselas
+T11	PER 342 347	Monti
+T12	ORG 806 814	Gobierno
+T13	ORG 929 945	Comisión Europea
+T14	LOC 1045 1055	País Vasco
+T15	LOC 1058 1065	Navarra
+T16	ORG 1245 1253	Bruselas
+T17	MISC 1350 1370	Estatuto de Guernica
+T18	MISC 1376 1401	Estatuto Foral de Navarra
+T19	MISC 1561 1572	Competencia
+T20	PER 1574 1589	Karel van Miert
+T21	ORG 1667 1673	Estado
+T22	ORG 1855 1862	Estados
+T23	ORG 1902 1910	Comisión
+T24	ORG 2038 2044	Estado
+T25	PER 2226 2230	Sanz
+T26	PER 2620 2624	Sanz
+T27	ORG 2702 2718	Comisión Europea

@@ -1,0 +1,22 @@
+T1	ORG 0 3	EFE
+T2	LOC 32 44	Tossa de Mar
+T3	LOC 46 52	Girona
+T4	ORG 63 66	EFE
+T5	ORG 75 92	Mossos d'Esquadra
+T6	LOC 187 214	Cala Santa María de Llorell
+T7	LOC 218 230	Tossa de Mar
+T8	LOC 334 346	Tossa de Mar
+T9	ORG 365 371	Mossos
+T10	LOC 448 478	cala de Santa María de Llorell
+T11	LOC 764 770	Blanes
+T12	ORG 824 830	Mossos
+T13	MISC 1128 1138	Land Rover
+T14	ORG 1245 1258	Guardia Civil
+T15	ORG 1688 1701	Guardia Civil
+T16	LOC 1810 1837	Cala Santa Maria de Llorell
+T17	LOC 1899 1904	Selva
+T18	LOC 1910 1917	Maresme
+T19	LOC 2028 2035	Melilla
+T20	LOC 2309 2317	Cataluña
+T21	ORG 2338 2355	servicio Marítimo
+T22	LOC 2480 2486	Blanes

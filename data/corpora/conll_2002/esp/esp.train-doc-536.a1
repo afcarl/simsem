@@ -1,0 +1,57 @@
+T1	ORG 0 3	EFE
+T2	LOC 15 20	Moscú
+T3	ORG 30 33	EFE
+T4	ORG 68 78	Parlamento
+T5	ORG 131 138	Kremlin
+T6	LOC 183 193	Afganistán
+T7	ORG 282 286	Duma
+T8	PER 302 320	Guennadi Selezniov
+T9	ORG 382 392	Afganistán
+T10	ORG 429 436	Kremlin
+T11	LOC 442 451	Chechenia
+T12	PER 453 474	Serguéi Yastrzhembski
+T13	LOC 508 513	Rusia
+T14	LOC 646 656	Afganistán
+T15	PER 664 673	Selezniov
+T16	LOC 794 804	Uzbekistán
+T17	PER 833 847	Vladímir Putin
+T18	ORG 1001 1008	Kremlin
+T19	ORG 1029 1063	Comisión Constitucional del Senado
+T20	PER 1070 1086	Serguéi Sobianin
+T21	LOC 1202 1211	Chechenia
+T22	ORG 1243 1249	Estado
+T23	PER 1299 1307	Sobianin
+T24	ORG 1393 1400	Kremlin
+T25	PER 1516 1524	Sobianin
+T26	ORG 1557 1581	Consejo de la Federación
+T27	ORG 1583 1589	Senado
+T28	PER 1665 1670	Putin
+T29	LOC 1795 1802	Georgia
+T30	LOC 1818 1830	Arabia Saudí
+T31	ORG 1911 1928	Partido Comunista
+T32	PER 1935 1952	Guennadi Ziugánov
+T33	PER 2034 2039	Putin
+T34	ORG 2077 2084	Kremlin
+T35	ORG 2192 2199	Estados
+T36	LOC 2335 2345	Afganistán
+T37	ORG 2365 2386	Moskovski Komsomólets
+T38	MISC 2399 2461	Yastrzhembski:terminemos de bombardear Chechenia en Afganistán
+T39	LOC 2533 2543	Afganistán
+T40	LOC 2612 2621	Chechenia
+T41	ORG 2692 2700	Sevodnia
+T42	MISC 2728 2758	Tormenta en el desierto afgano
+T43	ORG 2808 2812	Irak
+T44	ORG 2852 2860	Sevodnia
+T45	ORG 2905 2912	Kremlin
+T46	ORG 2974 2979	Rusia
+T47	LOC 2992 3002	Afganistán
+T48	ORG 3073 3082	Occidente
+T49	PER 3118 3123	Osama
+T50	PER 3125 3134	Bin Laden
+T51	PER 3137 3150	Yastrzhembski
+T52	LOC 3180 3190	Afganistán
+T53	ORG 3242 3251	Chechenia
+T54	PER 3335 3344	Bin Laden
+T55	ORG 3413 3427	Estados Unidos
+T56	LOC 3496 3501	Kenia
+T57	LOC 3504 3512	Tanzania

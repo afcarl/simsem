@@ -1,0 +1,7 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 22	México
+T4	ORG 32 35	EFE
+T5	ORG 43 68	Bolsa Mexicana de Valores
+T6	MISC 184 215	Indice de Precios. Cotizaciones
+T7	MISC 217 220	IPC

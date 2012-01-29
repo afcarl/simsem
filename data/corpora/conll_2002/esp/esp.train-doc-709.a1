@@ -1,0 +1,18 @@
+T1	LOC 0 17	Santiago de Chile
+T2	ORG 27 30	EFE
+T3	MISC 38 61	Producto Interior Bruto
+T4	MISC 63 66	PIB
+T5	LOC 71 76	Chile
+T6	ORG 198 211	Banco Central
+T7	MISC 708 715	Energía
+T8	MISC 790 795	Pesca
+T9	MISC 818 844	Transporte. Comunicaciones
+T10	MISC 870 879	Industria
+T11	MISC 935 943	Comercio
+T12	MISC 951 972	Servicios Financieros
+T13	MISC 980 987	Minería
+T14	MISC 995 1003	Vivienda
+T15	MISC 1011 1022	Agricultura
+T16	MISC 1035 1055	Servicios Personales
+T17	MISC 1099 1111	Construcción
+T18	MISC 1473 1476	IVA

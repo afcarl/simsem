@@ -1,0 +1,17 @@
+T1	LOC 0 8	Acapulco
+T2	LOC 10 16	México
+T3	ORG 27 30	EFE
+T4	LOC 90 98	Acapulco
+T5	MISC 184 192	"Aletta"
+T6	LOC 255 263	Pacífico
+T7	ORG 265 276	Autoridades
+T8	LOC 280 288	Acapulco
+T9	LOC 306 314	Guerrero
+T10	LOC 323 329	México
+T11	ORG 341 344	EFE
+T12	ORG 591 632	Servicio Meteorológico Nacional de México
+T13	MISC 839 847	"Aletta"
+T14	LOC 992 1001	Michoacán
+T15	LOC 1004 1010	Oaxaca
+T16	MISC 1042 1051	"Paulina"
+T17	LOC 1072 1080	Guerrero

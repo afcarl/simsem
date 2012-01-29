@@ -1,0 +1,63 @@
+T1	LOC 0 8	Pamplona
+T2	ORG 18 21	EFE
+T3	ORG 31 51	Portland San Antonio
+T4	PER 62 69	Norklit
+T5	PER 72 80	Kisselev
+T6	PER 82 90	Garralda
+T7	PER 96 102	Olalla
+T8	PER 108 114	Mainer
+T9	PER 116 124	Barbeito
+T10	PER 133 142	Errekondo
+T11	PER 165 173	Bulligan
+T12	PER 180 189	Villaldea
+T13	PER 198 207	Jakimovic
+T14	PER 213 227	Alberto Martín
+T15	PER 230 236	Ambros
+T16	ORG 243 252	Barcelona
+T17	PER 263 271	Svensson
+T18	PER 274 279	Cavar
+T19	PER 288 294	Lozano
+T20	PER 300 306	Bustos
+T21	PER 312 319	Guijosa
+T22	PER 325 331	Ortega
+T23	PER 337 343	Xepkin
+T24	PER 366 374	Barrufet
+T25	PER 381 386	Masip
+T26	PER 392 402	Urdangarin
+T27	PER 408 417	Schwarzer
+T28	PER 423 434	O'Callaghan
+T29	PER 568 575	Gallego
+T30	PER 578 583	Lamas
+T31	LOC 585 593	Asturias
+T32	PER 621 630	Errekondo
+T33	ORG 646 654	Portland
+T34	PER 660 666	Lozano
+T35	PER 669 678	Schwarzer
+T36	ORG 684 693	Barcelona
+T37	MISC 742 753	Liga Asobal
+T38	LOC 770 803	Pabellón Universitario de Navarra
+T39	PER 872 889	Iñaqui Urdangarin
+T40	ORG 954 963	Barcelona
+T41	ORG 1039 1048	Barcelona
+T42	MISC 1075 1086	Liga Asobal
+T43	ORG 1152 1172	Portland San Antonio
+T44	PER 1390 1398	Barrufet
+T45	ORG 1464 1473	Barcelona
+T46	MISC 1597 1601	Liga
+T47	MISC 1603 1617	Copa de Europa
+T48	MISC 1619 1631	Copa del Rey
+T49	MISC 1633 1644	Copa Asobal
+T50	MISC 1646 1665	Supercopa de España
+T51	MISC 1671 1677	Europa
+T52	MISC 1680 1700	Liga de Los Pirineos
+T53	ORG 1705 1714	Barcelona
+T54	PER 1882 1890	Barrufet
+T55	PER 1908 1913	Masip
+T56	PER 1931 1937	Xepkin
+T57	PER 2169 2174	Olaya
+T58	PER 2176 2184	Barbeito
+T59	PER 2187 2196	Villaldea
+T60	PER 2312 2325	Valero Rivera
+T61	PER 2447 2473	Francisco Javier Equisoain
+T62	ORG 2505 2513	Portland
+T63	PER 2725 2730	Olaya

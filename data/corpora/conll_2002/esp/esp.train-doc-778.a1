@@ -1,0 +1,10 @@
+T1	ORG 0 6	EFECOM
+T2	LOC 15 25	Villarreal
+T3	LOC 27 36	Castellón
+T4	ORG 47 50	EFE
+T5	PER 55 68	Fernando Roig
+T6	ORG 85 95	Villarreal
+T7	ORG 351 361	Las Palmas
+T8	ORG 512 522	Villarreal
+T9	PER 524 528	Roig
+T10	PER 677 681	Roig

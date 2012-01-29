@@ -1,0 +1,17 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 23	Londres
+T4	ORG 33 36	EFE
+T5	ORG 44 52	Gobierno
+T6	ORG 114 138	Ejercito de Sierra Leona
+T7	MISC 257 264	Defensa
+T8	PER 266 276	Geoff Hoon
+T9	ORG 355 363	Gobierno
+T10	ORG 369 393	Ejercito de Sierra Leona
+T11	LOC 562 569	Londres
+T12	LOC 576 588	Sierra Leona
+T13	LOC 728 740	Sierra Leona
+T14	ORG 814 822	Ejercito
+T15	PER 886 890	Hoon
+T16	LOC 1044 1056	Sierra Leona
+T17	ORG 1136 1139	ONU

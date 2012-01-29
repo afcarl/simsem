@@ -1,0 +1,71 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	MISC 39 56	Liga de Campeones
+T4	ORG 90 101	Real Madrid
+T5	ORG 112 120	Valencia
+T6	LOC 179 185	Madrid
+T7	LOC 213 218	París
+T8	MISC 270 291	Más chulo que un ocho
+T9	ORG 311 316	Marca
+T10	ORG 351 362	Real Madrid
+T11	MISC 379 400	Octava Copa de Europa
+T12	MISC 493 505	Copa del Rey
+T13	ORG 519 527	Espanyol
+T14	ORG 530 548	Atlético de Madrid
+T15	ORG 589 607	Atlético de Madrid
+T16	PER 609 626	Fernando Zambrano
+T17	PER 661 667	Solari
+T18	PER 670 674	Kiko
+T19	PER 694 709	Anna Kournikova
+T20	MISC 743 756	Roland Garros
+T21	LOC 760 768	Mallorca
+T22	ORG 825 827	As
+T23	ORG 857 868	Real Madrid
+T24	MISC 892 906	Copa de Europa
+T25	ORG 924 932	Valencia
+T26	LOC 985 990	París
+T27	ORG 1029 1040	Real Madrid
+T28	PER 1042 1054	Lorenzo Sanz
+T29	PER 1082 1100	Vicente Del Bosque
+T30	LOC 1136 1141	París
+T31	MISC 1155 1163	Liga ACB
+T32	ORG 1180 1191	Real madrid
+T33	ORG 1197 1206	Barcelona
+T34	ORG 1229 1237	Juventus
+T35	PER 1269 1275	Anelka
+T36	MISC 1302 1314	Copa del Rey
+T37	ORG 1331 1349	Atlético de Madrid
+T38	ORG 1357 1365	Espanyol
+T39	ORG 1430 1441	Real Madrid
+T40	ORG 1452 1460	Valencia
+T41	MISC 1498 1515	Liga de Campeones
+T42	LOC 1534 1539	París
+T43	LOC 1594 1603	Barcelona
+T44	MISC 1606 1667	Real Madrid superó. un Valencia al que el reto le vino grande
+T45	ORG 1677 1692	Mundo Deportivo
+T46	ORG 1746 1754	Valencia
+T47	MISC 1770 1784	Copa de Europa
+T48	LOC 1803 1808	París
+T49	ORG 1841 1852	Real Madrid
+T50	PER 1956 1965	Guardiola
+T51	PER 1967 1971	Figo
+T52	PER 1974 1981	Rivaldo
+T53	ORG 2002 2007	Celta
+T54	PER 2009 2025	Víctor Fernández
+T55	MISC 2080 2088	Liga ACB
+T56	ORG 2104 2115	Real Madrid
+T57	ORG 2121 2126	Barca
+T58	ORG 2198 2203	Sport
+T59	MISC 2230 2247	Liga de Campeones
+T60	ORG 2268 2279	Real madrid
+T61	ORG 2282 2290	Valencia
+T62	MISC 2406 2418	Copa del Rey
+T63	ORG 2432 2450	Atlético de Madrid
+T64	ORG 2453 2461	Espanyol
+T65	ORG 2484 2495	Real Madrid
+T66	PER 2497 2511	Albert Celades
+T67	ORG 2533 2542	Barcelona
+T68	PER 2590 2599	Luis Figo
+T69	MISC 2636 2644	Liga ACB
+T70	ORG 2660 2671	Real madrid
+T71	ORG 2674 2679	Barca

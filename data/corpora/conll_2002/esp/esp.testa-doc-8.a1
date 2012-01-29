@@ -1,0 +1,14 @@
+T1	ORG 0 6	EFECOM
+T2	LOC 12 17	París
+T3	ORG 27 30	EFE
+T4	ORG 64 68	UEFA
+T5	ORG 172 188	Comité Ejecutivo
+T6	LOC 211 216	París
+T7	MISC 253 271	Liga de San Marino
+T8	MISC 363 378	Copa de la UEFA
+T9	LOC 444 451	Andorra
+T10	LOC 453 466	Liechtenstein
+T11	LOC 469 480	Islas Feroe
+T12	ORG 485 501	Comité Ejecutivo
+T13	MISC 650 659	Mundiales
+T14	MISC 662 671	Eurocopas

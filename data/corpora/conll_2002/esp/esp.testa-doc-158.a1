@@ -1,0 +1,19 @@
+T1	ORG 0 3	EFE
+T2	LOC 4 12	Baleares
+T3	LOC 13 23	Washington
+T4	ORG 33 36	EFE
+T5	MISC 60 83	Salud de Estados Unidos
+T6	MISC 384 389	Salud
+T7	PER 391 404	Donna Shalala
+T8	ORG 563 589	Universidad de Pensilvania
+T9	PER 1020 1035	Jesse Gelsinger
+T10	ORG 1100 1125	Universidad de California
+T11	ORG 1172 1175	FDA
+T12	ORG 1460 1463	FDA
+T13	ORG 1552 1578	Universidad de Pensilvania
+T14	PER 1701 1710	Gelsinger
+T15	MISC 1774 1781	Sanidad
+T16	PER 1925 1938	Donna Shalala
+T17	MISC 2504 2505	I
+T18	MISC 2508 2510	II
+T19	ORG 2636 2657	Departamento de Salud

@@ -1,0 +1,17 @@
+T1	LOC 0 5	Palma
+T2	ORG 15 18	EFE
+T3	ORG 41 59	Consell de Menorca
+T4	PER 61 74	Joana Barceló
+T5	ORG 76 80	PSOE
+T6	PER 267 274	Barceló
+T7	PER 424 439	Francesc Antich
+T8	PER 696 703	Barceló
+T9	ORG 895 901	Govern
+T10	ORG 979 983	Aena
+T11	ORG 1027 1034	Consell
+T12	LOC 1140 1147	Menorca
+T13	PER 1306 1319	Joana Barceló
+T14	LOC 1376 1383	Menorca
+T15	ORG 1582 1600	Consell de Menorca
+T16	ORG 1821 1827	Govern
+T17	PER 1893 1906	Joana Barceló

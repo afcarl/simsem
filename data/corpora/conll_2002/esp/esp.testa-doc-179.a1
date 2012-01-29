@@ -1,0 +1,18 @@
+T1	ORG 0 3	EFE
+T2	LOC 4 12	Baleares
+T3	LOC 13 28	Puerto Príncipe
+T4	ORG 38 41	EFE
+T5	PER 46 56	Paul Denis
+T6	ORG 83 115	Organización del Pueblo en Lucha
+T7	ORG 117 120	OPL
+T8	ORG 137 143	Senado
+T9	LOC 202 207	Cayes
+T10	PER 248 253	Denis
+T11	ORG 288 295	Policía
+T12	PER 391 396	Denis
+T13	LOC 411 427	Puereto Príncipe
+T14	PER 469 474	Denis
+T15	PER 620 642	Jean Bertrand Aristide
+T16	PER 644 649	Denis
+T17	PER 677 685	Aristide
+T18	ORG 779 782	OPL

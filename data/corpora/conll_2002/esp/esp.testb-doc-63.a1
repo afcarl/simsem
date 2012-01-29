@@ -1,0 +1,35 @@
+T1	PER 0 16	Angeles Montolio
+T2	LOC 18 21	ESP
+T3	PER 25 37	Lisa Raymond
+T4	LOC 39 42	USA
+T5	LOC 73 83	Copenhague
+T6	ORG 93 96	EFE
+T7	PER 101 116	Michael Laudrup
+T8	MISC 310 352	Cruz de Caballero de la Orden de Dannebrog
+T9	PER 369 387	reina Margarita II
+T10	LOC 527 549	palacio de Amalienborg
+T11	PER 568 573	Reina
+T12	PER 732 747	Michael Laudrup
+T13	LOC 901 910	Dinamarca
+T14	ORG 946 955	Barcelona
+T15	ORG 962 973	Real Madrid
+T16	PER 1087 1099	Margarita II
+T17	PER 1166 1173	Laudrup
+T18	ORG 1233 1242	Casa Real
+T19	PER 1244 1270	Soeren Haslund-Christensen
+T20	LOC 1323 1333	Copenhague
+T21	ORG 1334 1338	"BT"
+T22	PER 1423 1430	Laudrup
+T23	LOC 1465 1472	Palacio
+T24	PER 1571 1590	Haslund-Christensen
+T25	PER 1602 1609	Michael
+T26	ORG 1731 1736	Corte
+T27	PER 1770 1775	Reina
+T28	LOC 1845 1854	Dinamarca
+T29	PER 1917 1924	Laudrup
+T30	PER 1983 1990	Laudrup
+T31	LOC 2035 2042	Francia
+T32	LOC 2088 2097	Dinamarca
+T33	MISC 2128 2145	Cruz de Caballero
+T34	ORG 2180 2185	Corte
+T35	PER 2221 2228	Michael

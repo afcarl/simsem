@@ -1,0 +1,20 @@
+T1	ORG 0 6	EFECOM
+T2	LOC 12 18	Málaga
+T3	ORG 28 31	EFE
+T4	ORG 39 80	Asociación Pro Derechos Humanos de Málaga
+T5	LOC 137 150	Costa del Sol
+T6	LOC 267 273	España
+T7	LOC 328 334	Málaga
+T8	PER 336 350	Antonia García
+T9	LOC 427 434	Manilva
+T10	LOC 487 492	Cádiz
+T11	LOC 517 524	Almería
+T12	PER 580 586	García
+T13	LOC 603 609	España
+T14	MISC 751 769	Ley de Extranjería
+T15	LOC 1005 1011	España
+T16	LOC 1067 1088	Estrecho de Gibraltar
+T17	LOC 1122 1131	Marruecos
+T18	LOC 1214 1222	Estrecho
+T19	LOC 1283 1289	Magreb
+T20	LOC 1353 1374	Estrecho de Gibraltar

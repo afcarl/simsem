@@ -1,0 +1,25 @@
+T1	LOC 0 20	Jerez de la Frontera
+T2	LOC 22 27	Cádiz
+T3	ORG 38 41	EFE
+T4	LOC 60 65	Jerez
+T5	ORG 87 89	PA
+T6	PER 91 104	Pedro Pacheco
+T7	PER 129 146	Francisco Menacho
+T8	LOC 185 190	Cádiz
+T9	ORG 212 231	Consejo de Gobierno
+T10	PER 254 260	Chaves
+T11	PER 354 361	Pacheco
+T12	PER 418 425	Menacho
+T13	ORG 447 455	Gobierno
+T14	LOC 459 464	Cádiz
+T15	PER 478 504	José Antonio Gómez Periñán
+T16	PER 506 513	Pacheco
+T17	ORG 610 612	PP
+T18	ORG 649 654	Junta
+T19	PER 700 705	Aznar
+T20	LOC 766 775	Andalucía
+T21	ORG 821 840	Diputación de Cádiz
+T22	PER 842 854	Rafael Román
+T23	ORG 856 860	PSOE
+T24	PER 898 905	Menacho
+T25	ORG 969 987	Junta de Andalucía

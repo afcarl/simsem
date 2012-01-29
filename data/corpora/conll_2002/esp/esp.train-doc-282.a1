@@ -1,0 +1,18 @@
+T1	ORG 16 19	EFE
+T2	ORG 27 52	Servicio Andaluz de Salud
+T3	ORG 54 57	SAS
+T4	ORG 158 187	Hospital Regional Carlos Haya
+T5	LOC 191 197	Málaga
+T6	MISC 268 290	Cirugía Cardiovascular
+T7	ORG 335 366	Consejería de Salud de la Junta
+T8	LOC 370 376	Málaga
+T9	PER 378 394	José Luis Marcos
+T10	ORG 558 568	diario Sur
+T11	LOC 572 578	Málaga
+T12	PER 580 605	Norberto González de Vega
+T13	ORG 1001 1009	Hospital
+T14	LOC 1380 1386	Málaga
+T15	ORG 1430 1451	Clínico Universitario
+T16	ORG 1508 1511	SAS
+T17	ORG 1878 1892	Administración
+T18	PER 1921 1927	Marcos

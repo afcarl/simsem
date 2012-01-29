@@ -1,0 +1,39 @@
+T1	LOC 29 39	Washington
+T2	ORG 49 52	EFE
+T3	LOC 74 83	Nicaragua
+T4	PER 85 99	Arnoldo Alemán
+T5	LOC 114 124	Washington
+T6	PER 307 313	Alemán
+T7	ORG 343 377	Banco Interamericano de Desarrollo
+T8	ORG 379 382	BID
+T9	PER 385 401	Enrique Iglesias
+T10	ORG 432 466	Organización de Estados Americanos
+T11	ORG 468 471	OEA
+T12	PER 474 487	César Gaviria
+T13	LOC 508 518	Washington
+T14	ORG 545 613	Grupo Consultivo para la Reconstrucción. Transformación de Nicaragua
+T15	ORG 678 686	Gobierno
+T16	LOC 898 907	Nicaragua
+T17	PER 922 938	David Defarranti
+T18	LOC 955 968	Latinoamérica
+T19	ORG 975 988	Banco Mundial
+T20	ORG 990 992	BM
+T21	ORG 1006 1009	EFE
+T22	LOC 1092 1101	Nicaragua
+T23	LOC 1259 1266	Managua
+T24	PER 1433 1447	Arnoldo Alemán
+T25	PER 1900 1906	Alemán
+T26	ORG 2005 2014	Nicaragua
+T27	ORG 2321 2337	Grupo Consultivo
+T28	LOC 2441 2450	Nicaragua
+T29	MISC 2781 2788	"Mitch"
+T30	LOC 2804 2817	Centroamérica
+T31	PER 2871 2877	Alemán
+T32	LOC 3390 3399	Estocolmo
+T33	ORG 3701 3704	BID
+T34	PER 3706 3722	Enrique Iglesias
+T35	LOC 3840 3849	Nicaragua
+T36	PER 3851 3859	Iglesias
+T37	LOC 3869 3878	Nicaragua
+T38	ORG 4116 4119	OEA
+T39	PER 4121 4134	César Gaviria

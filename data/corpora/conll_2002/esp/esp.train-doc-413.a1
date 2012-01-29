@@ -1,0 +1,28 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	ORG 54 62	Gobierno
+T4	PER 64 77	Mariano Rajoy
+T5	PER 194 199	Rajoy
+T6	ORG 275 290	Consejo de RTVE
+T7	ORG 295 318	Junta Electoral Central
+T8	ORG 324 348	Consejo de Universidades
+T9	ORG 385 421	Comisión Constitucional del Congreso
+T10	PER 423 436	Mariano Rajoy
+T11	PER 775 780	Rajoy
+T12	ORG 1015 1018	PNV
+T13	ORG 1179 1185	Cortes
+T14	ORG 1245 1253	Gobierno
+T15	PER 1301 1306	Rajoy
+T16	ORG 1535 1559	Consejo de Universidades
+T17	PER 1652 1671	Diego López Garrido
+T18	ORG 1717 1725	Gobierno
+T19	ORG 1897 1901	RTVE
+T20	ORG 1927 1933	Estado
+T21	PER 2017 2030	López Garrido
+T22	ORG 2101 2105	RTVE
+T23	PER 2150 2158	Cardenal
+T24	ORG 2223 2226	PNV
+T25	PER 2228 2241	Josu Erkoreka
+T26	ORG 2341 2358	Consejo de Estado
+T27	ORG 2382 2388	Estado
+T28	ORG 2468 2491	Tribunal Constitucional

@@ -1,0 +1,30 @@
+T1	ORG 0 3	EFE
+T2	LOC 9 15	Bilbao
+T3	ORG 25 28	EFE
+T4	ORG 36 67	Audiencia Provincial de Vizcaya
+T5	ORG 215 218	ETA
+T6	PER 219 236	Xabier Kalparsoro
+T7	PER 238 242	Anuk
+T8	PER 245 262	Xabier Kalparsoro
+T9	ORG 366 404	Jefatura Superior de Policía de Bilbao
+T10	LOC 461 468	Durango
+T11	LOC 470 477	Vizcaya
+T12	ORG 528 562	Primera de la Audiencia de Vizcaya
+T13	ORG 884 904	Audiencia de Vizcaya
+T14	PER 1016 1020	Anuk
+T15	ORG 1224 1230	Estado
+T16	ORG 1272 1294	Brigada de Información
+T17	PER 1335 1349	Manuel Alvarez
+T18	PER 1352 1367	Mauricio Pastor
+T19	PER 1453 1457	Anuk
+T20	ORG 1474 1477	ETA
+T21	PER 2130 2140	Kalparsoro
+T22	PER 2337 2341	Anuk
+T23	PER 2387 2405	familia Kalparsoro
+T24	ORG 2427 2455	Asociación Contra la Tortura
+T25	LOC 2477 2483	Zumaia
+T26	LOC 2485 2494	Guipúzcoa
+T27	PER 2510 2514	Anuk
+T28	PER 2624 2642	familia Kalparsoro
+T29	PER 2806 2810	Anuk
+T30	PER 2969 2979	Kalparsoro

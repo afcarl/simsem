@@ -1,0 +1,26 @@
+T1	LOC 0 20	Talavera de la Reina
+T2	LOC 22 28	Toledo
+T3	ORG 39 42	EFE
+T4	LOC 106 112	Toledo
+T5	ORG 352 386	Asociación de Jóvenes Agricultores
+T6	ORG 388 393	ASAJA
+T7	LOC 398 404	Toledo
+T8	PER 406 419	Manuel Juárez
+T9	ORG 461 477	Tribunal Supremo
+T10	ORG 571 585	Administración
+T11	ORG 691 705	Administración
+T12	LOC 913 919	Toledo
+T13	ORG 928 933	ASAJA
+T14	ORG 950 964	Administración
+T15	PER 1058 1064	Juárez
+T16	LOC 1123 1129	Toledo
+T17	ORG 1164 1180	Tribunal Supremo
+T18	ORG 1343 1348	ASAJA
+T19	ORG 1515 1520	ASAJA
+T20	LOC 1589 1595	Madrid
+T21	ORG 1791 1796	ASAJA
+T22	ORG 1805 1813	Gobierno
+T23	MISC 1831 1865	Impuesto Especial de Hidrocarburos
+T24	MISC 1867 1870	IEH
+T25	LOC 1949 1955	Toledo
+T26	LOC 2124 2142	Castilla-La Mancha

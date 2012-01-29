@@ -1,0 +1,22 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	LOC 24 33	Chamartín
+T4	LOC 35 44	Hortaleza
+T5	LOC 47 54	Barajas
+T6	ORG 350 362	Ayuntamiento
+T7	LOC 551 561	Arganzuela
+T8	LOC 563 574	Carabanchel
+T9	LOC 576 586	Fuencarral
+T10	LOC 588 594	Latina
+T11	LOC 596 603	Moncloa
+T12	LOC 605 614	Moratalaz
+T13	LOC 616 634	Puente de Vallecas
+T14	LOC 636 642	Retiro
+T15	LOC 644 650	Tetuán
+T16	LOC 652 657	Usera
+T17	LOC 659 676	Villa de vallecas
+T18	LOC 679 689	Villaverde
+T19	ORG 725 737	Ayuntamiento
+T20	LOC 992 1001	Hortaleza
+T21	LOC 1010 1019	Chamartín
+T22	LOC 1028 1035	Barajas

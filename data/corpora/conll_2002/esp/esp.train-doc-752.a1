@@ -1,0 +1,36 @@
+T1	ORG 0 3	EFE
+T2	LOC 10 19	Santander
+T3	ORG 29 32	EFE
+T4	MISC 82 99	selección sub '21
+T5	LOC 116 142	Balneario de Puente Viesgo
+T6	ORG 213 218	Celta
+T7	PER 219 235	Sergio Fernández
+T8	MISC 324 328	Liga
+T9	LOC 372 381	Cantabria
+T10	PER 397 417	José Antonio Camacho
+T11	ORG 497 505	Valencia
+T12	ORG 507 518	Real Madrid
+T13	ORG 520 538	Atlético de Madrid
+T14	ORG 541 549	Espanyol
+T15	LOC 588 592	Vigo
+T16	PER 606 612	Sergio
+T17	PER 614 624	Iñaki Sáez
+T18	PER 686 691	Gabri
+T19	PER 693 705	Carlos Pujol
+T20	PER 708 714	Lacruz
+T21	PER 886 892	Sergio
+T22	ORG 1017 1028	Real Madrid
+T23	ORG 1031 1039	Valencia
+T24	MISC 1135 1149	Copa de Europa
+T25	ORG 1217 1224	Chequia
+T26	ORG 1241 1259	Atlético de Madrid
+T27	ORG 1262 1270	Espanyol
+T28	MISC 1316 1328	Copa del Rey
+T29	PER 1364 1368	Sáez
+T30	PER 1417 1427	Iñaki Sáez
+T31	LOC 1532 1538	Vargas
+T32	LOC 1638 1647	Sardinero
+T33	PER 1768 1780	Delgado Meco
+T34	PER 1793 1805	Cesar Láinez
+T35	LOC 1955 1964	Sardinero
+T36	LOC 2024 2034	Eslovaquia

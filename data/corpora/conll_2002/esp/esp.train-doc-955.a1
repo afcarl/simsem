@@ -1,0 +1,30 @@
+T1	LOC 0 9	Barcelona
+T2	ORG 19 22	EFE
+T3	ORG 30 32	PP
+T4	ORG 98 106	Gobierno
+T5	ORG 159 167	Congreso
+T6	LOC 223 231	Cataluña
+T7	ORG 279 282	CiU
+T8	LOC 414 420	Madrid
+T9	ORG 439 441	PP
+T10	ORG 448 458	Parlamento
+T11	PER 509 526	Alberto Fernández
+T12	ORG 550 552	PP
+T13	ORG 559 567	Congreso
+T14	ORG 652 660	Congreso
+T15	PER 662 677	Luis de Grandes
+T16	ORG 698 718	Estado de Relaciones
+T17	ORG 727 733	Cortes
+T18	PER 735 750	Jorge Fernández
+T19	PER 752 769	Alberto Fernández
+T20	ORG 814 822	Gobierno
+T21	PER 824 837	Mariano Rajoy
+T22	ORG 871 873	PP
+T23	PER 875 888	Javier Arenas
+T24	PER 944 961	Alberto Fernández
+T25	ORG 999 1001	PP
+T26	LOC 1078 1086	Cataluña
+T27	PER 1171 1188	Alberto Fernández
+T28	ORG 1213 1224	Generalitat
+T29	PER 1237 1252	Eduardo Zaplana
+T30	ORG 1401 1403	PP

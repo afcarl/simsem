@@ -1,0 +1,37 @@
+T1	LOC 0 7	La Haya
+T2	ORG 17 20	EFE
+T3	ORG 75 78	ETA
+T4	PER 79 101	Esteban Murillo Zubiri
+T5	LOC 127 133	España
+T6	MISC 160 192	Tribunal del Distrito de La Haya
+T7	LOC 223 229	España
+T8	MISC 272 280	Justicia
+T9	PER 290 303	Benk Korthals
+T10	ORG 322 325	EFE
+T11	PER 326 338	Hans Gaasbek
+T12	PER 354 361	Murillo
+T13	LOC 478 484	España
+T14	ORG 503 525	ministerio de Justicia
+T15	LOC 591 598	Haarlem
+T16	PER 635 642	Murillo
+T17	LOC 690 696	España
+T18	PER 818 825	Murillo
+T19	LOC 962 968	España
+T20	PER 1021 1028	Murillo
+T21	ORG 1121 1153	Tribunal del Distrito de La Haya
+T22	LOC 1320 1327	Turquía
+T23	MISC 1359 1367	Justicia
+T24	PER 1380 1387	Murillo
+T25	LOC 1477 1484	Haarlem
+T26	LOC 1582 1590	Schiphol
+T27	PER 1813 1820	Murillo
+T28	MISC 1834 1852	"Comando Nafarroa"
+T29	PER 1897 1917	Angel Postigo Mejías
+T30	LOC 1931 1939	Pamplona
+T31	LOC 1941 1948	Navarra
+T32	PER 2004 2038	María de las Mercdes Galdos Azuaga
+T33	PER 2046 2054	"Bitxon"
+T34	PER 2057 2089	José Ramón Maritnez de la Fuente
+T35	PER 2097 2103	"Txon"
+T36	PER 2123 2130	Murillo
+T37	LOC 2362 2368	México

@@ -1,0 +1,33 @@
+T1	PER 185 198	Assa Carlsson
+T2	ORG 200 203	SWE
+T3	PER 207 222	Sylvia Plischke
+T4	ORG 224 227	AUT
+T5	PER 277 296	Martina Navratilova
+T6	PER 299 316	Mariaan de Swardt
+T7	ORG 318 321	USA
+T8	ORG 324 327	RSA
+T9	PER 331 342	Rika Hiraki
+T10	PER 345 365	Meghaan Shaughnessey
+T11	ORG 367 370	JAP
+T12	ORG 373 376	USA
+T13	LOC 426 450	Bárcena de Pie de Concha
+T14	ORG 460 463	EFE
+T15	ORG 491 508	PSOE-Progresistas
+T16	ORG 515 555	Ayuntamiento de Bárcena de Pie de Concha
+T17	ORG 708 710	PP
+T18	PER 727 751	José Félix de las Cuevas
+T19	PER 787 811	Amador Fernández Quesada
+T20	PER 814 831	José Miguel Silió
+T21	MISC 1004 1009	N-611
+T22	LOC 1016 1025	Santander
+T23	LOC 1028 1036	Palencia
+T24	MISC 1112 1117	Rollo
+T25	LOC 1165 1178	Pié de Concha
+T26	MISC 1301 1319	Autovía de Accesos
+T27	LOC 1325 1331	Meseta
+T28	ORG 1380 1392	Ayuntamiento
+T29	ORG 1450 1467	PSOE-Progresistas
+T30	MISC 1563 1568	Renfe
+T31	LOC 1621 1627	Pujayo
+T32	LOC 1753 1760	Bárcena
+T33	LOC 1763 1769	Pujayo

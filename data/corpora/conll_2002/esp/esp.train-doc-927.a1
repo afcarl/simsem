@@ -1,0 +1,33 @@
+T1	LOC 0 7	Logroño
+T2	ORG 17 20	EFE
+T3	ORG 43 63	Gobierno de La Rioja
+T4	PER 65 82	Pedro Sanz Alonso
+T5	PER 104 109	Reyes
+T6	PER 111 126	Don Juan Carlos
+T7	PER 129 139	Doña Sofía
+T8	PER 221 232	Sanz Alonso
+T9	PER 288 293	Reyes
+T10	LOC 296 304	La Rioja
+T11	LOC 322 331	Calahorra
+T12	ORG 353 356	Efe
+T13	PER 562 567	Reyes
+T14	PER 658 673	Don Juan Carlos
+T15	PER 676 686	Doña Sofía
+T16	ORG 708 714	Corona
+T17	ORG 745 751	España
+T18	LOC 817 825	La Rioja
+T19	PER 899 904	Reyes
+T20	MISC 921 948	' La Rioja Tierra Abierta '
+T21	LOC 954 963	Calahorra
+T22	LOC 1086 1097	Universidad
+T23	PER 1109 1114	Reyes
+T24	MISC 1135 1166	Complejo Científico Tecnológico
+T25	PER 1216 1227	Sanz Alonso
+T26	PER 1475 1480	Reyes
+T27	MISC 1552 1564	"Electrolux"
+T28	LOC 1569 1578	Fuenmayor
+T29	MISC 1582 1589	"Heinz"
+T30	LOC 1594 1600	Alfaro
+T31	LOC 1755 1763	La Rioja
+T32	PER 1765 1780	Don Juan Carlos
+T33	PER 1783 1793	Doña Sofía

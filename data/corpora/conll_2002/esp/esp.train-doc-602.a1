@@ -1,0 +1,9 @@
+T1	LOC 0 5	Parla
+T2	ORG 15 18	EFE
+T3	ORG 26 43	Policía de Barrio
+T4	LOC 47 52	Parla
+T5	MISC 330 339	Seguridad
+T6	PER 341 358	Francisco Llerena
+T7	PER 500 507	Llerena
+T8	ORG 753 765	Ayuntamiento
+T9	ORG 805 822	Policía de Barrio

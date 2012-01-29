@@ -1,0 +1,27 @@
+T1	LOC 0 9	Algeciras
+T2	LOC 11 16	Cádiz
+T3	ORG 27 30	EFE
+T4	ORG 55 87	Autoridad Portuaria de Algeciras
+T5	LOC 89 94	Cádiz
+T6	PER 97 109	Manuel Morón
+T7	ORG 139 147	Gobierno
+T8	LOC 151 156	Ceuta
+T9	PER 158 175	Luis Vicente Moro
+T10	ORG 234 248	Consejo Asesor
+T11	PER 309 314	Morón
+T12	LOC 417 426	Algeciras
+T13	PER 470 474	Moro
+T14	PER 730 735	Morón
+T15	ORG 753 761	Gobierno
+T16	LOC 765 770	Ceuta
+T17	LOC 930 935	Ceuta
+T18	MISC 999 1008	Alcántara
+T19	LOC 1026 1031	Ceuta
+T20	MISC 1220 1229	Alcántara
+T21	ORG 1305 1321	Trasmediterránea
+T22	LOC 1622 1627	Ceuta
+T23	PER 1760 1764	Moro
+T24	MISC 1912 1939	Operación Paso del Estrecho
+T25	MISC 1941 1944	OPE
+T26	PER 2030 2042	Manuel Morón
+T27	LOC 2173 2178	Ceuta

@@ -1,0 +1,43 @@
+T1	LOC 0 9	Guatemala
+T2	ORG 19 22	EFE
+T3	PER 48 68	Flor de María García
+T4	LOC 142 151	Guatemala
+T5	PER 152 164	Juan Gerardi
+T6	ORG 455 473	Ministerio Público
+T7	PER 547 565	Byron Lima Estrada
+T8	PER 586 602	Byron Lima Oliva
+T9	ORG 623 648	Estado Mayor Presidencial
+T10	ORG 650 653	EMP
+T11	PER 655 678	José Obdulio Villanueva
+T12	MISC 882 894	caso Gerardi
+T13	PER 988 994	García
+T14	ORG 1054 1076	Policía Nacional Civil
+T15	ORG 1078 1081	PNC
+T16	MISC 1162 1196	Segundo de Primera Instancia Penal
+T17	PER 1245 1251	García
+T18	PER 1261 1268	Gerardi
+T19	PER 1286 1298	Henry Monroy
+T20	PER 1434 1448	Celvin Galindo
+T21	LOC 1529 1543	Estados Unidos
+T22	PER 1604 1610	García
+T23	PER 1705 1711	García
+T24	PER 1742 1755	Mario Orantes
+T25	PER 1772 1787	Margarita López
+T26	LOC 2006 2015	Guatemala
+T27	PER 2017 2024	Gerardi
+T28	LOC 2147 2160	San Sebastián
+T29	LOC 2186 2203	Casa Presidencial
+T30	ORG 2214 2222	Gobierno
+T31	PER 2274 2281	Gerardi
+T32	MISC 2315 2351	Recuperación de la Memoria Histórica
+T33	MISC 2353 2358	REMHI
+T34	MISC 2360 2380	Guatemala: Nunca Más
+T35	ORG 2599 2607	Ejército
+T36	MISC 2673 2685	caso Gerardi
+T37	PER 2687 2703	Leopoldo Zeissig
+T38	MISC 2752 2757	REMHI
+T39	PER 2867 2874	Zeissig
+T40	PER 2901 2913	Lima Estrada
+T41	ORG 3031 3049	Ministerio Público
+T42	PER 3115 3119	Lima
+T43	PER 3125 3135	Villanueva

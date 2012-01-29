@@ -1,0 +1,19 @@
+T1	LOC 0 11	Torrelavega
+T2	ORG 21 24	EFE
+T3	ORG 38 55	PSOE-Progresistas
+T4	ORG 62 89	Ayuntamiento de Torrelavega
+T5	PER 112 132	Javier López Marcano
+T6	ORG 151 162	Corporación
+T7	ORG 199 234	Centro de Iniciativas Empresariales
+T8	ORG 262 285	Ministerio de Industria
+T9	PER 376 393	Jesús García Díaz
+T10	ORG 605 625	Comisión Informativa
+T11	ORG 631 639	Gobierno
+T12	PER 656 663	Marcano
+T13	ORG 715 750	Centro de Iniciativas Empresariales
+T14	LOC 805 819	empresa Sniace
+T15	LOC 827 841	barrio San Gil
+T16	ORG 930 953	Ministerio de Industria
+T17	MISC 1380 1399	casa del padre Coll
+T18	PER 1498 1510	Jesús García
+T19	ORG 1744 1771	Ayuntamiento de Torrelavega

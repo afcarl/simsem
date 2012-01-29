@@ -1,0 +1,11 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 38	Santiago de Compostela
+T4	ORG 48 51	EFE
+T5	ORG 56 72	Lotería Nacional
+T6	LOC 96 118	Santiago de Compostela
+T7	LOC 193 211	ciudad del Apóstol
+T8	ORG 266 318	Servicio de Sorteos de Loterías. Apuestas del Estado
+T9	PER 320 339	Angel López Hurtado
+T10	PER 368 388	Xosé Sánchez Bugallo
+T11	ORG 745 774	Loterías. Apuestas del Estado

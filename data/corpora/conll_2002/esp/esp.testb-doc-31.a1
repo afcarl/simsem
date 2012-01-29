@@ -1,0 +1,20 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 22	Madrid
+T4	ORG 32 38	EFECOM
+T5	MISC 58 90	Agricultura, Pesca. Alimentación
+T6	PER 92 111	Miguel Arias Cañete
+T7	LOC 135 146	Teatro Real
+T8	MISC 163 190	premios Viña de Madrid 2000
+T9	ORG 210 243	Consejo Regulador Vinos de Madrid
+T10	ORG 318 330	Denominación
+T11	MISC 388 402	Medio Ambiente
+T12	MISC 405 412	Sanidad
+T13	ORG 419 438	Comunidad de Madrid
+T14	PER 440 458	Carlos Mayor Oreja
+T15	PER 461 476	Ignacio Echaniz
+T16	MISC 517 533	Economía. Empleo
+T17	PER 535 549	Adolfo Cazorla
+T18	ORG 578 595	Consejo Regulador
+T19	PER 597 611	Félix Martínez
+T20	ORG 630 668	Denominación de Origen Vinos de Madrid

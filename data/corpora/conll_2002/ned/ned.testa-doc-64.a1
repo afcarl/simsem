@@ -1,0 +1,41 @@
+T1	LOC 0 12	Sint-Niklaas
+T2	LOC 50 62	Sint-Niklaas
+T3	MISC 82 93	Nederlandse
+T4	MISC 156 167	Nederlandse
+T5	LOC 202 209	Lokeren
+T6	LOC 379 390	Grote Markt
+T7	PER 440 447	Foubert
+T8	LOC 452 464	Sint-Niklaas
+T9	LOC 532 544	Sint-Niklaas
+T10	PER 565 579	Marc Schoetens
+T11	ORG 613 620	Roda JC
+T12	MISC 777 783	Haagse
+T13	LOC 809 816	Lokeren
+T14	LOC 820 826	Brugge
+T15	PER 828 842	Marc Schoetens
+T16	ORG 897 906	De Morgen
+T17	PER 907 921	Marc Schoetens
+T18	LOC 972 981	Antwerpen
+T19	LOC 1000 1009	Beerschot
+T20	ORG 1045 1086	Centraal Informatiepunt Voetbalvandalisme
+T21	LOC 1090 1099	Nederland
+T22	ORG 1195 1209	FC Nieuwkerken
+T23	ORG 1212 1222	FC Antwerp
+T24	ORG 1251 1280	Sporting Lokeren Sint-Niklaas
+T25	ORG 1283 1290	Roda JC
+T26	ORG 1470 1483	PSV Eindhoven
+T27	LOC 1487 1493	Brugge
+T28	ORG 1516 1527	Club Brugge
+T29	MISC 1554 1565	Nederlandse
+T30	ORG 1737 1772	Koninklijke Nederlandse Voetbalbond
+T31	ORG 1774 1778	KNVB
+T32	MISC 1839 1849	Nederlands
+T33	MISC 1867 1876	Belgische
+T34	MISC 1925 1934	Het Leven
+T35	ORG 1994 2006	ADO Den Haag
+T36	MISC 2052 2063	Nederlandse
+T37	LOC 2077 2081	Luik
+T38	LOC 2085 2093	Mechelen
+T39	ORG 2099 2108	De Morgen
+T40	MISC 2222 2239	KNVB-woordvoerder
+T41	PER 2240 2248	De Leede

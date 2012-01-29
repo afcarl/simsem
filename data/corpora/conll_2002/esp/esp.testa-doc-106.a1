@@ -1,0 +1,21 @@
+T1	ORG 0 3	EFE
+T2	MISC 4 8	JG-c
+T3	LOC 9 13	Roma
+T4	ORG 23 26	EFE
+T5	PER 58 72	Fernando Pérez
+T6	MISC 99 103	Goya
+T7	MISC 165 184	"La vida es silbar"
+T8	LOC 207 214	Sicilia
+T9	MISC 314 335	"Una sonrisa sin fin"
+T10	PER 384 395	Ana Assenza
+T11	LOC 496 503	Sicilia
+T12	PER 626 631	Pérez
+T13	LOC 655 659	Roma
+T14	MISC 760 779	"La vida es silbar"
+T15	PER 1172 1177	Pérez
+T16	MISC 1298 1317	"La vida es silbar"
+T17	LOC 1332 1336	Cuba
+T18	PER 1346 1360	Fernando Pérez
+T19	MISC 1389 1403	"Clandestinos"
+T20	MISC 1412 1430	"Hello, Hemingway"
+T21	MISC 1440 1452	"Madagascar"

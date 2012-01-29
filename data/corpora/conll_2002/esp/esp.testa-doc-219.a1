@@ -1,0 +1,28 @@
+T1	LOC 0 14	Río de Janeiro
+T2	ORG 24 27	EFE
+T3	ORG 52 85	Confederación Brasileña de Fútbol
+T4	ORG 87 90	CBF
+T5	PER 93 109	Ricardo Teixeira
+T6	LOC 127 135	Alemania
+T7	MISC 183 197	Copa del Mundo
+T8	PER 219 246	Edson Arantes do Nascimento
+T9	PER 247 253	"Pelé"
+T10	LOC 310 318	Alemania
+T11	LOC 390 400	Inglaterra
+T12	PER 508 516	Teixeira
+T13	ORG 540 546	Estado
+T14	LOC 550 557	Cardiff
+T15	ORG 610 615	Gales
+T16	ORG 679 685	Brasil
+T17	ORG 702 705	CBF
+T18	LOC 790 794	Asia
+T19	LOC 796 803	Oceanía
+T20	ORG 813 852	Américas del Norte. Central. del Caribe
+T21	ORG 854 862	CONCACAF
+T22	PER 865 873	Teixeira
+T23	ORG 1082 1090	CONCACAF
+T24	PER 1177 1181	Pelé
+T25	ORG 1212 1215	CBF
+T26	PER 1223 1231	Teixeira
+T27	MISC 1254 1268	Copa del Mundo
+T28	LOC 1272 1278	Brasil

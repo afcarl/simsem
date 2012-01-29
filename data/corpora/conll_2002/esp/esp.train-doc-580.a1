@@ -1,0 +1,25 @@
+T1	ORG 0 3	EFE
+T2	LOC 4 13	Cantabria
+T3	LOC 14 37	Villanueva de la Serena
+T4	LOC 39 46	Badajoz
+T5	ORG 57 60	EFE
+T6	MISC 87 117	Festival de Teatro en la Calle
+T7	ORG 146 185	Ayuntamiento de Villanueva de la Serena
+T8	ORG 212 260	Consejería de Cultura de la Junta de Extremadura
+T9	MISC 325 332	Cultura
+T10	PER 347 366	Gregorio Gil Ruedas
+T11	ORG 438 458	Junta de Extremadura
+T12	LOC 508 514	España
+T13	LOC 567 590	Villanueva de la Serena
+T14	PER 592 611	Gregorio Gil Ruedas
+T15	ORG 692 737	Promoción Cultural de la Junta de Extremadura
+T16	PER 739 763	Hernán Cortés Villalobos
+T17	ORG 782 813	Centro Dramático de Extremadura
+T18	PER 815 829	Carmelo Sayago
+T19	MISC 856 886	Festival de Teatro en la Calle
+T20	PER 888 909	José Fernando Delgado
+T21	ORG 1050 1070	Junta de Extremadura
+T22	ORG 1105 1144	Ayuntamiento de Villanueva de la Serena
+T23	ORG 1290 1310	Junta de Extremadura
+T24	ORG 1518 1530	Ayuntamiento
+T25	ORG 1536 1556	Junta de Extremadura

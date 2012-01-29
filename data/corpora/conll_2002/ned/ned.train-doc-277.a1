@@ -1,0 +1,100 @@
+T1	MISC 10 24	Michelangelo's
+T2	PER 293 300	Bruegel
+T3	PER 305 311	Rubens
+T4	PER 345 365	Antonello da Messina
+T5	LOC 388 395	Venetië
+T6	ORG 430 439	De Morgen
+T7	PER 440 448	Van Eyck
+T8	PER 465 474	Antonello
+T9	PER 520 529	Antonello
+T10	LOC 530 540	Vlaanderen
+T11	PER 561 573	Jan van Eyck
+T12	MISC 623 632	Van Eycks
+T13	MISC 656 663	Vlaamse
+T14	LOC 690 696	Napels
+T15	PER 735 747	Michelangelo
+T16	PER 778 795	Leonardo da Vinci
+T17	MISC 836 852	Giorgio Vasari's
+T18	MISC 929 939	Italiaanse
+T19	MISC 980 987	Engelse
+T20	MISC 1019 1030	Amerikaanse
+T21	MISC 1035 1045	Nederlands
+T22	MISC 1058 1065	Vlaamse
+T23	MISC 1123 1133	Italiaanse
+T24	MISC 1212 1219	Vlaamse
+T25	MISC 1300 1311	Amerikaanse
+T26	MISC 1324 1331	Vlaamse
+T27	MISC 1335 1345	Italiaanse
+T28	MISC 1378 1397	Sotheby's-leerstoel
+T29	MISC 1453 1460	Vlaamse
+T30	LOC 1477 1487	Vlaanderen
+T31	PER 1727 1741	Bernard Aikema
+T32	MISC 1774 1806	Renaissance Venice and the North
+T33	LOC 1808 1815	Venetië
+T34	PER 2042 2051	Antonello
+T35	LOC 2086 2093	Sicilië
+T36	LOC 2099 2105	Napels
+T37	PER 2127 2134	Alfonso
+T38	LOC 2139 2149	Vlaanderen
+T39	PER 2191 2205	Jan van Brugge
+T40	PER 2207 2215	Van Eyck
+T41	MISC 2390 2397	Vlaamse
+T42	PER 2410 2426	Karel van Mander
+T43	MISC 2444 2456	Schilderboek
+T44	MISC 2470 2483	Café des Arts
+T45	MISC 2742 2752	Italiaanse
+T46	LOC 3064 3074	Vlaanderen
+T47	LOC 3089 3095	Brugge
+T48	PER 3151 3154	Jan
+T49	MISC 3191 3201	Italiaanse
+T50	PER 3243 3257	Giorgio Vasari
+T51	LOC 3446 3452	Europa
+T52	MISC 3554 3567	Ancien Régime
+T53	PER 3569 3578	Leen Huet
+T54	LOC 3599 3607	Florence
+T55	PER 3628 3649	Rogier van der Weyden
+T56	LOC 3653 3659	Brugge
+T57	PER 3674 3686	Michelangelo
+T58	PER 4001 4009	Palladio
+T59	MISC 4131 4146	Medici-heersers
+T60	LOC 4150 4158	Florence
+T61	MISC 4207 4221	Parmigianino's
+T62	MISC 4222 4247	Madonna met de lange hals
+T63	MISC 4251 4283	Zelfportret in een bolle spiegel
+T64	MISC 4302 4312	Pontormo's
+T65	MISC 4313 4326	Kruisafneming
+T66	PER 4356 4368	Jan van Eyck
+T67	PER 4372 4392	Antonello da Messina
+T68	LOC 4411 4417	Italië
+T69	PER 4434 4446	Jan van Eyck
+T70	LOC 4639 4645	Spanje
+T71	LOC 4650 4657	Bohemen
+T72	LOC 4662 4669	Venetië
+T73	PER 4677 4692	Jan van Calcker
+T74	PER 4732 4739	Titiaan
+T75	PER 4806 4814	Vesalius
+T76	MISC 4845 4871	De humani corporis fabrica
+T77	PER 4900 4909	Leen Huet
+T78	LOC 4929 4935	Leuven
+T79	PER 4974 4988	Giorgio Vasari
+T80	LOC 5048 5056	Florence
+T81	PER 5115 5127	Michelangelo
+T82	PER 5154 5159	Dürer
+T83	LOC 5177 5184	Venetië
+T84	MISC 5237 5254	Rozenkransmadonna
+T85	MISC 5287 5298	Venetiaanse
+T86	MISC 5398 5405	Vlaamse
+T87	MISC 5463 5473	Italiaanse
+T88	PER 5517 5529	Jan van Eyck
+T89	PER 5537 5557	Antonello da Messina
+T90	PER 5592 5601	Antonello
+T91	LOC 5634 5640	Italië
+T92	ORG 5767 5776	Sotheby's
+T93	MISC 5805 5813	Leuvense
+T94	LOC 5918 5925	Venetië
+T95	LOC 6012 6019	Venetië
+T96	PER 6025 6044	Jacopo de ' Barbari
+T97	LOC 6050 6058	Mechelen
+T98	PER 6092 6102	Margaretha
+T99	LOC 6107 6117	Oostenrijk
+T100	PER 6121 6135	Albrecht Dürer

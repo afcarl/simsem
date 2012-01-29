@@ -1,0 +1,23 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 22	Madrid
+T4	ORG 32 35	EFE
+T5	ORG 68 75	Insalud
+T6	PER 77 89	Rubén Moreno
+T7	ORG 110 117	Insalud
+T8	PER 326 332	Moreno
+T9	ORG 669 697	Hospital Central de Asturias
+T10	ORG 702 732	Hospital Clínico de Valladolid
+T11	LOC 741 751	Valdecilla
+T12	LOC 753 762	Santander
+T13	ORG 908 915	Insalud
+T14	LOC 947 955	Cataluña
+T15	ORG 1146 1153	Insalud
+T16	PER 1156 1162	Moreno
+T17	PER 1388 1394	Moreno
+T18	ORG 1611 1619	Gobierno
+T19	PER 1732 1738	Moreno
+T20	PER 1903 1909	Moreno
+T21	PER 2333 2339	Moreno
+T22	ORG 2990 2997	Insalud
+T23	ORG 3121 3128	Insalud

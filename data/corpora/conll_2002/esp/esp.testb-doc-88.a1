@@ -1,0 +1,40 @@
+T1	PER 0 15	Santiago Blanco
+T2	LOC 17 20	ESP
+T3	ORG 23 32	Vitalicio
+T4	ORG 41 44	EFE
+T5	LOC 58 67	Guadalupe
+T6	LOC 69 76	Cáceres
+T7	ORG 87 90	EFE
+T8	MISC 113 132	Comunicación Social
+T9	LOC 168 174	España
+T10	LOC 177 185	Portugal
+T11	LOC 212 240	Real Monasterio de Guadalupe
+T12	MISC 254 287	"Iglesia. Medios de Comunicación"
+T13	PER 351 361	Joao Alves
+T14	LOC 373 380	Coimbra
+T15	PER 383 404	José Sáncbez González
+T16	LOC 416 436	Sigüenza-Guadalajara
+T17	LOC 520 556	Basílica de Santa María de Guadalupe
+T18	LOC 569 580	Extremadura
+T19	LOC 651 658	Coimbra
+T20	ORG 762 800	Comisiones Episcopales de Comunicación
+T21	LOC 804 812	Portugal
+T22	LOC 815 821	España
+T23	MISC 858 865	Iglesia
+T24	MISC 986 993	Iglesia
+T25	LOC 997 1005	Portugal
+T26	LOC 1008 1014	España
+T27	ORG 1206 1236	Universidad Católica de Lisboa
+T28	ORG 1239 1277	Facultad de Ciencias de la Información
+T29	ORG 1284 1319	Universidad Pontificia de Salamanca
+T30	MISC 1518 1544	Patrimonio de la Humanidad
+T31	PER 1557 1578	fray Sebastián García
+T32	LOC 1610 1625	Real Monasterio
+T33	LOC 1697 1733	Basílica de Santa María de Guadalupe
+T34	LOC 1809 1823	Mérida-Badajoz
+T35	PER 1824 1846	Antonio Montero Moreno
+T36	MISC 1864 1911	"Evangelización. medios de comunicación social"
+T37	ORG 1933 1971	Comisiones Episcopales de Comunicación
+T38	LOC 1975 1983	Portugal
+T39	LOC 1986 1992	España
+T40	LOC 2076 2085	Guadalupe

@@ -1,0 +1,41 @@
+T1	PER 4 18	Felipe Recuero
+T2	LOC 19 24	Padua
+T3	LOC 26 32	Italia
+T4	ORG 43 46	EFE
+T5	PER 63 76	Iván Quaranta
+T6	ORG 89 99	Mobilvetta
+T7	MISC 154 158	Giro
+T8	LOC 313 334	San Marcelo Pistoiese
+T9	LOC 337 342	Padua
+T10	PER 344 352	Quaranta
+T11	MISC 415 419	Giro
+T12	ORG 466 471	Saeco
+T13	PER 475 484	Cipollini
+T14	PER 624 639	Mario Cipollini
+T15	PER 801 821	Francesco Casagrande
+T16	ORG 823 837	Vini Caldirola
+T17	LOC 954 961	Abetone
+T18	PER 1205 1221	Hernán Buenahora
+T19	PER 1224 1243	José Jaime González
+T20	PER 1286 1301	Rafael Cardenas
+T21	PER 1304 1323	Luis Oran Castañeda
+T22	PER 1336 1350	Eladio Jiménez
+T23	PER 1366 1382	Paolo Lanfranchi
+T24	PER 1384 1398	Eddy Mazzoleni
+T25	PER 1400 1416	Rinaldo Nocentin
+T26	PER 1419 1432	Filippo Baldo
+T27	PER 1443 1458	Vitali Kokorine
+T28	ORG 1545 1559	Vini Caldirola
+T29	PER 1570 1590	Francesco Casagrande
+T30	PER 1733 1742	Buenahora
+T31	ORG 1893 1907	Vini Caldirola
+T32	ORG 1993 1999	Lampre
+T33	ORG 2002 2007	Saeco
+T34	PER 2045 2052	Svorada
+T35	PER 2055 2064	Cipollini
+T36	ORG 2494 2499	Saeco
+T37	PER 2525 2540	Mario Cipollini
+T38	PER 2602 2610	Quaranta
+T39	PER 2613 2620	Svorada
+T40	PER 2791 2804	Iván Quaranta
+T41	MISC 2835 2839	Giro

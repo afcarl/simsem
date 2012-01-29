@@ -1,0 +1,28 @@
+T1	LOC 0 9	Plasencia
+T2	LOC 11 18	Cáceres
+T3	ORG 29 32	EFE
+T4	ORG 61 102	Unión de Pequeños Agricultores. Ganaderos
+T5	LOC 106 117	Extremadura
+T6	ORG 119 122	UPA
+T7	LOC 139 148	Plasencia
+T8	MISC 359 387	Organización. Administración
+T9	ORG 391 394	UPA
+T10	LOC 395 406	Extremadura
+T11	PER 408 419	Miguel Leal
+T12	ORG 431 434	EFE
+T13	ORG 493 496	UPA
+T14	PER 812 816	Leal
+T15	ORG 834 837	UPA
+T16	ORG 1106 1108	UE
+T17	PER 1145 1149	Leal
+T18	ORG 1323 1326	UPA
+T19	LOC 1387 1398	Extremadura
+T20	ORG 1417 1430	Unión Europea
+T21	ORG 1432 1434	UE
+T22	LOC 1502 1508	Madrid
+T23	ORG 2005 2046	Unión de Pequeños Agricultores. Ganaderos
+T24	MISC 2126 2159	Estatuto del Agricultor. Ganadero
+T25	PER 2224 2235	Miguel Leal
+T26	LOC 2262 2271	Plasencia
+T27	LOC 2381 2392	Plaza Mayor
+T28	LOC 2519 2528	Plasencia

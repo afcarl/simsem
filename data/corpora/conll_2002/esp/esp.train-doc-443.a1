@@ -1,0 +1,15 @@
+T1	ORG 0 6	EFECOM
+T2	LOC 16 25	Plasencia
+T3	LOC 27 34	Cáceres
+T4	ORG 45 48	EFE
+T5	ORG 56 68	Ayuntamiento
+T6	LOC 97 106	Plasencia
+T7	MISC 140 169	Feria Internacional de Bilbao
+T8	MISC 171 190	Expovacaciones 2000
+T9	ORG 281 311	Comisión Municipal de Gobierno
+T10	MISC 405 423	Ferias. Certámenes
+T11	PER 425 438	Francisco Gil
+T12	LOC 513 522	Plasencia
+T13	ORG 543 551	Comisión
+T14	MISC 666 671	Feria
+T15	MISC 673 692	Expovacaciones 2000

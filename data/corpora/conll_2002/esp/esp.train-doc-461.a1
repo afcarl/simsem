@@ -1,0 +1,41 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	MISC 42 58	Asuntos Sociales
+T4	ORG 88 110	Ayuntamiento de Madrid
+T5	PER 112 129	Matilde Fernández
+T6	ORG 203 207	PSOE
+T7	LOC 230 236	Madrid
+T8	PER 283 297	Alfonso Guerra
+T9	ORG 320 340	Junta de Extremadura
+T10	PER 342 370	Juan Carlos Rodríguez Ibarra
+T11	ORG 417 420	Efe
+T12	ORG 497 500	UGT
+T13	PER 608 625	Matilde Fernández
+T14	PER 678 689	José Acosta
+T15	ORG 697 728	Federación Socialista Madrileña
+T16	PER 759 773	Alfonso Guerra
+T17	ORG 796 816	Junta de Extremadura
+T18	PER 818 846	Juan Carlos Rodríguez Ibarra
+T19	PER 870 887	Matilde Fernández
+T20	ORG 942 964	Universidad Carlos III
+T21	PER 966 986	Gregorio Peces-Barba
+T22	PER 1005 1019	Fernando Morán
+T23	ORG 1073 1076	UGT
+T24	PER 1078 1092	Cándido Méndez
+T25	ORG 1185 1189	PSOE
+T26	ORG 1196 1218	Ayuntamiento de Madrid
+T27	LOC 1430 1436	Madrid
+T28	PER 1438 1454	Rodríguez Ibarra
+T29	ORG 1551 1559	Congreso
+T30	ORG 1680 1688	Congreso
+T31	PER 1926 1943	Matilde Fernández
+T32	PER 1998 2026	José Luis Rodríguez Zapatero
+T33	PER 2061 2070	José Bono
+T34	LOC 2141 2147	Madrid
+T35	ORG 2298 2306	Congreso
+T36	ORG 2464 2472	Congreso
+T37	MISC 2768 2803	El nuevo proyecto político del PSOE
+T38	PER 2822 2849	Francisco Fernández Marugán
+T39	PER 2852 2869	Matilde Fernández
+T40	ORG 2975 2979	PSOE
+T41	MISC 3248 3256	Congreso

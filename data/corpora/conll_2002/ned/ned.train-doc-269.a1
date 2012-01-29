@@ -1,0 +1,24 @@
+T1	LOC 234 242	Engeland
+T2	LOC 253 259	Spanje
+T3	LOC 278 287	Frankrijk
+T4	LOC 303 312	Nederland
+T5	ORG 321 330	De Morgen
+T6	PER 331 347	Geert Stroobants
+T7	LOC 439 447	Engeland
+T8	PER 546 554	Bierhoff
+T9	PER 556 564	Bierhoff
+T10	PER 620 635	Oliver Bierhoff
+T11	PER 746 754	Bierhoff
+T12	LOC 806 815	Duitsland
+T13	PER 830 838	Bierhoff
+T14	ORG 875 885	Mannschaft
+T15	MISC 887 892	Sport
+T16	PER 900 915	Oliver Bierhoff
+T17	MISC 988 1010	Europees kampioenschap
+T18	PER 1110 1112	GS
+T19	PER 1140 1148	Poborsky
+T20	MISC 1156 1164	Tsjechen
+T21	PER 1200 1215	Oliver Bierhoff
+T22	LOC 1287 1296	Duitsland
+T23	LOC 1336 1344	Tsjechië
+T24	PER 1346 1354	Bierhoff

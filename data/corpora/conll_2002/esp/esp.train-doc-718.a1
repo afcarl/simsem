@@ -1,0 +1,56 @@
+T1	MISC 24 37	Energía. Agua
+T2	MISC 57 79	Energía Eléctrica. gas
+T3	MISC 100 126	Mineral-Metálicas-Químicas
+T4	MISC 144 157	Metalmecánica
+T5	MISC 178 192	Manufactureras
+T6	MISC 211 223	Construcción
+T7	MISC 241 249	Comercio
+T8	MISC 267 293	Transportes-Comunicaciones
+T9	MISC 314 320	Bancos
+T10	MISC 341 354	Inmobiliarias
+T11	LOC 374 381	Vitoria
+T12	ORG 391 394	EFE
+T13	ORG 402 410	Gobierno
+T14	MISC 447 455	Interior
+T15	PER 457 474	Jaime Mayor Oreja
+T16	ORG 555 565	Ertzaintza
+T17	ORG 580 590	Ministerio
+T18	PER 646 659	Josu Jon Imaz
+T19	MISC 754 762	Interior
+T20	PER 764 776	Javier Balza
+T21	ORG 787 810	Ministerio del Interior
+T22	ORG 849 859	Ertzaintza
+T23	LOC 889 895	Madrid
+T24	ORG 913 932	Estado de Seguridad
+T25	PER 934 947	Pedro Morenés
+T26	MISC 971 979	Interior
+T27	ORG 984 998	Gobierno Vasco
+T28	PER 1000 1013	Mikel Legarda
+T29	PER 1015 1019	Imaz
+T30	ORG 1046 1054	Gobierno
+T31	MISC 1134 1142	Interior
+T32	ORG 1181 1184	ETA
+T33	ORG 1281 1290	"El País"
+T34	MISC 1321 1329	Interior
+T35	ORG 1342 1352	Ertzaintza
+T36	ORG 1408 1411	ETA
+T37	PER 1460 1474	Fernando Buesa
+T38	ORG 1489 1497	Gobierno
+T39	MISC 1529 1537	Interior
+T40	PER 1539 1556	Jaime Mayor Oreja
+T41	ORG 1637 1645	Gobierno
+T42	PER 1744 1748	Imaz
+T43	MISC 1811 1819	Interior
+T44	PER 1821 1832	Jaime Mayor
+T45	ORG 1837 1845	Gobierno
+T46	PER 1860 1864	Imaz
+T47	ORG 1997 2020	Ministerio del Interior
+T48	ORG 2099 2109	Ertzaintza
+T49	PER 2145 2149	Imaz
+T50	ORG 2329 2339	Ertzaintza
+T51	ORG 2515 2544	Ayuntamiento de San Sebastián
+T52	PER 2546 2550	Imaz
+T53	PER 2705 2721	Agustín Ibarrola
+T54	ORG 2747 2755	Gobierno
+T55	ORG 2823 2847	Departamento de Interior
+T56	LOC 2919 2928	Guipúzcoa

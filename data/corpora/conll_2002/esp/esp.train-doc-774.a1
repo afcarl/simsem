@@ -1,0 +1,54 @@
+T1	LOC 0 7	Badajoz
+T2	ORG 17 20	EFE
+T3	LOC 49 55	Lisboa
+T4	LOC 57 63	Madrid
+T5	LOC 65 74	Barcelona
+T6	LOC 77 88	Extremadura
+T7	LOC 152 205	Museo Extremeño. Iberoamericano de Arte Contemporáneo
+T8	LOC 207 212	MEIAC
+T9	LOC 217 224	Badajoz
+T10	ORG 317 323	"4. L"
+T11	ORG 371 377	"4. L"
+T12	MISC 391 402	"Punto 1.9"
+T13	MISC 555 564	Eneagrama
+T14	ORG 721 724	EFE
+T15	ORG 756 762	"4. L"
+T16	PER 764 778	Emanuele Leone
+T17	PER 781 795	Paloma Aguirre
+T18	MISC 800 809	Eneagrama
+T19	MISC 845 849	Sufí
+T20	PER 1019 1028	Olga Mesa
+T21	PER 1054 1075	Emanuel Dimas Pimenta
+T22	PER 1090 1104	Daniel Miracle
+T23	LOC 1152 1157	MEIAC
+T24	MISC 1294 1322	Festival de Teatro de Mérida
+T25	MISC 1331 1371	Festival de Teatro. Danza Contemporáneos
+T26	LOC 1375 1382	Badajoz
+T27	PER 1465 1470	Leone
+T28	PER 1784 1798	Daniel Miracle
+T29	PER 1916 1925	Olga Mesa
+T30	PER 2083 2104	Emanuel Dimas Pimenta
+T31	MISC 2137 2145	HLMRPHSS
+T32	MISC 2210 2221	"Punto 1.9"
+T33	MISC 2380 2396	Realidad Virtual
+T34	PER 2520 2541	Emanuel Dimas Pimenta
+T35	MISC 2878 2897	"Lac Maggiore Prix"
+T36	ORG 2915 2921	UNESCO
+T37	LOC 2931 2937	España
+T38	LOC 2983 2989	Lisboa
+T39	LOC 2992 3002	Nueva York
+T40	PER 3004 3011	Pimenta
+T41	PER 3024 3031	J. Cage
+T42	PER 3144 3160	Merce Cunningham
+T43	PER 3252 3259	J. Cage
+T44	PER 3261 3276	Tekehisa Kosugi
+T45	PER 3278 3289	David Tudor
+T46	PER 3291 3304	John DS Adams
+T47	PER 3306 3318	Martha Mooke
+T48	MISC 3322 3364	The Manhattan Quartet and Michael Pugliese
+T49	PER 3396 3403	Pimenta
+T50	PER 3440 3460	Joao Paulo Feliciano
+T51	LOC 3533 3538	MEIAC
+T52	MISC 3559 3586	Show Multimedia Acquamatrix
+T53	MISC 3593 3601	Expo '98
+T54	LOC 3605 3611	Lisboa

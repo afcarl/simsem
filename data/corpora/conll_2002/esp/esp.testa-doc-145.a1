@@ -1,0 +1,21 @@
+T1	LOC 0 5	París
+T2	ORG 15 18	EFE
+T3	ORG 37 45	Tribunal
+T4	ORG 113 123	Wappup.com
+T5	ORG 131 145	France Telecom
+T6	MISC 225 228	WAP
+T7	MISC 230 259	Wireless Application Protocol
+T8	ORG 283 293	Wappup.com
+T9	ORG 441 455	France Telecom
+T10	PER 850 865	Antoine Duboscq
+T11	PER 882 889	Duboscq
+T12	ORG 954 962	Motorola
+T13	ORG 964 971	Alcatel
+T14	ORG 973 978	Sagem
+T15	ORG 981 991	Mistubishi
+T16	ORG 1024 1028	FNAC
+T17	ORG 1031 1046	The Phone House
+T18	ORG 1123 1160	Asociación Francesa de Internet Móvil
+T19	ORG 1162 1166	AFMI
+T20	ORG 1198 1212	France Telecom
+T21	MISC 1321 1324	WAP

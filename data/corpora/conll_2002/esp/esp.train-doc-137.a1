@@ -1,0 +1,12 @@
+T1	ORG 15 18	EFE
+T2	ORG 26 33	Policía
+T3	LOC 126 142	Kapitán Andréevo
+T4	LOC 189 197	Estambul
+T5	LOC 200 208	Bucarest
+T6	PER 240 254	Kalina Petrova
+T7	MISC 282 288	Aduana
+T8	LOC 504 520	Kapitán Andréevo
+T9	LOC 570 580	Svílengrad
+T10	LOC 645 661	Kapitán Andréevo
+T11	LOC 734 747	Oriente Medio
+T12	LOC 754 771	Europa Occidental

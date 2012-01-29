@@ -1,0 +1,37 @@
+T1	LOC 0 10	Valladolid
+T2	ORG 20 23	EFE
+T3	ORG 28 36	Portugal
+T4	MISC 112 122	INTUR 2000
+T5	LOC 144 154	Valladolid
+T6	ORG 209 212	Efe
+T7	ORG 234 241	Oficina
+T8	LOC 260 266	España
+T9	PER 268 282	Joao Sebastiao
+T10	MISC 302 309	Turismo
+T11	LOC 313 321	Portugal
+T12	LOC 325 331	España
+T13	MISC 362 367	INTUR
+T14	LOC 507 517	Valladolid
+T15	LOC 572 578	Lisboa
+T16	LOC 584 598	Valle del Tajo
+T17	LOC 666 672	España
+T18	LOC 708 717	Salamanca
+T19	LOC 726 736	Valladolid
+T20	LOC 754 761	Vitoria
+T21	LOC 763 769	Bilbao
+T22	LOC 772 781	Santander
+T23	LOC 853 861	Portugal
+T24	LOC 989 995	Fátima
+T25	PER 997 1011	Joao Sebastiao
+T26	LOC 1024 1030	España
+T27	LOC 1090 1098	Portugal
+T28	LOC 1168 1174	Madrid
+T29	ORG 1238 1266	Asociación Turismo de Lisboa
+T30	ORG 1271 1307	Junta de Turismo de Costa de Estoril
+T31	ORG 1312 1338	Cámara Municipal de Sintra
+T32	ORG 1343 1368	Cámara Municipal de Mafra
+T33	LOC 1387 1408	Turismo de Costa Azul
+T34	LOC 1410 1423	Leiria/Fatima
+T35	LOC 1429 1434	Oeste
+T36	LOC 1436 1444	Ribatejo
+T37	LOC 1447 1457	Templarios

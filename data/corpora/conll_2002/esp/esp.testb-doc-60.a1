@@ -1,0 +1,21 @@
+T1	ORG 169 172	EFE
+T2	LOC 178 189	Torrelavega
+T3	ORG 199 202	EFE
+T4	ORG 210 236	Corporación de Torrelavega
+T5	MISC 257 262	Pleno
+T6	MISC 366 394	Impuesto de Bienes Inmuebles
+T7	MISC 396 399	IAE
+T8	MISC 466 476	Sorravides
+T9	MISC 479 486	Indiana
+T10	MISC 606 611	Pleno
+T11	MISC 681 684	IAE
+T12	LOC 723 737	calle La Llama
+T13	MISC 885 893	Hacienda
+T14	MISC 898 903	Pleno
+T15	LOC 1169 1191	Cementerio de Río Cabo
+T16	MISC 1449 1454	Pleno
+T17	PER 1504 1518	César Cubillas
+T18	PER 1521 1534	Luis Castillo
+T19	LOC 1581 1610	Centro Cultural Concha Espina
+T20	MISC 1696 1701	Obras
+T21	ORG 1747 1785	Fondos de Cohesión de la Unión Europea

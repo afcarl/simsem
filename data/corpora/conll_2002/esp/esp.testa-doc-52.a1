@@ -1,0 +1,41 @@
+T1	ORG 0 6	EFECOM
+T2	MISC 7 11	ac-c
+T3	LOC 12 18	La Paz
+T4	ORG 28 31	EFE
+T5	LOC 51 58	Bolivia
+T6	ORG 101 110	Petrobras
+T7	MISC 213 233	Desarrollo Económico
+T8	PER 248 262	José Luis Lupo
+T9	LOC 328 335	Bolivia
+T10	MISC 362 376	Minas. Energía
+T11	PER 378 395	Rodolpho Tourinho
+T12	ORG 417 426	Petrobras
+T13	PER 428 447	Philippe Reichstuhl
+T14	PER 544 552	Tourinho
+T15	PER 555 559	Lupo
+T16	PER 684 695	Hugo Banzer
+T17	LOC 703 722	Palacio de Gobierno
+T18	LOC 726 732	La Paz
+T19	PER 789 793	Lupo
+T20	LOC 951 958	Bolivia
+T21	LOC 1000 1006	Brasil
+T22	LOC 1282 1289	Bolivia
+T23	ORG 1356 1366	Transredes
+T24	ORG 1399 1404	Enron
+T25	LOC 1482 1500	Yacuiba-Río Grande
+T26	ORG 1534 1543	Petrobras
+T27	LOC 1595 1602	Bolivia
+T28	ORG 1699 1709	Transredes
+T29	LOC 1838 1852	Bolivia-Brasil
+T30	MISC 1900 1917	"cuenta diferida"
+T31	ORG 2031 2041	Transredes
+T32	ORG 2196 2205	Petrobras
+T33	MISC 2294 2308	Minas. Energía
+T34	LOC 2312 2318	Brasil
+T35	LOC 2379 2386	Bolivia
+T36	MISC 2403 2423	Desarrollo Económico
+T37	ORG 2471 2480	Petrobras
+T38	LOC 2515 2521	Brasil
+T39	ORG 2786 2795	Petrobras
+T40	LOC 2878 2891	Puerto Suárez
+T41	LOC 2960 2966	Brasil

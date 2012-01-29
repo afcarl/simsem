@@ -1,0 +1,33 @@
+T1	LOC 0 4	Lima
+T2	ORG 14 17	EFE
+T3	LOC 57 61	Perú
+T4	ORG 273 326	Confederación de Instituciones Empresariales Privadas
+T5	ORG 328 335	CONFIEP
+T6	PER 338 353	Roque Benavides
+T7	ORG 386 415	Jurado Nacional de Elecciones
+T8	ORG 417 420	JNE
+T9	ORG 514 517	JNE
+T10	ORG 652 692	Oficina Nacional de Procesos Electorales
+T11	ORG 694 698	ONPE
+T12	PER 735 744	Benavides
+T13	ORG 831 834	OEA
+T14	ORG 836 870	Organización de Estados Americanos
+T15	ORG 880 901	Defensoría del Pueblo
+T16	LOC 935 939	Perú
+T17	ORG 967 970	JNE
+T18	ORG 1045 1048	OEA
+T19	ORG 1053 1063	Defensoría
+T20	ORG 1148 1161	Transparencia
+T21	ORG 1164 1182	Consejo por la Paz
+T22	ORG 1206 1219	Centro Carter
+T23	ORG 1222 1250	Instituto Nacional Demócrata
+T24	ORG 1252 1255	IND
+T25	ORG 1261 1264	OEA
+T26	ORG 1270 1291	Defensoría del Pueblo
+T27	PER 1508 1524	Alejandro Toledo
+T28	PER 1629 1638	Benavides
+T29	PER 1696 1712	Alberto Fujimori
+T30	ORG 1932 1939	CONFIEP
+T31	LOC 1989 1993	Perú
+T32	PER 2017 2023	Toledo
+T33	PER 2176 2185	Benavides

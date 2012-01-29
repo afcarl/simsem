@@ -1,0 +1,13 @@
+T1	ORG 0 3	EFE
+T2	LOC 6 15	Cantabria
+T3	LOC 16 25	Barcelona
+T4	ORG 35 38	EFE
+T5	PER 70 86	Joe Louis Walker
+T6	ORG 99 114	The Bosstalkers
+T7	LOC 164 174	sala Apolo
+T8	MISC 199 232	Festival de Guitarra de Barcelona
+T9	PER 234 240	Walker
+T10	LOC 403 416	San Francisco
+T11	PER 482 492	B. B. King
+T12	PER 494 506	Elmore James
+T13	PER 509 521	Pete Johnson

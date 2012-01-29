@@ -1,0 +1,32 @@
+T1	PER 0 8	Pristina
+T2	ORG 10 20	Yugoslavia
+T3	ORG 31 34	EFE
+T4	ORG 53 124	Misión de las Naciones Unidas para la Administración Interina en Kosovo
+T5	ORG 126 131	UNMIK
+T6	PER 134 150	Bernard Kouchner
+T7	LOC 293 302	Djakovica
+T8	PER 322 330	Kouchner
+T9	LOC 501 510	Djakovica
+T10	ORG 560 565	UNMIK
+T11	LOC 585 594	Djakovica
+T12	ORG 628 646	Fuerza para Kosovo
+T13	ORG 648 652	KFOR
+T14	PER 683 694	Juan Ortuño
+T15	PER 739 751	Hashim Thaci
+T16	ORG 826 858	Ejército de Liberación de Kosovo
+T17	ORG 860 863	UCK
+T18	LOC 942 948	Kosovo
+T19	PER 953 961	Kouchner
+T20	LOC 1002 1011	Djakovica
+T21	PER 1013 1021	Kouchner
+T22	LOC 1175 1184	Djakovica
+T23	PER 1186 1200	Mazlok Kumnova
+T24	LOC 1307 1310	Nis
+T25	LOC 1319 1325	Serbia
+T26	ORG 1452 1455	UCK
+T27	ORG 1511 1518	Policía
+T28	ORG 1531 1539	Ejército
+T29	ORG 1579 1583	OTAN
+T30	LOC 1591 1601	Yugoslavia
+T31	LOC 1628 1634	Kosovo
+T32	LOC 1707 1713	Serbia

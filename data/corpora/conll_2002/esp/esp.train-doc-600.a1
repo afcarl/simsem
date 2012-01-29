@@ -1,0 +1,46 @@
+T1	LOC 0 6	Bilbao
+T2	ORG 16 19	EFE
+T3	PER 24 39	Miguel Cardenal
+T4	ORG 56 77	Universidad de Murcia
+T5	LOC 99 105	Bilbao
+T6	MISC 113 141	Jornada de Derecho Deportivo
+T7	ORG 159 189	Colegio de Abogados de Vizcaya
+T8	PER 383 391	Cardenal
+T9	PER 394 409	Francisco Lledó
+T10	MISC 426 439	Derecho Civil
+T11	ORG 446 467	Universidad de Deusto
+T12	PER 579 584	Lledó
+T13	PER 884 892	Cardenal
+T14	MISC 1069 1086	Real Decreto 1006
+T15	PER 1206 1214	Cardenal
+T16	PER 1339 1347	Cardenal
+T17	LOC 1416 1422	España
+T18	PER 1643 1648	Lledó
+T19	PER 1906 1911	Jarni
+T20	PER 1914 1924	De la Peña
+T21	PER 1954 1966	Oscar García
+T22	PER 1969 1983	Julen Guerrero
+T23	PER 2049 2054	Lledó
+T24	MISC 2354 2382	Jornada de Derecho Deportivo
+T25	PER 2397 2410	Rafael Vargas
+T26	PER 2413 2429	Domingo Carbajal
+T27	ORG 2665 2668	SAD
+T28	PER 2705 2717	Miguel Juane
+T29	PER 2720 2736	Juan José Seoane
+T30	PER 2786 2791	Juane
+T31	MISC 2807 2829	Administrador judicial
+T32	ORG 2834 2844	At. Madrid
+T33	ORG 2898 2901	SAD
+T34	PER 2960 2965	Juane
+T35	ORG 3003 3017	Administración
+T36	ORG 3050 3053	SAD
+T37	ORG 3170 3184	Administración
+T38	PER 3345 3351	Seoane
+T39	PER 3372 3386	Saski Baskonia
+T40	ORG 3388 3400	Tau Cerámica
+T41	LOC 3493 3499	España
+T42	ORG 3652 3660	Vasconia
+T43	ORG 3755 3763	Baskonia
+T44	PER 3775 3791	Juan José Seoane
+T45	ORG 3805 3808	SAD
+T46	ORG 3834 3836	SA

@@ -1,0 +1,31 @@
+T1	ORG 0 3	EFE
+T2	LOC 23 30	Caracas
+T3	ORG 40 43	EFE
+T4	LOC 128 137	Venezuela
+T5	ORG 256 315	Programa Venezolano de Educación-Acción en Derechos Humanos
+T6	ORG 317 323	Provea
+T7	ORG 336 357	Defensoría del Pueblo
+T8	ORG 615 636	Defensoría del Pueblo
+T9	ORG 649 675	Consejo Nacional Electoral
+T10	ORG 677 680	CNE
+T11	ORG 865 868	ONG
+T12	ORG 1005 1008	CNE
+T13	LOC 1070 1079	Venezuela
+T14	ORG 1104 1121	Asamblea Nacional
+T15	ORG 1132 1158	Parlamento Latinoamericano
+T16	ORG 1170 1187	Parlamento Andino
+T17	ORG 1318 1324	Provea
+T18	ORG 1665 1686	Defensoría del Pueblo
+T19	ORG 1717 1732	Poder Ciudadano
+T20	MISC 1755 1766	Carta Magna
+T21	ORG 1942 1945	CNE
+T22	ORG 2151 2181	Elections Systems And Software
+T23	ORG 2183 2189	ESES&S
+T24	PER 2521 2532	Hugo Chávez
+T25	ORG 2564 2587	Gobierno estadounidense
+T26	ORG 2714 2717	CNE
+T27	PER 2719 2735	Alberto Cárdenas
+T28	ORG 2864 2881	"Queremos elegir"
+T29	ORG 2887 2951	"Comité de Familiares de las Víctimas del 27 de febrero de 1989"
+T30	ORG 2953 2960	Cofavic
+T31	ORG 2992 3020	Tribunal Supremo de Justicia

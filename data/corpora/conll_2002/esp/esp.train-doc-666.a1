@@ -1,0 +1,26 @@
+T1	LOC 0 14	Río de Janeiro
+T2	LOC 16 22	Brasil
+T3	ORG 33 36	EFE
+T4	LOC 58 64	Brasil
+T5	PER 66 91	Fernando Henrique Cardoso
+T6	LOC 126 140	Río de Janeiro
+T7	MISC 144 205	XII Asamblea de la Asociación de Comités Olímpicos Nacionales
+T8	ORG 207 211	ACNO
+T9	ORG 308 337	Comité Olímpico Internacional
+T10	PER 350 372	Juan Antonio Samaranch
+T11	ORG 380 384	ACNO
+T12	PER 398 416	Mario Vázquez Raña
+T13	LOC 446 449	Río
+T14	PER 451 468	Anthony Garotinho
+T15	PER 498 514	Luiz Paulo Conde
+T16	ORG 531 535	ACNO
+T17	ORG 541 567	Comisión Ejecutiva del COI
+T18	LOC 850 853	Río
+T19	ORG 881 906	Comité Olímpico Brasileño
+T20	PER 908 928	Carlos Arthur Nuzman
+T21	MISC 970 985	Naciones Unidas
+T22	ORG 1042 1046	ACNO
+T23	PER 1072 1097	Fernando Henrique Cardoso
+T24	MISC 1171 1187	Juegos Olímpicos
+T25	ORG 1198 1228	Meninas Cantoras de Petrópolis
+T26	LOC 1256 1262	Brasil

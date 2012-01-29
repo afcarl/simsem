@@ -1,0 +1,28 @@
+T1	LOC 0 8	El Cairo
+T2	ORG 18 21	EFE
+T3	ORG 26 32	Egipto
+T4	ORG 54 60	Israel
+T5	LOC 134 140	Líbano
+T6	ORG 202 208	Israel
+T7	LOC 227 233	Líbano
+T8	LOC 266 274	El Cairo
+T9	MISC 298 316	Asuntos Exteriores
+T10	PER 318 327	Amro Musa
+T11	ORG 368 395	Ejército del Sur del Líbano
+T12	ORG 397 400	ESL
+T13	ORG 550 565	Naciones Unidas
+T14	PER 655 659	Musa
+T15	PER 696 706	Ehud Barak
+T16	ORG 754 782	Autoridad Nacional Palestina
+T17	ORG 784 787	ANP
+T18	LOC 832 841	Estocolmo
+T19	LOC 984 993	Jerusalén
+T20	PER 1075 1079	Musa
+T21	MISC 1147 1165	Seguridad Interior
+T22	PER 1167 1181	Shlomo Ben Ami
+T23	LOC 1195 1201	Egipto
+T24	ORG 1216 1236	Gobierno de El Cairo
+T25	PER 1368 1375	Ben Ami
+T26	LOC 1437 1446	Estocolmo
+T27	LOC 1455 1463	El Cairo
+T28	PER 1480 1485	Barak

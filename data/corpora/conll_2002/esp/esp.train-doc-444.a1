@@ -1,0 +1,29 @@
+T1	LOC 0 6	Madrid
+T2	ORG 16 19	EFE
+T3	MISC 39 48	Urbanismo
+T4	ORG 53 57	PSOE
+T5	ORG 64 86	Ayuntamiento de Madrid
+T6	PER 88 105	Matilde Fernández
+T7	MISC 123 143	Comisión Informativa
+T8	MISC 349 358	Urbanismo
+T9	MISC 513 521	Comisión
+T10	PER 522 539	Matilde Fernández
+T11	PER 612 627	Ignacio del Río
+T12	LOC 715 721	Latina
+T13	LOC 766 775	Hortaleza
+T14	LOC 786 792	Tetuán
+T15	LOC 794 805	Carabanchel
+T16	LOC 808 827	Fuencarral-El Pardo
+T17	MISC 872 880	Comisión
+T18	MISC 898 903	Pleno
+T19	LOC 1014 1019	Daoíz
+T20	LOC 1022 1029	Velarde
+T21	PER 1031 1040	Fernández
+T22	ORG 1090 1119	Empresa Municipal de Vivienda
+T23	ORG 1121 1124	EMV
+T24	MISC 1254 1275	Comisión de Urbanismo
+T25	LOC 1296 1307	circo Price
+T26	ORG 1363 1367	PSOE
+T27	PER 1569 1578	Fernández
+T28	LOC 1819 1824	Usera
+T29	LOC 1827 1835	Chamberí

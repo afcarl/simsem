@@ -1,0 +1,37 @@
+T1	PER 4 17	Isabel Laguna
+T2	LOC 18 24	Madrid
+T3	ORG 34 37	EFE
+T4	PER 71 85	Clara Aparicio
+T5	PER 96 106	Juan Rulfo
+T6	MISC 307 319	Pedro Páramo
+T7	PER 357 371	Clara Aparicio
+T8	LOC 386 392	Madrid
+T9	MISC 416 435	Aire de las colinas
+T10	PER 482 487	Rulfo
+T11	ORG 562 565	EFE
+T12	PER 615 619	Juan
+T13	PER 741 751	Juan Rulfo
+T14	PER 1032 1042	Juan Rulfo
+T15	PER 1082 1096	Clara Aparicio
+T16	LOC 1313 1324	Guadalajara
+T17	PER 1436 1441	Clara
+T18	MISC 1605 1620	Llano en Llamas
+T19	MISC 1648 1660	Pedro Páramo
+T20	PER 1714 1719	Rulfo
+T21	MISC 1889 1911	El hijo del desaliento
+T22	MISC 2016 2028	Pedro Páramo
+T23	MISC 2063 2090	Una estrella junto. la luna
+T24	MISC 2095 2104	Murmullos
+T25	LOC 2192 2201	Finlandia
+T26	PER 2700 2705	Rulfo
+T27	PER 2990 3004	Clara Aparicio
+T28	LOC 3066 3072	México
+T29	PER 3177 3191	Clara Aparicio
+T30	PER 3246 3256	Juan Rulfo
+T31	PER 3546 3551	Rulfo
+T32	PER 3913 3927	Clara Aparicio
+T33	PER 4068 4073	Rulfo
+T34	MISC 4195 4214	Aire de las colinas
+T35	LOC 4224 4230	España
+T36	ORG 4239 4245	Debate
+T37	PER 4353 4363	Juan Rulfo

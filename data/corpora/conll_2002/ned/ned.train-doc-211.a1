@@ -1,0 +1,58 @@
+T1	PER 11 21	Moneypenny
+T2	LOC 46 63	Schotse Highlands
+T3	PER 99 105	Atkins
+T4	PER 224 230	Atkins
+T5	MISC 235 255	Auschwitz-commandant
+T6	PER 256 268	Rudolf Hoess
+T7	MISC 318 336	Nürnberg-processen
+T8	LOC 417 426	Frankrijk
+T9	MISC 514 521	Engelse
+T10	LOC 522 530	Hastings
+T11	PER 533 544	Vera Atkins
+T12	MISC 595 607	George Cross
+T13	PER 767 773	Atkins
+T14	PER 931 946	Miss Moneypenny
+T15	MISC 954 973	James Bond-verhalen
+T16	LOC 1029 1038	Hampshire
+T17	LOC 1090 1100	Manchester
+T18	PER 1102 1115	Odette Sansom
+T19	ORG 1184 1191	Gestapo
+T20	PER 1395 1412	Jean-Paul Mulders
+T21	ORG 1611 1620	De Morgen
+T22	PER 1654 1660	Atkins
+T23	MISC 1836 1844	De Focus
+T24	LOC 1957 1967	Winchelsea
+T25	PER 2025 2031	Atkins
+T26	LOC 2210 2219	Frankrijk
+T27	PER 2232 2249	Jean-Paul Mulders
+T28	PER 2313 2318	Hoess
+T29	LOC 2361 2370	Auschwitz
+T30	PER 2501 2507	Atkins
+T31	MISC 2841 2850	Roemeense
+T32	MISC 3096 3102	Franse
+T33	MISC 3111 3117	Franse
+T34	PER 3311 3317	Atkins
+T35	PER 3431 3437	Atkins
+T36	MISC 3684 3691	Fransen
+T37	ORG 3715 3722	Reuters
+T38	PER 3865 3871	Hitler
+T39	LOC 3951 3957	Londen
+T40	PER 3964 3973	Churchill
+T41	PER 3981 3991	Buckmaster
+T42	PER 4178 4196	Maurice Buckmaster
+T43	ORG 4215 4243	Special Operations Executive
+T44	MISC 4305 4319	Bond-schrijver
+T45	PER 4320 4327	Fleming
+T46	PER 4340 4342	M.
+T47	PER 4346 4352	Atkins
+T48	MISC 4391 4424	Commandant of the Legion of Honor
+T49	MISC 4495 4509	French Service
+T50	ORG 4517 4520	BBC
+T51	MISC 4577 4596	Tweede Wereldoorlog
+T52	MISC 4640 4646	Britse
+T53	LOC 4673 4682	Frankrijk
+T54	MISC 4704 4710	nazi's
+T55	MISC 4771 4782	Amerikaanse
+T56	PER 4812 4832	Dwight D. Eisenhower
+T57	ORG 4866 4894	Special Operations Executive
+T58	PER 5149 5160	Vera Atkins

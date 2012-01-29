@@ -1,0 +1,15 @@
+T1	LOC 0 9	Fráncfort
+T2	LOC 11 14	RFA
+T3	ORG 25 31	EFECOM
+T4	MISC 46 49	Dax
+T5	LOC 65 74	Fráncfort
+T6	MISC 123 134	Wall Street
+T7	MISC 326 329	Dax
+T8	ORG 474 481	Allianz
+T9	ORG 587 600	Goldman Sachs
+T10	ORG 619 633	Münchener Rúck
+T11	ORG 706 711	Metro
+T12	ORG 826 836	Volkswagen
+T13	LOC 985 993	Hamburgo
+T14	ORG 1013 1029	Deutsche Telekom
+T15	ORG 1218 1225	Shering

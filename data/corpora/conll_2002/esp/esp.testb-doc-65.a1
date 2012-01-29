@@ -1,0 +1,19 @@
+T1	ORG 0 6	EFECOM
+T2	LOC 13 19	Madrid
+T3	ORG 29 32	EFE
+T4	ORG 53 71	Servicios Sociales
+T5	PER 73 87	Pilar Martínez
+T6	MISC 127 143	Seguridad Social
+T7	PER 145 160	Alister Darling
+T8	ORG 178 211	Centro de Actividades Pedagógicas
+T9	ORG 212 221	"Tomillo"
+T10	MISC 270 313	"Menores Inmigrantes de Vida Independiente"
+T11	MISC 340 483	"Formación ocupacional de adolescentes inmigrantes de vida independiente. realización de estudios sobre su situación en la Comunidad de Madrid"
+T12	ORG 510 551	Instituto Madrileño del Menor. la Familia
+T13	ORG 571 603	Consejería de Servicios Sociales
+T14	ORG 764 803	Ministerio de Trabajo. Asuntos Sociales
+T15	ORG 850 873	Consejería de Educación
+T16	MISC 955 1006	"Formación Profesional. Módulos de garantía social"
+T17	MISC 1008 1023	"Centro de Día"
+T18	MISC 1026 1040	"Observatorio"
+T19	LOC 1226 1232	España

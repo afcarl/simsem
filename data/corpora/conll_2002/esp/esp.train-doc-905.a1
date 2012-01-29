@@ -1,0 +1,62 @@
+T1	LOC 0 6	Oviedo
+T2	ORG 16 19	EFE
+T3	PER 36 55	Carlo María Martini
+T4	LOC 70 75	Milán
+T5	PER 107 123	Edward Malefakis
+T6	PER 147 161	Alain Touraine
+T7	PER 186 200	Juergen Donges
+T8	MISC 230 283	Premio Príncipe de Asturias de Ciencias Sociales 2000
+T9	LOC 312 318	Oviedo
+T10	ORG 355 385	Fundación Príncipe de Asturias
+T11	PER 483 497	Ernst Gombrich
+T12	PER 544 559	Anthony Giddens
+T13	PER 639 646	Martini
+T14	PER 961 976	Tim Berners-Lee
+T15	MISC 999 1015	"world wide web"
+T16	MISC 1032 1040	Internet
+T17	PER 1100 1115	Geoffrey Parker
+T18	PER 1146 1166	Miguel León-Portilla
+T19	ORG 1209 1218	Ejecutivo
+T20	PER 1228 1240	Manuel Fraga
+T21	ORG 1307 1324	Consejo de Estado
+T22	PER 1326 1338	Iñigo Cavero
+T23	MISC 1356 1376	Historia del Derecho
+T24	PER 1377 1400	Valentina Gómez Mampaso
+T25	PER 1419 1435	Aurelio Menéndez
+T26	PER 1437 1460	José Manuel Otero Novas
+T27	PER 1463 1482	Luis González Seara
+T28	ORG 1502 1523	Banco Central Europeo
+T29	PER 1524 1546	Eugenio Domingo Solans
+T30	MISC 1593 1600	Derecho
+T31	PER 1601 1615	Raúl Bocanegra
+T32	PER 1634 1647	Alvaro Cuervo
+T33	PER 1650 1671	Manuel Jesús González
+T34	ORG 1692 1714	Círculo de Empresarios
+T35	PER 1716 1747	Carlos Espinosa de los Monteros
+T36	ORG 1766 1770	PSOE
+T37	ORG 1777 1785	Congreso
+T38	PER 1787 1806	Luis Martínez Noval
+T39	ORG 1827 1837	Antena. TV
+T40	PER 1839 1853	José María Mas
+T41	MISC 1955 1961	Premio
+T42	MISC 2105 2130	Comunicación. Humanidades
+T43	MISC 2133 2166	Investigación Científica. Técnica
+T44	ORG 2260 2278	Fundación Príncipe
+T45	MISC 2437 2464	Premio de Ciencias Sociales
+T46	MISC 2483 2508	Comunicación. Humanidades
+T47	PER 2523 2534	Umberto Eco
+T48	MISC 2538 2571	Investigación Científica. Técnica
+T49	MISC 2617 2621	SIDA
+T50	PER 2623 2637	Luc Montagnier
+T51	PER 2640 2652	Robert Gallo
+T52	PER 2803 2812	Joan Miró
+T53	PER 2862 2874	Raymond Carr
+T54	PER 2876 2890	Jacques Santer
+T55	PER 2892 2905	Pierre Werner
+T56	PER 2907 2923	Martín de Riquer
+T57	PER 2925 2940	John H. Elliott
+T58	PER 2942 2966	Joaquim Verissimo Serrao
+T59	PER 2968 2983	Miquel Batllori
+T60	PER 2985 2998	Silvio Zavala
+T61	PER 3001 3021	Juan Velarde Fuertes
+T62	PER 3140 3152	Manuel Fraga

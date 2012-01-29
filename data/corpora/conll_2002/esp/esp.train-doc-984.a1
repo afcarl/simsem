@@ -1,0 +1,24 @@
+T1	LOC 0 6	Málaga
+T2	ORG 16 19	EFE
+T3	ORG 60 62	PP
+T4	ORG 69 91	Ayuntamiento de Málaga
+T5	ORG 135 139	PSOE
+T6	ORG 142 150	IU-LV-CA
+T7	ORG 195 204	Ferrovial
+T8	LOC 223 242	Palacio de Deportes
+T9	MISC 335 343	Hacienda
+T10	PER 345 362	Francisco Aguilar
+T11	ORG 382 412	Comisión municipal de Hacienda
+T12	ORG 420 431	Consistorio
+T13	PER 677 689	Manuel Ramos
+T14	ORG 701 704	Efe
+T15	ORG 1174 1195	Comisión de Urbanismo
+T16	LOC 1232 1239	Palacio
+T17	PER 1263 1284	Francisco De La Torre
+T18	ORG 1372 1374	IU
+T19	ORG 1399 1401	PP
+T20	ORG 1482 1494	Ayuntamiento
+T21	LOC 1565 1572	Palacio
+T22	ORG 1637 1646	Ferrovial
+T23	MISC 1761 1777	Sanidad. Consumo
+T24	PER 1779 1795	Celia Villalobos

@@ -1,0 +1,31 @@
+T1	LOC 0 11	Guadalajara
+T2	ORG 21 24	EFE
+T3	ORG 32 74	Junta de Comunidades de Castilla-La Mancha
+T4	ORG 117 133	Patronato Rector
+T5	ORG 160 204	Universidad Nacional de Educación. Distancia
+T6	ORG 206 210	UNED
+T7	LOC 215 226	Guadalajara
+T8	MISC 296 305	Educación
+T9	PER 307 320	Angel Padrino
+T10	ORG 362 366	UNED
+T11	LOC 370 381	Guadalajara
+T12	PER 383 404	Luis Rodríguez Motiño
+T13	ORG 482 491	Patronato
+T14	PER 556 572	Rodríguez Motiño
+T15	ORG 623 643	Junta de Comunidades
+T16	ORG 702 710	Gobierno
+T17	ORG 753 757	UNED
+T18	MISC 950 970	Psicología Educativa
+T19	ORG 977 1003	Centro Asociado de la UNED
+T20	LOC 1007 1018	Guadalajara
+T21	ORG 1069 1118	Delegación Provincial de Educación de Guadalajara
+T22	PER 1167 1180	Angel Padrino
+T23	MISC 1257 1265	Internet
+T24	LOC 1364 1373	Umbralejo
+T25	MISC 1395 1465	Programa de Recuperación. Utilización Educativa de Pueblos Abandonados
+T26	MISC 1467 1473	PRUEPA
+T27	ORG 1507 1535	Ministerio de Medio Ambiente
+T28	PER 1537 1544	Padrino
+T29	MISC 1626 1635	Educación
+T30	LOC 1695 1704	Umbralejo
+T31	ORG 1800 1820	Junta de Comunidades

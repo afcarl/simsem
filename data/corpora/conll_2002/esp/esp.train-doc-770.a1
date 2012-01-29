@@ -1,0 +1,27 @@
+T1	ORG 0 3	EFE
+T2	LOC 20 26	Berlín
+T3	ORG 36 39	EFE
+T4	ORG 44 52	Alemania
+T5	ORG 76 90	Estados Unidos
+T6	MISC 179 193	Copa del Mundo
+T7	LOC 233 243	Dusseldorf
+T8	PER 350 361	Thommy Haas
+T9	PER 364 380	Rainer Schüttler
+T10	PER 398 410	Pete Sampras
+T11	PER 413 425	Vince Spadea
+T12	PER 506 510	Haas
+T13	PER 521 528	Sampras
+T14	PER 795 801	Thommy
+T15	PER 903 910	Sampras
+T16	MISC 1020 1034	Rolland Garros
+T17	PER 1036 1043	Sampras
+T18	PER 1097 1101	Haas
+T19	PER 1208 1220	Pete Sampras
+T20	PER 1308 1317	Schüttler
+T21	PER 1356 1362	Spadea
+T22	ORG 1393 1401	Alemania
+T23	ORG 1485 1499	Estados Unidos
+T24	ORG 1604 1610	Suecia
+T25	ORG 1620 1630	Eslovaquia
+T26	ORG 1717 1727	Eslovaquia
+T27	ORG 1789 1797	Alemania

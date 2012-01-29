@@ -1,0 +1,21 @@
+T1	ORG 0 3	EFE
+T2	LOC 9 14	Soria
+T3	ORG 24 27	EFE
+T4	ORG 35 43	Numancia
+T5	PER 60 72	Paco Herrera
+T6	PER 139 156	Andoni Goicoetxea
+T7	PER 193 200	Herrera
+T8	ORG 217 223	Mérida
+T9	LOC 354 363	Barcelona
+T10	PER 365 372	Herrera
+T11	ORG 432 439	Badajoz
+T12	LOC 594 599	Soria
+T13	PER 659 672	Antonio Gómez
+T14	ORG 695 704	Badajoz B
+T15	ORG 744 752	Numancia
+T16	ORG 799 807	Hércules
+T17	ORG 829 837	Numancia
+T18	ORG 857 863	Mérida
+T19	PER 865 875	José Fouto
+T20	PER 999 1011	Paco Herrera
+T21	ORG 1045 1053	Numancia

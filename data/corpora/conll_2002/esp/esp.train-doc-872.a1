@@ -1,0 +1,27 @@
+T1	LOC 0 9	Barcelona
+T2	ORG 19 25	EFECOM
+T3	ORG 59 67	Gobierno
+T4	PER 69 80	Ana Botella
+T5	MISC 269 320	Congreso Internacional de Empresarias del siglo XXI
+T6	PER 370 381	Ana Botella
+T7	PER 543 559	José María Aznar
+T8	PER 859 868	Josep Pla
+T9	MISC 1087 1098	Gobernación
+T10	PER 1100 1125	Josep Antoni Duran LLeida
+T11	PER 1375 1380	Duran
+T12	ORG 1584 1605	Instituto de la Mujer
+T13	ORG 1623 1662	Ministerio de Trabajo. Asuntos Sociales
+T14	PER 1664 1682	María Pilar Dávila
+T15	ORG 1957 2005	Fundación Internacional de la Mujer Emprendedora
+T16	PER 2007 2019	Anna Mercadé
+T17	ORG 2313 2324	Pimec-Sefes
+T18	PER 2326 2340	Josep González
+T19	LOC 2434 2442	Cataluña
+T20	ORG 2554 2562	Gobierno
+T21	ORG 2602 2701	Federación Española, Catalana. de Barcelona de la Asociación de Familiares de enfermos de Alzheimer
+T22	MISC 2746 2788	"Un enfermo de Alzheimer se ha extraviado"
+T23	PER 3078 3094	Dolors Monserrat
+T24	ORG 3123 3133	Parlamento
+T25	ORG 3141 3143	PP
+T26	MISC 3190 3199	Alzheimer
+T27	PER 3222 3238	José María Aznar

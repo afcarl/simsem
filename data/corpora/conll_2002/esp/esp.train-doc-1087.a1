@@ -1,0 +1,17 @@
+T1	LOC 12 22	Washington
+T2	ORG 32 35	EFE
+T3	ORG 70 99	Fondo Monetario Internacional
+T4	ORG 101 104	FMI
+T5	PER 107 120	Horst Koehler
+T6	LOC 147 151	Asia
+T7	PER 307 314	Koehler
+T8	PER 337 353	Michel Camdessus
+T9	LOC 395 408	Latinoamérica
+T10	ORG 413 416	FMI
+T11	LOC 508 517	Tailandia
+T12	LOC 519 524	China
+T13	LOC 526 539	Corea del Sur
+T14	LOC 541 550	Indonesia
+T15	LOC 553 558	India
+T16	PER 571 578	Koehler
+T17	ORG 776 791	Fondo Monetario

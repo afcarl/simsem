@@ -1,0 +1,26 @@
+T1	LOC 0 9	Santander
+T2	ORG 19 22	EFE
+T3	LOC 44 50	España
+T4	LOC 53 60	Francia
+T5	LOC 234 243	Perpignan
+T6	LOC 246 254	Figueras
+T7	LOC 278 295	túnel del Somport
+T8	PER 376 389	Lionel Jospin
+T9	PER 436 460	Francisco Alvarez Cascos
+T10	PER 463 482	Jean Claude Gayssot
+T11	ORG 515 542	Comisión Intergubernamental
+T12	LOC 631 642	La Rochelle
+T13	PER 660 666	Jospin
+T14	ORG 829 837	Comisión
+T15	MISC 929 945	Cumbre Bilateral
+T16	MISC 1178 1186	Gobierno
+T17	PER 1188 1204	José María Aznar
+T18	PER 1433 1439	Jospin
+T19	LOC 1765 1772	Francia
+T20	LOC 1926 1946	túnel del Mont Blanc
+T21	MISC 1968 1979	Generalitat
+T22	PER 1981 1992	Jordi Pujol
+T23	MISC 2010 2019	Barcelona
+T24	PER 2021 2030	Joan Clos
+T25	ORG 2093 2101	Gobierno
+T26	MISC 2144 2147	AVE

@@ -1,0 +1,47 @@
+T1	LOC 37 46	Frankrijk
+T2	LOC 48 59	Zwitserland
+T3	LOC 63 72	Nederland
+T4	LOC 86 93	Libanon
+T5	PER 95 107	Eric Ericson
+T6	PER 109 121	Paul Hillier
+T7	PER 123 136	Robin Gritton
+T8	PER 140 155	Kaspars Putnins
+T9	MISC 295 302	Leuvens
+T10	ORG 376 395	Vlaams Radio Orkest
+T11	ORG 403 420	Vlaams Radio Koor
+T12	PER 634 649	Philippe Auguin
+T13	PER 651 663	Sian Edwards
+T14	PER 665 678	Bjarte Engese
+T15	PER 682 698	Michiyoshi Inoue
+T16	LOC 751 757	Leuven
+T17	LOC 759 766	Brussel
+T18	LOC 768 772	Gent
+T19	LOC 776 785	Roeselare
+T20	LOC 794 801	Hasselt
+T21	LOC 849 855	Brugge
+T22	LOC 857 866	Antwerpen
+T23	LOC 868 872	Gent
+T24	LOC 876 882	Leuven
+T25	LOC 903 909	Leuven
+T26	MISC 1114 1123	Morgenrot
+T27	PER 1128 1139	Piet Swerts
+T28	MISC 1141 1154	Winds of Dawn
+T29	PER 1159 1171	Roland Coryn
+T30	MISC 1177 1203	Concerto voor hobo en koor
+T31	PER 1208 1216	Vic Nees
+T32	PER 1243 1257	Leif Segerstam
+T33	ORG 1465 1484	Vlaams Radio Orkest
+T34	ORG 1486 1491	Belga
+T35	ORG 1702 1711	De Morgen
+T36	MISC 1728 1735	Cultuur
+T37	MISC 1776 1794	Stravinsky-project
+T38	PER 1814 1820	Mahler
+T39	PER 1822 1829	Poulenc
+T40	PER 1831 1838	Debussy
+T41	PER 1840 1845	Ravel
+T42	PER 1847 1852	Grieg
+T43	PER 1885 1890	Zappa
+T44	PER 1894 1903	Bernstein
+T45	MISC 1962 1985	Festival van Vlaanderen
+T46	LOC 2112 2118	Leuven
+T47	MISC 2141 2153	Philips-site
