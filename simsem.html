@@ -49,8 +49,6 @@
             }
         </style>
 
-        <!-- Sorry, I can't code Javascript properly without JQuery -->
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script type="text/javascript">
             //<![CDATA[
             var typeByText = {};
@@ -83,23 +81,17 @@
                 'rab',
                 'zab',
                 ];
+            // Element short-hands, will be set in main
+            var inputElem;
+            var outputElem;
 
             function choice(vec) {
                 return vec[Math.floor(Math.random() * vec.length)];
             };
 
-            var firstOnFocus = false;
-            function inputOnFocus() {
-                if (!firstOnFocus) {
-                    // Clear the input box
-                    $('#input').val('');
-                    firstOnFocus = true;
-                };
-            };
-
             function inputOnKeyUp() {
                 // Split the input by lines
-                var lines = $('#input').val().replace(/(\r\n|\r)/gm, '\n'
+                var lines = inputElem.value.replace(/(\r\n|\r)/gm, '\n'
                         ).split('\n');
                 // Build the display output
                 output = '';
@@ -136,9 +128,19 @@
                         + ';">' + line + ' (' + type + ')</span>\n';
                 };
 
-                $('#output').empty();
-                $('#output').append(output);
+                outputElem.innerHTML = output;
             };
+
+            function main () {
+                // Short-hands
+                inputElem = document.getElementById('input');
+                outputElem = document.getElementById('output');
+
+                // Insert the hook(s) our program needs
+                inputElem.onkeyup = inputOnKeyUp;
+            };
+
+            window.onload = main;
             //]]>
         </script>
     </head>
@@ -154,10 +156,8 @@
 
         <div id="io">
             <textarea id="input"
-                onclick="inputOnFocus();"
-                onkeyup="inputOnKeyUp();"
-                >Input a string per-line here...</textarea><div id="output"
-                ></div>
+                placeholder="Input one string per line here..."></textarea>
+            <div id="output"></div>
         </div>
     </body>
 </html>
