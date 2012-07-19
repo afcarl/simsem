@@ -7,4 +7,4 @@ pygments:   true
 safe:       true
 server:     true
 
-exclude: CNAME LICENSE favicon.svg simsem.coffee
+exclude: CNAME LICENSE favicon.svg
