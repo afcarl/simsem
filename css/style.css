@@ -1,0 +1,41 @@
+/**
+ * Style for the main SimSem homepage.
+ *
+ * Author:      Pontus Stenetorp    <pontus stenetorp se>
+ * Version:     2012-07-19
+ */
+
+body {
+    background:     #ffffff;
+    border:         0;
+    font-family:    'Istok Web', serif;
+    font-size:      16px;
+    margin-top:     25px;
+    margin-bottom:  25px;
+    margin-right:   50px;
+    margin-left:    50px;
+    min-width:      700px;
+    padding:        0;
+    width:          100%;
+}
+
+/* Preserve newlines for the BibTeX */
+#publication code {
+    white-space:    pre;
+}
+
+/* SimSem Application, synchronise with the embedded frame */
+#simsem_app {
+    padding:    1em;
+}
+
+#simsem_app iframe {
+    height:     100%;
+    width:      100%;
+    border:     0;
+    /* The two values below need to match */
+    height      400px;
+    min-height: 400px;
+    width:      100%;
+    min-width:  400px;
+}
