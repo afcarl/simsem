@@ -8,32 +8,87 @@
         </title>
         <meta http-equiv="Content-Type"
             content="application/xhtml+xml; charset=utf-8"/>
-        <link href='http://fonts.googleapis.com/css?family=Istok+Web'
-            rel='stylesheet' type='text/css'/>
+        <link href='http://fonts.googleapis.com/css?family=PT+Mono'
+            rel='stylesheet' type='text/css'>
 
         <style media="screen" type="text/css">
             body {
-                background:     #ffffff;
-                font-family:    'Istok Web', serif;
-                font-size:      16px;
-                text-align:     center;
                 border:         0;
                 margin:         0;
                 padding:        0;
-                height          400px;
-                min-height:     400px;
-                width           400px;
-                min-width:      400px;
+                height          300px;
+                min-height:     300px;
+                width           600px;
+                min-width:      600px;
+            }
+
+            #io {
+                margin: auto;
+                width: 600px;
+            }
+
+            #io textarea, #io div {
+                font-family:    'PT Mono', sans-serif;
+                font-size:      12px;
+                /* Padding between border and text */
+                padding:        2px;
+                float:          left;
+                width:          285px;
+                height:         300px;
+            }
+
+            #input {
+                margin-right:   10px;
+                resize:         none;
+                overflow:       hidden;
+            }
+
+            #output {
+                margin-left:    10px;
+                border:         1px solid black;
+                margin:         0;
+                white-space:    pre-wrap;
             }
         </style>
 
+        <!-- Sorry, I can't code Javascript properly without JQuery -->
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script type="text/javascript">
             function simsem () {
                 //TODO:
             };
+
+            var firstOnFocus = false;
+            function inputOnFocus() {
+                if (!firstOnFocus) {
+                    // Clear the input box
+                    $('#input').val('');
+                    firstOnFocus = true;
+                };
+            };
+
+            function inputOnKeyUp() {
+                // TODO: colourise etc.
+                $('#output').text($('#input').val());
+            };
         </script>
     </head>
     <body onload="simsem()">
-        Work in progress here... should be a live demo shortly, no, really!
+        <noscript>
+            <div id="noscript">
+                It appears that you have Javascript disabled, while this is a
+                sane default it makes an interactive demo slightly difficult
+                to carry out (if not impossible). Please consider enabling
+                Javascript for this page to try out the demo.
+            </div>
+        </noscript>
+
+        <div id="io">
+            <textarea id="input"
+                onclick="inputOnFocus();"
+                onkeyup="inputOnKeyUp();"
+                >Input a string per-line here...</textarea><div id="output"
+                ></div>
+        </div>
     </body>
 </html>
