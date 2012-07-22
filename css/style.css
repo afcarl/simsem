@@ -30,6 +30,8 @@ a:hover, a:active {
 /* Preserve newlines for the BibTeX */
 #publication code {
     white-space:    pre;
+    font-family:    'PT Mono', sans-serif;
+    font-size:      12px;
 }
 
 /* SimSem Application, synchronise with the embedded frame */
