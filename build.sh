@@ -18,6 +18,7 @@ cd ${ARCH_DIR} && rm -rf ${LIBLINEAR} && tar xfz ${LIBLINEAR}.tar.gz && \
 #   https://github.com/chokkan/simstring/pull/4
 cd ${ARCH_DIR} && rm -rf ${SIMSTRING} && tar xfz ${SIMSTRING}.tar.gz && \
     cd ${SIMSTRING} && ./configure && make && cd swig/python && \
-    ./prepare.sh && python setup.py build_ext --inplace && \
-    python -c 'import simstring'
+    ./prepare.sh && sed -i export_wrap.cpp \
+    -e 's|\(#include <Python.h>\)|\1\n#include <cstddef>|g' \
+    && python setup.py build_ext --inplace && python -c 'import simstring'
 )
