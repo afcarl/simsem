@@ -11,8 +11,9 @@ DB_DIR:=../dbs
 DATA_DIR:=simsem_lexical_resources
 
 RES_ARCH=simsem_lexical_resources_2011-07-27T1054Z.tar.gz
-RES_URL_ONE=http://www-tsujii.is.s.u-tokyo.ac.jp/~pontus/share/simsem/
+RES_URL_ONE=http://www.eidos.ic.i.u-tokyo.ac.jp/~pontus/share/simsem/
 RES_URL_TWO=http://udon.stacken.kth.se/~ninjin/share/simsem/
+RES_URL_THREE=http://weaver.nlplab.org/~ninjin/share/simsem/
 
 DB_SUFF:=db
 # Additional "support" databases created by SimString
@@ -46,7 +47,7 @@ ${foreach TOKENISED_RESOURCE, \
 ext_res: ${RES_ARCH}
 
 ${RES_ARCH}:
-	wget ${RES_URL_ONE}/${RES_ARCH} || wget ${RES_URL_TWO}/${RES_ARCH}
+	wget ${RES_URL_ONE}/${RES_ARCH} || wget ${RES_URL_TWO}/${RES_ARCH} || wget ${RES_URL_THREE}/${RES_ARCH}
 	tar -x -z -m -f ${RES_ARCH}
 
 all: ${DB_TARGETS}
